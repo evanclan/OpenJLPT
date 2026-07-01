@@ -1,0 +1,1785 @@
+word,reading,meanings,level
+アイスクリーム,,ice cream,N3
+あいにく,,unfortunately; Sorry; but....,N3
+アイロン,,(electric) iron,N3
+アウト,,out,N3
+あした,,tomorrow,N3
+あちこち,,here and there,N3
+あっ,,Ah!; Oh!,N3
+あと,,(1) trace; tracks; (2) remains; ruins; (3) scar,N3
+あらゆる,,all; every,N3
+ありがとう,,(conj; exp; int) Thank you,N3
+あるいは,,or; possibly,N3
+アルバム,,album,N3
+あんなに,,to that extent; to that degree,N3
+あんまり,,not very; not much; remainder; rest,N3
+いい,,good,N3
+いえ,いえ,TODO same as いいえ?,N3
+いけない,,must not do; bad; wrong; not good,N3
+いずれ,,where; which; who,N3
+いたずら,,tease; prank; trick; practical joke,N3
+いただきます,,expression of gratitude before meals,N3
+いち,,market; fair,N3
+いつか,,sometime; someday; one day,N3
+いつでも,,(at) any time; always; at all times; never (neg),N3
+いつまでも,,forever; for good; eternally; as long as one likes; indefinitely,N3
+いつも,いつも,always; usually; every time; never (with neg. verb),N3
+いらいら,,getting nervous; irritation,N3
+いらっしゃい,,welcome,N3
+いわゆる,,the so-called; so to speak,N3
+インク,,ink,N3
+ウイスキー,,whisky,N3
+うがい,,gargle; rinse mouth,N3
+うなる,,to groan; to moan,N3
+うまい,うまい,delicious,N3
+うるさい,,noisy; loud; fussy,N3
+うん,（感）,fortune; luck,N3
+エネルギー,,(n) energy (de: Energie),N3
+エンジン,,engine,N3
+オーバー,,(1) overcoat; (2) over,N3
+おじいさん,,grandfather; male senior-citizen,N3
+おしゃべり,,chattering; talk; idle talk,N3
+おそらく,,perhaps,N3
+オフィス,,office,N3
+おまえ,,(fam) you (sing); presence (of a high personage),N3
+おめでとう,,Congratulations!; an auspicious occasion!,N3
+おや,,parents,N3
+およそ,,about; roughly; as a rule; approximately,N3
+お互い,おたがい,mutual; reciprocal; each other,N3
+お昼,おひる,lunch; noon,N3
+お腹,おなか,stomach,N3
+カー,,car,N3
+カード,,card; curd,N3
+がっかり,,feel disappointed; be dejected; lose heart,N3
+かなり,,considerably; fairly; quite,N3
+かもしれない,,may; might; perhaps; may be; possibly,N3
+かわいそう,,poor; pitiable; pathetic,N3
+かわいらしい,,lovely; sweet,N3
+きちんと,,precisely; accurately,N3
+きつい,,tight; close; intense,N3
+キャプテン,,captain,N3
+キャンプ,,camp,N3
+キロ,,(abbr) kilo-; kilogram; kilometre; 10^3,N3
+ぐっすり,,sound asleep; fast asleep,N3
+クラシック,,classic(s),N3
+グラス,,(1) glass; (2) grass,N3
+グランド,,gland; grand; (electrical) ground,N3
+クリーム,,cream,N3
+クリスマス,,Christmas,N3
+グループ,,group,N3
+ケース,,case,N3
+ゲーム,,game,N3
+けち,,stinginess; miser; miserliness,N3
+コーチ,,coach,N3
+コード,,code; cord; chord,N3
+ゴール,,goal,N3
+ここ,ここ,here,N3
+この,この,this,N3
+コピー,,(1) a (photo)copy; (2) blurb on a book jacket,N3
+ごめんなさい,,I beg your pardon; excuse me,N3
+これら,,these,N3
+こんなに,,so; like this; in this way,N3
+こんにちは,,hello; good day (daytime greeting; id),N3
+コンピューター,,computer,N3
+サービス,,(1) service; support system; (2) goods or services without charge,N3
+サイン,,(1) autograph; (2) sign; (3) sine,N3
+ざっと,,roughly; in round numbers,N3
+さっぱり,,feeling refreshed; feeling relieved; neat; trimmed,N3
+さて,,well; now; then,N3
+ジーンズ,,jeans,N3
+ジェット機,ジェットき,jet aeroplane,N3
+しかも,,moreover; furthermore; nevertheless; and yet,N3
+しきりに,,frequently; repeatedly; incessantly; eagerly,N3
+したがって,したがって,therefore; consequently; in accordance with,N3
+じっと,,fixedly; firmly; patiently; quietly,N3
+しばしば,,often; again and again; frequently,N3
+しまい,（終わり）,sisters,N3
+しまう,（終わる）,to finish; to close; to do something completely,N3
+しまった,（感）,Damn it!,N3
+じゃあ,,well; well then,N3
+しゃべる,,to talk; to chat; to chatter,N3
+ジュース,,juice; soft drink; deuce,N3
+スイッチ,,switch,N3
+スープ,,(Western) soup,N3
+スキー,,skiing,N3
+スケート,,skate(s); skating,N3
+すごい,,terrible; dreadful; terrific; amazing; great,N3
+スター,,star,N3
+スタイル,,style,N3
+スタンド,,stand,N3
+ずっと,,consecutively; throughout; a lot,N3
+すてき,,lovely; dreamy; beautiful; great,N3
+すなわち,,that is; namely; i.e.,N3
+スピーチ,,speech,N3
+すみません,（感）,sorry; excuse me,N3
+すると,すると,thereupon; hereupon,N3
+セット,,set,N3
+センター,,a center,N3
+そう,そう,so,N3
+そこ,そこ,bottom; sole,N3
+そこで,,so (conj); accordingly; now; then; thereupon,N3
+そして,,and,N3
+そっくり,,all; altogether; entirely; be just like; the splitting image of,N3
+そっと,,face of the earth,N3
+その,その,the; that,N3
+そのうち,,eventually; sooner or later; of the previously mentioned,N3
+そのまま,,without change; as it is (i.e. now),N3
+ソファー,,sofa; couch,N3
+それ,（接。感）,it; that,N3
+それぞれ,,each; every; either; respectively; severally,N3
+それでも,,but (still); and yet; nevertheless; even so; notwithstanding,N3
+それとも,,or; or else,N3
+タイプライター,,typewriter,N3
+ダイヤ,,(1) dyer; (2) diagram; (3) (railway) schedule; (4) diamond,N3
+タオル,,(hand) towel,N3
+だから,だから,so; therefore,N3
+だけど,,however,N3
+ただ,,free of charge; mere; only,N3
+だって,,but; because; even; also; too,N3
+たっぷり,,full; in plenty; ample,N3
+たとえ,,simile; metaphor; allegory,N3
+たびたび,,often; repeatedly; frequently,N3
+たまらない,,intolerable; unbearable; unendurable,N3
+ダンス,,dance,N3
+チーズ,,cheese,N3
+チーム,,team,N3
+チャンス,,chance; opportunity,N3
+ちゃんと,,perfectly; properly; exactly,N3
+ちょうだい,,(1) please do for me (preceded by -te); (2) reception; being given; get,N3
+つまり,,in short; in brief; in other words,N3
+で,,outflow; coming (going) out; graduate (of),N3
+デート,,date; go on a date,N3
+できる,（可能。出現。発生）,to be able to; to be ready; to occur,N3
+ですから,,therefore,N3
+では,では,chance of going out; opportunity (to succeed); moment of departure; beginning of work,N3
+デモ,,(abbr) demo; demonstration,N3
+でも,でも,but; however,N3
+テント,,tent,N3
+どう,（接。副）,child; servant; foolishness,N3
+どうか,,copper coin,N3
+どうしても,,by all means; at any cost; no matter what,N3
+どこか,,somewhere; anywhere,N3
+ところが,,however; while; even if,N3
+ところで,,by the way; even if; no matter what,N3
+トップ,,top,N3
+とにかく,,anyhow; at any rate; anyway; somehow or other; generally speaking; in any case,N3
+ドライブ,,drive; trip by car; driving,N3
+トラック,,(1) truck; (2) (running) track,N3
+ドラマ,,drama,N3
+トランプ,,playing cards (lit: trump),N3
+どれ,どれ,well; now; let me see; which (of three or more),N3
+ドレス,,dress,N3
+とん,（1000,ton,N3
+とんでもない,,unexpected; offensive; What a thing to say!; No way!,N3
+どんな,,what; what kind of,N3
+どんなに,,how; how much,N3
+トンネル,,tunnel,N3
+なお,,straight; mischief; ordinary; common,N3
+なかなか,,very; considerably; easily,N3
+なぜなら,,because,N3
+なにも,,nothing,N3
+にっこり,,smile sweetly; smile; grin,N3
+ね,（感）,value; price; cost; worth; merit,N3
+ノック,,(1) knock; (2) fungo (baseball),N3
+のんびり,,carefree; at leisure,N3
+パーセント,,percent,N3
+はい,（感）,wear; put on (sword),N3
+バイオリン,,violin,N3
+ハイキング,,hiking,N3
+パイプ,,(1) pipe; tube; (2) channels; official or otherwise,N3
+パイロット,,pilot,N3
+はさみ,,scissors,N3
+パス,,path; pass (in games),N3
+パスポート,,passport,N3
+バッグ,,bag; bug,N3
+ばったり,,with a clash (thud); with a bang; plump; flop,N3
+バン,,bun; van (caravan); VAN (value-added network),N3
+ハンサム,,handsome,N3
+ビール,,beer,N3
+ピクニック,,picnic,N3
+びっくり,,be surprised; be amazed; be frightened; astonishment,N3
+ぴったり,,exactly; neatly; sharp,N3
+ビデオ,,video,N3
+ピン,,pin,N3
+ふと,（副）,suddenly; casually; accidentally; incidentally; unexpectedly; unintentionally,N3
+プラス,,plus,N3
+プラン,,plan,N3
+ブレーキ,,a brake,N3
+プロ,,professional,N3
+ベルト,,Belt for western clothes,N3
+ペンキ,,(n) paint (nl: pek),N3
+ベンチ,,bench,N3
+ボーイ,,boy,N3
+ボート,,rowing boat,N3
+ホーム,,(1) platform; (2) home,N3
+ボール,,ball; bowl,N3
+ほぼ,,almost; roughly; approximately,N3
+ぼんやり,,absent-minded; block-head; dim; faint; vague,N3
+まあ,,(female) you might say,N3
+マーケット,,market,N3
+マイク,,mike,N3
+まさか,,by no means,N3
+まさに,,correctly; surely,N3
+マスター,,proprietor; manager; barowner; master (e.g. arts; science),N3
+ますます,,increasingly; more and more,N3
+ママ,,Mama,N3
+まるで,,quite; entirely; completely,N3
+ミス,,miss (mistake; error; failure); Miss,N3
+ミルク,,milk,N3
+メモ,,memorandum,N3
+メンバー,,member,N3
+もしも,,if,N3
+やがて,,before long; soon; at length,N3
+やはり,,also; as I thought; still; in spite of; absolutely; of course,N3
+やや,,a little; partially; somewhat; a short time; a while,N3
+ユーモア,,humor,N3
+ゆっくり,,slowly; at ease,N3
+よい,,good; nice; pleasant; ok,N3
+ヨーロッパ,,Europe,N3
+ヨット,,yacht,N3
+より,,twist; ply,N3
+よると,,according to,N3
+よろしく,（感）,well; properly; suitably; best regards; please remember me,N3
+ライター,,lighter; rider; writer,N3
+ラケット,,paddle; racket,N3
+レポート,,report; paper,N3
+ロケット,,locket; rocket,N3
+ワイン,,wine,N3
+わがまま,,selfishness; egoism; wilfulness; disobedience; whim,N3
+わざと,,on purpose,N3
+哀れ,あわれ,helpless; pity; sorrow; grief,N3
+愛,あい,love,N3
+愛する,あいする,to love,N3
+愛情,あいじょう,love; affection,N3
+挨拶,あいさつ,greeting; salutation,N3
+悪口,わるくち,abuse; insult; slander; evil speaking,N3
+悪魔,あくま,devil; demon; evil spirit,N3
+握る,にぎる,to grasp; to seize; to mould sushi,N3
+握手,あくしゅ,handshake,N3
+扱う,あつかう,to handle; to deal with; to treat,N3
+或,ある,a certain...; some...,N3
+安定,あんてい,stability; equilibrium,N3
+暗記,あんき,memorization; learning by heart,N3
+案,あん,plan; suffix meaning draft,N3
+案内,あんない,information; guidance; leading,N3
+以前,いぜん,ago; since; before; previous,N3
+以来,いらい,since; henceforth,N3
+位,くらい,grade; rank; about,N3
+位置,いち,place; situation; position; location,N3
+依頼,いらい,(1) request; commission; dispatch; (2) dependence; trust,N3
+偉大,いだい,greatness,N3
+囲む,かこむ,to surround; to encircle,N3
+委員,いいん,committee member,N3
+意外,いがい,unexpected; surprising,N3
+意志,いし,will; volition,N3
+意思,いし,intention; purpose,N3
+意識,いしき,consciousness; senses,N3
+椅子,いす,chair,N3
+為る,する,to change; to be of use; to reach to,N3
+異なる,ことなる,to differ; to vary; to disagree,N3
+異常,いじょう,strangeness; abnormality; disorder,N3
+移す,うつす,to remove; to transfer; to infect,N3
+移動,いどう,removal; migration; movement,N3
+維持,いじ,maintenance; preservation,N3
+胃,い,stomach,N3
+衣服,いふく,clothes,N3
+違い,ちがい,difference; discrepancy,N3
+違いない,ちがいない,(phrase) sure; no mistaking it; for certain,N3
+違反,いはん,violation (of law); transgression; infringement; breach,N3
+医師,いし,doctor; physician,N3
+医療,いりょう,medical care; medical treatment,N3
+育つ,そだつ,to raise (child); to be brought up; to grow (up),N3
+一家,いっか,a house; a home; a family; a household,N3
+一言,ひとこと,single word,N3
+一時,いちじ,moment; time,N3
+一種,いっしゅ,a species; a kind; a variety,N3
+一瞬,いっしゅん,a moment; an instant,N3
+一人一人,ひとりひとり,one by one; each; one at a time,N3
+一生,いっしょう,whole life; a lifetime; all through life,N3
+一層,いっそう,much more; still more; all the more,N3
+一体,いったい,(1) one object; one body; (2) what on earth?; really?; (3) generally,N3
+一致,いっち,(1) coincidence; agreement; (2) conformity,N3
+一度に,いちどに,all at once,N3
+一般,いっぱん,general; liberal; universal; ordinary; average,N3
+一番,いちばん,best; first; number one,N3
+一方,いっぽう,(1) on the other hand; (2) meanwhile; (3) only; simple; in turn,N3
+稲,いね,rice-plant,N3
+印,しるし,(1) mark; (2) symbol; (3) evidence,N3
+印刷,いんさつ,printing,N3
+印象,いんしょう,impression,N3
+引っ張る,ひっぱる,(1) to pull; to draw; to stretch; to drag; (2) to pull the ball (baseball),N3
+引退,いんたい,retire,N3
+引用,いんよう,quotation; citation,N3
+陰,かげ,shade; shadow; other side,N3
+隠す,かくす,to hide; to conceal,N3
+隠れる,かくれる,to hide; to be hidden; to conceal oneself; to disappear,N3
+宇宙,うちゅう,universe; cosmos; space,N3
+羽,はね,counter for birds; counter for rabbits,N3
+嘘,うそ,lie; falsehood; incorrect fact; inappropriate,N3
+噂,うわさ,rumour; report; gossip; common talk,N3
+運,うん,fortune; luck,N3
+運転,うんてん,operation; motion; driving,N3
+運動,うんどう,motion; exercise,N3
+餌,えさ,feed; bait,N3
+営業,えいぎょう,business; trade; management,N3
+影,かげ,shade; shadow; other side,N3
+影響,えいきょう,influence; effect,N3
+栄養,えいよう,nutrition; nourishment,N3
+永遠,えいえん,eternity; perpetuity; immortality; permanence,N3
+永久,えいきゅう,eternity; perpetuity; immortality,N3
+泳ぎ,およぎ,swimming,N3
+衛星,えいせい,satellite,N3
+鋭い,するどい,pointed; sharp,N3
+越える,こえる,to exceed; to cross over; to cross,N3
+越す,こす,to go over (e.g. with audience),N3
+円,えん,circle; money,N3
+延期,えんき,postponement; adjournment,N3
+援助,えんじょ,assistance; aid; support,N3
+演技,えんぎ,acting; performance,N3
+演説,えんぜつ,speech; address,N3
+演奏,えんそう,musical performance,N3
+炎,ほのお,flame,N3
+煙,けむり,smoke; fumes,N3
+猿,さる,monkey,N3
+縁,ふち,a means; e.g. of living,N3
+遠慮,えんりょ,diffidence; restraint; reserve,N3
+汚染,おせん,pollution; contamination,N3
+奥,おく,interior; inner part,N3
+応じる,おうじる,to respond; to satisfy; to accept; to comply with; to apply for,N3
+横切る,よこぎる,to cross (e.g. arms); to traverse,N3
+横断,おうだん,crossing,N3
+王,おう,king; ruler; sovereign; monarch,N3
+王子,おうじ,prince,N3
+王様,おうさま,king,N3
+沖,おき,open sea,N3
+屋根,やね,roof,N3
+恩,おん,favour; obligation; debt of gratitude,N3
+温暖,おんだん,warmth,N3
+温度,おんど,temperature,N3
+穏やか,おだやか,calm; gentle; quiet,N3
+音,おん,sound; note,N3
+下,げ,under; below; beneath,N3
+下さる,くださる,(hon) to give; to confer,N3
+下す,おろす,to lower; to let go down,N3
+下り,くだり,down-train (going away from Tokyo),N3
+化学,かがく,chemistry,N3
+化粧,けしょう,make-up (cosmetic),N3
+何,なに,what,N3
+何か,なにか,something,N3
+何で,なんで,Why?; What for?,N3
+何でも,なんでも,by all means; everything,N3
+何とか,なんとか,somehow; anyhow; one way or another,N3
+価格,かかく,price; value; cost,N3
+価値,かち,value; worth; merit,N3
+加える,くわえる,to append; to sum up; to add (up),N3
+加わる,くわわる,to join in; to accede to; to increase; to gain in (influence),N3
+加減,かげん,addition and subtraction; allowance for,N3
+可,か,passable,N3
+可能,かのう,possible; practicable; feasible,N3
+嫁,よめ,bride; daughter-in-law,N3
+家具,かぐ,furniture,N3
+家事,かじ,housework; domestic chores,N3
+家賃,やちん,rent,N3
+科目,かもく,(school) subject; curriculum; course,N3
+歌手,かしゅ,singer,N3
+河,かわ,river; stream,N3
+火災,かさい,conflagration; fire,N3
+火曜,かよう,(abbr) Tuesday,N3
+稼ぐ,かせぐ,to earn income; to labor,N3
+菓子,かし,pastry,N3
+課,か,counter for chapters (of a book),N3
+過ごす,すごす,to pass; to spend; to go through; to tide over,N3
+過去,かこ,the past; bygone days; the previous,N3
+我々,われわれ,we,N3
+我慢,がまん,patience; endurance; perseverance,N3
+画家,がか,painter; artist,N3
+芽,め,sprout,N3
+会,かい,meeting; assembly; party; association; club,N3
+会員,かいいん,member; the membership,N3
+会計,かいけい,account; finance; accountant,N3
+会合,かいごう,meeting; assembly,N3
+解く,とく,to unfasten,N3
+解ける,とける,to come untied; to come apart,N3
+解決,かいけつ,settlement; solution; resolution,N3
+解釈,かいしゃく,explanation; interpretation,N3
+回,かい,counter for occurrences,N3
+回す,まわす,to turn; to revolve,N3
+回り,まわり,circumference; surroundings; circulation,N3
+回復,かいふく,recovery (from illness); improvement; rehabilitation; restoration,N3
+快適,かいてき,pleasant; agreeable; comfortable,N3
+怪我,けが,injury (to animate object); hurt,N3
+改善,かいぜん,betterment; improvement,N3
+海外,かいがい,foreign; abroad; overseas,N3
+灰,はい,ash,N3
+皆,みんな,all; everyone; everybody,N3
+絵画,かいが,picture,N3
+開始,かいし,start; commencement; beginning,N3
+外,ほか,other place; the rest,N3
+外す,はずす,to unfasten; to remove,N3
+外交,がいこう,diplomacy,N3
+外出,がいしゅつ,outing; going out,N3
+咳,せき,cough,N3
+害,がい,injury; harm; evil influence; damage,N3
+街,まち,(1) town; (2) street; road,N3
+拡大,かくだい,magnification; enlargement,N3
+格好,かっこう,shape; form; posture; suitability,N3
+確かめる,たしかめる,to ascertain,N3
+確実,かくじつ,certainty; reliability; soundness,N3
+確認,かくにん,affirmation; confirmation,N3
+覚ます,さます,to awaken,N3
+覚める,さめる,to wake; to wake up,N3
+覚悟,かくご,resolution; resignation; readiness; preparedness,N3
+角,すみ,horn,N3
+革,かわ,leather,N3
+学,がく,learning; scholarship; erudition; knowledge,N3
+学ぶ,まなぶ,to study (in depth); to learn; to take lessons in,N3
+学期,がっき,term (school),N3
+学者,がくしゃ,scholar,N3
+学習,がくしゅう,study; learning,N3
+学問,がくもん,scholarship; study; learning,N3
+楽,らく,comfort; ease,N3
+額,がく,forehead; brow,N3
+掛かる,かかる,to take (e.g. time; money; etc); to hang,N3
+割る,わる,to divide; to cut; to break; to halve,N3
+活気,かっき,energy; liveliness,N3
+活動,かつどう,action; activity,N3
+活用,かつよう,conjugation; practical use,N3
+株,かぶ,share; stock; stump (of tree),N3
+刈る,かる,to cut (hair); to mow (grass); to harvest,N3
+勘,かん,perception; intuition; the sixth sense,N3
+勘定,かんじょう,calculation; counting; consideration,N3
+勧める,すすめる,to recommend; to advise; to encourage; to offer (wine),N3
+完成,かんせい,(1) complete; completion; (2) perfection; accomplishment,N3
+完全,かんぜん,perfection; completeness,N3
+完了,かんりょう,completion; conclusion,N3
+患者,かんじゃ,a patient,N3
+感じ,かんじ,feeling; sense; impression,N3
+感じる,かんじる,to feel; to sense; to experience,N3
+感覚,かんかく,sense; sensation,N3
+感謝,かんしゃ,thanks; gratitude,N3
+感情,かんじょう,emotion(s); feeling(s); sentiment,N3
+感心,かんしん,admiration; Well done!,N3
+感動,かんどう,being deeply moved; excitement; impression; deep emotion,N3
+換える,かえる,to exchange; to interchange; to substitute; to replace,N3
+歓迎,かんげい,welcome; reception,N3
+汗,あせ,sweat; perspiration,N3
+環境,かんきょう,environment; circumstance,N3
+監督,かんとく,supervision; control; superintendence,N3
+管,くだ,pipe; tube,N3
+管理,かんり,control; management (e.g. of a business),N3
+缶,かん,can; tin,N3
+観客,かんきゃく,audience; spectator(s),N3
+観光,かんこう,sightseeing,N3
+観察,かんさつ,observation; survey,N3
+間,ま,space; room; time; pause,N3
+間違い,まちがい,mistake,N3
+関する,かんする,to concern; to be related,N3
+関心,かんしん,concern; interest,N3
+関連,かんれん,relation; connection; relevance,N3
+丸,まる,circle; full (month); perfection; purity; suffix for ship names,N3
+丸い,まるい,round; circular; spherical,N3
+含む,ふくむ,to hold in the mouth; to bear in mind,N3
+岸,きし,bank; coast; shore,N3
+岩,いわ,rock; crag,N3
+願い,ねがい,desire; wish; request,N3
+願う,ねがう,to desire; to wish; to request,N3
+企業,きぎょう,enterprise; undertaking,N3
+喜び,よろこび,(a) joy; (a) delight; rapture; pleasure; gratification; rejoicing; congratulations; felicitations,N3
+器用,きよう,skillful; handy,N3
+基,もと,basis,N3
+基づく,もとづく,to be grounded on; to be based on; to be due to; to originate from,N3
+基本,きほん,foundation; basis; standard,N3
+奇妙,きみょう,strange; queer; curious,N3
+嬉しい,うれしい,happy; glad; pleasant,N3
+寄付,きふ,contribution; donation,N3
+希望,きぼう,hope; wish; aspiration,N3
+幾つ,いくつ,how many?; how old?,N3
+幾ら,いくら,how much?; how many?,N3
+旗,はた,flag,N3
+既に,すでに,already; too late,N3
+期間,きかん,period; term,N3
+期待,きたい,expectation; anticipation; hope,N3
+機械,きかい,machine; mechanism,N3
+機関,きかん,organ; mechanism; facility; engine,N3
+機嫌,きげん,humour; temper; mood,N3
+機能,きのう,function; faculty,N3
+帰宅,きたく,returning home,N3
+気に入る,きにいる,to be pleased with; to suit,N3
+気の毒,きのどく,pitiful; a pity,N3
+気温,きおん,temperature,N3
+気候,きこう,climate,N3
+気付く,きづく,to notice; to recognize; to become aware of,N3
+気味,きみ,-like; -looking; -looked,N3
+記憶,きおく,memory; recollection; remembrance,N3
+記事,きじ,article; news story; report; account,N3
+記者,きしゃ,reporter,N3
+記入,きにゅう,entry; filling in of forms,N3
+記念,きねん,commemoration; memory,N3
+記録,きろく,record; minutes; document,N3
+貴重,きちょう,precious; valuable,N3
+起こる,おこる,to occur; to happen,N3
+輝く,かがやく,to shine; to glitter; to sparkle,N3
+鬼,おに,ogre; demon; it (i.e.; in a game of tag),N3
+宜しい,よろしい,(hon) good; OK; all right; fine; very well; will do; may; can,N3
+技師,ぎし,engineer; technician,N3
+疑う,うたがう,to doubt; to distrust; to be suspicious of; to suspect,N3
+疑問,ぎもん,question; problem; doubt; guess,N3
+義務,ぎむ,duty; obligation; responsibility,N3
+議員,ぎいん,member of the Diet; congress or parliament,N3
+議会,ぎかい,Diet; congress; parliament,N3
+議長,ぎちょう,chairman,N3
+議論,ぎろん,argument; discussion; dispute,N3
+詰める,つめる,to pack; to shorten; to work out (details),N3
+逆,ぎゃく,reverse; opposite,N3
+逆らう,さからう,to go against; to oppose; to disobey; to defy,N3
+丘,おか,hill; height; knoll; rising ground,N3
+休暇,きゅうか,holiday; day off; furlough,N3
+休憩,きゅうけい,rest; break; recess; intermission,N3
+及ぼす,およぼす,to exert; to cause; to exercise,N3
+吸収,きゅうしゅう,absorption; suction; attraction,N3
+急激,きゅうげき,sudden; precipitous; radical,N3
+急速,きゅうそく,rapid (e.g. progress),N3
+救う,すくう,to rescue from; to help out of,N3
+救助,きゅうじょ,relief; aid; rescue,N3
+求める,もとめる,to seek; to request; to demand; to want; to wish for; to search for; to pursue (pleasure); to hunt (a job),N3
+球,きゅう,globe; sphere; ball,N3
+級,きゅう,class; grade; rank; school class; grade,N3
+給料,きゅうりょう,salary; wages,N3
+旧,きゅう,ex-,N3
+牛,うし,cattle; cow,N3
+去る,さる,to leave; to go away,N3
+居る,おる,to be (animate); to be; to exist,N3
+居間,いま,living room (western style),N3
+居眠り,いねむり,dozing; nodding off,N3
+巨大,きょだい,huge; gigantic; enormous,N3
+許す,ゆるす,to permit; to allow; to approve,N3
+許可,きょか,permission; approval,N3
+魚,うお,fish,N3
+供給,きょうきゅう,supply; provision,N3
+競技,きょうぎ,game; match; contest,N3
+共に,ともに,sharing with; participate in,N3
+共通,きょうつう,commonness; community,N3
+共同,きょうどう,cooperation; association; collaboration; joint,N3
+協力,きょうりょく,cooperation; collaboration,N3
+叫ぶ,さけぶ,to shout; to cry,N3
+境,さかい,border; boundary; mental state,N3
+強調,きょうちょう,emphasis; stress; stressed point,N3
+強盗,ごうとう,robbery; burglary,N3
+強力,きょうりょく,herculean strength; mountain carrier-guide,N3
+恐れる,おそれる,to fear; to be afraid of,N3
+恐ろしい,おそろしい,terrible; dreadful,N3
+恐怖,きょうふ,be afraid; dread; dismay; terror,N3
+教科書,きょうかしょ,text book,N3
+教師,きょうし,teacher (classroom),N3
+教授,きょうじゅ,teaching; instruction; professor,N3
+狂う,くるう,to go mad; to get out of order,N3
+胸,むね,breast; chest,N3
+局,きょく,court lady; lady in waiting,N3
+極,ごく,quite; very,N3
+玉,たま,ball; sphere; coin,N3
+僅か,わずか,only; merely; a little; small quantity,N3
+勤め,つとめ,(1) service; duty; business; responsibility; task; (2) Buddhist religious services,N3
+禁煙,きんえん,No Smoking!,N3
+禁止,きんし,prohibition; ban,N3
+筋,すじ,muscle; string; line,N3
+筋肉,きんにく,muscle; sinew,N3
+緊張,きんちょう,tension; mental strain; nervousness,N3
+近頃,ちかごろ,lately; recently; nowadays,N3
+近代,きんだい,present day,N3
+金,かね,(1) gold; (2) gold general (shogi) (abbr),N3
+金額,きんがく,amount of money,N3
+金庫,きんこ,safe; vault; treasury; provider of funds,N3
+金持ち,かねもち,rich man,N3
+金銭,きんせん,money; cash,N3
+金属,きんぞく,metal,N3
+金融,きんゆう,monetary circulation; credit situation,N3
+金曜,きんよう,(abbr) Friday,N3
+銀,ぎん,(1) silver; silver coin; silver paint,N3
+九,きゅう,nine,N3
+句,く,sentence,N3
+区別,くべつ,distinction; differentiation; classification,N3
+苦しい,くるしい,painful; difficult,N3
+苦しむ,くるしむ,to suffer; to groan; to be worried,N3
+苦手,にがて,poor (at); weak (in); dislike (of),N3
+苦痛,くつう,pain; agony,N3
+苦労,くろう,troubles; hardships,N3
+具体,ぐたい,concrete; tangible; material,N3
+空,から,sky,N3
+空き,あき,room; time to spare; emptiness,N3
+空く,すく,(1) to open; to become empty; (2) to be less crowded,N3
+偶,たま,even number; couple; man and wife; friend,N3
+偶々,たまたま,casually; unexpectedly; accidentally; by chance,N3
+偶然,ぐうぜん,(by) chance; unexpectedly; suddenly,N3
+繰り返す,くりかえす,to repeat; to do something over again,N3
+訓,くん,native Japanese reading of a Chinese character,N3
+訓練,くんれん,practice; training,N3
+軍,ぐん,army; force; troops,N3
+軍隊,ぐんたい,army; troops,N3
+係,かかり,official; duty; person in charge,N3
+傾向,けいこう,tendency; trend; inclination,N3
+刑事,けいじ,criminal case; (police) detective,N3
+型,かた,mold; model; style; shape; data-type,N3
+契約,けいやく,contract; compact; agreement,N3
+掲示,けいじ,notice; bulletin,N3
+敬意,けいい,respect; honour,N3
+景気,けいき,condition; state; business (condition),N3
+経つ,たつ,to pass; to lapse,N3
+経営,けいえい,management; administration,N3
+経験,けいけん,experience,N3
+経由,けいゆ,go by the way; via,N3
+繋ぐ,つなぐ,to tie; to fasten; to connect; to transfer (phone call),N3
+計,けい,plan,N3
+計る,はかる,to measure; to weigh; to survey,N3
+計画,けいかく,plan; project; schedule; scheme; program,N3
+計算,けいさん,calculation; reckoning,N3
+警告,けいこく,warning; advice,N3
+芸術,げいじゅつ,(fine) art; the arts,N3
+迎え,むかえ,meeting; person sent to pick up an arrival,N3
+劇,げき,drama; play,N3
+劇場,げきじょう,theatre; playhouse,N3
+撃つ,うつ,to attack; to defeat; to destroy,N3
+激しい,はげしい,violent; vehement; intense,N3
+欠ける,かける,to be lacking,N3
+欠陥,けっかん,defect; fault; deficiency,N3
+欠席,けっせき,absence; non-attendance,N3
+欠点,けってん,faults; defect; weakness,N3
+決まり,きまり,settlement; conclusion; regulation; rule,N3
+決心,けっしん,determination; resolution,N3
+決定,けってい,decision; determination,N3
+穴,あな,hole,N3
+結ぶ,むすぶ,to tie; to bind; to link,N3
+結果,けっか,result; consequence,N3
+結局,けっきょく,after all; eventually,N3
+結論,けつろん,conclusion,N3
+月,つき,moon; month,N3
+月曜,げつよう,Monday,N3
+健康,けんこう,health; sound; wholesome,N3
+券,けん,ticket; coupon; bond; certificate,N3
+喧嘩,けんか,quarrel; (drunken) brawl; failure,N3
+嫌う,きらう,to hate; to dislike; to loathe,N3
+建設,けんせつ,construction; establishment,N3
+建築,けんちく,construction; architecture,N3
+憲法,けんぽう,constitution,N3
+検査,けんさ,inspection (e.g. customs; factory); examination,N3
+検討,けんとう,consideration; examination; investigation; study; scrutiny,N3
+権利,けんり,right; privilege,N3
+県,けん,prefecture,N3
+肩,かた,shoulder,N3
+見る,みる,to see; to watch,N3
+見解,けんかい,opinion; point of view,N3
+見事,みごと,splendid; magnificent; beautiful; admirable,N3
+見送り,みおくり,seeing one off; farewell; escort,N3
+見当,けんとう,be found; aim; estimate; guess; approx,N3
+見舞い,みまい,enquiry; expression of sympathy; expression of concern,N3
+賢い,かしこい,wise; clever; smart,N3
+軒,けん,eaves,N3
+鍵,かぎ,key,N3
+元,もと,(1) origin; original; (2) former,N3
+原,はら,field; plain; prairie; tundra; moor; wilderness,N3
+減らす,へらす,to abate; to decrease; to diminish; to shorten,N3
+減る,へる,to decrease (in size or number); to diminish; to abate,N3
+現す,あらわす,to show; to indicate; to display,N3
+現れ,あらわれ,embodiment; materialization,N3
+現れる,あらわれる,(1) to appear; to come in sight; to become visible; (2) to express oneself,N3
+現金,げんきん,cash; ready money; mercenary; self-interested,N3
+現在,げんざい,present; up to now; nowadays; modern times; current,N3
+現実,げんじつ,reality,N3
+現象,げんしょう,phenomenon,N3
+現場,げんば,actual spot; scene; scene of the crime,N3
+現状,げんじょう,present condition; existing state; status quo,N3
+現代,げんだい,nowadays; modern times; present-day,N3
+言う,ゆう,to say,N3
+言わば,いわば,so to speak,N3
+言語,げんご,language,N3
+諺,ことわざ,proverb; maxim,N3
+限る,かぎる,to restrict; to limit; to confine,N3
+限界,げんかい,limit; bound,N3
+個人,こじん,individual; private person; personal; private,N3
+呼吸,こきゅう,breath; respiration,N3
+故郷,こきょう,home town; birthplace; old village; historic village,N3
+故障,こしょう,break-down; failure; accident; out of order,N3
+虎,とら,tiger,N3
+誇り,ほこり,pride,N3
+雇う,やとう,to employ; to hire,N3
+互い,たがい,mutual; reciprocal,N3
+後,うしろ,afterwards; since then; in the future,N3
+後者,こうしゃ,the latter,N3
+御,お,honourable,N3
+語,ご,language; word,N3
+語る,かたる,to talk; to tell; to recite,N3
+語学,ごがく,language study,N3
+誤り,あやまり,error,N3
+誤解,ごかい,misunderstanding,N3
+交換,こうかん,exchange; interchange; reciprocity,N3
+交際,こうさい,company; friendship; association; society; acquaintance,N3
+候補,こうほ,candidacy,N3
+光景,こうけい,scene; spectacle,N3
+公平,こうへい,fairness; impartial; justice,N3
+効く,きく,to be effective,N3
+効果,こうか,effect; effectiveness; efficacy; result,N3
+向かい,むかい,facing; opposite; across the street; other side,N3
+向く,むく,to face,N3
+向ける,むける,to turn towards; to point,N3
+喉,のど,throat,N3
+好み,このみ,liking; taste; choice,N3
+好む,このむ,to like; to prefer,N3
+工場,こうば,factory; plant; mill; workshop,N3
+幸い,さいわい,happiness; blessedness,N3
+幸せ,しあわせ,happiness; good fortune; luck; blessing,N3
+幸運,こううん,good luck; fortune,N3
+幸福,こうふく,happiness; blessedness,N3
+広がる,ひろがる,to spread (out); to extend; to stretch; to reach to; to get around,N3
+広告,こうこく,advertisement,N3
+攻撃,こうげき,attack; strike; offensive; criticism; censure,N3
+更に,さらに,furthermore; again; after all; more and more; moreover,N3
+構う,かまう,to mind; to care about; to be concerned about,N3
+構成,こうせい,organization; composition,N3
+硬い,かたい,solid; hard (esp. metal; stone); unpolished writing,N3
+硬貨,こうか,coin,N3
+考え,かんがえ,thinking; thought; ideas; intention,N3
+考慮,こうりょ,consideration; taking into account,N3
+航空,こうくう,aviation; flying,N3
+行き,いき,going,N3
+行儀,ぎょうぎ,manners,N3
+行動,こうどう,action; conduct; behaviour; mobilization,N3
+講演,こうえん,lecture; address,N3
+貢献,こうけん,contribution; services,N3
+降ろす,おろす,to take down; to launch; to drop,N3
+香り,かおり,aroma; fragrance; scent; smell,N3
+高価,こうか,high price,N3
+高速,こうそく,high speed; high gear,N3
+合わせる,あわせる,to join together; to be opposite; to face; to unite,N3
+合格,ごうかく,success; passing (e.g. exam); eligibility,N3
+合計,ごうけい,sum total; total amount,N3
+合図,あいず,sign; signal,N3
+濠,ほり,moat,N3
+豪華,ごうか,wonderful; gorgeous; splendor; pomp; extravagance,N3
+克服,こくふく,subjugation; conquest,N3
+国家,こっか,state; country; nation,N3
+国会,こっかい,National Diet; parliament; congress,N3
+国境,こっきょう,national or state border,N3
+国語,こくご,national language,N3
+国民,こくみん,national; people; citizen,N3
+穀物,こくもつ,grain; cereal; corn,N3
+黒板,こくばん,blackboard,N3
+腰,こし,hip,N3
+骨,ほね,bone,N3
+骨折,こっせつ,bone fracture,N3
+頃,ころ,time; about; toward; approximately (time),N3
+今に,いまに,before long; even now,N3
+今にも,いまにも,at any time; soon,N3
+今回,こんかい,now; this time; lately,N3
+今後,こんご,from now on; hereafter,N3
+今日,こんにち,today; this day,N3
+困難,こんなん,difficulty; distress,N3
+婚約,こんやく,engagement; betrothal,N3
+根,ね,root,N3
+混雑,こんざつ,confusion; congestion,N3
+混乱,こんらん,disorder; chaos; confusion; mayhem,N3
+左右,さゆう,(1) left and right; (2) influence; control; domination,N3
+差,さ,difference; variation,N3
+差別,さべつ,discrimination; distinction; differentiation,N3
+砂漠,さばく,desert,N3
+鎖,くさり,chain,N3
+座席,ざせき,seat,N3
+再び,ふたたび,again; once more; a second time,N3
+最も,もっとも,most; extremely,N3
+最高,さいこう,highest; supreme; the most,N3
+最終,さいしゅう,last; final; closing,N3
+最中,さいちゅう,in the middle of,N3
+最低,さいてい,least; lowest; worst,N3
+才能,さいのう,talent; ability,N3
+済ませる,すませる,to be finished,N3
+祭,まつり,festival; feast,N3
+裁判,さいばん,trial; judgement,N3
+際,さい,on the occasion of; circumstances,N3
+材料,ざいりょう,ingredients; material,N3
+罪,つみ,crime; fault; indiscretion,N3
+財産,ざいさん,property; fortune; assets,N3
+作家,さっか,author; writer; novelist; artist,N3
+作業,さぎょう,work; operation; manufacturing; fatigue duty,N3
+作曲,さっきょく,composition; setting (of music),N3
+作品,さくひん,work; opus; performance; production,N3
+作物,さくもつ,produce (e.g. agricultural); crops,N3
+作法,さほう,manners; etiquette; propriety,N3
+昨,さく,last (year); yesterday,N3
+桜,さくら,cherry blossom; cherry tree,N3
+札,さつ,(1) token; label; (2) ticket; (3) charm,N3
+殺す,ころす,to kill,N3
+皿,さら,plate; dish,N3
+参加,さんか,participation,N3
+参考,さんこう,reference; consultation,N3
+散歩,さんぽ,walk; stroll,N3
+賛成,Uӣ[い,approval; agreement; support; favour,N3
+酸素,さんそ,oxygen,N3
+残す,のこす,to leave (behind; over); to bequeath; to save; to reserve,N3
+残り,のこり,remnant; residue; remaining; left-over,N3
+伺う,うかがう,(hon) to visit; to ask; to inquire,N3
+使用,しよう,use; application; employment; utilization,N3
+刺激,しげき,stimulus; impetus; incentive,N3
+四,し,four,N3
+始まり,はじまり,origin; beginning,N3
+姉妹,しまい,sisters,N3
+姿,すがた,figure; shape; appearance,N3
+市場,いちば,(the) market (as a concept),N3
+思い出,おもいで,memories; recollections; reminiscence,N3
+思わず,おもわず,unintentional; spontaneous,N3
+思想,しそう,thought; idea,N3
+指す,さす,to point; to put up umbrella; to play,N3
+指導,しどう,leadership; guidance; coaching,N3
+支える,ささえる,to be blocked; to choke; to be obstructed,N3
+支給,しきゅう,payment; allowance,N3
+支出,ししゅつ,expenditure; expenses,N3
+支店,してん,branch store (office),N3
+支度,したく,preparation,N3
+支配,しはい,rule; control; direction,N3
+支払,しはらい,payment,N3
+支払う,しはらう,to pay,N3
+止す,よす,to cease; to abolish; to resign; to give up,N3
+死亡,しぼう,death; mortality,N3
+氏,し,family name; lineage; birth,N3
+至る,いたる,to come; to arrive,N3
+詩,し,poem; verse of poetry,N3
+詩人,しじん,poet,N3
+試し,ためし,trial; test,N3
+試す,ためす,to attempt; to test,N3
+資源,しげん,resources,N3
+資本,しほん,funds; capital,N3
+飼う,かう,to keep; to raise; to feed,N3
+事,こと,thing; matter; fact; circumstances,N3
+事件,じけん,event; affair; incident,N3
+事実,じじつ,fact; truth; reality,N3
+事情,じじょう,circumstances; consideration; conditions; situation; reasons,N3
+事態,じたい,situation; present state of affairs,N3
+事務,じむ,business; office work,N3
+似合う,にあう,to suit; to match; to become; to be like,N3
+持ち上げる,もちあげる,to raise; to lift up; to flatter,N3
+時,とき,(1) time; hour; (2) occasion; moment,N3
+時期,じき,time; season; period,N3
+時刻,じこく,instant; time; moment,N3
+次々,つぎつぎ,in succession; one by one,N3
+次第,しだい,(1) order; precedence; (2) circumstances; (3) immediate(ly),N3
+示す,しめす,to denote; to show; to point out; to indicate,N3
+自殺,じさつ,suicide,N3
+自身,じしん,by oneself; personally,N3
+自然,しぜん,nature; spontaneous,N3
+自動,じどう,automatic; self-motion,N3
+自慢,じまん,pride; boast,N3
+辞める,やめる,to retire,N3
+式,しき,equation; formula; ceremony,N3
+七,しち,seven,N3
+叱る,しかる,to scold,N3
+失う,うしなう,to lose; to part with,N3
+失業,しつぎょう,unemployment,N3
+失望,しつぼう,disappointment; despair,N3
+質,しつ,quality; nature (of person),N3
+実,み,fruit; nut; seed; content; good result,N3
+実に,じつに,indeed; truly; surely,N3
+実は,じつは,as a matter of fact; by the way,N3
+実験,じっけん,experiment,N3
+実現,じつげん,implementation; materialization; realization,N3
+実行,じっこう,practice; performance; execution (e.g. program); realization,N3
+実際,じっさい,practical; actual condition; status quo,N3
+実施,じっし,enforcement; enact; put into practice; carry out; operation,N3
+芝居,しばい,play; drama,N3
+芝生,しばふ,lawn,N3
+者,もの,person,N3
+邪魔,じゃま,hindrance; intrusion,N3
+借金,しゃっきん,debt; loan; liabilities,N3
+主に,おもに,mainly; primarily,N3
+主義,しゅぎ,doctrine; rule; principle,N3
+主張,しゅちょう,claim; request; insistence; assertion,N3
+主婦,しゅふ,housewife; mistress,N3
+主要,しゅよう,chief; main; principal; major,N3
+取り上げる,とりあげる,to take up; to pick up; to disqualify; to confiscate; to deprive,N3
+取れる,とれる,to come off; to be taken off; to be removed,N3
+守る,まもる,to protect; to obey; to guard; to abide (by the rules),N3
+手間,てま,time; labour,N3
+手術,しゅじゅつ,surgical operation,N3
+手段,しゅだん,means; way; measure,N3
+手伝い,てつだい,help; helper; assistant,N3
+手品,てじな,sleight of hand; conjuring trick; magic; juggling,N3
+種,たね,(1) seed; (2) material; (3) cause; source,N3
+種類,しゅるい,variety; kind; type,N3
+酒,さけ,alcohol; sake,N3
+首相,しゅしょう,Prime Minister,N3
+首都,しゅと,capital city,N3
+受け取る,うけとる,to receive; to get; to accept; to take,N3
+需要,じゅよう,demand; request,N3
+収める,おさめる,to obtain; to reap; to pay; to supply; to accept,N3
+収穫,しゅうかく,harvest; crop; ingathering,N3
+収入,しゅうにゅう,income; receipts; revenue,N3
+周囲,しゅうい,surroundings; circumference; environs,N3
+宗教,しゅうきょう,religion,N3
+就く,つく,to settle in (place); to take (seat; position); to study (under teacher),N3
+就職,しゅうしょく,finding employment; inauguration,N3
+州,しゅう,sandbank,N3
+修正,しゅうせい,amendment; correction; revision; modification,N3
+修理,しゅうり,repairing; mending,N3
+終,おわり,the end,N3
+終える,おえる,to finish,N3
+臭い,くさい,odour; scent; smell; stench,N3
+週,しゅう,week,N3
+週間,しゅうかん,week; weekly,N3
+集まり,あつまり,gathering; meeting; assembly; collection,N3
+集団,しゅうだん,group; mass,N3
+集中,しゅうちゅう,concentration; focusing the mind,N3
+住宅,じゅうたく,resident; housing,N3
+住民,じゅうみん,citizens; inhabitants; residents; population,N3
+十,じゅう,10; ten,N3
+従う,したがう,to abide (by the rules); to obey; to follow; to accompany,N3
+従兄弟,いとこ,cousin (male),N3
+渋滞,じゅうたい,congestion (e.g. traffic); delay; stagnation,N3
+縦,たて,length; height,N3
+重視,じゅうし,importance; stress; serious consideration,N3
+重大,じゅうだい,serious; important; grave; weighty,N3
+重要,じゅうよう,important; momentous; essential; principal; major,N3
+銃,じゅう,gun,N3
+宿,やど,inn; lodging,N3
+宿泊,しゅくはく,lodging,N3
+祝い,いわい,celebration; festival,N3
+祝う,いわう,to congratulate; to celebrate,N3
+出会い,であい,meeting; rendezvous; encounter,N3
+出会う,であう,to meet by chance; to come across; to happen to encounter,N3
+出身,しゅっしん,graduate from; come from,N3
+出席,しゅっせき,attendance; presence,N3
+出発,しゅっぱつ,departure,N3
+出版,しゅっぱん,publication,N3
+出来るだけ,できるだけ,if at all possible,N3
+出来事,できごと,incident; affair; happening; event,N3
+述べる,のべる,to state; to express; to mention,N3
+瞬間,しゅんかん,moment; second; instant,N3
+準備,じゅんび,preparation; arrangements; provision; reserve,N3
+順,じゅん,order; turn,N3
+順調,じゅんちょう,favourable; doing well; O.K.; all right,N3
+順番,じゅんばん,turn (in line); order of things,N3
+処理,しょり,processing; dealing with; treatment; disposition; disposal,N3
+所為,せい,cause; reason; fault,N3
+署名,しょめい,signature,N3
+書斎,しょさい,study,N3
+書物,しょもつ,books,N3
+書類,しょるい,documents; official papers,N3
+助ける,たすける,to help; to save; to rescue,N3
+助手,じょしゅ,helper; helpmeet; assistant; tutor,N3
+女王,じょおう,queen,N3
+女子,じょし,woman; girl,N3
+女優,じょゆう,actress,N3
+徐々に,じょじょに,slowly; little by little; gradually; steadily; quietly,N3
+除く,のぞく,to remove; to exclude; to except,N3
+傷,きず,wound; injury; hurt; cut,N3
+勝ち,かち,win; victory,N3
+商人,しょうにん,trader; shopkeeper; merchant,N3
+商売,しょうばい,trade; business; commerce; transaction; occupation,N3
+商品,しょうひん,commodity; article of commerce; goods; stock; merchandise,N3
+奨学金,しょうがくきん,scholarship,N3
+小屋,こや,hut; cabin; shed; (animal) pen,N3
+小麦,こむぎ,wheat,N3
+小包,こづつみ,parcel; package,N3
+少々,しょうしょう,just a minute; small quantity,N3
+少しも,すこしも,anything of; not one bit,N3
+少女,しょうじょ,daughter; young lady; virgin; maiden; little girl,N3
+少年,しょうねん,boys; juveniles,N3
+床,ゆか,floor,N3
+承知,しょうち,consent; acceptance; assent; admitting,N3
+承認,しょうにん,recognition; acknowledgement; approval; consent; agreement,N3
+招く,まねく,to invite,N3
+招待,しょうたい,invitation,N3
+昇る,のぼる,to arise; to ascend; to go up,N3
+松,まつ,(1) pine tree; (2) highest (of a three-tier ranking system),N3
+消費,しょうひ,consumption; expenditure,N3
+消防,しょうぼう,fire fighting; fire department,N3
+症状,しょうじょう,symptoms; condition,N3
+省く,はぶく,to omit; to eliminate; to curtail; to economize,N3
+章,しょう,(1) chapter; section; (2) medal,N3
+笑い,わらい,laugh; laughter; smile,N3
+笑顔,えがお,smiling face,N3
+衝突,しょうとつ,collision; conflict,N3
+証明,しょうめい,proof; verification,N3
+詳しい,くわしい,knowing very well; detailed; full; accurate,N3
+象,ぞう,elephant,N3
+賞,しょう,prize; award,N3
+障害,しょうがい,obstacle; impediment (fault); damage,N3
+上,うわ,upper; outer; surface,N3
+上京,じょうきょう,proceeding to the capital (Tokyo),N3
+上達,じょうたつ,improvement; advance; progress,N3
+上等,じょうとう,superiority; first class; very good,N3
+乗せる,のせる,to place on (something); to take on board; to give a ride,N3
+乗客,じょうきゃく,passenger,N3
+冗談,じょうだん,jest; joke,N3
+城,しろ,castle,N3
+場,ば,place; field (physics),N3
+場面,ばめん,scene; setting (e.g. of novel),N3
+常に,つねに,always; constantly,N3
+常識,じょうしき,common sense,N3
+情報,じょうほう,information; (military) intelligence,N3
+条件,じょうけん,conditions; terms,N3
+状況,じょうきょう,state of affairs; situation; circumstances,N3
+状態,じょうたい,condition; situation; circumstances; state,N3
+譲る,ゆずる,to turn over; to assign; to hand over,N3
+植物,しょくぶつ,plant; vegetation,N3
+職,しょく,employment,N3
+職業,しょくぎょう,occupation; business,N3
+触れる,ふれる,to touch; to be touched; to touch on a subject; to feel; to violate (law; copyright; etc.); to perceive; t,N3
+食う,くう,(male) (vulg) to eat,N3
+食事,しょくじ,meal,N3
+食卓,しょくたく,dining table,N3
+食品,しょくひん,commodity; foodstuff,N3
+食物,しょくもつ,food; foodstuff,N3
+食欲,しょくよく,appetite (for food),N3
+食料,しょくりょう,food,N3
+食糧,しょくりょう,provisions; rations,N3
+尻,しり,buttocks; bottom,N3
+伸ばす,のばす,to lengthen; to stretch; to reach out; to grow (beard),N3
+伸びる,のびる,to stretch; to extend; to make progress; to grow (beard; body height),N3
+信じる,しんじる,to believe; to place trust in,N3
+信仰,しんこう,(religious) faith; belief; creed,N3
+信号,しんごう,traffic lights; signal; semaphore,N3
+信用,しんよう,confidence; dependence; credit; faith,N3
+信頼,しんらい,reliance; trust; confidence,N3
+審判,しんぱん,refereeing; trial; judgement; umpire; referee,N3
+心臓,しんぞう,heart,N3
+心配,しんぱい,worry; concern; anxiety; care,N3
+心理,しんり,mentality,N3
+慎重,しんちょう,discretion; prudence,N3
+振る,ふる,(1) to wave; to shake; to swing; (2) to sprinkle; (3) to cast (actor); to allocate (work),N3
+新た,あらた,new; fresh; novel,N3
+新鮮,しんせん,fresh,N3
+深刻,しんこく,serious,N3
+申し込む,もうしこむ,to apply for; to make an application,N3
+申し訳,もうしわけ,apology; excuse,N3
+真っ赤,まっか,deep red; flushed (of face),N3
+真っ直ぐ,まっすぐ,straight (ahead); direct; upright,N3
+真剣,しんけん,seriousness; earnestness,N3
+真似,まね,mimicry; imitation; behavior; pretense,N3
+真面目,まじめ,diligent; serious; honest,N3
+神,かみ,god,N3
+神経,しんけい,nerve; sensitivity,N3
+親しい,したしい,intimate; close (e.g. friend),N3
+親戚,しんせき,relative,N3
+親友,しんゆう,close friend; buddy,N3
+診察,しんさつ,medical examination,N3
+身,み,body; main part; oneself; sword,N3
+身体,しんたい,the body,N3
+身長,しんちょう,height (of body); stature,N3
+辛い,つらい,painful; heart-breaking,N3
+進める,すすめる,to advance; to promote; to hasten,N3
+進学,しんがく,going on to university,N3
+進歩,しんぽ,progress; development,N3
+針,はり,needle; hand (e.g. clock),N3
+震える,ふるえる,to shiver; to shake; to quake,N3
+人間,にんげん,human being; man; person,N3
+人気,にんき,sign of life,N3
+人工,じんこう,artificial; manmade; human work; human skill; artificiality,N3
+人込み,ひとごみ,crowd of people,N3
+人種,じんしゅ,race (of people),N3
+人生,じんせい,(human) life (i.e. conception to death),N3
+人物,じんぶつ,character; personality; person; man; personage; talented man,N3
+人類,じんるい,mankind; humanity,N3
+塵,ごみ,dust; dirt,N3
+図,ず,figure (e.g. Fig 1); drawing; picture; illustration,N3
+図書,としょ,books,N3
+推薦,すいせん,recommendation,N3
+水準,すいじゅん,(1) water level; (2) level; standard,N3
+睡眠,すいみん,sleep,N3
+遂に,ついに,finally; at last,N3
+酔う,よう,to get drunk; to become intoxicated,N3
+随分,ずいぶん,extremely,N3
+数,かず,number; figure,N3
+数える,かぞえる,to count,N3
+数字,すうじ,numeral; figure,N3
+世の中,よのなか,society; the world; the times,N3
+世間,せけん,world; society,N3
+世紀,せいき,century; era,N3
+世話,せわ,looking after; help; aid; assistance,N3
+是非,ぜひ,certainly; without fail,N3
+制限,せいげん,restriction; restraint; limitation,N3
+制度,せいど,system; institution; organization,N3
+勢い,いきおい,force; vigor; energy; spirit,N3
+性,せい,sex; gender,N3
+性格,せいかく,character; personality,N3
+成る,なる,to become,N3
+成功,せいこう,success; hit,N3
+成人,せいじん,adult,N3
+成績,せいせき,results; record,N3
+成長,せいちょう,growth; grow to adulthood,N3
+政府,せいふ,government; administration,N3
+整理,せいり,sorting; arrangement; adjustment; regulation,N3
+正,せい,(logical) true; regular,N3
+正確,せいかく,accurate; punctuality; exactness; authenticity; veracity,N3
+正午,しょうご,noon; mid-day,N3
+正式,せいしき,due form; official; formality,N3
+正直,しょうじき,honesty; integrity; frankness,N3
+清潔,せいけつ,clean,N3
+生,せい,(1) draft (beer); (2) raw; unprocessed,N3
+生き物,いきもの,living thing; animal,N3
+生じる,しょうじる,to produce; to yield; to result from; to arise; to be generated,N3
+生まれ,うまれ,birth; birth-place,N3
+生産,せいさん,production; manufacture,N3
+生地,きじ,birthplace,N3
+生物,せいぶつ,raw food,N3
+生命,せいめい,life; existence,N3
+盛り,さかり,helping; serving,N3
+精々,せいぜい,at the most; at best; to the utmost; as much (far) as possible,N3
+精神,せいしん,mind; soul; heart; spirit; intention,N3
+製造,せいぞう,manufacture; production,N3
+製品,せいひん,manufactured goods; finished goods,N3
+請求,せいきゅう,claim; demand; application; request,N3
+青年,せいねん,youth; young man,N3
+税金,ぜいきん,tax; duty,N3
+石炭,せきたん,coal,N3
+石油,せきゆ,oil; petroleum; kerosene,N3
+積もる,つもる,to pile up,N3
+積極的,せっきょくてき,positive; active; proactive,N3
+責める,せめる,to condemn; to blame; to criticize,N3
+責任,せきにん,duty; responsibility,N3
+跡,あと,(1) trace; tracks; mark; sign; (2) remains; ruins; (3) scar,N3
+切れ,きれ,cloth; piece; cut; chop,N3
+切れる,きれる,(1) to cut well; to be sharp; (2) to break (off),N3
+設計,せっけい,plan; design,N3
+設備,せつび,equipment; device; facilities; installation,N3
+節,ふし,tune; tone; knot; knob; point,N3
+節約,せつやく,economising; saving,N3
+説,せつ,theory,N3
+絶対,ぜったい,absolute; unconditional; absoluteness,N3
+絶滅,ぜつめつ,destruction; extinction,N3
+舌,した,tongue,N3
+先ず,まず,first (of all); to start with; about; almost; hardly (with neg. verb),N3
+先日,せんじつ,the other day; a few days ago,N3
+占める,しめる,(1) to comprise; to account for; to make up (of); (2) to hold; to occupy,N3
+専攻,せんこう,major subject; special study,N3
+川,かわ,river,N3
+戦い,たたかい,battle; fight; struggle; conflict,N3
+戦う,たたかう,to fight; to battle; to combat,N3
+泉,いずみ,spring; fountain,N3
+船,ふね,ship; boat; watercraft; shipping; vessel; steamship,N3
+選手,せんしゅ,(1) player (in game); (2) team,N3
+選択,せんたく,selection; choice,N3
+前者,ぜんしゃ,the former,N3
+前進,ぜんしん,advance; drive; progress,N3
+善,ぜん,good; goodness; right; virtue,N3
+全,ぜん,all; whole; entire; complete; overall; pan,N3
+全く,まったく,really; truly; entirely; completely,N3
+全て,すべて,all; the whole; entirely; in general; wholly,N3
+全員,ぜんいん,all members (unanimity); all hands; the whole crew,N3
+全国,ぜんこく,country-wide; nation-wide; whole country; national,N3
+全然,ぜんぜん,(1) wholly; entirely; completely; (2) not at all (with neg. verb),N3
+全体,ぜんたい,whole; entirety; whatever (is the matter),N3
+粗,あら,defect; flaw; blemish; weak point,N3
+粗末,そまつ,crude; rough; plain; humble,N3
+素,もと,prime,N3
+素晴らしい,すばらしい,wonderful; splendid; magnificent,N3
+組,くみ,class; group; team; set,N3
+組む,くむ,to put together,N3
+組合,くみあい,association; union,N3
+組織,そしき,(1) organization; (2) structure; construction; (3) tissue; (4) system,N3
+訴える,うったえる,to sue (a person); to resort to; to appeal to,N3
+鼠,ねずみ,(1) mouse; rat; (2) dark gray; slate color,N3
+双子,ふたご,twins; a twin,N3
+想像,そうぞう,imagination; guess,N3
+掃除,そうじ,cleaning; sweeping,N3
+操作,そうさ,operation; management; processing,N3
+巣,す,nest; rookery; breeding place; beehive; cobweb,N3
+相手,あいて,companion; partner; company,N3
+相続,そうぞく,succession; inheritance,N3
+相談,そうだん,consultation; discussion,N3
+相当,そうとう,suitable; fair; tolerable; proper,N3
+装置,そうち,equipment; installation; apparatus,N3
+霜,しも,frost,N3
+騒ぎ,さわぎ,uproar; disturbance,N3
+騒音,そうおん,noise,N3
+増す,ます,to increase; to grow,N3
+増加,ぞうか,increase; addition,N3
+贈る,おくる,to send; to give to; to award to; to confer on,N3
+側,そば,side; edge; third person,N3
+息,いき,breath; tone,N3
+束,たば,handbreadth; bundle,N3
+速度,そくど,speed; velocity; rate,N3
+続き,つづき,sequel; continuation,N3
+袖,そで,sleeve,N3
+存在,そんざい,existence; being,N3
+孫,まご,grandchild,N3
+尊敬,そんけい,respect; esteem; reverence; honour,N3
+尊重,そんちょう,respect; esteem; regard,N3
+損,そん,loss; disadvantage,N3
+損害,そんがい,damage; injury; loss,N3
+他,た,other (esp. places and things),N3
+他人,たにん,another person; unrelated person; outsider; stranger,N3
+多少,たしょう,more or less; somewhat; a little; some,N3
+多分,たぶん,perhaps; probably,N3
+太陽,たいよう,sun; solar,N3
+打つ,ぶつ,to hit; to strike,N3
+駄目,だめ,useless; no good; hopeless,N3
+体育,たいいく,physical education; gymnastics; athletics,N3
+体温,たいおん,temperature (body),N3
+対,たい,pair; couple; set,N3
+対する,たいする,to face; to confront; to oppose,N3
+対象,たいしょう,target; object (of worship; study; etc); subject (of taxation; etc),N3
+帯,おび,band (e.g. conduction; valence),N3
+怠ける,なまける,to be idle; to neglect,N3
+態度,たいど,attitude; manner,N3
+替える,かえる,to exchange; to interchange; to substitute; to replace,N3
+滞在,たいざい,stay; sojourn,N3
+袋,ふくろ,bag; sack,N3
+貸し,かし,loan; lending,N3
+退屈,たいくつ,tedium; boredom,N3
+逮捕,たいほ,arrest; apprehension; capture,N3
+代金,だいきん,price; payment; cost; charge,N3
+代表,だいひょう,representative; representation; delegation; type; example; model,N3
+代理,だいり,representation; agency; proxy; deputy; agent,N3
+台,だい,stand; rack; table; support,N3
+大いに,おおいに,very; much; greatly,N3
+大した,たいした,considerable; great; important; significant; a big deal,N3
+大家,おおや,rich family; distinguished family,N3
+大会,たいかい,convention; tournament; mass meeting; rally,N3
+大気,たいき,atmosphere,N3
+大使,たいし,ambassador,N3
+大臣,だいじん,cabinet minister,N3
+大戦,たいせん,great war; great battle,N3
+大抵,たいてい,usually; generally,N3
+大統領,だいとうりょう,president; chief executive,N3
+大半,たいはん,majority; mostly; generally,N3
+大部分,だいぶぶん,most part; greater part; majority,N3
+大変,たいへん,awful; dreadful; terrible; very,N3
+大陸,たいりく,continent,N3
+題,だい,title; subject; theme; topic,N3
+宅,たく,house; home; husband,N3
+叩く,たたく,to strike; to clap; to dust; to beat,N3
+達する,たっする,to reach; to get to,N3
+奪う,うばう,to snatch away,N3
+谷,たに,valley,N3
+誰か,だれか,someone; somebody,N3
+単なる,たんなる,mere; simple; sheer,N3
+単に,たんに,simply; merely; only; solely,N3
+単位,たんい,unit; denomination; credit (in school),N3
+単語,たんご,word; vocabulary; (usually) single-character word,N3
+単純,たんじゅん,simplicity,N3
+担当,たんとう,(in) charge,N3
+端,はし,end (e.g. of street); edge; tip; margin; point,N3
+誕生,たんじょう,birth,N3
+団体,だんたい,organization; association,N3
+弾,たま,bullet; shot; shell,N3
+断る,ことわる,to refuse; to decline; to dismiss,N3
+暖かい,あたたか(い),warm; mild,N3
+段,だん,step; stair; flight of steps; grade; rank; level,N3
+男の人,おとこのひと,man,N3
+男子,だんし,youth; young man,N3
+値,ね,value; price; cost,N3
+値段,ねだん,price; cost,N3
+知らせ,しらせ,notice,N3
+知恵,ちえ,wisdom; wit; sagacity; sense; intelligence; advice,N3
+知事,ちじ,prefectural governor,N3
+知識,ちしき,knowledge; information,N3
+知能,ちのう,intelligence; brains,N3
+地,ち,earth,N3
+地位,ちい,(social) position; status,N3
+地域,ちいき,area; region,N3
+地下,ちか,basement; underground,N3
+地球,ちきゅう,the earth,N3
+地区,ちく,district; section; sector,N3
+地平線,ちへいせん,horizon,N3
+地方,ちほう,area; locality; district; region; the coast,N3
+遅刻,ちこく,lateness; late coming,N3
+茶,ちゃ,tea,N3
+中,ちゅう,inside; middle; among,N3
+中央,ちゅうおう,centre; central; center; middle,N3
+中学,ちゅうがく,middle school; junior high school,N3
+中古,ちゅうこ,(1) used; second-hand; old,N3
+中止,ちゅうし,suspension; stoppage; discontinuance; interruption,N3
+中心,ちゅうしん,center; core; heart; pivot; emphasis; balance,N3
+仲,なか,relation; relationship,N3
+仲間,なかま,company; fellow; colleague; associate,N3
+昼食,ちゅうしょく,lunch; midday meal,N3
+注,ちゅう,annotation; explanatory note,N3
+注ぐ,そそぐ,to pour (into); to irrigate; to pay; to fill; to feed (e.g. a fire),N3
+注文,ちゅうもん,order; request,N3
+注目,ちゅうもく,notice; attention; observation,N3
+虫歯,むしば,cavity; tooth decay; decayed tooth; caries,N3
+駐車,ちゅうしゃ,parking (e.g. car),N3
+著者,ちょしゃ,author; writer,N3
+貯金,ちょきん,(bank) savings,N3
+張る,はる,to stick; to paste,N3
+眺め,ながめ,scene; view; prospect; outlook,N3
+眺める,ながめる,to view; to gaze at,N3
+調査,ちょうさ,investigation; examination; inquiry; survey,N3
+調子,ちょうし,tune; tone; key,N3
+長期,ちょうき,long time period,N3
+頂く,いただく,to receive; to take food or drink (hum),N3
+頂上,ちょうじょう,top; summit; peak,N3
+直,じき,earnestly; immediately; exactly,N3
+直ちに,ただちに,at once; immediately; directly; in person,N3
+直に,じかに,immediately; readily; directly,N3
+直接,ちょくせつ,direct; immediate; personal; firsthand,N3
+沈む,しずむ,to sink; to feel depressed,N3
+追い付く,おいつく,to overtake; to catch up (with),N3
+追う,おう,to chase; to run after,N3
+痛み,いたみ,pain; ache; sore; grief; distress,N3
+通じる,つうじる,to run to; to lead to; to communicate; to understand,N3
+通す,とおす,to let pass; to overlook; to continue,N3
+通り,とおり,in accordance with ~; following ~; ~ Street; ~ Avenue,N3
+通り過ぎる,とおりすぎる,to pass; to pass through,N3
+通過,つうか,passage through; passing,N3
+通学,つうがく,commuting to school,N3
+通行,つうこう,passage; passing,N3
+通信,つうしん,correspondence; communication; news; signal,N3
+掴む,つかむ,to seize; to catch; to grasp,N3
+停留所,ていりゅうじょ,bus or tram stop,N3
+定期,ていき,fixed term,N3
+底,そこ,bottom; sole,N3
+抵抗,ていこう,electrical resistance; resistance; opposition,N3
+提案,ていあん,proposal; proposition; suggestion,N3
+提出,ていしゅつ,presentation; submission; filing,N3
+程,ほど,degree; extent; bounds; limit,N3
+程度,ていど,degree; amount; grade; standard; of the order of (following a number),N3
+諦める,あきらめる,to give up; to abandon,N3
+泥,どろ,mud,N3
+敵,てき,enemy; rival,N3
+笛,ふえ,flute; pipe,N3
+適する,てきする,to fit; to suit,N3
+適切,てきせつ,pertinent; appropriate; adequate; relevance,N3
+適度,てきど,moderate,N3
+適用,てきよう,applying,N3
+溺れる,おぼれる,to be drowned; to indulge in,N3
+哲学,てつがく,philosophy,N3
+徹底,てってい,thoroughness; completeness,N3
+徹夜,てつや,all night; all night vigil; sleepless night,N3
+鉄,てつ,iron,N3
+鉄道,てつどう,railroad,N3
+典型,てんけい,type; pattern; archetypal,N3
+天候,てんこう,weather,N3
+天然,てんねん,nature; spontaneity,N3
+転ぶ,ころぶ,to fall down; to fall over,N3
+伝統,でんとう,tradition; convention,N3
+田,た,rice field,N3
+電子,でんし,electron,N3
+兎,うさぎ,rabbit; hare; cony,N3
+吐く,はく,(1) to breathe; (2) to tell (lies); (3) to vomit; to disgorge,N3
+登山,とざん,mountain-climbing,N3
+途端,とたん,just (now; at the moment; etc.),N3
+都,みやこ,capital,N3
+都会,とかい,city,N3
+都市,とし,town; city; municipal; urban,N3
+努力,どりょく,great effort; exertion; endeavour; effort,N3
+度,たび,counter for occurrences,N3
+土,つち,earth; soil,N3
+土産,みやげ,present; souvenir,N3
+土地,とち,plot of land; lot; soil,N3
+土曜,どよう,Saturday,N3
+倒す,たおす,to throw down; to beat; to bring down; to blow down,N3
+党,とう,party (political),N3
+凍る,こおる,to freeze; to be frozen over; to congeal,N3
+刀,かたな,sword; saber; knife; engraving tool,N3
+塔,とう,tower; pagoda,N3
+投票,とうひょう,voting; poll,N3
+灯,ひ,light,N3
+当たる,あたる,to be hit; to be successful; to be equivalent to,N3
+当てる,あてる,to hit; to apply a patch,N3
+当時,とうじ,at that time; in those days,N3
+等,など,et cetera; etc.; and the like,N3
+等しい,ひとしい,equal,N3
+答案,とうあん,examination paper; examination script,N3
+到着,とうちゃく,arrival,N3
+豆,まめ,beans; peas,N3
+頭痛,ずつう,headache,N3
+働き,はたらき,work; labor,N3
+動かす,うごかす,to move; to shift,N3
+動詞,どうし,verb,N3
+同一,どういつ,identity; sameness; similarity,N3
+同時,どうじ,simultaneous(ly); concurrent; same time; synchronous,N3
+同様,どうよう,identical; equal to; same (kind); like,N3
+同僚,どうりょう,coworker; colleague; associate,N3
+道徳,どうとく,morals,N3
+道路,どうろ,road; highway,N3
+得る,える,to get; to gain; to win,N3
+得意,とくい,pride; triumph; prosperity,N3
+特徴,とくちょう,feature; characteristic,N3
+毒,どく,poison; toxicant,N3
+独り,ひとり,alone; unmarried,N3
+独身,どくしん,bachelorhood; single; unmarried; celibate,N3
+独特,どくとく,peculiarity; uniqueness; characteristic,N3
+独立,どくりつ,independence (e.g. Ind. Day); self-support,N3
+読み,よみ,reading,N3
+読書,どくしょ,reading,N3
+突然,とつぜん,abruptly; suddenly; unexpectedly; all at once,N3
+届く,とどく,to reach,N3
+曇,くもり,cloudiness; cloudy weather; shadow,N3
+内,うち,inside,N3
+内容,ないよう,subject; contents; matter; substance; detail; import,N3
+謎,なぞ,riddle; puzzle; enigma,N3
+鍋,なべ,saucepan; pot,N3
+縄,なわ,rope; hemp,N3
+二十,はたち,20 years old; 20th year,N3
+匂い,におい,odour; scent; smell; stench,N3
+日,にち,sun; sunshine; day,N3
+日光,にっこう,sunlight,N3
+日常,にちじょう,ordinary; regular; everyday; usual,N3
+日中,にっちゅう,daytime; broad daylight,N3
+日付,ひづけ,date; dating,N3
+日本,にっぽん,Japan,N3
+日曜,にちよう,Sunday,N3
+入院,にゅういん,hospitalization,N3
+入学,にゅうがく,entry to school or university; matriculation,N3
+入場,にゅうじょう,entrance; admission; entering,N3
+任せる,まかせる,to entrust to another; to leave to,N3
+認める,みとめる,to recognize; to appreciate; to approve; to admit; to notice,N3
+濡れる,ぬれる,to get wet,N3
+寧ろ,むしろ,rather; better; instead,N3
+熱心,ねっしん,zeal; enthusiasm,N3
+熱帯,ねったい,tropics,N3
+熱中,ねっちゅう,nuts!; enthusiasm; zeal; mania,N3
+年間,ねんかん,year,N3
+年寄,としより,old people; the aged,N3
+年月,としつき,months and years,N3
+年代,ねんだい,age; era; period; date,N3
+年中,ねんじゅう,whole year; always; everyday,N3
+年齢,ねんれい,age; years,N3
+燃える,もえる,to burn,N3
+悩む,なやむ,to be worried; to be troubled,N3
+濃い,こい,thick (as of color; liquid); dense; strong,N3
+納得,なっとく,consent; assent; understanding,N3
+能,のう,being skilled in; nicely; properly,N3
+能力,のうりょく,ability; faculty,N3
+農家,のうか,farmer; farm family,N3
+農業,のうぎょう,agriculture,N3
+農民,のうみん,farmers; peasants,N3
+波,なみ,wave,N3
+破る,やぶる,to tear; to violate; to defeat; to smash; to destroy,N3
+破産,はさん,(personal) bankruptcy,N3
+馬,うま,(1) horse; (2) promoted bishop (shogi),N3
+馬鹿,ばか,fool; idiot; trivial matter; folly,N3
+俳優,はいゆう,actor; actress; player; performer,N3
+背,せい,height; stature,N3
+配達,はいたつ,delivery; distribution,N3
+梅,うめ,plum; plum-tree; lowest (of a three-tier ranking system),N3
+梅雨,つゆ,rainy season; rain during the rainy season,N3
+売れる,うれる,to be sold,N3
+博士,はかせ,doctorate; PhD,N3
+博物館,はくぶつかん,museum,N3
+拍手,はくしゅ,clapping hands; applause,N3
+爆発,ばくはつ,explosion; detonation; eruption,N3
+莫大,ばくだい,enormous; vast,N3
+肌,はだ,skin,N3
+畑,はたけ,field,N3
+発見,はっけん,discovery; detection; finding,N3
+発行,はっこう,issue (publications),N3
+発車,はっしゃ,departure of a vehicle,N3
+発達,はったつ,development; growth,N3
+発展,はってん,development; growth,N3
+発表,はっぴょう,announcement; publication,N3
+発明,はつめい,invention,N3
+髪の毛,かみのけ,hair (head),N3
+罰する,ばっする,to punish; to penalize,N3
+抜く,ぬく,to extract; to omit; to surpass; to draw out; to unplug,N3
+抜ける,ぬける,to come out; to fall out; to be omitted,N3
+判断,はんだん,judgement; decision,N3
+半ば,なかば,middle; half; semi; halfway; partly,N3
+反抗,はんこう,opposition; resistance,N3
+板,いた,board; plank,N3
+犯罪,はんざい,crime,N3
+犯人,はんにん,offender; criminal,N3
+販売,はんばい,sale; selling; marketing,N3
+範囲,はんい,extent; scope; sphere; range,N3
+飯,めし,(sl) meals; food,N3
+否,いや,no; the noes,N3
+否定,ひてい,negation; denial; repudiation,N3
+彼等,かれら,they (usually male),N3
+悲しむ,かなしむ,to be sad; to mourn for; to regret,N3
+悲劇,ひげき,tragedy,N3
+批判,ひはん,criticism; judgement; comment,N3
+批評,ひひょう,criticism; review; commentary,N3
+比較,ひかく,comparison,N3
+疲れ,つかれ,tiredness; fatigue,N3
+皮,かわ,skin; hide; leather; fur; pelt; bark; shell,N3
+秘密,ひみつ,secret; secrecy,N3
+被る,かぶる,to suffer,N3
+被害,ひがい,damage,N3
+費用,ひよう,cost; expense,N3
+避ける,さける,(1) to avoid (physical contact ); (2) to ward off; to avert,N3
+非常,ひじょう,emergency; extraordinary; unusual,N3
+飛ばす,とばす,to skip over; to omit,N3
+飛び出す,とびだす,to jump out; to rush out; to fly out,N3
+飛行,ひこう,aviation,N3
+備える,そなえる,to furnish; to provide for; to equip; to install,N3
+微笑む,ほほえむ,to smile,N3
+微妙,びみょう,delicate; subtle,N3
+美人,びじん,beautiful person (woman),N3
+膝,ひざ,knee; lap,N3
+必ずしも,かならずしも,(not) always; (not) necessarily; (not) all; (not) entirely,N3
+必死,ひっし,inevitable death; desperation; frantic; inevitable result,N3
+筆,ふで,writing brush,N3
+紐,ひも,(1) string; cord; (2) pimp,N3
+氷,こおり,ice; hail,N3
+表,ひょう,table (e.g. Tab 1); chart; list,N3
+表す,あらわす,to express; to show; to reveal,N3
+表現,ひょうげん,expression; presentation; representation (math),N3
+表情,ひょうじょう,facial expression,N3
+表面,ひょうめん,surface; outside; face; appearance,N3
+評価,ひょうか,valuation; estimation; assessment; evaluation,N3
+評判,ひょうばん,fame; reputation; popularity; arrant,N3
+描く,えがく,to draw; to paint; to sketch; to depict; to describe,N3
+秒,びょう,second (60th min),N3
+品,しな,thing; article; goods; dignity; article (goods); counter for meal courses,N3
+貧しい,まずしい,poor; needy,N3
+瓶,びん,bottle,N3
+不,ふ,un; non; negative prefix,N3
+不安,ふあん,anxiety; uneasiness; insecurity; suspense,N3
+不可,ふか,wrong; bad; improper; unjustifiable; inadvisable,N3
+不幸,ふこう,unhappiness; sorrow; misfortune; disaster; accident; death,N3
+不思議,ふしぎ,mystery; curiosity,N3
+不自由,ふじゆう,discomfort; disability; inconvenience; destitution,N3
+不正,ふせい,injustice; unfairness,N3
+不足,ふそく,insufficiency; shortage; deficiency; lack; dearth,N3
+不平,ふへい,complaint; discontent; dissatisfaction,N3
+不満,ふまん,dissatisfaction; displeasure; discontent; complaints; unhappiness,N3
+不利,ふり,disadvantage; handicap; unfavorable; drawback,N3
+付き合い,つきあい,association; socializing; fellowship,N3
+付ける,つける,to attach; to join; to add; to append,N3
+夫人,ふじん,wife; Mrs; madam,N3
+夫婦,ふうふ,married couple; husband and wife,N3
+婦人,ふじん,woman; female,N3
+布,ぬの,cloth,N3
+普段,ふだん,usually; habitually; ordinarily; always,N3
+父親,ちちおや,father,N3
+腐る,くさる,to rot; to go bad,N3
+負け,まけ,defeat; loss; losing (a game),N3
+武器,ぶき,weapon; arms; ordinance,N3
+舞台,ぶたい,stage (theatre),N3
+部分,ぶぶん,portion; section; part,N3
+風景,ふうけい,scenery,N3
+風呂,ふろ,bath,N3
+幅,はば,width; breadth,N3
+服装,ふくそう,garments,N3
+腹,はら,abdomen; belly; stomach,N3
+覆う,おおう,to cover; to hide; to conceal; to wrap; to disguise,N3
+仏,ほとけ,Buddha; merciful person; Buddhist image; the dead,N3
+物音,ものおと,sounds,N3
+物価,ぶっか,prices of commodities; prices (in general),N3
+物語,ものがたり,tale; story; legend,N3
+物事,ものごと,things; everything,N3
+物質,ぶっしつ,material; substance,N3
+物理,ぶつり,physics,N3
+分,ぶ,dividing; part,N3
+分ける,わける,to divide; to separate,N3
+分析,ぶんせき,analysis,N3
+分野,ぶんや,field; sphere; realm; division; branch,N3
+粉,こな,flour; meal; powder,N3
+雰囲気,ふんいき,atmosphere (e.g. musical); mood; ambience,N3
+文,ぶん,sentence,N3
+文句,もんく,phrase; complaint,N3
+文字,もじ,letter (of alphabet); character,N3
+文明,ぶんめい,civilization; culture,N3
+塀,へい,wall; fence,N3
+平ら,たいら,flatness; level; smooth; calm; plain,N3
+平均,へいきん,equilibrium; balance; average; mean,N3
+平等,びょうどう,equality (a); impartiality; evenness,N3
+平和,へいわ,peace; harmony,N3
+柄,え,handle; grip,N3
+閉じる,とじる,to close (e.g. book; eyes); to shut,N3
+癖,くせ,a habit (often a bad habit); peculiarity,N3
+別に,べつに,(not) particularly; nothing,N3
+別れ,わかれ,parting; separation; farewell,N3
+変化,へんか,goblin; ghost; apparition; bugbear,N3
+変更,へんこう,change; modification; alteration,N3
+辺り,あたり,vicinity; nearby,N3
+便,びん,way; means,N3
+便り,たより,news; tidings; information; correspondence; letter,N3
+勉強,べんきょう,study; diligence; discount; reduction,N3
+弁当,べんとう,box lunch,N3
+保証,ほしょう,guarantee; security; assurance; pledge; warranty,N3
+保存,ほぞん,preservation; conservation; storage; maintenance,N3
+捕まる,つかまる,to be caught; to be arrested,N3
+歩道,ほどう,footpath; walkway; sidewalk,N3
+墓,はか,grave; tomb,N3
+暮らし,くらし,living; livelihood; subsistence; circumstances,N3
+暮らす,くらす,to live; to get along,N3
+暮れ,くれ,year end; sunset; nightfall; end,N3
+母親,ははおや,mother,N3
+包み,つつみ,bundle; package; parcel; bale,N3
+報告,ほうこく,report; information,N3
+宝,たから,treasure,N3
+宝石,ほうせき,gem; jewel,N3
+抱える,かかえる,to hold or carry under or in the arms,N3
+抱く,いだく,(sl) to embrace; to hug; to harbour; to entertain,N3
+放す,はなす,to separate; to set free,N3
+放送,ほうそう,broadcast; broadcasting,N3
+方,ほう,side,N3
+方々,かたがた,persons; this and that; here and there; everywhere,N3
+方向,ほうこう,direction; course; way,N3
+方法,ほうほう,method; manner; way; means; technique,N3
+法,ほう,Act (law: the X Act),N3
+泡,あわ,bubble; foam; froth; head on beer,N3
+褒める,ほめる,to praise; to admire; to speak well,N3
+訪問,ほうもん,call; visit,N3
+豊か,ゆたか,abundant; wealthy; plentiful; rich,N3
+豊富,ほうふ,abundance; wealth; plenty; bounty,N3
+飽きる,あきる,to get tired of; to lose interest in; to have enough,N3
+望み,のぞみ,wish; desire; (a) hope,N3
+望む,のぞむ,to desire; to wish for; to see; to command (a view of),N3
+棒,ぼう,pole; rod; stick,N3
+冒険,ぼうけん,risk; venture; adventure,N3
+防ぐ,ふせぐ,to defend (against); to protect; to prevent,N3
+吠える,ほえる,to bark; to bay; to howl; to bellow; to roar; to cry,N3
+頬,ほほ,cheek (of face),N3
+本人,ほんにん,the person himself,N3
+本当,ほんと,truth; reality,N3
+本物,ほんもの,genuine article,N3
+幕,まく,curtain; bunting; act (in play),N3
+又,また,again; and,N3
+末,すえ,the end of; powder,N3
+万一,まんいち,by some chance; by some possibility; if by any chance; 10E4:1 odds,N3
+満ちる,みちる,to be full; to rise (tide); to mature; to expire,N3
+満足,まんぞく,satisfaction,N3
+味方,みかた,friend; ally; supporter,N3
+未だ,まだ,yet; still; more; besides,N3
+未来,みらい,future (life; tense),N3
+魅力,みりょく,charm; fascination; glamour,N3
+妙,みょう,strange; unusual,N3
+務め,つとめ,(1) service; duty; (2) Buddhist religious services,N3
+夢中,むちゅう,daze; (in a) trance; ecstasy; delirium; engrossment,N3
+無,ぶ,nothing; naught; nil; zero,N3
+無し,なし,without,N3
+無視,むし,disregard; ignore,N3
+無事,ぶじ,safety; peace; quietness,N3
+無駄,むだ,futility; uselessness,N3
+無料,むりょう,free; no charge,N3
+霧,きり,fog; mist,N3
+名,な,name; reputation,N3
+名人,めいじん,master; expert,N3
+命,いのち,command; decree; life; destiny,N3
+命じる,めいじる,to order; to command; to appoint,N3
+命令,めいれい,order; command; decree; directive; (software) instruction,N3
+明かり,あかり,lamplight; light (in general); brightness,N3
+明ける,あける,to dawn; to become daylight,N3
+明らか,あきらか,obvious; evident; clear,N3
+明確,めいかく,clear up; clarify; define,N3
+明後日,みょうごにち,day after tomorrow,N3
+迷子,まいご,lost (stray) child,N3
+迷惑,めいわく,trouble; bother; annoyance,N3
+滅多に,めったに,rarely (with neg. verb); seldom,N3
+免許,めんきょ,license; permit; licence; certificate,N3
+綿,めん,cotton; padding,N3
+面,めん,face; mug; surface; facial features; mask; face guard; side or facet; corner; page,N3
+面倒,めんどう,trouble; difficulty; care; attention,N3
+模様,もよう,pattern; figure; design,N3
+毛布,もうふ,blanket,N3
+木曜,もくよう,Thursday,N3
+黙る,だまる,to be silent,N3
+目的,もくてき,purpose; goal; aim; objective; intention,N3
+目標,もくひょう,mark; objective; target,N3
+勿論,もちろん,of course; certainly; naturally,N3
+尤も,もっとも,quite right; plausible; natural; but then; although,N3
+戻す,もどす,to restore; to put back; to return,N3
+貰う,もらう,to receive,N3
+問い,とい,question; query,N3
+夜,よ,evening; night,N3
+夜中,よなか,midnight; dead of night,N3
+夜明け,よあけ,dawn; daybreak,N3
+野,の,field,N3
+厄介,やっかい,trouble; burden; care; bother,N3
+役,やく,use; service; role; position,N3
+役割,やくわり,part; assigning (allotment of) parts; role; duties,N3
+約,やく,approximately; about; some,N3
+訳,やく,meaning; reason; circumstances; can be deduced; situation,N3
+愉快,ゆかい,pleasant; happy,N3
+油,あぶら,oil,N3
+輸出,ゆしゅつ,export,N3
+輸入,ゆにゅう,importation; import; introduction,N3
+唯,ただ,free of charge; mere; sole; only; usual; common,N3
+唯一,ゆいいつ,only; sole; unique,N3
+優れる,すぐれる,to surpass; to outstrip; to excel,N3
+優秀,ゆうしゅう,superiority; excellence,N3
+優勝,ゆうしょう,overall victory; championship,N3
+勇気,ゆうき,courage; bravery; valour; nerve; boldness,N3
+友,とも,friend; companion; pal,N3
+友情,ゆうじょう,friendship; fellowship,N3
+友人,ゆうじん,friend,N3
+有る,ある,to be; to have,N3
+有効,ゆうこう,validity; availability; effectiveness,N3
+有能,ゆうのう,able; capable; efficient; skill,N3
+有利,ゆうり,advantageous; better; profitable; lucrative,N3
+誘う,さそう,(1) to invite; to ask; (2) to tempt; to lure; to induce,N3
+郵便,ゆうびん,mail; postal service,N3
+夕べ,ゆうべ,evening,N3
+予期,よき,expectation; assume will happen; forecast,N3
+予算,よさん,estimate; budget,N3
+予測,よそく,prediction; estimation,N3
+予報,よほう,forecast; prediction,N3
+予防,よぼう,prevention; precaution; protection against,N3
+余り,あまり,not very (used as adverb); not much,N3
+余分,よぶん,extra; excess; surplus,N3
+余裕,よゆう,surplus; composure; margin; room; time; allowance; scope; rope,N3
+与える,あたえる,to give; to present; to award,N3
+預ける,あずける,to give into custody; to entrust; to deposit,N3
+幼い,おさない,very young; childish,N3
+容易,ようい,easy; simple; plain,N3
+曜日,ようび,day of the week,N3
+様,よう,way; manner; kind,N3
+様々,さまざま,varied; various,N3
+様子,ようす,aspect; state; appearance,N3
+用いる,もちいる,to use; to make use of,N3
+用心,ようじん,care; precaution; guarding; caution,N3
+要するに,ようするに,in a word; after all; the point is ..; in short ..,N3
+要求,ようきゅう,request; demand; requisition,N3
+要素,ようそ,element,N3
+要点,ようてん,gist; main point,N3
+陽気,ようき,season; weather; cheerfulness,N3
+浴びる,あびる,to bathe; to bask in the sun; to shower,N3
+翼,つばさ,wings,N3
+裸,はだか,naked; nude,N3
+来,らい,for (10 days); next (year),N3
+頼る,たよる,to rely on; to have recourse to; to depend on,N3
+雷,かみなり,thunder,N3
+嵐,あらし,storm; tempest,N3
+利益,りえき,profits; gains; (political; economic) interest,N3
+利口,りこう,clever; shrewd; bright; sharp; wise; intelligent,N3
+履く,はく,to wear; to put on (lower body),N3
+理解,りかい,understanding; comprehension,N3
+理想,りそう,ideal,N3
+裏切る,うらぎる,to betray; to turn traitor to; to double-cross,N3
+離す,はなす,to part; divide; separate,N3
+離れる,はなれる,to be separated from; to leave; to go away; to be a long way off,N3
+離婚,りこん,divorce,N3
+陸,りく,six (used in legal documents),N3
+率,りつ,rate; ratio; proportion; percentage,N3
+立ち上がる,たちあがる,to stand up,N3
+立場,たちば,standpoint; position; situation,N3
+立派,りっぱ,splendid; fine; handsome; elegant; imposing; prominent; legal; legitimate,N3
+流す,ながす,to drain; to float; to shed (blood; tears); to cruise (e.g. taxi),N3
+流れ,ながれ,stream; current,N3
+流れる,ながれる,to stream; to flow; to run (ink); to be washed away,N3
+流行,りゅうこう,fashionable; fad; in vogue; prevailing,N3
+留める,とめる,to fasten; to turn off; to detain,N3
+留学,りゅうがく,studying abroad,N3
+旅,たび,travel; trip; journey,N3
+両替,りょうがえ,change; money exchange,N3
+料金,りょうきん,fee; charge; fare,N3
+量,りょう,quantity; amount; volume; portion (of food),N3
+輪,わ,ring; hoop; circle,N3
+涙,なみだ,tear,N3
+例,れい,instance; example; case,N3
+冷静,れいせい,calm; composure; coolness; serenity,N3
+礼,れい,expression of gratitude,N3
+礼儀,れいぎ,manners; courtesy; etiquette,N3
+列,れつ,queue; line; row,N3
+列車,れっしゃ,train (ordinary),N3
+劣る,おとる,to fall behind; to be inferior to,N3
+恋,こい,love; tender passion,N3
+恋人,こいびと,lover; sweetheart,N3
+練習,れんしゅう,practice,N3
+連れ,つれ,companion; company,N3
+連想,れんそう,association (of ideas); suggestion,N3
+連続,れんぞく,serial; consecutive; continuity; continuing,N3
+労働,ろうどう,manual labor; toil; work,N3
+老い,おい,old age; old person; the old; the aged,N3
+老人,ろうじん,the aged; old person,N3
+論じる,ろんじる,to argue; to discuss; to debate,N3
+論争,ろんそう,controversy; dispute,N3
+論文,ろんぶん,thesis; essay; treatise; paper,N3
+話し合う,はなしあう,to discuss; to talk together,N3
+話題,わだい,topic; subject,N3
+脇,わき,side,N3
+湾,わん,bay; gulf; inlet,N3
+埃,ほこり,dust,N3
+罹る,かかる,to suffer from,N3
+籠,かご,basket; cage,N3
+贅沢,ぜいたく,luxury; extravagance,N3
+轢く,ひく,to run somebody over (with vehicle); to knock someone down,N3

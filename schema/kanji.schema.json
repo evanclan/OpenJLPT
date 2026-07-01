@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://openjlpt.dev/schema/kanji.schema.json",
+  "title": "OpenJLPT Kanji Entry",
+  "description": "A single JLPT kanji at a given level, enriched from KANJIDIC2.",
+  "type": "object",
+  "required": ["character", "level", "onyomi", "kunyomi", "meanings"],
+  "additionalProperties": false,
+  "properties": {
+    "character": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 2,
+      "description": "The kanji character (maxLength 2 allows for surrogate-pair code points)."
+    },
+    "level": {
+      "type": "string",
+      "enum": ["N5", "N4", "N3", "N2", "N1"],
+      "description": "JLPT level (current N5–N1 system, derived from Waller's lists)."
+    },
+    "strokes": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "description": "Stroke count (from KANJIDIC2)."
+    },
+    "grade": {
+      "type": ["integer", "null"],
+      "description": "Japanese school grade / jōyō classification (from KANJIDIC2)."
+    },
+    "freq": {
+      "type": ["integer", "null"],
+      "description": "Frequency rank in newspapers, 1 = most frequent (from KANJIDIC2)."
+    },
+    "onyomi": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "On'yomi readings (katakana)."
+    },
+    "kunyomi": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Kun'yomi readings (hiragana)."
+    },
+    "meanings": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "English meanings (from KANJIDIC2, falling back to Waller)."
+    }
+  }
+}

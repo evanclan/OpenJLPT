@@ -1,0 +1,60 @@
+{
+  "name": "openjlpt",
+  "version": "0.1.0",
+  "description": "Open, correctly-licensed JLPT N5–N1 dataset (vocabulary + kanji) with JSON, CSV, and a prebuilt SQLite database.",
+  "keywords": [
+    "jlpt",
+    "japanese",
+    "japanese-language",
+    "kanji",
+    "vocabulary",
+    "n5",
+    "n4",
+    "n3",
+    "n2",
+    "n1",
+    "dataset",
+    "language-learning",
+    "flashcards",
+    "anki",
+    "sqlite"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./data/*": "./data/*"
+  },
+  "files": [
+    "dist",
+    "data/json",
+    "data/csv",
+    "schema",
+    "NOTICE.md"
+  ],
+  "scripts": {
+    "fetch": "tsx scripts/fetch-sources.ts",
+    "build:data": "tsx scripts/build-vocab.ts && tsx scripts/build-kanji.ts && tsx scripts/build-sqlite.ts",
+    "build": "npm run fetch && npm run build:data && npm run validate",
+    "validate": "tsx scripts/validate.ts",
+    "build:pkg": "tsc -p tsconfig.build.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "better-sqlite3": "^11.7.0",
+    "fast-xml-parser": "^4.5.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://openjlpt.dev/schema/vocab.schema.json",
+  "title": "OpenJLPT Vocabulary Entry",
+  "description": "A single JLPT vocabulary item at a given level.",
+  "type": "object",
+  "required": ["word", "reading", "meanings", "level"],
+  "additionalProperties": false,
+  "properties": {
+    "word": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Headword as written (kanji, mixed, or kana-only)."
+    },
+    "reading": {
+      "type": "string",
+      "description": "Kana reading. May be empty when the word is already kana-only."
+    },
+    "meanings": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 },
+      "description": "English glosses."
+    },
+    "level": {
+      "type": "string",
+      "enum": ["N5", "N4", "N3", "N2", "N1"],
+      "description": "JLPT level (current N5–N1 system)."
+    }
+  }
+}

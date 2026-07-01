@@ -1,0 +1,663 @@
+word,reading,meanings,level
+あさって,,day after tomorrow,N5
+あそこ,,over there,N5
+あちら,,there,N5
+あっち,,over there,N5
+あなた,,you,N5
+あの,,that over there,N5
+アパート,,apartment,N5
+あびる,,to bathe; to shower,N5
+あまり,,not very,N5
+ある,,to be; to have (used for inanimate objects),N5
+あれ,,that,N5
+いい/よい,,good,N5
+いいえ,,no,N5
+いかが,,how,N5
+いくつ,,how many?; how old?,N5
+いくら,,how much?,N5
+いす,,chair,N5
+いちばん,,best; first,N5
+いつ,,when,N5
+いつも,,always,N5
+いろいろ,,various,N5
+ええ,,yes,N5
+エレベーター,,elevator,N5
+おいしい,,delicious,N5
+おなか,,stomach,N5
+おばあさん,,grandmother; female senior-citizen,N5
+おまわりさん,,friendly term for policeman,N5
+おもしろい,,interesting,N5
+お菓子,おかし,sweets; candy,N5
+お金,おかね,money,N5
+お兄さん,おにいさん,(honorable) older brother,N5
+お皿,おさら,plate; dish,N5
+お姉さん,おねえさん,(honorable) older sister,N5
+お手洗い,おてあらい,bathroom,N5
+お酒,おさけ,alcohol; rice wine,N5
+お茶,おちゃ,green tea,N5
+お父さん,おとうさん,(honorable) father,N5
+お風呂,おふろ,bath,N5
+お弁当,おべんとう,boxed lunch,N5
+お母さん,おかあさん,(honorable) mother,N5
+かかる,,to take time or money,N5
+かぎ,,key,N5
+かける,,to call by phone,N5
+カップ,,cup,N5
+かばん,,bag; basket,N5
+カメラ,,camera,N5
+カレー,,curry,N5
+カレンダー,,calendar,N5
+かわいい,,cute,N5
+ギター,,guitar,N5
+きれい,,pretty; clean,N5
+キロ/キログラム,,kilogram,N5
+キロ/キロメートル,,kilometre,N5
+ください,,please,N5
+クラス,,class,N5
+グラム,,gram,N5
+コート,,coat; tennis court,N5
+コーヒー,,coffee,N5
+ここ,,here,N5
+こちら,,this person or way,N5
+こっち,,this person or way,N5
+コップ,,a glass,N5
+この,,this,N5
+コピーする,,to copy,N5
+これ,,this,N5
+こんな,,such,N5
+さあ,,well…,N5
+さ来年,さらいねん,year after next,N5
+しかし,,however,N5
+じゃ/じゃあ,,well then…,N5
+シャツ,,shirt,N5
+シャワー,,shower,N5
+しょうゆ,,soy sauce,N5
+スカート,,skirt,N5
+すぐに,,instantly,N5
+ストーブ,,heater,N5
+スプーン,,spoon,N5
+スポーツ,,sport,N5
+ズボン,,trousers,N5
+スリッパ,,slippers,N5
+する,,to do,N5
+セーター,,sweater; jumper,N5
+せっけん,,economy,N5
+ゼロ,,zero,N5
+そうして/そして,,and,N5
+そこ,,that place,N5
+そちら,,over there,N5
+そっち,,over there,N5
+その,,that,N5
+そば,,near; beside,N5
+それ,,that,N5
+それから,,after that,N5
+それでは,,in that situation,N5
+たいへん,,very,N5
+たくさん,,many,N5
+タクシー,,taxi,N5
+たて,,length; height,N5
+たばこ,,tobacco; cigarettes,N5
+たぶん,,probably,N5
+だんだん,,gradually,N5
+ちゃわん,,rice bowl,N5
+ちょうど,,exactly,N5
+ちょっと,,somewhat,N5
+つける,,to turn on,N5
+つまらない,,boring,N5
+テープ,,tape,N5
+テーブル,,table,N5
+テープレコーダー,,tape recorder,N5
+できる,,to be able to,N5
+テスト,,test,N5
+では,,with that...,N5
+デパート,,department store,N5
+でも,,but,N5
+テレビ,,television,N5
+ドア,,Western style door,N5
+トイレ,,toilet,N5
+どう,,how; in what way,N5
+どうして,,for what reason,N5
+どうぞ,,please,N5
+どうも,,thanks,N5
+どこ,,where,N5
+どちら,,which of two,N5
+どっち,,which,N5
+とても,,very,N5
+どなた,,who,N5
+どの,,which,N5
+とり肉,とりにく,chicken meat,N5
+どれ,,which (of three or more),N5
+ナイフ,,knife,N5
+なぜ,,why,N5
+など,,et cetera,N5
+なる,,to become,N5
+ニュース,,news,N5
+ネクタイ,,tie; necktie,N5
+ノート,,notebook; exercise book,N5
+パーティー,,party,N5
+はい,,yes,N5
+はく,,to wear; to put on trousers,N5
+はし,,chopsticks,N5
+バス,,bus,N5
+バター,,butter,N5
+パン,,bread,N5
+ハンカチ,,handkerchief,N5
+フィルム,,roll of film,N5
+プール,,swimming pool,N5
+フォーク,,fork,N5
+ふろ,,bath,N5
+ページ,,page,N5
+ベッド,,bed,N5
+ペット,,pet,N5
+ペン,,pen,N5
+ボールペン,,ball-point pen,N5
+ほか,,other; the rest,N5
+ポケット,,pocket,N5
+ポスト,,post,N5
+ボタン,,button,N5
+ホテル,,hotel,N5
+ほんとう,,truth,N5
+まずい,,unpleasant,N5
+また,,again; and,N5
+まだ,,yet; still,N5
+まっすぐ,,straight ahead; direct,N5
+マッチ,,match,N5
+みんな,,everyone,N5
+メートル,,metre,N5
+もう,,already,N5
+もう一度,もういちど,again,N5
+もっと,,more,N5
+やる,,to do,N5
+ゆっくりと,,slowly,N5
+よく,,often; well,N5
+より、ほう,,Used for comparison.,N5
+ラジオ,,radio,N5
+ラジカセ / ラジオカセット,,radio cassette player,N5
+りっぱ,,splendid,N5
+レコード,,record,N5
+レストラン,,restaurant,N5
+ワイシャツ,,business shirt,N5
+悪い,わるい,bad,N5
+飴,あめ,candy,N5
+安い,やすい,cheap,N5
+暗い,くらい,gloomy,N5
+意味,いみ,meaning,N5
+易しい,やさしい,easy; simple,N5
+違う,ちがう,to differ,N5
+医者,いしゃ,medical doctor,N5
+一,いち,one,N5
+一つ,ひとつ,one,N5
+一月,ひとつき,one month,N5
+一昨日,おととい,day before yesterday,N5
+一昨年,おととし,year before last,N5
+一緒,いっしょ,together,N5
+一人,ひとり,one person,N5
+一日,いちにち,(1) one day; (2) first of month,N5
+引く,ひく,to pull,N5
+飲み物,のみもの,a drink,N5
+飲む,のむ,to drink,N5
+右,みぎ,right side,N5
+雨,あめ,rain,N5
+映画,えいが,movie,N5
+映画館,えいがかん,cinema,N5
+泳ぐ,およぐ,to swim,N5
+英語,えいご,English language,N5
+駅,えき,station,N5
+遠い,とおい,far,N5
+鉛筆,えんぴつ,pencil,N5
+塩,しお,salt,N5
+汚い,きたない,dirty,N5
+奥さん,おくさん,(honorable) wife,N5
+押す,おす,to push; to stamp something,N5
+横,よこ,beside; side; width,N5
+黄色,きいろ,yellow,N5
+黄色い,きいろい,yellow,N5
+温い,ぬるい,luke warm,N5
+音楽,おんがく,music,N5
+下,した,below,N5
+下手,へた,unskillful,N5
+何,なん/なに,what,N5
+夏,なつ,summer,N5
+夏休み,なつやすみ,summer holiday,N5
+家,いえ,house,N5
+家族,かぞく,family,N5
+家庭,かてい,household,N5
+暇,ひま,free time,N5
+果物,くだもの,fruit,N5
+歌,うた,song,N5
+歌う,うたう,to sing,N5
+火曜日,かようび,Tuesday,N5
+花,はな,flower,N5
+花瓶,かびん,a vase,N5
+荷物,にもつ,luggage,N5
+会う,あう,to meet,N5
+会社,かいしゃ,company,N5
+海,うみ,sea,N5
+灰皿,はいざら,ashtray,N5
+皆さん,みなさん,everyone,N5
+絵,え,picture,N5
+開く,あく,to open; to become open,N5
+開ける,あける,to open,N5
+階段,かいだん,stairs,N5
+外,そと,outside,N5
+外国,がいこく,foreign country,N5
+外国人,がいこくじん,foreigner,N5
+覚える,おぼえる,to remember,N5
+角,かど,a corner,N5
+学校,がっこう,school,N5
+学生,がくせい,student,N5
+楽しい,たのしい,enjoyable,N5
+寒い,さむい,cold,N5
+漢字,かんじ,Chinese character,N5
+甘い,あまい,sweet,N5
+丸い/円い,まるい,round; circular,N5
+眼鏡,めがね,glasses,N5
+危ない,あぶない,dangerous,N5
+机,つくえ,desk,N5
+帰る,かえる,to go back,N5
+起きる,おきる,to get up,N5
+喫茶店,きっさてん,coffee lounge,N5
+休み,やすみ,rest; holiday,N5
+休む,やすむ,to rest,N5
+吸う,すう,to smoke; to suck,N5
+牛肉,ぎゅうにく,beef,N5
+牛乳,ぎゅうにゅう,milk,N5
+去年,きょねん,last year,N5
+居る,いる,to be; to have (used for people and animals),N5
+魚,さかな,fish,N5
+強い,つよい,powerful,N5
+教える,おしえる,to teach; to tell,N5
+教室,きょうしつ,classroom,N5
+橋,はし,bridge,N5
+狭い,せまい,narrow,N5
+曲る,まがる,to turn; to bend,N5
+勤める,つとめる,to work for someone,N5
+近い,ちかい,near,N5
+近く,ちかく,near,N5
+金曜日,きんようび,Friday,N5
+銀行,ぎんこう,bank,N5
+九,きゅう / く,nine,N5
+九つ,ここのつ,nine,N5
+九日,ここのか,nine days; ninth day,N5
+空,そら,sky,N5
+靴,くつ,shoes,N5
+靴下,くつした,socks,N5
+兄,あに,(humble) older brother,N5
+兄弟,きょうだい,(humble) siblings,N5
+警官,けいかん,policeman,N5
+軽い,かるい,light,N5
+結構,けっこう,splendid; enough,N5
+結婚,けっこん,marriage,N5
+月曜日,げつようび,Monday,N5
+嫌,いや,unpleasant,N5
+嫌い,きらい,hate,N5
+建物,たてもの,building,N5
+犬,いぬ,dog,N5
+見せる,みせる,to show,N5
+見る 観る,みる,to see; to watch,N5
+元気,げんき,health; vitality,N5
+玄関,げんかん,entry hall,N5
+言う,いう,to say,N5
+言葉,ことば,word; language,N5
+古い,ふるい,old (not used for people),N5
+呼ぶ,よぶ,to call out; to invite,N5
+戸,と,Japanese style door,N5
+五,ご,five,N5
+五つ,いつつ,five,N5
+五日,いつか,five days; fifth day,N5
+午後,ごご,afternoon,N5
+午前,ごぜん,morning,N5
+後,あと,afterwards,N5
+後ろ,うしろ,behind,N5
+御飯,ごはん,cooked rice; meal,N5
+交差点,こうさてん,intersection,N5
+交番,こうばん,police box,N5
+公園,こうえん,park,N5
+厚い,あつい,kind; deep; thick,N5
+口,くち,mouth; opening,N5
+向こう,むこう,over there,N5
+好き,すき,likeable,N5
+広い,ひろい,spacious; wide,N5
+紅茶,こうちゃ,black tea,N5
+行く,いく,to go,N5
+降りる,おりる,to get off; to descend,N5
+降る,ふる,to fall; e.g. rain or snow,N5
+高い,たかい,tall; expensive,N5
+国,くに,country,N5
+黒,くろ,black,N5
+黒い,くろい,black,N5
+今,いま,now,N5
+今月,こんげつ,this month,N5
+今週,こんしゅう,this week,N5
+今朝,けさ,this morning,N5
+今日,きょう,today,N5
+今年,ことし,this year,N5
+今晩,こんばん,this evening,N5
+困る,こまる,to be worried,N5
+左,ひだり,left hand side,N5
+差す,さす,to stretch out hands; to raise an umbrella,N5
+砂糖,さとう,sugar,N5
+座る,すわる,to sit,N5
+細い,ほそい,thin,N5
+財布,さいふ,wallet,N5
+咲く,さく,to bloom,N5
+作る,つくる,to make,N5
+作文,さくぶん,composition; writing,N5
+昨日,きのう,yesterday,N5
+昨夜,ゆうべ,last night,N5
+撮る,とる,to take a photo or record a film,N5
+雑誌,ざっし,magazine,N5
+三,さん,three,N5
+三つ,みっつ,three,N5
+三日,みっか,three days; third day of the month,N5
+傘,かさ,umbrella,N5
+山,やま,mountain,N5
+散歩,さんぽする,to stroll,N5
+仕事,しごと,job,N5
+使う,つかう,to use,N5
+四,し / よん,four,N5
+四つ,よっつ,four,N5
+四日,よっか,four days; fouth day of the month,N5
+始まる,はじまる,to begin,N5
+姉,あね,(humble) older sister,N5
+子供,こども,child,N5
+止まる,とまる,to come to a halt,N5
+死ぬ,しぬ,to die,N5
+私,わたくし,(humble) I; myself,N5
+紙,かみ,paper,N5
+歯,は,tooth,N5
+字引,じびき,dictionary,N5
+持つ,もつ,to hold,N5
+時々,ときどき,sometimes,N5
+時間,じかん,time,N5
+時計,とけい,watch; clock,N5
+次,つぎ,next,N5
+耳,みみ,ear,N5
+自転車,じてんしゃ,bicycle,N5
+自動車,じどうしゃ,automobile,N5
+自分,じぶん,oneself,N5
+辞書,じしょ,dictionary,N5
+七,しち / なな,seven,N5
+七つ,ななつ,seven,N5
+七日,なのか,seven days; the seventh day,N5
+質問,しつもん,question,N5
+写真,しゃしん,photograph,N5
+車,くるま,car; vehicle,N5
+借りる,かりる,to borrow,N5
+若い,わかい,young,N5
+弱い,よわい,weak,N5
+取る,とる,to take something,N5
+手,て,hand,N5
+手紙,てがみ,letter,N5
+授業,じゅぎょう,lesson; class work,N5
+秋,あき,autumn,N5
+終る,おわる,to finish,N5
+習う,ならう,to learn,N5
+住む,すむ,to live in,N5
+十,じゅう とお,ten,N5
+十日,とおか,ten days; the tenth day,N5
+重い,おもい,heavy,N5
+宿題,しゅくだい,homework,N5
+出かける,でかける,to go out,N5
+出す,だす,to put out,N5
+出る,でる,to appear; to leave,N5
+出口,でぐち,exit,N5
+春,はる,spring,N5
+初め/始め,はじめ,beginning,N5
+初めて,はじめて,for the first time,N5
+所,ところ,place,N5
+暑い,あつい,hot,N5
+書く,かく,to write,N5
+女,おんな,woman,N5
+女の子,おんなのこ,girl,N5
+小さい,ちいさい,little,N5
+小さな,ちいさな,little,N5
+少し,すこし,few,N5
+少ない,すくない,a few,N5
+消える,きえる,to disappear,N5
+消す,けす,to erase; to turn off power,N5
+上,うえ,on top of,N5
+上げる,あげる,to give,N5
+上手,じょうず,skillful,N5
+上着,うわぎ,jacket,N5
+丈夫,じょうぶ,strong; durable,N5
+乗る,のる,to get on; to ride,N5
+色,いろ,colour,N5
+食べる,たべる,to eat,N5
+食べ物,たべもの,food,N5
+食堂,しょくどう,dining hall,N5
+寝る,ねる,to go to bed; to sleep,N5
+新しい,あたらしい,new,N5
+新聞,しんぶん,newspaper,N5
+辛い,からい,spicy,N5
+人,ひと,person,N5
+図書館,としょかん,library,N5
+吹く,ふく,to blow,N5
+水,みず,water,N5
+水曜日,すいようび,Wednesday,N5
+晴れ,はれ,clear weather,N5
+晴れる,はれる,to be sunny,N5
+生まれる,うまれる,to be born,N5
+生徒,せいと,pupil,N5
+声,こえ,voice,N5
+西,にし,west,N5
+青,あお,blue,N5
+青い,あおい,blue,N5
+静か,しずか,quiet,N5
+赤,あか,red,N5
+赤い,あかい,red,N5
+切る,きる,to cut,N5
+切手,きって,postage stamp,N5
+切符,きっぷ,ticket,N5
+雪,ゆき,snow,N5
+先,さき,the future; previous,N5
+先月,せんげつ,last month,N5
+先週,せんしゅう,last week,N5
+先生,せんせい,teacher; doctor,N5
+千,せん,thousand,N5
+川/河,かわ,river,N5
+洗う,あらう,to wash,N5
+洗濯,せんたく,washing,N5
+前,まえ,before,N5
+全部,ぜんぶ,all,N5
+掃除,そうじする,to clean; to sweep,N5
+早い,はやい,early,N5
+窓,まど,window,N5
+走る,はしる,to run,N5
+足,あし,foot; leg,N5
+速い,はやい,quick,N5
+村,むら,village,N5
+多い,おおい,many,N5
+太い,ふとい,fat,N5
+体,からだ,body,N5
+待つ,まつ,to wait,N5
+貸す,かす,to lend,N5
+台所,だいどころ,kitchen,N5
+大きい,おおきい,big,N5
+大きな,おおきな,big,N5
+大学,だいがく,university,N5
+大好き,だいすき,to be very likeable,N5
+大使館,たいしかん,embassy,N5
+大丈夫,だいじょうぶ,all right,N5
+大人,おとな,adult,N5
+大勢,おおぜい,great number of people,N5
+大切,たいせつ,important,N5
+脱ぐ,ぬぐ,to take off clothes,N5
+誰,だれ,who,N5
+短い,みじかい,short,N5
+誕生日,たんじょうび,birthday,N5
+弾く,ひく,to play an instrument with strings; including piano,N5
+暖かい,あたたかい,warm,N5
+男,おとこ,man,N5
+男の子,おとこのこ,boy,N5
+知る,しる,to know,N5
+地下鉄,ちかてつ,underground train,N5
+地図,ちず,map,N5
+池,いけ,pond,N5
+置く,おく,to put,N5
+遅い,おそい,late; slow,N5
+茶色,ちゃいろ,brown,N5
+着く,つく,to arrive at,N5
+着る,きる,to put on from the shoulders down,N5
+中,なか,middle,N5
+昼,ひる,noon; daytime,N5
+昼御飯,ひるごはん,midday meal,N5
+朝,あさ,morning,N5
+朝御飯,あさごはん,breakfast,N5
+町,まち,town; city,N5
+長い,ながい,long,N5
+鳥,とり,bird,N5
+痛い,いたい,painful,N5
+低い,ひくい,short; low,N5
+庭,にわ,garden,N5
+弟,おとうと,younger brother,N5
+締める,しめる,to tie,N5
+天気,てんき,weather,N5
+店,みせ,shop,N5
+貼る,はる,to stick,N5
+電気,でんき,electricity; electric light,N5
+電車,でんしゃ,electric train,N5
+電話,でんわ,telephone,N5
+渡す,わたす,to hand over,N5
+渡る,わたる,to go across,N5
+登る,のぼる,to climb,N5
+土曜日,どようび,Saturday,N5
+冬,ふゆ,winter,N5
+東,ひがし,east,N5
+答える,こたえる,to answer,N5
+頭,あたま,head,N5
+働く,はたらく,to work,N5
+動物,どうぶつ,animal,N5
+同じ,おなじ,same,N5
+道,みち,street,N5
+読む,よむ,to read,N5
+豚肉,ぶたにく,pork,N5
+曇り,くもり,cloudy weather,N5
+曇る,くもる,to become cloudy; to become dim,N5
+南,みなみ,south,N5
+難しい,むずかしい,difficult,N5
+二,に,two,N5
+二つ,ふたつ,two,N5
+二十歳,はたち,20 years old; 20th year,N5
+二十日,はつか,twenty days; twentieth,N5
+二人,ふたり,two people,N5
+二日,ふつか,two days; second day of the month,N5
+賑やか,にぎやか,bustling; busy,N5
+肉,にく,meat,N5
+日曜日,にちようび,Sunday,N5
+入る,はいる,to enter; to contain,N5
+入れる,いれる,to put in,N5
+入口,いりぐち,entrance,N5
+猫,ねこ,cat,N5
+熱い,あつい,hot to the touch,N5
+年,とし,year,N5
+背,せ,height; stature,N5
+背広,せびろ,business suit,N5
+買い物,かいもの,shopping,N5
+買う,かう,to buy,N5
+売る,うる,to sell,N5
+伯父/叔父,おじいさん,grandfather; male senior citizen,N5
+伯母さん/叔母さん,おばさん,aunt,N5
+白,しろ,white,N5
+白い,しろい,white,N5
+薄い,うすい,thin; weak,N5
+箱,はこ,box,N5
+八,はち,eight,N5
+八つ,やっつ,eight,N5
+八日,ようか,eight days; eighth day of the month,N5
+八百屋,やおや,greengrocer,N5
+半,はん,half,N5
+半分,はんぶん,half minute,N5
+煩い,うるさい,noisy; annoying,N5
+晩,ばん,evening,N5
+晩御飯,ばんごはん,evening meal,N5
+番号,ばんごう,number,N5
+疲れる,つかれる,to get tired,N5
+飛ぶ,とぶ,to fly; to hop,N5
+飛行機,ひこうき,aeroplane,N5
+鼻,はな,nose,N5
+百,ひゃく,hundred,N5
+病院,びょういん,hospital,N5
+病気,びょうき,illness,N5
+部屋,へや,room,N5
+封筒,ふうとう,envelope,N5
+風,かぜ,wind,N5
+風邪,かぜ,a cold,N5
+服,ふく,clothes,N5
+物,もの,thing,N5
+分かる,わかる,to be understood,N5
+文章,ぶんしょう,sentence; text,N5
+聞く,きく,to hear; to listen to; to ask,N5
+並ぶ,ならぶ,to line up; to stand in a line,N5
+並べる,ならべる,to line up; to set up,N5
+閉まる,しまる,to close; to be closed,N5
+閉める,しめる,to close something,N5
+辺,へん,area,N5
+返す,かえす,to return something,N5
+便利,べんり,useful; convenient,N5
+勉強,べんきょうする,to study,N5
+歩く,あるく,to walk,N5
+方,かた,person; way of doing,N5
+帽子,ぼうし,hat,N5
+忘れる,わすれる,to forget,N5
+忙しい,いそがしい,busy; irritated,N5
+北,きた,north,N5
+本,ほん,book,N5
+本棚,ほんだな,bookshelves,N5
+磨く,みがく,to brush teeth; to polish,N5
+妹,いもうと,(humble) younger sister,N5
+毎月,まいげつ/まいつき,every month,N5
+毎週,まいしゅう,every week,N5
+毎朝,まいあさ,every morning,N5
+毎日,まいにち,every day,N5
+毎年,まいねん/まいとし,every year,N5
+毎晩,まいばん,every night,N5
+万,まん,ten thousand,N5
+万年筆,まんねんひつ,fountain pen,N5
+無くす,なくす,to lose something,N5
+名前,なまえ,name,N5
+明い,あかるい,bright,N5
+明日,あした,tomorrow,N5
+鳴く,なく,animal noise. to chirp; roar or croak etc.,N5
+木,き,tree; wood,N5
+木曜日,もくようび,Thursday,N5
+目,め,eye,N5
+問題,もんだい,problem,N5
+門,もん,gate,N5
+夜,よる,evening; night,N5
+野菜,やさい,vegetable,N5
+薬,くすり,medicine,N5
+友達,ともだち,friend,N5
+有名,ゆうめい,famous,N5
+遊ぶ,あそぶ,to play; to make a visit,N5
+郵便局,ゆうびんきょく,post office,N5
+夕飯,ゆうはん,dinner,N5
+夕方,ゆうがた,evening,N5
+洋服,ようふく,western-style clothes,N5
+葉書,はがき,postcard,N5
+要る,いる,to need,N5
+欲しい,ほしい,want,N5
+来る,くる,to come,N5
+来月,らいげつ,next month,N5
+来週,らいしゅう,next week,N5
+来年,らいねん,next year,N5
+頼む,たのむ,to ask,N5
+卵,たまご,egg,N5
+立つ,たつ,to stand,N5
+留学生,りゅうがくせい,overseas student,N5
+旅行,りょこう,travel,N5
+両親,りょうしん,both parents,N5
+料理,りょうり,cuisine,N5
+涼しい,すずしい,refreshing,N5
+緑,みどり,green,N5
+隣,となり,next door to,N5
+冷たい,つめたい,cold to the touch,N5
+冷蔵庫,れいぞうこ,refrigerator,N5
+零,れい,zero,N5
+練習,れんしゅうする,to practice,N5
+廊下,ろうか,corridor,N5
+六,ろく,six,N5
+六つ,むっつ,six,N5
+六日,むいか,six days; sixth day of the month,N5
+話,はなし,talk; story,N5
+話す,はなす,to speak,N5

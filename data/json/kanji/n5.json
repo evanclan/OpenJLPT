@@ -1,0 +1,1576 @@
+[
+  {
+    "character": "日",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 1,
+    "onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "meanings": [
+      "day",
+      "sun",
+      "Japan",
+      "counter for days"
+    ]
+  },
+  {
+    "character": "一",
+    "level": "N5",
+    "strokes": 1,
+    "grade": 1,
+    "freq": 2,
+    "onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "kunyomi": [
+      "ひと-",
+      "ひと.つ"
+    ],
+    "meanings": [
+      "one",
+      "one radical (no.1)"
+    ]
+  },
+  {
+    "character": "国",
+    "level": "N5",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 3,
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くに"
+    ],
+    "meanings": [
+      "country"
+    ]
+  },
+  {
+    "character": "人",
+    "level": "N5",
+    "strokes": 2,
+    "grade": 1,
+    "freq": 5,
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "kunyomi": [
+      "ひと",
+      "-り",
+      "-と"
+    ],
+    "meanings": [
+      "person"
+    ]
+  },
+  {
+    "character": "年",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 6,
+    "onyomi": [
+      "ネン"
+    ],
+    "kunyomi": [
+      "とし"
+    ],
+    "meanings": [
+      "year",
+      "counter for years"
+    ]
+  },
+  {
+    "character": "大",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 7,
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "おお-",
+      "おお.きい",
+      "-おお.いに"
+    ],
+    "meanings": [
+      "large",
+      "big"
+    ]
+  },
+  {
+    "character": "十",
+    "level": "N5",
+    "strokes": 2,
+    "grade": 1,
+    "freq": 8,
+    "onyomi": [
+      "ジュウ",
+      "ジッ",
+      "ジュッ"
+    ],
+    "kunyomi": [
+      "とお",
+      "と",
+      "そ"
+    ],
+    "meanings": [
+      "ten"
+    ]
+  },
+  {
+    "character": "二",
+    "level": "N5",
+    "strokes": 2,
+    "grade": 1,
+    "freq": 9,
+    "onyomi": [
+      "ニ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "ふた",
+      "ふた.つ",
+      "ふたたび"
+    ],
+    "meanings": [
+      "two",
+      "two radical (no. 7)"
+    ]
+  },
+  {
+    "character": "本",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 10,
+    "onyomi": [
+      "ホン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "meanings": [
+      "book",
+      "present",
+      "main",
+      "origin",
+      "true",
+      "real",
+      "counter for long cylindrical things"
+    ]
+  },
+  {
+    "character": "中",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 11,
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "なか",
+      "うち",
+      "あた.る"
+    ],
+    "meanings": [
+      "in",
+      "inside",
+      "middle",
+      "mean",
+      "center"
+    ]
+  },
+  {
+    "character": "長",
+    "level": "N5",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 12,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "なが.い",
+      "おさ"
+    ],
+    "meanings": [
+      "long",
+      "leader",
+      "superior",
+      "senior"
+    ]
+  },
+  {
+    "character": "出",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 13,
+    "onyomi": [
+      "シュツ",
+      "スイ"
+    ],
+    "kunyomi": [
+      "で.る",
+      "-で",
+      "だ.す",
+      "-だ.す",
+      "い.でる",
+      "い.だす"
+    ],
+    "meanings": [
+      "exit",
+      "leave",
+      "go out",
+      "come out",
+      "put out",
+      "protrude"
+    ]
+  },
+  {
+    "character": "三",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 14,
+    "onyomi": [
+      "サン",
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "み",
+      "み.つ",
+      "みっ.つ"
+    ],
+    "meanings": [
+      "three"
+    ]
+  },
+  {
+    "character": "時",
+    "level": "N5",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 16,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "とき",
+      "-どき"
+    ],
+    "meanings": [
+      "time",
+      "hour"
+    ]
+  },
+  {
+    "character": "行",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 20,
+    "onyomi": [
+      "コウ",
+      "ギョウ",
+      "アン"
+    ],
+    "kunyomi": [
+      "い.く",
+      "ゆ.く",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこな.う",
+      "おこ.なう"
+    ],
+    "meanings": [
+      "going",
+      "journey",
+      "carry out",
+      "conduct",
+      "act",
+      "line",
+      "row",
+      "bank"
+    ]
+  },
+  {
+    "character": "見",
+    "level": "N5",
+    "strokes": 7,
+    "grade": 1,
+    "freq": 22,
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "み.る",
+      "み.える",
+      "み.せる"
+    ],
+    "meanings": [
+      "see",
+      "hopes",
+      "chances",
+      "idea",
+      "opinion",
+      "look at",
+      "visible"
+    ]
+  },
+  {
+    "character": "月",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 23,
+    "onyomi": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kunyomi": [
+      "つき"
+    ],
+    "meanings": [
+      "month",
+      "moon"
+    ]
+  },
+  {
+    "character": "後",
+    "level": "N5",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 26,
+    "onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "kunyomi": [
+      "のち",
+      "うし.ろ",
+      "うしろ",
+      "あと",
+      "おく.れる"
+    ],
+    "meanings": [
+      "behind",
+      "back",
+      "later"
+    ]
+  },
+  {
+    "character": "前",
+    "level": "N5",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 27,
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まえ",
+      "-まえ"
+    ],
+    "meanings": [
+      "in front",
+      "before"
+    ]
+  },
+  {
+    "character": "生",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 29,
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "い.きる",
+      "い.かす",
+      "い.ける",
+      "う.まれる",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
+    ],
+    "meanings": [
+      "life",
+      "genuine",
+      "birth"
+    ]
+  },
+  {
+    "character": "五",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 31,
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "いつ",
+      "いつ.つ"
+    ],
+    "meanings": [
+      "five"
+    ]
+  },
+  {
+    "character": "間",
+    "level": "N5",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 33,
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "kunyomi": [
+      "あいだ",
+      "ま",
+      "あい"
+    ],
+    "meanings": [
+      "interval",
+      "space"
+    ]
+  },
+  {
+    "character": "上",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 35,
+    "onyomi": [
+      "ジョウ",
+      "ショウ",
+      "シャン"
+    ],
+    "kunyomi": [
+      "うえ",
+      "-うえ",
+      "うわ-",
+      "かみ",
+      "あ.げる",
+      "-あ.げる",
+      "あ.がる",
+      "-あ.がる",
+      "あ.がり",
+      "-あ.がり",
+      "のぼ.る",
+      "のぼ.り",
+      "のぼ.せる",
+      "のぼ.す",
+      "たてまつ.る"
+    ],
+    "meanings": [
+      "above",
+      "up"
+    ]
+  },
+  {
+    "character": "東",
+    "level": "N5",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 37,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ひがし"
+    ],
+    "meanings": [
+      "east"
+    ]
+  },
+  {
+    "character": "四",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 47,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん"
+    ],
+    "meanings": [
+      "four"
+    ]
+  },
+  {
+    "character": "今",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 49,
+    "onyomi": [
+      "コン",
+      "キン"
+    ],
+    "kunyomi": [
+      "いま"
+    ],
+    "meanings": [
+      "now"
+    ]
+  },
+  {
+    "character": "金",
+    "level": "N5",
+    "strokes": 8,
+    "grade": 1,
+    "freq": 53,
+    "onyomi": [
+      "キン",
+      "コン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "かね",
+      "かな-",
+      "-がね"
+    ],
+    "meanings": [
+      "gold"
+    ]
+  },
+  {
+    "character": "九",
+    "level": "N5",
+    "strokes": 2,
+    "grade": 1,
+    "freq": 55,
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "ここの",
+      "ここの.つ"
+    ],
+    "meanings": [
+      "nine"
+    ]
+  },
+  {
+    "character": "入",
+    "level": "N5",
+    "strokes": 2,
+    "grade": 1,
+    "freq": 56,
+    "onyomi": [
+      "ニュウ",
+      "ジュ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "-い.る",
+      "-い.り",
+      "い.れる",
+      "-い.れ",
+      "はい.る"
+    ],
+    "meanings": [
+      "enter",
+      "insert"
+    ]
+  },
+  {
+    "character": "学",
+    "level": "N5",
+    "strokes": 8,
+    "grade": 1,
+    "freq": 63,
+    "onyomi": [
+      "ガク"
+    ],
+    "kunyomi": [
+      "まな.ぶ"
+    ],
+    "meanings": [
+      "study",
+      "learning",
+      "science"
+    ]
+  },
+  {
+    "character": "高",
+    "level": "N5",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 65,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "たか.い",
+      "たか",
+      "-だか",
+      "たか.まる",
+      "たか.める"
+    ],
+    "meanings": [
+      "tall",
+      "high",
+      "expensive"
+    ]
+  },
+  {
+    "character": "円",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 69,
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "まる.い",
+      "まる",
+      "まど",
+      "まど.か",
+      "まろ.やか"
+    ],
+    "meanings": [
+      "circle",
+      "yen",
+      "round"
+    ]
+  },
+  {
+    "character": "子",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 72,
+    "onyomi": [
+      "シ",
+      "ス",
+      "ツ"
+    ],
+    "kunyomi": [
+      "こ",
+      "-こ",
+      "ね"
+    ],
+    "meanings": [
+      "child",
+      "sign of the rat",
+      "11PM-1AM",
+      "first sign of Chinese zodiac"
+    ]
+  },
+  {
+    "character": "外",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 81,
+    "onyomi": [
+      "ガイ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "そと",
+      "ほか",
+      "はず.す",
+      "はず.れる",
+      "と-"
+    ],
+    "meanings": [
+      "outside"
+    ]
+  },
+  {
+    "character": "八",
+    "level": "N5",
+    "strokes": 2,
+    "grade": 1,
+    "freq": 92,
+    "onyomi": [
+      "ハチ",
+      "ハツ"
+    ],
+    "kunyomi": [
+      "や",
+      "や.つ",
+      "やっ.つ",
+      "よう"
+    ],
+    "meanings": [
+      "eight",
+      "eight radical (no. 12)"
+    ]
+  },
+  {
+    "character": "六",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 93,
+    "onyomi": [
+      "ロク",
+      "リク"
+    ],
+    "kunyomi": [
+      "む",
+      "む.つ",
+      "むっ.つ",
+      "むい"
+    ],
+    "meanings": [
+      "six"
+    ]
+  },
+  {
+    "character": "下",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 97,
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "した",
+      "しも",
+      "もと",
+      "さ.げる",
+      "さ.がる",
+      "くだ.る",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
+    ],
+    "meanings": [
+      "below",
+      "down",
+      "descend",
+      "give",
+      "low",
+      "inferior"
+    ]
+  },
+  {
+    "character": "来",
+    "level": "N5",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 102,
+    "onyomi": [
+      "ライ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "く.る",
+      "きた.る",
+      "きた.す",
+      "き.たす",
+      "き.たる",
+      "き",
+      "こ"
+    ],
+    "meanings": [
+      "come",
+      "due",
+      "next",
+      "cause",
+      "become"
+    ]
+  },
+  {
+    "character": "気",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 113,
+    "onyomi": [
+      "キ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いき",
+      "き"
+    ],
+    "meanings": [
+      "spirit",
+      "mind",
+      "air",
+      "atmosphere",
+      "mood"
+    ]
+  },
+  {
+    "character": "小",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 114,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ちい.さい",
+      "こ-",
+      "お-",
+      "さ-"
+    ],
+    "meanings": [
+      "little",
+      "small"
+    ]
+  },
+  {
+    "character": "七",
+    "level": "N5",
+    "strokes": 2,
+    "grade": 1,
+    "freq": 115,
+    "onyomi": [
+      "シチ"
+    ],
+    "kunyomi": [
+      "なな",
+      "なな.つ",
+      "なの"
+    ],
+    "meanings": [
+      "seven"
+    ]
+  },
+  {
+    "character": "山",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 131,
+    "onyomi": [
+      "サン",
+      "セン"
+    ],
+    "kunyomi": [
+      "やま"
+    ],
+    "meanings": [
+      "mountain"
+    ]
+  },
+  {
+    "character": "話",
+    "level": "N5",
+    "strokes": 13,
+    "grade": 2,
+    "freq": 134,
+    "onyomi": [
+      "ワ"
+    ],
+    "kunyomi": [
+      "はな.す",
+      "はなし"
+    ],
+    "meanings": [
+      "tale",
+      "talk"
+    ]
+  },
+  {
+    "character": "女",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 151,
+    "onyomi": [
+      "ジョ",
+      "ニョ",
+      "ニョウ"
+    ],
+    "kunyomi": [
+      "おんな",
+      "め"
+    ],
+    "meanings": [
+      "woman",
+      "female"
+    ]
+  },
+  {
+    "character": "北",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 153,
+    "onyomi": [
+      "ホク"
+    ],
+    "kunyomi": [
+      "きた"
+    ],
+    "meanings": [
+      "north"
+    ]
+  },
+  {
+    "character": "午",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 154,
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "うま"
+    ],
+    "meanings": [
+      "noon",
+      "sign of the horse",
+      "11AM-1PM",
+      "seventh sign of Chinese zodiac"
+    ]
+  },
+  {
+    "character": "百",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 163,
+    "onyomi": [
+      "ヒャク",
+      "ビャク"
+    ],
+    "kunyomi": [
+      "もも"
+    ],
+    "meanings": [
+      "hundred"
+    ]
+  },
+  {
+    "character": "書",
+    "level": "N5",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 169,
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "か.く",
+      "-が.き",
+      "-がき"
+    ],
+    "meanings": [
+      "write"
+    ]
+  },
+  {
+    "character": "先",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 173,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "さき",
+      "ま.ず"
+    ],
+    "meanings": [
+      "before",
+      "ahead",
+      "previous",
+      "future",
+      "precedence"
+    ]
+  },
+  {
+    "character": "名",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 177,
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "な",
+      "-な"
+    ],
+    "meanings": [
+      "name",
+      "noted",
+      "distinguished",
+      "reputation"
+    ]
+  },
+  {
+    "character": "川",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 181,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "meanings": [
+      "stream",
+      "river",
+      "river or three-stroke river radical (no. 47)"
+    ]
+  },
+  {
+    "character": "千",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 195,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "ち"
+    ],
+    "meanings": [
+      "thousand"
+    ]
+  },
+  {
+    "character": "水",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 223,
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "みず",
+      "みず-"
+    ],
+    "meanings": [
+      "water"
+    ]
+  },
+  {
+    "character": "半",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 224,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "なか.ば"
+    ],
+    "meanings": [
+      "half",
+      "middle",
+      "odd number",
+      "semi-",
+      "part-"
+    ]
+  },
+  {
+    "character": "男",
+    "level": "N5",
+    "strokes": 7,
+    "grade": 1,
+    "freq": 240,
+    "onyomi": [
+      "ダン",
+      "ナン"
+    ],
+    "kunyomi": [
+      "おとこ",
+      "お"
+    ],
+    "meanings": [
+      "male"
+    ]
+  },
+  {
+    "character": "西",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 259,
+    "onyomi": [
+      "セイ",
+      "サイ",
+      "ス"
+    ],
+    "kunyomi": [
+      "にし"
+    ],
+    "meanings": [
+      "west",
+      "Spain"
+    ]
+  },
+  {
+    "character": "電",
+    "level": "N5",
+    "strokes": 13,
+    "grade": 2,
+    "freq": 268,
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "electricity"
+    ]
+  },
+  {
+    "character": "校",
+    "level": "N5",
+    "strokes": 10,
+    "grade": 1,
+    "freq": 294,
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "exam",
+      "school",
+      "printing",
+      "proof",
+      "correction"
+    ]
+  },
+  {
+    "character": "語",
+    "level": "N5",
+    "strokes": 14,
+    "grade": 2,
+    "freq": 301,
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "かた.る",
+      "かた.らう"
+    ],
+    "meanings": [
+      "word",
+      "speech",
+      "language"
+    ]
+  },
+  {
+    "character": "土",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 307,
+    "onyomi": [
+      "ド",
+      "ト"
+    ],
+    "kunyomi": [
+      "つち"
+    ],
+    "meanings": [
+      "soil",
+      "earth",
+      "ground",
+      "Turkey"
+    ]
+  },
+  {
+    "character": "木",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 317,
+    "onyomi": [
+      "ボク",
+      "モク"
+    ],
+    "kunyomi": [
+      "き",
+      "こ-"
+    ],
+    "meanings": [
+      "tree",
+      "wood"
+    ]
+  },
+  {
+    "character": "聞",
+    "level": "N5",
+    "strokes": 14,
+    "grade": 2,
+    "freq": 319,
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [
+      "き.く",
+      "き.こえる"
+    ],
+    "meanings": [
+      "hear",
+      "ask",
+      "listen"
+    ]
+  },
+  {
+    "character": "食",
+    "level": "N5",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 328,
+    "onyomi": [
+      "ショク",
+      "ジキ"
+    ],
+    "kunyomi": [
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む"
+    ],
+    "meanings": [
+      "eat",
+      "food"
+    ]
+  },
+  {
+    "character": "車",
+    "level": "N5",
+    "strokes": 7,
+    "grade": 1,
+    "freq": 333,
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "くるま"
+    ],
+    "meanings": [
+      "car"
+    ]
+  },
+  {
+    "character": "何",
+    "level": "N5",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 340,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "なに",
+      "なん",
+      "なに-",
+      "なん-"
+    ],
+    "meanings": [
+      "what"
+    ]
+  },
+  {
+    "character": "南",
+    "level": "N5",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 341,
+    "onyomi": [
+      "ナン",
+      "ナ"
+    ],
+    "kunyomi": [
+      "みなみ"
+    ],
+    "meanings": [
+      "south"
+    ]
+  },
+  {
+    "character": "万",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 2,
+    "freq": 375,
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "kunyomi": [
+      "よろず"
+    ],
+    "meanings": [
+      "ten thousand",
+      "10,000"
+    ]
+  },
+  {
+    "character": "毎",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 436,
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "ごと",
+      "-ごと.に"
+    ],
+    "meanings": [
+      "every"
+    ]
+  },
+  {
+    "character": "白",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 483,
+    "onyomi": [
+      "ハク",
+      "ビャク"
+    ],
+    "kunyomi": [
+      "しろ",
+      "しら-",
+      "しろ.い"
+    ],
+    "meanings": [
+      "white"
+    ]
+  },
+  {
+    "character": "天",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 512,
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "あまつ",
+      "あめ",
+      "あま-"
+    ],
+    "meanings": [
+      "heavens",
+      "sky",
+      "imperial"
+    ]
+  },
+  {
+    "character": "母",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 570,
+    "onyomi": [
+      "ボ"
+    ],
+    "kunyomi": [
+      "はは",
+      "も"
+    ],
+    "meanings": [
+      "mother"
+    ]
+  },
+  {
+    "character": "火",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 574,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "ほ-"
+    ],
+    "meanings": [
+      "fire"
+    ]
+  },
+  {
+    "character": "右",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 602,
+    "onyomi": [
+      "ウ",
+      "ユウ"
+    ],
+    "kunyomi": [
+      "みぎ"
+    ],
+    "meanings": [
+      "right"
+    ]
+  },
+  {
+    "character": "読",
+    "level": "N5",
+    "strokes": 14,
+    "grade": 2,
+    "freq": 618,
+    "onyomi": [
+      "ドク",
+      "トク",
+      "トウ"
+    ],
+    "kunyomi": [
+      "よ.む",
+      "-よ.み"
+    ],
+    "meanings": [
+      "read"
+    ]
+  },
+  {
+    "character": "友",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 622,
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "とも"
+    ],
+    "meanings": [
+      "friend"
+    ]
+  },
+  {
+    "character": "左",
+    "level": "N5",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 630,
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "kunyomi": [
+      "ひだり"
+    ],
+    "meanings": [
+      "left"
+    ]
+  },
+  {
+    "character": "休",
+    "level": "N5",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 642,
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "やす.む",
+      "やす.まる",
+      "やす.める"
+    ],
+    "meanings": [
+      "rest",
+      "day off",
+      "retire",
+      "sleep"
+    ]
+  },
+  {
+    "character": "父",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 646,
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "ちち"
+    ],
+    "meanings": [
+      "father"
+    ]
+  },
+  {
+    "character": "雨",
+    "level": "N5",
+    "strokes": 8,
+    "grade": 1,
+    "freq": 950,
+    "onyomi": [
+      "ウ"
+    ],
+    "kunyomi": [
+      "あめ",
+      "あま-",
+      "-さめ"
+    ],
+    "meanings": [
+      "rain"
+    ]
+  }
+]

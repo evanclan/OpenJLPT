@@ -1,0 +1,3329 @@
+[
+  {
+    "character": "会",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 4,
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "meanings": [
+      "meeting",
+      "meet",
+      "party",
+      "association",
+      "interview",
+      "join"
+    ]
+  },
+  {
+    "character": "同",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 15,
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "おな.じ"
+    ],
+    "meanings": [
+      "same",
+      "agree",
+      "equal"
+    ]
+  },
+  {
+    "character": "事",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 18,
+    "onyomi": [
+      "ジ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "こと",
+      "つか.う",
+      "つか.える"
+    ],
+    "meanings": [
+      "matter",
+      "thing",
+      "fact",
+      "business",
+      "reason",
+      "possibly"
+    ]
+  },
+  {
+    "character": "自",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 19,
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "みずか.ら",
+      "おの.ずから",
+      "おの.ずと"
+    ],
+    "meanings": [
+      "oneself"
+    ]
+  },
+  {
+    "character": "社",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 21,
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "やしろ"
+    ],
+    "meanings": [
+      "company",
+      "firm",
+      "office",
+      "association",
+      "shrine"
+    ]
+  },
+  {
+    "character": "発",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 32,
+    "onyomi": [
+      "ハツ",
+      "ホツ"
+    ],
+    "kunyomi": [
+      "た.つ",
+      "あば.く",
+      "おこ.る",
+      "つか.わす",
+      "はな.つ"
+    ],
+    "meanings": [
+      "departure",
+      "discharge",
+      "publish",
+      "emit",
+      "start from",
+      "disclose",
+      "counter for gunshots"
+    ]
+  },
+  {
+    "character": "者",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 38,
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "もの"
+    ],
+    "meanings": [
+      "someone",
+      "person"
+    ]
+  },
+  {
+    "character": "地",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 40,
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "ground",
+      "earth"
+    ]
+  },
+  {
+    "character": "業",
+    "level": "N4",
+    "strokes": 13,
+    "grade": 3,
+    "freq": 43,
+    "onyomi": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "わざ"
+    ],
+    "meanings": [
+      "business",
+      "vocation",
+      "arts",
+      "performance"
+    ]
+  },
+  {
+    "character": "方",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 46,
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "かた",
+      "-かた",
+      "-がた"
+    ],
+    "meanings": [
+      "direction",
+      "person",
+      "alternative"
+    ]
+  },
+  {
+    "character": "新",
+    "level": "N4",
+    "strokes": 13,
+    "grade": 2,
+    "freq": 51,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "あたら.しい",
+      "あら.た",
+      "あら-",
+      "にい-"
+    ],
+    "meanings": [
+      "new"
+    ]
+  },
+  {
+    "character": "場",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 52,
+    "onyomi": [
+      "ジョウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "ば"
+    ],
+    "meanings": [
+      "location",
+      "place"
+    ]
+  },
+  {
+    "character": "員",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 54,
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "employee",
+      "member",
+      "number",
+      "the one in charge"
+    ]
+  },
+  {
+    "character": "立",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 58,
+    "onyomi": [
+      "リツ",
+      "リュウ",
+      "リットル"
+    ],
+    "kunyomi": [
+      "た.つ",
+      "-た.つ",
+      "た.ち-",
+      "た.てる",
+      "-た.てる",
+      "た.て-",
+      "たて-",
+      "-た.て",
+      "-だ.て",
+      "-だ.てる"
+    ],
+    "meanings": [
+      "stand up",
+      "rise",
+      "set up",
+      "erect"
+    ]
+  },
+  {
+    "character": "開",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 59,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "ひら.く",
+      "ひら.き",
+      "-びら.き",
+      "ひら.ける",
+      "あ.く",
+      "あ.ける"
+    ],
+    "meanings": [
+      "open",
+      "unfold",
+      "unseal"
+    ]
+  },
+  {
+    "character": "手",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 60,
+    "onyomi": [
+      "シュ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "て",
+      "て-",
+      "-て",
+      "た-"
+    ],
+    "meanings": [
+      "hand"
+    ]
+  },
+  {
+    "character": "力",
+    "level": "N4",
+    "strokes": 2,
+    "grade": 1,
+    "freq": 62,
+    "onyomi": [
+      "リョク",
+      "リキ",
+      "リイ"
+    ],
+    "kunyomi": [
+      "ちから"
+    ],
+    "meanings": [
+      "power",
+      "strength",
+      "strong",
+      "strain",
+      "bear up",
+      "exert"
+    ]
+  },
+  {
+    "character": "問",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 64,
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "と.う",
+      "と.い",
+      "とん"
+    ],
+    "meanings": [
+      "question",
+      "ask",
+      "problem"
+    ]
+  },
+  {
+    "character": "代",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 66,
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "か.わる",
+      "かわ.る",
+      "かわ.り",
+      "か.わり",
+      "-がわ.り",
+      "-が.わり",
+      "か.える",
+      "よ",
+      "しろ"
+    ],
+    "meanings": [
+      "substitute",
+      "change",
+      "convert",
+      "replace",
+      "period",
+      "age",
+      "counter for decades of ages, eras, etc.",
+      "generation",
+      "charge",
+      "rate",
+      "fee"
+    ]
+  },
+  {
+    "character": "明",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 67,
+    "onyomi": [
+      "メイ",
+      "ミョウ",
+      "ミン"
+    ],
+    "kunyomi": [
+      "あ.かり",
+      "あか.るい",
+      "あか.るむ",
+      "あか.らむ",
+      "あき.らか",
+      "あ.ける",
+      "-あ.け",
+      "あ.く",
+      "あ.くる",
+      "あ.かす"
+    ],
+    "meanings": [
+      "bright",
+      "light"
+    ]
+  },
+  {
+    "character": "動",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 73,
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "うご.く",
+      "うご.かす"
+    ],
+    "meanings": [
+      "move",
+      "motion",
+      "change",
+      "confusion",
+      "shift",
+      "shake"
+    ]
+  },
+  {
+    "character": "京",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 74,
+    "onyomi": [
+      "キョウ",
+      "ケイ",
+      "キン"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "meanings": [
+      "capital",
+      "10**16"
+    ]
+  },
+  {
+    "character": "目",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 76,
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "め",
+      "-め",
+      "ま-"
+    ],
+    "meanings": [
+      "eye",
+      "class",
+      "look",
+      "insight",
+      "experience",
+      "care",
+      "favor"
+    ]
+  },
+  {
+    "character": "通",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 80,
+    "onyomi": [
+      "ツウ",
+      "ツ"
+    ],
+    "kunyomi": [
+      "とお.る",
+      "とお.り",
+      "-とお.り",
+      "-どお.り",
+      "とお.す",
+      "とお.し",
+      "-どお.し",
+      "かよ.う"
+    ],
+    "meanings": [
+      "traffic",
+      "pass through",
+      "avenue",
+      "commute",
+      "counter for letters, notes, documents, etc."
+    ]
+  },
+  {
+    "character": "言",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 83,
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "い.う",
+      "こと"
+    ],
+    "meanings": [
+      "say",
+      "word"
+    ]
+  },
+  {
+    "character": "理",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 86,
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "ことわり"
+    ],
+    "meanings": [
+      "logic",
+      "arrangement",
+      "reason",
+      "justice",
+      "truth"
+    ]
+  },
+  {
+    "character": "体",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 88,
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "kunyomi": [
+      "からだ",
+      "かたち"
+    ],
+    "meanings": [
+      "body",
+      "substance",
+      "object",
+      "reality",
+      "counter for images"
+    ]
+  },
+  {
+    "character": "田",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 90,
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [
+      "た"
+    ],
+    "meanings": [
+      "rice field",
+      "rice paddy"
+    ]
+  },
+  {
+    "character": "主",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 95,
+    "onyomi": [
+      "シュ",
+      "ス",
+      "シュウ"
+    ],
+    "kunyomi": [
+      "ぬし",
+      "おも",
+      "あるじ"
+    ],
+    "meanings": [
+      "lord",
+      "chief",
+      "master",
+      "main thing",
+      "principal"
+    ]
+  },
+  {
+    "character": "題",
+    "level": "N4",
+    "strokes": 18,
+    "grade": 3,
+    "freq": 96,
+    "onyomi": [
+      "ダイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "topic",
+      "subject"
+    ]
+  },
+  {
+    "character": "意",
+    "level": "N4",
+    "strokes": 13,
+    "grade": 3,
+    "freq": 99,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "idea",
+      "mind",
+      "heart",
+      "taste",
+      "thought",
+      "desire",
+      "care",
+      "liking"
+    ]
+  },
+  {
+    "character": "不",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 4,
+    "freq": 101,
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "negative",
+      "non-",
+      "bad",
+      "ugly",
+      "clumsy"
+    ]
+  },
+  {
+    "character": "作",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 103,
+    "onyomi": [
+      "サク",
+      "サ"
+    ],
+    "kunyomi": [
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "meanings": [
+      "make",
+      "production",
+      "prepare",
+      "build"
+    ]
+  },
+  {
+    "character": "用",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 107,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "もち.いる"
+    ],
+    "meanings": [
+      "utilize",
+      "business",
+      "service",
+      "use",
+      "employ"
+    ]
+  },
+  {
+    "character": "度",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 110,
+    "onyomi": [
+      "ド",
+      "ト",
+      "タク"
+    ],
+    "kunyomi": [
+      "たび",
+      "-た.い"
+    ],
+    "meanings": [
+      "degrees",
+      "occurrence",
+      "time",
+      "counter for occurrences",
+      "consider",
+      "attitude"
+    ]
+  },
+  {
+    "character": "強",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 112,
+    "onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "つよ.い",
+      "つよ.まる",
+      "つよ.める",
+      "し.いる",
+      "こわ.い"
+    ],
+    "meanings": [
+      "strong"
+    ]
+  },
+  {
+    "character": "公",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 118,
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "おおやけ"
+    ],
+    "meanings": [
+      "public",
+      "prince",
+      "official",
+      "governmental"
+    ]
+  },
+  {
+    "character": "持",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 119,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "も.つ",
+      "-も.ち",
+      "も.てる"
+    ],
+    "meanings": [
+      "hold",
+      "have"
+    ]
+  },
+  {
+    "character": "野",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 120,
+    "onyomi": [
+      "ヤ",
+      "ショ"
+    ],
+    "kunyomi": [
+      "の",
+      "の-"
+    ],
+    "meanings": [
+      "plains",
+      "field",
+      "rustic",
+      "civilian life"
+    ]
+  },
+  {
+    "character": "以",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 4,
+    "freq": 126,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "もっ.て"
+    ],
+    "meanings": [
+      "by means of",
+      "because",
+      "in view of",
+      "compared with"
+    ]
+  },
+  {
+    "character": "思",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 132,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "おも.う",
+      "おもえら.く",
+      "おぼ.す"
+    ],
+    "meanings": [
+      "think"
+    ]
+  },
+  {
+    "character": "家",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 133,
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "meanings": [
+      "house",
+      "home",
+      "family",
+      "professional",
+      "expert",
+      "performer"
+    ]
+  },
+  {
+    "character": "世",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 135,
+    "onyomi": [
+      "セイ",
+      "セ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "よ"
+    ],
+    "meanings": [
+      "generation",
+      "world",
+      "society",
+      "public"
+    ]
+  },
+  {
+    "character": "多",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 139,
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "meanings": [
+      "many",
+      "frequent",
+      "much"
+    ]
+  },
+  {
+    "character": "正",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 1,
+    "freq": 143,
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ただ.しい",
+      "ただ.す",
+      "まさ",
+      "まさ.に"
+    ],
+    "meanings": [
+      "correct",
+      "justice",
+      "righteous",
+      "10**40"
+    ]
+  },
+  {
+    "character": "安",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 144,
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "やす.い",
+      "やす.まる",
+      "やす",
+      "やす.らか"
+    ],
+    "meanings": [
+      "relax",
+      "cheap",
+      "low",
+      "quiet",
+      "rested",
+      "contented",
+      "peaceful"
+    ]
+  },
+  {
+    "character": "院",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 150,
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "Inst.",
+      "institution",
+      "temple",
+      "mansion",
+      "school"
+    ]
+  },
+  {
+    "character": "心",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 157,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "こころ",
+      "-ごころ"
+    ],
+    "meanings": [
+      "heart",
+      "mind",
+      "spirit",
+      "heart radical (no. 61)"
+    ]
+  },
+  {
+    "character": "界",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 158,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "world",
+      "boundary"
+    ]
+  },
+  {
+    "character": "教",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 166,
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おし.える",
+      "おそ.わる"
+    ],
+    "meanings": [
+      "teach",
+      "faith",
+      "doctrine"
+    ]
+  },
+  {
+    "character": "文",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 190,
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [
+      "ふみ",
+      "あや"
+    ],
+    "meanings": [
+      "sentence",
+      "literature",
+      "style",
+      "art",
+      "decoration",
+      "figures",
+      "plan",
+      "literary radical (no. 67)"
+    ]
+  },
+  {
+    "character": "元",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 192,
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "meanings": [
+      "beginning",
+      "former time",
+      "origin"
+    ]
+  },
+  {
+    "character": "重",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 193,
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "え",
+      "おも.い",
+      "おも.り",
+      "おも.なう",
+      "かさ.ねる",
+      "かさ.なる",
+      "おも"
+    ],
+    "meanings": [
+      "heavy",
+      "important",
+      "esteem",
+      "respect",
+      "heap up",
+      "pile up",
+      "nest of boxes",
+      "-fold"
+    ]
+  },
+  {
+    "character": "近",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 194,
+    "onyomi": [
+      "キン",
+      "コン"
+    ],
+    "kunyomi": [
+      "ちか.い"
+    ],
+    "meanings": [
+      "near",
+      "early",
+      "akin",
+      "tantamount"
+    ]
+  },
+  {
+    "character": "考",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 196,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かんが.える",
+      "かんが.え"
+    ],
+    "meanings": [
+      "consider",
+      "think over"
+    ]
+  },
+  {
+    "character": "画",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 199,
+    "onyomi": [
+      "ガ",
+      "カク",
+      "エ",
+      "カイ"
+    ],
+    "kunyomi": [
+      "えが.く",
+      "かく.する",
+      "かぎ.る",
+      "はかりごと",
+      "はか.る"
+    ],
+    "meanings": [
+      "brush-stroke",
+      "picture"
+    ]
+  },
+  {
+    "character": "海",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 200,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "うみ"
+    ],
+    "meanings": [
+      "sea",
+      "ocean"
+    ]
+  },
+  {
+    "character": "売",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 202,
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "う.る",
+      "う.れる"
+    ],
+    "meanings": [
+      "sell"
+    ]
+  },
+  {
+    "character": "知",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 205,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "し.る",
+      "し.らせる"
+    ],
+    "meanings": [
+      "know",
+      "wisdom"
+    ]
+  },
+  {
+    "character": "道",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 207,
+    "onyomi": [
+      "ドウ",
+      "トウ"
+    ],
+    "kunyomi": [
+      "みち",
+      "いう"
+    ],
+    "meanings": [
+      "road-way",
+      "street",
+      "district",
+      "journey",
+      "course",
+      "moral",
+      "teachings"
+    ]
+  },
+  {
+    "character": "集",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 210,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あつ.まる",
+      "あつ.める",
+      "つど.う"
+    ],
+    "meanings": [
+      "gather",
+      "meet",
+      "congregate",
+      "swarm",
+      "flock"
+    ]
+  },
+  {
+    "character": "別",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 214,
+    "onyomi": [
+      "ベツ"
+    ],
+    "kunyomi": [
+      "わか.れる",
+      "わ.ける"
+    ],
+    "meanings": [
+      "separate",
+      "branch off",
+      "diverge",
+      "fork",
+      "another",
+      "extra",
+      "specially"
+    ]
+  },
+  {
+    "character": "物",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 215,
+    "onyomi": [
+      "ブツ",
+      "モツ"
+    ],
+    "kunyomi": [
+      "もの",
+      "もの-"
+    ],
+    "meanings": [
+      "thing",
+      "object",
+      "matter"
+    ]
+  },
+  {
+    "character": "使",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 219,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "つか.う",
+      "つか.い",
+      "-つか.い",
+      "-づか.い"
+    ],
+    "meanings": [
+      "use",
+      "send on a mission",
+      "order",
+      "messenger",
+      "envoy",
+      "ambassador",
+      "cause"
+    ]
+  },
+  {
+    "character": "品",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 225,
+    "onyomi": [
+      "ヒン",
+      "ホン"
+    ],
+    "kunyomi": [
+      "しな"
+    ],
+    "meanings": [
+      "goods",
+      "refinement",
+      "dignity",
+      "article",
+      "counter for meal courses"
+    ]
+  },
+  {
+    "character": "計",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 228,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "はか.る",
+      "はか.らう"
+    ],
+    "meanings": [
+      "plot",
+      "plan",
+      "scheme",
+      "measure"
+    ]
+  },
+  {
+    "character": "死",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 229,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "し.ぬ",
+      "し.に-"
+    ],
+    "meanings": [
+      "death",
+      "die"
+    ]
+  },
+  {
+    "character": "特",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 234,
+    "onyomi": [
+      "トク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "special"
+    ]
+  },
+  {
+    "character": "私",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 6,
+    "freq": 242,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "わたくし",
+      "わたし"
+    ],
+    "meanings": [
+      "private",
+      "I",
+      "me"
+    ]
+  },
+  {
+    "character": "始",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 244,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "はじ.める",
+      "-はじ.める",
+      "はじ.まる"
+    ],
+    "meanings": [
+      "commence",
+      "begin"
+    ]
+  },
+  {
+    "character": "朝",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 248,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あさ"
+    ],
+    "meanings": [
+      "morning",
+      "dynasty",
+      "regime",
+      "epoch",
+      "period",
+      "(North) Korea"
+    ]
+  },
+  {
+    "character": "運",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 255,
+    "onyomi": [
+      "ウン"
+    ],
+    "kunyomi": [
+      "はこ.ぶ"
+    ],
+    "meanings": [
+      "carry",
+      "luck",
+      "destiny",
+      "fate",
+      "lot",
+      "transport",
+      "progress",
+      "advance"
+    ]
+  },
+  {
+    "character": "終",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 256,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "お.わる",
+      "-お.わる",
+      "おわ.る",
+      "お.える",
+      "つい",
+      "つい.に"
+    ],
+    "meanings": [
+      "end",
+      "finish"
+    ]
+  },
+  {
+    "character": "台",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 262,
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "うてな",
+      "われ",
+      "つかさ"
+    ],
+    "meanings": [
+      "pedestal",
+      "a stand",
+      "counter for machines and vehicles"
+    ]
+  },
+  {
+    "character": "広",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 263,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろ.い",
+      "ひろ.まる",
+      "ひろ.める",
+      "ひろ.がる",
+      "ひろ.げる"
+    ],
+    "meanings": [
+      "wide",
+      "broad",
+      "spacious"
+    ]
+  },
+  {
+    "character": "住",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 270,
+    "onyomi": [
+      "ジュウ",
+      "ヂュウ",
+      "チュウ"
+    ],
+    "kunyomi": [
+      "す.む",
+      "す.まう",
+      "-ず.まい"
+    ],
+    "meanings": [
+      "dwell",
+      "reside",
+      "live",
+      "inhabit"
+    ]
+  },
+  {
+    "character": "真",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 279,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ま",
+      "ま-",
+      "まこと"
+    ],
+    "meanings": [
+      "true",
+      "reality",
+      "Buddhist sect"
+    ]
+  },
+  {
+    "character": "有",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 3,
+    "freq": 282,
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "kunyomi": [
+      "あ.る"
+    ],
+    "meanings": [
+      "possess",
+      "have",
+      "exist",
+      "happen",
+      "occur",
+      "approx"
+    ]
+  },
+  {
+    "character": "口",
+    "level": "N4",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 284,
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "くち"
+    ],
+    "meanings": [
+      "mouth"
+    ]
+  },
+  {
+    "character": "少",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 287,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すく.ない",
+      "すこ.し"
+    ],
+    "meanings": [
+      "few",
+      "little"
+    ]
+  },
+  {
+    "character": "町",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 1,
+    "freq": 292,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "まち"
+    ],
+    "meanings": [
+      "town",
+      "village",
+      "block",
+      "street"
+    ]
+  },
+  {
+    "character": "料",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 295,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "fee",
+      "materials"
+    ]
+  },
+  {
+    "character": "工",
+    "level": "N4",
+    "strokes": 3,
+    "grade": 2,
+    "freq": 299,
+    "onyomi": [
+      "コウ",
+      "ク",
+      "グ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "craft",
+      "construction",
+      "katakana e radical (no. 48)"
+    ]
+  },
+  {
+    "character": "建",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 300,
+    "onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "kunyomi": [
+      "た.てる",
+      "た.て",
+      "-だ.て",
+      "た.つ"
+    ],
+    "meanings": [
+      "build"
+    ]
+  },
+  {
+    "character": "空",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 1,
+    "freq": 304,
+    "onyomi": [
+      "クウ"
+    ],
+    "kunyomi": [
+      "そら",
+      "あ.く",
+      "あ.き",
+      "あ.ける",
+      "から",
+      "す.く",
+      "す.かす",
+      "むな.しい"
+    ],
+    "meanings": [
+      "empty",
+      "sky",
+      "void",
+      "vacant",
+      "vacuum"
+    ]
+  },
+  {
+    "character": "急",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 309,
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "いそ.ぐ",
+      "いそ.ぎ",
+      "せ.く"
+    ],
+    "meanings": [
+      "hurry",
+      "emergency",
+      "sudden",
+      "steep"
+    ]
+  },
+  {
+    "character": "止",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 310,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "と.まる",
+      "-ど.まり",
+      "と.める",
+      "-と.める",
+      "-ど.め",
+      "とど.める",
+      "とど.め",
+      "とど.まる",
+      "や.める",
+      "や.む",
+      "-や.む",
+      "よ.す",
+      "-さ.す",
+      "-さ.し"
+    ],
+    "meanings": [
+      "stop",
+      "halt"
+    ]
+  },
+  {
+    "character": "送",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 311,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "おく.る"
+    ],
+    "meanings": [
+      "escort",
+      "send"
+    ]
+  },
+  {
+    "character": "切",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 324,
+    "onyomi": [
+      "セツ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "き.る",
+      "-き.る",
+      "き.り",
+      "-き.り",
+      "-ぎ.り",
+      "き.れる",
+      "-き.れる",
+      "き.れ",
+      "-き.れ",
+      "-ぎ.れ"
+    ],
+    "meanings": [
+      "cut",
+      "cutoff",
+      "be sharp"
+    ]
+  },
+  {
+    "character": "転",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 327,
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.がす",
+      "ころ.ぶ",
+      "まろ.ぶ",
+      "うたた",
+      "うつ.る",
+      "くる.めく"
+    ],
+    "meanings": [
+      "revolve",
+      "turn around",
+      "change"
+    ]
+  },
+  {
+    "character": "研",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 336,
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "と.ぐ"
+    ],
+    "meanings": [
+      "polish",
+      "study of",
+      "sharpen"
+    ]
+  },
+  {
+    "character": "足",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 1,
+    "freq": 343,
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "あし",
+      "た.りる",
+      "た.る",
+      "た.す"
+    ],
+    "meanings": [
+      "leg",
+      "foot",
+      "be sufficient",
+      "counter for pairs of footwear"
+    ]
+  },
+  {
+    "character": "究",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 368,
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "きわ.める"
+    ],
+    "meanings": [
+      "research",
+      "study"
+    ]
+  },
+  {
+    "character": "楽",
+    "level": "N4",
+    "strokes": 13,
+    "grade": 2,
+    "freq": 373,
+    "onyomi": [
+      "ガク",
+      "ラク",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "たの.しい",
+      "たの.しむ",
+      "この.む"
+    ],
+    "meanings": [
+      "music",
+      "comfort",
+      "ease"
+    ]
+  },
+  {
+    "character": "起",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 374,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "お.きる",
+      "お.こる",
+      "お.こす",
+      "おこ.す",
+      "た.つ"
+    ],
+    "meanings": [
+      "rouse",
+      "wake up",
+      "get up"
+    ]
+  },
+  {
+    "character": "着",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 376,
+    "onyomi": [
+      "チャク",
+      "ジャク"
+    ],
+    "kunyomi": [
+      "き.る",
+      "き.せる",
+      "つ.く",
+      "つ.ける"
+    ],
+    "meanings": [
+      "don",
+      "arrive",
+      "wear",
+      "counter for suits of clothing"
+    ]
+  },
+  {
+    "character": "店",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 378,
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "みせ",
+      "たな"
+    ],
+    "meanings": [
+      "store",
+      "shop"
+    ]
+  },
+  {
+    "character": "病",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 384,
+    "onyomi": [
+      "ビョウ",
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "や.む",
+      "-や.み",
+      "やまい"
+    ],
+    "meanings": [
+      "ill",
+      "sick"
+    ]
+  },
+  {
+    "character": "質",
+    "level": "N4",
+    "strokes": 15,
+    "grade": 5,
+    "freq": 389,
+    "onyomi": [
+      "シツ",
+      "シチ",
+      "チ"
+    ],
+    "kunyomi": [
+      "たち",
+      "ただ.す",
+      "もと",
+      "わりふ"
+    ],
+    "meanings": [
+      "substance",
+      "quality",
+      "matter",
+      "temperament"
+    ]
+  },
+  {
+    "character": "待",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 391,
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "ま.つ",
+      "-ま.ち"
+    ],
+    "meanings": [
+      "wait",
+      "depend on"
+    ]
+  },
+  {
+    "character": "試",
+    "level": "N4",
+    "strokes": 13,
+    "grade": 4,
+    "freq": 392,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "こころ.みる",
+      "ため.す"
+    ],
+    "meanings": [
+      "test",
+      "try",
+      "attempt",
+      "experiment",
+      "ordeal"
+    ]
+  },
+  {
+    "character": "族",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 393,
+    "onyomi": [
+      "ゾク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "tribe",
+      "family"
+    ]
+  },
+  {
+    "character": "銀",
+    "level": "N4",
+    "strokes": 14,
+    "grade": 3,
+    "freq": 395,
+    "onyomi": [
+      "ギン"
+    ],
+    "kunyomi": [
+      "しろがね"
+    ],
+    "meanings": [
+      "silver"
+    ]
+  },
+  {
+    "character": "早",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 402,
+    "onyomi": [
+      "ソウ",
+      "サッ"
+    ],
+    "kunyomi": [
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
+    ],
+    "meanings": [
+      "early",
+      "fast"
+    ]
+  },
+  {
+    "character": "映",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 6,
+    "freq": 404,
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "うつ.る",
+      "うつ.す",
+      "は.える",
+      "-ば.え"
+    ],
+    "meanings": [
+      "reflect",
+      "reflection",
+      "projection"
+    ]
+  },
+  {
+    "character": "親",
+    "level": "N4",
+    "strokes": 16,
+    "grade": 2,
+    "freq": 406,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "おや",
+      "おや-",
+      "した.しい",
+      "した.しむ"
+    ],
+    "meanings": [
+      "parent",
+      "intimacy",
+      "relative",
+      "familiarity",
+      "dealer (cards)"
+    ]
+  },
+  {
+    "character": "験",
+    "level": "N4",
+    "strokes": 18,
+    "grade": 4,
+    "freq": 410,
+    "onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "kunyomi": [
+      "あかし",
+      "しるし",
+      "ため.す",
+      "ためし"
+    ],
+    "meanings": [
+      "verification",
+      "effect",
+      "testing"
+    ]
+  },
+  {
+    "character": "英",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 430,
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "はなぶさ"
+    ],
+    "meanings": [
+      "England",
+      "English",
+      "hero",
+      "outstanding",
+      "calyx"
+    ]
+  },
+  {
+    "character": "医",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 437,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "い.やす",
+      "い.する",
+      "くすし"
+    ],
+    "meanings": [
+      "doctor",
+      "medicine"
+    ]
+  },
+  {
+    "character": "仕",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 439,
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "つか.える"
+    ],
+    "meanings": [
+      "attend",
+      "doing",
+      "official",
+      "serve"
+    ]
+  },
+  {
+    "character": "去",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 440,
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "kunyomi": [
+      "さ.る",
+      "-さ.る"
+    ],
+    "meanings": [
+      "gone",
+      "past",
+      "quit",
+      "leave",
+      "elapse",
+      "eliminate",
+      "divorce"
+    ]
+  },
+  {
+    "character": "味",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 442,
+    "onyomi": [
+      "ミ"
+    ],
+    "kunyomi": [
+      "あじ",
+      "あじ.わう"
+    ],
+    "meanings": [
+      "flavor",
+      "taste"
+    ]
+  },
+  {
+    "character": "写",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 3,
+    "freq": 453,
+    "onyomi": [
+      "シャ",
+      "ジャ"
+    ],
+    "kunyomi": [
+      "うつ.す",
+      "うつ.る",
+      "うつ-",
+      "うつ.し"
+    ],
+    "meanings": [
+      "copy",
+      "be photographed",
+      "describe"
+    ]
+  },
+  {
+    "character": "字",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 1,
+    "freq": 485,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "あざ",
+      "あざな",
+      "-な"
+    ],
+    "meanings": [
+      "character",
+      "letter",
+      "word",
+      "section of village"
+    ]
+  },
+  {
+    "character": "答",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 486,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "こた.える",
+      "こた.え"
+    ],
+    "meanings": [
+      "solution",
+      "answer"
+    ]
+  },
+  {
+    "character": "夜",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 487,
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よる"
+    ],
+    "meanings": [
+      "night",
+      "evening"
+    ]
+  },
+  {
+    "character": "音",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 1,
+    "freq": 491,
+    "onyomi": [
+      "オン",
+      "イン",
+      "-ノン"
+    ],
+    "kunyomi": [
+      "おと",
+      "ね"
+    ],
+    "meanings": [
+      "sound",
+      "noise"
+    ]
+  },
+  {
+    "character": "注",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 497,
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "そそ.ぐ",
+      "さ.す",
+      "つ.ぐ"
+    ],
+    "meanings": [
+      "pour",
+      "irrigate",
+      "shed (tears)",
+      "flow into",
+      "concentrate on",
+      "notes",
+      "comment",
+      "annotate"
+    ]
+  },
+  {
+    "character": "帰",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 504,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "かえ.る",
+      "かえ.す",
+      "おく.る",
+      "とつ.ぐ"
+    ],
+    "meanings": [
+      "homecoming",
+      "arrive at",
+      "lead to",
+      "result in"
+    ]
+  },
+  {
+    "character": "古",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 509,
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "ふる.い",
+      "ふる-",
+      "-ふる.す"
+    ],
+    "meanings": [
+      "old"
+    ]
+  },
+  {
+    "character": "歌",
+    "level": "N4",
+    "strokes": 14,
+    "grade": 2,
+    "freq": 519,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "うた",
+      "うた.う"
+    ],
+    "meanings": [
+      "song",
+      "sing"
+    ]
+  },
+  {
+    "character": "買",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 2,
+    "freq": 520,
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "か.う"
+    ],
+    "meanings": [
+      "buy"
+    ]
+  },
+  {
+    "character": "悪",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 530,
+    "onyomi": [
+      "アク",
+      "オ"
+    ],
+    "kunyomi": [
+      "わる.い",
+      "わる-",
+      "あ.し",
+      "にく.い",
+      "-にく.い",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.む"
+    ],
+    "meanings": [
+      "bad",
+      "vice",
+      "rascal",
+      "false",
+      "evil",
+      "wrong"
+    ]
+  },
+  {
+    "character": "図",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 539,
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "え",
+      "はか.る"
+    ],
+    "meanings": [
+      "map",
+      "drawing",
+      "plan",
+      "extraordinary",
+      "audacious"
+    ]
+  },
+  {
+    "character": "週",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 540,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "week"
+    ]
+  },
+  {
+    "character": "室",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 550,
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "むろ"
+    ],
+    "meanings": [
+      "room",
+      "apartment",
+      "chamber",
+      "greenhouse",
+      "cellar"
+    ]
+  },
+  {
+    "character": "歩",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 554,
+    "onyomi": [
+      "ホ",
+      "ブ",
+      "フ"
+    ],
+    "kunyomi": [
+      "ある.く",
+      "あゆ.む"
+    ],
+    "meanings": [
+      "walk",
+      "counter for steps"
+    ]
+  },
+  {
+    "character": "風",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 558,
+    "onyomi": [
+      "フウ",
+      "フ"
+    ],
+    "kunyomi": [
+      "かぜ",
+      "かざ-"
+    ],
+    "meanings": [
+      "wind",
+      "air",
+      "style",
+      "manner"
+    ]
+  },
+  {
+    "character": "紙",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 559,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "meanings": [
+      "paper"
+    ]
+  },
+  {
+    "character": "黒",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 573,
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くろ",
+      "くろ.ずむ",
+      "くろ.い"
+    ],
+    "meanings": [
+      "black"
+    ]
+  },
+  {
+    "character": "花",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 1,
+    "freq": 578,
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "meanings": [
+      "flower"
+    ]
+  },
+  {
+    "character": "春",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 579,
+    "onyomi": [
+      "シュン"
+    ],
+    "kunyomi": [
+      "はる"
+    ],
+    "meanings": [
+      "springtime",
+      "spring (season)"
+    ]
+  },
+  {
+    "character": "赤",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 1,
+    "freq": 584,
+    "onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "kunyomi": [
+      "あか",
+      "あか-",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる"
+    ],
+    "meanings": [
+      "red"
+    ]
+  },
+  {
+    "character": "青",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 1,
+    "freq": 589,
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あお",
+      "あお-",
+      "あお.い"
+    ],
+    "meanings": [
+      "blue",
+      "green"
+    ]
+  },
+  {
+    "character": "館",
+    "level": "N4",
+    "strokes": 16,
+    "grade": 3,
+    "freq": 613,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "やかた",
+      "たて"
+    ],
+    "meanings": [
+      "building",
+      "mansion",
+      "large building",
+      "palace"
+    ]
+  },
+  {
+    "character": "屋",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 616,
+    "onyomi": [
+      "オク"
+    ],
+    "kunyomi": [
+      "や"
+    ],
+    "meanings": [
+      "roof",
+      "house",
+      "shop",
+      "dealer",
+      "seller"
+    ]
+  },
+  {
+    "character": "色",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 621,
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "kunyomi": [
+      "いろ"
+    ],
+    "meanings": [
+      "color"
+    ]
+  },
+  {
+    "character": "走",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 626,
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はし.る"
+    ],
+    "meanings": [
+      "run"
+    ]
+  },
+  {
+    "character": "秋",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 635,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あき",
+      "とき"
+    ],
+    "meanings": [
+      "autumn"
+    ]
+  },
+  {
+    "character": "夏",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 2,
+    "freq": 659,
+    "onyomi": [
+      "カ",
+      "ガ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "meanings": [
+      "summer"
+    ]
+  },
+  {
+    "character": "習",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 3,
+    "freq": 706,
+    "onyomi": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kunyomi": [
+      "なら.う",
+      "なら.い"
+    ],
+    "meanings": [
+      "learn"
+    ]
+  },
+  {
+    "character": "駅",
+    "level": "N4",
+    "strokes": 14,
+    "grade": 3,
+    "freq": 724,
+    "onyomi": [
+      "エキ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "station"
+    ]
+  },
+  {
+    "character": "洋",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 763,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "ocean",
+      "sea",
+      "foreign",
+      "Western style"
+    ]
+  },
+  {
+    "character": "旅",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 783,
+    "onyomi": [
+      "リョ"
+    ],
+    "kunyomi": [
+      "たび"
+    ],
+    "meanings": [
+      "trip",
+      "travel"
+    ]
+  },
+  {
+    "character": "服",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 3,
+    "freq": 873,
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "clothing",
+      "admit",
+      "obey",
+      "discharge"
+    ]
+  },
+  {
+    "character": "夕",
+    "level": "N4",
+    "strokes": 3,
+    "grade": 1,
+    "freq": 924,
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "ゆう"
+    ],
+    "meanings": [
+      "evening"
+    ]
+  },
+  {
+    "character": "借",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 4,
+    "freq": 932,
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [
+      "か.りる"
+    ],
+    "meanings": [
+      "borrow",
+      "rent"
+    ]
+  },
+  {
+    "character": "曜",
+    "level": "N4",
+    "strokes": 18,
+    "grade": 2,
+    "freq": 940,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "weekday"
+    ]
+  },
+  {
+    "character": "飲",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 3,
+    "freq": 969,
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "kunyomi": [
+      "の.む",
+      "-の.み"
+    ],
+    "meanings": [
+      "drink",
+      "smoke",
+      "take"
+    ]
+  },
+  {
+    "character": "肉",
+    "level": "N4",
+    "strokes": 6,
+    "grade": 2,
+    "freq": 986,
+    "onyomi": [
+      "ニク"
+    ],
+    "kunyomi": [
+      "しし"
+    ],
+    "meanings": [
+      "meat"
+    ]
+  },
+  {
+    "character": "貸",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 5,
+    "freq": 995,
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "か.す",
+      "か.し-",
+      "かし-"
+    ],
+    "meanings": [
+      "lend"
+    ]
+  },
+  {
+    "character": "堂",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 5,
+    "freq": 1010,
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "public chamber",
+      "hall"
+    ]
+  },
+  {
+    "character": "鳥",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 1043,
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "とり"
+    ],
+    "meanings": [
+      "bird",
+      "chicken"
+    ]
+  },
+  {
+    "character": "飯",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 1046,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "めし"
+    ],
+    "meanings": [
+      "meal",
+      "boiled rice"
+    ]
+  },
+  {
+    "character": "勉",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 3,
+    "freq": 1066,
+    "onyomi": [
+      "ベン"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "meanings": [
+      "exertion",
+      "endeavour",
+      "encourage",
+      "strive",
+      "make effort",
+      "diligent"
+    ]
+  },
+  {
+    "character": "冬",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 1090,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "meanings": [
+      "winter"
+    ]
+  },
+  {
+    "character": "昼",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 1115,
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "ひる"
+    ],
+    "meanings": [
+      "daytime",
+      "noon"
+    ]
+  },
+  {
+    "character": "茶",
+    "level": "N4",
+    "strokes": 9,
+    "grade": 2,
+    "freq": 1116,
+    "onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "tea"
+    ]
+  },
+  {
+    "character": "弟",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 1161,
+    "onyomi": [
+      "テイ",
+      "ダイ",
+      "デ"
+    ],
+    "kunyomi": [
+      "おとうと"
+    ],
+    "meanings": [
+      "younger brother",
+      "faithful service to elders"
+    ]
+  },
+  {
+    "character": "牛",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 1202,
+    "onyomi": [
+      "ギュウ"
+    ],
+    "kunyomi": [
+      "うし"
+    ],
+    "meanings": [
+      "cow"
+    ]
+  },
+  {
+    "character": "魚",
+    "level": "N4",
+    "strokes": 11,
+    "grade": 2,
+    "freq": 1208,
+    "onyomi": [
+      "ギョ"
+    ],
+    "kunyomi": [
+      "うお",
+      "さかな",
+      "-ざかな"
+    ],
+    "meanings": [
+      "fish"
+    ]
+  },
+  {
+    "character": "兄",
+    "level": "N4",
+    "strokes": 5,
+    "grade": 2,
+    "freq": 1219,
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kunyomi": [
+      "あに"
+    ],
+    "meanings": [
+      "elder brother",
+      "big brother"
+    ]
+  },
+  {
+    "character": "犬",
+    "level": "N4",
+    "strokes": 4,
+    "grade": 1,
+    "freq": 1326,
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "いぬ",
+      "いぬ-"
+    ],
+    "meanings": [
+      "dog"
+    ]
+  },
+  {
+    "character": "妹",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 1446,
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "meanings": [
+      "younger sister"
+    ]
+  },
+  {
+    "character": "姉",
+    "level": "N4",
+    "strokes": 8,
+    "grade": 2,
+    "freq": 1473,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "あね",
+      "はは"
+    ],
+    "meanings": [
+      "elder sister"
+    ]
+  },
+  {
+    "character": "漢",
+    "level": "N4",
+    "strokes": 13,
+    "grade": 3,
+    "freq": 1487,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "Sino-",
+      "China"
+    ]
+  }
+]
