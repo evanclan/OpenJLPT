@@ -1,6 +1,6 @@
 # Enable the "Sponsor" button on GitHub.
-# TODO: replace the placeholders below with your real handles before publishing.
-github: [YOUR_GITHUB_USERNAME]
-ko_fi: YOUR_KOFI_USERNAME
+# The GitHub Sponsors button appears once you've enabled Sponsors for your account
+# at https://github.com/sponsors. Uncomment ko_fi once you have a Ko-fi page.
+github: [evanclan]
+# ko_fi: YOUR_KOFI_USERNAME
 # buy_me_a_coffee: YOUR_BMC_USERNAME
-# custom: ["https://your-donation-link.example"]
