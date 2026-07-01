@@ -5,3 +5,6 @@ dist/
 .DS_Store
 *.sqlite-shm
 *.sqlite-wal
+
+# npm pack output
+*.tgz
