@@ -43,6 +43,23 @@ licensing is a mystery. OpenJLPT fixes that:
 | Typical kanji-data repo | ❌ | ✅ | ❌ | ❌ | ❌ | ⚠️ | ⚠️ |
 | **OpenJLPT** | ✅ | ✅ | ✅ | 🔜 | ✅ | ✅ | ✅ |
 
+## Who is this for?
+
+New here and not a programmer? In plain terms: the JLPT is the official Japanese exam, with
+five levels (N5 = beginner → N1 = advanced). To study, you need to know **which words and
+kanji belong to each level**. OpenJLPT is a clean, complete, free **master list** of all of
+them — with real example sentences — ready to drop into any app or study tool. Think
+pre-washed, pre-chopped ingredients instead of digging them out of the dirt yourself.
+
+- 🛠️ **App & tool makers** — building a flashcard app, quiz game, or study bot? Skip weeks of
+  tedious data-gathering and go straight to building the fun part.
+- 👩‍🏫 **Teachers** — pull ready-made word and kanji lists for worksheets and lesson materials.
+- 🎓 **Learners & self-studiers** — grab the exact "what do I need for N4?" lists, with examples.
+- 🔬 **Researchers & tinkerers** — a clean, well-documented dataset to build and experiment on.
+
+Not sure how to use the files? Start with the [Quick start](#quick-start) below — you can grab
+the data with **no coding at all**.
+
 ## What's inside
 
 | Level | Vocabulary | Kanji |
