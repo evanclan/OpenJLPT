@@ -27,6 +27,7 @@ repos, then discovering none of them agree on levels, most have no example data,
 licensing is a mystery. OpenJLPT fixes that:
 
 - ✅ **Complete** — vocabulary **and** kanji for every level, N5 through N1.
+- ✅ **Example sentences** — real Japanese↔English sentence pairs (Tatoeba) on 89% of words.
 - ✅ **One canonical schema** — [documented](./schema), versioned, validated in CI.
 - ✅ **Three formats** — JSON (per level), CSV (spreadsheet-friendly), and a prebuilt,
   indexed **SQLite** database for real queries.
@@ -36,11 +37,11 @@ licensing is a mystery. OpenJLPT fixes that:
 
 ### How it compares
 
-| Repo | Vocab | Kanji | Grammar | SQLite | Clear license | Maintained |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Typical vocab list repo | ✅ | ❌ | ❌ | ❌ | ⚠️ | ❌ |
-| Typical kanji-data repo | ❌ | ✅ | ❌ | ❌ | ⚠️ | ⚠️ |
-| **OpenJLPT** | ✅ | ✅ | 🔜 | ✅ | ✅ | ✅ |
+| Repo | Vocab | Kanji | Examples | Grammar | SQLite | Clear license | Maintained |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Typical vocab list repo | ✅ | ❌ | ❌ | ❌ | ❌ | ⚠️ | ❌ |
+| Typical kanji-data repo | ❌ | ✅ | ❌ | ❌ | ❌ | ⚠️ | ⚠️ |
+| **OpenJLPT** | ✅ | ✅ | ✅ | 🔜 | ✅ | ✅ | ✅ |
 
 ## What's inside
 
@@ -68,10 +69,15 @@ data/
 
 ### Just the data (no install)
 
-Grab the JSON or CSV straight from `data/`. Each vocabulary entry:
+Grab the JSON or CSV straight from `data/`. Each vocabulary entry — with example sentences where available (89% of words):
 
 ```json
-{ "word": "食べる", "reading": "たべる", "meanings": ["to eat"], "level": "N5" }
+{
+  "word": "食べる", "reading": "たべる", "meanings": ["to eat"], "level": "N5",
+  "examples": [
+    { "ja": "魚を食べる。", "en": "I eat fish." }
+  ]
+}
 ```
 
 Each kanji entry:
@@ -129,7 +135,7 @@ Individual steps: `npm run fetch`, `npm run build:data`, `npm run validate`.
 - [x] N5–N1 vocabulary (JSON + CSV + SQLite)
 - [x] N5–N1 kanji enriched from KANJIDIC2
 - [x] Canonical JSON Schema + CI validation
-- [ ] Example sentences per word (Tatoeba)
+- [x] Example sentences per word (Tatoeba)
 - [ ] Structured grammar points per level
 - [ ] Audio (native / TTS)
 - [ ] Python package on PyPI

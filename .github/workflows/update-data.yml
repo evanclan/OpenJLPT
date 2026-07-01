@@ -1,0 +1,31 @@
+name: Update data
+
+# Rebuild the dataset from upstream sources and open a PR if anything changed.
+# Keeps the data current, which the EDRDG license expects of redistributors.
+on:
+  schedule:
+    - cron: '0 4 1 * *' # 04:00 UTC on the 1st of each month
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: sudo apt-get update && sudo apt-get install -y bzip2
+      - run: npm ci
+      - run: npm run build # fetch upstream -> rebuild JSON/CSV/SQLite -> validate
+      - name: Open a PR if the dataset changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: 'chore(data): monthly refresh from upstream sources'
+          title: 'Monthly data refresh'
+          body: |
+            Automated rebuild from JMdict/KANJIDIC2 (EDRDG), Waller (tanos.co.uk), and Tatoeba.
+            Review the diff under `data/` before merging.
+          branch: data/monthly-refresh
+          add-paths: data

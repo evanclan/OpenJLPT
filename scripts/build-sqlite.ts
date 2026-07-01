@@ -17,7 +17,8 @@ function build() {
   db.exec(`
     CREATE TABLE vocab (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
-      word TEXT NOT NULL, reading TEXT, meanings TEXT NOT NULL, level TEXT NOT NULL
+      word TEXT NOT NULL, reading TEXT, meanings TEXT NOT NULL, level TEXT NOT NULL,
+      examples TEXT NOT NULL DEFAULT '[]'
     );
     CREATE TABLE kanji (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -31,7 +32,7 @@ function build() {
     CREATE INDEX idx_kanji_char  ON kanji(character);
   `);
 
-  const insV = db.prepare('INSERT INTO vocab (word, reading, meanings, level) VALUES (?,?,?,?)');
+  const insV = db.prepare('INSERT INTO vocab (word, reading, meanings, level, examples) VALUES (?,?,?,?,?)');
   const insK = db.prepare(
     'INSERT INTO kanji (character, level, strokes, grade, freq, onyomi, kunyomi, meanings) VALUES (?,?,?,?,?,?,?,?)',
   );
@@ -42,7 +43,7 @@ function build() {
     for (const { level } of LEVELS) {
       const lc = level.toLowerCase();
       for (const v of readJson(join(DATA_DIR, 'json', 'vocab', `${lc}.json`))) {
-        insV.run(v.word, v.reading, JSON.stringify(v.meanings), v.level);
+        insV.run(v.word, v.reading, JSON.stringify(v.meanings), v.level, JSON.stringify(v.examples ?? []));
         nv++;
       }
       for (const k of readJson(join(DATA_DIR, 'json', 'kanji', `${lc}.json`))) {

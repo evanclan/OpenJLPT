@@ -17,10 +17,15 @@ If you use OpenJLPT, you must:
 | **JMdict / EDICT** — Electronic Dictionary Research and Development Group (EDRDG) | Vocabulary readings & glosses (via Waller's decks, which build on EDICT) | CC BY-SA 4.0 | https://www.edrdg.org/ |
 | **KANJIDIC2** — EDRDG | Kanji readings, meanings, stroke counts, grade, frequency | CC BY-SA 4.0 | https://www.edrdg.org/wiki/KANJIDIC_Project.html |
 | **Jonathan Waller's JLPT Resources** (tanos.co.uk) | The **N5–N1 level assignments** for vocabulary and kanji | CC BY | https://www.tanos.co.uk/jlpt/ |
+| **Tatoeba** | Example sentences (Japanese + English translations) attached to vocabulary | CC BY 2.0 FR | https://tatoeba.org |
 
 The EDRDG files (JMdict, KANJIDIC2) are the property of the Electronic Dictionary Research
 and Development Group, and are used in conformance with the Group's
 [licence](https://www.edrdg.org/edrdg/licence.html).
+
+Example sentences come from [Tatoeba](https://tatoeba.org) and are licensed
+[CC BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/); combining CC BY material
+into this CC BY-SA 4.0 dataset is permitted, and attribution to Tatoeba is given here.
 
 ## Important note on JLPT levels
 

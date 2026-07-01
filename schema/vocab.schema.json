@@ -26,6 +26,19 @@
       "type": "string",
       "enum": ["N5", "N4", "N3", "N2", "N1"],
       "description": "JLPT level (current N5–N1 system)."
+    },
+    "examples": {
+      "type": "array",
+      "description": "Optional example sentences from Tatoeba (CC BY 2.0 FR).",
+      "items": {
+        "type": "object",
+        "required": ["ja", "en"],
+        "additionalProperties": false,
+        "properties": {
+          "ja": { "type": "string", "minLength": 1, "description": "Japanese sentence." },
+          "en": { "type": "string", "minLength": 1, "description": "English translation." }
+        }
+      }
     }
   }
 }

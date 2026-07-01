@@ -12,11 +12,18 @@ import { dirname, join } from 'node:path';
 
 export type Level = 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
 
+export interface Example {
+  ja: string;
+  en: string;
+}
+
 export interface Vocab {
   word: string;
   reading: string;
   meanings: string[];
   level: Level;
+  /** Example sentences from Tatoeba (CC BY 2.0 FR), when available. */
+  examples?: Example[];
 }
 
 export interface Kanji {

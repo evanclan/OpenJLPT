@@ -8,10 +8,21 @@
  * See NOTICE.md for full attribution.
  */
 import { join } from 'node:path';
+import { existsSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
 import { CACHE_DIR, LEVELS, download } from './lib/util.ts';
 
 const TANOS = 'http://www.tanos.co.uk/jlpt';
 const KANJIDIC2 = 'http://www.edrdg.org/kanjidic/kanjidic2.xml.gz';
+const TATOEBA = 'https://downloads.tatoeba.org/exports';
+
+/** Download a bzip2 file and decompress it to `out` (requires the `bzip2` CLI). */
+async function fetchBz2(url: string, out: string, force: boolean): Promise<void> {
+  if (!force && existsSync(out)) return;
+  const bz2 = `${out}.bz2`;
+  await download(url, bz2, force);
+  execFileSync('bzip2', ['-df', bz2]); // -d decompress, -f overwrite, removes .bz2
+}
 
 async function main() {
   const force = process.argv.includes('--force');
@@ -27,6 +38,14 @@ async function main() {
     );
   }
   jobs.push(download(KANJIDIC2, join(CACHE_DIR, 'kanjidic2.xml.gz'), force));
+
+  // Tatoeba example sentences (Japanese, English, and the jpn->eng links).
+  const tdir = join(CACHE_DIR, 'tatoeba');
+  jobs.push(
+    fetchBz2(`${TATOEBA}/per_language/jpn/jpn_sentences.tsv.bz2`, join(tdir, 'jpn.tsv'), force),
+    fetchBz2(`${TATOEBA}/per_language/eng/eng_sentences.tsv.bz2`, join(tdir, 'eng.tsv'), force),
+    fetchBz2(`${TATOEBA}/per_language/jpn/jpn-eng_links.tsv.bz2`, join(tdir, 'links.tsv'), force),
+  );
 
   await Promise.all(jobs);
   console.log(`Fetched ${jobs.length} source files into ${CACHE_DIR}`);
