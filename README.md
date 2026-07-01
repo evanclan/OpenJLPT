@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🎌 OpenJLPT
+<img src="assets/social-preview.png" alt="OpenJLPT — Open JLPT dataset for developers · N5–N1" width="840">
+
+# OpenJLPT
 
 **The open, correctly-licensed JLPT dataset for developers.**
 
