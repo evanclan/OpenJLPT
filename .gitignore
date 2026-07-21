@@ -8,3 +8,23 @@ dist/
 
 # npm pack output
 *.tgz
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+build/
+*.whl
+*.tar.gz
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data bundled into the Python package by setup.py during wheel builds.
+openjlpt/data/
+openjlpt/schema/

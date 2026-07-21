@@ -1,0 +1,4 @@
+include NOTICE.md
+include LICENSE
+recursive-include data *
+recursive-include schema *
