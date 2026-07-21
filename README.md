@@ -172,7 +172,7 @@ Individual steps: `npm run fetch`, `npm run build:data`, `npm run validate`.
 - [x] Example sentences per word (Tatoeba)
 - [ ] Structured grammar points per level
 - [ ] Audio (native / TTS)
-- [ ] Python package on PyPI
+- [x] Python package on PyPI
 - [ ] Hosted REST / GraphQL API
 
 ## Contributing
