@@ -4,7 +4,7 @@ import json
 import os
 from typing import Dict, List, Optional
 
-from ._models import Example, Kanji, Level, Vocab
+from ._models import Example, Grammar, Kanji, Level, Vocab
 
 levels: List[Level] = ["N5", "N4", "N3", "N2", "N1"]
 """All JLPT levels, ordered from beginner to advanced."""
@@ -67,6 +67,21 @@ def _to_kanji(raw: dict) -> Kanji:
     )
 
 
+def _to_grammar(raw: dict) -> Grammar:
+    examples = None
+    if raw.get("examples"):
+        examples = [Example(**ex) for ex in raw["examples"]]
+    return Grammar(
+        pattern=raw["pattern"],
+        level=raw["level"],
+        meaning=raw["meaning"],
+        formation=raw.get("formation"),
+        examples=examples,
+        tags=raw.get("tags"),
+        notes=raw.get("notes"),
+    )
+
+
 def get_vocab(level: Optional[Level] = None) -> List[Vocab]:
     """Return all vocabulary entries, optionally filtered to one level."""
     if level is not None:
@@ -79,6 +94,13 @@ def get_kanji(level: Optional[Level] = None) -> List[Kanji]:
     if level is not None:
         return [_to_kanji(k) for k in _load("kanji", level)]
     return [k for l in levels for k in get_kanji(l)]
+
+
+def get_grammar(level: Optional[Level] = None) -> List[Grammar]:
+    """Return all grammar entries, optionally filtered to one level."""
+    if level is not None:
+        return [_to_grammar(g) for g in _load("grammar", level)]
+    return [g for l in levels for g in get_grammar(l)]
 
 
 def find_word(word: str) -> Optional[Vocab]:
@@ -100,4 +122,22 @@ def search_vocab(query: str, level: Optional[Level] = None) -> List[Vocab]:
         if query in v.word
         or query in v.reading
         or any(q in m.lower() for m in v.meanings)
+    ]
+
+
+def find_grammar(pattern: str) -> List[Grammar]:
+    """Look up grammar points whose pattern contains the given substring."""
+    return [g for g in get_grammar() if pattern in g.pattern]
+
+
+def search_grammar(query: str, level: Optional[Level] = None) -> List[Grammar]:
+    """Case-insensitive substring search across pattern, meaning, formation, and tags."""
+    q = query.lower()
+    return [
+        g
+        for g in get_grammar(level)
+        if query in g.pattern
+        or q in g.meaning.lower()
+        or (g.formation is not None and q in g.formation.lower())
+        or (g.tags is not None and any(q in t.lower() for t in g.tags))
     ]

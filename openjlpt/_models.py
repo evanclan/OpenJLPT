@@ -38,3 +38,16 @@ class Kanji:
     onyomi: List[str]
     kunyomi: List[str]
     meanings: List[str]
+
+
+@dataclass(frozen=True)
+class Grammar:
+    """A single JLPT grammar point."""
+
+    pattern: str
+    level: Level
+    meaning: str
+    formation: Optional[str] = None
+    examples: Optional[List[Example]] = None
+    tags: Optional[List[str]] = None
+    notes: Optional[str] = None

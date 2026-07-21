@@ -1,6 +1,6 @@
 [project]
 name = "openjlpt"
-version = "0.1.0"
+version = "0.2.0"
 description = "Open, correctly-licensed JLPT N5–N1 dataset loader for Python"
 readme = "README.md"
 license = "CC-BY-SA-4.0"

@@ -4,14 +4,18 @@ import sqlite3
 
 from openjlpt import (
     Example,
+    Grammar,
     Kanji,
     Vocab,
+    find_grammar,
     find_kanji,
     find_word,
+    get_grammar,
     get_kanji,
     get_vocab,
     levels,
     query,
+    search_grammar,
     search_vocab,
 )
 
@@ -118,3 +122,42 @@ def test_connect_returns_sqlite_connection():
         assert isinstance(conn, sqlite3.Connection)
         cur = conn.execute("SELECT 1")
         assert cur.fetchone()[0] == 1
+
+
+def test_get_grammar_n5_count():
+    n5 = get_grammar("N5")
+    assert len(n5) >= 1
+
+
+def test_get_grammar_returns_typed_objects():
+    item = get_grammar("N5")[0]
+    assert isinstance(item, Grammar)
+    assert item.level == "N5"
+    assert isinstance(item.meaning, str)
+
+
+def test_get_all_grammar():
+    all_grammar = get_grammar()
+    assert len(all_grammar) >= 20
+
+
+def test_find_grammar():
+    results = find_grammar("てもいい")
+    assert any("てもいい" in g.pattern for g in results)
+
+
+def test_search_grammar_meaning():
+    results = search_grammar("permission")
+    assert any("permission" in (g.tags or []) for g in results)
+
+
+def test_sqlite_schema_has_grammar():
+    rows = query("SELECT name FROM sqlite_master WHERE type = 'table'")
+    table_names = {r[0] for r in rows}
+    assert "grammar" in table_names
+
+
+def test_sqlite_grammar_query():
+    rows = query("SELECT level, COUNT(*) FROM grammar GROUP BY level")
+    counts = {row["level"]: row[1] for row in rows}
+    assert counts["N5"] >= 1
