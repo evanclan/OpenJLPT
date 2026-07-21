@@ -1,0 +1,399 @@
+[
+  {
+    "pattern": "〜ことだ",
+    "level": "N3",
+    "meaning": "should; it is important to",
+    "formation": "Verb-plain + ことだ",
+    "examples": [
+      {
+        "ja": "毎日復習することだ。",
+        "en": "You should review every day."
+      },
+      {
+        "ja": "健康のために運動することだ。",
+        "en": "You should exercise for your health."
+      }
+    ],
+    "tags": [
+      "advice",
+      "emphasis"
+    ]
+  },
+  {
+    "pattern": "〜ことはない",
+    "level": "N3",
+    "meaning": "there is no need to; never happens",
+    "formation": "Verb-plain + ことはない",
+    "examples": [
+      {
+        "ja": "心配することはない。",
+        "en": "There is no need to worry."
+      },
+      {
+        "ja": "そんなことはない。",
+        "en": "That's not true."
+      }
+    ],
+    "tags": [
+      "negation",
+      "reassurance"
+    ]
+  },
+  {
+    "pattern": "〜そうにする",
+    "level": "N3",
+    "meaning": "pretend to; act as if",
+    "formation": "Verb-plain + そうにする",
+    "examples": [
+      {
+        "ja": "知らないそうにしていた。",
+        "en": "I pretended not to know."
+      },
+      {
+        "ja": "元気そうに見せる。",
+        "en": "I act as if I am healthy."
+      }
+    ],
+    "tags": [
+      "pretense",
+      "appearance"
+    ]
+  },
+  {
+    "pattern": "〜ところ",
+    "level": "N3",
+    "meaning": "time; place; situation; about to",
+    "formation": "Verb-plain / Verb-te / Verb-ta + ところ",
+    "examples": [
+      {
+        "ja": "今、出かけるところです。",
+        "en": "I am about to go out now."
+      },
+      {
+        "ja": "電話したところ、彼は出かけていた。",
+        "en": "When I called, he had just gone out."
+      }
+    ],
+    "tags": [
+      "timing",
+      "situation"
+    ]
+  },
+  {
+    "pattern": "〜について",
+    "level": "N3",
+    "meaning": "about; concerning; regarding",
+    "formation": "Noun + について",
+    "examples": [
+      {
+        "ja": "環境について話す。",
+        "en": "Talk about the environment."
+      },
+      {
+        "ja": "日本の文化について学ぶ。",
+        "en": "Learn about Japanese culture."
+      }
+    ],
+    "tags": [
+      "topic"
+    ]
+  },
+  {
+    "pattern": "〜によって",
+    "level": "N3",
+    "meaning": "by means of; due to; depending on; passive agent",
+    "formation": "Noun + によって",
+    "examples": [
+      {
+        "ja": "この本は有名な作家によって書かれた。",
+        "en": "This book was written by a famous author."
+      },
+      {
+        "ja": "人によって意見が違う。",
+        "en": "Opinions differ depending on the person."
+      }
+    ],
+    "tags": [
+      "means",
+      "passive",
+      "difference"
+    ]
+  },
+  {
+    "pattern": "〜によると",
+    "level": "N3",
+    "meaning": "according to",
+    "formation": "Noun + によると",
+    "examples": [
+      {
+        "ja": "天気予報によると、明日は雨だ。",
+        "en": "According to the weather forecast, it will rain tomorrow."
+      },
+      {
+        "ja": "先生によると、試験は難しいらしい。",
+        "en": "According to the teacher, the exam seems difficult."
+      }
+    ],
+    "tags": [
+      "hearsay"
+    ]
+  },
+  {
+    "pattern": "〜に対して",
+    "level": "N3",
+    "meaning": "toward; in contrast to; regarding",
+    "formation": "Noun + に対して",
+    "examples": [
+      {
+        "ja": "お客様に対して丁寧に話す。",
+        "en": "Speak politely toward customers."
+      },
+      {
+        "ja": "兄は背が高いのに対して、弟は低い。",
+        "en": "The older brother is tall, whereas the younger brother is short."
+      }
+    ],
+    "tags": [
+      "target",
+      "contrast"
+    ]
+  },
+  {
+    "pattern": "〜ばかり",
+    "level": "N3",
+    "meaning": "only; just; full of; tendency to",
+    "formation": "Verb-te / Noun + ばかり",
+    "examples": [
+      {
+        "ja": "毎日ゲームをしているばかりだ。",
+        "en": "I do nothing but play games every day."
+      },
+      {
+        "ja": "彼は文句を言うばかりだ。",
+        "en": "He does nothing but complain."
+      }
+    ],
+    "tags": [
+      "limitation",
+      "habit"
+    ]
+  },
+  {
+    "pattern": "〜ばかりでなく",
+    "level": "N3",
+    "meaning": "not only ... but also",
+    "formation": "Verb-plain / i-adjective / na-adjective + ばかりでなく",
+    "examples": [
+      {
+        "ja": "彼女は頭がいいばかりでなく、優しい。",
+        "en": "She is not only smart but also kind."
+      },
+      {
+        "ja": "日本語を読むばかりでなく、書く練習もする。",
+        "en": "I not only read Japanese but also practice writing."
+      }
+    ],
+    "tags": [
+      "addition"
+    ]
+  },
+  {
+    "pattern": "〜ものだ",
+    "level": "N3",
+    "meaning": "it is natural/normal to; one should",
+    "formation": "Verb-plain + ものだ",
+    "examples": [
+      {
+        "ja": "子供のころはよく遊んだものだ。",
+        "en": "I used to play a lot as a child."
+      },
+      {
+        "ja": "人は誰でも間違うものだ。",
+        "en": "Everyone makes mistakes."
+      }
+    ],
+    "tags": [
+      "general-truth",
+      "nostalgia"
+    ]
+  },
+  {
+    "pattern": "〜ものではない",
+    "level": "N3",
+    "meaning": "should not; it's not right to",
+    "formation": "Verb-plain + ものではない",
+    "examples": [
+      {
+        "ja": "人の悪口を言うものではない。",
+        "en": "You shouldn't speak ill of others."
+      },
+      {
+        "ja": "嘘をつくものではない。",
+        "en": "You shouldn't lie."
+      }
+    ],
+    "tags": [
+      "prohibition",
+      "advice"
+    ]
+  },
+  {
+    "pattern": "〜よう",
+    "level": "N3",
+    "meaning": "way/manner of; like; in order to",
+    "formation": "Verb-plain + よう",
+    "examples": [
+      {
+        "ja": "泳ぎ方を教えてください。",
+        "en": "Please teach me how to swim."
+      },
+      {
+        "ja": "分かるように説明する。",
+        "en": "Explain so that it is understood."
+      }
+    ],
+    "tags": [
+      "method",
+      "purpose"
+    ]
+  },
+  {
+    "pattern": "〜ようにする",
+    "level": "N3",
+    "meaning": "make sure to; try to",
+    "formation": "Verb-plain + ようにする",
+    "examples": [
+      {
+        "ja": "毎日日本語を話すようにしている。",
+        "en": "I make sure to speak Japanese every day."
+      },
+      {
+        "ja": "早く寝るようにしてください。",
+        "en": "Please try to go to bed early."
+      }
+    ],
+    "tags": [
+      "effort",
+      "habit"
+    ]
+  },
+  {
+    "pattern": "〜ようになる",
+    "level": "N3",
+    "meaning": "come to be able to; reach the point where",
+    "formation": "Verb-plain + ようになる",
+    "examples": [
+      {
+        "ja": "毎日練習したら、泳げるようになった。",
+        "en": "After practicing every day, I became able to swim."
+      },
+      {
+        "ja": "日本に来てから、納豆が食べられるようになった。",
+        "en": "Since coming to Japan, I became able to eat natto."
+      }
+    ],
+    "tags": [
+      "change",
+      "ability"
+    ]
+  },
+  {
+    "pattern": "〜らしい",
+    "level": "N3",
+    "meaning": "seems; I heard; typical (less casual than みたい)",
+    "formation": "Verb-plain / i-adjective / na-adjective + らしい",
+    "examples": [
+      {
+        "ja": "彼は怒っているらしい。",
+        "en": "He seems angry."
+      },
+      {
+        "ja": "明日は台風が来るらしい。",
+        "en": "I heard a typhoon is coming tomorrow."
+      }
+    ],
+    "tags": [
+      "hearsay",
+      "appearance"
+    ]
+  },
+  {
+    "pattern": "〜わけがない",
+    "level": "N3",
+    "meaning": "there is no way that; impossible",
+    "formation": "Verb-plain / i-adjective / na-adjective + わけがない",
+    "examples": [
+      {
+        "ja": "あの人が嘘をつくわけがない。",
+        "en": "There is no way that person would lie."
+      },
+      {
+        "ja": "彼女が遅刻するわけがない。",
+        "en": "There is no way she would be late."
+      }
+    ],
+    "tags": [
+      "impossibility",
+      "strong-negation"
+    ]
+  },
+  {
+    "pattern": "〜わけだ",
+    "level": "N3",
+    "meaning": "it is natural that; no wonder; as expected",
+    "formation": "Verb-plain / i-adjective / na-adjective + わけだ",
+    "examples": [
+      {
+        "ja": "毎日勉強しているから、上手になるわけだ。",
+        "en": "Since you study every day, it's natural that you improve."
+      },
+      {
+        "ja": "彼は10年日本に住んでいる。日本語が上手なわけだ。",
+        "en": "He has lived in Japan for 10 years. No wonder his Japanese is good."
+      }
+    ],
+    "tags": [
+      "reason",
+      "conclusion"
+    ]
+  },
+  {
+    "pattern": "〜わけではない",
+    "level": "N3",
+    "meaning": "it doesn't mean that; not necessarily",
+    "formation": "Verb-plain / i-adjective / na-adjective + わけではない",
+    "examples": [
+      {
+        "ja": "嫌いなわけではない。",
+        "en": "It's not that I dislike it."
+      },
+      {
+        "ja": "全く分からないわけではない。",
+        "en": "It's not that I don't understand at all."
+      }
+    ],
+    "tags": [
+      "negation",
+      "nuance"
+    ]
+  },
+  {
+    "pattern": "〜一方",
+    "level": "N3",
+    "meaning": "on the one hand; on the other hand; while",
+    "formation": "Noun/Verb-plain + 一方",
+    "examples": [
+      {
+        "ja": "この町は静かな一方、不便だ。",
+        "en": "This town is quiet, but on the other hand, it's inconvenient."
+      },
+      {
+        "ja": "彼は勉強ができる一方、スポーツも上手だ。",
+        "en": "He is good at studying, and also good at sports."
+      }
+    ],
+    "tags": [
+      "contrast"
+    ]
+  }
+]

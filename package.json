@@ -1,6 +1,6 @@
 {
   "name": "openjlpt",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Open, correctly-licensed JLPT N5–N1 dataset (vocabulary + kanji) with JSON, CSV, and a prebuilt SQLite database.",
   "keywords": [
     "jlpt",
@@ -48,7 +48,7 @@
   ],
   "scripts": {
     "fetch": "tsx scripts/fetch-sources.ts",
-    "build:data": "tsx scripts/build-vocab.ts && tsx scripts/build-kanji.ts && tsx scripts/build-sqlite.ts",
+    "build:data": "tsx scripts/build-vocab.ts && tsx scripts/build-kanji.ts && tsx scripts/build-grammar.ts && tsx scripts/build-sqlite.ts",
     "build": "npm run fetch && npm run build:data && npm run validate",
     "validate": "tsx scripts/validate.ts",
     "build:pkg": "tsc -p tsconfig.build.json"

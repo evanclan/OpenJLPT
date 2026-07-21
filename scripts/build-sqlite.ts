@@ -26,19 +26,30 @@ function build() {
       strokes INTEGER, grade INTEGER, freq INTEGER,
       onyomi TEXT NOT NULL, kunyomi TEXT NOT NULL, meanings TEXT NOT NULL
     );
+    CREATE TABLE grammar (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      pattern TEXT NOT NULL, level TEXT NOT NULL, meaning TEXT NOT NULL,
+      formation TEXT, examples TEXT NOT NULL DEFAULT '[]', tags TEXT NOT NULL DEFAULT '[]', notes TEXT
+    );
     CREATE INDEX idx_vocab_level ON vocab(level);
     CREATE INDEX idx_vocab_word  ON vocab(word);
     CREATE INDEX idx_kanji_level ON kanji(level);
     CREATE INDEX idx_kanji_char  ON kanji(character);
+    CREATE INDEX idx_grammar_level ON grammar(level);
+    CREATE INDEX idx_grammar_pattern ON grammar(pattern);
   `);
 
   const insV = db.prepare('INSERT INTO vocab (word, reading, meanings, level, examples) VALUES (?,?,?,?,?)');
   const insK = db.prepare(
     'INSERT INTO kanji (character, level, strokes, grade, freq, onyomi, kunyomi, meanings) VALUES (?,?,?,?,?,?,?,?)',
   );
+  const insG = db.prepare(
+    'INSERT INTO grammar (pattern, level, meaning, formation, examples, tags, notes) VALUES (?,?,?,?,?,?,?)',
+  );
 
   let nv = 0;
   let nk = 0;
+  let ng = 0;
   const tx = db.transaction(() => {
     for (const { level } of LEVELS) {
       const lc = level.toLowerCase();
@@ -59,12 +70,24 @@ function build() {
         );
         nk++;
       }
+      for (const g of readJson(join(DATA_DIR, 'json', 'grammar', `${lc}.json`))) {
+        insG.run(
+          g.pattern,
+          g.level,
+          g.meaning,
+          g.formation ?? null,
+          JSON.stringify(g.examples ?? []),
+          JSON.stringify(g.tags ?? []),
+          g.notes ?? null,
+        );
+        ng++;
+      }
     }
   });
   tx();
   db.exec('VACUUM;');
   db.close();
-  console.log(`SQLite: ${nv} vocab + ${nk} kanji -> ${out}`);
+  console.log(`SQLite: ${nv} vocab + ${nk} kanji + ${ng} grammar -> ${out}`);
 }
 
 build();

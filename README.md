@@ -42,7 +42,7 @@ licensing is a mystery. OpenJLPT fixes that:
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Typical vocab list repo | ✅ | ❌ | ❌ | ❌ | ❌ | ⚠️ | ❌ |
 | Typical kanji-data repo | ❌ | ✅ | ❌ | ❌ | ❌ | ⚠️ | ⚠️ |
-| **OpenJLPT** | ✅ | ✅ | ✅ | 🔜 | ✅ | ✅ | ✅ |
+| **OpenJLPT** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Who is this for?
 
@@ -63,24 +63,26 @@ the data with **no coding at all**.
 
 ## What's inside
 
-| Level | Vocabulary | Kanji |
-|:---:|:---:|:---:|
-| N5 | 662 | 79 |
-| N4 | 632 | 166 |
-| N3 | 1,784 | 367 |
-| N2 | 1,793 | 367 |
-| N1 | 3,463 | 1,232 |
-| **Total** | **8,334** | **2,211** |
+| Level | Vocabulary | Kanji | Grammar |
+|:---:|:---:|:---:|:---:|
+| N5 | 662 | 79 | 20 |
+| N4 | 632 | 166 | 20 |
+| N3 | 1,784 | 367 | 20 |
+| N2 | 1,793 | 367 | 20 |
+| N1 | 3,463 | 1,232 | 20 |
+| **Total** | **8,334** | **2,211** | **100** |
 
 ```
 data/
 ├── json/
 │   ├── vocab/{n5,n4,n3,n2,n1}.json
-│   └── kanji/{n5,n4,n3,n2,n1}.json
+│   ├── kanji/{n5,n4,n3,n2,n1}.json
+│   └── grammar/{n5,n4,n3,n2,n1}.json
 ├── csv/
 │   ├── vocab-n5.csv … vocab-n1.csv
-│   └── kanji-n5.csv … kanji-n1.csv
-└── openjlpt.sqlite          # tables: vocab, kanji (indexed by level, word, character)
+│   ├── kanji-n5.csv … kanji-n1.csv
+│   └── grammar-n5.csv … grammar-n1.csv
+└── openjlpt.sqlite          # tables: vocab, kanji, grammar (indexed by level, word, character, pattern)
 ```
 
 ## Quick start
@@ -108,6 +110,20 @@ Each kanji entry:
 }
 ```
 
+Each grammar entry:
+
+```json
+{
+  "pattern": "〜てもいい", "level": "N5",
+  "meaning": "may do; it's okay to do",
+  "formation": "Verb-te + もいい",
+  "examples": [
+    { "ja": "写真を撮ってもいいですか。", "en": "May I take a picture?" }
+  ],
+  "tags": ["permission"]
+}
+```
+
 ### npm (TypeScript loader)
 
 ```bash
@@ -115,11 +131,13 @@ npm install openjlpt
 ```
 
 ```ts
-import { getVocab, findKanji, searchVocab } from 'openjlpt';
+import { getVocab, getGrammar, findKanji, searchVocab } from 'openjlpt';
 
 getVocab('N5');            // → all 662 N5 words, fully typed
+getGrammar('N5');          // → 20 N5 grammar points, fully typed
 findKanji('日');           // → { level: 'N5', strokes: 4, onyomi: ['ニチ','ジツ'], ... }
 searchVocab('eat', 'N5');  // → [{ word: '食べる', reading: 'たべる', ... }]
+searchGrammar('permission', 'N5'); // → [{ pattern: '〜てもいい', ... }]
 ```
 
 ### Python (PyPI loader)
@@ -129,11 +147,13 @@ pip install openjlpt
 ```
 
 ```python
-from openjlpt import get_vocab, find_kanji, search_vocab, query
+from openjlpt import get_vocab, get_grammar, find_kanji, search_vocab, search_grammar, query
 
 get_vocab("N5")               # → all 662 N5 words, typed dataclasses
+get_grammar("N5")             # → 20 N5 grammar points, typed dataclasses
 find_kanji("日")              # → Kanji(character='日', level='N5', strokes=4, ...)
 search_vocab("eat", "N5")     # → [Vocab(word='食べる', reading='たべる', ...)]
+search_grammar("permission", "N5")  # → [Grammar(pattern='〜てもいい', ...)]
 
 # Prebuilt SQLite database is bundled, ready for analysis:
 query("SELECT word, reading FROM vocab WHERE level = 'N5' LIMIT 5")
@@ -171,7 +191,7 @@ Individual steps: `npm run fetch`, `npm run build:data`, `npm run validate`.
 - [x] N5–N1 kanji enriched from KANJIDIC2
 - [x] Canonical JSON Schema + CI validation
 - [x] Example sentences per word (Tatoeba)
-- [ ] Structured grammar points per level
+- [x] Structured grammar points per level (seed dataset, N5–N1)
 - [ ] Audio (native / TTS)
 - [x] Python package on PyPI
 - [ ] Hosted REST / GraphQL API

@@ -14,6 +14,7 @@ const readJson = (p: string) => JSON.parse(readFileSync(p, 'utf8'));
 const BOUNDS = {
   vocab: { N5: [400, 1200], N4: [400, 1200], N3: [1000, 3000], N2: [1000, 3000], N1: [2500, 12000] },
   kanji: { N5: [60, 150], N4: [100, 400], N3: [250, 700], N2: [250, 700], N1: [600, 1500] },
+  grammar: { N5: [1, 200], N4: [1, 200], N3: [1, 200], N2: [1, 200], N1: [1, 200] },
 } as const;
 
 function main() {
@@ -21,10 +22,11 @@ function main() {
   const validators = {
     vocab: ajv.compile(readJson(join(ROOT, 'schema', 'vocab.schema.json'))),
     kanji: ajv.compile(readJson(join(ROOT, 'schema', 'kanji.schema.json'))),
+    grammar: ajv.compile(readJson(join(ROOT, 'schema', 'grammar.schema.json'))),
   };
 
   let errors = 0;
-  for (const kind of ['vocab', 'kanji'] as const) {
+  for (const kind of ['vocab', 'kanji', 'grammar'] as const) {
     const validate = validators[kind];
     for (const { level } of LEVELS) {
       const file = join(DATA_DIR, 'json', kind, `${level.toLowerCase()}.json`);

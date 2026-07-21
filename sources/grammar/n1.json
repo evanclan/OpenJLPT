@@ -1,0 +1,222 @@
+[
+  {
+    "pattern": "〜がてら",
+    "level": "N1",
+    "meaning": "on the way; while doing; taking the opportunity",
+    "formation": "Verb-stem / Noun + がてら",
+    "examples": [
+      { "ja": "散歩がてら、駅前まで買い物に行った。", "en": "I went shopping downtown, taking the opportunity of a walk." },
+      { "ja": "買い物がてら、友達の家に寄った。", "en": "I stopped by my friend's house on the way to go shopping." }
+    ],
+    "tags": ["opportunity", "on-the-way"]
+  },
+  {
+    "pattern": "〜かたわら",
+    "level": "N1",
+    "meaning": "while doing; concurrently; on the side",
+    "formation": "Verb-stem / Noun + かたわら",
+    "examples": [
+      { "ja": "本業のかたわら、小説を書いている。", "en": "I write novels on the side while working my main job." },
+      { "ja": "妻は家事のかたわら、ボランティアをしている。", "en": "My wife volunteers while doing housework." }
+    ],
+    "tags": ["side-activity", "formal"]
+  },
+  {
+    "pattern": "〜かねる",
+    "level": "N1",
+    "meaning": "unable to do; cannot (polite refusal)",
+    "formation": "Verb-stem + かねる",
+    "examples": [
+      { "ja": "お答えしかねます。", "en": "I am unable to answer." },
+      { "ja": "その提案は受けかねます。", "en": "We cannot accept that proposal." }
+    ],
+    "tags": ["polite-refusal", "formal"]
+  },
+  {
+    "pattern": "〜がち",
+    "level": "N1",
+    "meaning": "tend to; prone to; frequently",
+    "formation": "Verb-stem / Noun + がち",
+    "examples": [
+      { "ja": "彼は病気がちだ。", "en": "He is prone to illness." },
+      { "ja": "最近、雨がちの天気が続く。", "en": "Recently, rainy weather continues." }
+    ],
+    "tags": ["tendency"]
+  },
+  {
+    "pattern": "〜が早いか",
+    "level": "N1",
+    "meaning": "as soon as; the moment",
+    "formation": "Verb-plain + が早いか",
+    "examples": [
+      { "ja": "彼は教室に入るが早いか、泣き出した。", "en": "He burst into tears the moment he entered the classroom." },
+      { "ja": "終わるが早いか、逃げ出した。", "en": "He ran away as soon as it ended." }
+    ],
+    "tags": ["immediacy", "formal"]
+  },
+  {
+    "pattern": "〜すら",
+    "level": "N1",
+    "meaning": "even; not even (emphatic negative)",
+    "formation": "Noun + すら",
+    "examples": [
+      { "ja": "彼は水すら飲まなかった。", "en": "He didn't even drink water." },
+      { "ja": "子供すら知っている。", "en": "Even children know it." }
+    ],
+    "tags": ["emphasis", "negative"]
+  },
+  {
+    "pattern": "〜だらけ",
+    "level": "N1",
+    "meaning": "full of; covered with; lots of (negative nuance)",
+    "formation": "Noun + だらけ",
+    "examples": [
+      { "ja": "部屋はゴミだらけだ。", "en": "The room is full of trash." },
+      { "ja": "彼の言い訳は間違いだらけだ。", "en": "His excuses are full of mistakes." }
+    ],
+    "tags": ["abundance", "negative"]
+  },
+  {
+    "pattern": "〜ずくめ",
+    "level": "N1",
+    "meaning": "nothing but; full of; entirely (positive or neutral)",
+    "formation": "Noun + ずくめ",
+    "examples": [
+      { "ja": "彼女はいいことずくめだ。", "en": "She has nothing but good things going for her." },
+      { "ja": "今日は黒ずくめの服装だ。", "en": "Today I'm dressed entirely in black." }
+    ],
+    "tags": ["abundance"]
+  },
+  {
+    "pattern": "〜たら最後",
+    "level": "N1",
+    "meaning": "once ... it's all over; the moment ...",
+    "formation": "Verb-ta + ら最後",
+    "examples": [
+      { "ja": "彼に黙っていると言ったら最後、誰にも言うだろう。", "en": "Once you tell him to keep quiet, it's over — he'll tell everyone." },
+      { "ja": "あの店に入ったら最後、何時間も出てこない。", "en": "Once she enters that shop, she won't come out for hours." }
+    ],
+    "tags": ["irreversible", "emphasis"]
+  },
+  {
+    "pattern": "〜た末",
+    "level": "N1",
+    "meaning": "after all; in the end; as a result of",
+    "formation": "Verb-ta + 末（に/の）",
+    "examples": [
+      { "ja": "長い議論の末、結論が出た。", "en": "After a long discussion, a conclusion was reached." },
+      { "ja": "試行錯誤の末、成功した。", "en": "After trial and error, we succeeded." }
+    ],
+    "tags": ["result", "process"]
+  },
+  {
+    "pattern": "〜たところで",
+    "level": "N1",
+    "meaning": "even if; even though (unlikely to help)",
+    "formation": "Verb-ta + ところで",
+    "examples": [
+      { "ja": "今さら謝ったところで、許されないだろう。", "en": "Even if you apologize now, you probably won't be forgiven." },
+      { "ja": "勉強したところで、間に合わない。", "en": "Even if I study, I won't make it in time." }
+    ],
+    "tags": ["concessive", "negative"]
+  },
+  {
+    "pattern": "〜てからというもの",
+    "level": "N1",
+    "meaning": "ever since; from the time that",
+    "formation": "Verb-te + からというもの",
+    "examples": [
+      { "ja": "日本に来てからというもの、毎日忙しい。", "en": "Ever since I came to Japan, I've been busy every day." },
+      { "ja": "彼女に出会ってからというもの、人生が変わった。", "en": "Ever since I met her, my life has changed." }
+    ],
+    "tags": ["since", "change"]
+  },
+  {
+    "pattern": "〜てやまない",
+    "level": "N1",
+    "meaning": "cannot stop doing; do nothing but",
+    "formation": "Verb-te + やまない",
+    "examples": [
+      { "ja": "子供の将来を案じてやまない。", "en": "I can't stop worrying about my child's future." },
+      { "ja": "彼の成功を願ってやまない。", "en": "I sincerely wish for his success." }
+    ],
+    "tags": ["emotion", "continuity"]
+  },
+  {
+    "pattern": "〜と相まって",
+    "level": "N1",
+    "meaning": "combined with; together with",
+    "formation": "Noun + と相まって",
+    "examples": [
+      { "ja": "好天に恵まれたことと相まって、大会は大成功だった。", "en": "Combined with the good weather, the event was a great success." },
+      { "ja": "新技術の導入と相まって、生産性が向上した。", "en": "Together with the introduction of new technology, productivity improved." }
+    ],
+    "tags": ["combination", "formal"]
+  },
+  {
+    "pattern": "〜ともなると",
+    "level": "N1",
+    "meaning": "when it comes to; now that",
+    "formation": "Verb-plain / Noun + ともなると",
+    "examples": [
+      { "ja": "家族旅行ともなると、準備が大変だ。", "en": "When it comes to a family trip, the preparations are tough." },
+      { "ja": "社長ともなると、責任が重い。", "en": "Once you become president, the responsibility is heavy." }
+    ],
+    "tags": ["condition", "emphasis"]
+  },
+  {
+    "pattern": "〜ならでは",
+    "level": "N1",
+    "meaning": "unique to; only possible for; characteristic of",
+    "formation": "Noun + ならでは",
+    "examples": [
+      { "ja": "京都ならではの風景だ。", "en": "This is a scenery unique to Kyoto." },
+      { "ja": "プロならではの技術だ。", "en": "This is a technique only a professional can pull off." }
+    ],
+    "tags": ["uniqueness"]
+  },
+  {
+    "pattern": "〜べく",
+    "level": "N1",
+    "meaning": "in order to; for the purpose of (formal)",
+    "formation": "Verb-stem + べく",
+    "examples": [
+      { "ja": "成功を目指すべく、日夜努力している。", "en": "I strive day and night in order to achieve success." },
+      { "ja": "問題を解決すべく、会議を開いた。", "en": "We held a meeting in order to solve the problem." }
+    ],
+    "tags": ["purpose", "formal"]
+  },
+  {
+    "pattern": "〜まい",
+    "level": "N1",
+    "meaning": "will not; let's not; probably not",
+    "formation": "Verb-stem + まい",
+    "examples": [
+      { "ja": "あんな失敗は二度とするまい。", "en": "I will never make such a mistake again." },
+      { "ja": "彼は来るまい。", "en": "He probably won't come." }
+    ],
+    "tags": ["negative-volition", "prediction"]
+  },
+  {
+    "pattern": "〜ようによっては",
+    "level": "N1",
+    "meaning": "depending on how; depending on the way",
+    "formation": "Verb-stem + ようによっては",
+    "examples": [
+      { "ja": "使いようによっては、この道具は便利だ。", "en": "Depending on how you use it, this tool is convenient." },
+      { "ja": "考えようによっては、彼も正しい。", "en": "Depending on how you think about it, he is also right." }
+    ],
+    "tags": ["condition", "perspective"]
+  },
+  {
+    "pattern": "〜ものなら",
+    "level": "N1",
+    "meaning": "if one could; if only; if you think you can",
+    "formation": "Verb-potential + ものなら",
+    "examples": [
+      { "ja": "できるものなら、やってみろ。", "en": "If you think you can do it, go ahead and try." },
+      { "ja": "戻れるものなら、戻りたい。", "en": "If only I could go back, I would." }
+    ],
+    "tags": ["hypothetical", "challenge"]
+  }
+]

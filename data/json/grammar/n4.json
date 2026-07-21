@@ -1,0 +1,392 @@
+[
+  {
+    "pattern": "〜ことにする",
+    "level": "N4",
+    "meaning": "decide to do",
+    "formation": "Verb-plain + ことにする",
+    "examples": [
+      {
+        "ja": "毎日運動することにした。",
+        "en": "I decided to exercise every day."
+      },
+      {
+        "ja": "明日から禁煙することにします。",
+        "en": "I will decide to quit smoking from tomorrow."
+      }
+    ],
+    "tags": [
+      "decision"
+    ]
+  },
+  {
+    "pattern": "〜ずに",
+    "level": "N4",
+    "meaning": "without doing",
+    "formation": "Verb-negative (ない) + ずに",
+    "examples": [
+      {
+        "ja": "朝ご飯を食べずに出かけた。",
+        "en": "I went out without eating breakfast."
+      },
+      {
+        "ja": "何も言わずに帰った。",
+        "en": "I went home without saying anything."
+      }
+    ],
+    "tags": [
+      "negative",
+      "condition"
+    ]
+  },
+  {
+    "pattern": "〜そうだ（appearance）",
+    "level": "N4",
+    "meaning": "looks like; appears that",
+    "formation": "Verb-stem / i-adjective stem + そうだ",
+    "examples": [
+      {
+        "ja": "このケーキはおいしそうだ。",
+        "en": "This cake looks delicious."
+      },
+      {
+        "ja": "雨が降りそうです。",
+        "en": "It looks like it will rain."
+      }
+    ],
+    "tags": [
+      "appearance"
+    ]
+  },
+  {
+    "pattern": "〜つもり",
+    "level": "N4",
+    "meaning": "intend to; plan to",
+    "formation": "Verb-plain + つもり",
+    "examples": [
+      {
+        "ja": "来年、日本に留学するつもりだ。",
+        "en": "I intend to study abroad in Japan next year."
+      },
+      {
+        "ja": "今度の週末は何もするつもりはない。",
+        "en": "I don't plan to do anything this weekend."
+      }
+    ],
+    "tags": [
+      "intention"
+    ]
+  },
+  {
+    "pattern": "〜てあげる",
+    "level": "N4",
+    "meaning": "do something for someone (outward)",
+    "formation": "Verb-te + あげる",
+    "examples": [
+      {
+        "ja": "友達に本を貸してあげた。",
+        "en": "I lent a book to my friend."
+      },
+      {
+        "ja": "母に花を買ってあげます。",
+        "en": "I will buy flowers for my mother."
+      }
+    ],
+    "tags": [
+      "giving",
+      "favor"
+    ]
+  },
+  {
+    "pattern": "〜ていく",
+    "level": "N4",
+    "meaning": "go and do; do something and go away; continue",
+    "formation": "Verb-te + いく",
+    "examples": [
+      {
+        "ja": "明日、荷物を持っていきます。",
+        "en": "I will take the luggage with me tomorrow."
+      },
+      {
+        "ja": "これからも頑張っていく。",
+        "en": "I will keep doing my best from now on."
+      }
+    ],
+    "tags": [
+      "direction",
+      "continuation"
+    ]
+  },
+  {
+    "pattern": "〜ておく",
+    "level": "N4",
+    "meaning": "do something in advance; leave something in a state",
+    "formation": "Verb-te + おく",
+    "examples": [
+      {
+        "ja": "明日の朝のために水を出しておく。",
+        "en": "I will put out water for tomorrow morning."
+      },
+      {
+        "ja": "ドアを開けておいてください。",
+        "en": "Please leave the door open."
+      }
+    ],
+    "tags": [
+      "preparation"
+    ]
+  },
+  {
+    "pattern": "〜てくる",
+    "level": "N4",
+    "meaning": "come and do; do something and come back; start to",
+    "formation": "Verb-te + くる",
+    "examples": [
+      {
+        "ja": "すぐ戻ってきます。",
+        "en": "I will come right back."
+      },
+      {
+        "ja": "雨が降ってきた。",
+        "en": "It started to rain."
+      }
+    ],
+    "tags": [
+      "direction",
+      "beginning"
+    ]
+  },
+  {
+    "pattern": "〜てくれる",
+    "level": "N4",
+    "meaning": "someone does something for me",
+    "formation": "Verb-te + くれる",
+    "examples": [
+      {
+        "ja": "先生が漢字を教えてくれた。",
+        "en": "The teacher taught me kanji."
+      },
+      {
+        "ja": "友達が傘を貸してくれた。",
+        "en": "My friend lent me an umbrella."
+      }
+    ],
+    "tags": [
+      "receiving",
+      "favor"
+    ]
+  },
+  {
+    "pattern": "〜てしまう",
+    "level": "N4",
+    "meaning": "do something completely; unintentionally; regret",
+    "formation": "Verb-te + しまう",
+    "examples": [
+      {
+        "ja": "財布を落としてしまった。",
+        "en": "I dropped my wallet (by accident)."
+      },
+      {
+        "ja": "本を全部読んでしまった。",
+        "en": "I ended up reading the whole book."
+      }
+    ],
+    "tags": [
+      "completion",
+      "regret"
+    ]
+  },
+  {
+    "pattern": "〜てみる",
+    "level": "N4",
+    "meaning": "try doing something",
+    "formation": "Verb-te + みる",
+    "examples": [
+      {
+        "ja": "新しいレストランで食べてみる。",
+        "en": "I will try eating at the new restaurant."
+      },
+      {
+        "ja": "この靴を履いてみてもいいですか。",
+        "en": "May I try on these shoes?"
+      }
+    ],
+    "tags": [
+      "attempt"
+    ]
+  },
+  {
+    "pattern": "〜てもらう",
+    "level": "N4",
+    "meaning": "receive the favor of someone doing something",
+    "formation": "Verb-te + もらう",
+    "examples": [
+      {
+        "ja": "田中さんに日本語を教えてもらう。",
+        "en": "I receive Japanese lessons from Tanaka."
+      },
+      {
+        "ja": "父に車を貸してもらった。",
+        "en": "My father lent me his car."
+      }
+    ],
+    "tags": [
+      "receiving",
+      "favor"
+    ]
+  },
+  {
+    "pattern": "〜に違いない",
+    "level": "N4",
+    "meaning": "must be; no doubt",
+    "formation": "Verb-plain / i-adjective / na-adjective + に違いない",
+    "examples": [
+      {
+        "ja": "彼は疲れているに違いない。",
+        "en": "He must be tired."
+      },
+      {
+        "ja": "この本は高いに違いない。",
+        "en": "This book must be expensive."
+      }
+    ],
+    "tags": [
+      "certainty"
+    ]
+  },
+  {
+    "pattern": "〜に決まっている",
+    "level": "N4",
+    "meaning": "certainly; must; no doubt",
+    "formation": "Verb-plain / i-adjective / na-adjective + に決まっている",
+    "examples": [
+      {
+        "ja": "あの人が合格するに決まっている。",
+        "en": "That person will definitely pass."
+      },
+      {
+        "ja": "この料理はおいしいに決まっている。",
+        "en": "This dish is definitely delicious."
+      }
+    ],
+    "tags": [
+      "certainty"
+    ]
+  },
+  {
+    "pattern": "〜みたい",
+    "level": "N4",
+    "meaning": "like; similar to; seems like (casual)",
+    "formation": "Noun + みたい / Verb-plain / i-adjective / na-adjective + みたい",
+    "examples": [
+      {
+        "ja": "彼女は猫みたいだ。",
+        "en": "She is like a cat."
+      },
+      {
+        "ja": "雨が降るみたいです。",
+        "en": "It seems like it will rain."
+      }
+    ],
+    "tags": [
+      "similarity",
+      "appearance"
+    ]
+  },
+  {
+    "pattern": "〜らしい",
+    "level": "N4",
+    "meaning": "seems like; I heard; typical of",
+    "formation": "Noun/Verb-plain / i-adjective / na-adjective + らしい",
+    "examples": [
+      {
+        "ja": "彼は日本語が上手らしい。",
+        "en": "I heard he is good at Japanese."
+      },
+      {
+        "ja": "子供らしい遊びをする。",
+        "en": "Play like a child."
+      }
+    ],
+    "tags": [
+      "hearsay",
+      "typical"
+    ]
+  },
+  {
+    "pattern": "〜わけにはいかない",
+    "level": "N4",
+    "meaning": "cannot afford to; must not",
+    "formation": "Verb-negative (ない) + わけにはいかない",
+    "examples": [
+      {
+        "ja": "明日は試験だから、遊んでいるわけにはいかない。",
+        "en": "I have an exam tomorrow, so I can't afford to play around."
+      },
+      {
+        "ja": "会社を休むわけにはいかない。",
+        "en": "I can't take the day off from work."
+      }
+    ],
+    "tags": [
+      "obligation",
+      "prohibition"
+    ]
+  },
+  {
+    "pattern": "〜過ぎる",
+    "level": "N4",
+    "meaning": "too much; excessive",
+    "formation": "Verb-stem / i-adjective stem / na-adjective stem + すぎる",
+    "examples": [
+      {
+        "ja": "昨日は飲みすぎた。",
+        "en": "I drank too much yesterday."
+      },
+      {
+        "ja": "この問題は難しすぎる。",
+        "en": "This problem is too difficult."
+      }
+    ],
+    "tags": [
+      "degree"
+    ]
+  },
+  {
+    "pattern": "〜中",
+    "level": "N4",
+    "meaning": "in the middle of; during",
+    "formation": "Verb-stem + ちゅう / Noun + ちゅう",
+    "examples": [
+      {
+        "ja": "会議中です。",
+        "en": "I am in a meeting."
+      },
+      {
+        "ja": "電車は今、渋谷に向かっている途中です。",
+        "en": "The train is on its way to Shibuya now."
+      }
+    ],
+    "tags": [
+      "progressive"
+    ]
+  },
+  {
+    "pattern": "〜方",
+    "level": "N4",
+    "meaning": "way of doing; how to",
+    "formation": "Verb-stem + 方",
+    "examples": [
+      {
+        "ja": "この漢字の読み方を教えてください。",
+        "en": "Please tell me how to read this kanji."
+      },
+      {
+        "ja": "お寿司の作り方を知りたい。",
+        "en": "I want to know how to make sushi."
+      }
+    ],
+    "tags": [
+      "method"
+    ]
+  }
+]
