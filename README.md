@@ -15,6 +15,7 @@ flashcard, quiz, or language-learning app.
 [![Vocab: 8,334](https://img.shields.io/badge/vocab-8%2C334-success.svg)](#whats-inside)
 [![Kanji: 2,211](https://img.shields.io/badge/kanji-2%2C211-success.svg)](#whats-inside)
 [![CI](https://img.shields.io/badge/CI-schema--validated-brightgreen.svg)](.github/workflows/ci.yml)
+[![PyPI](https://img.shields.io/pypi/v/openjlpt)](https://pypi.org/project/openjlpt/)
 
 </div>
 
