@@ -1,0 +1,59 @@
+[project]
+name = "openjlpt"
+version = "0.1.0"
+description = "Open, correctly-licensed JLPT N5–N1 dataset loader for Python"
+readme = "README.md"
+license = "CC-BY-SA-4.0"
+requires-python = ">=3.9"
+authors = [
+  { name = "Evan Clan", email = "evan@example.com" },
+]
+keywords = [
+  "jlpt",
+  "japanese",
+  "japanese-language",
+  "kanji",
+  "vocabulary",
+  "n5",
+  "n4",
+  "n3",
+  "n2",
+  "n1",
+  "dataset",
+  "language-learning",
+  "flashcards",
+  "anki",
+  "sqlite",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Education",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Education",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+  "Typing :: Typed",
+]
+
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/evanclan/OpenJLPT"
+Repository = "https://github.com/evanclan/OpenJLPT"
+Issues = "https://github.com/evanclan/OpenJLPT/issues"
+
+[build-system]
+requires = ["setuptools>=77.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

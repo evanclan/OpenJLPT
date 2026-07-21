@@ -121,6 +121,23 @@ findKanji('日');           // → { level: 'N5', strokes: 4, onyomi: ['ニチ',
 searchVocab('eat', 'N5');  // → [{ word: '食べる', reading: 'たべる', ... }]
 ```
 
+### Python (PyPI loader)
+
+```bash
+pip install openjlpt
+```
+
+```python
+from openjlpt import get_vocab, find_kanji, search_vocab, query
+
+get_vocab("N5")               # → all 662 N5 words, typed dataclasses
+find_kanji("日")              # → Kanji(character='日', level='N5', strokes=4, ...)
+search_vocab("eat", "N5")     # → [Vocab(word='食べる', reading='たべる', ...)]
+
+# Prebuilt SQLite database is bundled, ready for analysis:
+query("SELECT word, reading FROM vocab WHERE level = 'N5' LIMIT 5")
+```
+
 ### SQLite
 
 ```sql
