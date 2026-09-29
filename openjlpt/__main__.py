@@ -22,6 +22,7 @@ from . import (
     get_vocab,
     levels,
     meta,
+    normalize,
     pos_labels,
     sample,
     search_grammar,
@@ -104,7 +105,8 @@ def quiz(level: Optional[str]) -> None:
             answer = input(f"{_dim(f'{i}/{len(deck)}')} {_bold(v.word)}  {_dim(v.meanings[0])}\n  › ").strip().lower()
         except EOFError:
             break
-        ok = bool(answer) and answer in (v.reading, v.romaji, *v.other_readings)
+        # Kana-insensitive: てすと counts for テスト.
+        ok = bool(answer) and normalize(answer) in {normalize(r) for r in (v.reading, v.romaji, *v.other_readings)}
         right += ok
         mark = _paint(32, "✓") if ok else _paint(31, "✗")
         print(f"  {mark} {_paint(36, v.reading)} {_dim(v.romaji)} — {'; '.join(v.meanings)}\n")

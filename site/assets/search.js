@@ -4,7 +4,7 @@
   var index = null;
   var loading = null;
   var LEVELS = ['N5', 'N4', 'N3', 'N2', 'N1'];
-  var KIND = { v: ['vocab', 'word'], k: ['kanji', 'kanji'], g: ['grammar', 'grammar'] };
+  var KIND = { v: 'word', k: 'kanji', g: 'grammar' };
 
   function load() {
     if (!loading) {
@@ -12,7 +12,7 @@
         .then(function (r) { return r.json(); })
         .then(function (rows) {
           index = rows.map(function (r) {
-            return { row: r, forms: [r[2], r[3], r[4], r[7]].join(' ').toLowerCase(), hira: OpenJLPT.toHiragana([r[2], r[3], r[7]].join(' ')), gloss: r[5].toLowerCase() };
+            return { row: r, romaji: r[4], forms: [r[2], r[3], r[7]].join(' ').toLowerCase(), hira: OpenJLPT.toHiragana([r[2], r[3], r[7]].join(' ')), gloss: r[5].toLowerCase() };
           });
         });
     }
@@ -29,10 +29,11 @@
     for (var j = 0; j < glosses.length; j++) {
       if (glosses[j] === q || glosses[j] === 'to ' + q) return 90;
     }
-    if (item.forms.indexOf(q) === 0 || item.hira.indexOf(qh) === 0) return 60;
+    if (item.forms.indexOf(q) === 0 || item.hira.indexOf(qh) === 0 || (item.romaji && item.romaji.indexOf(q) === 0)) return 60;
     if (new RegExp('\\b' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b').test(item.gloss)) return 50;
     if (item.forms.indexOf(q) !== -1 || item.hira.indexOf(qh) !== -1) return 30;
-    if (item.gloss.indexOf(q) !== -1) return 20;
+    // Glosses match at word starts only: "eat" finds "eating", not "treatment" or "great".
+    if (new RegExp('\\b' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).test(item.gloss)) return 20;
     return 0;
   }
 
@@ -55,8 +56,8 @@
     out.innerHTML = hits.slice(0, 12).map(function (h) {
       var r = index[h[2]].row;
       var reading = r[0] !== 'k' && r[3] && r[3] !== r[2] ? '<span class="r">' + esc(r[3]) + '</span>' : '';
-      return '<li><a href="' + KIND[r[0]][0] + '/' + r[1] + '.html"><span class="w" lang="ja">' + esc(r[2]) + reading +
-        '</span><span class="m"><span class="kind">' + KIND[r[0]][1] + '</span>' + esc(r[5]) + '</span><span class="lvl ' + r[6] + '">' + r[6] + '</span></a></li>';
+      return '<li><a href="' + esc(OpenJLPT.root() + r[1]) + '"><span class="w" lang="ja">' + esc(r[2]) + reading +
+        '</span><span class="m"><span class="kind">' + KIND[r[0]] + '</span>' + esc(r[5]) + '</span><span class="lvl ' + r[6] + '">' + r[6] + '</span></a></li>';
     }).join('');
   }
 

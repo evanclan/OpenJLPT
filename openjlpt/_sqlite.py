@@ -2,7 +2,8 @@ from __future__ import annotations
 
 import os
 import sqlite3
-from typing import Any, List, Optional, Sequence
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Sequence
 
 from ._data import data_root
 
@@ -19,16 +20,23 @@ def connect() -> sqlite3.Connection:
     (``meanings``, ``pos``, ``examples``, …) hold JSON text. The ``vocab_fts``
     table is an FTS5 full-text index over word, reading, romaji and meanings.
     """
-    uri = "file:" + db_path().replace(os.sep, "/") + "?mode=ro"
+    # as_uri() percent-encodes the path, so spaces, "#" or "?" in it are safe (and Windows paths work).
+    uri = Path(db_path()).resolve().as_uri() + "?mode=ro"
     conn = sqlite3.connect(uri, uri=True)
     conn.row_factory = sqlite3.Row
     return conn
 
 
-def query(sql: str, params: Optional[Sequence[Any]] = None) -> List[sqlite3.Row]:
-    """Run a read-only query against the bundled database and return all rows."""
+def query(sql: str, params: Optional[Sequence[Any]] = None) -> List[Dict[str, Any]]:
+    """Run a read-only query against the bundled database; returns one dict per row.
+
+    >>> query("SELECT word, reading FROM vocab WHERE word = ?", ["食べる"])
+    [{'word': '食べる', 'reading': 'たべる'}]
+
+    Use :func:`connect` for cursors, streaming or ``sqlite3.Row`` access.
+    """
     conn = connect()
     try:
-        return conn.execute(sql, tuple(params or ())).fetchall()
+        return [dict(row) for row in conn.execute(sql, tuple(params or ()))]
     finally:
         conn.close()

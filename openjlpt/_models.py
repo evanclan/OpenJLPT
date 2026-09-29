@@ -40,6 +40,9 @@ class Vocab:
     other_readings: List[str] = field(default_factory=list)
     examples: List[Example] = field(default_factory=list)
 
+    def __hash__(self) -> int:  # list fields aren't hashable; the ID identifies the entry
+        return hash(("vocab", self.id))
+
 
 @dataclass(frozen=True)
 class Kanji:
@@ -62,6 +65,9 @@ class Kanji:
     supplementary: bool = False
     """A jōyō kanji missing from Waller's (pre-2010) lists, levelled by the words that use it."""
 
+    def __hash__(self) -> int:
+        return hash(("kanji", self.character))
+
 
 @dataclass(frozen=True)
 class Grammar:
@@ -79,3 +85,6 @@ class Grammar:
     reading: Optional[str] = None
     """Kana form of ``pattern`` when it contains kanji."""
     notes: Optional[str] = None
+
+    def __hash__(self) -> int:
+        return hash(("grammar", self.id))

@@ -11,12 +11,29 @@
  */
 import { join } from 'node:path';
 import { createHash } from 'node:crypto';
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { DATA_DIR, LEVELS, ROOT, writeCsv, writeJson, type Level } from './lib/util.ts';
 import { readCards } from './lib/waller.ts';
 import { parseHeadword, parseMeanings, parseReading } from './lib/normalize.ts';
-import { hasKanji, isKana, toHiragana, toRomaji } from './lib/kana.ts';
-import { JmdictIndex, completeGloss, loadJmdict, type Match } from './lib/jmdict.ts';
+import { hasKanji, isKana, readingFits, toHiragana, toRomaji } from './lib/kana.ts';
+import {
+  JmdictIndex,
+  commonReading,
+  completeGloss,
+  entryStems,
+  isCommonReading,
+  isCommonSpelling,
+  isIrregularSpelling,
+  isRegularForm,
+  loadJmdict,
+  overlap,
+  readingsFor,
+  stems,
+  tokens,
+  usualSpelling,
+  type JmEntry,
+  type Match,
+} from './lib/jmdict.ts';
 import { ExampleIndex, tatoebaAvailable, type Example } from './lib/examples.ts';
 
 export interface Vocab {
@@ -38,14 +55,42 @@ interface Correction {
   front: string;
   why: string;
   drop?: boolean;
-  set?: Partial<Pick<Vocab, 'word' | 'reading' | 'meanings' | 'other_forms' | 'other_readings'>>;
+  set?: Partial<Pick<Vocab, 'word' | 'reading' | 'meanings' | 'other_forms' | 'other_readings' | 'level'>>;
 }
+
+/** One source card after cleaning and dictionary matching, before de-duplication. */
+interface Candidate {
+  /** ID-lock key: the card's headword and raw reading, independent of its level. */
+  cardKey: string;
+  level: Level;
+  word: string;
+  reading: string;
+  meanings: string[];
+  otherForms: string[];
+  otherReadings: string[];
+  m?: Match;
+}
+
+const LEVEL_RANK: Record<Level, number> = { N5: 0, N4: 1, N3: 2, N2: 3, N1: 4 };
 
 const RARE_KANJI_FORM = new Set(['iK', 'oK', 'rK', 'sK', 'ateji']);
 
-/** Stable ID: derived from the written form and reading, so it survives re-ordering and level changes. */
+/** A new entry's ID: derived from its written form and reading. */
 export const vocabId = (word: string, reading: string) =>
   createHash('sha1').update(`${word}\u0000${reading}`).digest('hex').slice(0, 10);
+
+/**
+ * IDs are assigned once and then frozen in sources/ids.lock.json, keyed by the
+ * source card (Waller's headword + raw reading, not its level). Later fixes to a
+ * word's spelling, reading or level therefore never change its ID, so apps' saved
+ * progress and Anki note GUIDs stay valid.
+ */
+const ID_LOCK = join(ROOT, 'sources', 'ids.lock.json');
+const readIdLock = (): Record<string, string> => (existsSync(ID_LOCK) ? JSON.parse(readFileSync(ID_LOCK, 'utf8')) : {});
+function writeIdLock(lock: Record<string, string>): void {
+  const keys = Object.keys(lock).sort();
+  writeFileSync(ID_LOCK, `{\n${keys.map((k) => `  ${JSON.stringify(k)}: ${JSON.stringify(lock[k])}`).join(',\n')}\n}\n`);
+}
 
 const kanjiOf = (s: string) => new Set([...s].filter(hasKanji));
 const subset = (a: Set<string>, b: Set<string>) => [...a].every((x) => b.has(x));
@@ -55,7 +100,7 @@ const subset = (a: Set<string>, b: Set<string>) => [...a].every((x) => b.has(x))
  * one is kana, or they differ just in okurigana (終わる/終る, 見付ける/見つける).
  * JMdict also groups distinct kanji words (早い/速い, 表す/現す) — those stay separate.
  */
-function sameWord(kept: Vocab | undefined, word: string): boolean {
+function sameWord(kept: { word: string } | undefined, word: string): boolean {
   if (!kept) return false;
   const a = kanjiOf(kept.word);
   const b = kanjiOf(word);
@@ -79,6 +124,8 @@ function kanjiLevels(): Map<string, string> {
 }
 
 function build() {
+  const idLock = readIdLock();
+  const lockedIds = new Set(Object.values(idLock));
   const corrections = loadCorrections();
   const usedCorrections = new Set<string>();
   const jm = loadJmdict();
@@ -89,129 +136,122 @@ function build() {
   if (examples) console.log(`Example pool: ${examples.size} Tatoeba sentence pairs`);
   else console.warn('⚠ Tatoeba cache not found — building vocabulary WITHOUT example sentences. Run `npm run fetch`.');
 
-  const report = { dropped: 0, noMeaning: [] as string[], unmatched: 0, respelled: [] as string[], reread: [] as string[], repaired: 0 };
-  const perLevel = new Map<Level, Vocab[]>();
-  const seen = new Map<string, Vocab>();
-  let duplicates = 0;
+  const log = {
+    dropped: [] as string[],
+    noMeaning: [] as string[],
+    leaked: [] as string[],
+    unmatched: 0,
+    respelled: [] as string[],
+    reread: [] as string[],
+    recommon: [] as string[],
+    reglossed: [] as string[],
+    switched: [] as string[],
+    realigned: [] as string[],
+    repaired: 0,
+  };
 
+  // --- Phase 1: clean each card and match it to JMdict ----------------------
+  const candidates: Candidate[] = [];
   for (const { level } of LEVELS) {
     const hira = new Map(readCards('vocab-hira', level).map((c) => [c.front, c.back]));
-    const entries: Vocab[] = [];
-
     for (const card of readCards('vocab-eng', level)) {
       const key = `${level}\u0000${card.front}`;
       const fix = corrections.get(key);
       if (fix) usedCorrections.add(key);
       if (fix?.drop) {
-        report.dropped++;
+        log.dropped.push(`${level} ${card.front}`);
         continue;
       }
-
-      const head = parseHeadword(card.front);
-      const read = parseReading(hira.get(card.front) ?? '', head.word);
-      const gloss = parseMeanings(card.back);
-      const v = {
-        word: head.word,
-        reading: read.reading,
-        meanings: gloss.meanings,
-        other_forms: head.otherForms,
-        other_readings: read.otherReadings,
-        ...fix?.set,
-      };
-
-      // --- JMdict enrichment -------------------------------------------------
-      const q = { word: v.word, reading: v.reading || undefined, otherReadings: v.other_readings, meanings: v.meanings, otherForms: v.other_forms };
-      let m: Match | undefined = jmIndex.match(q);
-      if (!m) {
-        m = jmIndex.matchByReading(q);
-        if (m) {
-          // The card's kanji is a typo or rare spelling: use the dictionary's usual form.
-          const usuallyKana = m.entry.senses[m.sense]?.misc.includes('uk');
-          const usual = usuallyKana ? m.reading : m.entry.kanji.find((k) => !k.inf.some((i) => RARE_KANJI_FORM.has(i)))?.text;
-          if (usual && usual !== v.word) {
-            report.respelled.push(`${level} ${v.word} → ${usual}`);
-            v.other_forms = [...new Set([v.word, ...v.other_forms])].filter((f) => f !== usual);
-            v.word = usual;
-          }
-        }
-      }
-      if (!m) {
-        m = jmIndex.matchCorrectingReading(q);
-        if (m && m.reading !== v.reading) {
-          report.reread.push(`${level} ${v.word} [${v.reading || '—'} → ${m.reading}]`);
-          v.reading = m.reading;
-        }
-      }
-      if (m) {
-        if (!v.reading) v.reading = m.reading;
-        if (gloss.fragment && !fix?.set?.meanings) {
-          const full = completeGloss(m.entry, gloss.fragment);
-          if (full) {
-            v.meanings.push(full);
-            report.repaired++;
-          }
-        }
-        if (v.meanings.length === 0) v.meanings = m.entry.senses[m.sense].gloss.slice(0, 4);
-      } else {
-        report.unmatched++;
-      }
-
-      if (!v.reading && isKana(v.word)) v.reading = v.word;
-      if (v.meanings.length === 0) {
-        report.noMeaning.push(`${level} ${card.front}`);
-        continue;
-      }
-      if (!v.reading) throw new Error(`${level} ${card.front}: no reading — add an entry to sources/corrections/vocab.json`);
-
-      // --- de-duplicate: a word belongs to the easiest level that lists it -----
-      const keys = [`${v.word}\u0000${toHiragana(v.reading)}`];
-      if (m) keys.push(`#${m.entry.seq}\u0000${toHiragana(v.reading)}`);
-      const kept = seen.get(keys[0]) ?? (keys[1] && sameWord(seen.get(keys[1]), v.word) ? seen.get(keys[1]) : undefined);
-      if (kept) {
-        // Same word listed again at a harder level: keep the easier entry, remember the spelling.
-        duplicates++;
-        for (const form of [v.word, ...v.other_forms]) {
-          if (form !== kept.word && !kept.other_forms?.includes(form)) (kept.other_forms ??= []).push(form);
-        }
-        // Waller sometimes splits one word over two cards at the same level (キロ = kilogram / kilometre).
-        if (kept.level === level) kept.meanings.push(...v.meanings.filter((g) => !kept.meanings.includes(g)));
-        if (process.env.OPENJLPT_DEBUG && kept.word !== v.word) console.log(`  merge ${level} ${v.word} → ${kept.level} ${kept.word}`);
-        continue;
-      }
-
-      const entry: Vocab = {
-        id: vocabId(v.word, v.reading),
-        word: v.word,
-        reading: v.reading,
-        romaji: toRomaji(v.reading),
-        meanings: v.meanings,
-        level,
-      };
-      if (m) {
-        const pos = m.entry.senses[m.sense]?.pos ?? [];
-        if (pos.length) entry.pos = pos;
-        entry.jmdict_id = m.entry.seq;
-      }
-      const otherForms = v.other_forms.filter((f) => f !== v.word);
-      const otherReadings = v.other_readings.filter((r) => r !== v.reading);
-      if (otherForms.length) entry.other_forms = otherForms;
-      if (otherReadings.length) entry.other_readings = otherReadings;
-
-      if (examples) {
-        const forms = [entry.word, ...otherForms, ...(m?.entry.kanji.map((k) => k.text) ?? [])];
-        const readings = [entry.reading, ...otherReadings];
-        const ex = examples.find({ forms, readings, level });
-        if (ex.length) entry.examples = ex;
-      }
-      for (const k of keys) seen.set(k, entry);
-      entries.push(entry);
+      const rawReading = hira.get(card.front) ?? '';
+      const c = cleanCard(card.front, rawReading, card.back, fix);
+      const cand = matchCandidate(c, fix, level, jmIndex, log);
+      if (!cand) continue;
+      candidates.push({ ...cand, cardKey: `${card.front} | ${rawReading}`, level: fix?.set?.level ?? level });
     }
-    perLevel.set(level, entries);
   }
 
   // Every correction must still apply to a card, or it has gone stale.
   const stale = [...corrections.keys()].filter((k) => !usedCorrections.has(k));
   if (stale.length) throw new Error(`Stale corrections (no matching card): ${stale.map((k) => k.replace('\u0000', ' ')).join(', ')}`);
+
+  // --- Phase 2: one entry per word, at the easiest level --------------------
+  candidates.sort((a, b) => LEVEL_RANK[a.level] - LEVEL_RANK[b.level]); // stable: keeps card order within a level
+  const seen = new Map<string, Candidate>();
+  const kept: Candidate[] = [];
+  let duplicates = 0;
+  for (const c of candidates) {
+    const keys = [`${c.word}\u0000${toHiragana(c.reading)}`];
+    if (c.m) keys.push(`#${c.m.entry.seq}\u0000${toHiragana(c.reading)}`);
+    const k = seen.get(keys[0]) ?? (keys[1] && sameWord(seen.get(keys[1]), c.word) ? seen.get(keys[1]) : undefined);
+    if (k) {
+      duplicates++;
+      for (const form of [c.word, ...c.otherForms]) if (form !== k.word && !k.otherForms.includes(form)) k.otherForms.push(form);
+      // Waller sometimes splits one word over two cards at the same level (キロ = kilogram / kilometre).
+      if (k.level === c.level) k.meanings.push(...c.meanings.filter((g) => !k.meanings.includes(g)));
+      if (process.env.OPENJLPT_DEBUG && k.word !== c.word) console.log(`  merge ${c.level} ${c.word} → ${k.level} ${k.word}`);
+      continue;
+    }
+    for (const key of keys) seen.set(key, c);
+    kept.push(c);
+  }
+
+  // --- Phase 3: finish entries -----------------------------------------------
+  // Spelling → readings of the entries written that way, to spot true duplicates.
+  const headwords = new Map<string, Set<string>>();
+  for (const c of kept) {
+    if (!headwords.has(c.word)) headwords.set(c.word, new Set());
+    headwords.get(c.word)!.add(toHiragana(c.reading));
+  }
+  const perLevel = new Map<Level, Vocab[]>(LEVELS.map(({ level }) => [level, []]));
+  for (const c of kept) {
+    const entry: Vocab = {
+      id: '',
+      word: c.word,
+      reading: c.reading,
+      romaji: toRomaji(c.reading, c.word),
+      meanings: c.meanings,
+      level: c.level,
+    };
+    if (c.m) {
+      const pos = c.m.entry.senses[c.m.sense]?.pos ?? [];
+      if (pos.length) entry.pos = pos;
+      entry.jmdict_id = c.m.entry.seq;
+    }
+    // Other spellings: not another entry with the same spelling and reading ("each word
+    // appears once": 川 keeps no 河 when 河 かわ has its own entry, but あさって keeps
+    // 明後日 although 明後日 みょうごにち does), and, for dictionary-matched words, only
+    // regular spellings JMdict knows (no typos like 田ぼ).
+    const otherForms = [...new Set(c.otherForms)].filter(
+      (f) =>
+        f !== c.word &&
+        !headwords.get(f)?.has(toHiragana(c.reading)) &&
+        (!c.m || !hasKanji(f) || isRegularForm(c.m.entry, f)),
+    );
+    const otherReadings = [...new Set(c.otherReadings)].filter((r) => r !== c.reading && isKana(r));
+    if (otherForms.length) entry.other_forms = otherForms;
+    if (otherReadings.length) entry.other_readings = otherReadings;
+
+    if (examples) {
+      const usuallyKana = isKana(c.word) || !!c.m?.entry.senses[c.m.sense]?.misc.includes('uk');
+      const kebs = c.m?.entry.kanji.filter((k) => isRegularForm(c.m!.entry, k.text)).map((k) => k.text) ?? [];
+      const readings = [c.reading, ...otherReadings];
+      const forms = [c.word, ...otherForms, ...kebs, ...(usuallyKana ? readings : [])];
+      const ex = examples.find({ forms, readings, level: c.level });
+      if (ex.length) entry.examples = ex;
+    }
+
+    entry.id = idLock[c.cardKey] ?? '';
+    if (!entry.id) {
+      // New card: derive an ID, stepping past any collision with an existing one.
+      let id = vocabId(c.word, c.reading);
+      for (let n = 2; lockedIds.has(id); n++) id = vocabId(c.word, `${c.reading}#${n}`);
+      entry.id = id;
+      idLock[c.cardKey] = id;
+      lockedIds.add(id);
+    }
+    perLevel.get(c.level)!.push(entry);
+  }
+  writeIdLock(idLock);
 
   const ids = new Set<string>();
   const collator = new Intl.Collator('ja');
@@ -252,13 +292,194 @@ function build() {
   const posCodes = [...new Set([...perLevel.values()].flat().flatMap((e) => e.pos ?? []))].sort();
   writeJson(join(DATA_DIR, 'json', 'pos.json'), Object.fromEntries(posCodes.map((c) => [c, jm.entities[c] ?? c])));
 
+  const list = (title: string, items: string[]) => {
+    if (items.length) console.log(`  ${title} (${items.length}):\n    ${items.join('\n    ')}`);
+  };
   console.log('Vocabulary:', summary, `(total ${total})`);
-  console.log(`  cross-level duplicates removed: ${duplicates}; dropped by corrections: ${report.dropped}`);
-  console.log(`  JMdict: ${total - report.unmatched} matched, ${report.unmatched} unmatched; ${report.repaired} truncated glosses repaired`);
-  if (report.respelled.length) console.log(`  respelled from JMdict (${report.respelled.length}):\n    ${report.respelled.join('\n    ')}`);
-  if (report.reread.length) console.log(`  readings corrected from JMdict (${report.reread.length}):\n    ${report.reread.join('\n    ')}`);
-  if (report.noMeaning.length) console.log(`  skipped, no meaning (${report.noMeaning.length}): ${report.noMeaning.join(', ')}`);
+  console.log(`  duplicates merged: ${duplicates}; JMdict: ${total - log.unmatched} matched, ${log.unmatched} unmatched; ${log.repaired} truncated glosses repaired`);
+  list('dropped by corrections', log.dropped);
+  list('kanji cards dropped from the word list', log.leaked);
+  list('respelled to the usual form', log.respelled);
+  list('readings corrected from JMdict', log.reread);
+  list('rare readings replaced by the common one', log.recommon);
+  list('readings realigned with the written form', log.realigned);
+  list('glosses replaced (did not match the word)', log.reglossed);
+  list('switched to the word the gloss describes', log.switched);
+  list('skipped, no meaning', log.noMeaning);
   if (examples) console.log(`  example coverage: ${withExamples}/${total} words (${Math.round((withExamples / total) * 100)}%)`);
+}
+
+type Log = {
+  noMeaning: string[];
+  leaked: string[];
+  unmatched: number;
+  respelled: string[];
+  reread: string[];
+  recommon: string[];
+  reglossed: string[];
+  switched: string[];
+  realigned: string[];
+  repaired: number;
+};
+
+interface Cleaned {
+  word: string;
+  reading: string;
+  meanings: string[];
+  otherForms: string[];
+  otherReadings: string[];
+  fragment?: string;
+}
+
+/** Parse one Waller card and apply its correction, if any. */
+function cleanCard(front: string, rawReading: string, back: string, fix?: Correction): Cleaned {
+  const head = parseHeadword(front);
+  const read = parseReading(rawReading, head.word);
+  const gloss = parseMeanings(back);
+  return {
+    word: fix?.set?.word ?? head.word,
+    reading: fix?.set?.reading ?? read.reading,
+    meanings: fix?.set?.meanings ?? gloss.meanings,
+    otherForms: fix?.set?.other_forms ?? head.otherForms,
+    otherReadings: fix?.set?.other_readings ?? read.otherReadings,
+    fragment: fix?.set?.meanings ? undefined : gloss.fragment,
+  };
+}
+
+const readingElement = (entry: JmEntry, keb: string, reading: string) =>
+  readingsFor(entry, keb).find((r) => toHiragana(r.text) === toHiragana(reading));
+
+/** Match a cleaned card to JMdict and apply the dictionary-backed repairs. */
+function matchCandidate(v: Cleaned, fix: Correction | undefined, level: Level, jmIndex: JmdictIndex, log: Log): Omit<Candidate, 'cardKey' | 'level'> | undefined {
+  const tag = `${level} ${v.word}`;
+  // A kana headword is its own reading (コピーする, not the matched stem's コピー).
+  if (isKana(v.word)) v.reading = v.word;
+  // The reading must fit the written form's kana (お金持ち is not かねもち).
+  if (v.reading && !readingFits(v.word, v.reading)) {
+    const alt = v.otherReadings.find((r) => readingFits(v.word, r));
+    if (alt) {
+      log.realigned.push(`${tag} [${v.reading} → ${alt}]`);
+      v.otherReadings = [v.reading, ...v.otherReadings.filter((r) => r !== alt)];
+      v.reading = alt;
+    }
+  }
+
+  const q = () => ({ word: v.word, reading: v.reading || undefined, otherReadings: v.otherReadings, meanings: v.meanings, otherForms: v.otherForms });
+  let m: Match | undefined = jmIndex.match(q());
+  if (!m) {
+    m = jmIndex.matchByReading(q());
+    if (m) {
+      // The card's kanji is a typo or rare spelling: use the dictionary's usual form.
+      const usuallyKana = m.entry.senses[m.sense]?.misc.includes('uk');
+      const usual = usuallyKana ? m.reading : usualSpelling(m.entry, m.reading);
+      if (usual && usual !== v.word) {
+        log.respelled.push(`${tag} → ${usual}`);
+        v.otherForms = [v.word, ...v.otherForms];
+        v.word = usual;
+      }
+    }
+  }
+  if (!m) {
+    m = jmIndex.matchCorrectingReading(q());
+    if (m && m.reading !== v.reading) {
+      log.reread.push(`${tag} [${v.reading || '—'} → ${m.reading}]`);
+      v.reading = m.reading;
+    }
+  }
+
+  if (!m) {
+    log.unmatched++;
+    // A lone kanji with no dictionary match is a kanji card that leaked into the word list.
+    if ([...v.word].length === 1 && hasKanji(v.word)) {
+      log.leaked.push(`${tag} [${v.reading}] ${v.meanings.slice(0, 2).join('; ')}`);
+      return undefined;
+    }
+  } else {
+    if (!v.reading) v.reading = m.reading;
+    // Irregular or out-dated spelling (明い, 落る) that isn't in common use either.
+    if (m.keb && isIrregularSpelling(m.entry, m.keb) && !isCommonSpelling(m.entry, m.keb)) {
+      // Often the spelling is regular in *another* entry that fits the gloss: the card
+      // paired it with an archaic reading (金庫 かねぐら is really 金庫 きんこ "safe").
+      const ws = stems(v.meanings);
+      const keb = m.keb;
+      const regular = jmIndex
+        .entriesWithKanji(keb)
+        .filter((e) => e !== m!.entry && !isIrregularSpelling(e, keb) && commonReading(e, keb) && overlap(ws, entryStems(e)) >= 0.5)[0];
+      const r = regular && commonReading(regular, keb);
+      const next = r && jmIndex.evaluate(regular, keb, r.text, tokens(v.meanings));
+      if (next && r) {
+        log.recommon.push(`${tag} [${v.reading} → ${r.text}]`);
+        v.otherReadings = [v.reading, ...v.otherReadings];
+        v.reading = r.text;
+        m = next;
+      } else {
+        const usual = usualSpelling(m.entry, v.reading);
+        if (usual && usual !== v.word) {
+          log.respelled.push(`${tag} → ${usual}`);
+          v.otherForms = [v.word, ...v.otherForms];
+          v.word = usual;
+          m = { ...m, keb: usual };
+        }
+      }
+    }
+    // Rare or archaic reading (黄色 おうしょく) when the spelling has a common one.
+    if (m.keb && !fix?.set?.reading) {
+      const current = readingElement(m.entry, m.keb, v.reading);
+      const common = commonReading(m.entry, m.keb);
+      if (current && !isCommonReading(current) && common && toHiragana(common.text) !== toHiragana(v.reading)) {
+        log.recommon.push(`${tag} [${v.reading} → ${common.text}]`);
+        v.otherReadings = [v.reading, ...v.otherReadings];
+        v.reading = common.text;
+      }
+    }
+    // The card mixed up two words: its gloss shares nothing with the matched entry but
+    // fits another entry with the same spelling (人気 にんき "sign of life" is ひとけ;
+    // 生物 せいぶつ "raw food" is なまもの). A gloss that merely paraphrases is kept.
+    const ws = stems(v.meanings);
+    if (ws.size > 0 && !fix?.set?.meanings && overlap(ws, entryStems(m.entry)) === 0) {
+      const others = (m.keb ? jmIndex.entriesWithKanji(m.keb) : jmIndex.entriesWithReading(v.word)).filter((e) => e !== m!.entry);
+      const alt = others
+        .map((e) => ({ e, fit: overlap(ws, entryStems(e)) }))
+        .filter((x) => x.fit >= 0.5)
+        .sort((a, b) => b.fit - a.fit)[0];
+      if (alt) {
+        // Keep the card's reading only if that spelling+reading is the common word;
+        // 反る read かえる is a rare spelling of 返る, while 反る (そる) is the gloss's word.
+        const readingIsCommon = m.keb
+          ? isCommonReading(readingElement(m.entry, m.keb, v.reading)) && (isCommonSpelling(m.entry, m.keb) || !isCommonSpelling(alt.e, m.keb))
+          : true;
+        const r = m.keb ? (commonReading(alt.e, m.keb) ?? readingsFor(alt.e, m.keb)[0]) : undefined;
+        const next = r ? jmIndex.evaluate(alt.e, m.keb, r.text, tokens(v.meanings)) : undefined;
+        if (!readingIsCommon && next && r) {
+          log.switched.push(`${tag} [${v.reading} → ${r.text}] ${v.meanings.slice(0, 2).join('; ')}`);
+          v.otherReadings = [v.reading, ...v.otherReadings];
+          v.reading = r.text;
+          m = next;
+        } else {
+          const glosses = m.entry.senses[0].gloss.slice(0, 4);
+          log.reglossed.push(`${tag} [${v.reading}] "${v.meanings.slice(0, 2).join('; ')}" → "${glosses.join('; ')}"`);
+          v.meanings = glosses;
+          m = { ...m, sense: 0 };
+        }
+      }
+    }
+    if (v.fragment) {
+      const full = completeGloss(m.entry, v.fragment);
+      if (full) {
+        v.meanings.push(full);
+        log.repaired++;
+      }
+    }
+    if (v.meanings.length === 0) v.meanings = m.entry.senses[m.sense].gloss.slice(0, 4);
+  }
+
+  if (isKana(v.word)) v.reading = v.word;
+  if (v.meanings.length === 0) {
+    log.noMeaning.push(tag);
+    return undefined;
+  }
+  if (!v.reading) throw new Error(`${tag}: no reading — add an entry to sources/corrections/vocab.json`);
+  return { word: v.word, reading: v.reading, meanings: v.meanings, otherForms: v.otherForms, otherReadings: v.otherReadings, m };
 }
 
 build();

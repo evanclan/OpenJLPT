@@ -18,9 +18,9 @@ import { execFileSync } from 'node:child_process';
 import { CACHE_DIR, LEVELS, download } from './lib/util.ts';
 import { importWaller } from './lib/waller.ts';
 
-const TANOS = 'http://www.tanos.co.uk/jlpt';
-const KANJIDIC2 = 'http://www.edrdg.org/kanjidic/kanjidic2.xml.gz';
-const JMDICT = 'http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz';
+const TANOS = 'https://www.tanos.co.uk/jlpt';
+const KANJIDIC2 = 'https://www.edrdg.org/kanjidic/kanjidic2.xml.gz';
+const JMDICT = 'https://www.edrdg.org/pub/Nihongo/JMdict_e.gz';
 const TATOEBA = 'https://downloads.tatoeba.org/exports';
 
 /** Download a bzip2 file and decompress it to `out` (requires the `bzip2` CLI). */

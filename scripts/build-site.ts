@@ -63,9 +63,24 @@ for (const v of allVocab) if (!vocabByWord.has(v.word)) vocabByWord.set(v.word, 
 const esc = (s: string | number) =>
   String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
 const hex = (ch: string) => ch.codePointAt(0)!.toString(16);
-const kanjiPath = (ch: string) => `kanji/${hex(ch)}.html`;
-const vocabPath = (v: Vocab) => `vocab/${v.id}.html`;
+/** File-name-safe text (Japanese is fine in URLs; a few ASCII characters are not). */
+const safe = (s: string) => s.replace(/[\/\\?#%:*"<>|\s]/g, '_');
+
+// Readable URLs: vocab/食べる.html, kanji/食.html. A homograph that is not the first
+// (easiest) entry with its spelling gets the reading appended: vocab/上-うわ.html.
+const vocabPaths = new Map<Vocab, string>();
+{
+  const taken = new Set<string>();
+  for (const v of allVocab) {
+    const base = safe(v.word);
+    vocabPaths.set(v, taken.has(base) ? `vocab/${base}-${safe(v.reading)}.html` : `vocab/${base}.html`);
+    taken.add(base);
+  }
+}
+const vocabPath = (v: Vocab) => vocabPaths.get(v)!;
+const kanjiPath = (ch: string) => `kanji/${ch}.html`;
 const grammarPath = (g: Grammar) => `grammar/${g.id}.html`;
+const absolute = (path: string) => SITE_URL + encodeURI(path.replace(/index\.html$/, ''));
 const isKanjiChar = (ch: string) => /[㐀-䶿一-鿿豈-﫿々]/.test(ch);
 const lvl = (l: Level) => `<span class="lvl ${l}">${l}</span>`;
 const toHira = (s: string) => s.replace(/[ァ-ヶ]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0x60));
@@ -92,7 +107,7 @@ export function furigana(word: string, reading: string): string {
 
 const NAV: [string, string][] = [
   ['n5/index.html', 'N5'], ['n4/index.html', 'N4'], ['n3/index.html', 'N3'], ['n2/index.html', 'N2'], ['n1/index.html', 'N1'],
-  ['flashcards.html', 'Flashcards'], ['analyzer.html', 'Analyzer'], ['data.html', 'Data & API'],
+  ['flashcards.html', 'Flashcards'], ['analyzer.html', 'Analyzer'], ['data.html', 'Data'],
 ];
 
 const GITHUB_ICON = `<svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>`;
@@ -111,8 +126,9 @@ const pages: string[] = [];
 
 function writePage(p: Page): void {
   const depth = p.path.split('/').length - 1;
-  const root = '../'.repeat(depth);
-  const url = SITE_URL + p.path.replace(/index\.html$/, '');
+  // The 404 page is served at arbitrary missing paths, so it needs absolute links.
+  const root = p.path === '404.html' ? SITE_URL : '../'.repeat(depth);
+  const url = absolute(p.path);
   const nav = NAV.map(([href, label]) => `<a href="${root}${href}"${p.active === href ? ' aria-current="page"' : ''}>${label}</a>`).join('');
   const scripts = ['assets/app.js', ...(p.scripts ?? [])].map((s) => `<script src="${root}${s}" defer></script>`).join('');
   const html = `<!doctype html>
@@ -129,7 +145,9 @@ ${p.noindex ? '<meta name="robots" content="noindex">' : ''}
 <meta property="og:title" content="${esc(p.title)}">
 <meta property="og:description" content="${esc(p.description)}">
 <meta property="og:url" content="${esc(url)}">
-<meta property="og:image" content="${SITE_URL}assets/social-preview.png">
+<meta property="og:image" content="${SITE_URL}assets/og-image.png">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="640">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#d7263d">
 <link rel="icon" href="${root}assets/favicon.svg" type="image/svg+xml">
@@ -139,6 +157,7 @@ ${scripts}
 <body data-root="${root}">
 <header class="site-header"><div class="wrap">
 <a class="brand" href="${root}index.html"><span class="brand-mark">あ</span>OpenJLPT</a>
+${p.path === 'index.html' ? '' : `<form class="hsearch" action="${root}index.html" role="search"><input type="search" name="q" placeholder="Search words, kanji, grammar…" aria-label="Search"></form>`}
 <nav class="nav" aria-label="Main">${nav}</nav>
 <a class="gh-btn" href="${REPO}" rel="noopener">${GITHUB_ICON}<span>Star on GitHub</span></a>
 </div></header>
@@ -160,10 +179,25 @@ stroke order from <a href="https://kanjivg.tagaini.net/">KanjiVG</a> (CC BY-SA 3
   if (!p.noindex) pages.push(url);
 }
 
-const crumbs = (root: string, items: [string, string?][]) =>
-  `<nav class="crumbs" aria-label="Breadcrumb"><a href="${root}index.html">Home</a>${items
+/** Breadcrumb trail, plus schema.org BreadcrumbList markup for search engines. */
+const crumbs = (root: string, items: [string, string?][]) => {
+  const ld = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [['Home', 'index.html'] as [string, string?], ...items].map(([name, href], i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name,
+      ...(href ? { item: absolute(href) } : {}),
+    })),
+  };
+  return `<nav class="crumbs" aria-label="Breadcrumb"><a href="${root}index.html">Home</a>${items
     .map(([label, href]) => ` › ${href ? `<a href="${root}${href}">${esc(label)}</a>` : esc(label)}`)
-    .join('')}</nav>`;
+    .join('')}</nav><script type="application/ld+json">${jsonLd(ld)}</script>`;
+};
+
+/** JSON for a <script> block: escape "<" so data can never close the tag. */
+const jsonLd = (data: unknown) => JSON.stringify(data).replace(/</g, '\\u003c');
 
 const exampleList = (examples: Example[] | undefined) =>
   examples?.length
@@ -323,6 +357,18 @@ ${pager(root, list[i - 1] && [grammarPath(list[i - 1]), list[i - 1].pattern], li
 // ---------------------------------------------------------------------------
 // Level pages
 
+const cdnBase = 'https://cdn.jsdelivr.net/gh/evanclan/OpenJLPT@main';
+
+/** Filter box, self-test toggles and download links above a level list. */
+function listTools(lc: string, kind: 'vocab' | 'grammar', target: string, readings: boolean): string {
+  return `<div class="list-tools">
+<input class="filter" type="search" placeholder="Filter (kanji, kana, romaji or English)…" data-filter="${target}" aria-label="Filter">
+${kind === 'vocab' ? `<label><input type="checkbox" data-hide="r" data-target="${target}"> Hide readings</label>` : ''}
+<label><input type="checkbox" data-hide="m" data-target="${target}"> Hide meanings</label>
+<span class="dl">Download: <a href="${cdnBase}/data/csv/${kind}-${lc}.csv">CSV</a> · <a href="${cdnBase}/data/json/${kind}/${lc}.json">JSON</a> · <a href="../downloads/openjlpt-${lc}-${kind}.apkg">Anki</a></span>
+</div>`;
+}
+
 const levelBlurb: Record<Level, string> = {
   N5: 'Beginner. Basic phrases, hiragana, katakana and the first ~100 kanji.',
   N4: 'Upper beginner. Everyday conversation on familiar topics.',
@@ -362,9 +408,9 @@ function levelPages(): void {
       description: `The complete JLPT ${level} vocabulary list: ${plural(v.length, 'word')} with kana readings, romaji, English meanings and example sentences. Free to download as JSON, CSV or SQLite.`,
       body: `${crumbs(root, [[`JLPT ${level}`, `${lc}/index.html`], ['Vocabulary']])}
 <h1>JLPT ${level} vocabulary <span class="muted" style="font-size:0.6em">${v.length.toLocaleString('en-US')} words</span></h1>
-<input class="filter" type="search" placeholder="Filter (kanji, kana, romaji or English)…" data-filter="#vlist" aria-label="Filter words">
+${listTools(lc, 'vocab', '#vlist', true)}
 <table class="list" id="vlist"><thead><tr><th>Word</th><th class="r">Reading</th><th>Meaning</th></tr></thead><tbody>
-${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanings.join(' ')}`.toLowerCase())}"><td class="w"><a href="${root}${vocabPath(x)}" lang="ja">${esc(x.word)}</a></td><td class="r" lang="ja">${esc(x.reading)}</td><td>${esc(truncate(x.meanings.join('; '), 90))}</td></tr>`).join('\n')}
+${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanings.join(' ')}`.toLowerCase())}"><td class="w"><a href="${root}${vocabPath(x)}" lang="ja">${esc(x.word)}</a>${x.word === x.reading ? '' : `<span class="r-m" lang="ja">${esc(x.reading)}</span>`}</td><td class="r" lang="ja"><span>${esc(x.reading)}</span></td><td class="m"><span>${esc(truncate(x.meanings.join('; '), 90))}</span></td></tr>`).join('\n')}
 </tbody></table>`,
     });
 
@@ -375,7 +421,7 @@ ${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanin
       description: `All ${k.length} JLPT ${level} kanji with on'yomi, kun'yomi, English meanings, stroke counts, radicals, stroke order and example words.`,
       body: `${crumbs(root, [[`JLPT ${level}`, `${lc}/index.html`], ['Kanji']])}
 <h1>JLPT ${level} kanji <span class="muted" style="font-size:0.6em">${k.length}</span></h1>
-<p class="muted">Most frequent first.</p>
+<p class="muted">Most frequent first. <a href="${cdnBase}/data/csv/kanji-${lc}.csv">CSV</a> · <a href="${cdnBase}/data/json/kanji/${lc}.json">JSON</a> · <a href="${root}downloads/openjlpt-${lc}-kanji.apkg">Anki deck</a></p>
 <div class="kanji-grid">${k.map((x) => `<a href="${root}${kanjiPath(x.character)}" title="${esc(x.meanings.slice(0, 3).join(', '))}" lang="ja">${esc(x.character)}<small>${esc(x.meanings[0] ?? '')}</small></a>`).join('')}</div>`,
     });
 
@@ -386,8 +432,8 @@ ${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanin
       description: `All ${g.length} JLPT ${level} grammar points with meanings, formation rules, example sentences and usage notes.`,
       body: `${crumbs(root, [[`JLPT ${level}`, `${lc}/index.html`], ['Grammar']])}
 <h1>JLPT ${level} grammar <span class="muted" style="font-size:0.6em">${g.length} points</span></h1>
-<input class="filter" type="search" placeholder="Filter grammar…" data-filter="#glist" aria-label="Filter grammar">
-<ul class="gram-list" id="glist">${g.map((x) => `<li data-s="${esc(`${x.pattern} ${x.reading ?? ''} ${x.romaji} ${x.meaning} ${x.tags.join(' ')}`.toLowerCase())}"><a href="${root}${grammarPath(x)}"><span class="p" lang="ja">${esc(x.pattern)}</span><span class="m">${esc(x.meaning)}</span></a></li>`).join('')}</ul>`,
+${listTools(lc, 'grammar', '#glist', false)}
+<ul class="gram-list" id="glist">${g.map((x) => `<li data-s="${esc(`${x.pattern} ${x.reading ?? ''} ${x.romaji} ${x.meaning} ${x.tags.join(' ')}`.toLowerCase())}"><a href="${root}${grammarPath(x)}"><span class="p" lang="ja">${esc(x.pattern)}</span><span class="m"><span>${esc(x.meaning)}</span></span></a></li>`).join('')}</ul>`,
     });
   }
 }
@@ -475,10 +521,12 @@ function toolPages(): void {
     body: `<h1>What JLPT level is this text?</h1>
 <p class="lead">Paste Japanese text: every kanji is colored by its JLPT level. Click one to look it up.</p>
 <textarea class="analyze" id="text" lang="ja" aria-label="Japanese text">吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。</textarea>
-<div class="legend" style="margin-top:12px">${LEVEL_NAMES.map((l) => `<span><i style="background:var(--${l.toLowerCase()})"></i>${l}</span>`).join('')}<span><i style="background:var(--none)"></i>not in JLPT lists</span></div>
+<div class="legend" style="margin-top:12px">${LEVEL_NAMES.map((l) => `<span class="k-${l}"><i style="background:var(--${l.toLowerCase()})"></i>${l}</span>`).join('')}<span><i style="background:var(--none)"></i>not in JLPT lists</span></div>
 <div class="bar" id="bar"></div>
 <p id="summary" class="muted"></p>
-<div class="card"><div class="marked" id="marked" lang="ja"></div></div>`,
+<div class="card"><div class="marked" id="marked" lang="ja"></div></div>
+<div class="btn-row"><button class="btn" type="button" id="share">🔗 Copy link to this analysis</button></div>
+<p class="muted" style="font-size:14px">Levels are also marked by underline: N5 none, N4 dotted, N3 dashed, N2 solid, N1 double. Only kanji are analysed — kana and vocabulary are not.</p>`,
   });
 
   const cdn = 'https://cdn.jsdelivr.net/gh/evanclan/OpenJLPT@main';
@@ -530,7 +578,26 @@ SELECT v.word, v.reading, v.level
 FROM vocab_fts f JOIN vocab v ON v.rowid = f.rowid
 WHERE vocab_fts MATCH 'weather';</code></pre>
 <h2>Schema</h2>
-<p>Every file is validated in CI against <a href="${REPO}/tree/main/schema">JSON Schemas</a>. See the <a href="${REPO}#readme">README</a> for field-by-field documentation.</p>`,
+<p>Every file is validated in CI against <a href="${REPO}/tree/main/schema">JSON Schemas</a>. See the <a href="${REPO}#readme">README</a> for field-by-field documentation.</p>
+<script type="application/ld+json">${jsonLd({
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'OpenJLPT',
+  description: `Open JLPT N5–N1 dataset: ${meta.counts.vocab.total} vocabulary words, ${meta.counts.kanji.total} kanji and ${meta.counts.grammar.total} grammar points with readings, meanings, part of speech and example sentences.`,
+  url: SITE_URL,
+  sameAs: REPO,
+  license: 'https://creativecommons.org/licenses/by-sa/4.0/',
+  isAccessibleForFree: true,
+  version: meta.version,
+  creator: { '@type': 'Organization', name: 'OpenJLPT contributors', url: REPO },
+  keywords: ['JLPT', 'Japanese', 'vocabulary', 'kanji', 'grammar', 'language learning', 'JMdict', 'Tatoeba'],
+  inLanguage: ['ja', 'en'],
+  distribution: [
+    { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: `${cdnBase}/data/json/vocab/n5.json` },
+    { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${cdnBase}/data/csv/vocab-n5.csv` },
+    { '@type': 'DataDownload', encodingFormat: 'application/vnd.sqlite3', contentUrl: `${REPO}/raw/main/data/openjlpt.sqlite` },
+  ],
+})}</script>`,
   });
 
   writePage({
@@ -551,26 +618,26 @@ function writeData(): void {
   const w = (name: string, data: unknown) => writeFileSync(join(dir, name), JSON.stringify(data));
   for (const level of LEVEL_NAMES) {
     const lc = level.toLowerCase();
-    w(`vocab-${lc}.json`, vocab.get(level)!.map((v) => [v.id, v.word, v.reading, v.romaji, v.meanings.slice(0, 4).join('; '), v.examples?.[0]?.ja ?? '', v.examples?.[0]?.en ?? '']));
-    w(`kanji-${lc}.json`, kanji.get(level)!.map((k) => [hex(k.character), k.character, k.onyomi.join('、'), k.kunyomi.join('、'), k.meanings.slice(0, 4).join(', '), (k.words ?? []).slice(0, 3).join('、')]));
-    w(`grammar-${lc}.json`, grammar.get(level)!.map((g) => [g.id, g.pattern, g.romaji, g.meaning, g.examples[0]?.ja ?? '', g.examples[0]?.en ?? '']));
+    // Row layout: [progress key, front, …, page path]
+    w(`vocab-${lc}.json`, vocab.get(level)!.map((v) => [v.id, v.word, v.reading, v.romaji, v.meanings.slice(0, 4).join('; '), v.examples?.[0]?.ja ?? '', v.examples?.[0]?.en ?? '', vocabPath(v)]));
+    w(`kanji-${lc}.json`, kanji.get(level)!.map((k) => [k.character, k.character, k.onyomi.join('、'), k.kunyomi.join('、'), k.meanings.slice(0, 4).join(', '), (k.words ?? []).slice(0, 3).join('、'), kanjiPath(k.character)]));
+    w(`grammar-${lc}.json`, grammar.get(level)!.map((g) => [g.id, g.pattern, g.romaji, g.meaning, g.examples[0]?.ja ?? '', g.examples[0]?.en ?? '', grammarPath(g)]));
   }
-  // Search index: [kind, key, text, reading, romaji, gloss, level]
+  // Search index: [kind, page path, text, reading, romaji, gloss, level, extra forms/tags]
   const search = [
-    ...allVocab.map((v) => ['v', v.id, v.word, v.reading, v.romaji, truncate(v.meanings.slice(0, 3).join('; '), 80), v.level, (v.other_forms ?? []).join(' ')]),
-    ...allKanji.map((k) => ['k', hex(k.character), k.character, [...k.onyomi, ...k.kunyomi].join(' '), '', truncate(k.meanings.slice(0, 3).join(', '), 80), k.level, '']),
-    ...allGrammar.map((g) => ['g', g.id, g.pattern, g.reading ?? '', g.romaji, truncate(g.meaning, 80), g.level, g.tags.join(' ')]),
+    ...allVocab.map((v) => ['v', vocabPath(v), v.word, v.reading, v.romaji, truncate(v.meanings.slice(0, 3).join('; '), 80), v.level, (v.other_forms ?? []).join(' ')]),
+    ...allKanji.map((k) => ['k', kanjiPath(k.character), k.character, [...k.onyomi, ...k.kunyomi].join(' '), '', truncate(k.meanings.slice(0, 3).join(', '), 80), k.level, '']),
+    ...allGrammar.map((g) => ['g', grammarPath(g), g.pattern, g.reading ?? '', g.romaji, truncate(g.meaning, 80), g.level, g.tags.join(' ')]),
   ];
   w('search.json', search);
   w('kanji-levels.json', Object.fromEntries(allKanji.map((k) => [k.character, k.level])));
 }
 
 function writeSeo(): void {
-  const today = new Date().toISOString().slice(0, 10);
   writeFileSync(
     join(OUT, 'sitemap.xml'),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages
-      .map((u) => `<url><loc>${esc(u)}</loc><lastmod>${today}</lastmod></url>`)
+      .map((u) => `<url><loc>${esc(u)}</loc></url>`)
       .join('\n')}\n</urlset>\n`,
   );
   writeFileSync(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}sitemap.xml\n`);
@@ -582,7 +649,7 @@ function writeSeo(): void {
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(OUT, { recursive: true });
 cpSync(join(ROOT, 'site', 'assets'), join(OUT, 'assets'), { recursive: true });
-cpSync(join(ROOT, 'assets', 'social-preview.png'), join(OUT, 'assets', 'social-preview.png'));
+cpSync(join(ROOT, 'assets', 'og-image.png'), join(OUT, 'assets', 'og-image.png'));
 homePage();
 levelPages();
 vocabPages();

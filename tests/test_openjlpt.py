@@ -86,8 +86,9 @@ def test_find_word():
 
 
 def test_find_word_alternative_spellings():
-    assert find_word("よい").word == "いい"
-    assert find_word("明後日").word == "あさって"
+    assert find_word("観る").word == "見る"  # only an alternative spelling
+    assert find_word("よい").word == "よい"  # its own headword wins over いい's variant
+    assert [v.reading for v in find_words("明後日")] == ["みょうごにち", "あさって"]
     assert find_word("勉強").reading == "べんきょう"
 
 
@@ -139,12 +140,11 @@ def test_normalize_and_sample():
 
 
 def test_sqlite():
-    counts = {row["level"]: row[1] for row in query("SELECT level, COUNT(*) FROM vocab GROUP BY level")}
+    counts = {row["level"]: row["n"] for row in query("SELECT level, COUNT(*) AS n FROM vocab GROUP BY level")}
     assert counts["N5"] == meta()["counts"]["vocab"]["N5"]
-    tables = {r[0] for r in query("SELECT name FROM sqlite_master WHERE type = 'table'")}
+    tables = {r["name"] for r in query("SELECT name FROM sqlite_master WHERE type = 'table'")}
     assert {"vocab", "kanji", "grammar", "pos", "vocab_fts"} <= tables
-    row = query("SELECT reading FROM vocab WHERE word = ?", ("食べる",))[0]
-    assert row["reading"] == "たべる"
+    assert query("SELECT word, reading FROM vocab WHERE word = ?", ["食べる"]) == [{"word": "食べる", "reading": "たべる"}]
 
 
 def test_sqlite_fts():
@@ -172,3 +172,16 @@ def test_cli(capsys):
     assert cli(["grammar", "てもいい"]) == 0
     assert cli(["stats"]) == 0
     assert cli(["zzzznotaword"]) == 1
+
+
+def test_search_vocab_word_starts_only():
+    words = [v.word for v in search_vocab("eat")]
+    assert "食べる" in words
+    assert "手当て" not in words
+
+
+def test_entries_are_hashable_and_levels_normalized():
+    assert len({find_word("食べる"), find_word("食べる"), find_kanji("日"), get_grammar()[0]}) == 3
+    assert len(get_vocab("n5")) == len(get_vocab("N5"))
+    assert find_grammar("～てもいい") and search_grammar("～てもいい")
+    assert sample([1, 2, 3], -1) == []

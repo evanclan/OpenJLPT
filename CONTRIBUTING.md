@@ -34,7 +34,9 @@ either drops the card or overrides fields:
 {"level": "N1", "front": "徐々", "why": "Wrong reading (そろそろ is a different word).", "set": {"reading": "じょじょ"}}
 ```
 
-The build fails if a correction no longer matches any card, so the file can't go stale silently.
+A correction can also move a word to another level (`"set": {"level": "N5"}`); this is reserved for
+clear-cut cases such as basic greetings that Waller's lists place above N5. The build fails if a
+correction no longer matches any card, so the file can't go stale silently.
 
 ## Development setup
 

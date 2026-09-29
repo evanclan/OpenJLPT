@@ -39,11 +39,27 @@ const MIN_LEN = 5;
 const MAX_LEN = 45;
 const IDEAL_LEN = 16;
 
-/** Translations we don't want to show learners by default. */
-const CRUDE = /\b(fuck\w*|shit\w*|bitch\w*|damn\w*|hell|bastard\w*|dick|cock|pussy|whore|slut|rape\w*|suicide|kill yourself|nigg\w*|fag\w*|retard\w*|porn\w*|sex\w*|naked|nude)\b/i;
+/** Sentences we don't want to show learners by default (checked on both sides). */
+const CRUDE = /\b(fuck\w*|shit\w*|bitch\w*|damn\w*|hell|bastard\w*|dick|cock|pussy|whore|slut|rape\w*|suicide|kill yourself|nigg\w*|fag\w*|retard\w*|porn\w*|sex\w*|naked|nude|semen|sperm|erection|erotic\w*|kinky|orgasm\w*|penis|vagina|masturbat\w*|horny|boobs?|tits?)\b/i;
+const CRUDE_JA = /セックス|エッチ|エロ|ちんこ|ちんぽ|まんこ|おっぱい|精液|精子|勃起|朝立ち|しょんべん|ションベン|うんこ|自殺|殺してやる|ぶっ殺|レイプ|強姦|売春|淫|クソ|くそったれ|ファック/;
 
 export function tatoebaAvailable(dir = TATOEBA_DIR): boolean {
   return ['jpn.tsv', 'eng.tsv', 'links.tsv'].every((f) => existsSync(join(dir, f)));
+}
+
+/**
+ * Does `text` contain `form` as a word? Short kanji forms must not sit inside a longer
+ * kanji compound (分母 is not in 充分母乳).
+ */
+function containsWord(text: string, form: string): boolean {
+  const short = [...form].length <= 2 && hasKanji(form);
+  for (let i = text.indexOf(form); i !== -1; i = text.indexOf(form, i + 1)) {
+    if (!short) return true;
+    const before = text[i - 1] ?? '';
+    const after = text[i + form.length] ?? '';
+    if (!hasKanji(before) && !hasKanji(after)) return true;
+  }
+  return false;
 }
 
 function bigrams(s: string): Set<string> {
@@ -92,9 +108,13 @@ interface Posting {
 }
 
 export interface ExampleQuery {
-  /** Written forms that count as this word (headword, alternatives, JMdict kanji forms). */
+  /**
+   * Forms to look up in the word index (headword, alternatives, JMdict kanji forms).
+   * Include kana readings only for words normally written in kana — otherwise a
+   * kanji word like 蚊 would match the particle か.
+   */
   forms: string[];
-  /** Kana readings that count as this word. */
+  /** Kana readings of this word; used to reject index entries marked with a different reading. */
   readings: string[];
   /** The word's JLPT level (N5–N1), used to prefer sentences with easier kanji. */
   level: string;
@@ -148,7 +168,7 @@ export class ExampleIndex {
     for (const [jpId, engId] of preferred) {
       const ja = jpn.get(jpId)!;
       const en = eng.get(engId);
-      if (!en || ja.length < MIN_LEN || ja.length > MAX_LEN || CRUDE.test(en)) continue;
+      if (!en || ja.length < MIN_LEN || ja.length > MAX_LEN || CRUDE.test(en) || CRUDE_JA.test(ja)) continue;
       const s = this.pool.length;
       this.pool.push({ id: Number(jpId), ja, en });
 
@@ -196,7 +216,7 @@ export class ExampleIndex {
     const scored = new Map<number, number>(); // pool index -> cost
 
     let indexed = false;
-    for (const form of new Set([...q.forms, ...q.readings].filter(Boolean))) {
+    for (const form of new Set(q.forms.filter(Boolean))) {
       const postings = this.byHeadword.get(form) ?? [];
       if (postings.length) indexed = true;
       for (const p of postings) {
@@ -221,7 +241,7 @@ export class ExampleIndex {
           if (!bucket || arr.length < bucket.length) bucket = arr;
         }
         for (const s of bucket ?? []) {
-          if (this.pool[s].ja.includes(form)) {
+          if (containsWord(this.pool[s].ja, form)) {
             const c = this.cost(this.pool[s], false, levelRank, wordKanji);
             if (c < (scored.get(s) ?? Infinity)) scored.set(s, c);
           }

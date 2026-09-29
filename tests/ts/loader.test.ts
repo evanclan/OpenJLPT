@@ -54,11 +54,11 @@ test('findWord: 食べる', () => {
   assert.equal(getVocabById(v.id), v);
 });
 
-test('findWord matches alternative spellings; kana words read as themselves', () => {
-  assert.equal(findWord('よい')?.word, 'いい');
-  const asatte = findWord('明後日');
-  assert.equal(asatte?.word, 'あさって');
-  assert.equal(asatte?.reading, 'あさって');
+test('findWord: headwords first, then alternative spellings; kana words read as themselves', () => {
+  assert.equal(findWord('観る')?.word, '見る'); // only an alternative spelling
+  assert.equal(findWord('よい')?.word, 'よい'); // its own N3 headword beats いい's variant
+  assert.deepEqual(findWords('明後日').map((v) => v.reading), ['みょうごにち', 'あさって']);
+  assert.equal(findWord('あさって')?.reading, 'あさって');
   assert.equal(findWord('notaword'), undefined);
   assert.deepEqual(findWords('notaword'), []);
 });
@@ -117,4 +117,31 @@ test('normalize and sample', () => {
   assert.equal(new Set(s).size, 3);
   assert.deepEqual(items, [1, 2, 3, 4, 5]);
   assert.equal(sample(items, 10).length, 5);
+});
+
+test('searchVocab: glosses and romaji match at word starts only', () => {
+  const words = searchVocab('eat').map((v) => v.word);
+  assert.ok(words.includes('食べる'));
+  assert.ok(!words.includes('手当て'), 'romaji te-a-te must not match "eat"');
+  assert.ok(searchVocab('eat').every((v) => v.meanings.some((m) => /\beat/i.test(m)) || v.romaji.startsWith('eat')));
+});
+
+test('returned arrays are copies; entries are frozen', () => {
+  const n5 = getVocab('N5');
+  n5.splice(0);
+  assert.ok(getVocab('N5').length > 0);
+  assert.throws(() => {
+    (getVocab('N5')[0].meanings as string[]).push('x');
+  }, TypeError);
+});
+
+test('levels: lowercase accepted, unknown rejected clearly', () => {
+  assert.equal(getVocab('n5' as never).length, getVocab('N5').length);
+  assert.throws(() => getVocab('N6' as never), RangeError);
+});
+
+test('full-width wave dash and sample edge cases', () => {
+  assert.ok(findGrammar('～てもいい').length >= 1);
+  assert.ok(searchGrammar('～てもいい').length >= 1);
+  assert.deepEqual(sample([1, 2, 3], -1), []);
 });

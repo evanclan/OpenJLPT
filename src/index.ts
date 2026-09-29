@@ -92,15 +92,33 @@ export const levels: readonly Level[] = ['N5', 'N4', 'N3', 'N2', 'N1'];
 const DATA_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'json');
 const cache = new Map<string, unknown>();
 
+/** Recursively freeze parsed data: entries are shared by every caller, so they must not be mutated. */
+function deepFreeze<T>(value: T): T {
+  if (value && typeof value === 'object') {
+    for (const v of Object.values(value)) deepFreeze(v);
+    Object.freeze(value);
+  }
+  return value;
+}
+
 function readJson<T>(path: string): T {
-  if (!cache.has(path)) cache.set(path, JSON.parse(readFileSync(join(DATA_DIR, path), 'utf8')));
+  if (!cache.has(path)) cache.set(path, deepFreeze(JSON.parse(readFileSync(join(DATA_DIR, path), 'utf8'))));
   return cache.get(path) as T;
 }
 
-const load = <T>(kind: 'vocab' | 'kanji' | 'grammar', level: Level) => readJson<T[]>(`${kind}/${level.toLowerCase()}.json`);
+/** Accept 'N5' or 'n5'; reject anything else with a clear error. */
+function checkLevel(level: string): Level {
+  const l = level.toUpperCase();
+  if (!(levels as readonly string[]).includes(l)) throw new RangeError(`Unknown JLPT level "${level}" (expected one of ${levels.join(', ')})`);
+  return l as Level;
+}
 
+const load = <T>(kind: 'vocab' | 'kanji' | 'grammar', level: Level) =>
+  readJson<readonly T[]>(`${kind}/${checkLevel(level).toLowerCase()}.json`);
+
+/** A fresh array each call (sorting or splicing it can't corrupt the cache); entries are frozen. */
 function all<T>(kind: 'vocab' | 'kanji' | 'grammar', level?: Level): T[] {
-  return level ? load<T>(kind, level) : levels.flatMap((l) => load<T>(kind, l));
+  return level ? load<T>(kind, level).slice() : levels.flatMap((l) => load<T>(kind, l));
 }
 
 /** Memoize an index built from the full dataset. */
@@ -123,10 +141,10 @@ const vocabByForm = lazy(() => {
     if (!list) map.set(key, [v]);
     else if (!list.includes(v)) list.push(v);
   };
-  for (const v of getVocab()) {
-    add(v.word, v);
-    for (const f of v.other_forms ?? []) add(f, v);
-  }
+  const vocab = getVocab();
+  // Headwords first, so findWord('河') returns the entry written 河 before one listing it as a variant.
+  for (const v of vocab) add(v.word, v);
+  for (const v of vocab) for (const f of v.other_forms ?? []) add(f, v);
   return map;
 });
 
@@ -137,7 +155,7 @@ export const getVocabById = (id: string): Vocab | undefined => vocabById().get(i
 export const findWord = (word: string): Vocab | undefined => vocabByForm().get(word)?.[0];
 
 /** All entries written as `word` (homographs such as 上 うえ / じょう are separate entries). */
-export const findWords = (word: string): Vocab[] => vocabByForm().get(word) ?? [];
+export const findWords = (word: string): Vocab[] => (vocabByForm().get(word) ?? []).slice();
 
 // ---------------------------------------------------------------------------
 // Kanji
@@ -177,9 +195,13 @@ const grammarById = lazy(() => new Map(getGrammar().map((g) => [g.id, g])));
 /** Look up a grammar point by its stable ID (e.g. `te-mo-ii`). */
 export const getGrammarById = (id: string): Grammar | undefined => grammarById().get(id);
 
+/** Leading wave dash: 〜 (U+301C), ～ (U+FF5E, typed by Windows IMEs) or ~. */
+const stripWave = (s: string) => s.trim().replace(/^[〜～~]/, '');
+
 /** Grammar points whose pattern (or kana reading) contains `pattern`; 〜 is optional. */
 export function findGrammar(pattern: string): Grammar[] {
-  const p = pattern.replace(/^[〜~]/, '');
+  const p = stripWave(pattern);
+  if (!p) return [];
   return getGrammar().filter((g) => g.pattern.includes(p) || g.reading?.includes(p));
 }
 
@@ -211,16 +233,20 @@ export function searchVocab(query: string, options: SearchOptions | Level = {}):
   const q = normalize(query);
   if (!q) return [];
   const scored: [number, Vocab][] = [];
+  const wholeWord = new RegExp(`\\b${escapeRegExp(q)}\\b`);
+  const wordStart = new RegExp(`\\b${escapeRegExp(q)}`);
   for (const v of getVocab(level)) {
-    const forms = [v.word, ...(v.other_forms ?? []), v.reading, ...(v.other_readings ?? []), v.romaji].map(normalize);
+    // Romaji matches whole or as a prefix only: "eat" must not hit te-a-te (手当て).
+    const forms = [v.word, ...(v.other_forms ?? []), v.reading, ...(v.other_readings ?? [])].map(normalize);
+    const all = [...forms, v.romaji];
     const glosses = v.meanings.map((m) => m.toLowerCase());
     let score = 0;
-    if (forms.includes(q)) score = 100;
+    if (all.includes(q)) score = 100;
     else if (glosses.some((m) => m === q || m === `to ${q}`)) score = 90;
-    else if (forms.some((f) => f.startsWith(q))) score = 60;
-    else if (glosses.some((m) => new RegExp(`\\b${escapeRegExp(q)}\\b`).test(m))) score = 50;
+    else if (all.some((f) => f.startsWith(q))) score = 60;
+    else if (glosses.some((m) => wholeWord.test(m))) score = 50;
     else if (forms.some((f) => f.includes(q))) score = 30;
-    else if (glosses.some((m) => m.includes(q))) score = 20;
+    else if (glosses.some((m) => wordStart.test(m))) score = 20;
     if (score) scored.push([score, v]);
   }
   scored.sort((a, b) => b[0] - a[0] || levels.indexOf(a[1].level) - levels.indexOf(b[1].level));
@@ -231,7 +257,7 @@ export function searchVocab(query: string, options: SearchOptions | Level = {}):
 /** Case-insensitive search across grammar pattern, reading, romaji, meaning, formation and tags. */
 export function searchGrammar(query: string, options: SearchOptions | Level = {}): Grammar[] {
   const { level, limit } = typeof options === 'string' ? { level: options, limit: undefined } : options;
-  const q = normalize(query.replace(/^[〜~]/, ''));
+  const q = normalize(stripWave(query));
   if (!q) return [];
   const out = getGrammar(level).filter((g) =>
     [g.pattern, g.reading ?? '', g.romaji, g.meaning, g.formation, ...g.tags].some((f) => normalize(f).includes(q)),
@@ -256,7 +282,7 @@ export const posLabels = (): Record<string, string> => readJson<Record<string, s
  */
 export function sample<T>(items: readonly T[], n = 1, random: () => number = Math.random): T[] {
   const pool = items.slice();
-  const count = Math.min(n, pool.length);
+  const count = Math.max(0, Math.min(Math.floor(n), pool.length));
   for (let i = 0; i < count; i++) {
     const j = i + Math.floor(random() * (pool.length - i));
     [pool[i], pool[j]] = [pool[j], pool[i]];

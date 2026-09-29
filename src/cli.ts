@@ -19,6 +19,7 @@ import {
   getVocab,
   levels,
   meta,
+  normalize,
   posLabels,
   sample,
   searchGrammar,
@@ -83,10 +84,20 @@ async function quiz(level?: Level): Promise<void> {
   const deck = sample(getVocab(level), 10);
   let right = 0;
   console.log(bold(`OpenJLPT quiz — ${level ?? 'all levels'}, ${deck.length} words. Type the reading (kana or romaji), or press Enter to reveal.\n`));
+  let closed = false;
+  rl.on('close', () => (closed = true));
   try {
     for (const [i, v] of deck.entries()) {
-      const answer = (await rl.question(`${dim(`${i + 1}/${deck.length}`)} ${bold(v.word)}  ${dim(v.meanings[0])}\n  › `)).trim().toLowerCase();
-      const ok = answer !== '' && [v.reading, v.romaji, ...(v.other_readings ?? [])].includes(answer);
+      if (closed) break; // stdin ended (piped input or Ctrl-D)
+      let raw: string;
+      try {
+        raw = await rl.question(`${dim(`${i + 1}/${deck.length}`)} ${bold(v.word)}  ${dim(v.meanings[0])}\n  › `);
+      } catch {
+        break;
+      }
+      // Kana-insensitive: てすと counts for テスト.
+      const answer = normalize(raw);
+      const ok = answer !== '' && [v.reading, v.romaji, ...(v.other_readings ?? [])].map(normalize).includes(answer);
       if (ok) right++;
       console.log(`  ${ok ? green('✓') : red('✗')} ${cyan(v.reading)} ${dim(v.romaji)} — ${v.meanings.join('; ')}\n`);
     }

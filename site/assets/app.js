@@ -18,6 +18,22 @@
       document.querySelectorAll('[data-speak]').forEach(function (b) { b.hidden = true; });
     }
 
+    // Self-test toggles: <input type=checkbox data-hide="r|m" data-target="#list">.
+    document.querySelectorAll('[data-hide]').forEach(function (box) {
+      var target = document.querySelector(box.getAttribute('data-target'));
+      if (!target) return;
+      box.addEventListener('change', function () {
+        target.classList.toggle('hide-' + box.getAttribute('data-hide'), box.checked);
+        target.querySelectorAll('.peek').forEach(function (el) { el.classList.remove('peek'); });
+      });
+      target.addEventListener('click', function (e) {
+        var cell = e.target.closest('td.r, td.m, span.m, span.r-m');
+        if (cell && (target.classList.contains('hide-r') || target.classList.contains('hide-m'))) {
+          if (!e.target.closest('a') || cell.matches('span.m')) { e.preventDefault(); cell.classList.toggle('peek'); }
+        }
+      });
+    });
+
     // <input data-filter="#table"> filters rows/items by their data-s text.
     document.querySelectorAll('[data-filter]').forEach(function (input) {
       var target = document.querySelector(input.getAttribute('data-filter'));

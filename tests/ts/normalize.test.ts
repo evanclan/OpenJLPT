@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { parseHeadword, parseMeanings, parseReading } from '../../scripts/lib/normalize.ts';
-import { isKana, toHiragana, toKatakana, toRomaji } from '../../scripts/lib/kana.ts';
+import { isKana, readingFits, toHiragana, toKatakana, toRomaji } from '../../scripts/lib/kana.ts';
 
 // Every case below is a real card from Waller's decks (sources/waller/).
 
@@ -126,4 +126,38 @@ test('romaji: modified Hepburn without macrons', () => {
     ['こんにちは', 'konnichiwa'],
   ];
   for (const [kana, romaji] of cases) assert.equal(toRomaji(kana), romaji, kana);
+});
+
+test('meanings: spreadsheet and tooling junk is dropped', () => {
+  assert.deepEqual(parseMeanings('months,#NAME?').meanings, ['months']);
+  assert.deepEqual(parseMeanings('no,TODO same as いいえ?').meanings, ['no']);
+  assert.deepEqual(parseMeanings('first,foremost,# 1').meanings, ['first', 'foremost']);
+  assert.deepEqual(parseMeanings('(abbr) kilo-,kilogram,kilometre,10^3').meanings, ['(abbreviation) kilo-', 'kilogram', 'kilometre']);
+});
+
+test('meanings: register tags are spelled out, POS-like codes removed', () => {
+  assert.deepEqual(parseMeanings('(sl) meals,food').meanings, ['(slang) meals', 'food']);
+  assert.deepEqual(parseMeanings('(num) three').meanings, ['three']);
+  assert.deepEqual(parseMeanings('(fr:) (n) questionnaire').meanings, ['questionnaire']);
+});
+
+test('meanings: qualifier fragments rejoin the gloss they qualify', () => {
+  assert.deepEqual(parseMeanings('to fall,e.g. rain or snow').meanings, ['to fall (e.g. rain or snow)']);
+  assert.deepEqual(parseMeanings('to take,time,etc').meanings, ['to take', 'time, etc.']);
+});
+
+test('romaji: word-final particle は reads wa', () => {
+  assert.equal(toRomaji('じつは', '実は'), 'jitsuwa');
+  assert.equal(toRomaji('または', 'または'), 'matawa');
+  assert.equal(toRomaji('それでは', 'それでは'), 'soredewa');
+  assert.equal(toRomaji('はは', '母'), 'haha');
+});
+
+test('readingFits: kana parts of the word must appear in the reading', () => {
+  assert.equal(readingFits('お金持ち', 'かねもち'), false);
+  assert.equal(readingFits('お金持ち', 'おかねもち'), true);
+  assert.equal(readingFits('食べる', 'たべる'), true);
+  assert.equal(readingFits('日本', 'にほん'), true);
+  assert.equal(readingFits('あさって', 'あさって'), true);
+  assert.equal(readingFits('たばこ', 'タバコ'), true);
 });

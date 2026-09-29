@@ -9,11 +9,12 @@
   --accent: #d7263d;
   --accent-soft: #fde8eb;
   --link: #b3122a;
-  --n5: #2f9e44;
-  --n4: #1c7ed6;
-  --n3: #7048e8;
-  --n2: #e8590c;
-  --n1: #d7263d;
+  /* Level colours keep >= 5:1 contrast with white badge text (WCAG AA). */
+  --n5: #237032;
+  --n4: #1971c2;
+  --n3: #6741d9;
+  --n2: #c2410c;
+  --n1: #c92a2a;
   --none: #adb5bd;
   --radius: 12px;
   --shadow: 0 1px 2px rgb(0 0 0 / 0.04), 0 4px 16px rgb(0 0 0 / 0.04);
@@ -253,3 +254,37 @@ textarea.analyze { width: 100%; min-height: 160px; font-family: var(--jp); font-
 .hero h1 .accent { color: var(--accent); }
 .code-tabs pre { margin: 0; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Header search (every page except home) */
+.hsearch { flex: 0 1 240px; }
+.hsearch input { width: 100%; font: inherit; font-size: 14px; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: var(--text); }
+.hsearch input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+@media (max-width: 720px) { .hsearch { flex: 1 1 120px; } }
+@media (min-width: 721px) and (max-width: 980px) { .hsearch { display: none; } }
+
+/* Level lists: tools, readings under words on small screens, self-test toggles */
+.list-tools { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; margin: 8px 0 16px; font-size: 15px; }
+.list-tools .filter { margin: 0; }
+.list-tools label { display: inline-flex; gap: 6px; align-items: center; color: var(--muted); cursor: pointer; }
+.list-tools .dl { color: var(--muted); }
+.r-m { display: none; font-size: 13px; color: var(--muted); font-family: var(--jp); }
+@media (max-width: 640px) { .r-m { display: block; } }
+.hide-r td.r span, .hide-r .r-m, .hide-m td.m span, .hide-m span.m span { filter: blur(6px); cursor: pointer; user-select: none; }
+.hide-r .peek, .hide-r td.peek span, .hide-m td.peek span, .hide-m span.peek span { filter: none; }
+.nav { flex-wrap: nowrap; }
+@media (max-width: 720px) { .nav { flex-wrap: wrap; row-gap: 2px; } }
+
+/* Analyzer: level shown by underline as well as colour */
+.marked .k-N4, .legend .k-N4 { text-decoration: underline dotted; text-underline-offset: 5px; }
+.marked .k-N3, .legend .k-N3 { text-decoration: underline dashed; text-underline-offset: 5px; }
+.marked .k-N2, .legend .k-N2 { text-decoration: underline solid; text-underline-offset: 5px; }
+.marked .k-N1, .legend .k-N1 { text-decoration: underline double; text-underline-offset: 5px; }
+.btn.primary .kbd { color: inherit; border-color: rgb(255 255 255 / 0.6); }
+
+@media print {
+  .site-header, .site-footer, .list-tools, .btn-row, .pager, details.json, .speak { display: none !important; }
+  body { background: #fff; color: #000; }
+  main { padding: 0; }
+  a { color: inherit; }
+  table.list td { padding: 4px 6px; }
+}

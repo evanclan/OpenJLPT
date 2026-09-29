@@ -9,6 +9,21 @@ const KANA_RE = /^[ぁ-ゖゝゞァ-ヺーヽヾ]+$/;
 const KANJI_RE = /[㐀-䶿一-鿿豈-﫿々〆ヶ]/;
 
 export const isKana = (s: string): boolean => KANA_RE.test(s);
+
+const KANJI_RUN = /[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff々〆ヶ]+/;
+
+/**
+ * Can `reading` be the reading of `word`? The kana parts of the word must appear, in
+ * order, in the reading (お金持ち can't be read かねもち). Kanji runs match anything.
+ */
+export function readingFits(word: string, reading: string): boolean {
+  const parts = word.split(new RegExp(`(${KANJI_RUN.source})`)).filter(Boolean);
+  if (!parts.some((p) => KANJI_RUN.test(p))) return toHiragana(word) === toHiragana(reading);
+  const pattern = parts
+    .map((p) => (KANJI_RUN.test(p) ? '.+' : toHiragana(p).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')))
+    .join('');
+  return new RegExp(`^${pattern}$`).test(toHiragana(reading));
+}
 export const hasKanji = (s: string): boolean => KANJI_RE.test(s);
 
 export function toHiragana(s: string): string {
@@ -70,10 +85,14 @@ const EXCEPTIONS: Record<string, string> = {
  * Convert kana to lowercase modified-Hepburn romaji without macrons
  * (long vowels are spelled out: とうきょう → toukyou, ラーメン → raamen).
  * Non-kana characters are passed through unchanged.
+ *
+ * Pass the written `word` too: a word ending in the particle は (実は, または,
+ * それでは) reads it "wa".
  */
-export function toRomaji(kana: string): string {
+export function toRomaji(kana: string, word?: string): string {
   const s = toHiragana(kana);
   if (EXCEPTIONS[s]) return EXCEPTIONS[s];
+  if (word && word.length > 1 && word.endsWith('は') && s.endsWith('は')) return toRomaji(s.slice(0, -1)) + 'wa';
   let out = '';
   let geminate = false;
   for (let i = 0; i < s.length; i++) {

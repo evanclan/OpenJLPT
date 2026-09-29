@@ -17,6 +17,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write # to start CI on the refresh PR (PRs opened with GITHUB_TOKEN don't trigger workflows)
 
 concurrency:
   group: update-data-${{ github.ref }}
@@ -26,6 +27,9 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    env:
+      # Scheduled runs carry no repository payload, so test the event type as well.
+      ON_DEFAULT_BRANCH: ${{ github.event_name == 'schedule' || github.ref_name == github.event.repository.default_branch }}
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
@@ -37,7 +41,7 @@ jobs:
       - run: npm run build
 
       - name: Keep the upstream downloads for debugging (branch runs only)
-        if: github.ref_name != github.event.repository.default_branch
+        if: env.ON_DEFAULT_BRANCH != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: upstream-sources
@@ -46,7 +50,7 @@ jobs:
           retention-days: 3
 
       - name: Commit rebuilt data to this branch
-        if: github.ref_name != github.event.repository.default_branch
+        if: env.ON_DEFAULT_BRANCH != 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -59,7 +63,8 @@ jobs:
           fi
 
       - name: Open a PR if the dataset changed
-        if: github.ref_name == github.event.repository.default_branch
+        id: pr
+        if: env.ON_DEFAULT_BRANCH == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: 'chore(data): monthly refresh from upstream sources'
@@ -72,3 +77,9 @@ jobs:
           add-paths: |
             data
             sources
+
+      - name: Run CI on the refresh PR
+        if: env.ON_DEFAULT_BRANCH == 'true' && steps.pr.outputs.pull-request-number != ''
+        run: gh workflow run ci.yml --ref data/monthly-refresh
+        env:
+          GH_TOKEN: ${{ github.token }}

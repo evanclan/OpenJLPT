@@ -17,7 +17,7 @@
     "id": {
       "type": "string",
       "pattern": "^[0-9a-f]{10}$",
-      "description": "Stable identifier: first 10 hex digits of SHA-1(word + U+0000 + reading). Survives re-ordering and level changes; use it to key user progress."
+      "description": "Stable identifier. Assigned once (first 10 hex digits of SHA-1(word + U+0000 + reading) at the time) and then frozen in sources/ids.lock.json, so it never changes even if the word's spelling or reading is corrected. Use it to key user progress."
     },
     "word": {
       "type": "string",

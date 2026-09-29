@@ -63,7 +63,7 @@
       $('fc-card').classList.add('flipped');
       return;
     }
-    var link = OpenJLPT.root() + state.kind + '/' + row[0] + '.html';
+    var link = esc(OpenJLPT.root() + row[row.length - 1]);
     if (state.kind === 'vocab') {
       $('fc-front').textContent = row[1];
       $('fc-back').innerHTML = '<div class="reading">' + esc(row[2]) + ' <span class="romaji">' + esc(row[3]) + '</span></div>' +

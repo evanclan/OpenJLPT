@@ -92,8 +92,31 @@ function splitTopLevel(s: string, seps: RegExp): string[] {
 }
 
 /** JMdict-style part-of-speech codes that occasionally lead a gloss, e.g. `(conj,exp,int) Thank you`. */
-const POS_CODE = String.raw`(?:n(?:-adv|-t|-suf|-pref)?|v(?:\d\w*|s|t|i|k|z)?|adj(?:-\w+)?|adv(?:-to)?|exp|int|conj|prt|pn|pref|suf|ctr|aux(?:-\w+)?|P)`;
+const POS_CODE = String.raw`(?:n(?:-adv|-t|-suf|-pref)?|v(?:\d\w*|s|t|i|k|z)?|adj(?:-\w+)?|adv(?:-to)?|exp|int|conj|prt|pn|pref|suf|ctr|aux(?:-\w+)?|num|uk|P|fr:?)`;
 const POS_NOTE = new RegExp(String.raw`^\((?:\s*${POS_CODE}\s*(?=[,)]),?)+\)\s*`);
+
+/** Remove every leading part-of-speech note: "(fr:) (n) questionnaire" → "questionnaire". */
+function stripPosNotes(m: string): string {
+  let prev;
+  do {
+    prev = m;
+    m = m.replace(POS_NOTE, '');
+  } while (m !== prev);
+  return m;
+}
+
+/** Leftovers from spreadsheets and dictionary tooling that are not glosses at all. */
+const JUNK = /#NAME\?|\bTODO\b|JIS X 0212|\d+\^\d+|\d+E\d+:\d|^#\s*\d*$/;
+
+/** Dictionary register tags → readable labels ("(sl) meals" → "(slang) meals"). */
+const TAG_LABELS: Record<string, string> = {
+  abbr: 'abbreviation', sl: 'slang', col: 'colloquial', hon: 'honorific', hum: 'humble', pol: 'polite',
+  fam: 'familiar', arch: 'archaic', vulg: 'vulgar', 'X': 'vulgar', obs: 'obsolete', derog: 'derogatory',
+};
+const expandTags = (m: string) => m.replace(/\((\w+)\)/g, (all, t: string) => (TAG_LABELS[t] ? `(${TAG_LABELS[t]})` : all));
+
+/** Fragments that qualify the previous gloss rather than stand alone ("to fall" + "e.g. rain or snow"). */
+const QUALIFIER = /^(e\.g\.|i\.e\.|esp\.|incl\.|etc\.?$)/i;
 
 /** Waller's decks cap the English field at 100 characters, cutting the last gloss mid-word. */
 export const GLOSS_CAP = 99;
@@ -124,13 +147,23 @@ export function parseMeanings(back: string): Meanings {
     .replace(/\s{2,}/g, ' ');
 
   const parts = splitTopLevel(s, /[,;/]/)
-    .map((m) => m.replace(POS_NOTE, '').replace(/\s+/g, ' ').trim())
+    .map((m) => stripPosNotes(m).replace(/\s+/g, ' ').trim())
     .map((m) => m.replace(/^[,;.\s]+|[,;\s]+$/g, ''))
     .filter(Boolean);
 
   let fragment: string | undefined;
   if (truncated && parts.length > 1) fragment = parts.pop();
-  const meanings = [...new Set(parts.map(closeParens))];
+  const joined: string[] = [];
+  for (const part of parts) {
+    if (JUNK.test(part)) continue;
+    const prev = joined.length - 1;
+    if (prev >= 0 && QUALIFIER.test(part)) {
+      joined[prev] = /^etc/i.test(part) ? `${joined[prev]}, etc.` : `${joined[prev]} (${part})`;
+    } else {
+      joined.push(expandTags(part));
+    }
+  }
+  const meanings = [...new Set(joined.map(closeParens))];
   return { meanings, truncated, fragment };
 }
 

@@ -120,16 +120,79 @@ export function readingsFor(entry: JmEntry, keb?: string): JmKana[] {
 }
 
 const WORD = /[a-z]+/g;
-const STOP = new Set(['to', 'a', 'an', 'the', 'of', 'be', 'or', 'and', 'in', 'on', 'for', 'one', 's', 'etc', 'e', 'g']);
-const tokens = (texts: string[]) =>
-  new Set(texts.flatMap((t) => t.toLowerCase().match(WORD) ?? []).filter((w) => !STOP.has(w)));
+const STOP = new Set(['to', 'a', 'an', 'the', 'of', 'be', 'or', 'and', 'in', 'on', 'for', 'one', 's', 'etc', 'e', 'g', 'i', 'eg', 'ie', 'esp', 'something', 'someone', 'sth', 'so']);
+
+/** Fold spelling variants so "colour"/"color", "skilful"/"skillful", "centre"/"center", "cars"/"car" meet. */
+const fold = (w: string) =>
+  w
+    .replace(/ll/g, 'l')
+    .replace(/our$/, 'or')
+    .replace(/is(e|ed|ing|ation)$/, 'iz$1')
+    .replace(/([^aeiou])re$/, '$1er')
+    .replace(/(.{3,})s$/, '$1');
+
+/** Content words of some English glosses, spelling-folded. */
+export const tokens = (texts: string[]) =>
+  new Set(texts.flatMap((t) => t.toLowerCase().match(WORD) ?? []).filter((w) => !STOP.has(w)).map(fold));
 
 /** Fraction of `a`'s tokens that also occur in `b`. */
-function overlap(a: Set<string>, b: Set<string>): number {
+export function overlap(a: Set<string>, b: Set<string>): number {
   if (a.size === 0) return 0;
   let hit = 0;
   for (const t of a) if (b.has(t)) hit++;
   return hit / a.size;
+}
+
+/** Tokens of every gloss in an entry. */
+export const entryTokens = (entry: JmEntry) => tokens(entry.senses.flatMap((s) => s.gloss));
+
+/**
+ * Crude stems (first four letters) so derived forms meet: prepare/preparation,
+ * depart/departure, kind/kindness, hate/hated. Used only to decide whether two
+ * glosses could describe the same word, never for ranking.
+ */
+export const stems = (texts: string[]) => new Set([...tokens(texts)].map((t) => t.slice(0, 4)));
+export const entryStems = (entry: JmEntry) => stems(entry.senses.flatMap((s) => s.gloss));
+
+const rareForm = (inf: string[]) => inf.some((i) => RARE_FORMS.has(i));
+/** Irregular spellings. Ateji (無駄, 流石, 寿司) are normal written forms, so they don't count. */
+const IRREGULAR_KANJI = new Set(['iK', 'io', 'oK', 'rK', 'sK']);
+
+/** The most common reading of a kanji form, if it has a common (priority-tagged) one. */
+export function commonReading(entry: JmEntry, keb: string): JmKana | undefined {
+  return readingsFor(entry, keb).find((r) => isCommon(r.pri) && !rareForm(r.inf));
+}
+
+/** Is this reading element a common (priority-tagged), regular reading? */
+export const isCommonReading = (r: JmKana | undefined) => !!r && isCommon(r.pri) && !rareForm(r.inf);
+
+/**
+ * The usual kanji spelling for a reading: among regular kanji forms the reading applies
+ * to, the first common (priority-tagged) one, else the first (布団, not the older 蒲団).
+ */
+export function usualSpelling(entry: JmEntry, reading: string): string | undefined {
+  const hira = toHiragana(reading);
+  const forms = entry.kanji.filter(
+    (k) =>
+      !k.inf.some((i) => IRREGULAR_KANJI.has(i)) &&
+      entry.kana.some((r) => toHiragana(r.text) === hira && !r.nokanji && (r.restr.length === 0 || r.restr.includes(k.text))),
+  );
+  return (forms.find((k) => isCommon(k.pri)) ?? forms[0])?.text;
+}
+
+/** Is `keb` a common (priority-tagged) spelling in this entry? */
+export const isCommonSpelling = (entry: JmEntry, keb: string) => isCommon(entry.kanji.find((k) => k.text === keb)?.pri ?? []);
+
+/** Is `keb` an irregular, out-dated, rare or search-only spelling in this entry? */
+export const isIrregularSpelling = (entry: JmEntry, keb: string) =>
+  (entry.kanji.find((k) => k.text === keb)?.inf ?? []).some((i) => IRREGULAR_KANJI.has(i));
+
+/** Does `form` appear in the entry as a regular spelling (kanji form or kana reading)? */
+export function isRegularForm(entry: JmEntry, form: string): boolean {
+  const k = entry.kanji.find((x) => x.text === form);
+  if (k) return !rareForm(k.inf);
+  const hira = toHiragana(form);
+  return entry.kana.some((r) => toHiragana(r.text) === hira && !rareForm(r.inf));
 }
 
 export interface Query {
@@ -165,6 +228,16 @@ function derivedForms(word: string): string[] {
 export class JmdictIndex {
   private byKeb = new Map<string, JmEntry[]>();
   private byReb = new Map<string, JmEntry[]>();
+
+  /** All entries that list `keb` as a kanji form. */
+  entriesWithKanji(keb: string): JmEntry[] {
+    return this.byKeb.get(keb) ?? [];
+  }
+
+  /** All entries with `reading` as a kana form. */
+  entriesWithReading(reading: string): JmEntry[] {
+    return this.byReb.get(toHiragana(reading)) ?? [];
+  }
 
   constructor(entries: JmEntry[]) {
     const add = (map: Map<string, JmEntry[]>, key: string, e: JmEntry) => {
@@ -252,9 +325,16 @@ export class JmdictIndex {
     } else if (isKana(form)) {
       for (const entry of this.byReb.get(toHiragana(form)) ?? []) {
         const m = this.score(entry, undefined, toHiragana(form), glossTokens);
+        // Same script beats a hiragana-normalised match (ダブる is not ダブル).
+        if (m && entry.kana.some((r) => r.text === form)) m.score += 3;
         if (m) yield m;
       }
     }
+  }
+
+  /** Score one entry for a spelling/reading/glosses (undefined when the reading doesn't fit). */
+  evaluate(entry: JmEntry, keb: string | undefined, reading: string | undefined, glossTokens: Set<string>): Match | undefined {
+    return this.score(entry, keb, reading === undefined ? undefined : toHiragana(reading), glossTokens);
   }
 
   private score(entry: JmEntry, keb: string | undefined, reading: string | undefined, glossTokens: Set<string>): Match | undefined {

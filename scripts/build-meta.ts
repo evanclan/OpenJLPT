@@ -65,8 +65,8 @@ async function main() {
     counts,
     vocab_with_examples: sentences,
     sources: {
-      waller: { url: 'https://www.tanos.co.uk/jlpt/', license: 'CC BY', snapshot: 'sources/waller/' },
       ...sources,
+      waller: { url: 'https://www.tanos.co.uk/jlpt/', license: 'CC BY', snapshot: 'sources/waller/' },
       tatoeba: { url: 'https://tatoeba.org', license: 'CC BY 2.0 FR' },
     },
   });

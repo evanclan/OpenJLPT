@@ -31,6 +31,16 @@ test('explicit readings in the index disambiguate homographs', () => {
   assert.equal(index.find({ forms: ['一日'], readings: ['ついたち'], level: 'N5' })[0].ja, '一日は晴れでした。');
 });
 
+test('kana readings are not looked up for kanji words (蚊 ≠ the particle か)', () => {
+  const ex = index.find({ forms: ['蚊'], readings: ['か'], level: 'N5' }, 3);
+  assert.deepEqual(ex.map((e) => e.ja), ['これは蚊ではないか。']);
+});
+
+test('substring fallback respects kanji word boundaries (分母 is not in 充分母乳)', () => {
+  const ex = index.find({ forms: ['分母'], readings: ['ぶんぼ'], level: 'N1' }, 3);
+  assert.deepEqual(ex.map((e) => e.ja), ['分母を計算しなさい。']);
+});
+
 test('crude translations are filtered out', () => {
   assert.deepEqual(index.find({ forms: ['あっち'], readings: ['あっち'], level: 'N5' }), []);
 });

@@ -22,7 +22,8 @@ def data_root() -> str:
     backend copies it into the package so it is self-contained.
     """
     here = os.path.dirname(os.path.abspath(__file__))
-    for candidate in (os.path.join(here, "..", "data"), os.path.join(here, "data")):
+    # Installed wheels bundle data inside the package; a source checkout has it one level up.
+    for candidate in (os.path.join(here, "data"), os.path.join(here, "..", "data")):
         if os.path.isfile(os.path.join(candidate, "json", "meta.json")):
             return os.path.abspath(candidate)
     raise FileNotFoundError("OpenJLPT data directory not found")
@@ -33,9 +34,14 @@ def _read_json(path: str) -> Any:
         return json.load(f)
 
 
-def _check_level(level: Optional[str]) -> None:
-    if level is not None and level not in levels:
+def _check_level(level: Optional[str]) -> Optional[str]:
+    """Accept "N5" or "n5"; raise ValueError for anything else."""
+    if level is None:
+        return None
+    normalized = str(level).upper()
+    if normalized not in levels:
         raise ValueError(f"level must be one of {levels}, got {level!r}")
+    return normalized
 
 
 def _examples(raw: dict) -> List[Example]:
@@ -98,7 +104,7 @@ def _level(kind: str, level: str) -> Tuple[Any, ...]:
 
 
 def _all(kind: str, level: Optional[str]) -> list:
-    _check_level(level)
+    level = _check_level(level)
     if level is not None:
         return list(_level(kind, level))
     return [item for lvl in levels for item in _level(kind, lvl)]
@@ -120,10 +126,14 @@ def _vocab_by_id() -> Dict[str, Vocab]:
 @lru_cache(maxsize=None)
 def _vocab_by_form() -> Dict[str, List[Vocab]]:
     index: Dict[str, List[Vocab]] = {}
-    for v in get_vocab():
-        for form in [v.word, *v.other_forms]:
+    vocab = get_vocab()
+    # Headwords first, so find_word("河") prefers the entry written 河 over one listing it as a variant.
+    for v in vocab:
+        index.setdefault(v.word, []).append(v)
+    for v in vocab:
+        for form in v.other_forms:
             bucket = index.setdefault(form, [])
-            if v not in bucket:
+            if all(x is not v for x in bucket):
                 bucket.append(v)
     return index
 
@@ -194,9 +204,14 @@ def get_grammar_by_id(id: str) -> Optional[Grammar]:
     return _grammar_by_id().get(id)
 
 
+_WAVE = "〜～~"  # U+301C, U+FF5E (Windows IMEs) and ASCII
+
+
 def find_grammar(pattern: str) -> List[Grammar]:
     """Grammar points whose pattern (or kana reading) contains ``pattern``; the leading 〜 is optional."""
-    p = pattern.lstrip("〜~")
+    p = pattern.strip().lstrip(_WAVE)
+    if not p:
+        return []
     return [g for g in get_grammar() if p in g.pattern or (g.reading is not None and p in g.reading)]
 
 
@@ -216,22 +231,25 @@ def search_vocab(query: str, level: Optional[Level] = None, limit: Optional[int]
     q = normalize(query)
     if not q:
         return []
-    word_re = re.compile(r"\b" + re.escape(q) + r"\b")
+    whole_word = re.compile(r"\b" + re.escape(q) + r"\b")
+    word_start = re.compile(r"\b" + re.escape(q))
     scored = []
     for v in get_vocab(level):
-        forms = [normalize(f) for f in (v.word, *v.other_forms, v.reading, *v.other_readings, v.romaji)]
+        # Romaji matches whole or as a prefix only: "eat" must not hit te-a-te (手当て).
+        forms = [normalize(f) for f in (v.word, *v.other_forms, v.reading, *v.other_readings)]
+        every = forms + [v.romaji]
         glosses = [m.lower() for m in v.meanings]
-        if q in forms:
+        if q in every:
             score = 100
         elif any(m == q or m == f"to {q}" for m in glosses):
             score = 90
-        elif any(f.startswith(q) for f in forms):
+        elif any(f.startswith(q) for f in every):
             score = 60
-        elif any(word_re.search(m) for m in glosses):
+        elif any(whole_word.search(m) for m in glosses):
             score = 50
         elif any(q in f for f in forms):
             score = 30
-        elif any(q in m for m in glosses):
+        elif any(word_start.search(m) for m in glosses):
             score = 20
         else:
             continue
@@ -243,7 +261,7 @@ def search_vocab(query: str, level: Optional[Level] = None, limit: Optional[int]
 
 def search_grammar(query: str, level: Optional[Level] = None, limit: Optional[int] = None) -> List[Grammar]:
     """Case-insensitive search across pattern, reading, romaji, meaning, formation and tags."""
-    q = normalize(query.lstrip("〜~"))
+    q = normalize(query.strip().lstrip(_WAVE))
     if not q:
         return []
     results = [
@@ -274,4 +292,4 @@ def sample(items: Sequence[T], n: int = 1, rng: Union[_random.Random, None] = No
 
     Pass ``rng=random.Random(seed)`` for reproducible draws.
     """
-    return (rng or _random).sample(list(items), min(n, len(items)))
+    return (rng or _random).sample(list(items), max(0, min(n, len(items))))
