@@ -3,9 +3,10 @@
  * versions, so apps can show attribution and check freshness.
  */
 import { join } from 'node:path';
-import { createReadStream, existsSync, readFileSync } from 'node:fs';
+import { createReadStream, existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { createGunzip } from 'node:zlib';
 import { CACHE_DIR, DATA_DIR, LEVELS, ROOT, writeJson } from './lib/util.ts';
+import { README_FILES, readReadme, withCounts } from './lib/readme-counts.ts';
 
 /** Decompress just the first `bytes` of a .gz file (enough for its header). */
 async function gzipHead(file: string, bytes = 256 * 1024): Promise<string> {
@@ -71,6 +72,16 @@ async function main() {
     },
   });
   console.log('Meta:', JSON.stringify(counts));
+
+  // Keep the counts quoted in the READMEs in step with the data.
+  for (const [file, lang] of README_FILES) {
+    const text = readReadme(file);
+    const next = withCounts(text, { counts, vocab_with_examples: sentences }, lang);
+    if (next !== text) {
+      writeFileSync(join(ROOT, file), next);
+      console.log(`Updated the counts in ${file}`);
+    }
+  }
 }
 
 main().catch((err) => {

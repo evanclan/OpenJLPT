@@ -80,7 +80,7 @@ img { max-width: 100%; }
   display: grid; place-items: center; width: 28px; height: 28px; border-radius: 50%;
   background: #e60012; color: #fff; font-family: var(--jp); font-size: 15px; line-height: 1;
 }
-.nav { display: flex; gap: 4px; margin-left: auto; overflow-x: auto; scrollbar-width: none; }
+.nav { display: flex; gap: 4px; margin-left: auto; overflow-x: auto; scrollbar-width: none; flex: 0 0 auto; }
 .nav a { color: var(--muted); padding: 6px 10px; border-radius: 8px; white-space: nowrap; font-size: 15px; }
 .nav a:hover, .nav a[aria-current='page'] { color: var(--text); background: var(--surface-2); text-decoration: none; }
 .gh-btn {
@@ -90,6 +90,7 @@ img { max-width: 100%; }
 .gh-btn:hover { text-decoration: none; border-color: var(--muted); }
 @media (max-width: 720px) {
   .gh-btn span { display: none; }
+  .nav { flex: 1 1 100%; }
   .site-header .wrap { flex-wrap: wrap; height: auto; padding-top: 8px; padding-bottom: 6px; row-gap: 4px; }
   .gh-btn { margin-left: auto; }
   .nav { order: 3; width: 100%; margin-left: -8px; }
@@ -160,7 +161,7 @@ h3 { font-size: 17px; margin: 20px 0 8px; }
 .examples .ja { line-height: 2.1; }
 .examples .ja ruby { ruby-align: center; }
 .examples .ja rt { font-size: 0.5em; color: var(--muted); letter-spacing: 0; }
-.no-furigana .examples rt { display: none; }
+.no-furigana .examples rt, .no-furigana .fc-back rt { display: none; }
 .no-furigana .examples .ja { line-height: inherit; }
 .reading { font-family: var(--jp); font-size: 22px; color: var(--muted); }
 .romaji { color: var(--muted); font-size: 16px; }
@@ -224,6 +225,9 @@ table.list td.r { font-family: var(--jp); color: var(--muted); white-space: nowr
 .btn.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
 .btn.primary:hover { filter: brightness(1.08); }
 .btn-row { display: flex; flex-wrap: wrap; gap: 10px; margin: 18px 0; }
+.btn-row.quick { margin: 14px 0 6px; }
+.btn-row.quick .btn { font-weight: 500; padding: 8px 14px; }
+.small { font-size: 14px; }
 .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
 .seg button { font: inherit; border: 0; background: var(--surface); color: var(--muted); padding: 8px 14px; cursor: pointer; }
 .seg button[aria-pressed='true'] { background: var(--text); color: var(--bg); }
@@ -264,11 +268,13 @@ textarea.analyze { width: 100%; min-height: 160px; font-family: var(--jp); font-
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
 /* Header search (every page except home) */
-.hsearch { flex: 0 1 240px; }
+.hsearch { flex: 1 1 200px; min-width: 0; max-width: 240px; }
 .hsearch input { width: 100%; font: inherit; font-size: 14px; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: var(--text); }
 .hsearch input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
 @media (max-width: 720px) { .hsearch { flex: 1 1 120px; } }
-@media (min-width: 721px) and (max-width: 980px) { .hsearch { display: none; } }
+@media (min-width: 721px) and (max-width: 1060px) { .hsearch { display: none; } }
+/* Keep every nav link visible: the GitHub button drops its label before the nav is squeezed. */
+@media (min-width: 721px) and (max-width: 1240px) { .gh-btn span { display: none; } }
 
 /* Level lists: tools, readings under words on small screens, self-test toggles */
 .list-tools { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; margin: 8px 0 16px; font-size: 15px; }

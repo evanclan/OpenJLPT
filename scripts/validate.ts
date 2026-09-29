@@ -8,6 +8,7 @@ import { readFileSync } from 'node:fs';
 import Ajv from 'ajv';
 import { DATA_DIR, LEVELS, ROOT } from './lib/util.ts';
 import { stripFurigana } from './lib/furigana.ts';
+import { README_FILES, readReadme, withCounts } from './lib/readme-counts.ts';
 
 const readJson = (p: string) => JSON.parse(readFileSync(p, 'utf8'));
 
@@ -78,6 +79,13 @@ function main() {
     for (const k of readJson(join(DATA_DIR, 'json', 'kanji', `${level.toLowerCase()}.json`))) {
       for (const w of k.words ?? []) if (!words.has(w)) fail(`kanji ${k.character}: linked word ${w} is not in vocab`);
     }
+  }
+
+  // The counts quoted in the READMEs must match the data (build-meta rewrites them).
+  const meta = readJson(join(DATA_DIR, 'json', 'meta.json'));
+  for (const [file, lang] of README_FILES) {
+    const text = readReadme(file);
+    if (withCounts(text, meta, lang) !== text) fail(`${file}: the dataset counts are out of date — run \`npm run build:meta\``);
   }
 
   if (errors) {

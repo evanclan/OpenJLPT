@@ -58,7 +58,7 @@ test('sentences that write the word in kanji are preferred', () => {
 
 test('examples carry furigana when every kanji can be read', () => {
   const readings: Record<string, string> = { 本: 'ほん', 読む: 'よむ' };
-  const withFurigana = new ExampleIndex(new Map([['本', 'N5'], ['読', 'N5']]), dir, { reading: (w) => readings[w] });
+  const withFurigana = new ExampleIndex(new Map([['本', 'N5'], ['読', 'N5']]), dir, { reading: (w) => readings[w], pos: (w) => (w === '読む' ? ['v5m'] : ['n']) });
   const ex = withFurigana.find({ forms: ['読む'], readings: ['よむ'], level: 'N5' }, 3);
   assert.equal(ex[0].furigana, '{彼|かれ}は{本|ほん}を{読|よ}んでいる。');
   // 毎日 has no known reading here, so that sentence stays without furigana.

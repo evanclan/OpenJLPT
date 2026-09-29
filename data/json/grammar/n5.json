@@ -9,14 +9,17 @@
     "examples": [
       {
         "ja": "私は学生です。",
+        "furigana": "{私|わたし}は{学生|がくせい}です。",
         "en": "I am a student."
       },
       {
         "ja": "今日は天気がいいです。",
+        "furigana": "{今日|きょう}は{天気|てんき}がいいです。",
         "en": "The weather is nice today."
       },
       {
         "ja": "この本はおもしろいです。",
+        "furigana": "この{本|ほん}はおもしろいです。",
         "en": "This book is interesting."
       }
     ],
@@ -36,14 +39,17 @@
     "examples": [
       {
         "ja": "雨が降っています。",
+        "furigana": "{雨|あめ}が{降|ふ}っています。",
         "en": "It is raining."
       },
       {
         "ja": "だれが窓を開けましたか。",
+        "furigana": "だれが{窓|まど}を{開|あ}けましたか。",
         "en": "Who opened the window?"
       },
       {
         "ja": "私が行きます。",
+        "furigana": "{私|わたし}が{行|い}きます。",
         "en": "I'll be the one to go."
       }
     ],
@@ -62,14 +68,17 @@
     "examples": [
       {
         "ja": "毎朝パンを食べます。",
+        "furigana": "{毎朝|まいあさ}パンを{食|た}べます。",
         "en": "I eat bread every morning."
       },
       {
         "ja": "姉は新しいかばんを買いました。",
+        "furigana": "{姉|あね}は{新|あたら}しいかばんを{買|か}いました。",
         "en": "My older sister bought a new bag."
       },
       {
         "ja": "公園を散歩しました。",
+        "furigana": "{公園|こうえん}を{散歩|さんぽ}しました。",
         "en": "I took a walk in the park."
       }
     ],
@@ -88,14 +97,17 @@
     "examples": [
       {
         "ja": "毎朝7時に起きます。",
+        "furigana": "{毎朝|まいあさ}7{時|じ}に{起|お}きます。",
         "en": "I get up at seven every morning."
       },
       {
         "ja": "日曜日に友達と会います。",
+        "furigana": "{日曜日|にちようび}に{友達|ともだち}と{会|あ}います。",
         "en": "I'm meeting a friend on Sunday."
       },
       {
         "ja": "8月に国へ帰ります。",
+        "furigana": "8{月|がつ}に{国|くに}へ{帰|かえ}ります。",
         "en": "I'm going back to my country in August."
       }
     ],
@@ -115,14 +127,17 @@
     "examples": [
       {
         "ja": "毎日バスで学校に行きます。",
+        "furigana": "{毎日|まいにち}バスで{学校|がっこう}に{行|い}きます。",
         "en": "I go to school by bus every day."
       },
       {
         "ja": "夜10時に家に帰りました。",
+        "furigana": "{夜|よる}10{時|じ}に{家|いえ}に{帰|かえ}りました。",
         "en": "I got home at 10 p.m."
       },
       {
         "ja": "来月、姉が日本に来ます。",
+        "furigana": "{来月|らいげつ}、{姉|あね}が{日本|にほん}に{来|き}ます。",
         "en": "My older sister is coming to Japan next month."
       }
     ],
@@ -141,14 +156,17 @@
     "examples": [
       {
         "ja": "机の上に辞書があります。",
+        "furigana": "{机|つくえ}の{上|うえ}に{辞書|じしょ}があります。",
         "en": "There is a dictionary on the desk."
       },
       {
         "ja": "姉は東京に住んでいます。",
+        "furigana": "{姉|あね}は{東京|とうきょう}に{住|す}んでいます。",
         "en": "My older sister lives in Tokyo."
       },
       {
         "ja": "猫は今どこにいますか。",
+        "furigana": "{猫|ねこ}は{今|いま}どこにいますか。",
         "en": "Where is the cat now?"
       }
     ],
@@ -167,14 +185,17 @@
     "examples": [
       {
         "ja": "母に手紙を書きます。",
+        "furigana": "{母|はは}に{手紙|てがみ}を{書|か}きます。",
         "en": "I'm going to write a letter to my mother."
       },
       {
         "ja": "妹に本を貸しました。",
+        "furigana": "{妹|いもうと}に{本|ほん}を{貸|か}しました。",
         "en": "I lent a book to my younger sister."
       },
       {
         "ja": "友達に電話をかけました。",
+        "furigana": "{友達|ともだち}に{電話|でんわ}をかけました。",
         "en": "I called my friend."
       }
     ],
@@ -193,14 +214,17 @@
     "examples": [
       {
         "ja": "一週間に二回、プールで泳ぎます。",
+        "furigana": "{一週間|いっしゅうかん}に{二|に}{回|かい}、プールで{泳|およ}ぎます。",
         "en": "I swim in the pool twice a week."
       },
       {
         "ja": "母は一日に二回、犬の散歩をします。",
+        "furigana": "{母|はは}は{一|いち}{日|にち}に{二|に}{回|かい}、{犬|いぬ}の{散歩|さんぽ}をします。",
         "en": "My mother walks the dog twice a day."
       },
       {
         "ja": "一年に一度、家族で旅行します。",
+        "furigana": "{一|いち}{年|ねん}に{一|いち}{度|ど}、{家族|かぞく}で{旅行|りょこう}します。",
         "en": "Once a year, my family goes on a trip."
       }
     ],
@@ -220,14 +244,17 @@
     "examples": [
       {
         "ja": "夏休みに北海道へ行きます。",
+        "furigana": "{夏休|なつやす}みに{北海道|ほっかいどう}へ{行|い}きます。",
         "en": "I'm going to Hokkaido during summer vacation."
       },
       {
         "ja": "来週、国へ帰ります。",
+        "furigana": "{来週|らいしゅう}、{国|くに}へ{帰|かえ}ります。",
         "en": "I'm going back to my home country next week."
       },
       {
         "ja": "どこへ行きますか。",
+        "furigana": "どこへ{行|い}きますか。",
         "en": "Where are you going?"
       }
     ],
@@ -246,14 +273,17 @@
     "examples": [
       {
         "ja": "図書館で本を読みます。",
+        "furigana": "{図書館|としょかん}で{本|ほん}を{読|よ}みます。",
         "en": "I read books at the library."
       },
       {
         "ja": "きのう、デパートでくつを買いました。",
+        "furigana": "きのう、デパートでくつを{買|か}いました。",
         "en": "Yesterday I bought shoes at the department store."
       },
       {
         "ja": "駅の前で友達を待ちました。",
+        "furigana": "{駅|えき}の{前|まえ}で{友達|ともだち}を{待|ま}ちました。",
         "en": "I waited for my friend in front of the station."
       }
     ],
@@ -272,14 +302,17 @@
     "examples": [
       {
         "ja": "毎日電車で会社へ行きます。",
+        "furigana": "{毎日|まいにち}{電車|でんしゃ}で{会社|かいしゃ}へ{行|い}きます。",
         "en": "I go to work by train every day."
       },
       {
         "ja": "はしでご飯を食べます。",
+        "furigana": "はしでご{飯|はん}を{食|た}べます。",
         "en": "I eat my meals with chopsticks."
       },
       {
         "ja": "日本語で手紙を書きました。",
+        "furigana": "{日本語|にほんご}で{手紙|てがみ}を{書|か}きました。",
         "en": "I wrote a letter in Japanese."
       }
     ],
@@ -299,14 +332,17 @@
     "examples": [
       {
         "ja": "かばんの中にペンとノートがあります。",
+        "furigana": "かばんの{中|なか}にペンとノートがあります。",
         "en": "There is a pen and a notebook in my bag."
       },
       {
         "ja": "朝ご飯にパンとたまごを食べました。",
+        "furigana": "{朝|あさ}ご{飯|はん}にパンとたまごを{食|た}べました。",
         "en": "I had bread and eggs for breakfast."
       },
       {
         "ja": "父と母は銀行で働いています。",
+        "furigana": "{父|ちち}と{母|はは}は{銀行|ぎんこう}で{働|はたら}いています。",
         "en": "My father and mother work at a bank."
       }
     ],
@@ -326,14 +362,17 @@
     "examples": [
       {
         "ja": "週末、友達と映画を見ました。",
+        "furigana": "{週末|しゅうまつ}、{友達|ともだち}と{映画|えいが}を{見|み}ました。",
         "en": "I saw a movie with a friend on the weekend."
       },
       {
         "ja": "妹といっしょに買い物に行きます。",
+        "furigana": "{妹|いもうと}といっしょに{買|か}い{物|もの}に{行|い}きます。",
         "en": "I'm going shopping with my younger sister."
       },
       {
         "ja": "だれと昼ご飯を食べましたか。",
+        "furigana": "だれと{昼|ひる}ご{飯|はん}を{食|た}べましたか。",
         "en": "Who did you have lunch with?"
       }
     ],
@@ -352,10 +391,12 @@
     "examples": [
       {
         "ja": "机の上に本や雑誌があります。",
+        "furigana": "{机|つくえ}の{上|うえ}に{本|ほん}や{雑誌|ざっし}があります。",
         "en": "On the desk there are books, magazines and so on."
       },
       {
         "ja": "スーパーで肉や野菜を買いました。",
+        "furigana": "スーパーで{肉|にく}や{野菜|やさい}を{買|か}いました。",
         "en": "I bought meat, vegetables and other things at the supermarket."
       }
     ],
@@ -375,14 +416,17 @@
     "examples": [
       {
         "ja": "飲み物はコーヒーか紅茶がいいです。",
+        "furigana": "{飲|の}み{物|もの}はコーヒーか{紅茶|こうちゃ}がいいです。",
         "en": "For a drink, coffee or tea would be good."
       },
       {
         "ja": "土曜日か日曜日に買い物に行きます。",
+        "furigana": "{土曜日|どようび}か{日曜日|にちようび}に{買|か}い{物|もの}に{行|い}きます。",
         "en": "I'll go shopping on Saturday or Sunday."
       },
       {
         "ja": "駅までバスかタクシーで行きます。",
+        "furigana": "{駅|えき}までバスかタクシーで{行|い}きます。",
         "en": "I'll go to the station by bus or taxi."
       }
     ],
@@ -401,14 +445,17 @@
     "examples": [
       {
         "ja": "私も学生です。",
+        "furigana": "{私|わたし}も{学生|がくせい}です。",
         "en": "I'm a student too."
       },
       {
         "ja": "兄はサッカーも好きです。",
+        "furigana": "{兄|あに}はサッカーも{好|す}きです。",
         "en": "My older brother likes soccer too."
       },
       {
         "ja": "肉も魚も食べません。",
+        "furigana": "{肉|にく}も{魚|さかな}も{食|た}べません。",
         "en": "I eat neither meat nor fish."
       }
     ],
@@ -428,14 +475,17 @@
     "examples": [
       {
         "ja": "これは私のかさです。",
+        "furigana": "これは{私|わたし}のかさです。",
         "en": "This is my umbrella."
       },
       {
         "ja": "日本語の先生はとてもやさしいです。",
+        "furigana": "{日本語|にほんご}の{先生|せんせい}はとてもやさしいです。",
         "en": "The Japanese teacher is very kind."
       },
       {
         "ja": "駅の近くに新しい店があります。",
+        "furigana": "{駅|えき}の{近|ちか}くに{新|あたら}しい{店|みせ}があります。",
         "en": "There is a new shop near the station."
       }
     ],
@@ -454,14 +504,17 @@
     "examples": [
       {
         "ja": "授業は9時からです。",
+        "furigana": "{授業|じゅぎょう}は9{時|じ}からです。",
         "en": "Class starts at nine."
       },
       {
         "ja": "学校から駅まで歩きます。",
+        "furigana": "{学校|がっこう}から{駅|えき}まで{歩|ある}きます。",
         "en": "I walk from school to the station."
       },
       {
         "ja": "私はブラジルから来ました。",
+        "furigana": "{私|わたし}はブラジルから{来|き}ました。",
         "en": "I'm from Brazil."
       }
     ],
@@ -482,14 +535,17 @@
     "examples": [
       {
         "ja": "昼休みは1時までです。",
+        "furigana": "{昼休|ひるやす}みは1{時|じ}までです。",
         "en": "Lunch break is until one o'clock."
       },
       {
         "ja": "駅までいっしょに行きましょう。",
+        "furigana": "{駅|えき}までいっしょに{行|い}きましょう。",
         "en": "Let's go together as far as the station."
       },
       {
         "ja": "きのうは夜11時まで勉強しました。",
+        "furigana": "きのうは{夜|よる}11{時|じ}まで{勉強|べんきょう}しました。",
         "en": "Yesterday I studied until 11 p.m."
       }
     ],
@@ -514,6 +570,7 @@
       },
       {
         "ja": "朝ご飯を食べましたか。",
+        "furigana": "{朝|あさ}ご{飯|はん}を{食|た}べましたか。",
         "en": "Did you eat breakfast?"
       },
       {
@@ -537,6 +594,7 @@
     "examples": [
       {
         "ja": "今日は暑いですね。",
+        "furigana": "{今日|きょう}は{暑|あつ}いですね。",
         "en": "It's hot today, isn't it?"
       },
       {
@@ -545,6 +603,7 @@
       },
       {
         "ja": "明日のテストは10時からですね。",
+        "furigana": "{明日|あした}のテストは10{時|じ}からですね。",
         "en": "Tomorrow's test starts at ten, right?"
       }
     ],
@@ -567,10 +626,12 @@
       },
       {
         "ja": "かさを忘れていますよ。",
+        "furigana": "かさを{忘|わす}れていますよ。",
         "en": "You're forgetting your umbrella."
       },
       {
         "ja": "明日はテストがありますよ。",
+        "furigana": "{明日|あした}はテストがありますよ。",
         "en": "There's a test tomorrow, you know."
       }
     ],
@@ -590,14 +651,17 @@
     "examples": [
       {
         "ja": "今日はきのうより寒いです。",
+        "furigana": "{今日|きょう}はきのうより{寒|さむ}いです。",
         "en": "Today is colder than yesterday."
       },
       {
         "ja": "電車はバスより速いです。",
+        "furigana": "{電車|でんしゃ}はバスより{速|はや}いです。",
         "en": "Trains are faster than buses."
       },
       {
         "ja": "兄は父より背が高いです。",
+        "furigana": "{兄|あに}は{父|ちち}より{背|せ}が{高|たか}いです。",
         "en": "My older brother is taller than my father."
       }
     ],
@@ -618,14 +682,17 @@
     "examples": [
       {
         "ja": "犬の方が猫より好きです。",
+        "furigana": "{犬|いぬ}の{方|ほう}が{猫|ねこ}より{好|す}きです。",
         "en": "I like dogs more than cats."
       },
       {
         "ja": "東京の方が大阪より人が多いです。",
+        "furigana": "{東京|とうきょう}の{方|ほう}が{大阪|おおさか}より{人|ひと}が{多|おお}いです。",
         "en": "Tokyo has more people than Osaka."
       },
       {
         "ja": "夏より冬の方が好きです。",
+        "furigana": "{夏|なつ}より{冬|ふゆ}の{方|ほう}が{好|す}きです。",
         "en": "I like winter better than summer."
       }
     ],
@@ -644,14 +711,17 @@
     "examples": [
       {
         "ja": "コーヒーと紅茶とどちらが好きですか。",
+        "furigana": "コーヒーと{紅茶|こうちゃ}とどちらが{好|す}きですか。",
         "en": "Which do you like better, coffee or tea?"
       },
       {
         "ja": "電車とバスとどちらが安いですか。",
+        "furigana": "{電車|でんしゃ}とバスとどちらが{安|やす}いですか。",
         "en": "Which is cheaper, the train or the bus?"
       },
       {
         "ja": "「山と海とどちらがいいですか。」「海の方がいいです。」",
+        "furigana": "「{山|やま}と{海|うみ}とどちらがいいですか。」「{海|うみ}の{方|ほう}がいいです。」",
         "en": "\"Which is better, the mountains or the sea?\" \"The sea is better.\""
       }
     ],
@@ -672,14 +742,17 @@
     "examples": [
       {
         "ja": "果物の中でりんごが一番好きです。",
+        "furigana": "{果物|くだもの}の{中|なか}でりんごが{一番|いちばん}{好|す}きです。",
         "en": "Of all fruits, I like apples the most."
       },
       {
         "ja": "クラスの中でだれが一番背が高いですか。",
+        "furigana": "クラスの{中|なか}でだれが{一番|いちばん}{背|せ}が{高|たか}いですか。",
         "en": "Who is the tallest in the class?"
       },
       {
         "ja": "家族の中で父が一番早く起きます。",
+        "furigana": "{家族|かぞく}の{中|なか}で{父|ちち}が{一番|いちばん}{早|はや}く{起|お}きます。",
         "en": "In my family, my father gets up the earliest."
       }
     ],
@@ -699,14 +772,17 @@
     "examples": [
       {
         "ja": "私はマリアです。",
+        "furigana": "{私|わたし}はマリアです。",
         "en": "I'm Maria."
       },
       {
         "ja": "今日は月曜日です。",
+        "furigana": "{今日|きょう}は{月曜日|げつようび}です。",
         "en": "Today is Monday."
       },
       {
         "ja": "この部屋はとても静かです。",
+        "furigana": "この{部屋|へや}はとても{静|しず}かです。",
         "en": "This room is very quiet."
       }
     ],
@@ -726,14 +802,17 @@
     "examples": [
       {
         "ja": "今日は日曜日だ。",
+        "furigana": "{今日|きょう}は{日曜日|にちようび}だ。",
         "en": "Today is Sunday."
       },
       {
         "ja": "あの人は私の兄だ。",
+        "furigana": "あの{人|ひと}は{私|わたし}の{兄|あに}だ。",
         "en": "That person is my older brother."
       },
       {
         "ja": "明日は休みだから、ゆっくり寝る。",
+        "furigana": "{明日|あした}は{休|やす}みだから、ゆっくり{寝|ね}る。",
         "en": "Tomorrow is a day off, so I'll sleep in."
       }
     ],
@@ -753,14 +832,17 @@
     "examples": [
       {
         "ja": "私は先生ではありません。学生です。",
+        "furigana": "{私|わたし}は{先生|せんせい}ではありません。{学生|がくせい}です。",
         "en": "I'm not a teacher. I'm a student."
       },
       {
         "ja": "今日は休みじゃない。",
+        "furigana": "{今日|きょう}は{休|やす}みじゃない。",
         "en": "Today isn't a day off."
       },
       {
         "ja": "この町はあまりにぎやかではありません。",
+        "furigana": "この{町|まち}はあまりにぎやかではありません。",
         "en": "This town isn't very lively."
       }
     ],
@@ -780,10 +862,12 @@
     "examples": [
       {
         "ja": "きのうは私の誕生日でした。",
+        "furigana": "きのうは{私|わたし}の{誕生|たんじょう}{日|び}でした。",
         "en": "Yesterday was my birthday."
       },
       {
         "ja": "子どものころ、野菜がきらいでした。",
+        "furigana": "{子|こ}どものころ、{野菜|やさい}がきらいでした。",
         "en": "When I was a child, I didn't like vegetables."
       },
       {
@@ -808,14 +892,17 @@
     "examples": [
       {
         "ja": "毎朝コーヒーを飲みます。",
+        "furigana": "{毎朝|まいあさ}コーヒーを{飲|の}みます。",
         "en": "I drink coffee every morning."
       },
       {
         "ja": "明日、京都へ行きます。",
+        "furigana": "{明日|あした}、{京都|きょうと}へ{行|い}きます。",
         "en": "I'm going to Kyoto tomorrow."
       },
       {
         "ja": "弟は毎晩9時に寝ます。",
+        "furigana": "{弟|おとうと}は{毎晩|まいばん}9{時|じ}に{寝|ね}ます。",
         "en": "My younger brother goes to bed at nine every night."
       }
     ],
@@ -835,14 +922,17 @@
     "examples": [
       {
         "ja": "私はお酒を飲みません。",
+        "furigana": "{私|わたし}はお{酒|さけ}を{飲|の}みません。",
         "en": "I don't drink alcohol."
       },
       {
         "ja": "日曜日は学校へ行きません。",
+        "furigana": "{日曜日|にちようび}は{学校|がっこう}へ{行|い}きません。",
         "en": "I don't go to school on Sundays."
       },
       {
         "ja": "今晩はテレビを見ません。",
+        "furigana": "{今晩|こんばん}はテレビを{見|み}ません。",
         "en": "I won't watch TV tonight."
       }
     ],
@@ -863,14 +953,17 @@
     "examples": [
       {
         "ja": "きのう、友達に会いました。",
+        "furigana": "きのう、{友達|ともだち}に{会|あ}いました。",
         "en": "I met a friend yesterday."
       },
       {
         "ja": "先週、新しいくつを買いました。",
+        "furigana": "{先週|せんしゅう}、{新|あたら}しいくつを{買|か}いました。",
         "en": "I bought new shoes last week."
       },
       {
         "ja": "けさ、6時に起きました。",
+        "furigana": "けさ、6{時|じ}に{起|お}きました。",
         "en": "I got up at six this morning."
       }
     ],
@@ -891,14 +984,17 @@
     "examples": [
       {
         "ja": "けさは朝ご飯を食べませんでした。",
+        "furigana": "けさは{朝|あさ}ご{飯|はん}を{食|た}べませんでした。",
         "en": "I didn't eat breakfast this morning."
       },
       {
         "ja": "週末は宿題をしませんでした。",
+        "furigana": "{週末|しゅうまつ}は{宿題|しゅくだい}をしませんでした。",
         "en": "I didn't do my homework over the weekend."
       },
       {
         "ja": "きのうは雨でしたから、出かけませんでした。",
+        "furigana": "きのうは{雨|あめ}でしたから、{出|で}かけませんでした。",
         "en": "It rained yesterday, so I didn't go out."
       }
     ],
@@ -919,14 +1015,17 @@
     "examples": [
       {
         "ja": "今日は学校へ行かない。",
+        "furigana": "{今日|きょう}は{学校|がっこう}へ{行|い}かない。",
         "en": "I'm not going to school today."
       },
       {
         "ja": "兄は肉を食べない。",
+        "furigana": "{兄|あに}は{肉|にく}を{食|た}べない。",
         "en": "My older brother doesn't eat meat."
       },
       {
         "ja": "「コーヒー、飲む？」「ううん、飲まない。」",
+        "furigana": "「コーヒー、{飲|の}む？」「ううん、{飲|の}まない。」",
         "en": "\"Are you having coffee?\" \"No, I'm not.\""
       }
     ],
@@ -947,14 +1046,17 @@
     "examples": [
       {
         "ja": "週末は家で映画を見た。",
+        "furigana": "{週末|しゅうまつ}は{家|いえ}で{映画|えいが}を{見|み}た。",
         "en": "I watched a movie at home over the weekend."
       },
       {
         "ja": "駅で先生に会った。",
+        "furigana": "{駅|えき}で{先生|せんせい}に{会|あ}った。",
         "en": "I ran into my teacher at the station."
       },
       {
         "ja": "「昼ご飯、食べた？」「うん、もう食べた。」",
+        "furigana": "「{昼|ひる}ご{飯|はん}、{食|た}べた？」「うん、もう{食|た}べた。」",
         "en": "\"Did you eat lunch?\" \"Yeah, I already ate.\""
       }
     ],
@@ -975,14 +1077,17 @@
     "examples": [
       {
         "ja": "いっしょに行きましょう。",
+        "furigana": "いっしょに{行|い}きましょう。",
         "en": "Let's go together."
       },
       {
         "ja": "少し休みましょう。",
+        "furigana": "{少|すこ}し{休|やす}みましょう。",
         "en": "Let's take a short break."
       },
       {
         "ja": "駅の前で会いましょう。",
+        "furigana": "{駅|えき}の{前|まえ}で{会|あ}いましょう。",
         "en": "Let's meet in front of the station."
       }
     ],
@@ -1002,14 +1107,17 @@
     "examples": [
       {
         "ja": "窓を開けましょうか。",
+        "furigana": "{窓|まど}を{開|あ}けましょうか。",
         "en": "Shall I open the window?"
       },
       {
         "ja": "荷物を持ちましょうか。",
+        "furigana": "{荷物|にもつ}を{持|も}ちましょうか。",
         "en": "Shall I carry your bags?"
       },
       {
         "ja": "何時に会いましょうか。",
+        "furigana": "{何|なん}{時|じ}に{会|あ}いましょうか。",
         "en": "What time shall we meet?"
       }
     ],
@@ -1029,14 +1137,17 @@
     "examples": [
       {
         "ja": "いっしょに昼ご飯を食べませんか。",
+        "furigana": "いっしょに{昼|ひる}ご{飯|はん}を{食|た}べませんか。",
         "en": "Would you like to have lunch together?"
       },
       {
         "ja": "日曜日にテニスをしませんか。",
+        "furigana": "{日曜日|にちようび}にテニスをしませんか。",
         "en": "Would you like to play tennis on Sunday?"
       },
       {
         "ja": "明日、公園を散歩しませんか。",
+        "furigana": "{明日|あした}、{公園|こうえん}を{散歩|さんぽ}しませんか。",
         "en": "How about a walk in the park tomorrow?"
       }
     ],
@@ -1055,14 +1166,17 @@
     "examples": [
       {
         "ja": "夏休みに沖縄へ行きたいです。",
+        "furigana": "{夏休|なつやす}みに{沖縄|おきなわ}へ{行|い}きたいです。",
         "en": "I want to go to Okinawa during summer vacation."
       },
       {
         "ja": "冷たい水が飲みたいです。",
+        "furigana": "{冷|つめ}たい{水|みず}が{飲|の}みたいです。",
         "en": "I want to drink some cold water."
       },
       {
         "ja": "何が食べたいですか。",
+        "furigana": "{何|なに}が{食|た}べたいですか。",
         "en": "What do you want to eat?"
       }
     ],
@@ -1081,14 +1195,17 @@
     "examples": [
       {
         "ja": "新しいパソコンがほしいです。",
+        "furigana": "{新|あたら}しいパソコンがほしいです。",
         "en": "I want a new computer."
       },
       {
         "ja": "誕生日に何がほしいですか。",
+        "furigana": "{誕生|たんじょう}{日|び}に{何|なに}がほしいですか。",
         "en": "What do you want for your birthday?"
       },
       {
         "ja": "今は何もほしくないです。",
+        "furigana": "{今|いま}は{何|なに}もほしくないです。",
         "en": "I don't want anything right now."
       }
     ],
@@ -1107,10 +1224,12 @@
     "examples": [
       {
         "ja": "すみません、水をください。",
+        "furigana": "すみません、{水|みず}をください。",
         "en": "Excuse me, could I have some water?"
       },
       {
         "ja": "このりんごを三つください。",
+        "furigana": "このりんごを{三|みっ}つください。",
         "en": "I'll take three of these apples, please."
       },
       {
@@ -1133,6 +1252,7 @@
     "examples": [
       {
         "ja": "もう少しゆっくり話してください。",
+        "furigana": "もう{少|すこ}しゆっくり{話|はな}してください。",
         "en": "Please speak a little more slowly."
       },
       {
@@ -1141,6 +1261,7 @@
       },
       {
         "ja": "すみません、駅までの道を教えてください。",
+        "furigana": "すみません、{駅|えき}までの{道|みち}を{教|おし}えてください。",
         "en": "Excuse me, could you tell me the way to the station?"
       }
     ],
@@ -1160,14 +1281,17 @@
     "examples": [
       {
         "ja": "教室で食べないでください。",
+        "furigana": "{教室|きょうしつ}で{食|た}べないでください。",
         "en": "Please don't eat in the classroom."
       },
       {
         "ja": "この部屋に入らないでください。",
+        "furigana": "この{部屋|へや}に{入|はい}らないでください。",
         "en": "Please don't go into this room."
       },
       {
         "ja": "心配しないでください。",
+        "furigana": "{心配|しんぱい}しないでください。",
         "en": "Please don't worry."
       }
     ],
@@ -1187,10 +1311,12 @@
     "examples": [
       {
         "ja": "この辞書を使ってもいいですか。",
+        "furigana": "この{辞書|じしょ}を{使|つか}ってもいいですか。",
         "en": "May I use this dictionary?"
       },
       {
         "ja": "今日は早く帰ってもいいです。",
+        "furigana": "{今日|きょう}は{早|はや}く{帰|かえ}ってもいいです。",
         "en": "You may go home early today."
       },
       {
@@ -1213,14 +1339,17 @@
     "examples": [
       {
         "ja": "図書館で大きい声で話してはいけません。",
+        "furigana": "{図書館|としょかん}で{大|おお}きい{声|こえ}で{話|はな}してはいけません。",
         "en": "You must not talk loudly in the library."
       },
       {
         "ja": "子どもはこの川で泳いではいけません。",
+        "furigana": "{子|こ}どもはこの{川|かわ}で{泳|およ}いではいけません。",
         "en": "Children must not swim in this river."
       },
       {
         "ja": "ここでたばこを吸ってはいけません。",
+        "furigana": "ここでたばこを{吸|す}ってはいけません。",
         "en": "You must not smoke here."
       }
     ],
@@ -1239,14 +1368,17 @@
     "examples": [
       {
         "ja": "明日は6時に起きなければなりません。",
+        "furigana": "{明日|あした}は6{時|じ}に{起|お}きなければなりません。",
         "en": "I have to get up at six tomorrow."
       },
       {
         "ja": "今日は早く家に帰らなくてはいけません。",
+        "furigana": "{今日|きょう}は{早|はや}く{家|いえ}に{帰|かえ}らなくてはいけません。",
         "en": "I have to go home early today."
       },
       {
         "ja": "日本では、家に入る前にくつをぬがなければなりません。",
+        "furigana": "{日本|にほん}では、{家|いえ}に{入|はい}る{前|まえ}にくつをぬがなければなりません。",
         "en": "In Japan, you have to take off your shoes before going into a house."
       }
     ],
@@ -1265,14 +1397,17 @@
     "examples": [
       {
         "ja": "明日は学校へ来なくてもいいです。",
+        "furigana": "{明日|あした}は{学校|がっこう}へ{来|こ}なくてもいいです。",
         "en": "You don't have to come to school tomorrow."
       },
       {
         "ja": "名前は書かなくてもいいです。",
+        "furigana": "{名前|なまえ}は{書|か}かなくてもいいです。",
         "en": "You don't need to write your name."
       },
       {
         "ja": "今日は料理をしなくてもいいですよ。",
+        "furigana": "{今日|きょう}は{料理|りょうり}をしなくてもいいですよ。",
         "en": "You don't have to cook today."
       }
     ],
@@ -1292,14 +1427,17 @@
     "examples": [
       {
         "ja": "弟は今、部屋でゲームをしています。",
+        "furigana": "{弟|おとうと}は{今|いま}、{部屋|へや}でゲームをしています。",
         "en": "My younger brother is playing a game in his room now."
       },
       {
         "ja": "姉は結婚しています。",
+        "furigana": "{姉|あね}は{結婚|けっこん}しています。",
         "en": "My older sister is married."
       },
       {
         "ja": "窓が開いています。",
+        "furigana": "{窓|まど}が{開|あ}いています。",
         "en": "The window is open."
       }
     ],
@@ -1318,14 +1456,17 @@
     "examples": [
       {
         "ja": "朝起きて、顔を洗います。",
+        "furigana": "{朝|あさ}{起|お}きて、{顔|かお}を{洗|あら}います。",
         "en": "I get up in the morning and wash my face."
       },
       {
         "ja": "デパートへ行って、セーターを買いました。",
+        "furigana": "デパートへ{行|い}って、セーターを{買|か}いました。",
         "en": "I went to the department store and bought a sweater."
       },
       {
         "ja": "家に帰って、晩ご飯を食べて、寝ました。",
+        "furigana": "{家|いえ}に{帰|かえ}って、{晩|ばん}ご{飯|はん}を{食|た}べて、{寝|ね}ました。",
         "en": "I went home, ate dinner and went to bed."
       }
     ],
@@ -1344,14 +1485,17 @@
     "examples": [
       {
         "ja": "手を洗ってから、ご飯を食べましょう。",
+        "furigana": "{手|て}を{洗|あら}ってから、ご{飯|はん}を{食|た}べましょう。",
         "en": "Let's wash our hands and then eat."
       },
       {
         "ja": "宿題をしてから、テレビを見ます。",
+        "furigana": "{宿題|しゅくだい}をしてから、テレビを{見|み}ます。",
         "en": "I'll watch TV after I do my homework."
       },
       {
         "ja": "日本に来てから、毎日日本語を勉強しています。",
+        "furigana": "{日本|にほん}に{来|き}てから、{毎日|まいにち}{日本語|にほんご}を{勉強|べんきょう}しています。",
         "en": "Since coming to Japan, I've been studying Japanese every day."
       }
     ],
@@ -1371,14 +1515,17 @@
     "examples": [
       {
         "ja": "日曜日はそうじをしたり、洗濯をしたりします。",
+        "furigana": "{日曜日|にちようび}はそうじをしたり、{洗濯|せんたく}をしたりします。",
         "en": "On Sundays I do things like cleaning and laundry."
       },
       {
         "ja": "休みの日は本を読んだり、音楽を聞いたりします。",
+        "furigana": "{休|やす}みの{日|ひ}は{本|ほん}を{読|よ}んだり、{音楽|おんがく}を{聞|き}いたりします。",
         "en": "On my days off I read books, listen to music and so on."
       },
       {
         "ja": "夏休みは海で泳いだり、山に登ったりしました。",
+        "furigana": "{夏休|なつやす}みは{海|うみ}で{泳|およ}いだり、{山|やま}に{登|のぼ}ったりしました。",
         "en": "During summer vacation I swam in the sea, climbed mountains and so on."
       }
     ],
@@ -1397,14 +1544,17 @@
     "examples": [
       {
         "ja": "富士山に登ったことがあります。",
+        "furigana": "{富士山|ふじさん}に{登|のぼ}ったことがあります。",
         "en": "I have climbed Mt. Fuji."
       },
       {
         "ja": "日本の映画を見たことがありますか。",
+        "furigana": "{日本|にほん}の{映画|えいが}を{見|み}たことがありますか。",
         "en": "Have you ever seen a Japanese movie?"
       },
       {
         "ja": "私は馬に乗ったことがありません。",
+        "furigana": "{私|わたし}は{馬|うま}に{乗|の}ったことがありません。",
         "en": "I have never ridden a horse."
       }
     ],
@@ -1424,14 +1574,17 @@
     "examples": [
       {
         "ja": "寝る前に歯をみがきます。",
+        "furigana": "{寝|ね}る{前|まえ}に{歯|は}をみがきます。",
         "en": "I brush my teeth before going to bed."
       },
       {
         "ja": "授業の前にコーヒーを飲みます。",
+        "furigana": "{授業|じゅぎょう}の{前|まえ}にコーヒーを{飲|の}みます。",
         "en": "I drink coffee before class."
       },
       {
         "ja": "3年前に日本へ来ました。",
+        "furigana": "3{年|ねん}{前|まえ}に{日本|にほん}へ{来|き}ました。",
         "en": "I came to Japan three years ago."
       }
     ],
@@ -1452,14 +1605,17 @@
     "examples": [
       {
         "ja": "晩ご飯を食べた後で、散歩をします。",
+        "furigana": "{晩|ばん}ご{飯|はん}を{食|た}べた{後|あと}で、{散歩|さんぽ}をします。",
         "en": "I take a walk after eating dinner."
       },
       {
         "ja": "仕事の後で、いっしょに飲みに行きませんか。",
+        "furigana": "{仕事|しごと}の{後|あと}で、いっしょに{飲|の}みに{行|い}きませんか。",
         "en": "Would you like to go for a drink after work?"
       },
       {
         "ja": "テストが終わった後で、友達と遊びました。",
+        "furigana": "テストが{終|お}わった{後|あと}で、{友達|ともだち}と{遊|あそ}びました。",
         "en": "After the test was over, I hung out with friends."
       }
     ],
@@ -1479,14 +1635,17 @@
     "examples": [
       {
         "ja": "音楽を聞きながら勉強します。",
+        "furigana": "{音楽|おんがく}を{聞|き}きながら{勉強|べんきょう}します。",
         "en": "I study while listening to music."
       },
       {
         "ja": "父はいつも新聞を読みながら朝ご飯を食べます。",
+        "furigana": "{父|ちち}はいつも{新聞|しんぶん}を{読|よ}みながら{朝|あさ}ご{飯|はん}を{食|た}べます。",
         "en": "My father always eats breakfast while reading the newspaper."
       },
       {
         "ja": "コーヒーを飲みながら話しましょう。",
+        "furigana": "コーヒーを{飲|の}みながら{話|はな}しましょう。",
         "en": "Let's talk over coffee."
       }
     ],
@@ -1506,14 +1665,17 @@
     "examples": [
       {
         "ja": "デパートへ服を買いに行きます。",
+        "furigana": "デパートへ{服|ふく}を{買|か}いに{行|い}きます。",
         "en": "I'm going to the department store to buy clothes."
       },
       {
         "ja": "週末、海へ泳ぎに行きました。",
+        "furigana": "{週末|しゅうまつ}、{海|うみ}へ{泳|およ}ぎに{行|い}きました。",
         "en": "I went to the beach to swim on the weekend."
       },
       {
         "ja": "友達がうちへ遊びに来ました。",
+        "furigana": "{友達|ともだち}がうちへ{遊|あそ}びに{来|き}ました。",
         "en": "A friend came over to my place to hang out."
       }
     ],
@@ -1533,14 +1695,17 @@
     "examples": [
       {
         "ja": "私は甘いものが好きです。",
+        "furigana": "{私|わたし}は{甘|あま}いものが{好|す}きです。",
         "en": "I like sweet things."
       },
       {
         "ja": "弟は野菜が嫌いです。",
+        "furigana": "{弟|おとうと}は{野菜|やさい}が{嫌|きら}いです。",
         "en": "My younger brother doesn't like vegetables."
       },
       {
         "ja": "母は料理をするのが好きです。",
+        "furigana": "{母|はは}は{料理|りょうり}をするのが{好|す}きです。",
         "en": "My mother likes cooking."
       }
     ],
@@ -1560,14 +1725,17 @@
     "examples": [
       {
         "ja": "姉はピアノが上手です。",
+        "furigana": "{姉|あね}はピアノが{上手|じょうず}です。",
         "en": "My older sister is good at the piano."
       },
       {
         "ja": "私は歌が下手です。",
+        "furigana": "{私|わたし}は{歌|うた}が{下手|へた}です。",
         "en": "I'm bad at singing."
       },
       {
         "ja": "マイクさんは日本語が上手ですね。",
+        "furigana": "マイクさんは{日本語|にほんご}が{上手|じょうず}ですね。",
         "en": "Mike, your Japanese is really good."
       }
     ],
@@ -1586,14 +1754,17 @@
     "examples": [
       {
         "ja": "公園に大きい木があります。",
+        "furigana": "{公園|こうえん}に{大|おお}きい{木|き}があります。",
         "en": "There is a big tree in the park."
       },
       {
         "ja": "私は妹が一人います。",
+        "furigana": "{私|わたし}は{妹|いもうと}が{一人|ひとり}います。",
         "en": "I have one younger sister."
       },
       {
         "ja": "明日、日本語のテストがあります。",
+        "furigana": "{明日|あした}、{日本語|にほんご}のテストがあります。",
         "en": "There's a Japanese test tomorrow."
       }
     ],
@@ -1612,14 +1783,17 @@
     "examples": [
       {
         "ja": "今日は寒いから、コートを着ます。",
+        "furigana": "{今日|きょう}は{寒|さむ}いから、コートを{着|き}ます。",
         "en": "It's cold today, so I'll wear a coat."
       },
       {
         "ja": "時間がありませんから、タクシーで行きましょう。",
+        "furigana": "{時間|じかん}がありませんから、タクシーで{行|い}きましょう。",
         "en": "We don't have time, so let's take a taxi."
       },
       {
         "ja": "「どうして休みましたか。」「頭が痛かったからです。」",
+        "furigana": "「どうして{休|やす}みましたか。」「{頭|あたま}が{痛|いた}かったからです。」",
         "en": "\"Why were you absent?\" \"Because I had a headache.\""
       }
     ],
@@ -1638,14 +1812,17 @@
     "examples": [
       {
         "ja": "この店は安いですが、あまりおいしくないです。",
+        "furigana": "この{店|みせ}は{安|やす}いですが、あまりおいしくないです。",
         "en": "This restaurant is cheap, but the food isn't very good."
       },
       {
         "ja": "日本語は難しいですが、おもしろいです。",
+        "furigana": "{日本語|にほんご}は{難|むずか}しいですが、おもしろいです。",
         "en": "Japanese is difficult, but interesting."
       },
       {
         "ja": "すみませんが、ちょっと静かにしてください。",
+        "furigana": "すみませんが、ちょっと{静|しず}かにしてください。",
         "en": "Excuse me, but please be a little quieter."
       }
     ],
@@ -1665,10 +1842,12 @@
     "examples": [
       {
         "ja": "明日は雨が降るでしょう。",
+        "furigana": "{明日|あした}は{雨|あめ}が{降|ふ}るでしょう。",
         "en": "It will probably rain tomorrow."
       },
       {
         "ja": "山の上は寒いでしょう。",
+        "furigana": "{山|やま}の{上|うえ}は{寒|さむ}いでしょう。",
         "en": "It's probably cold at the top of the mountain."
       },
       {
@@ -1695,10 +1874,12 @@
       },
       {
         "ja": "部屋がきれいになりました。",
+        "furigana": "{部屋|へや}がきれいになりました。",
         "en": "The room has become clean."
       },
       {
         "ja": "兄は来年、医者になります。",
+        "furigana": "{兄|あに}は{来年|らいねん}、{医者|いしゃ}になります。",
         "en": "My older brother will become a doctor next year."
       }
     ],
@@ -1717,14 +1898,17 @@
     "examples": [
       {
         "ja": "私はカレーにします。",
+        "furigana": "{私|わたし}はカレーにします。",
         "en": "I'll have the curry."
       },
       {
         "ja": "飲み物は何にしますか。",
+        "furigana": "{飲|の}み{物|もの}は{何|なに}にしますか。",
         "en": "What would you like to drink?"
       },
       {
         "ja": "旅行は来月にしましょう。",
+        "furigana": "{旅行|りょこう}は{来月|らいげつ}にしましょう。",
         "en": "Let's plan the trip for next month."
       }
     ],
@@ -1743,14 +1927,17 @@
     "examples": [
       {
         "ja": "まだ昼ご飯を食べていません。",
+        "furigana": "まだ{昼|ひる}ご{飯|はん}を{食|た}べていません。",
         "en": "I haven't eaten lunch yet."
       },
       {
         "ja": "「宿題はもうしましたか。」「いいえ、まだしていません。」",
+        "furigana": "「{宿題|しゅくだい}はもうしましたか。」「いいえ、まだしていません。」",
         "en": "\"Have you done your homework yet?\" \"No, not yet.\""
       },
       {
         "ja": "電車はまだ来ていません。",
+        "furigana": "{電車|でんしゃ}はまだ{来|き}ていません。",
         "en": "The train hasn't come yet."
       }
     ],
@@ -1770,14 +1957,17 @@
     "examples": [
       {
         "ja": "「もう晩ご飯を食べましたか。」「はい、もう食べました。」",
+        "furigana": "「もう{晩|ばん}ご{飯|はん}を{食|た}べましたか。」「はい、もう{食|た}べました。」",
         "en": "\"Have you eaten dinner yet?\" \"Yes, I already have.\""
       },
       {
         "ja": "妹はもう寝ました。",
+        "furigana": "{妹|いもうと}はもう{寝|ね}ました。",
         "en": "My younger sister has already gone to bed."
       },
       {
         "ja": "映画はもう始まりましたよ。",
+        "furigana": "{映画|えいが}はもう{始|はじ}まりましたよ。",
         "en": "The movie has already started."
       }
     ],
@@ -1797,14 +1987,17 @@
     "examples": [
       {
         "ja": "私はあまりテレビを見ません。",
+        "furigana": "{私|わたし}はあまりテレビを{見|み}ません。",
         "en": "I don't watch much TV."
       },
       {
         "ja": "このりんごはあまり甘くないです。",
+        "furigana": "このりんごはあまり{甘|あま}くないです。",
         "en": "This apple isn't very sweet."
       },
       {
         "ja": "今日はあまり忙しくありません。",
+        "furigana": "{今日|きょう}はあまり{忙|いそが}しくありません。",
         "en": "I'm not very busy today."
       }
     ],
@@ -1825,14 +2018,17 @@
     "examples": [
       {
         "ja": "この問題は全然わかりません。",
+        "furigana": "この{問題|もんだい}は{全然|ぜんぜん}わかりません。",
         "en": "I don't understand this question at all."
       },
       {
         "ja": "今日は全然寒くないです。",
+        "furigana": "{今日|きょう}は{全然|ぜんぜん}{寒|さむ}くないです。",
         "en": "It's not cold at all today."
       },
       {
         "ja": "弟は全然勉強しません。",
+        "furigana": "{弟|おとうと}は{全然|ぜんぜん}{勉強|べんきょう}しません。",
         "en": "My younger brother doesn't study at all."
       }
     ],
@@ -1852,14 +2048,17 @@
     "examples": [
       {
         "ja": "財布に100円だけあります。",
+        "furigana": "{財布|さいふ}に100{円|えん}だけあります。",
         "en": "I only have 100 yen in my wallet."
       },
       {
         "ja": "朝はコーヒーだけ飲みます。",
+        "furigana": "{朝|あさ}はコーヒーだけ{飲|の}みます。",
         "en": "In the morning I only have coffee."
       },
       {
         "ja": "日曜日だけ休みです。",
+        "furigana": "{日曜日|にちようび}だけ{休|やす}みです。",
         "en": "Sunday is my only day off."
       }
     ],
@@ -1878,14 +2077,17 @@
     "examples": [
       {
         "ja": "駅まで歩いて10分ぐらいです。",
+        "furigana": "{駅|えき}まで{歩|ある}いて10{分|ぷん}ぐらいです。",
         "en": "It's about a ten-minute walk to the station."
       },
       {
         "ja": "毎日2時間くらい勉強します。",
+        "furigana": "{毎日|まいにち}2{時間|じかん}くらい{勉強|べんきょう}します。",
         "en": "I study for about two hours every day."
       },
       {
         "ja": "このかばんは5000円ぐらいでした。",
+        "furigana": "このかばんは5000{円|えん}ぐらいでした。",
         "en": "This bag was about 5,000 yen."
       }
     ],
@@ -1905,14 +2107,17 @@
     "examples": [
       {
         "ja": "毎晩11時ごろ寝ます。",
+        "furigana": "{毎晩|まいばん}11{時|じ}ごろ{寝|ね}ます。",
         "en": "I go to bed around eleven every night."
       },
       {
         "ja": "4月ごろ、桜が咲きます。",
+        "furigana": "4{月|がつ}ごろ、{桜|さくら}が{咲|さ}きます。",
         "en": "The cherry blossoms bloom around April."
       },
       {
         "ja": "夕方6時ごろに家に帰ります。",
+        "furigana": "{夕方|ゆうがた}6{時|じ}ごろに{家|いえ}に{帰|かえ}ります。",
         "en": "I get home around six in the evening."
       }
     ],
@@ -1932,14 +2137,17 @@
     "examples": [
       {
         "ja": "けさは何も食べませんでした。",
+        "furigana": "けさは{何|なに}も{食|た}べませんでした。",
         "en": "I didn't eat anything this morning."
       },
       {
         "ja": "教室にはだれもいません。",
+        "furigana": "{教室|きょうしつ}にはだれもいません。",
         "en": "There's nobody in the classroom."
       },
       {
         "ja": "冷蔵庫の中には何もありません。",
+        "furigana": "{冷蔵庫|れいぞうこ}の{中|なか}には{何|なに}もありません。",
         "en": "There's nothing in the fridge."
       }
     ],
@@ -1959,14 +2167,17 @@
     "examples": [
       {
         "ja": "何か飲みますか。",
+        "furigana": "{何|なに}か{飲|の}みますか。",
         "en": "Would you like something to drink?"
       },
       {
         "ja": "だれか来ましたよ。",
+        "furigana": "だれか{来|き}ましたよ。",
         "en": "Someone's here."
       },
       {
         "ja": "夏休みにどこかへ行きましたか。",
+        "furigana": "{夏休|なつやす}みにどこかへ{行|い}きましたか。",
         "en": "Did you go anywhere during summer vacation?"
       }
     ],
@@ -1985,10 +2196,12 @@
     "examples": [
       {
         "ja": "これは私の辞書です。",
+        "furigana": "これは{私|わたし}の{辞書|じしょ}です。",
         "en": "This is my dictionary."
       },
       {
         "ja": "それは何ですか。",
+        "furigana": "それは{何|なに}ですか。",
         "en": "What is that?"
       },
       {
@@ -2015,10 +2228,12 @@
       },
       {
         "ja": "その本はだれのですか。",
+        "furigana": "その{本|ほん}はだれのですか。",
         "en": "Whose book is that?"
       },
       {
         "ja": "「どの人が先生ですか。」「あの人です。」",
+        "furigana": "「どの{人|ひと}が{先生|せんせい}ですか。」「あの{人|ひと}です。」",
         "en": "\"Which person is the teacher?\" \"That person over there.\""
       }
     ],
@@ -2037,6 +2252,7 @@
     "examples": [
       {
         "ja": "ここは私の学校です。",
+        "furigana": "ここは{私|わたし}の{学校|がっこう}です。",
         "en": "This is my school."
       },
       {
@@ -2045,6 +2261,7 @@
       },
       {
         "ja": "すみません、駅はどこですか。",
+        "furigana": "すみません、{駅|えき}はどこですか。",
         "en": "Excuse me, where is the station?"
       }
     ],
@@ -2063,14 +2280,17 @@
     "examples": [
       {
         "ja": "この部屋はあまり広くないです。",
+        "furigana": "この{部屋|へや}はあまり{広|ひろ}くないです。",
         "en": "This room isn't very big."
       },
       {
         "ja": "きのうのテストは難しかったです。",
+        "furigana": "きのうのテストは{難|むずか}しかったです。",
         "en": "Yesterday's test was difficult."
       },
       {
         "ja": "先週見た映画はおもしろくなかったです。",
+        "furigana": "{先週|せんしゅう}{見|み}た{映画|えいが}はおもしろくなかったです。",
         "en": "The movie I saw last week wasn't interesting."
       }
     ],
@@ -2091,14 +2311,17 @@
     "examples": [
       {
         "ja": "京都は有名な町です。",
+        "furigana": "{京都|きょうと}は{有名|ゆうめい}な{町|まち}です。",
         "en": "Kyoto is a famous city."
       },
       {
         "ja": "きのうは暇でした。",
+        "furigana": "きのうは{暇|ひま}でした。",
         "en": "I was free yesterday."
       },
       {
         "ja": "この部屋はあまり静かではありません。",
+        "furigana": "この{部屋|へや}はあまり{静|しず}かではありません。",
         "en": "This room isn't very quiet."
       }
     ],
@@ -2117,14 +2340,17 @@
     "examples": [
       {
         "ja": "この店は安くておいしいです。",
+        "furigana": "この{店|みせ}は{安|やす}くておいしいです。",
         "en": "This restaurant is cheap and good."
       },
       {
         "ja": "私の町は静かできれいです。",
+        "furigana": "{私|わたし}の{町|まち}は{静|しず}かできれいです。",
         "en": "My town is quiet and clean."
       },
       {
         "ja": "兄は大学生で、妹は高校生です。",
+        "furigana": "{兄|あに}は{大学生|だいがくせい}で、{妹|いもうと}は{高校生|こうこうせい}です。",
         "en": "My older brother is a university student, and my younger sister is a high school student."
       }
     ],
@@ -2144,14 +2370,17 @@
     "examples": [
       {
         "ja": "これは「すきやき」という料理です。",
+        "furigana": "これは「すきやき」という{料理|りょうり}です。",
         "en": "This is a dish called sukiyaki."
       },
       {
         "ja": "「さくら」という店でアルバイトをしています。",
+        "furigana": "「さくら」という{店|みせ}でアルバイトをしています。",
         "en": "I work part-time at a shop called Sakura."
       },
       {
         "ja": "山田さんという人から電話がありました。",
+        "furigana": "{山田|やまだ}さんという{人|ひと}から{電話|でんわ}がありました。",
         "en": "There was a call from someone named Yamada."
       }
     ],

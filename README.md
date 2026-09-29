@@ -6,16 +6,19 @@
 
 **The JLPT N5–N1 word, kanji and grammar lists: cleaned, cross-checked against JMdict, and free to use.**
 
-7,811 words · 2,383 kanji · 526 grammar points · example sentences with furigana for 93% of words
+<!-- counts:line -->7,811 words · 2,383 kanji · 526 grammar points · example sentences with furigana for 93% of words<!-- /counts:line -->
 
 [![CI](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml/badge.svg)](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/openjlpt?color=cb3837&label=npm)](https://www.npmjs.com/package/openjlpt)
 [![PyPI](https://img.shields.io/pypi/v/openjlpt?color=3775a9)](https://pypi.org/project/openjlpt/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/data-CC%20BY--SA%204.0-blue.svg)](https://github.com/evanclan/OpenJLPT/blob/main/LICENSE)
 
-**[🌐 Browse online](https://evanclan.github.io/OpenJLPT/)** ·
-**[🃏 Anki decks](https://evanclan.github.io/OpenJLPT/data.html#anki)** ·
-`npm i openjlpt` · `pip install openjlpt` ·
+**Learners:** [🌐 Browse online](https://evanclan.github.io/OpenJLPT/) ·
+[🃏 Anki decks](https://evanclan.github.io/OpenJLPT/data.html#anki) ·
+[📖 Yomitan dictionary](https://evanclan.github.io/OpenJLPT/data.html#yomitan) ·
+[🔍 What level is this text?](https://evanclan.github.io/OpenJLPT/analyzer.html)<br>
+**Developers:** `npm i openjlpt` · `pip install openjlpt` ·
+[JSON / CSV / SQLite](#download) · [API](#api-at-a-glance) ·
 **[日本語](https://github.com/evanclan/OpenJLPT/blob/main/README.ja.md)**
 
 <img src="https://raw.githubusercontent.com/evanclan/OpenJLPT/main/assets/demo.png" width="860" alt="An OpenJLPT word page (勉強) with furigana over its example sentences, and the text analyzer coloring every kanji by JLPT level">
@@ -35,7 +38,7 @@ example sentences, and unclear licensing. OpenJLPT fixes the data and makes it e
 - **Verified against JMdict.** 99.7% of words are linked to their dictionary entry, which adds part
   of speech and a JMdict ID and catches wrong readings. [Hundreds of source errors are fixed](#how-the-data-is-built),
   each backed by a unit test.
-- **Real example sentences, with furigana.** Tatoeba sentences for 93% of words are matched by
+- **Real example sentences, with furigana.** Tatoeba sentences for <!-- counts:examples -->93%<!-- /counts:examples --> of words are matched by
   *dictionary form*, so 読む finds 読んでいる. Short, checked sentences come first, and nine in ten
   carry readings over every kanji.
 - **526 grammar points.** Original, reviewed explanations with formation rules, 2–3 examples each,
@@ -47,6 +50,7 @@ example sentences, and unclear licensing. OpenJLPT fixes the data and makes it e
 
 ## What's inside
 
+<!-- counts:table -->
 | Level | Words | Kanji | Grammar | |
 |:---:|---:|---:|---:|---|
 | **N5** | 674 | 84 | 81 | Beginner |
@@ -55,6 +59,7 @@ example sentences, and unclear licensing. OpenJLPT fixes the data and makes it e
 | **N2** | 1,778 | 398 | 123 | Upper intermediate |
 | **N1** | 3,070 | 1,345 | 123 | Advanced |
 | **Total** | **7,811** | **2,383** | **526** | |
+<!-- /counts:table -->
 
 Each word appears once, at the easiest level that lists it. The counts come from
 [`data/json/meta.json`](https://github.com/evanclan/OpenJLPT/blob/main/data/json/meta.json), which also records the upstream versions.
@@ -156,6 +161,8 @@ WHERE vocab_fts MATCH 'weather';
 | JSON, per level | [`data/json/`](https://github.com/evanclan/OpenJLPT/tree/main/data/json): `vocab/`, `kanji/`, `grammar/` × `n5.json` … `n1.json` |
 | CSV, per level | [`data/csv/`](https://github.com/evanclan/OpenJLPT/tree/main/data/csv) |
 | SQLite, everything | [`data/openjlpt.sqlite`](https://github.com/evanclan/OpenJLPT/raw/main/data/openjlpt.sqlite): tables `vocab`, `kanji`, `grammar`, `pos` and the FTS index `vocab_fts` |
+| Everything in one zip | [`openjlpt-data.zip`](https://github.com/evanclan/OpenJLPT/releases/latest/download/openjlpt-data.zip) from the latest release: JSON, CSV and SQLite |
+| pandas, R, spreadsheets | `pd.read_csv("https://cdn.jsdelivr.net/gh/evanclan/OpenJLPT@main/data/csv/vocab-n5.csv")` |
 | Anki decks, Yomitan | [the website](https://evanclan.github.io/OpenJLPT/data.html#anki) and [Releases](https://github.com/evanclan/OpenJLPT/releases) |
 
 ## Data format
@@ -307,6 +314,13 @@ them are approximations, not a guarantee of what appears on the test.
 - [ ] More example sentences for grammar points
 
 Ideas and pull requests are welcome: [open an issue](https://github.com/evanclan/OpenJLPT/issues/new/choose).
+
+## Built with OpenJLPT
+
+Made something with the data, an app, a bot, a deck or a study tool? Add it here with a pull
+request, or tell us in an [issue](https://github.com/evanclan/OpenJLPT/issues/new/choose).
+
+- *Your project here*
 
 ## Contributing and support
 

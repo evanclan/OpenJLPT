@@ -9,7 +9,10 @@ speakers are the most valuable contributions of all.
   [data error form](https://github.com/evanclan/OpenJLPT/issues/new?template=data-error.yml).
   Every page on the website has a *Report an error* link that fills in the details.
 - **Improve grammar.** Better explanations, more natural example sentences, missing points.
-- **Share what you built.** Apps, bots and decks using OpenJLPT can go in the README's "Used by" list.
+- **Share what you built.** Apps, bots and decks using OpenJLPT can go in the README's
+  ["Built with OpenJLPT"](./README.md#built-with-openjlpt) list.
+- **Native speaker or teacher?** Reviewing a handful of grammar points or example sentences is
+  one of the most useful things you can do: open an issue with anything that sounds unnatural.
 
 ## Don't hand-edit `data/`
 

@@ -80,6 +80,8 @@ CSS = """
 hr#answer { border: 0; border-top: 1px solid #ccc; margin: 16px 0; }
 """
 
+# Note-type IDs must change whenever a model's fields change: Anki only updates existing
+# notes on re-import when the note type is identical.
 VOCAB_MODEL = genanki.Model(
     VOCAB_MODEL_ID,
     "OpenJLPT Vocabulary",
@@ -145,7 +147,9 @@ def anki_furigana(text: str) -> str:
 
     The space marks where the annotated text starts; Anki's furigana filter hides it.
     """
-    return re.sub(r"\{([^|{}]+)\|([^|{}]+)\}", r" \1[\2]", esc(text)) if text else ""
+    if not text or "[" in text or "]" in text:  # brackets would confuse Anki's syntax
+        return ""
+    return re.sub(r"\{([^|{}]+)\|([^|{}]+)\}", r" \1[\2]", esc(text))
 
 
 def vocab_note(v: dict, pos_labels: dict) -> genanki.Note:
@@ -154,7 +158,7 @@ def vocab_note(v: dict, pos_labels: dict) -> genanki.Note:
         "v:" + v["id"],
         model=VOCAB_MODEL,
         fields=[esc(v["word"]), esc(v["reading"]), esc(furigana(v["word"], v["reading"])), esc(v["romaji"]),
-                esc("; ".join(v["meanings"])), esc(", ".join(pos_labels.get(p, p) for p in v.get("pos", []))),
+                esc("; ".join(v["meanings"])), esc(", ".join(dict.fromkeys(pos_labels.get(p, p) for p in v.get("pos", [])))),
                 esc(ex.get("ja", "")), esc(ex.get("en", "")), v["level"], v["id"], anki_furigana(ex.get("furigana", ""))],
         tags=["OpenJLPT", "JLPT_" + v["level"], "vocab"],
     )
@@ -199,6 +203,9 @@ DESCRIPTION = (f'Free JLPT deck from <a href="{REPO}">OpenJLPT</a> (CC BY-SA 4.0
 def build_anki(out: str) -> list:
     with open(os.path.join(DATA, "pos.json"), encoding="utf-8") as f:
         pos_labels = json.load(f)
+    # Short labels for display ("noun", "な-adjective"), shared with the website.
+    with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "lib", "pos-short.json"), encoding="utf-8") as f:
+        pos_labels.update(json.load(f))
     make = {"vocab": lambda x: vocab_note(x, pos_labels), "kanji": kanji_note, "grammar": grammar_note}
     written = []
     complete = []
@@ -228,9 +235,14 @@ def build_yomitan(out: str, version: str) -> str:
                 terms.append([form, "freq", {"reading": v["reading"], "frequency": meta}])
         for k in load("kanji", level):
             kanji.append([k["character"], "freq", {"value": rank[level], "displayValue": level}])
+    with open(os.path.join(DATA, "meta.json"), encoding="utf-8") as f:
+        updated = (json.load(f).get("sources", {}).get("jmdict", {}) or {}).get("created", "")
+    # Yomitan offers an update when the index at indexUrl has a newer revision, so the
+    # revision carries the data date: monthly rebuilds reach users without a new release.
+    site = os.environ.get("SITE_URL", "https://evanclan.github.io/OpenJLPT/").rstrip("/") + "/"
     index = {
         "title": "OpenJLPT",
-        "revision": f"openjlpt-{version}",
+        "revision": f"{version}.{updated.replace('-', '')}" if updated else version,
         "format": 3,
         "sequenced": False,
         "author": "OpenJLPT contributors",
@@ -238,7 +250,14 @@ def build_yomitan(out: str, version: str) -> str:
         "description": "JLPT level (N5–N1) for every word and kanji in the OpenJLPT dataset.",
         "attribution": "OpenJLPT (CC BY-SA 4.0); levels by Jonathan Waller (CC BY); JMdict/KANJIDIC2 (EDRDG, CC BY-SA 4.0).",
         "frequencyMode": "rank-based",
+        "sourceLanguage": "ja",
+        "targetLanguage": "en",
+        "isUpdatable": True,
+        "indexUrl": site + "downloads/openjlpt-yomitan-index.json",
+        "downloadUrl": site + "downloads/openjlpt-yomitan.zip",
     }
+    with open(os.path.join(out, "openjlpt-yomitan-index.json"), "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False)
     path = os.path.join(out, "openjlpt-yomitan.zip")
     with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED) as z:
         z.writestr("index.json", json.dumps(index, ensure_ascii=False))

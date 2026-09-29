@@ -18,7 +18,7 @@ import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { CACHE_DIR } from './util.ts';
 import { hasKanji, toHiragana } from './kana.ts';
-import { annotate, type Lexicon } from './furigana.ts';
+import { alignReading, annotate, type Lexicon } from './furigana.ts';
 
 export interface Example {
   ja: string;
@@ -270,18 +270,25 @@ export class ExampleIndex {
       }
     }
 
+    // With furigana we can see how the sentence reads the word: another reading means another
+    // word (a 人気 にんき card must not show {人気|ひとけ}).
+    const wordRuns = q.forms[0] && q.readings[0] && !q.forms[0].endsWith('来る') ? (alignReading(q.forms[0], q.readings[0]) ?? []).filter((x) => x.rt) : [];
+    const readsOtherwise = (furigana: string) =>
+      wordRuns.some((run) => [...furigana.matchAll(/\{([^|{}]+)\|([^|{}]+)\}/g)].some((m) => m[1] === run.text && m[2] !== toHiragana(run.rt!)));
+
     const ranked = [...scored].sort((a, b) => a[1] - b[1] || this.pool[a[0]].id - this.pool[b[0]].id);
     const out: Example[] = [];
     const picked: Set<string>[] = [];
     const seenEn = new Set<string>();
     for (const [s] of ranked) {
       const { id, ja, en } = this.pool[s];
+      const furigana = this.furiganaOf(s);
+      if (furigana && readsOtherwise(furigana)) continue;
       const grams = bigrams(ja);
       // Skip near-duplicates (何時間勉強していますか / ２時間勉強していますか).
       if (seenEn.has(en) || picked.some((p) => jaccard(p, grams) >= 0.5)) continue;
       seenEn.add(en);
       picked.push(grams);
-      const furigana = this.furiganaOf(s);
       out.push(furigana && furigana !== ja ? { ja, furigana, en, tatoeba_id: id } : { ja, en, tatoeba_id: id });
       if (out.length >= max) break;
     }

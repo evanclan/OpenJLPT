@@ -141,16 +141,31 @@ function lexicon(jmIndex: JmdictIndex): Lexicon {
       if (cache.has(headword)) return cache.get(headword);
       const readings = new Map<string, boolean>();
       for (const e of jmIndex.entriesWithKanji(headword)) {
+        if (!isKnownSpelling(e, headword)) continue; // irregular or search-only spelling here
+        const commonSpelling = isCommonSpelling(e, headword);
         for (const r of readingsFor(e, headword)) {
           if (r.inf.some((i) => RARE.includes(i))) continue;
           const h = toHiragana(r.text);
-          readings.set(h, (readings.get(h) ?? false) || isCommonReading(r));
+          // Common only if both the spelling and the reading are (a rare spelling of a
+          // common word doesn't count).
+          readings.set(h, (readings.get(h) ?? false) || (commonSpelling && isCommonReading(r)));
         }
       }
       const common = [...readings].filter(([, c]) => c).map(([h]) => h);
       const out = readings.size === 1 ? [...readings.keys()][0] : common.length === 1 ? common[0] : undefined;
       cache.set(headword, out);
       return out;
+    },
+    pos(headword, reading) {
+      const h = toHiragana(reading);
+      return [
+        ...new Set(
+          jmIndex
+            .entriesWithKanji(headword)
+            .filter((e) => readingsFor(e, headword).some((r) => toHiragana(r.text) === h))
+            .flatMap((e) => e.senses.flatMap((s) => s.pos)),
+        ),
+      ];
     },
     affixReadings(headword, kind) {
       const pos = kind === 'prefix' ? ['pref', 'n-pref'] : ['suf', 'n-suf', 'ctr'];
@@ -225,10 +240,19 @@ function build() {
     // Respelling in kana can make two different words look alike (尤も "plausible" and
     // 最も "most" are both もっとも); such a card keeps its kanji instead.
     const clash = seen.get(keysOf(c)[0]);
-    if (clash?.m && c.m && clash.m.entry.seq !== c.m.entry.seq && c.kanjiSpelling) {
-      log.unrespelled.push(`${c.level} ${c.word} → ${c.kanjiSpelling} (not ${clash.level} ${clash.word}, JMdict ${clash.m.entry.seq})`);
-      c.otherForms = c.otherForms.filter((f) => f !== c.kanjiSpelling);
-      c.word = c.kanjiSpelling;
+    if (clash?.m && c.m && clash.m.entry.seq !== c.m.entry.seq) {
+      // Whichever of the two was respelled goes back to its kanji.
+      const back = (x: Candidate, other: Candidate) => {
+        log.unrespelled.push(`${x.level} ${x.word} → ${x.kanjiSpelling} (not ${other.level} ${other.word}, JMdict ${other.m!.entry.seq})`);
+        x.otherForms = x.otherForms.filter((f) => f !== x.kanjiSpelling);
+        x.word = x.kanjiSpelling!;
+      };
+      if (c.kanjiSpelling) back(c, clash);
+      else if (clash.kanjiSpelling) {
+        for (const key of keysOf(clash)) if (seen.get(key) === clash) seen.delete(key);
+        back(clash, c);
+        for (const key of keysOf(clash)) seen.set(key, clash);
+      }
     }
     const keys = keysOf(c);
     const k = seen.get(keys[0]) ?? (keys[1] && sameWord(seen.get(keys[1]), c.word) ? seen.get(keys[1]) : undefined);

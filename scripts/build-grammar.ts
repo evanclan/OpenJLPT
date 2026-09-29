@@ -10,6 +10,8 @@ import { DATA_DIR, LEVELS, ROOT, writeCsv, writeJson, type Level } from './lib/u
 
 interface Example {
   ja: string;
+  /** Reviewed readings in {漢字|かんじ} notation. */
+  furigana?: string;
   en: string;
 }
 

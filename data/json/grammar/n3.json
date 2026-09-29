@@ -9,14 +9,17 @@
     "examples": [
       {
         "ja": "三年も中国に住んでいたんですか。だから中国語が上手なわけですね。",
+        "furigana": "{三|さん}{年|ねん}も{中国|ちゅうごく}に{住|す}んでいたんですか。だから{中国|ちゅうごく}{語|ご}が{上手|じょうず}なわけですね。",
         "en": "You lived in China for three years? That's why your Chinese is so good."
       },
       {
         "ja": "窓が全部開いている。どうりで寒いわけだ。",
+        "furigana": "{窓|まど}が{全部|ぜんぶ}{開|あ}いている。どうりで{寒|さむ}いわけだ。",
         "en": "All the windows are open. No wonder it's cold."
       },
       {
         "ja": "この本は三百ページだから、一日に二十ページ読めば、十五日で読み終わるわけだ。",
+        "furigana": "この{本|ほん}は{三百|さんびゃく}ページだから、{一|いち}{日|にち}に{二|に}{十|じゅう}ページ{読|よ}めば、{十|じゅう}{五|ご}{日|にち}で{読|よ}み{終|お}わるわけだ。",
         "en": "This book has 300 pages, so if I read twenty pages a day, that means I'll finish it in fifteen days."
       }
     ],
@@ -36,14 +39,17 @@
     "examples": [
       {
         "ja": "料理が嫌いなわけではないが、毎日作る時間がない。",
+        "furigana": "{料理|りょうり}が{嫌|きら}いなわけではないが、{毎日|まいにち}{作|つく}る{時間|じかん}がない。",
         "en": "It's not that I dislike cooking, but I don't have time to cook every day."
       },
       {
         "ja": "値段が高ければおいしいというわけではない。",
+        "furigana": "{値段|ねだん}が{高|たか}ければおいしいというわけではない。",
         "en": "Just because something is expensive doesn't mean it tastes good."
       },
       {
         "ja": "全然分からないわけではありませんが、もう少しゆっくり話していただけますか。",
+        "furigana": "{全然|ぜんぜん}{分|わ}からないわけではありませんが、もう{少|すこ}しゆっくり{話|はな}していただけますか。",
         "en": "It's not that I don't understand at all, but could you speak a little more slowly?"
       }
     ],
@@ -63,14 +69,17 @@
     "examples": [
       {
         "ja": "こんなに練習したんだから、負けるわけがない。",
+        "furigana": "こんなに{練習|れんしゅう}したんだから、{負|ま}けるわけがない。",
         "en": "We've practiced this hard, so there's no way we'll lose."
       },
       {
         "ja": "あんなにまじめな人が、約束を忘れるわけがありません。",
+        "furigana": "あんなにまじめな{人|ひと}が、{約束|やくそく}を{忘|わす}れるわけがありません。",
         "en": "There's no way someone that conscientious would forget a promise."
       },
       {
         "ja": "一日で漢字を百個覚えるなんて、できるわけがないよ。",
+        "furigana": "{一|いち}{日|にち}で{漢字|かんじ}を{百|ひゃく}{個|こ}{覚|おぼ}えるなんて、できるわけがないよ。",
         "en": "Learn a hundred kanji in one day? There's no way you can do that."
       }
     ],
@@ -91,14 +100,17 @@
     "examples": [
       {
         "ja": "明日は大事な会議があるから、休むわけにはいかない。",
+        "furigana": "{明日|あした}は{大事|だいじ}な{会議|かいぎ}があるから、{休|やす}むわけにはいかない。",
         "en": "There's an important meeting tomorrow, so I can't afford to take the day off."
       },
       {
         "ja": "友達に頼まれたことだから、断るわけにはいかなかった。",
+        "furigana": "{友達|ともだち}に{頼|たの}まれたことだから、{断|ことわ}るわけにはいかなかった。",
         "en": "It was a favor my friend had asked, so I couldn't very well say no."
       },
       {
         "ja": "招待されたのだから、パーティーに行かないわけにはいかない。",
+        "furigana": "{招待|しょうたい}されたのだから、パーティーに{行|い}かないわけにはいかない。",
         "en": "I was invited, so I can't not go to the party."
       }
     ],
@@ -118,14 +130,17 @@
     "examples": [
       {
         "ja": "子どものころは、この川でよく泳いだものだ。",
+        "furigana": "{子|こ}どものころは、この{川|かわ}でよく{泳|およ}いだものだ。",
         "en": "When I was a child, I used to swim in this river a lot."
       },
       {
         "ja": "新しい環境に慣れるには、時間がかかるものだ。",
+        "furigana": "{新|あたら}しい{環境|かんきょう}に{慣|な}れるには、{時間|じかん}がかかるものだ。",
         "en": "It naturally takes time to get used to a new environment."
       },
       {
         "ja": "目上の人には敬語を使うものだ。",
+        "furigana": "{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うものだ。",
         "en": "You're supposed to use honorific language with your superiors."
       }
     ],
@@ -146,14 +161,17 @@
     "examples": [
       {
         "ja": "人の失敗を笑うものではない。",
+        "furigana": "{人|ひと}の{失敗|しっぱい}を{笑|わら}うものではない。",
         "en": "You shouldn't laugh at other people's mistakes."
       },
       {
         "ja": "出された食べ物を残すものじゃないよ。",
+        "furigana": "{出|だ}された{食|た}べ{物|もの}を{残|のこ}すものじゃないよ。",
         "en": "You shouldn't leave food that's been served to you."
       },
       {
         "ja": "夜遅くに人の家に電話をかけるものではありません。",
+        "furigana": "{夜|よる}{遅|おそ}くに{人|ひと}の{家|いえ}に{電話|でんわ}をかけるものではありません。",
         "en": "One shouldn't phone someone's home late at night."
       }
     ],
@@ -173,14 +191,17 @@
     "examples": [
       {
         "ja": "「どうして食べないの？」「だって、ピーマン嫌いなんだもん。」",
+        "furigana": "「どうして{食|た}べないの？」「だって、ピーマン{嫌|きら}いなんだもん。」",
         "en": "'Why aren't you eating?' 'Because I hate green peppers!'"
       },
       {
         "ja": "一人で行けるよ。もう子どもじゃないもん。",
+        "furigana": "{一人|ひとり}で{行|い}けるよ。もう{子|こ}どもじゃないもん。",
         "en": "I can go by myself. I'm not a kid anymore!"
       },
       {
         "ja": "ケーキ、全部食べちゃった。だって、すごくおいしかったんだもん。",
+        "furigana": "ケーキ、{全部|ぜんぶ}{食|た}べちゃった。だって、すごくおいしかったんだもん。",
         "en": "I ate the whole cake. Well, it was just so good!"
       }
     ],
@@ -200,14 +221,17 @@
     "examples": [
       {
         "ja": "道がすごく混んでいたものだから、約束の時間に間に合わなかった。",
+        "furigana": "{道|みち}がすごく{混|こ}んでいたものだから、{約束|やくそく}の{時間|じかん}に{間|ま}に{合|あ}わなかった。",
         "en": "The roads were really crowded, so I couldn't make it on time."
       },
       {
         "ja": "すみません、急いでいたもので、書類を持ってくるのを忘れてしまいました。",
+        "furigana": "すみません、{急|いそ}いでいたもので、{書類|しょるい}を{持|も}ってくるのを{忘|わす}れてしまいました。",
         "en": "I'm sorry, I was in such a hurry that I forgot to bring the documents."
       },
       {
         "ja": "初めての海外旅行だったものだから、見るものすべてが珍しかった。",
+        "furigana": "{初|はじ}めての{海外|かいがい}{旅行|りょこう}だったものだから、{見|み}るものすべてが{珍|めずら}しかった。",
         "en": "It was my first trip abroad, so everything I saw seemed new."
       }
     ],
@@ -226,14 +250,17 @@
     "examples": [
       {
         "ja": "日本語が上手になりたいなら、毎日少しずつでも話すことだ。",
+        "furigana": "{日本語|にほんご}が{上手|じょうず}になりたいなら、{毎日|まいにち}{少|すこ}しずつでも{話|はな}すことだ。",
         "en": "If you want to get good at Japanese, you should speak it every day, even just a little."
       },
       {
         "ja": "風邪を早く治したければ、無理をしないでゆっくり休むことです。",
+        "furigana": "{風邪|かぜ}を{早|はや}く{治|なお}したければ、{無理|むり}をしないでゆっくり{休|やす}むことです。",
         "en": "If you want to get over your cold quickly, the best thing is not to push yourself and to rest well."
       },
       {
         "ja": "人の話は最後までよく聞くことだ。",
+        "furigana": "{人|ひと}の{話|はなし}は{最後|さいご}までよく{聞|き}くことだ。",
         "en": "You should always listen carefully to what people say, right to the end."
       }
     ],
@@ -252,14 +279,17 @@
     "examples": [
       {
         "ja": "簡単な手術ですから、そんなに心配することはありませんよ。",
+        "furigana": "{簡単|かんたん}な{手術|しゅじゅつ}ですから、そんなに{心配|しんぱい}することはありませんよ。",
         "en": "It's a simple operation, so there's no need to worry so much."
       },
       {
         "ja": "駅までは歩いて五分だから、タクシーを使うことはない。",
+        "furigana": "{駅|えき}までは{歩|ある}いて{五|ご}{分|ふん}だから、タクシーを{使|つか}うことはない。",
         "en": "The station is a five-minute walk, so there's no need to take a taxi."
       },
       {
         "ja": "一回失敗したくらいで、あきらめることはないよ。",
+        "furigana": "{一回|いっかい}{失敗|しっぱい}したくらいで、あきらめることはないよ。",
         "en": "There's no need to give up just because you failed once."
       }
     ],
@@ -280,14 +310,17 @@
     "examples": [
       {
         "ja": "健康のために、週に三回はジムに通うことにしている。",
+        "furigana": "{健康|けんこう}のために、{週|しゅう}に{三|さん}{回|かい}はジムに{通|かよ}うことにしている。",
         "en": "For my health, I make it a rule to go to the gym at least three times a week."
       },
       {
         "ja": "夜十時以降は、スマホを見ないことにしています。",
+        "furigana": "{夜|よる}{十|じゅう}{時|じ}{以降|いこう}は、スマホを{見|み}ないことにしています。",
         "en": "I make a point of not looking at my phone after 10 p.m."
       },
       {
         "ja": "父は、給料日には家族を外食に連れていくことにしている。",
+        "furigana": "{父|ちち}は、{給料|きゅうりょう}{日|び}には{家族|かぞく}を{外食|がいしょく}に{連|つ}れていくことにしている。",
         "en": "My dad makes a point of taking the family out to eat on payday."
       }
     ],
@@ -307,14 +340,17 @@
     "examples": [
       {
         "ja": "この寮では、夜十一時までに戻ることになっている。",
+        "furigana": "この{寮|りょう}では、{夜|よる}{十|じゅう}{一|いち}{時|じ}までに{戻|もど}ることになっている。",
         "en": "In this dorm, you're supposed to be back by 11 p.m."
       },
       {
         "ja": "来月から大阪の支社で働くことになっています。",
+        "furigana": "{来月|らいげつ}から{大阪|おおさか}の{支社|ししゃ}で{働|はたら}くことになっています。",
         "en": "It's been arranged that I'll work at the Osaka branch from next month."
       },
       {
         "ja": "図書館の中では、飲み物を飲んではいけないことになっている。",
+        "furigana": "{図書館|としょかん}の{中|なか}では、{飲|の}み{物|もの}を{飲|の}んではいけないことになっている。",
         "en": "The rules say you can't have drinks inside the library."
       }
     ],
@@ -334,14 +370,17 @@
     "examples": [
       {
         "ja": "レポートは、来週の金曜日までに提出すること。",
+        "furigana": "レポートは、{来週|らいしゅう}の{金曜日|きんようび}までに{提出|ていしゅつ}すること。",
         "en": "Reports must be submitted by next Friday."
       },
       {
         "ja": "図書館の本に、線を引かないこと。",
+        "furigana": "{図書館|としょかん}の{本|ほん}に、{線|せん}を{引|ひ}かないこと。",
         "en": "Do not draw lines in library books."
       },
       {
         "ja": "試験中は、スマホの電源を切っておくこと。",
+        "furigana": "{試験|しけん}{中|ちゅう}は、スマホの{電源|でんげん}を{切|き}っておくこと。",
         "en": "Keep your phone switched off during the exam."
       }
     ],
@@ -363,14 +402,17 @@
     "examples": [
       {
         "ja": "医者に、お酒を飲みすぎないように言われた。",
+        "furigana": "{医者|いしゃ}に、お{酒|さけ}を{飲|の}みすぎないように{言|い}われた。",
         "en": "My doctor told me not to drink too much."
       },
       {
         "ja": "隣の部屋の人に、夜は音楽の音を小さくするように頼んだ。",
+        "furigana": "{隣|となり}の{部屋|へや}の{人|ひと}に、{夜|よる}は{音楽|おんがく}の{音|おと}を{小|ちい}さくするように{頼|たの}んだ。",
         "en": "I asked the person next door to turn their music down at night."
       },
       {
         "ja": "山下さんに、明日の会議に遅れないように伝えてください。",
+        "furigana": "{山下|やました}さんに、{明日|あした}の{会議|かいぎ}に{遅|おく}れないように{伝|つた}えてください。",
         "en": "Please tell Ms. Yamashita not to be late for tomorrow's meeting."
       }
     ],
@@ -391,14 +433,17 @@
     "examples": [
       {
         "ja": "ドアを開けようとしたが、鍵がかかっていて開かなかった。",
+        "furigana": "ドアを{開|あ}けようとしたが、{鍵|かぎ}がかかっていて{開|あ}かなかった。",
         "en": "I tried to open the door, but it was locked and wouldn't open."
       },
       {
         "ja": "家を出ようとしたとき、急に雨が降り出した。",
+        "furigana": "{家|いえ}を{出|で}ようとしたとき、{急|きゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。",
         "en": "Just as I was about to leave the house, it suddenly started to rain."
       },
       {
         "ja": "弟は何度注意しても、部屋を片付けようとしない。",
+        "furigana": "{弟|おとうと}は{何|なん}{度|ど}{注意|ちゅうい}しても、{部屋|へや}を{片付|かたづ}けようとしない。",
         "en": "No matter how many times I tell him, my younger brother won't even try to tidy his room."
       }
     ],
@@ -418,14 +463,17 @@
     "examples": [
       {
         "ja": "この雨は、夕方までやみそうにない。",
+        "furigana": "この{雨|あめ}は、{夕方|ゆうがた}までやみそうにない。",
         "en": "This rain doesn't look like it will stop before evening."
       },
       {
         "ja": "仕事が多すぎて、今日中には終わりそうもない。",
+        "furigana": "{仕事|しごと}が{多|おお}すぎて、{今日中|きょうじゅう}には{終|お}わりそうもない。",
         "en": "I have way too much work; it doesn't look like I'll finish today."
       },
       {
         "ja": "こんなにたくさんの料理、二人では食べきれそうにないね。",
+        "furigana": "こんなにたくさんの{料理|りょうり}、{二人|ふたり}では{食|た}べきれそうにないね。",
         "en": "It doesn't look like the two of us will be able to finish all this food."
       }
     ],
@@ -447,14 +495,17 @@
     "examples": [
       {
         "ja": "この町の人口は、減る一方だ。",
+        "furigana": "この{町|まち}の{人口|じんこう}は、{減|へ}る{一方|いっぽう}だ。",
         "en": "This town's population just keeps on shrinking."
       },
       {
         "ja": "物価は上がる一方なのに、給料は全然上がらない。",
+        "furigana": "{物価|ぶっか}は{上|あ}がる{一方|いっぽう}なのに、{給料|きゅうりょう}は{全然|ぜんぜん}{上|あ}がらない。",
         "en": "Prices keep going up and up, yet my salary doesn't rise at all."
       },
       {
         "ja": "勉強をさぼっていたら、成績は下がる一方だった。",
+        "furigana": "{勉強|べんきょう}をさぼっていたら、{成績|せいせき}は{下|さ}がる{一方|いっぽう}だった。",
         "en": "Since I kept skipping my studies, my grades just kept dropping."
       }
     ],
@@ -475,14 +526,17 @@
     "examples": [
       {
         "ja": "インターネットは便利な一方で、危険な面もある。",
+        "furigana": "インターネットは{便利|べんり}な{一方|いっぽう}で、{危険|きけん}な{面|めん}もある。",
         "en": "The internet is convenient, but on the other hand it has its dangers."
       },
       {
         "ja": "この会社は給料が高い一方で、休みがとても少ない。",
+        "furigana": "この{会社|かいしゃ}は{給料|きゅうりょう}が{高|たか}い{一方|いっぽう}で、{休|やす}みがとても{少|すく}ない。",
         "en": "This company pays well, but on the other hand there are very few days off."
       },
       {
         "ja": "彼女は会社で働く一方で、夜は大学院に通っている。",
+        "furigana": "{彼女|かのじょ}は{会社|かいしゃ}で{働|はたら}く{一方|いっぽう}で、{夜|よる}は{大学院|だいがくいん}に{通|かよ}っている。",
         "en": "While working at a company, she also attends graduate school in the evenings."
       }
     ],
@@ -503,14 +557,17 @@
     "examples": [
       {
         "ja": "お客様に対して、そんな言い方をしてはいけない。",
+        "furigana": "お{客様|きゃくさま}に{対|たい}して、そんな{言|い}い{方|かた}をしてはいけない。",
         "en": "You mustn't speak like that to a customer."
       },
       {
         "ja": "新しい税金に対する反対の声が高まっている。",
+        "furigana": "{新|あたら}しい{税金|ぜいきん}に{対|たい}する{反対|はんたい}の{声|こえ}が{高|たか}まっている。",
         "en": "Opposition to the new tax is growing."
       },
       {
         "ja": "東京は晴れているのに対して、大阪は朝から大雨だ。",
+        "furigana": "{東京|とうきょう}は{晴|は}れているのに{対|たい}して、{大阪|おおさか}は{朝|あさ}から{大雨|おおあめ}だ。",
         "en": "Whereas it's sunny in Tokyo, it's been pouring in Osaka since morning."
       }
     ],
@@ -530,14 +587,17 @@
     "examples": [
       {
         "ja": "今日の授業では、日本の食文化について話し合いました。",
+        "furigana": "{今日|きょう}の{授業|じゅぎょう}では、{日本|にほん}の{食|しょく}{文化|ぶんか}について{話|はな}し{合|あ}いました。",
         "en": "In today's class, we discussed Japanese food culture."
       },
       {
         "ja": "新しい商品についての質問は、こちらのメールアドレスまでお送りください。",
+        "furigana": "{新|あたら}しい{商品|しょうひん}についての{質問|しつもん}は、こちらのメールアドレスまでお{送|おく}りください。",
         "en": "Please send any questions about the new product to this email address."
       },
       {
         "ja": "その事件について、警察はまだ何も発表していない。",
+        "furigana": "その{事件|じけん}について、{警察|けいさつ}はまだ{何|なに}も{発表|はっぴょう}していない。",
         "en": "The police haven't announced anything about the incident yet."
       }
     ],
@@ -557,14 +617,17 @@
     "examples": [
       {
         "ja": "この橋は、有名な建築家によって設計された。",
+        "furigana": "この{橋|はし}は、{有名|ゆうめい}な{建築|けんちく}{家|か}によって{設計|せっけい}された。",
         "en": "This bridge was designed by a famous architect."
       },
       {
         "ja": "台風による被害は、まだ正確には分かっていない。",
+        "furigana": "{台風|たいふう}による{被害|ひがい}は、まだ{正確|せいかく}には{分|わ}かっていない。",
         "en": "The full extent of the damage caused by the typhoon is still unknown."
       },
       {
         "ja": "国によって、食事のマナーはずいぶん違う。",
+        "furigana": "{国|くに}によって、{食事|しょくじ}のマナーはずいぶん{違|ちが}う。",
         "en": "Table manners differ quite a lot from country to country."
       }
     ],
@@ -585,14 +648,17 @@
     "examples": [
       {
         "ja": "天気予報によると、週末は大雪になるそうだ。",
+        "furigana": "{天気|てんき}{予報|よほう}によると、{週末|しゅうまつ}は{大雪|おおゆき}になるそうだ。",
         "en": "According to the weather forecast, there's going to be heavy snow this weekend."
       },
       {
         "ja": "ニュースによれば、事故の原因はまだ分かっていないらしい。",
+        "furigana": "ニュースによれば、{事故|じこ}の{原因|げんいん}はまだ{分|わ}かっていないらしい。",
         "en": "According to the news, the cause of the accident still isn't known."
       },
       {
         "ja": "姉の話によると、あのレストランは予約がないと入れないということだ。",
+        "furigana": "{姉|あね}の{話|はなし}によると、あのレストランは{予約|よやく}がないと{入|はい}れないということだ。",
         "en": "According to my sister, you can't get into that restaurant without a reservation."
       }
     ],
@@ -611,14 +677,17 @@
     "examples": [
       {
         "ja": "この映画は子どもばかりでなく、大人も楽しめる。",
+        "furigana": "この{映画|えいが}は{子|こ}どもばかりでなく、{大人|おとな}も{楽|たの}しめる。",
         "en": "Not only children but adults too can enjoy this film."
       },
       {
         "ja": "新しいスマホは画面が大きいばかりでなく、電池も長持ちする。",
+        "furigana": "{新|あたら}しいスマホは{画面|がめん}が{大|おお}きいばかりでなく、{電池|でんち}も{長持|ながも}ちする。",
         "en": "The new smartphone not only has a big screen, its battery lasts a long time too."
       },
       {
         "ja": "運動は体にいいばかりでなく、ストレスを減らす効果もある。",
+        "furigana": "{運動|うんどう}は{体|からだ}にいいばかりでなく、ストレスを{減|へ}らす{効果|こうか}もある。",
         "en": "Exercise is not only good for your body, it also helps reduce stress."
       }
     ],
@@ -637,14 +706,17 @@
     "examples": [
       {
         "ja": "この店は料理がおいしいだけでなく、値段も安い。",
+        "furigana": "この{店|みせ}は{料理|りょうり}がおいしいだけでなく、{値段|ねだん}も{安|やす}い。",
         "en": "This restaurant not only has delicious food, it's cheap too."
       },
       {
         "ja": "地震の後、水だけでなく電気も止まってしまった。",
+        "furigana": "{地震|じしん}の{後|あと}、{水|みず}だけでなく{電気|でんき}も{止|と}まってしまった。",
         "en": "After the earthquake, not only the water but also the electricity was cut off."
       },
       {
         "ja": "彼女は歌が上手なだけでなく、自分で曲も作っている。",
+        "furigana": "{彼女|かのじょ}は{歌|うた}が{上手|じょうず}なだけでなく、{自分|じぶん}で{曲|きょく}も{作|つく}っている。",
         "en": "She not only sings well but also writes her own songs."
       }
     ],
@@ -663,14 +735,17 @@
     "examples": [
       {
         "ja": "彼女は歌も歌えば、ピアノも弾く。",
+        "furigana": "{彼女|かのじょ}は{歌|うた}も{歌|うた}えば、ピアノも{弾|ひ}く。",
         "en": "She both sings and plays the piano."
       },
       {
         "ja": "この町には、海もあれば山もある。",
+        "furigana": "この{町|まち}には、{海|うみ}もあれば{山|やま}もある。",
         "en": "This town has both the sea and the mountains."
       },
       {
         "ja": "人生には、いいときもあれば悪いときもある。",
+        "furigana": "{人生|じんせい}には、いいときもあれば{悪|わる}いときもある。",
         "en": "In life there are good times and there are bad times."
       }
     ],
@@ -689,14 +764,17 @@
     "examples": [
       {
         "ja": "今日は春らしい暖かい一日だった。",
+        "furigana": "{今日|きょう}は{春|はる}らしい{暖|あたた}かい{一|いち}{日|にち}だった。",
         "en": "Today was a warm, truly spring-like day."
       },
       {
         "ja": "文句ばかり言うなんて、君らしくないね。",
+        "furigana": "{文句|もんく}ばかり{言|い}うなんて、{君|きみ}らしくないね。",
         "en": "Complaining all the time isn't like you."
       },
       {
         "ja": "もっと学生らしい服装で来てください。",
+        "furigana": "もっと{学生|がくせい}らしい{服装|ふくそう}で{来|き}てください。",
         "en": "Please come dressed in a way more appropriate for a student."
       }
     ],
@@ -716,14 +794,17 @@
     "examples": [
       {
         "ja": "この服はちょっと子どもっぽいから、別のにしよう。",
+        "furigana": "この{服|ふく}はちょっと{子|こ}どもっぽいから、{別|べつ}のにしよう。",
         "en": "This outfit is a bit childish, so let's go with a different one."
       },
       {
         "ja": "最近忘れっぽくなって、困っている。",
+        "furigana": "{最近|さいきん}{忘|わす}れっぽくなって、{困|こま}っている。",
         "en": "I've become forgetful lately, and it's a problem."
       },
       {
         "ja": "あの白っぽいビルが、新しい市役所です。",
+        "furigana": "あの{白|しろ}っぽいビルが、{新|あたら}しい{市役所|しやくしょ}です。",
         "en": "That whitish building is the new city hall."
       }
     ],
@@ -745,14 +826,17 @@
     "examples": [
       {
         "ja": "日本の伝統的な料理を食べてみたい。",
+        "furigana": "{日本|にほん}の{伝統|でんとう}{的|てき}な{料理|りょうり}を{食|た}べてみたい。",
         "en": "I'd like to try traditional Japanese food."
       },
       {
         "ja": "この問題は、経済的な理由で解決が難しい。",
+        "furigana": "この{問題|もんだい}は、{経済|けいざい}{的|てき}な{理由|りゆう}で{解決|かいけつ}が{難|むずか}しい。",
         "en": "This problem is hard to solve for economic reasons."
       },
       {
         "ja": "個人的には、この案に賛成です。",
+        "furigana": "{個人|こじん}{的|てき}には、この{案|あん}に{賛成|さんせい}です。",
         "en": "Personally, I'm in favor of this plan."
       }
     ],
@@ -772,14 +856,17 @@
     "examples": [
       {
         "ja": "私も、あなたのような優しい看護師になりたいです。",
+        "furigana": "{私|わたし}も、あなたのような{優|やさ}しい{看護|かんご}{師|し}になりたいです。",
         "en": "I want to become a kind nurse like you, too."
       },
       {
         "ja": "先生が言ったように、この文法はテストによく出る。",
+        "furigana": "{先生|せんせい}が{言|い}ったように、この{文法|ぶんぽう}はテストによく{出|で}る。",
         "en": "As the teacher said, this grammar point often comes up on tests."
       },
       {
         "ja": "東京のような大きな都市では、家賃がとても高い。",
+        "furigana": "{東京|とうきょう}のような{大|おお}きな{都市|とし}では、{家賃|やちん}がとても{高|たか}い。",
         "en": "In big cities such as Tokyo, rent is very high."
       }
     ],
@@ -800,14 +887,17 @@
     "examples": [
       {
         "ja": "この部屋は広くて明るくて、まるでホテルのようだ。",
+        "furigana": "この{部屋|へや}は{広|ひろ}くて{明|あか}るくて、まるでホテルのようだ。",
         "en": "This room is so big and bright, it's just like a hotel."
       },
       {
         "ja": "久しぶりに会った友達は、まるで別人のように変わっていた。",
+        "furigana": "{久|ひさ}しぶりに{会|あ}った{友達|ともだち}は、まるで{別人|べつじん}のように{変|か}わっていた。",
         "en": "My friend, whom I hadn't seen in ages, had changed so much she seemed like a different person."
       },
       {
         "ja": "三月なのに、今日はまるで真夏のように暑い。",
+        "furigana": "{三月|さんがつ}なのに、{今日|きょう}はまるで{真夏|まなつ}のように{暑|あつ}い。",
         "en": "It's only March, but today it's as hot as midsummer."
       }
     ],
@@ -828,14 +918,17 @@
     "examples": [
       {
         "ja": "隣の家は何日も電気が消えている。家族で旅行に出かけたに違いない。",
+        "furigana": "{隣|となり}の{家|いえ}は{何|なん}{日|にち}も{電気|でんき}が{消|き}えている。{家族|かぞく}で{旅行|りょこう}に{出|で}かけたに{違|ちが}いない。",
         "en": "The lights next door have been off for days. The family must have gone on a trip."
       },
       {
         "ja": "こんなに人が並んでいるんだから、この店のラーメンはおいしいに違いない。",
+        "furigana": "こんなに{人|ひと}が{並|なら}んでいるんだから、この{店|みせ}のラーメンはおいしいに{違|ちが}いない。",
         "en": "With this many people in line, the ramen here must be good."
       },
       {
         "ja": "この手紙の字は、父の字に違いない。",
+        "furigana": "この{手紙|てがみ}の{字|じ}は、{父|ちち}の{字|じ}に{違|ちが}いない。",
         "en": "The handwriting on this letter is surely my father's."
       }
     ],
@@ -856,14 +949,17 @@
     "examples": [
       {
         "ja": "練習もしないで試合に出たら、負けるに決まっている。",
+        "furigana": "{練習|れんしゅう}もしないで{試合|しあい}に{出|で}たら、{負|ま}けるに{決|き}まっている。",
         "en": "If you play the match without practicing, you're bound to lose."
       },
       {
         "ja": "一人で富士山に登るなんて、お母さんが心配するに決まってるでしょう。",
+        "furigana": "{一人|ひとり}で{富士山|ふじさん}に{登|のぼ}るなんて、お{母|かあ}さんが{心配|しんぱい}するに{決|き}まってるでしょう。",
         "en": "Climbing Mt. Fuji alone? Of course your mother's going to worry."
       },
       {
         "ja": "そんなうまい話、うそに決まっているよ。",
+        "furigana": "そんなうまい{話|はなし}、うそに{決|き}まっているよ。",
         "en": "A deal that good? It's got to be a lie."
       }
     ],
@@ -885,14 +981,17 @@
     "examples": [
       {
         "ja": "この人とは、どこかで会ったことがある気がする。",
+        "furigana": "この{人|ひと}とは、どこかで{会|あ}ったことがある{気|き}がする。",
         "en": "I feel like I've met this person somewhere before."
       },
       {
         "ja": "今日は何か、いいことがありそうな気がする。",
+        "furigana": "{今日|きょう}は{何|なに}か、いいことがありそうな{気|き}がする。",
         "en": "I have a feeling something good is going to happen today."
       },
       {
         "ja": "ドアの鍵をかけ忘れたような気がして、家に戻った。",
+        "furigana": "ドアの{鍵|かぎ}をかけ{忘|わす}れたような{気|き}がして、{家|いえ}に{戻|もど}った。",
         "en": "I had a feeling I'd forgotten to lock the door, so I went back home."
       }
     ],
@@ -912,14 +1011,17 @@
     "examples": [
       {
         "ja": "けさは朝ご飯を食べずに家を出た。",
+        "furigana": "けさは{朝|あさ}ご{飯|はん}を{食|た}べずに{家|いえ}を{出|で}た。",
         "en": "This morning I left home without eating breakfast."
       },
       {
         "ja": "辞書を使わずに、この新聞記事が読めますか。",
+        "furigana": "{辞書|じしょ}を{使|つか}わずに、この{新聞|しんぶん}{記事|きじ}が{読|よ}めますか。",
         "en": "Can you read this newspaper article without using a dictionary?"
       },
       {
         "ja": "彼は誰にも相談せずに、会社を辞めてしまった。",
+        "furigana": "{彼|かれ}は{誰|だれ}にも{相談|そうだん}せずに、{会社|かいしゃ}を{辞|や}めてしまった。",
         "en": "He quit the company without consulting anyone."
       }
     ],
@@ -940,14 +1042,17 @@
     "examples": [
       {
         "ja": "エアコンをつけたまま寝てしまい、風邪をひいた。",
+        "furigana": "エアコンをつけたまま{寝|ね}てしまい、{風邪|かぜ}をひいた。",
         "en": "I fell asleep with the air conditioner on and caught a cold."
       },
       {
         "ja": "この町は、私が子どもだったころのままだ。",
+        "furigana": "この{町|まち}は、{私|わたし}が{子|こ}どもだったころのままだ。",
         "en": "This town is just as it was when I was a child."
       },
       {
         "ja": "靴のまま部屋に入らないでください。",
+        "furigana": "{靴|くつ}のまま{部屋|へや}に{入|はい}らないでください。",
         "en": "Please don't come into the room with your shoes on."
       }
     ],
@@ -967,14 +1072,17 @@
     "examples": [
       {
         "ja": "若いうちに、いろいろな国を旅行したほうがいい。",
+        "furigana": "{若|わか}いうちに、いろいろな{国|くに}を{旅行|りょこう}したほうがいい。",
         "en": "You should travel to lots of countries while you're young."
       },
       {
         "ja": "スープが冷めないうちに、どうぞ召し上がってください。",
+        "furigana": "スープが{冷|さ}めないうちに、どうぞ{召|め}し{上|あ}がってください。",
         "en": "Please have your soup before it gets cold."
       },
       {
         "ja": "音楽を聞いているうちに、いつの間にか眠ってしまった。",
+        "furigana": "{音楽|おんがく}を{聞|き}いているうちに、いつの{間|ま}にか{眠|ねむ}ってしまった。",
         "en": "While I was listening to music, I fell asleep before I knew it."
       }
     ],
@@ -994,14 +1102,17 @@
     "examples": [
       {
         "ja": "出かけようとしているところに、友達から電話がかかってきた。",
+        "furigana": "{出|で}かけようとしているところに、{友達|ともだち}から{電話|でんわ}がかかってきた。",
         "en": "Just as I was about to go out, a friend called."
       },
       {
         "ja": "みんなで君の話をしているところへ、ちょうど君が来た。",
+        "furigana": "みんなで{君|きみ}の{話|はなし}をしているところへ、ちょうど{君|きみ}が{来|き}た。",
         "en": "Just as we were all talking about you, you showed up."
       },
       {
         "ja": "授業中にスマホを見ているところを、先生に見られてしまった。",
+        "furigana": "{授業|じゅぎょう}{中|ちゅう}にスマホを{見|み}ているところを、{先生|せんせい}に{見|み}られてしまった。",
         "en": "The teacher caught me looking at my phone during class."
       }
     ],
@@ -1020,14 +1131,17 @@
     "examples": [
       {
         "ja": "日本語は、勉強すればするほど面白くなる。",
+        "furigana": "{日本語|にほんご}は、{勉強|べんきょう}すればするほど{面白|おもしろ}くなる。",
         "en": "The more you study Japanese, the more interesting it gets."
       },
       {
         "ja": "スマホの画面は大きければ大きいほど見やすいが、持ち歩くのは大変だ。",
+        "furigana": "スマホの{画面|がめん}は{大|おお}きければ{大|おお}きいほど{見|み}やすいが、{持|も}ち{歩|ある}くのは{大変|たいへん}だ。",
         "en": "The bigger a phone screen, the easier it is to see, but it's a pain to carry around."
       },
       {
         "ja": "部屋が静かなら静かなほど、よく眠れる。",
+        "furigana": "{部屋|へや}が{静|しず}かなら{静|しず}かなほど、よく{眠|ねむ}れる。",
         "en": "The quieter the room, the better I sleep."
       }
     ],
@@ -1048,14 +1162,17 @@
     "examples": [
       {
         "ja": "昨日は、立っていられないほど疲れていた。",
+        "furigana": "{昨日|きのう}は、{立|た}っていられないほど{疲|つか}れていた。",
         "en": "Yesterday I was so tired I could hardly stand."
       },
       {
         "ja": "試験に合格したと聞いて、涙が出るほどうれしかった。",
+        "furigana": "{試験|しけん}に{合格|ごうかく}したと{聞|き}いて、{涙|なみだ}が{出|で}るほどうれしかった。",
         "en": "When I heard I'd passed the exam, I was so happy I cried."
       },
       {
         "ja": "このあたりは、夜になると怖いほど静かだ。",
+        "furigana": "このあたりは、{夜|よる}になると{怖|こわ}いほど{静|しず}かだ。",
         "en": "At night this area gets so quiet it's scary."
       }
     ],
@@ -1074,14 +1191,17 @@
     "examples": [
       {
         "ja": "おなかが痛くて、歩けないくらいだった。",
+        "furigana": "おなかが{痛|いた}くて、{歩|ある}けないくらいだった。",
         "en": "My stomach hurt so much I could barely walk."
       },
       {
         "ja": "隣の部屋の音楽がうるさくて、自分の声も聞こえないぐらいだ。",
+        "furigana": "{隣|となり}の{部屋|へや}の{音楽|おんがく}がうるさくて、{自分|じぶん}の{声|こえ}も{聞|き}こえないぐらいだ。",
         "en": "The music next door is so loud I can't even hear my own voice."
       },
       {
         "ja": "自分の部屋ぐらい、自分で掃除しなさい。",
+        "furigana": "{自分|じぶん}の{部屋|へや}ぐらい、{自分|じぶん}で{掃除|そうじ}しなさい。",
         "en": "At least clean your own room yourself."
       }
     ],
@@ -1101,14 +1221,17 @@
     "examples": [
       {
         "ja": "忙しくて、昼ご飯を食べる時間さえなかった。",
+        "furigana": "{忙|いそが}しくて、{昼|ひる}ご{飯|はん}を{食|た}べる{時間|じかん}さえなかった。",
         "en": "I was so busy I didn't even have time to eat lunch."
       },
       {
         "ja": "こんな簡単な問題は、小学生でさえ解ける。",
+        "furigana": "こんな{簡単|かんたん}な{問題|もんだい}は、{小学生|しょうがくせい}でさえ{解|と}ける。",
         "en": "Even an elementary school student could solve such an easy problem."
       },
       {
         "ja": "彼女は親友にさえ本当のことを話さなかった。",
+        "furigana": "{彼女|かのじょ}は{親友|しんゆう}にさえ{本当|ほんとう}のことを{話|はな}さなかった。",
         "en": "She didn't tell the truth even to her best friend."
       }
     ],
@@ -1127,14 +1250,17 @@
     "examples": [
       {
         "ja": "このアプリさえあれば、どこでも日本語の勉強ができる。",
+        "furigana": "このアプリさえあれば、どこでも{日本語|にほんご}の{勉強|べんきょう}ができる。",
         "en": "As long as you have this app, you can study Japanese anywhere."
       },
       {
         "ja": "時間さえあれば、もっと旅行に行きたいんですが。",
+        "furigana": "{時間|じかん}さえあれば、もっと{旅行|りょこう}に{行|い}きたいんですが。",
         "en": "If only I had the time, I'd love to travel more."
       },
       {
         "ja": "薬を飲んで寝てさえいれば、すぐに治りますよ。",
+        "furigana": "{薬|くすり}を{飲|の}んで{寝|ね}てさえいれば、すぐに{治|なお}りますよ。",
         "en": "As long as you take your medicine and stay in bed, you'll be better in no time."
       }
     ],
@@ -1158,10 +1284,12 @@
       },
       {
         "ja": "今年こそ、たばこをやめるつもりだ。",
+        "furigana": "{今年|ことし}こそ、たばこをやめるつもりだ。",
         "en": "This year, for sure, I'm going to quit smoking."
       },
       {
         "ja": "毎日の小さな努力こそが、大きな成功につながる。",
+        "furigana": "{毎日|まいにち}の{小|ちい}さな{努力|どりょく}こそが、{大|おお}きな{成功|せいこう}につながる。",
         "en": "It's precisely small daily efforts that lead to great success."
       }
     ],
@@ -1180,14 +1308,17 @@
     "examples": [
       {
         "ja": "兄は、エンジニアとしてアメリカの会社で働いている。",
+        "furigana": "{兄|あに}は、エンジニアとしてアメリカの{会社|かいしゃ}で{働|はたら}いている。",
         "en": "My older brother works as an engineer at an American company."
       },
       {
         "ja": "この町は、温泉地として有名です。",
+        "furigana": "この{町|まち}は、{温泉|おんせん}{地|ち}として{有名|ゆうめい}です。",
         "en": "This town is famous as a hot-spring resort."
       },
       {
         "ja": "社会人としての責任を持って行動してください。",
+        "furigana": "{社会|しゃかい}{人|じん}としての{責任|せきにん}を{持|も}って{行動|こうどう}してください。",
         "en": "Please act with the responsibility expected of a working adult."
       }
     ],
@@ -1207,14 +1338,17 @@
     "examples": [
       {
         "ja": "私にとって、家族は何よりも大切なものです。",
+        "furigana": "{私|わたし}にとって、{家族|かぞく}は{何|なに}よりも{大切|たいせつ}なものです。",
         "en": "To me, family is more important than anything."
       },
       {
         "ja": "このあたりの坂道は、お年寄りにとってはかなり大変だ。",
+        "furigana": "このあたりの{坂道|さかみち}は、お{年寄|としよ}りにとってはかなり{大変|たいへん}だ。",
         "en": "The slopes around here are quite tough for elderly people."
       },
       {
         "ja": "留学は、彼にとっていい経験になったようだ。",
+        "furigana": "{留学|りゅうがく}は、{彼|かれ}にとっていい{経験|けいけん}になったようだ。",
         "en": "Studying abroad seems to have been a good experience for him."
       }
     ],
@@ -1233,14 +1367,17 @@
     "examples": [
       {
         "ja": "初めて作ったにしては、このケーキはよくできている。",
+        "furigana": "{初|はじ}めて{作|つく}ったにしては、このケーキはよくできている。",
         "en": "For a first attempt, this cake turned out really well."
       },
       {
         "ja": "彼は小学生にしては、ずいぶん難しい言葉を知っている。",
+        "furigana": "{彼|かれ}は{小学生|しょうがくせい}にしては、ずいぶん{難|むずか}しい{言葉|ことば}を{知|し}っている。",
         "en": "For an elementary school kid, he knows some pretty difficult words."
       },
       {
         "ja": "十月にしては、今日はずいぶん暑いね。",
+        "furigana": "{十月|じゅうがつ}にしては、{今日|きょう}はずいぶん{暑|あつ}いね。",
         "en": "It's pretty hot today for October."
       }
     ],
@@ -1260,14 +1397,17 @@
     "examples": [
       {
         "ja": "忙しかったにしても、電話一本ぐらいできたでしょう。",
+        "furigana": "{忙|いそが}しかったにしても、{電話|でんわ}{一本|いっぽん}ぐらいできたでしょう。",
         "en": "Even if you were busy, you could at least have made one phone call."
       },
       {
         "ja": "冗談にしても、そんな言い方はひどいよ。",
+        "furigana": "{冗談|じょうだん}にしても、そんな{言|い}い{方|かた}はひどいよ。",
         "en": "Even if it was a joke, that was a terrible thing to say."
       },
       {
         "ja": "引っ越すにしても、来年の春以降になると思います。",
+        "furigana": "{引|ひ}っ{越|こ}すにしても、{来年|らいねん}の{春|はる}{以降|いこう}になると{思|おも}います。",
         "en": "Even if we do move, I think it'll be after next spring."
       }
     ],
@@ -1287,14 +1427,17 @@
     "examples": [
       {
         "ja": "新しいサービスに関してご質問がある方は、受付までどうぞ。",
+        "furigana": "{新|あたら}しいサービスに{関|かん}してご{質問|しつもん}がある{方|かた}は、{受付|うけつけ}までどうぞ。",
         "en": "Anyone with questions regarding the new service, please come to the reception desk."
       },
       {
         "ja": "彼は日本の歴史に関する本をたくさん持っている。",
+        "furigana": "{彼|かれ}は{日本|にほん}の{歴史|れきし}に{関|かん}する{本|ほん}をたくさん{持|も}っている。",
         "en": "He owns a lot of books on Japanese history."
       },
       {
         "ja": "事故の原因に関しては、現在調査中です。",
+        "furigana": "{事故|じこ}の{原因|げんいん}に{関|かん}しては、{現在|げんざい}{調査|ちょうさ}{中|ちゅう}です。",
         "en": "The cause of the accident is currently under investigation."
       }
     ],
@@ -1315,14 +1458,17 @@
     "examples": [
       {
         "ja": "今年の夏は、去年に比べてずいぶん涼しい。",
+        "furigana": "{今年|ことし}の{夏|なつ}は、{去年|きょねん}に{比|くら}べてずいぶん{涼|すず}しい。",
         "en": "This summer is much cooler compared to last year."
       },
       {
         "ja": "都会に比べて、田舎は家賃が安い。",
+        "furigana": "{都会|とかい}に{比|くら}べて、{田舎|いなか}は{家賃|やちん}が{安|やす}い。",
         "en": "Compared to the city, rent in the countryside is cheap."
       },
       {
         "ja": "電車で行くのに比べて、車で行くと三十分ほど長くかかる。",
+        "furigana": "{電車|でんしゃ}で{行|い}くのに{比|くら}べて、{車|くるま}で{行|い}くと{三十分|さんじゅっぷん}ほど{長|なが}くかかる。",
         "en": "Compared to going by train, driving takes about thirty minutes longer."
       }
     ],
@@ -1342,14 +1488,17 @@
     "examples": [
       {
         "ja": "入院中の社長に代わって、副社長があいさつをした。",
+        "furigana": "{入院|にゅういん}{中|ちゅう}の{社長|しゃちょう}に{代|か}わって、{副|ふく}{社長|しゃちょう}があいさつをした。",
         "en": "The vice president gave the speech on behalf of the president, who is in hospital."
       },
       {
         "ja": "最近は、紙の新聞に代わって、スマホでニュースを読む人が増えている。",
+        "furigana": "{最近|さいきん}は、{紙|かみ}の{新聞|しんぶん}に{代|か}わって、スマホでニュースを{読|よ}む{人|ひと}が{増|ふ}えている。",
         "en": "More and more people these days read the news on their phones instead of in paper newspapers."
       },
       {
         "ja": "父に代わって、私が町内会の会議に出席しました。",
+        "furigana": "{父|ちち}に{代|か}わって、{私|わたし}が{町内|ちょうない}{会|かい}の{会議|かいぎ}に{出席|しゅっせき}しました。",
         "en": "I attended the neighborhood association meeting in place of my father."
       }
     ],
@@ -1370,14 +1519,17 @@
     "examples": [
       {
         "ja": "今日は外で食べる代わりに、家でカレーを作った。",
+        "furigana": "{今日|きょう}は{外|そと}で{食|た}べる{代|か}わりに、{家|いえ}でカレーを{作|つく}った。",
         "en": "Instead of eating out today, I made curry at home."
       },
       {
         "ja": "友達に英語を教える代わりに、ギターを教えてもらっている。",
+        "furigana": "{友達|ともだち}に{英語|えいご}を{教|おし}える{代|か}わりに、ギターを{教|おし}えてもらっている。",
         "en": "In exchange for teaching my friend English, I'm getting guitar lessons."
       },
       {
         "ja": "このアパートは駅から遠い代わりに、家賃が安い。",
+        "furigana": "このアパートは{駅|えき}から{遠|とお}い{代|か}わりに、{家賃|やちん}が{安|やす}い。",
         "en": "This apartment is far from the station, but to make up for it, the rent is cheap."
       }
     ],
@@ -1398,14 +1550,17 @@
     "examples": [
       {
         "ja": "係の人の指示に従って、落ち着いて避難してください。",
+        "furigana": "{係|かかり}の{人|ひと}の{指示|しじ}に{従|したが}って、{落|お}ち{着|つ}いて{避難|ひなん}してください。",
         "en": "Please evacuate calmly, following the staff's instructions."
       },
       {
         "ja": "高く登るに従って、気温が下がっていった。",
+        "furigana": "{高|たか}く{登|のぼ}るに{従|したが}って、{気温|きおん}が{下|さ}がっていった。",
         "en": "The higher we climbed, the lower the temperature dropped."
       },
       {
         "ja": "町が大きくなるに従って、交通の問題も増えてきた。",
+        "furigana": "{町|まち}が{大|おお}きくなるに{従|したが}って、{交通|こうつう}の{問題|もんだい}も{増|ふ}えてきた。",
         "en": "As the town grew, traffic problems increased too."
       }
     ],
@@ -1425,14 +1580,17 @@
     "examples": [
       {
         "ja": "年をとるにつれて、朝早く目が覚めるようになった。",
+        "furigana": "{年|とし}をとるにつれて、{朝|あさ}{早|はや}く{目|め}が{覚|さ}めるようになった。",
         "en": "As I've gotten older, I've started waking up early in the morning."
       },
       {
         "ja": "日本での生活に慣れるにつれて、友達も増えていった。",
+        "furigana": "{日本|にほん}での{生活|せいかつ}に{慣|な}れるにつれて、{友達|ともだち}も{増|ふ}えていった。",
         "en": "As I got used to life in Japan, I made more and more friends."
       },
       {
         "ja": "時間がたつにつれて、その事故のことは忘れられていった。",
+        "furigana": "{時間|じかん}がたつにつれて、その{事故|じこ}のことは{忘|わす}れられていった。",
         "en": "As time passed, the accident was gradually forgotten."
       }
     ],
@@ -1452,14 +1610,17 @@
     "examples": [
       {
         "ja": "社長は、社員とともに新しい工場の完成を喜んだ。",
+        "furigana": "{社長|しゃちょう}は、{社員|しゃいん}とともに{新|あたら}しい{工場|こうじょう}の{完成|かんせい}を{喜|よろこ}んだ。",
         "en": "The company president celebrated the completion of the new factory together with the staff."
       },
       {
         "ja": "経済の発展とともに、人々の生活も大きく変わった。",
+        "furigana": "{経済|けいざい}の{発展|はってん}とともに、{人々|ひとびと}の{生活|せいかつ}も{大|おお}きく{変|か}わった。",
         "en": "Along with economic development, people's lives changed greatly too."
       },
       {
         "ja": "ベルが鳴るとともに、学生たちは教室を飛び出した。",
+        "furigana": "ベルが{鳴|な}るとともに、{学生|がくせい}たちは{教室|きょうしつ}を{飛|と}び{出|だ}した。",
         "en": "The moment the bell rang, the students rushed out of the classroom."
       }
     ],
@@ -1480,14 +1641,17 @@
     "examples": [
       {
         "ja": "この写真を見るたびに、大学時代を思い出す。",
+        "furigana": "この{写真|しゃしん}を{見|み}るたびに、{大学|だいがく}{時代|じだい}を{思|おも}い{出|だ}す。",
         "en": "Every time I look at this photo, I remember my university days."
       },
       {
         "ja": "姉は出張のたびに、お土産を買ってきてくれる。",
+        "furigana": "{姉|あね}は{出張|しゅっちょう}のたびに、お{土産|みやげ}を{買|か}ってきてくれる。",
         "en": "My older sister brings me a souvenir every time she goes on a business trip."
       },
       {
         "ja": "この川は、大雨が降るたびにあふれて、道が通れなくなる。",
+        "furigana": "この{川|かわ}は、{大雨|おおあめ}が{降|ふ}るたびにあふれて、{道|みち}が{通|とお}れなくなる。",
         "en": "Every time there's heavy rain, this river overflows and the road becomes impassable."
       }
     ],
@@ -1507,14 +1671,17 @@
     "examples": [
       {
         "ja": "このバスは十五分ごとに出ています。",
+        "furigana": "このバスは{十|じゅう}{五|ご}{分|ふん}ごとに{出|で}ています。",
         "en": "This bus leaves every fifteen minutes."
       },
       {
         "ja": "季節ごとに、店の飾りが変わる。",
+        "furigana": "{季節|きせつ}ごとに、{店|みせ}の{飾|かざ}りが{変|か}わる。",
         "en": "The shop's decorations change with each season."
       },
       {
         "ja": "一回使うごとにポイントがたまるカードです。",
+        "furigana": "{一回|いっかい}{使|つか}うごとにポイントがたまるカードです。",
         "en": "It's a card that earns you points every time you use it."
       }
     ],
@@ -1535,14 +1702,17 @@
     "examples": [
       {
         "ja": "大事な会議の最中に、携帯電話が鳴ってしまった。",
+        "furigana": "{大事|だいじ}な{会議|かいぎ}の{最中|さいちゅう}に、{携帯|けいたい}{電話|でんわ}が{鳴|な}ってしまった。",
         "en": "My cell phone went off right in the middle of an important meeting."
       },
       {
         "ja": "料理をしている最中に、停電になった。",
+        "furigana": "{料理|りょうり}をしている{最中|さいちゅう}に、{停電|ていでん}になった。",
         "en": "The power went out right in the middle of my cooking."
       },
       {
         "ja": "今、試験の最中だから、廊下では静かにしてください。",
+        "furigana": "{今|いま}、{試験|しけん}の{最中|さいちゅう}だから、{廊下|ろうか}では{静|しず}かにしてください。",
         "en": "An exam is in progress right now, so please be quiet in the hallway."
       }
     ],
@@ -1562,14 +1732,17 @@
     "examples": [
       {
         "ja": "郵便局へ行くついでに、この手紙も出してきてくれる？",
+        "furigana": "{郵便|ゆうびん}{局|きょく}へ{行|い}くついでに、この{手紙|てがみ}も{出|だ}してきてくれる？",
         "en": "Since you're going to the post office, could you mail this letter too?"
       },
       {
         "ja": "京都へ出張したついでに、昔の友達に会ってきた。",
+        "furigana": "{京都|きょうと}へ{出張|しゅっちょう}したついでに、{昔|むかし}の{友達|ともだち}に{会|あ}ってきた。",
         "en": "While I was on a business trip to Kyoto, I took the chance to see an old friend."
       },
       {
         "ja": "買い物のついでに、図書館に本を返した。",
+        "furigana": "{買|か}い{物|もの}のついでに、{図書館|としょかん}に{本|ほん}を{返|かえ}した。",
         "en": "I returned some books to the library while I was out shopping."
       }
     ],
@@ -1589,14 +1762,17 @@
     "examples": [
       {
         "ja": "先輩が手伝ってくれたおかげで、仕事が早く終わった。",
+        "furigana": "{先輩|せんぱい}が{手伝|てつだ}ってくれたおかげで、{仕事|しごと}が{早|はや}く{終|お}わった。",
         "en": "Thanks to my senior colleague's help, the work was finished early."
       },
       {
         "ja": "薬が効いたおかげで、熱が下がった。",
+        "furigana": "{薬|くすり}が{効|き}いたおかげで、{熱|ねつ}が{下|さ}がった。",
         "en": "Thanks to the medicine, my fever went down."
       },
       {
         "ja": "駅が近いおかげで、雨の日も楽に通勤できる。",
+        "furigana": "{駅|えき}が{近|ちか}いおかげで、{雨|あめ}の{日|ひ}も{楽|らく}に{通勤|つうきん}できる。",
         "en": "Because the station is close by, commuting is easy even on rainy days."
       }
     ],
@@ -1617,14 +1793,17 @@
     "examples": [
       {
         "ja": "電車が遅れたせいで、面接に遅刻してしまった。",
+        "furigana": "{電車|でんしゃ}が{遅|おく}れたせいで、{面接|めんせつ}に{遅刻|ちこく}してしまった。",
         "en": "Because the train was delayed, I was late for my interview."
       },
       {
         "ja": "夜中に犬がうるさかったせいで、ほとんど眠れなかった。",
+        "furigana": "{夜中|よなか}に{犬|いぬ}がうるさかったせいで、ほとんど{眠|ねむ}れなかった。",
         "en": "Because the dog was so noisy in the middle of the night, I could barely sleep."
       },
       {
         "ja": "私が道を間違えたせいで、みんなを待たせてしまった。",
+        "furigana": "{私|わたし}が{道|みち}を{間違|まちが}えたせいで、みんなを{待|ま}たせてしまった。",
         "en": "Because I took a wrong turn, I kept everyone waiting."
       }
     ],
@@ -1645,14 +1824,17 @@
     "examples": [
       {
         "ja": "立ち上がったとたんに、めまいがした。",
+        "furigana": "{立|た}ち{上|あ}がったとたんに、めまいがした。",
         "en": "The moment I stood up, I felt dizzy."
       },
       {
         "ja": "家を出たとたん、雨が降り出した。",
+        "furigana": "{家|いえ}を{出|で}たとたん、{雨|あめ}が{降|ふ}り{出|だ}した。",
         "en": "Just as I stepped out of the house, it started to rain."
       },
       {
         "ja": "その歌手がステージに現れたとたん、会場から大きな拍手が起こった。",
+        "furigana": "その{歌手|かしゅ}がステージに{現|あらわ}れたとたん、{会場|かいじょう}から{大|おお}きな{拍手|はくしゅ}が{起|お}こった。",
         "en": "The moment the singer appeared on stage, the audience burst into applause."
       }
     ],
@@ -1673,14 +1855,17 @@
     "examples": [
       {
         "ja": "窓を開けたら、外は一面の雪だった。",
+        "furigana": "{窓|まど}を{開|あ}けたら、{外|そと}は{一|いち}{面|めん}の{雪|ゆき}だった。",
         "en": "When I opened the window, everything outside was covered in snow."
       },
       {
         "ja": "久しぶりに実家に帰ったら、近所に大きなマンションが建っていた。",
+        "furigana": "{久|ひさ}しぶりに{実家|じっか}に{帰|かえ}ったら、{近所|きんじょ}に{大|おお}きなマンションが{建|た}っていた。",
         "en": "When I went back to my parents' place for the first time in ages, I found a big apartment building had gone up nearby."
       },
       {
         "ja": "かばんの中を探してみたら、なくしたと思っていた鍵が出てきた。",
+        "furigana": "かばんの{中|なか}を{探|さが}してみたら、なくしたと{思|おも}っていた{鍵|かぎ}が{出|で}てきた。",
         "en": "When I searched my bag, the key I thought I'd lost turned up."
       }
     ],
@@ -1701,14 +1886,17 @@
     "examples": [
       {
         "ja": "今から急いだって、もう間に合わないよ。",
+        "furigana": "{今|いま}から{急|いそ}いだって、もう{間|ま}に{合|あ}わないよ。",
         "en": "Even if you hurry now, you won't make it."
       },
       {
         "ja": "高くたって、欲しいものは欲しい。",
+        "furigana": "{高|たか}くたって、{欲|ほ}しいものは{欲|ほ}しい。",
         "en": "Even if it's expensive, I want what I want."
       },
       {
         "ja": "いくら便利だって、使い方が分からなければ意味がない。",
+        "furigana": "いくら{便利|べんり}だって、{使|つか}い{方|かた}が{分|わ}からなければ{意味|いみ}がない。",
         "en": "No matter how convenient it is, it's pointless if you don't know how to use it."
       }
     ],
@@ -1728,14 +1916,17 @@
     "examples": [
       {
         "ja": "辛い料理は食べられないことはないけど、あまり好きじゃない。",
+        "furigana": "{辛|から}い{料理|りょうり}は{食|た}べられないことはないけど、あまり{好|す}きじゃない。",
         "en": "It's not that I can't eat spicy food, but I don't really like it."
       },
       {
         "ja": "今から急げば、間に合わないことはないと思う。",
+        "furigana": "{今|いま}から{急|いそ}げば、{間|ま}に{合|あ}わないことはないと{思|おも}う。",
         "en": "If we hurry now, I think we can just about make it."
       },
       {
         "ja": "この服、少し派手だけど、似合わないことはないよ。",
+        "furigana": "この{服|ふく}、{少|すこ}し{派手|はで}だけど、{似合|にあ}わないことはないよ。",
         "en": "This outfit is a bit flashy, but it's not as if it doesn't suit you."
       }
     ],
@@ -1755,14 +1946,17 @@
     "examples": [
       {
         "ja": "昨日あまり寝ていないので、眠くてしょうがない。",
+        "furigana": "{昨日|きのう}あまり{寝|ね}ていないので、{眠|ねむ}くてしょうがない。",
         "en": "I barely slept last night, so I'm terribly sleepy."
       },
       {
         "ja": "来週の旅行が楽しみでしかたがない。",
+        "furigana": "{来週|らいしゅう}の{旅行|りょこう}が{楽|たの}しみでしかたがない。",
         "en": "I'm so excited about next week's trip I can hardly wait."
       },
       {
         "ja": "一人暮らしを始めたばかりのころは、家族のことが気になってしかたがなかった。",
+        "furigana": "{一人暮|ひとりぐ}らしを{始|はじ}めたばかりのころは、{家族|かぞく}のことが{気|き}になってしかたがなかった。",
         "en": "When I'd just started living alone, I couldn't stop worrying about my family."
       }
     ],
@@ -1782,14 +1976,17 @@
     "examples": [
       {
         "ja": "この部屋はエアコンがなくて、暑くてたまらない。",
+        "furigana": "この{部屋|へや}はエアコンがなくて、{暑|あつ}くてたまらない。",
         "en": "This room has no air conditioning; it's unbearably hot."
       },
       {
         "ja": "三年ぶりに国の家族に会えるので、うれしくてたまらない。",
+        "furigana": "{三|さん}{年|ねん}ぶりに{国|くに}の{家族|かぞく}に{会|あ}えるので、うれしくてたまらない。",
         "en": "I'm going to see my family back home for the first time in three years, and I'm overjoyed."
       },
       {
         "ja": "試合に負けたのが悔しくてたまらなかった。",
+        "furigana": "{試合|しあい}に{負|ま}けたのが{悔|くや}しくてたまらなかった。",
         "en": "I was terribly frustrated that we lost the match."
       }
     ],
@@ -1809,14 +2006,17 @@
     "examples": [
       {
         "ja": "病気になってはじめて、健康のありがたさが分かった。",
+        "furigana": "{病気|びょうき}になってはじめて、{健康|けんこう}のありがたさが{分|わ}かった。",
         "en": "It was only after I got sick that I appreciated how precious good health is."
       },
       {
         "ja": "一人で暮らしてはじめて、親の苦労が分かった。",
+        "furigana": "{一人|ひとり}で{暮|く}らしてはじめて、{親|おや}の{苦労|くろう}が{分|わ}かった。",
         "en": "Only after living alone did I understand how hard my parents had worked."
       },
       {
         "ja": "実際に使ってみてはじめて、この機械の便利さに気づいた。",
+        "furigana": "{実際|じっさい}に{使|つか}ってみてはじめて、この{機械|きかい}の{便利|べんり}さに{気|き}づいた。",
         "en": "It wasn't until I actually tried it that I realized how handy this machine is."
       }
     ],
@@ -1836,14 +2036,17 @@
     "examples": [
       {
         "ja": "弟は休みの日、ゲームをしてばかりいる。",
+        "furigana": "{弟|おとうと}は{休|やす}みの{日|ひ}、ゲームをしてばかりいる。",
         "en": "On his days off, my younger brother does nothing but play games."
       },
       {
         "ja": "泣いてばかりいないで、どうしたのか話してごらん。",
+        "furigana": "{泣|な}いてばかりいないで、どうしたのか{話|はな}してごらん。",
         "en": "Stop crying and tell me what happened."
       },
       {
         "ja": "休みの間、寝てばかりいたら、かえって疲れてしまった。",
+        "furigana": "{休|やす}みの{間|あいだ}、{寝|ね}てばかりいたら、かえって{疲|つか}れてしまった。",
         "en": "I did nothing but sleep during the break, and it actually made me more tired."
       }
     ],
@@ -1864,14 +2067,17 @@
     "examples": [
       {
         "ja": "「この書類、どこに出せばいいですか。」「二階の受付に出してください。」",
+        "furigana": "「この{書類|しょるい}、どこに{出|だ}せばいいですか。」「{二|に}{階|かい}の{受付|うけつけ}に{出|だ}してください。」",
         "en": "'Where should I hand in this form?' 'Please take it to the reception desk on the second floor.'"
       },
       {
         "ja": "分からないことがあったら、遠慮しないで私に聞けばいいよ。",
+        "furigana": "{分|わ}からないことがあったら、{遠慮|えんりょ}しないで{私|わたし}に{聞|き}けばいいよ。",
         "en": "If there's anything you don't understand, just ask me. Don't be shy."
       },
       {
         "ja": "明日、雨が降らなければいいんだけど。",
+        "furigana": "{明日|あした}、{雨|あめ}が{降|ふ}らなければいいんだけど。",
         "en": "I hope it doesn't rain tomorrow."
       }
     ],
@@ -1893,14 +2099,17 @@
     "examples": [
       {
         "ja": "雨の場合は、試合は中止になります。",
+        "furigana": "{雨|あめ}の{場合|ばあい}は、{試合|しあい}は{中止|ちゅうし}になります。",
         "en": "In case of rain, the game will be canceled."
       },
       {
         "ja": "カードをなくした場合は、すぐに銀行に連絡してください。",
+        "furigana": "カードをなくした{場合|ばあい}は、すぐに{銀行|ぎんこう}に{連絡|れんらく}してください。",
         "en": "If you lose your card, contact the bank immediately."
       },
       {
         "ja": "予約の時間に遅れる場合は、お電話でお知らせください。",
+        "furigana": "{予約|よやく}の{時間|じかん}に{遅|おく}れる{場合|ばあい}は、お{電話|でんわ}でお{知|し}らせください。",
         "en": "If you are going to be late for your appointment, please let us know by phone."
       }
     ],
@@ -1920,14 +2129,17 @@
     "examples": [
       {
         "ja": "もし宝くじで一億円当たったとしたら、何に使いますか。",
+        "furigana": "もし{宝|たから}くじで{一|いち}{億|おく}{円|えん}{当|あ}たったとしたら、{何|なに}に{使|つか}いますか。",
         "en": "If you won 100 million yen in the lottery, what would you spend it on?"
       },
       {
         "ja": "今から出発するとすれば、向こうに着くのは夜の九時ごろになる。",
+        "furigana": "{今|いま}から{出発|しゅっぱつ}するとすれば、{向|む}こうに{着|つ}くのは{夜|よる}の{九時|くじ}ごろになる。",
         "en": "If we set off now, we'll get there at around nine at night."
       },
       {
         "ja": "彼の話が本当だとしたら、大変なことになる。",
+        "furigana": "{彼|かれ}の{話|はなし}が{本当|ほんとう}だとしたら、{大変|たいへん}なことになる。",
         "en": "If what he says is true, we're in serious trouble."
       }
     ],
@@ -1947,14 +2159,17 @@
     "examples": [
       {
         "ja": "親に反対されたとしても、私は留学するつもりだ。",
+        "furigana": "{親|おや}に{反対|はんたい}されたとしても、{私|わたし}は{留学|りゅうがく}するつもりだ。",
         "en": "Even if my parents are against it, I intend to study abroad."
       },
       {
         "ja": "今からタクシーに乗ったとしても、九時の飛行機には間に合わないだろう。",
+        "furigana": "{今|いま}からタクシーに{乗|の}ったとしても、{九時|くじ}の{飛行機|ひこうき}には{間|ま}に{合|あ}わないだろう。",
         "en": "Even if we took a taxi now, we probably wouldn't make the nine o'clock flight."
       },
       {
         "ja": "それが本当だとしても、ほかの人に話すべきではない。",
+        "furigana": "それが{本当|ほんとう}だとしても、ほかの{人|ひと}に{話|はな}すべきではない。",
         "en": "Even if that's true, you shouldn't tell anyone else."
       }
     ],
@@ -1974,14 +2189,17 @@
     "examples": [
       {
         "ja": "駅前の本屋、今月で閉店するとか。寂しくなりますね。",
+        "furigana": "{駅前|えきまえ}の{本屋|ほんや}、{今月|こんげつ}で{閉店|へいてん}するとか。{寂|さび}しくなりますね。",
         "en": "I hear the bookstore by the station is closing at the end of this month. It'll be sad to see it go."
       },
       {
         "ja": "今年の冬は、例年より寒くなるとかいう話だよ。",
+        "furigana": "{今年|ことし}の{冬|ふゆ}は、{例年|れいねん}より{寒|さむ}くなるとかいう{話|はなし}だよ。",
         "en": "Word is that this winter is going to be colder than usual."
       },
       {
         "ja": "部長は今日、熱があるとかで休んでいます。",
+        "furigana": "{部長|ぶちょう}は{今日|きょう}、{熱|ねつ}があるとかで{休|やす}んでいます。",
         "en": "The department manager is off today; something about having a fever."
       }
     ],
@@ -2001,14 +2219,17 @@
     "examples": [
       {
         "ja": "彼女、今日は来られないって。",
+        "furigana": "{彼女|かのじょ}、{今日|きょう}は{来|こ}られないって。",
         "en": "She says she can't come today."
       },
       {
         "ja": "駅前に新しいカフェができたんだって。行ってみない？",
+        "furigana": "{駅前|えきまえ}に{新|あたら}しいカフェができたんだって。{行|い}ってみない？",
         "en": "Apparently a new café opened by the station. Want to go check it out?"
       },
       {
         "ja": "「ふろしき」って何ですか。",
+        "furigana": "「ふろしき」って{何|なん}ですか。",
         "en": "What's a furoshiki?"
       }
     ],
@@ -2029,14 +2250,17 @@
     "examples": [
       {
         "ja": "駅員さんの話では、事故のため電車は一時間ほど止まるということです。",
+        "furigana": "{駅員|えきいん}さんの{話|はなし}では、{事故|じこ}のため{電車|でんしゃ}は{一|いち}{時間|じかん}ほど{止|と}まるということです。",
         "en": "According to the station attendant, trains will be stopped for about an hour because of an accident."
       },
       {
         "ja": "「申し込みは明日までです。」「じゃあ、今日中に書類を準備しなければならないということですね。」",
+        "furigana": "「{申|もう}し{込|こ}みは{明日|あした}までです。」「じゃあ、{今日中|きょうじゅう}に{書類|しょるい}を{準備|じゅんび}しなければならないということですね。」",
         "en": "'Applications close tomorrow.' 'So that means I have to get my documents ready today, right?'"
       },
       {
         "ja": "全員が賛成したということは、この計画で進めてもいいということだ。",
+        "furigana": "{全員|ぜんいん}が{賛成|さんせい}したということは、この{計画|けいかく}で{進|すす}めてもいいということだ。",
         "en": "Everyone agreeing means we can go ahead with this plan."
       }
     ],
@@ -2056,14 +2280,17 @@
     "examples": [
       {
         "ja": "「割り勘」というのは、食事代などをみんなで同じ金額ずつ払うことです。",
+        "furigana": "「{割|わ}り{勘|かん}」というのは、{食事|しょくじ}{代|だい}などをみんなで{同|おな}じ{金額|きんがく}ずつ{払|はら}うことです。",
         "en": "'Warikan' means everyone paying the same share of a meal or other bill."
       },
       {
         "ja": "一人で海外に住むというのは、思ったより大変なことだ。",
+        "furigana": "{一人|ひとり}で{海外|かいがい}に{住|す}むというのは、{思|おも}ったより{大変|たいへん}なことだ。",
         "en": "Living abroad on your own is harder than you'd think."
       },
       {
         "ja": "来週の旅行には行けなくなった。というのは、急に出張が入ったからだ。",
+        "furigana": "{来週|らいしゅう}の{旅行|りょこう}には{行|い}けなくなった。というのは、{急|きゅう}に{出張|しゅっちょう}が{入|はい}ったからだ。",
         "en": "I can't go on next week's trip after all. That's because a business trip suddenly came up."
       }
     ],
@@ -2083,14 +2310,17 @@
     "examples": [
       {
         "ja": "今日は涼しいというより、寒いくらいだ。",
+        "furigana": "{今日|きょう}は{涼|すず}しいというより、{寒|さむ}いくらいだ。",
         "en": "Today it's not so much cool as almost cold."
       },
       {
         "ja": "彼女は友達というより、家族のような存在だ。",
+        "furigana": "{彼女|かのじょ}は{友達|ともだち}というより、{家族|かぞく}のような{存在|そんざい}だ。",
         "en": "She's less a friend than something like family to me."
       },
       {
         "ja": "それは意見というより、ただの文句だよ。",
+        "furigana": "それは{意見|いけん}というより、ただの{文句|もんく}だよ。",
         "en": "That's not so much an opinion as just a complaint."
       }
     ],
@@ -2109,14 +2339,17 @@
     "examples": [
       {
         "ja": "この店は値段のわりに、量が多くておいしい。",
+        "furigana": "この{店|みせ}は{値段|ねだん}のわりに、{量|りょう}が{多|おお}くておいしい。",
         "en": "For the price, this restaurant gives you big, tasty portions."
       },
       {
         "ja": "兄はよく食べるわりには、全然太らない。",
+        "furigana": "{兄|あに}はよく{食|た}べるわりには、{全然|ぜんぜん}{太|ふと}らない。",
         "en": "Considering how much he eats, my older brother never gains weight."
       },
       {
         "ja": "このホテルは駅から近いわりに、静かでよく眠れた。",
+        "furigana": "このホテルは{駅|えき}から{近|ちか}いわりに、{静|しず}かでよく{眠|ねむ}れた。",
         "en": "Considering how close it is to the station, the hotel was quiet and I slept well."
       }
     ],
@@ -2136,14 +2369,17 @@
     "examples": [
       {
         "ja": "自分では何もしないくせに、人の仕事には文句ばかり言う。",
+        "furigana": "{自分|じぶん}では{何|なに}もしないくせに、{人|ひと}の{仕事|しごと}には{文句|もんく}ばかり{言|い}う。",
         "en": "He never does anything himself, yet he's always complaining about other people's work."
       },
       {
         "ja": "知っているくせに、どうして教えてくれなかったの？",
+        "furigana": "{知|し}っているくせに、どうして{教|おし}えてくれなかったの？",
         "en": "You knew all along, so why didn't you tell me?"
       },
       {
         "ja": "弟は体が大きいくせに、小さな虫をこわがる。",
+        "furigana": "{弟|おとうと}は{体|からだ}が{大|おお}きいくせに、{小|ちい}さな{虫|むし}をこわがる。",
         "en": "My younger brother is so big, and yet he's scared of tiny bugs."
       }
     ],
@@ -2163,14 +2399,17 @@
     "examples": [
       {
         "ja": "今夜から明日の朝にかけて、強い雨が降るでしょう。",
+        "furigana": "{今夜|こんや}から{明日|あした}の{朝|あさ}にかけて、{強|つよ}い{雨|あめ}が{降|ふ}るでしょう。",
         "en": "Heavy rain is expected from tonight through tomorrow morning."
       },
       {
         "ja": "関東から東北にかけての広い地域で、強い揺れが観測された。",
+        "furigana": "{関東|かんとう}から{東北|とうほく}にかけての{広|ひろ}い{地域|ちいき}で、{強|つよ}い{揺|ゆ}れが{観測|かんそく}された。",
         "en": "Strong shaking was recorded over a wide area from Kanto to Tohoku."
       },
       {
         "ja": "この花は、三月から四月にかけてきれいに咲く。",
+        "furigana": "この{花|はな}は、{三月|さんがつ}から{四月|しがつ}にかけてきれいに{咲|さ}く。",
         "en": "This flower blooms beautifully from March through April."
       }
     ],
@@ -2190,14 +2429,17 @@
     "examples": [
       {
         "ja": "五年ぶりに高校の友達に会って、話が止まらなかった。",
+        "furigana": "{五|ご}{年|ねん}ぶりに{高校|こうこう}の{友達|ともだち}に{会|あ}って、{話|はなし}が{止|と}まらなかった。",
         "en": "I saw my high school friends for the first time in five years, and we couldn't stop talking."
       },
       {
         "ja": "久しぶりですね。お元気でしたか。",
+        "furigana": "{久|ひさ}しぶりですね。お{元気|げんき}でしたか。",
         "en": "It's been a long time. How have you been?"
       },
       {
         "ja": "新入社員の仕事ぶりを見て、部長は安心したようだ。",
+        "furigana": "{新入|しんにゅう}{社員|しゃいん}の{仕事|しごと}ぶりを{見|み}て、{部長|ぶちょう}は{安心|あんしん}したようだ。",
         "en": "The manager seemed relieved after seeing how the new employee works."
       }
     ],
@@ -2217,14 +2459,17 @@
     "examples": [
       {
         "ja": "あれ、会議って何時からだっけ？",
+        "furigana": "あれ、{会議|かいぎ}って{何|なん}{時|じ}からだっけ？",
         "en": "Wait, what time does the meeting start again?"
       },
       {
         "ja": "すみません、お名前、何とおっしゃいましたっけ。",
+        "furigana": "すみません、お{名前|なまえ}、{何|なん}とおっしゃいましたっけ。",
         "en": "I'm sorry, what did you say your name was?"
       },
       {
         "ja": "子どものころ、よくこの公園で遊んだっけ。",
+        "furigana": "{子|こ}どものころ、よくこの{公園|こうえん}で{遊|あそ}んだっけ。",
         "en": "I used to play in this park a lot as a kid, didn't I."
       }
     ],
@@ -2245,14 +2490,17 @@
     "examples": [
       {
         "ja": "試験に合格できますように。",
+        "furigana": "{試験|しけん}に{合格|ごうかく}できますように。",
         "en": "I hope I pass the exam."
       },
       {
         "ja": "明日の遠足、雨が降りませんように。",
+        "furigana": "{明日|あした}の{遠足|えんそく}、{雨|あめ}が{降|ふ}りませんように。",
         "en": "Please don't let it rain on tomorrow's school outing."
       },
       {
         "ja": "家族みんなが元気で過ごせますように。",
+        "furigana": "{家族|かぞく}みんなが{元気|げんき}で{過|す}ごせますように。",
         "en": "May everyone in my family stay healthy."
       }
     ],
@@ -2271,14 +2519,17 @@
     "examples": [
       {
         "ja": "母に呼ばれたが、聞こえないふりをしてゲームを続けた。",
+        "furigana": "{母|はは}に{呼|よ}ばれたが、{聞|き}こえないふりをしてゲームを{続|つづ}けた。",
         "en": "My mother called me, but I pretended not to hear and kept playing my game."
       },
       {
         "ja": "彼は本当は知っているのに、知らないふりをしている。",
+        "furigana": "{彼|かれ}は{本当|ほんとう}は{知|し}っているのに、{知|し}らないふりをしている。",
         "en": "He actually knows, but he's pretending not to."
       },
       {
         "ja": "電車の中で、寝たふりをして席を譲らない人がいる。",
+        "furigana": "{電車|でんしゃ}の{中|なか}で、{寝|ね}たふりをして{席|せき}を{譲|ゆず}らない{人|ひと}がいる。",
         "en": "Some people on the train pretend to be asleep so they don't have to give up their seats."
       }
     ],
@@ -2299,14 +2550,17 @@
     "examples": [
       {
         "ja": "この料理は作り方が簡単なので、初心者向きだ。",
+        "furigana": "この{料理|りょうり}は{作|つく}り{方|かた}が{簡単|かんたん}なので、{初心者|しょしんしゃ}{向|む}きだ。",
         "en": "This dish is easy to make, so it's well suited to beginners."
       },
       {
         "ja": "この雑誌は、若い女性向けに作られている。",
+        "furigana": "この{雑誌|ざっし}は、{若|わか}い{女性|じょせい}{向|む}けに{作|つく}られている。",
         "en": "This magazine is made for young women."
       },
       {
         "ja": "子ども向けの番組だが、大人が見ても十分楽しめる。",
+        "furigana": "{子|こ}ども{向|む}けの{番組|ばんぐみ}だが、{大人|おとな}が{見|み}ても{十分|じゅうぶん}{楽|たの}しめる。",
         "en": "It's a program aimed at children, but adults can enjoy it too."
       }
     ],
@@ -2326,14 +2580,17 @@
     "examples": [
       {
         "ja": "冬になると、つい家にこもりがちになる。",
+        "furigana": "{冬|ふゆ}になると、つい{家|いえ}にこもりがちになる。",
         "en": "When winter comes, I tend to stay cooped up at home."
       },
       {
         "ja": "娘は小さいころ病気がちだったが、今はとても元気だ。",
+        "furigana": "{娘|むすめ}は{小|ちい}さいころ{病気|びょうき}がちだったが、{今|いま}はとても{元気|げんき}だ。",
         "en": "My daughter was often sick when she was little, but now she's very healthy."
       },
       {
         "ja": "一人暮らしだと、野菜が不足しがちです。",
+        "furigana": "{一人暮|ひとりぐ}らしだと、{野菜|やさい}が{不足|ふそく}しがちです。",
         "en": "When you live alone, you tend not to get enough vegetables."
       }
     ],
@@ -2353,14 +2610,17 @@
     "examples": [
       {
         "ja": "少し風邪気味なので、今日は早めに帰ります。",
+        "furigana": "{少|すこ}し{風邪|かぜ}{気味|ぎみ}なので、{今日|きょう}は{早|はや}めに{帰|かえ}ります。",
         "en": "I have a bit of a cold, so I'll head home early today."
       },
       {
         "ja": "最近、仕事が忙しくて疲れ気味だ。",
+        "furigana": "{最近|さいきん}、{仕事|しごと}が{忙|いそが}しくて{疲|つか}れ{気味|ぎみ}だ。",
         "en": "Work has been busy lately, and I'm feeling a little worn out."
       },
       {
         "ja": "人手が足りず、工事は予定より遅れ気味だ。",
+        "furigana": "{人手|ひとで}が{足|た}りず、{工事|こうじ}は{予定|よてい}より{遅|おく}れ{気味|ぎみ}だ。",
         "en": "They're short-handed, so the construction is running a little behind schedule."
       }
     ],
@@ -2381,14 +2641,17 @@
     "examples": [
       {
         "ja": "子どもたちは、泥だらけになって帰ってきた。",
+        "furigana": "{子|こ}どもたちは、{泥|どろ}だらけになって{帰|かえ}ってきた。",
         "en": "The children came home covered in mud."
       },
       {
         "ja": "急いで書いたレポートは、間違いだらけだった。",
+        "furigana": "{急|いそ}いで{書|か}いたレポートは、{間違|まちが}いだらけだった。",
         "en": "The report I wrote in a hurry was full of mistakes."
       },
       {
         "ja": "引っ越したばかりで、部屋はまだ段ボールだらけだ。",
+        "furigana": "{引|ひ}っ{越|こ}したばかりで、{部屋|へや}はまだ{段|だん}ボールだらけだ。",
         "en": "I've just moved, so my place is still full of cardboard boxes."
       }
     ],
@@ -2409,14 +2672,17 @@
     "examples": [
       {
         "ja": "三時間かけて、長い小説を最後まで読み切った。",
+        "furigana": "{三|さん}{時間|じかん}かけて、{長|なが}い{小説|しょうせつ}を{最後|さいご}まで{読|よ}み{切|き}った。",
         "en": "It took three hours, but I read the long novel right to the end."
       },
       {
         "ja": "注文しすぎて、料理を食べ切れなかった。",
+        "furigana": "{注文|ちゅうもん}しすぎて、{料理|りょうり}を{食|た}べ{切|き}れなかった。",
         "en": "We ordered too much and couldn't finish all the food."
       },
       {
         "ja": "山の上では、数え切れないほどの星が見えた。",
+        "furigana": "{山|やま}の{上|うえ}では、{数|かぞ}え{切|き}れないほどの{星|ほし}が{見|み}えた。",
         "en": "From the mountaintop we could see more stars than we could count."
       }
     ],
@@ -2436,14 +2702,17 @@
     "examples": [
       {
         "ja": "読みかけの本が、机の上に置いてある。",
+        "furigana": "{読|よ}みかけの{本|ほん}が、{机|つくえ}の{上|うえ}に{置|お}いてある。",
         "en": "There's a half-read book on the desk."
       },
       {
         "ja": "彼女は何か言いかけたが、そのまま黙ってしまった。",
+        "furigana": "{彼女|かのじょ}は{何|なに}か{言|い}いかけたが、そのまま{黙|だま}ってしまった。",
         "en": "She started to say something, but then fell silent."
       },
       {
         "ja": "この花は枯れかけていたが、水をやったら元気になった。",
+        "furigana": "この{花|はな}は{枯|か}れかけていたが、{水|みず}をやったら{元気|げんき}になった。",
         "en": "This flower was starting to wilt, but it perked up after I watered it."
       }
     ],
@@ -2464,14 +2733,17 @@
     "examples": [
       {
         "ja": "困ったときは、お互いに助け合いましょう。",
+        "furigana": "{困|こま}ったときは、お{互|たが}いに{助|たす}け{合|あ}いましょう。",
         "en": "Let's help each other out when things get tough."
       },
       {
         "ja": "旅行の計画について、家族で話し合った。",
+        "furigana": "{旅行|りょこう}の{計画|けいかく}について、{家族|かぞく}で{話|はな}し{合|あ}った。",
         "en": "We talked over the travel plans as a family."
       },
       {
         "ja": "優勝が決まると、選手たちは抱き合って喜んだ。",
+        "furigana": "{優勝|ゆうしょう}が{決|き}まると、{選手|せんしゅ}たちは{抱|だ}き{合|あ}って{喜|よろこ}んだ。",
         "en": "When their victory was confirmed, the players hugged each other in joy."
       }
     ],
@@ -2492,14 +2764,17 @@
     "examples": [
       {
         "ja": "名前を間違えたので、書類を書き直した。",
+        "furigana": "{名前|なまえ}を{間違|まちが}えたので、{書類|しょるい}を{書|か}き{直|なお}した。",
         "en": "I got the name wrong, so I rewrote the document."
       },
       {
         "ja": "すみません、電波が悪いので、あとでかけ直します。",
+        "furigana": "すみません、{電波|でんぱ}が{悪|わる}いので、あとでかけ{直|なお}します。",
         "en": "Sorry, the signal's bad, so I'll call you back later."
       },
       {
         "ja": "一度はあきらめた夢だが、もう一度考え直してみることにした。",
+        "furigana": "{一|いち}{度|ど}はあきらめた{夢|ゆめ}だが、もう{一度|いちど}{考|かんが}え{直|なお}してみることにした。",
         "en": "It's a dream I once gave up on, but I've decided to reconsider it."
       }
     ],
@@ -2519,14 +2794,17 @@
     "examples": [
       {
         "ja": "この靴は少し小さくて、歩きづらい。",
+        "furigana": "この{靴|くつ}は{少|すこ}し{小|ちい}さくて、{歩|ある}きづらい。",
         "en": "These shoes are a bit small, so they're hard to walk in."
       },
       {
         "ja": "先輩にお金を貸してほしいとは、ちょっと言いづらい。",
+        "furigana": "{先輩|せんぱい}にお{金|かね}を{貸|か}してほしいとは、ちょっと{言|い}いづらい。",
         "en": "It's a bit awkward to ask a senior colleague to lend me money."
       },
       {
         "ja": "字が小さくて読みづらいので、もう少し大きくしてもらえますか。",
+        "furigana": "{字|じ}が{小|ちい}さくて{読|よ}みづらいので、もう{少|すこ}し{大|おお}きくしてもらえますか。",
         "en": "The text is too small to read comfortably. Could you make it a bit bigger?"
       }
     ],
@@ -2546,14 +2824,17 @@
     "examples": [
       {
         "ja": "自分が悪いと思ったら、すぐに謝るべきだ。",
+        "furigana": "{自分|じぶん}が{悪|わる}いと{思|おも}ったら、すぐに{謝|あやま}るべきだ。",
         "en": "If you think you were in the wrong, you should apologize right away."
       },
       {
         "ja": "環境のために、私たちはもっとエネルギーを大切に使うべきだ。",
+        "furigana": "{環境|かんきょう}のために、{私|わたし}たちはもっとエネルギーを{大切|たいせつ}に{使|つか}うべきだ。",
         "en": "For the sake of the environment, we should use energy more carefully."
       },
       {
         "ja": "病院の中では、大きな声で話すべきではない。",
+        "furigana": "{病院|びょういん}の{中|なか}では、{大|おお}きな{声|こえ}で{話|はな}すべきではない。",
         "en": "You shouldn't talk loudly inside a hospital."
       }
     ],
@@ -2573,14 +2854,17 @@
     "examples": [
       {
         "ja": "仕事の後に飲む冷たいビールほどおいしいものはない。",
+        "furigana": "{仕事|しごと}の{後|あと}に{飲|の}む{冷|つめ}たいビールほどおいしいものはない。",
         "en": "Nothing tastes as good as an ice-cold beer after work."
       },
       {
         "ja": "この町で、あの店ほど安くておいしいラーメン屋はない。",
+        "furigana": "この{町|まち}で、あの{店|みせ}ほど{安|やす}くておいしいラーメン{屋|や}はない。",
         "en": "There's no ramen shop in this town as cheap and tasty as that one."
       },
       {
         "ja": "健康ほど大切なものはないと、病気になって気づいた。",
+        "furigana": "{健康|けんこう}ほど{大切|たいせつ}なものはないと、{病気|びょうき}になって{気|き}づいた。",
         "en": "When I got sick, I realized that nothing is as important as good health."
       }
     ],
@@ -2600,14 +2884,17 @@
     "examples": [
       {
         "ja": "終電に乗り遅れたから、タクシーで帰るしかない。",
+        "furigana": "{終電|しゅうでん}に{乗|の}り{遅|おく}れたから、タクシーで{帰|かえ}るしかない。",
         "en": "I missed the last train, so I have no choice but to take a taxi home."
       },
       {
         "ja": "誰も手伝ってくれないなら、一人でやるしかない。",
+        "furigana": "{誰|だれ}も{手伝|てつだ}ってくれないなら、{一人|ひとり}でやるしかない。",
         "en": "If nobody will help me, I'll just have to do it myself."
       },
       {
         "ja": "ここまで来たら、もう最後まで頑張るしかないね。",
+        "furigana": "ここまで{来|き}たら、もう{最後|さいご}まで{頑張|がんば}るしかないね。",
         "en": "Now that we've come this far, all we can do is give it our all to the end."
       }
     ],
@@ -2627,14 +2914,17 @@
     "examples": [
       {
         "ja": "最近は、小学生までスマホを持っている。",
+        "furigana": "{最近|さいきん}は、{小学生|しょうがくせい}までスマホを{持|も}っている。",
         "en": "These days even elementary school kids have smartphones."
       },
       {
         "ja": "親友にまでうそをつかれて、とてもショックだった。",
+        "furigana": "{親友|しんゆう}にまでうそをつかれて、とてもショックだった。",
         "en": "I was really shocked that even my best friend lied to me."
       },
       {
         "ja": "雨だけでなく、風まで強くなってきた。",
+        "furigana": "{雨|あめ}だけでなく、{風|かぜ}まで{強|つよ}くなってきた。",
         "en": "It's not just the rain; now even the wind is getting stronger."
       }
     ],
@@ -2654,14 +2944,17 @@
     "examples": [
       {
         "ja": "考え事をしていて、もう少しで車にひかれるところだった。",
+        "furigana": "{考|かんが}え{事|ごと}をしていて、もう{少|すこ}しで{車|くるま}にひかれるところだった。",
         "en": "I was lost in thought and nearly got hit by a car."
       },
       {
         "ja": "目覚ましが鳴らなくて、危うく飛行機に乗り遅れるところだった。",
+        "furigana": "{目覚|めざ}ましが{鳴|な}らなくて、{危|あや}うく{飛行機|ひこうき}に{乗|の}り{遅|おく}れるところだった。",
         "en": "My alarm didn't go off, and I very nearly missed my flight."
       },
       {
         "ja": "君が教えてくれなかったら、大事な書類を出し忘れるところだったよ。",
+        "furigana": "{君|きみ}が{教|おし}えてくれなかったら、{大事|だいじ}な{書類|しょるい}を{出|だ}し{忘|わす}れるところだったよ。",
         "en": "If you hadn't reminded me, I would have forgotten to hand in the important documents."
       }
     ],
@@ -2681,14 +2974,17 @@
     "examples": [
       {
         "ja": "日本人だからといって、みんなが敬語を正しく使えるわけではない。",
+        "furigana": "{日本人|にほんじん}だからといって、みんなが{敬語|けいご}を{正|ただ}しく{使|つか}えるわけではない。",
         "en": "Just because someone is Japanese doesn't mean they can use keigo correctly."
       },
       {
         "ja": "忙しいからといって、朝ご飯を食べないのは体によくない。",
+        "furigana": "{忙|いそが}しいからといって、{朝|あさ}ご{飯|はん}を{食|た}べないのは{体|からだ}によくない。",
         "en": "Skipping breakfast just because you're busy isn't good for you."
       },
       {
         "ja": "一回負けたからといって、あきらめる必要はない。",
+        "furigana": "{一回|いっかい}{負|ま}けたからといって、あきらめる{必要|ひつよう}はない。",
         "en": "There's no need to give up just because you lost once."
       }
     ],
@@ -2708,14 +3004,17 @@
     "examples": [
       {
         "ja": "説明書に書いてあるとおりに組み立てたのに、うまく動かない。",
+        "furigana": "{説明|せつめい}{書|しょ}に{書|か}いてあるとおりに{組|く}み{立|た}てたのに、うまく{動|うご}かない。",
         "en": "I put it together exactly as the manual says, but it doesn't work properly."
       },
       {
         "ja": "先生が言ったとおり、試験には去年と似た問題が出た。",
+        "furigana": "{先生|せんせい}が{言|い}ったとおり、{試験|しけん}には{去年|きょねん}と{似|に}た{問題|もんだい}が{出|で}た。",
         "en": "Just as the teacher said, questions similar to last year's came up on the exam."
       },
       {
         "ja": "工事は予定どおりに進んでいる。",
+        "furigana": "{工事|こうじ}は{予定|よてい}どおりに{進|すす}んでいる。",
         "en": "The construction is going according to schedule."
       }
     ],
@@ -2734,14 +3033,17 @@
     "examples": [
       {
         "ja": "私なんか、まだまだ初心者です。",
+        "furigana": "{私|わたし}なんか、まだまだ{初心者|しょしんしゃ}です。",
         "en": "Someone like me is still just a beginner."
       },
       {
         "ja": "幽霊なんて、いるわけがないよ。",
+        "furigana": "{幽霊|ゆうれい}なんて、いるわけがないよ。",
         "en": "Ghosts? There's no way they exist."
       },
       {
         "ja": "あの二人が結婚するなんて、びっくりした。",
+        "furigana": "あの{二人|ふたり}が{結婚|けっこん}するなんて、びっくりした。",
         "en": "Those two are getting married? I was so surprised!"
       }
     ],

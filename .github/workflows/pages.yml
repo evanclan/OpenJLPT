@@ -40,6 +40,9 @@ jobs:
         run: |
           pip install genanki
           python scripts/build_exports.py _site/downloads
+        env:
+          # The Yomitan dictionary checks this site for updates.
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site

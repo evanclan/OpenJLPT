@@ -14,6 +14,7 @@
 import { join } from 'node:path';
 import { cpSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { DATA_DIR, LEVELS, ROOT, type Level } from './lib/util.ts';
+import { POS_SHORT } from './lib/pos.ts';
 
 // ---------------------------------------------------------------------------
 // Data
@@ -52,7 +53,9 @@ const allVocab = [...vocab.values()].flat();
 const allKanji = [...kanji.values()].flat();
 const allGrammar = [...grammar.values()].flat();
 const posLabels: Record<string, string> = readJson(join(DATA_DIR, 'json', 'pos.json'));
-const meta = readJson<{ version: string; counts: Record<string, Record<string, number>> }>(join(DATA_DIR, 'json', 'meta.json'));
+const meta = readJson<{ version: string; counts: Record<string, Record<string, number>>; sources?: Record<string, { created?: string }> }>(
+  join(DATA_DIR, 'json', 'meta.json'),
+);
 const kanjiByChar = new Map(allKanji.map((k) => [k.character, k]));
 const vocabByWord = new Map<string, Vocab>();
 for (const v of allVocab) if (!vocabByWord.has(v.word)) vocabByWord.set(v.word, v);
@@ -175,7 +178,8 @@ stroke order from <a href="https://kanjivg.tagaini.net/">KanjiVG</a> (CC BY-SA 3
 `;
   const file = join(OUT, p.path);
   mkdirSync(join(file, '..'), { recursive: true });
-  writeFileSync(file, html);
+  // Link directory pages by their canonical URL (n5/, not n5/index.html).
+  writeFileSync(file, html.replace(/(href="|"item":")([^"]*\/)?index\.html"/g, (_, attr: string, dir = '') => `${attr}${dir || './'}"`));
   if (!p.noindex) pages.push(url);
 }
 
@@ -253,7 +257,9 @@ function vocabPages(): void {
         .filter((k): k is Kanji => !!k)
         .map((k) => `<a class="kanji-link" href="${root}${kanjiPath(k.character)}"><span class="c">${esc(k.character)}</span><span>${lvl(k.level)}<br><span class="muted">${esc(truncate(k.meanings.slice(0, 3).join(', '), 40))}</span></span></a>`)
         .join('');
-      const pos = (v.pos ?? []).map((p) => `<span class="chip" title="${esc(p)}">${esc(posLabels[p] ?? p)}</span>`).join('');
+      const pos = [...new Set((v.pos ?? []).map((p) => POS_SHORT[p] ?? posLabels[p] ?? p))]
+        .map((label) => `<span class="chip">${esc(label)}</span>`)
+        .join('');
       const also = [
         v.other_forms?.length ? `<p class="muted">Also written <span lang="ja">${esc(v.other_forms.join('、'))}</span></p>` : '',
         v.other_readings?.length ? `<p class="muted">Also read <span lang="ja">${esc(v.other_readings.join('、'))}</span></p>` : '',
@@ -263,7 +269,7 @@ function vocabPages(): void {
       writePage({
         path: vocabPath(v),
         active: `${level.toLowerCase()}/index.html`,
-        title: `${v.word}${v.word === v.reading ? '' : ` (${v.reading})`} — ${truncate(gloss, 50)} | JLPT ${level} vocabulary`,
+        title: `${v.word} (${v.word === v.reading ? '' : `${v.reading}, `}${v.romaji}) meaning: ${truncate(gloss, 40)} — JLPT ${level} | OpenJLPT`,
         description: `${v.word} (${v.reading}, ${v.romaji}) means “${truncate(gloss, 90)}”. JLPT ${level} vocabulary with example sentences, part of speech and kanji breakdown.`,
         body: `${crumbs(root, [[`JLPT ${level}`, `${level.toLowerCase()}/index.html`], ['Vocabulary', `${level.toLowerCase()}/vocab.html`], [v.word]])}
 <div class="entry-head"><h1 class="headword" lang="ja">${furigana(v.word, v.reading)}</h1>${speak(v.reading)}${lvl(v.level)}</div>
@@ -305,7 +311,7 @@ function kanjiPages(): void {
       writePage({
         path: kanjiPath(k.character),
         active: `${level.toLowerCase()}/index.html`,
-        title: `${k.character} — ${truncate(k.meanings.slice(0, 3).join(', '), 40)} | JLPT ${level} kanji: readings, stroke order`,
+        title: `${k.character} kanji: ${truncate(k.meanings.slice(0, 3).join(', '), 36)} — readings, stroke order | JLPT ${level} · OpenJLPT`,
         description: `The kanji ${k.character} means “${truncate(k.meanings.join(', '), 60)}”. JLPT ${level}. On'yomi ${k.onyomi.join('、') || '—'}; kun'yomi ${k.kunyomi.join('、') || '—'}. ${k.strokes ?? '?'} strokes${k.radical ? `, radical ${k.radical}` : ''}. Example words and stroke order.`,
         body: `${crumbs(root, [[`JLPT ${level}`, `${level.toLowerCase()}/index.html`], ['Kanji', `${level.toLowerCase()}/kanji.html`], [k.character]])}
 <div class="two-col">
@@ -351,7 +357,7 @@ function grammarPages(): void {
       writePage({
         path: grammarPath(g),
         active: `${level.toLowerCase()}/index.html`,
-        title: `${g.pattern} — ${truncate(g.meaning, 50)} | JLPT ${level} grammar`,
+        title: `${g.pattern} (${g.romaji}) — ${truncate(g.meaning, 44)} | JLPT ${level} grammar · OpenJLPT`,
         description: `JLPT ${level} grammar: ${g.pattern} (${g.romaji}) — ${truncate(g.meaning, 80)}. Formation: ${truncate(g.formation, 60)}. With example sentences and usage notes.`,
         body: `${crumbs(root, [[`JLPT ${level}`, `${level.toLowerCase()}/index.html`], ['Grammar', `${level.toLowerCase()}/grammar.html`], [g.pattern]])}
 <div class="entry-head"><h1 class="headword" lang="ja" style="font-size:clamp(34px,6vw,54px)">${esc(g.pattern)}</h1>${lvl(g.level)}</div>
@@ -359,7 +365,7 @@ function grammarPages(): void {
 <p style="font-size:21px;margin:14px 0">${esc(g.meaning)}</p>
 <h2>Formation</h2>
 <div class="formation">${esc(g.formation)}</div>
-<h2>Examples</h2>
+${examplesHeading(g.examples)}
 ${exampleList(g.examples)}
 ${g.notes ? `<h2>Notes</h2><p class="note">${esc(g.notes)}</p>` : ''}
 <div class="chips">${g.tags.map((t) => `<span class="chip">#${esc(t)}</span>`).join('')}</div>
@@ -463,20 +469,23 @@ const levelShort: Record<Level, string> = { N5: 'Beginner', N4: 'Elementary', N3
 
 function homePage(): void {
   const c = meta.counts;
+  const updated = meta.sources?.jmdict?.created;
   const levelCards = LEVEL_NAMES.map(
     (l) => `<a class="card level-card" href="${l.toLowerCase()}/index.html"><div class="lv" style="color:var(--${l.toLowerCase()})">${l}</div><div class="lv-sub">${levelShort[l]}</div><ul>
 <li>${c.vocab[l].toLocaleString('en-US')} words</li><li>${c.kanji[l].toLocaleString('en-US')} kanji</li><li>${c.grammar[l]} grammar points</li></ul></a>`,
   ).join('');
   writePage({
     path: 'index.html',
-    title: 'OpenJLPT — every JLPT N5–N1 word, kanji and grammar point, free and open',
+    title: 'OpenJLPT — JLPT N5–N1 vocabulary, kanji and grammar lists, free and open',
     description: `Free, open JLPT dataset and study site: ${c.vocab.total.toLocaleString('en-US')} vocabulary words, ${c.kanji.total.toLocaleString('en-US')} kanji and ${c.grammar.total} grammar points for N5–N1, with example sentences. Search, flashcards, text analyzer, and downloads as JSON, CSV, SQLite and Anki.`,
     body: `<section class="hero">
-<h1>Every JLPT word, kanji and grammar point.<br><span class="accent">Free and open.</span></h1>
-<p class="lead">Search ${c.vocab.total.toLocaleString('en-US')} words, ${c.kanji.total.toLocaleString('en-US')} kanji and ${c.grammar.total} grammar points from N5 to N1 — with readings, meanings and real example sentences. Or grab the whole dataset for your own app.</p>
+<h1>Every word, kanji and grammar point on the JLPT study lists.<br><span class="accent">Free and open.</span></h1>
+<p class="lead">Search ${c.vocab.total.toLocaleString('en-US')} words, ${c.kanji.total.toLocaleString('en-US')} kanji and ${c.grammar.total} grammar points from N5 to N1 — with readings, meanings and real example sentences with furigana. Or grab the whole dataset for your own app.</p>
 <div class="search" id="search"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
 <input id="q" type="search" placeholder="Try 食べる, taberu, 日, eat or てもいい" autocomplete="off" aria-label="Search words, kanji and grammar"></div>
 <ul class="results" id="results" aria-live="polite"></ul>
+<div class="btn-row quick"><a class="btn" href="n5/index.html">📚 Start with N5</a><a class="btn" href="data.html#anki">🃏 Anki decks</a><a class="btn" href="analyzer.html">🔍 What level is this text?</a><a class="btn" href="flashcards.html">🔁 Flashcards</a></div>
+<p class="muted small">Levels follow <a href="https://www.tanos.co.uk/jlpt/" rel="noopener">Jonathan Waller's community lists</a>; the JLPT hasn't published official lists since 2010. Checked against JMdict and rebuilt monthly${updated ? ` · data updated ${updated}` : ''}.</p>
 <div class="stats">
 <div class="stat"><b>${c.vocab.total.toLocaleString('en-US')}</b><span>words</span></div>
 <div class="stat"><b>${c.kanji.total.toLocaleString('en-US')}</b><span>kanji</span></div>
@@ -562,7 +571,8 @@ ${LEVEL_NAMES.map((l) => {
   return `<tr><td>${lvl(l)}</td>${(['vocab', 'kanji', 'grammar'] as const).map((k) => `<td><a href="${cdn}/data/json/${k}/${lc}.json">JSON</a> · <a href="${cdn}/data/csv/${k}-${lc}.csv">CSV</a></td>`).join('')}</tr>`;
 }).join('')}
 </tbody></table>
-<p><a class="btn" href="${REPO}/raw/main/data/openjlpt.sqlite">⬇ SQLite database (all levels)</a></p>
+<div class="btn-row"><a class="btn primary" href="${REPO}/releases/latest/download/openjlpt-data.zip">⬇ Everything: JSON + CSV + SQLite (zip)</a><a class="btn" href="${REPO}/raw/main/data/openjlpt.sqlite">⬇ SQLite database</a></div>
+<p class="muted small">Spreadsheet or pandas? Every CSV loads straight from the CDN: <code>pd.read_csv("${cdn}/data/csv/vocab-n5.csv")</code></p>
 <h2 id="anki">Anki decks</h2>
 <p>Ready-made <a href="https://apps.ankiweb.net/">Anki</a> decks with furigana, example sentences and text-to-speech. Re-importing a newer version updates your cards and keeps your review history.</p>
 <table class="list"><thead><tr><th>Level</th><th>Vocabulary</th><th>Kanji</th><th>Grammar</th></tr></thead><tbody>
@@ -570,7 +580,7 @@ ${LEVEL_NAMES.map((l) => `<tr><td>${lvl(l)}</td>${(['vocab', 'kanji', 'grammar']
 </tbody></table>
 <p><a class="btn primary" href="downloads/openjlpt-complete.apkg">⬇ Everything in one deck (N5–N1)</a></p>
 <h2 id="yomitan">Yomitan dictionary</h2>
-<p>See the JLPT level of any word or kanji right in the <a href="https://yomitan.wiki/">Yomitan</a> pop-up: <a href="downloads/openjlpt-yomitan.zip">⬇ openjlpt-yomitan.zip</a>, then import it in Yomitan's settings → Dictionaries.</p>
+<p>See the JLPT level of any word or kanji right in the <a href="https://yomitan.wiki/">Yomitan</a> pop-up: <a href="downloads/openjlpt-yomitan.zip">⬇ openjlpt-yomitan.zip</a>, then import it in Yomitan's settings → Dictionaries. Yomitan can update it for you when the data is refreshed (Dictionaries → Check for updates).</p>
 <h2>CDN (no install)</h2>
 <p>Every file is served by jsDelivr — fetch it straight from a browser app:</p>
 <pre><code>const n5 = await fetch('${cdn}/data/json/vocab/n5.json').then(r =&gt; r.json());</code></pre>
@@ -610,9 +620,20 @@ WHERE vocab_fts MATCH 'weather';</code></pre>
   creator: { '@type': 'Organization', name: 'OpenJLPT contributors', url: REPO },
   keywords: ['JLPT', 'Japanese', 'vocabulary', 'kanji', 'grammar', 'language learning', 'JMdict', 'Tatoeba'],
   inLanguage: ['ja', 'en'],
+  ...(meta.sources?.jmdict?.created ? { dateModified: meta.sources.jmdict.created } : {}),
+  citation: `OpenJLPT contributors. OpenJLPT: an open JLPT N5–N1 dataset (version ${meta.version}). ${REPO}`,
+  isBasedOn: [
+    { '@type': 'Dataset', name: 'JMdict', url: 'https://www.edrdg.org/jmdict/j_jmdict.html' },
+    { '@type': 'Dataset', name: 'KANJIDIC2', url: 'https://www.edrdg.org/wiki/index.php/KANJIDIC_Project' },
+    { '@type': 'Dataset', name: 'Tatoeba', url: 'https://tatoeba.org' },
+    { '@type': 'Dataset', name: "Jonathan Waller's JLPT lists", url: 'https://www.tanos.co.uk/jlpt/' },
+  ],
   distribution: [
-    { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: `${cdnBase}/data/json/vocab/n5.json` },
-    { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${cdnBase}/data/csv/vocab-n5.csv` },
+    { '@type': 'DataDownload', encodingFormat: 'application/zip', contentUrl: `${REPO}/releases/latest/download/openjlpt-data.zip` },
+    ...LEVEL_NAMES.flatMap((l) => [
+      { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: `${cdnBase}/data/json/vocab/${l.toLowerCase()}.json` },
+      { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${cdnBase}/data/csv/vocab-${l.toLowerCase()}.csv` },
+    ]),
     { '@type': 'DataDownload', encodingFormat: 'application/vnd.sqlite3', contentUrl: `${REPO}/raw/main/data/openjlpt.sqlite` },
   ],
 })}</script>`,
@@ -652,10 +673,12 @@ function writeData(): void {
 }
 
 function writeSeo(): void {
+  // Every page is generated from the data, so the data date is when its content last changed.
+  const updated = meta.sources?.jmdict?.created;
   writeFileSync(
     join(OUT, 'sitemap.xml'),
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages
-      .map((u) => `<url><loc>${esc(u)}</loc></url>`)
+      .map((u) => `<url><loc>${esc(u.replace(/index\.html$/, ''))}</loc>${updated ? `<lastmod>${updated}</lastmod>` : ''}</url>`)
       .join('\n')}\n</urlset>\n`,
   );
   writeFileSync(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}sitemap.xml\n`);

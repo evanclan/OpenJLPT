@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/social-preview.png" alt="OpenJLPT — 開発者のためのオープンな JLPT データセット" width="840">
+<img src="https://raw.githubusercontent.com/evanclan/OpenJLPT/main/assets/logo-160.png" width="88" height="88" alt="OpenJLPT のロゴ">
 
 # OpenJLPT
 
-**JLPT（日本語能力試験）N5〜N1 の語彙・漢字・文法をすべて収録した、無料でオープンなデータセット**
+**JLPT（日本語能力試験）N5〜N1 の学習用リストにある語彙・漢字・文法を、JMdict で検証して整えた無料のオープンデータ**
 
-語彙 7,811 語 · 漢字 2,383 字 · 文法 526 項目 · 語彙の 93% にふりがなつき例文<br>
+<!-- counts:line -->語彙 7,811 語 · 漢字 2,383 字 · 文法 526 項目 · 語彙の 93% にふりがなつき例文<!-- /counts:line --><br>
 **JSON**・**CSV**・**SQLite**・**Anki デッキ**・**Yomitan** 辞書、**npm** / **PyPI** パッケージで提供しています。
 
 [![CI](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml/badge.svg)](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml)
@@ -18,15 +18,21 @@
 **[🃏 Anki デッキ](https://evanclan.github.io/OpenJLPT/data.html#anki)** ·
 **[English](./README.md)**
 
+<img src="https://raw.githubusercontent.com/evanclan/OpenJLPT/main/assets/demo.png" width="860" alt="OpenJLPT の単語ページ（勉強）。例文にはふりがなが付き、右は漢字を JLPT レベル別に色分けする判定ツール">
+
 </div>
+
+> [!NOTE]
+> 2010 年以降、JLPT は公式の語彙・漢字・文法リストを公開していません。語彙と漢字のレベルは、Jisho.org
+> なども採用している [Jonathan Waller 氏のリスト](https://www.tanos.co.uk/jlpt/)に基づく目安です。
 
 ---
 
 ## 特長
 
-- ✅ **網羅的**: N5〜N1 の語彙・漢字・文法をすべて収録しています。
+- ✅ **学習リストを一通り**: 定番の学習用リストにある N5〜N1 の語彙・漢字と、文法 526 項目を収録しています。
 - ✅ **クリーン**: 全語彙を [JMdict](https://www.edrdg.org/jmdict/j_jmdict.html) の見出しと照合し（99.7%）、品詞と辞書 ID を付けました。元データにあった読みの誤りや文字化けなど、数百件を修正しています。
-- ✅ **本物の例文**: 語彙の 93% に [Tatoeba](https://tatoeba.org) の例文を付けています。辞書形で照合するので、「読む」で「読んでいる」を含む文も見つかります。例文の約 9 割には、すべての漢字にふりがなが付いています。
+- ✅ **本物の例文**: 語彙の <!-- counts:examples -->93%<!-- /counts:examples --> に [Tatoeba](https://tatoeba.org) の例文を付けています。辞書形で照合するので、「読む」で「読んでいる」を含む文も見つかります。例文の約 9 割には、すべての漢字にふりがなが付いています。
 - ✅ **文法 526 項目**: 意味・接続・例文 2〜3 文・類似表現との違いを、オリジナルの文章で解説しています。
 - ✅ **すぐ使える**: JSON、CSV、SQLite（全文検索つき）、Anki、Yomitan、npm、PyPI、CLI、CDN に対応しています。
 - ✅ **安定 ID**: 各項目に更新後も変わらない `id` を付けています。学習アプリの進捗管理にそのまま使えます。
@@ -34,6 +40,7 @@
 
 ## 収録数
 
+<!-- counts:table -->
 | レベル | 語彙 | 漢字 | 文法 |
 |:---:|---:|---:|---:|
 | **N5** | 674 | 84 | 81 |
@@ -42,6 +49,7 @@
 | **N2** | 1,778 | 398 | 123 |
 | **N1** | 3,070 | 1,345 | 123 |
 | **合計** | **7,811** | **2,383** | **526** |
+<!-- /counts:table -->
 
 ## 使い方
 
@@ -49,6 +57,7 @@
 
 - **[ウェブサイト](https://evanclan.github.io/OpenJLPT/)**: 語彙・漢字・文法ごとのページに加えて、検索、フラッシュカード、「この文章は何級？」判定ツールがあります。
 - **[Anki デッキ](https://evanclan.github.io/OpenJLPT/data.html#anki)**: レベル別のデッキです。ふりがな・例文・読み上げに対応しています。
+- **[Yomitan 辞書](https://evanclan.github.io/OpenJLPT/data.html#yomitan)**: ポップアップ辞書で、語彙と漢字の JLPT レベルを表示します。データ更新時は Yomitan から自動で更新できます。
 
 ### CDN（インストール不要）
 
