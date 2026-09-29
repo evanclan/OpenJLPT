@@ -30,6 +30,8 @@ jobs:
       - run: npm test
       # The published package must build and its CLI must run.
       - run: npm run build:pkg && node dist/cli.js 食べる && node dist/cli.js stats
+      - name: Website builds
+        run: npx tsx scripts/build-site.ts /tmp/site && test -f /tmp/site/index.html
       # Grammar sources are hand-written: make sure the generated files are in sync.
       - name: Grammar output is up to date
         run: |
@@ -54,6 +56,11 @@ jobs:
           python -m pip install pytest
           python -m pip install -e .
       - run: python -m pytest
+      - name: Anki decks and Yomitan dictionary build
+        if: matrix.python-version == '3.13'
+        run: |
+          python -m pip install genanki
+          python scripts/build_exports.py /tmp/exports
       - name: Wheel bundles the data
         run: |
           python -m pip wheel . --no-deps -w wheelhouse
