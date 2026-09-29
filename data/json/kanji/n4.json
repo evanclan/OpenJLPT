@@ -5655,5 +5655,87 @@
       "漢和",
       "漢語"
     ]
+  },
+  {
+    "character": "坊",
+    "level": "N4",
+    "strokes": 7,
+    "grade": 8,
+    "freq": 1832,
+    "radical": "土",
+    "radical_number": 32,
+    "onyomi": [
+      "ボウ",
+      "ボッ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "boy",
+      "priest's residence",
+      "priest"
+    ],
+    "words": [
+      "寝坊",
+      "赤ん坊",
+      "坊や",
+      "坊さん",
+      "坊っちゃん",
+      "朝寝坊"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "凄",
+    "level": "N4",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 2313,
+    "radical": "冫",
+    "radical_number": 15,
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "さむ.い",
+      "すご.い",
+      "すさ.まじい"
+    ],
+    "meanings": [
+      "uncanny",
+      "weird",
+      "threatening",
+      "horrible"
+    ],
+    "words": [
+      "凄い",
+      "物凄い"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "痩",
+    "level": "N4",
+    "strokes": 12,
+    "grade": 8,
+    "freq": null,
+    "radical": "疒",
+    "radical_number": 104,
+    "onyomi": [
+      "ソウ",
+      "チュウ",
+      "シュウ",
+      "シュ"
+    ],
+    "kunyomi": [
+      "や.せる"
+    ],
+    "meanings": [
+      "get thin"
+    ],
+    "words": [
+      "痩せる"
+    ],
+    "supplementary": true
   }
 ]

@@ -1,368 +1,399 @@
-character,level,strokes,grade,freq,radical,radical_number,onyomi,kunyomi,nanori,meanings,words
-党,N2,10,6,39,儿,10,トウ,なかま; むら,,party; faction; clique,党; 政党; 野党; 与党
-協,N2,8,4,121,十,24,キョウ,,,co-; cooperation,協力; 協会; 協議; 協調; 協定; 妥協
-総,N2,14,5,129,糸,120,ソウ,す.べて; すべ.て; ふさ,うさ; ずさ,general; whole; all; full; total,総理大臣; 総; 総会; 総合
-区,N2,4,3,137,匸,23,ク; オウ; コウ,,,ward; district,区別; 地区; 区域; 区分; 区切る; 区; 区画; 区間
-領,N2,14,5,138,頁,181,リョウ,えり,よう; よし,jurisdiction; dominion; territory; fief; reign,大統領; 要領; 領事; 領収; 占領; 領域; 領海; 領地
-県,N2,9,3,140,目,109,ケン,か.ける,あがた; がた,prefecture,県; 県庁
-設,N2,11,5,145,言,149,セツ,もう.ける,した,establishment; provision; prepare,建設; 設計; 設備; 施設; 設置; 設定; 設立; 設ける
-改,N2,7,4,147,攴,66,カイ,あらた.める; あらた.まる,,reformation; change; modify; mend; renew; examine; inspect; search,改善; 改札; 改正; 改造; 改めて; 改める; 改悪; 改革
-府,N2,8,4,170,广,53,フ,,い; う; お; はん,borough; urban prefecture; govt office; representative body; storehouse,政府
-査,N2,9,5,184,木,75,サ,,,investigate,検査; 調査; 巡査; 審査; 捜査
-委,N2,8,3,187,女,38,イ,ゆだ.ねる,まかせ,committee; entrust to; leave to; devote; discard,委員; 委託
-軍,N2,9,4,189,車,159,グン,いくさ,,army; force; troops; war; battle,軍; 軍隊; 軍艦; 軍事; 軍備; 軍服
-団,N2,6,5,213,囗,31,ダン; トン,かたまり; まる.い,,group; association,布団; 集団; 団体; 団地; 座布団; 団扇; 劇団; 公団
-各,N2,6,4,243,口,30,カク,おのおの,かか; かが,each; every; either,各々; 各自; 各地; 各種
-島,N2,10,3,245,山,46,トウ,しま,,island,島; 半島; 列島
-革,N2,9,6,249,革,177,カク,かわ,,leather; skin; reform; become serious,革; 改革; 革新; 革命; 変革; 吊り革
-村,N2,7,1,253,木,75,ソン,むら,え; むた; ら,village; town,村; 農村; 漁村
-勢,N2,13,5,260,力,19,セイ; ゼイ,いきお.い; はずみ,せ,forces; energy; military strength,大勢; 勢い; 姿勢; 形勢; 情勢; 勢力; 態勢; 優勢
-減,N2,12,5,261,水,85,ゲン,へ.る; へ.らす,,dwindle; decrease; reduce; decline; curtail; get hungry,加減; 減る; 減らす; 増減; 軽減; 減少; 減点; 削減
-再,N2,6,5,275,冂,13,サイ; サ,ふたた.び,ふた,again; twice; second time,再び; 再三; 再; 再会; 再建; 再現; 再生; 再発
-税,N2,12,5,289,禾,115,ゼイ,,さい,tax; duty,税; 税金; 課税; 税関; 免税; 関税; 税務署
-営,N2,12,5,303,口,30,エイ,いとな.む; いとな.み,,camp; perform; build; conduct (business),営業; 経営; 営む; 運営
-比,N2,4,5,329,比,81,ヒ,くら.べる,い; ぴっ,compare; race; ratio; Philippines,比べる; 比較; 比較的; 対比; 比重; 比率; 比例
-防,N2,7,5,331,阜,170,ボウ,ふせ.ぐ,あた; う; ほう,ward off; defend; protect; resist,消防; 防ぐ; 予防; 防止; 防犯; 消防署; 国防; 堤防
-補,N2,12,6,332,衣,145,ホ,おぎな.う,,supplement; supply; make good; offset; compensate; assistant; learner,候補; 補う; 補給; 補強; 補充; 補助; 補償; 補足
-境,N2,14,5,346,土,32,キョウ; ケイ,さかい,さか; じき,boundary; border; region,境; 環境; 国境; 境界; 境遇
-導,N2,15,5,354,寸,41,ドウ,みちび.く,みち,guidance; leading; conduct; usher,指導; 主導; 導入; 導く; 誘導
-副,N2,11,4,360,刀,18,フク,,そい; そえ,vice-; assistant; aide; duplicate; copy,副詞
-算,N2,14,2,361,竹,118,サン,そろ,,calculate; divining; number; abacus; probability,計算; 予算; 算数; 算盤; 引算; 割算; 掛け算; 暗算
-輸,N2,16,5,371,車,159,ユ; シュ,,,transport; send; be inferior,輸出; 輸入; 輸血; 輸送; 運輸
-述,N2,8,5,379,辵,162,ジュツ,の.べる,,mention; state; speak; relate,述べる; 述語; 記述; 口述
-線,N2,15,2,382,糸,120,セン,すじ,,line; track,線; 地平線; 下線; 曲線; 光線; 線路; 脱線; 直線
-農,N2,13,3,385,辰,161,ノウ,,な; の; み,agriculture; farmers,農家; 農業; 農民; 農村; 農薬; 農産物; 農耕; 農場
-州,N2,6,3,386,巛,47,シュウ; ス,す,くに,state; province,州
-武,N2,8,5,387,止,77,ブ; ム,たけ; たけ.し,う; お; たけし; たけん; ん,warrior; military; chivalry; arms,武器; 武士; 武装; 武力
-象,N2,12,5,394,豕,152,ショウ; ゾウ,かたど.る,きさ,elephant; pattern after; imitate; image; shape; sign (of the times),象; 印象; 現象; 対象; 抽象; 気象; 象徴
-域,N2,11,6,396,土,32,イキ,,,range; region; limits; stage; level,地域; 区域; 流域; 域外; 領域
-額,N2,18,5,407,頁,181,ガク,ひたい,ぬか,forehead; tablet; plaque; framed picture; sum; amount; volume,額; 金額; 差額
-欧,N2,8,8,421,欠,76,オウ,うた.う; は.く,おお; ひろ,Europe,欧米
-担,N2,8,6,422,手,64,タン,かつ.ぐ; にな.う,,shouldering; carry; raise; bear,担当; 担ぐ; 担架; 担う; 負担; 分担
-準,N2,13,5,425,水,85,ジュン,じゅん.じる; じゅん.ずる; なぞら.える; のり; ひと.しい; みずもり,,semi-; correspond to; proportionate to; conform; imitate,準備; 水準; 基準; 規準; 標準; 準急; 準じる; 準ずる
-賞,N2,15,5,426,貝,154,ショウ,ほ.める,,prize; reward; praise,賞; 鑑賞; 賞金; 賞品; 懸賞; 入賞
-辺,N2,5,4,428,辵,162,ヘン,あた.り; ほと.り; -べ,なべ,environs; boundary; border; vicinity,辺; 辺り; 周辺; 対辺; 浜辺
-造,N2,10,5,429,辵,162,ゾウ,つく.る; つく.り; -づく.り,ずくり; づくり; み,create; make; structure; physique,製造; 改造; 構造; 人造; 造船; 偽造; 創造; 造り
-被,N2,10,8,431,衣,145,ヒ,こうむ.る; おお.う; かぶ.る; かぶ.せる,ぎぬ,incur; cover; veil; brood over; shelter; wear; put on; be exposed (film); receiving,被る; 被害; 被せる
-技,N2,7,5,434,手,64,ギ,わざ,,skill; art; craft; ability; feat; performance; vocation; arts,技術; 演技; 技師; 競技; 技; 技能; 特技
-低,N2,7,4,435,人,9,テイ,ひく.い; ひく.める; ひく.まる,,lower; short; humble,低い; 最低; 低下
-復,N2,12,5,438,彳,60,フク,また,,restore; return to; revert; resume,復習; 回復; 往復; 復活; 復旧; 復興
-移,N2,11,5,448,禾,115,イ,うつ.る; うつ.す,,"shift; move; change; drift; catch (cold, fire); pass into",移る; 移動; 移す; 移転; 移行; 移住; 移民
-個,N2,10,5,451,人,9,コ; カ,,,individual; counter for articles,個人; 個所; 個体; 個; 個々; 個性; 個別
-門,N2,8,2,452,門,169,モン,かど; と,じょう; も; ゆき,gate; counter for cannons,門; 正門; 部門
-課,N2,15,4,455,言,149,カ,,,chapter; lesson; section; department; division; counter for chapters (of a book),課長; 課; 課税; 課程; 日課; 課外; 課題
-脳,N2,11,6,459,肉,130,ノウ; ドウ,のうずる,,brain; memory,頭脳; 脳; 首脳
-極,N2,12,4,460,木,75,キョク; ゴク,きわ.める; きわ.まる; きわ.まり; きわ.み; き.める; -ぎ.め; き.まる,,extreme; pole; extremely; very; highly; most; end; settlement; conclusion; highest rank,極; 積極的; 南極; 北極; 消極的; 究極; 極端; 極楽
-含,N2,7,8,466,口,30,ガン,ふく.む; ふく.める,,contain; include; hold in the mouth; bear in mind; understand; cherish,含む; 含める; 含嗽
-蔵,N2,15,6,468,艸,140,ゾウ; ソウ,くら; おさ.める; かく.れる,くらし; くらん; くろう; さし; ざ; ろう,storehouse; hide; own; have; possess,冷蔵庫; 貯蔵; 蔵; 蔵相; 埋蔵; 冷蔵
-量,N2,12,4,469,里,166,リョウ,はか.る,かず,quantity; measure; weight; amount; consider; estimate; surmise,量; 重量; 測量; 量る; 分量; 熱量; 微量; 感無量
-型,N2,9,5,482,土,32,ケイ,かた; -がた,,mould; type; model,型; 典型; 模型
-況,N2,8,8,490,水,85,キョウ,まし.て; いわ.んや; おもむき,,condition; situation,状況; 好況; 不況; 況して
-針,N2,10,6,505,金,167,シン,はり,は,needle; pin; staple; stinger,針; 針路; 針金; 方針
-専,N2,9,6,506,寸,41,セン,もっぱ.ら,,specialty; exclusive; mainly; solely,専攻; 専制; 専修; 専用; 専ら
-谷,N2,7,2,508,谷,150,コク,たに; きわ.まる,がい; がえ; がや; せ; たり; たん; や,valley,谷
-史,N2,5,5,511,口,30,シ,,あきら; あや; お; こ; ちか; とし; なか; のぶ; ひさ; ひと; ふみ,history; chronicle,歴史; 女史
-階,N2,12,3,513,阜,170,カイ,きざはし,しな; と; はし,storey; stair; counter for storeys of a building,階段; 二階建て; 段階; 階; 階級; 階層
-管,N2,14,4,517,竹,118,カン,くだ,すが,pipe; tube; wind instrument; drunken talk; control; jurisdiction,管; 管理; 血管; 保管
-兵,N2,7,4,522,八,12,ヘイ; ヒョウ,つわもの,へ,soldier; private; troops; army; warfare; strategy; tactics,兵隊; 兵器; 兵士
-接,N2,11,5,523,手,64,セツ; ショウ,つ.ぐ,,touch; contact; adjoin; piece together,直接; 応接; 間接; 接近; 接続; 面接; 接する; 接触
-細,N2,11,2,537,糸,120,サイ,ほそ.い; ほそ.る; こま.か; こま.かい,,dainty; get thin; taper; slender; narrow; detailed; precise,細い; 細かい; 細菌; 細工; 細胞; 詳細; 心細い; 細やか
-効,N2,8,5,538,力,19,コウ,き.く; ききめ; なら.う,,merit; efficacy; efficiency; benefit,効く; 効果; 有効; 効力; 効率; 無効; 効き目
-丸,N2,3,2,542,丶,3,ガン,まる; まる.める; まる.い,ま; わ; わに,round; full (month); perfection; -ship; pills; make round; roll up; curl up; seduce; explain away,丸い; 丸; 丸々; 日の丸; 丸ごと; 丸める; 丸っきり; 真ん丸い
-湾,N2,12,8,545,水,85,ワン,いりえ,,gulf; bay; inlet,湾
-録,N2,16,4,546,金,167,ロク,しる.す; と.る,,record,記録; 録音; 登録; 付録; 目録
-省,N2,9,4,548,目,109,セイ; ショウ,かえり.みる; はぶ.く,さとし; み,government ministry; conserve; omit,省く; 省略; 反省; 省みる
-旧,N2,5,5,549,日,72,キュウ,ふる.い; もと,,old times; old things; old friend; former; ex-,旧; 旧知; 旧事; 復旧
-橋,N2,16,3,553,木,75,キョウ,はし,ばせ,bridge,橋; 鉄橋; 桟橋; 橋渡し
-岸,N2,8,3,556,山,46,ガン,きし,けし,beach,海岸; 岸; 沿岸
-周,N2,8,4,562,口,30,シュウ,まわ.り,あまね; しゅ; す; ちか; のり; ひろ; びび; まこと,circumference; circuit; lap,周り; 周囲; 円周; 周辺; 周; 周期
-材,N2,7,4,565,木,75,ザイ,,き; さい,lumber; log; timber; wood; materials; ingredients; talent,材料; 材木; 木材; 教材; 取材; 人材; 素材
-戸,N2,4,2,575,戶,63,コ,と,え; へ,door; counter for houses; door radical (no. 63),戸; 雨戸; 井戸; 戸棚; 瀬戸物; 戸籍; 戸締り
-央,N2,5,3,582,大,37,オウ,,あきら; え; お; さと; ちか; てる; なか; ひさ; ひろ; や,center; middle,中央
-券,N2,8,6,583,刀,18,ケン,,,ticket,券; 回数券; 定期券; 旅券
-編,N2,15,5,591,糸,120,ヘン,あ.む; -あ.み,,compilation; knit; plait; braid; twist; editing; completed poem; part of a book,編物; 編む; 短編; 編集; 編; 長編
-捜,N2,10,8,592,手,64,ソウ; シュ; シュウ,さが.す,,search; look for; locate,捜す; 捜査; 捜索
-竹,N2,6,1,593,竹,118,チク,たけ,たか,bamboo,竹
-超,N2,12,8,597,走,156,チョウ,こ.える; こ.す,まさる; わたる,transcend; super-; ultra-,超す; 超過; 超える; 超
-並,N2,8,6,599,一,1,ヘイ; ホウ,な.み; なみ; なら.べる; なら.ぶ; なら.びに,なび,row; and; besides; as well as; line up; rank with; rival; equal,並ぶ; 並べる; 並木; 並行; 並み; 並列; 月並み; 並びに
-療,N2,17,8,600,疒,104,リョウ,,,heal; cure,医療; 診療; 治療
-採,N2,11,5,607,手,64,サイ,と.る,,pick; take; fetch; take up,採点; 採る; 採掘; 採決; 採算; 採集; 採択; 採用
-森,N2,12,1,609,木,75,シン,もり,もと,forest; woods,森; 森林
-競,N2,20,4,610,立,117,キョウ; ケイ,きそ.う; せ.る; くら.べる,かい; わたなべ,emulate; compete with; bid; sell at auction; bout; contest; race,競争; 競技; 競馬
-介,N2,4,8,617,人,9,カイ,,すけ; ゆき,jammed in; shellfish; mediate; concern oneself with,紹介; 厄介; 介護; 介入; 介抱
-根,N2,10,3,620,木,75,コン,ね; -ね,,root; radical; head (pimple),根; 屋根; 垣根; 球根; 根気; 根拠; 根底; 根本
-販,N2,11,8,627,貝,154,ハン,,,marketing; sell; trade,販売
-歴,N2,14,5,632,止,77,レキ; レッキ,,,curriculum; continuation; passage of time,歴史; 学歴; 経歴; 履歴
-将,N2,10,6,634,寸,41,ショウ; ソウ,まさ.に; はた; まさ; ひきい.る; もって,かつ; かつり; すすむ; たか; ゆき,leader; commander; general; admiral; or; and again; soon; from now on; just about,将来; 将棋
-幅,N2,12,8,641,巾,50,フク,はば,,hanging scroll; width,幅; 大幅
-般,N2,10,8,649,舟,137,ハン,,,carrier; carry; all; general; sort; kind,一般; 全般
-貿,N2,12,5,652,貝,154,ボウ,,,trade; exchange,貿易
-講,N2,17,5,653,言,149,コウ,,,lecture; club; association,講義; 講堂; 講演; 休講; 講師; 講習; 講読; 聴講
-林,N2,8,1,656,木,75,リン,はやし,し,grove; forest,林; 山林; 森林; 林業
-装,N2,12,6,657,衣,145,ソウ; ショウ,よそお.う; よそお.い,,attire; dress; pretend; disguise; profess,装置; 服装; 包装; 衣装; 盛装; 装飾; 装備; 武装
-諸,N2,15,6,658,言,149,ショ,もろ,,various; many; several; together,諸; 諸君
-劇,N2,15,6,662,刀,18,ゲキ,,,drama; play,劇; 劇場; 悲劇; 演劇; 喜劇; 劇団
-河,N2,8,5,663,水,85,カ,かわ,かっ; こ; こう,river,河; 運河; 河川
-航,N2,10,5,665,舟,137,コウ,,わたる,navigate; sail; cruise; fly,航空; 航海
-鉄,N2,13,3,672,金,167,テツ,くろがね,けん; てっ,iron,地下鉄; 鉄; 鉄道; 私鉄; 鉄橋; 鉄砲; 鉄棒; 製鉄
-児,N2,7,4,679,儿,10,ジ; ニ; ゲイ,こ; -こ; -っこ,る,newborn babe; child; young of animals,育児; 児童; 幼児; 児; 孤児; 小児科
-禁,N2,13,5,681,示,113,キン,,,prohibition; ban; forbid,禁煙; 禁止; 禁物; 禁じる; 禁ずる
-印,N2,6,4,682,卩,26,イン,しるし; -じるし; しる.す,,stamp; seal; mark; imprint; symbol; emblem; trademark; evidence; souvenir; India,印; 印刷; 印象; 目印; 矢印; 印鑑; 調印
-逆,N2,9,5,683,辵,162,ギャク; ゲキ,さか; さか.さ; さか.らう,,inverted; reverse; opposite; wicked,逆; 逆らう; 逆さ; 逆様; 逆転; 逆立ち; 逆上る
-換,N2,12,8,687,手,64,カン,か.える; -か.える; か.わる,,interchange; period; change; convert; replace; renew,乗り換える; 交換; 換える; 換気; 乗換; 換算; 転換
-久,N2,3,5,688,丿,4,キュウ; ク,ひさ.しい,きゅ; わ; なが; ひさ; ひさし,long time; old story,久しぶり; 永久; 久しい
-短,N2,12,3,689,矢,111,タン,みじか.い,,short; brevity; fault; defect; weak point,短い; 短期; 短所; 短編; 長短; 短歌; 短気; 短縮
-油,N2,8,3,690,水,85,ユ; ユウ,あぶら,,oil; fat,油; 石油; 灯油; 油断; 油絵; 原油
-暴,N2,15,5,692,日,72,ボウ; バク,あば.く; あば.れる,,outburst; rave; fret; force; violence; cruelty; outrage,乱暴; 暴れる; 暴露; 暴動; 暴風; 暴力
-輪,N2,15,4,693,車,159,リン,わ,なわ; も,wheel; ring; circle; link; loop; counter for wheels and flowers,指輪; 輪; 車輪; 首輪; 年輪
-占,N2,5,8,694,卜,25,セン,し.める; うらな.う,うら; しむ; じめ,fortune-telling; divining; forecasting; occupy; hold; have; get; take,占める; 占う; 占領; 独占
-植,N2,12,3,699,木,75,ショク,う.える; う.わる,うえ; え; げ,plant,植える; 植物; 植木; 田植え; 植わる; 植民地
-清,N2,11,4,705,水,85,セイ; ショウ; シン,きよ.い; きよ.まる; きよ.める,あき; さや; し; すが; すみ; せ; ちん,pure; purify; cleanse; exorcise; Manchu dynasty,清潔; 清い; 清む; 清書; 清掃; 清算; 清純; 清濁
-倍,N2,10,3,714,人,9,バイ,,べ; ます,double; twice; times; fold,倍; 倍率
-均,N2,7,5,715,土,32,キン,なら.す,ひとし,level; average,平均; 均衡
-億,N2,15,4,716,人,9,オク,,お,hundred million; 10**8,億
-圧,N2,5,5,718,土,32,アツ; エン; オウ,お.す; へ.す; おさ.える; お.さえる,,pressure; push; overwhelm; oppress; dominate,圧縮; 気圧; 血圧; 圧迫; 圧力; 抑圧
-芸,N2,7,4,719,艸,140,ゲイ; ウン,う.える; のり; わざ,き; げ; なり,technique; art; craft; performance; acting; trick; stunt,芸術; 園芸; 芸能; 工芸; 文芸; 学芸; 手芸
-署,N2,13,6,725,网,122,ショ,,,signature; govt office; police station,署名; 消防署; 税務署
-伸,N2,7,8,730,人,9,シン,の.びる; の.ばす; の.べる; の.す,のぶ; よぼる,expand; stretch; extend; lengthen; increase,伸ばす; 伸びる
-停,N2,11,5,733,人,9,テイ,と.める; と.まる,,halt; stopping,停留所; 停止; 停車; 停電; 調停; 停滞
-爆,N2,19,8,735,火,86,バク,は.ぜる,,bomb; burst open; pop; split,爆発; 原爆; 爆弾; 爆破
-陸,N2,11,4,736,阜,170,リク; ロク,おか,くが; たち; みち; む; むつ,land; six,陸; 大陸; 上陸; 着陸; 内陸
-玉,N2,5,1,737,玉,96,ギョク,たま; たま-; -だま,おう; だん,jewel; ball,玉
-波,N2,8,3,740,水,85,ハ,なみ,ひら; みな; みなみ; わ,waves; billows; Poland,波; 電波; 短波; 津波
-帯,N2,10,4,746,巾,50,タイ,お.びる; おび,たて,sash; belt; obi; zone; region,帯; 熱帯; 温帯; 寒帯; 地帯; 包帯; 一帯; 携帯
-延,N2,8,6,747,廴,54,エン,の.びる; の.べる; の.べ; の.ばす,たか; のぶ; のべ,prolong; stretching,延期; 延長; 延ばす; 延びる; 延べ; 延いては
-羽,N2,6,2,748,羽,124,ウ,は; わ; はね,しゅう; ば,"feathers; counter for birds, rabbits",羽
-固,N2,8,4,750,囗,31,コ,かた.める; かた.まる; かた.まり; かた.い,,harden; set; clot; curdle,固い; 固まる; 頑固; 固体; 固定; 固有; 固める
-則,N2,9,5,753,刀,18,ソク,のっと.る; のり; すなわち,,rule; law; follow; based on; model after,規則; 法則; 不規則; 原則
-乱,N2,7,6,755,乙,5,ラン; ロン,みだ.れる; みだ.る; みだ.す; みだ; おさ.める; わた.る,ら,riot; war; disorder; disturb,混乱; 乱暴; 内乱; 反乱; 乱す; 乱れる
-普,N2,12,8,757,日,72,フ,あまね.く; あまねし,しん; ひろ,universal; wide(ly); generally; Prussia,普通; 普段; 普及; 普遍
-測,N2,12,5,761,水,85,ソク,はか.る,,fathom; plan; scheme; measure,予測; 観測; 測定; 測量; 測る; 推測
-豊,N2,13,5,762,豆,151,ホウ; ブ,ゆた.か; とよ,て; で; と; ひろし; ふう; ぶん; ほ; ゆたか,bountiful; excellent; rich,豊富; 豊か; 豊作
-厚,N2,9,5,768,厂,27,コウ,あつ.い; あか,あ; あっ,thick; heavy; rich; kind; cordial; brazen; shameless,厚い; 厚かましい
-齢,N2,17,8,770,齒,211,レイ,よわい; とし,,age,年齢
-囲,N2,7,5,771,囗,31,イ,かこ.む; かこ.う; かこ.い,,surround; besiege; store; paling; enclosure; encircle; preserve; keep,囲む; 周囲; 範囲; 雰囲気
-卒,N2,8,4,772,十,24,ソツ; シュツ,そっ.する; お.える; お.わる; ついに; にわか,,graduate; soldier; private; die,卒業; 卒直; 何卒
-略,N2,11,5,774,田,102,リャク,ほぼ; はぶ.く; おか.す; おさ.める; はかりごと; はか.る,,abbreviation; omission; outline; shorten; capture; plunder,省略; 略す; 概略; 侵略; 略語; 略奪
-承,N2,8,6,775,手,64,ショウ; ジョウ,うけたまわ.る; う.ける,つぐ; こと; すけ; つぎ; よし; うけ,acquiesce; hear; listen to; be informed; receive,承知; 承認; 承る; 承諾; 了承
-順,N2,12,4,779,頁,181,ジュン,,あや; あり; おき; おさむ; しげ; したがう; とし; なお; のぶ; のり; まさ; むね; もと; ゆき; よし; より,obey; order; turn; right; docility; occasion,順; 順調; 順番; 順々; 順序; 道順; 手順; 不順
-岩,N2,8,2,787,山,46,ガン,いわ,,boulder; rock; cliff,岩; 溶岩; 岩石
-練,N2,14,3,788,糸,120,レン,ね.る; ね.り,ねり,practice; gloss; train; drill; polish; refine,練習; 訓練; 練る; 未練
-軽,N2,12,3,790,車,159,ケイ; キョウ; キン,かる.い; かろ.やか; かろ.んじる,,lightly; trifling; unimportant,軽い; 気軽; 軽快; 軽減; 軽率; 軽蔑; 手軽
-了,N2,2,8,792,亅,6,リョウ,,さとる,complete; finish,完了; 終了; 了; 修了; 了解; 了承
-庁,N2,5,6,793,广,53,チョウ; テイ,やくしょ,,government office,官庁; 県庁; 庁
-城,N2,9,4,795,土,32,ジョウ; セイ,しろ,いく; がき; き; くに; ぐしく; ぐすく; しき; すく; ぜい; たち; なり,castle,城; 城下
-患,N2,11,8,796,心,61,カン,わずら.う,くろ,afflicted; disease; suffer from; be ill,患者
-層,N2,14,6,801,尸,44,ソウ,,,stratum; social class; layer; story; floor,一層; 高層; 大層; 階層
-版,N2,8,5,802,片,91,ハン,,,printing block; printing plate; edition; impression; label,出版; 版; 初版; 絶版; 版画
-令,N2,5,4,804,人,9,レイ,,のり; りょう; れ,orders; laws; command; decree; good,命令; 指令; 仮令
-角,N2,7,2,805,角,148,カク,かど; つの,い; す; すみ; ずみ; ふさ,angle; corner; square; horn; antlers,角; 角度; 三角; 四角; 折角; 直角; 方角; 街角
-絡,N2,12,8,806,糸,120,ラク,から.む; から.まる,,entwine; coil around; get caught in,連絡; 絡む
-損,N2,13,5,807,手,64,ソン,そこ.なう; そこな.う; -そこ.なう; そこ.ねる; -そこ.ねる,,damage; loss; disadvantage; hurt; injure,損; 損害; 損得; 損失; 破損; 損なう
-募,N2,12,8,809,力,19,ボ,つの.る,,recruit; campaign; gather (contributions); enlist; grow violent,募集; 応募; 公募; 募る; 募金
-裏,N2,13,6,812,衣,145,リ,うら,,back; amidst; in; reverse; inside; palm; sole; rear; lining; wrong side,裏; 裏切る; 裏口; 裏返す; 裏返し
-仏,N2,4,5,819,人,9,ブツ; フツ,ほとけ,,Buddha; the dead; France,仏; 仏像
-績,N2,17,5,820,糸,120,セキ,,み,exploits; achievements; unreeling cocoons,成績; 功績; 実績; 業績; 紡績
-築,N2,16,5,821,竹,118,チク,きず.く,つい; つき; つく; づき,fabricate; build; construct,建築; 築く; 新築
-貨,N2,11,4,822,貝,154,カ,たから,,freight; goods; property,硬貨; 貨物; 通貨; 外貨; 貨幣; 雑貨
-混,N2,11,5,824,水,85,コン,ま.じる; -ま.じり; ま.ざる; ま.ぜる; こ.む,,mix; blend; confuse,混雑; 混乱; 混合; 混ざる; 混じる; 混ぜる; 混む; 混血
-昇,N2,8,8,826,日,72,ショウ,のぼ.る,しゅう; のり,rise up,昇る; 上昇; 昇進
-池,N2,6,2,827,水,85,チ,いけ,,pond; cistern; pool; reservoir,池; 電池; 乾電池
-血,N2,6,3,832,血,143,ケツ,ち,,blood,血; 血圧; 血液; 輸血; 血管; 混血; 出血
-温,N2,12,3,838,水,85,オン,あたた.か; あたた.かい; あたた.まる; あたた.める; ぬく,あつ; あつし; なお; はる; ゆ; ゆたか,warm,温い; 温暖; 温度; 気温; 体温; 温室; 温泉; 温帯
-季,N2,8,4,842,子,39,キ,,すえ; とし,seasons,季節; 四季; 季刊
-星,N2,9,2,844,日,72,セイ; ショウ,ほし; -ぼし,,star; spot; dot; mark,星; 衛星; 火星; 星座; 惑星
-永,N2,5,5,846,水,85,エイ,なが.い,え; と; のり; ひさ; ひさし,eternity; long; lengthy,永遠; 永久; 永い
-著,N2,11,6,849,艸,140,チョ; チャク,あらわ.す; いちじる.しい,,renowned; publish; write; remarkable; phenomenal; put on; don; wear; arrival; finish (race); counter for suits of clothing; literary work,著者; 著す; 著書; 著名; 著しい
-誌,N2,14,6,851,言,149,シ,,,document; records,雑誌
-庫,N2,10,3,852,广,53,コ; ク,くら,,warehouse; storehouse,冷蔵庫; 金庫; 車庫; 倉庫; 在庫
-刊,N2,5,5,855,刀,18,カン,,,publish; carve; engrave,夕刊; 刊行; 季刊; 創刊
-像,N2,14,5,856,人,9,ゾウ,,かた,statue; picture; image; figure; portrait,想像; 像; 映像; 現像; 仏像
-香,N2,9,4,859,香,186,コウ; キョウ,か; かお.り; かお.る,こ; こお; ひゃん; よし,incense; smell; perfume,香り; 香水; 香辛料
-坂,N2,7,3,865,土,32,ハン,さか,か; ざ,slope; incline; hill,坂
-底,N2,8,4,867,广,53,テイ,そこ,,bottom; sole; depth; bottom price; base; kind; sort,底; 徹底; 根底; 到底
-布,N2,5,5,877,巾,50,フ; ホ,ぬの; し.く; きれ,う; の; ほ,linen; cloth; spread; distribute,財布; 布団; 布; 毛布; 分布; 座布団; 配布; 布巾
-寺,N2,6,2,879,寸,41,ジ,てら,,Buddhist temple,寺; 寺院
-宇,N2,6,6,883,宀,40,ウ,,いえ; たか; ひろ; ひろし,eaves; roof; house; heaven,宇宙
-巨,N2,5,8,892,工,48,キョ,,おお; か; こ; なお,gigantic; big; large; great,巨大; 巨
-震,N2,15,8,893,雨,173,シン,ふる.う; ふる.える; ふる.わせる; ふる.わす,,quake; shake; tremble; quiver; shiver,地震; 震える; 震わせる
-希,N2,7,4,896,巾,50,キ; ケ,まれ; こいねが.う,のぞ; のぞみ,hope; beg; request; pray; beseech; Greece; dilute (acid); rare; few; phenomenal,希望
-触,N2,13,8,904,角,148,ショク,ふ.れる; さわ.る; さわ,,contact; touch; feel; hit; proclaim; announce; conflict,触る; 触れる; 感触; 接触; 気触れる
-依,N2,8,8,906,人,9,イ; エ,よ.る,よ; より,reliant; depend on; consequently; therefore; due to,依頼; 依; 依然; 依存; 依って
-籍,N2,20,8,907,竹,118,セキ,,,enroll; domiciliary register; membership,国籍; 書籍; 戸籍
-汚,N2,6,8,908,水,85,オ,けが.す; けが.れる; けが.らわしい; よご.す; よご.れる; きたな.い,,dirty; pollute; disgrace; rape; defile,汚い; 汚れる; 汚染; 汚す; 汚れ; 汚らわしい
-枚,N2,8,6,911,木,75,マイ; バイ,,ひら,sheet of...; counter for flat thin objects or sheets,枚数; 枚
-複,N2,14,5,915,衣,145,フク,,,duplicate; double; compound; multiple,複雑; 複写; 複数; 重複; 複合
-郵,N2,11,6,917,邑,163,ユウ,,,mail; stagecoach stop,郵便局; 郵便; 郵送
-仲,N2,6,4,919,人,9,チュウ,なか,ちゅん; つづき; なかつ,go-between; relationship,仲; 仲間; 仲直り; 仲良し; 仲人
-栄,N2,9,4,920,木,75,エイ; ヨウ,さか.える; は.え; -ば.え; は.える; え,さかえ; しげ; てる; なが; ひで; よし,flourish; prosperity; honor; glory; splendor,栄養; 繁栄; 栄える
-札,N2,5,4,921,木,75,サツ,ふだ,さっ,tag; paper money; counter for bonds; placard; bid,札; 改札; 名札
-板,N2,8,3,926,木,75,ハン; バン,いた,,plank; board; plate; stage,板; 黒板; 看板
-骨,N2,10,6,936,骨,188,コツ,ほね,,skeleton; bone; remains; frame,骨; 骨折; 露骨; 骨董品
-傾,N2,13,8,938,人,9,ケイ,かたむ.く; かたむ.ける; かたぶ.く; かた.げる; かし.げる,,lean; incline; tilt; trend; wane; sink; ruin; bias,傾向; 傾く; 傾; 傾斜; 傾ける
-届,N2,8,6,939,尸,44,カイ,とど.ける; -とど.け; とど.く,,deliver; reach; arrive; report; notify; forward,届ける; 届く; 届け
-巻,N2,9,6,944,己,49,カン; ケン,ま.く; まき; ま.き,,scroll; volume; book; part; roll up; wind up; tie; coil; counter for texts (or book scrolls),寝巻; 巻く; 巻; 取り巻く
-燃,N2,16,5,948,火,86,ネン,も.える; も.やす; も.す,,burn; blaze; glow,燃える; 燃やす; 燃焼; 燃料
-跡,N2,13,8,953,足,157,セキ,あと,,tracks; mark; print; impression,足跡; 遺跡; 追跡; 跡継ぎ; 跡切れる
-包,N2,5,4,954,勹,20,ホウ,つつ.む; くる.む,お; かね,wrap; pack up; cover; conceal,包む; 小包; 包み; 包装; 包帯
-駐,N2,15,8,955,馬,187,チュウ,,,stop-over; reside in; resident,駐車場; 駐車
-弱,N2,10,2,958,弓,57,ジャク,よわ.い; よわ.る; よわ.まる; よわ.める,,weak; frail,弱い; 弱点; 弱; 薄弱; 貧弱; 弱る; 弱まる; 弱める
-紹,N2,11,8,963,糸,120,ショウ,,つぐ,introduce; inherit; help,紹介
-雇,N2,12,8,975,隹,172,コ,やと.う,,employ; hire,雇う; 雇用
-替,N2,12,8,979,曰,73,タイ,か.える; か.え-; か.わる,かえ,exchange; spare; substitute; per-,取り替える; 両替; 替える; 為替; 交替; 着替え; 取り替え; 切り替える
-預,N2,13,6,981,頁,181,ヨ,あず.ける; あず.かる,,deposit; custody; leave with; entrust to,預ける; 預かる; 預金
-焼,N2,12,4,982,火,86,ショウ,や.く; や.き; や.き-; -や.き; や.ける,やい; やき,bake; burning,焼く; 焼ける; 燃焼; 日焼け; 夕焼け
-簡,N2,18,6,983,竹,118,カン; ケン,えら.ぶ; ふだ,,simplicity; brevity,簡単; 簡易; 簡潔; 簡素
-章,N2,11,3,990,立,117,ショウ,,あき; あきら; あや; ふみ,badge; chapter; composition; poem; design,文章; 章
-臓,N2,19,6,991,肉,130,ゾウ,はらわた,,entrails; viscera; bowels,心臓; 内臓
-律,N2,9,6,992,彳,60,リツ; リチ; レツ,,たかし; のり,rhythm; law; regulation; gauge; control,法律; 規律; 一律
-贈,N2,18,8,1001,貝,154,ゾウ; ソウ,おく.る,,presents; send; give to; award to; confer on; presenting something,贈り物; 贈る; 寄贈
-照,N2,13,4,1004,火,86,ショウ,て.る; て.らす; て.れる,あき; てる,illuminate; shine; compare; bashful,対照; 照る; 照らす; 参照; 照合; 照明; 照り返す
-薄,N2,16,8,1009,艸,140,ハク,うす.い; うす-; -うす; うす.める; うす.まる; うす.らぐ; うす.ら-; うす.れる; すすき,,dilute; thin; weak (tea); pampas grass,薄い; 薄暗い; 薄める; 薄弱
-群,N2,13,4,1012,羊,123,グン,む.れる; む.れ; むら; むら.がる,ぐり; ぐ; こお; こおり; ごうり,flock; group; crowd; herd; swarm; cluster,群れ; 群; 群集; 群がる
-秒,N2,9,3,1015,禾,115,ビョウ,,,second (1/60 minute),秒
-奥,N2,12,8,1018,大,37,オウ,おく; おく.まる; くま,お; おお; おん; つ; のく,heart; interior,奥さん; 奥
-詰,N2,13,8,1020,言,149,キツ; キチ,つ.める; つ.め; -づ.め; つ.まる; つ.む,ずめ; づめ,packed; close; pressed; reprove; rebuke; blame,詰める; 缶詰; 瓶詰; 詰まる; 詰る
-双,N2,4,8,1029,又,29,ソウ,ふた; たぐい; ならぶ; ふたつ,ふ,pair; set; comparison; counter for pairs,双子
-刺,N2,8,8,1031,刀,18,シ,さ.す; さ.さる; さ.し; さし; とげ,,thorn; pierce; stab; prick; sting; calling card,刺激; 刺身; 刺す; 名刺; 刺さる; 刺; 刺繍
-純,N2,10,6,1044,糸,120,ジュン,,あつ; すみ; み; やすし; よし,genuine; purity; innocence; net (profit),単純; 純情; 純粋; 清純
-翌,N2,11,6,1070,羽,124,ヨク,,,the following; next,
-快,N2,7,5,1074,心,61,カイ,こころよ.い,よし,cheerful; pleasant; agreeable; comfortable,快適; 愉快; 快晴; 軽快; 快い; 全快
-片,N2,4,6,1076,片,91,ヘン,かた-; かた,,one-sided; leaf; sheet; right-side kata radical (no. 91),片付ける; 片道; 破片; 片仮名; 片付く; 片寄る; 片言; 鉄片
-敬,N2,12,6,1078,攴,66,ケイ; キョウ,うやま.う,け; たか; たかし; たけ; とし; のり; ひろ; ゆき; よし,awe; respect; honor; revere,敬意; 尊敬; 敬う; 敬語; 敬具
-悩,N2,10,8,1084,心,61,ノウ,なや.む; なや.ます; なや.ましい; なやみ,,trouble; worry; in pain; distress; illness,悩む; 悩み; 悩ます; 悩ましい
-泉,N2,9,6,1086,水,85,セン,いずみ,いず; ずい; ずみ; ぜい; ぜん; の,spring; fountain,泉; 温泉
-皮,N2,5,3,1092,皮,107,ヒ,かわ,,pelt; skin; hide; leather; skin radical (no. 107),皮; 毛皮; 皮肉; 皮膚
-漁,N2,14,4,1094,水,85,ギョ; リョウ,あさ.る,,fishing; fishery,漁業; 漁師; 漁船; 漁村
-荒,N2,9,8,1099,艸,140,コウ,あ.らす; あ.れる; あら.い; すさ.ぶ; すさ.む; あ.らし,ら,laid waste; rough; rude; wild,荒い; 荒廃; 荒らす; 荒っぽい
-貯,N2,12,5,1100,貝,154,チョ,た.める; たくわ.える,,savings; store; lay in; keep; wear mustache,貯金; 貯蔵; 貯蓄
-硬,N2,12,8,1101,石,112,コウ,かた.い,,stiff; hard,硬い; 硬貨; 強硬
-埋,N2,10,8,1110,土,32,マイ,う.める; う.まる; う.もれる; うず.める; うず.まる; い.ける,,bury; be filled up; embedded,埋める; 埋蔵; 埋まる; 埋め込む
-柱,N2,9,3,1119,木,75,チュウ,はしら,,pillar; post; cylinder; support,電柱; 柱
-祭,N2,11,3,1124,示,113,サイ,まつ.る; まつ.り; まつり,,ritual; offer prayers; celebrate; deify; enshrine; worship,お祭り; 祭; 祭日; 祭る
-袋,N2,11,8,1125,衣,145,タイ; ダイ,ふくろ,てい; ない; ぶく,sack; bag; pouch,手袋; 袋; 足袋
-筆,N2,12,3,1132,竹,118,ヒツ,ふで,はじめ,writing brush; writing; painting brush; handwriting,鉛筆; 万年筆; 筆; 執筆; 随筆; 筆記; 筆者
-訓,N2,10,4,1134,言,149,クン; キン,おし.える; よ.む; くん.ずる,く; くに; くの; さとし; のり; ふみ,instruction; Japanese character reading; explanation; read,訓; 訓練; 教訓
-浴,N2,10,4,1136,水,85,ヨク,あ.びる; あ.びせる,えき; さこ,bathe; be favored with; bask in,浴衣; 海水浴; 入浴; 浴室
-童,N2,12,3,1138,立,117,ドウ,わらべ,ぱ,juvenile; child,児童; 童話
-宝,N2,8,6,1139,宀,40,ホウ,たから,ほ,treasure; wealth; valuables,宝; 宝石; 重宝; 宝器
-封,N2,9,8,1143,寸,41,フウ; ホウ,,,seal; closing,封筒; 封; 同封; 封鎖; 封建
-胸,N2,10,6,1144,肉,130,キョウ,むね; むな-,,bosom; breast; chest; heart; feelings,胸
-砂,N2,9,6,1146,石,112,サ; シャ,すな,いさ; ご,sand,砂糖; 砂; 砂漠; 砂利
-塩,N2,13,4,1148,土,32,エン,しお,,salt,塩; 食塩; 塩辛い
-賢,N2,16,8,1159,貝,154,ケン,かしこ.い,かた; さか; さと; さとし; たか; たて; のり; まこと; まさ; まさる,intelligent; wise; wisdom; cleverness,賢い; 賢明
-腕,N2,12,8,1163,肉,130,ワン,うで,,arm; ability; talent,腕; 腕前
-兆,N2,6,4,1174,儿,10,チョウ,きざ.す; きざ.し,,portent; 10**12; trillion; sign; omen; symptoms,兆; 兆し
-床,N2,7,8,1175,广,53,ショウ,とこ; ゆか,,bed; counter for beds; floor; padding; tatami,床; 起床; 床の間
-毛,N2,4,2,1179,毛,82,モウ,け,めん; も,fur; hair; feather; down,毛; 毛布; 髪の毛; 毛糸; 毛皮; 羊毛
-緑,N2,14,3,1180,糸,120,リョク; ロク,みどり,,green,緑
-尊,N2,12,6,1181,寸,41,ソン,たっと.い; とうと.い; たっと.ぶ; とうと.ぶ,さだ; たか; たけ; みこと,revered; valuable; precious; noble; exalted,尊敬; 尊重; 尊い; 尊ぶ; 自尊心
-祝,N2,9,4,1184,示,113,シュク; シュウ,いわ.う,のり; ほぎ; ゆわい,celebrate; congratulate,お祝い; 祝い; 祝う; 祝日; 祝賀
-柔,N2,9,8,1187,木,75,ジュウ; ニュウ,やわ.らか; やわ.らかい; やわ; やわ.ら,とお,tender; weakness; gentleness; softness,柔道; 柔らかい; 柔軟
-殿,N2,13,8,1199,殳,79,デン; テン,との; -どの,て; どん,Mr.; hall; mansion; palace; temple; lord,殿; 宮殿; 神殿; 沈殿; 殿様
-濃,N2,16,8,1200,水,85,ノウ,こ.い,の,concentrated; thick; dark; undiluted,濃い; 濃度
-液,N2,11,5,1210,水,85,エキ,,,fluid; liquid; juice; sap; secretion,液体; 血液; 液; 溶液
-衣,N2,6,4,1214,衣,145,イ; エ,ころも; きぬ; -ぎ,,garment; clothes; dressing,衣服; 浴衣; 衣食住; 衣装; 衣料; 衣類
-肩,N2,8,8,1215,肉,130,ケン,かた,,shoulder,肩
-零,N2,13,8,1217,雨,173,レイ,ぜろ; こぼ.す; こぼ.れる,,zero; spill; overflow; nothing; cipher,零; 零点
-幼,N2,5,6,1227,幺,52,ヨウ,おさな.い,うぶ; わか,infancy; childhood,幼い; 幼児; 幼稚; 幼稚園
-荷,N2,10,3,1230,艸,140,カ,に,はす; り,baggage; shoulder-pole load; bear (a burden); shoulder (a gun); load; cargo; freight,荷物; 荷; 荷造り
-泊,N2,8,8,1233,水,85,ハク,と.まる; と.める,とまり; はつ,overnight stay; put up at; ride at anchor,泊まる; 宿泊; 泊める; 泊
-黄,N2,11,2,1240,黃,201,コウ; オウ,き; こ-,うい; れい,yellow,黄色; 黄色い; 黄金
-甘,N2,5,8,1248,甘,99,カン,あま.い; あま.える; あま.やかす; うま.い,かも,sweet; coax; pamper; be content; sugary,甘い; 甘やかす; 甘口; 甘える
-臣,N2,7,4,1249,臣,131,シン; ジン,,おみ; たか; と; とみ; み,retainer; subject,大臣; 総理大臣
-浅,N2,9,4,1253,水,85,セン,あさ.い,あざ; さ,shallow; superficial; frivolous; wretched; shameful,浅い; 浅ましい
-掃,N2,11,8,1255,手,64,ソウ; シュ,は.く,か,sweep; brush,掃除; 清掃; 掃く
-雲,N2,12,2,1256,雨,173,ウン,くも; -ぐも,き; ずも; のめ,cloud,雲
-掘,N2,11,8,1257,手,64,クツ,ほ.る,ぼり,dig; delve; excavate,掘る; 採掘; 発掘
-捨,N2,11,6,1266,手,64,シャ,す.てる,,discard; throw away; abandon; resign; reject; sacrifice,捨てる; 四捨五入
-軟,N2,11,8,1269,車,159,ナン,やわ.らか; やわ.らかい,,soft,軟らかい; 柔軟
-沈,N2,7,8,1271,水,85,チン; ジン,しず.む; しず.める,しん,sink; be submerged; subside; be depressed; aloes,沈む; 沈殿; 沈没; 沈黙; 沈める
-凍,N2,10,8,1284,冫,15,トウ,こお.る; こご.える; こご.る; い.てる; し.みる,こおり,frozen; congeal; refrigerate,凍る; 冷凍; 凍える
-乳,N2,8,6,1289,乙,5,ニュウ,ちち; ち,,milk; breasts,牛乳; 乳
-恋,N2,10,8,1296,心,61,レン,こ.う; こい; こい.しい,,romance; in love; yearn for; miss; darling,恋; 恋人; 失恋; 恋しい; 恋愛; 恋する
-紅,N2,9,6,1299,糸,120,コウ; ク,べに; くれない; あか.い,くれ; もみ,crimson; deep red,紅茶; 口紅; 紅葉
-郊,N2,9,8,1304,邑,163,コウ,,,outskirts; suburbs; rural area,郊外; 近郊
-腰,N2,13,8,1306,肉,130,ヨウ,こし,うすぐ,loins; hips; waist; low wainscoting,腰; 腰掛け; 腰掛ける
-炭,N2,9,3,1307,火,86,タン,すみ,,charcoal; coal,石炭; 炭鉱; 炭素
-踊,N2,14,8,1308,足,157,ヨウ,おど.る,,jump; dance; leap; skip,踊り; 踊る
-冊,N2,5,6,1313,冂,13,サツ; サク,ふみ,,tome; counter for books; volume,冊
-勇,N2,9,4,1319,力,19,ユウ,いさ.む,お; はや,courage; cheer up; be in high spirits; bravery; heroism,勇気; 勇ましい; 勇敢
-械,N2,11,4,1321,木,75,カイ,かせ,,contraption; fetter; machine; instrument,機械; 器械
-菜,N2,11,4,1327,艸,140,サイ,な,よう,vegetable; side dish; greens,野菜
-珍,N2,9,8,1330,玉,96,チン,めずら.しい; たから,じん,rare; curious; strange,珍しい
-卵,N2,7,6,1342,卩,26,ラン,たまご,,egg; ovum; spawn; roe,卵
-湖,N2,12,3,1344,水,85,コ,みずうみ,うみ; み,lake,湖
-喫,N2,12,8,1347,口,30,キツ,の.む,,consume; eat; drink; smoke; receive (a blow),喫茶店; 喫茶
-干,N2,3,6,1349,干,51,カン,ほ.す; ほ.し-; -ぼ.し; ひ.る,ほし,dry; parch; ebb; recede; interfere; intercede,干す; 梅干; 干渉; 若干; 干し物
-虫,N2,6,1,1351,虫,142,チュウ; キ,むし,む,insect; bug; temper,虫; 虫歯; 昆虫
-刷,N2,8,4,1352,刀,18,サツ,す.る; -ず.り; -ずり; は.く,,printing; print; brush,印刷; 刷る; 刷り
-湯,N2,12,3,1356,水,85,トウ,ゆ,,hot water; bath; hot spring,湯; 湯気; 湯飲み; 熱湯; 茶の湯
-溶,N2,13,8,1364,水,85,ヨウ,と.ける; と.かす; と.く,,melt; dissolve; thaw,溶く; 溶岩; 溶かす; 溶ける; 溶け込む; 溶液
-鉱,N2,13,5,1376,金,167,コウ,あらがね,,mineral; ore,鉱物; 炭鉱; 鉱業; 鉱山
-涙,N2,10,8,1381,水,85,ルイ; レイ,なみだ,,tears; sympathy,涙
-匹,N2,4,8,1384,匸,23,ヒツ,ひき,,equal; head; counter for small animals; roll of cloth,匹; 匹敵
-孫,N2,10,4,1388,子,39,ソン,まご,ひ,grandchild; descendants,孫; 子孫
-鋭,N2,15,8,1395,金,167,エイ,するど.い,とし,pointed; sharpness; edge; weapon; sharp; violent,鋭い
-枝,N2,8,5,1401,木,75,シ,えだ,え; ぐさ,bough; branch; twig; limb; counter for branches,枝
-塗,N2,13,8,1414,土,32,ト,ぬ.る; ぬ.り; まみ.れる,,paint; plaster; daub; smear; coating,塗る
-軒,N2,10,8,1416,車,159,ケン,のき,,flats; counter for houses; eaves,軒; 軒並み
-毒,N2,8,5,1419,毋,80,ドク,,,poison; virus; venom; germ; harm; injury; spite,毒; 気の毒; 消毒; 中毒
-叫,N2,6,8,1426,口,30,キョウ,さけ.ぶ,,shout; exclaim; yell,叫ぶ; 叫び
-拝,N2,8,6,1443,手,64,ハイ,おが.む; おろが.む,,worship; adore; pray to,拝見; 拝む; 崇拝; 拝啓; 拝借
-氷,N2,5,3,1450,水,85,ヒョウ,こおり; ひ; こお.る,すい,icicle; ice; hail; freeze; congeal,氷
-乾,N2,11,8,1453,乙,5,カン; ケン,かわ.く; かわ.かす; ほ.す; ひ.る; いぬい,,drought; dry; desiccate; drink up; heaven; emperor,乾く; 乾燥; 乾杯; 乾かす; 乾電池; 乾
-棒,N2,12,6,1455,木,75,ボウ,,,rod; stick; cane; pole; club; line,泥棒; 棒; 鉄棒
-祈,N2,8,8,1462,示,113,キ,いの.る,のり; れい,pray; wish,祈る; 祈り
-拾,N2,9,3,1479,手,64,シュウ; ジュウ,ひろ.う,,pick up; gather; find; go on foot; ten,拾う
-粉,N2,10,5,1484,米,119,フン,デシメートル; こ; こな,,flour; powder; dust,粉; 花粉; 粉々; 粉末
-糸,N2,6,1,1488,糸,120,シ,いと,,thread,糸; 毛糸
-綿,N2,14,5,1495,糸,120,メン,わた,う,cotton,木綿; 綿
-汗,N2,6,8,1502,水,85,カン,あせ,,sweat; perspire,汗
-銅,N2,14,5,1505,金,167,ドウ,あかがね,,copper,銅
-湿,N2,12,8,1517,水,85,シツ; シュウ,しめ.る; しめ.す; うるお.う; うるお.す,,damp; wet; moist,湿気; 湿度; 湿る; 湿気る
-瓶,N2,11,8,1528,瓦,98,ビン; ヘイ,かめ,べ; ぺ,bottle; vial; jar; jug; vat; urn,花瓶; 瓶; 瓶詰
-咲,N2,9,8,1534,口,30,ショウ,さ.く; -ざき,さ; さき,blossom; bloom,咲く
-召,N2,5,8,1540,口,30,ショウ,め.す,,seduce; call; send for; wear; put on; ride in; buy; eat; drink; catch (cold),召し上がる; 召す
-缶,N2,6,8,1543,缶,121,カン,かま,ふ; べ,tin can; container; jar radical (no. 121),缶; 缶詰; 薬缶
-隻,N2,10,8,1546,隹,172,セキ,,,vessels; counter for ships; fish; birds; arrows; one of a pair,
-脂,N2,10,8,1548,肉,130,シ,あぶら,,fat; grease; tallow; lard; rosin; gum; tar,脂; 脂肪
-蒸,N2,13,6,1552,艸,140,ジョウ; セイ,む.す; む.れる; む.らす,,steam; heat; sultry; foment; get musty,蒸気; 蒸発; 蒸す; 水蒸気; 蒸し暑い; 蒸留
-肌,N2,6,8,1559,肉,130,キ,はだ,,texture; skin; body; grain,肌; 肌着
-耕,N2,10,5,1568,耒,127,コウ,たがや.す,こお,till; plow; cultivate,耕地; 耕す; 耕作; 農耕
-鈍,N2,12,8,1574,金,167,ドン,にぶ.い; にぶ.る; にぶ-; なま.る; なまく.ら,,dull; slow; foolish; blunt,鈍い; 鈍感; 鈍る
-泥,N2,8,8,1589,水,85,デイ; ナイ; デ; ニ,どろ; なず.む,ひじ,mud; mire; adhere to; be attached to,泥棒; 泥
-隅,N2,12,8,1601,阜,170,グウ,すみ,,corner; nook,隅
-灯,N2,6,4,1605,火,86,トウ,ひ; ほ-; ともしび; とも.す; あかり,,lamp; a light; light; counter for lights,電灯; 灯; 灯台; 灯油; 蛍光灯
-辛,N2,7,8,1607,辛,160,シン,から.い; つら.い; -づら.い; かのと,,spicy; bitter; hot; acrid,辛い; 塩辛い; 辛抱; 香辛料; 辛うじて
-磨,N2,16,8,1608,石,112,マ,みが.く; す.る,おさむ,grind; polish; scour; improve; brush (teeth),磨く; 歯磨き
-麦,N2,7,2,1615,麥,199,バク,むぎ,,barley; wheat,小麦; 蕎麦
-姓,N2,8,8,1628,女,38,セイ; ショウ,,,surname,姓; 姓名
-筒,N2,12,8,1631,竹,118,トウ,つつ,,cylinder; pipe; tube; gun barrel; sleeve,封筒; 水筒; 筒
-鼻,N2,14,3,1632,鼻,209,ビ,はな,,nose; snout,鼻; 耳鼻科
-粒,N2,11,8,1635,米,119,リュウ,つぶ,,grains; drop; counter for tiny particles,粒
-詞,N2,12,6,1636,言,149,シ,ことば,,part of speech; words; poetry,動詞; 副詞; 名詞; 形容詞; 代名詞; 形容動詞; 助詞; 数詞
-胃,N2,9,6,1647,肉,130,イ,,,stomach; paunch; crop; craw,胃
-畳,N2,12,8,1665,田,102,ジョウ; チョウ,たた.む; たたみ; かさ.なる,,tatami mat; counter for tatami mats; fold; shut up; do away with,畳; 畳む
-机,N2,6,6,1671,木,75,キ,つくえ,,desk; table,机
-膚,N2,15,8,1679,肉,130,フ,はだ,,skin; body; grain; texture; disposition,皮膚
-濯,N2,17,8,1698,水,85,タク,すす.ぐ; ゆす.ぐ,,laundry; wash; pour on; rinse,洗濯; 濯ぐ
-塔,N2,12,8,1708,土,32,トウ,,,pagoda; tower; steeple,塔
-沸,N2,8,8,1709,水,85,フツ,わ.く; わ.かす,,seethe; boil; ferment; uproar; breed,沸く; 沸かす; 沸騰
-灰,N2,6,6,1717,火,86,カイ,はい,,ashes; puckery juice; cremate,灰皿; 灰; 灰色
-菓,N2,11,8,1719,艸,140,カ,,,candy; cakes; fruit,お菓子; 菓子
-帽,N2,12,8,1742,巾,50,ボウ; モウ,ずきん; おお.う,,cap; headgear,帽子
-枯,N2,9,8,1749,木,75,コ,か.れる; か.らす,,wither; die; dry up; be seasoned,枯れる
-涼,N2,11,8,1783,水,85,リョウ,すず.しい; すず.む; すず.やか; うす.い; ひや.す; まことに,りょ,refreshing; nice and cool,涼しい; 涼む
-舟,N2,6,8,1786,舟,137,シュウ,ふね; ふな-; -ぶね,,boat; ship,舟
-貝,N2,7,1,1787,貝,154,バイ,かい,,shellfish,貝; 貝殻
-符,N2,11,8,1798,竹,118,フ,,,token; sign; mark; tally; charm,切符; 符号
-憎,N2,14,8,1808,心,61,ゾウ,にく.む; にく.い; にく.らしい; にく.しみ,,hate; detest,憎い; 憎む; 憎らしい; 愛憎; 憎しみ
-皿,N2,5,3,1812,皿,108,ベイ,さら,,dish; a helping; plate,お皿; 灰皿; 皿
-肯,N2,8,8,1813,肉,130,コウ,がえんじ.る,,agreement; consent; comply with,肯定
-燥,N2,17,8,1819,火,86,ソウ,はしゃ.ぐ,,parch; dry up,乾燥
-畜,N2,10,8,1824,田,102,チク,,,livestock; domestic fowl and animals,牧畜; 家畜; 畜産; 畜生
-挟,N2,9,8,1870,手,64,キョウ; ショウ,はさ.む; はさ.まる; わきばさ.む; さしはさ.む,,pinch; between,挟む; 挟まる
-曇,N2,16,8,1899,日,72,ドン,くも.る,ど; ずみ,cloudy weather; cloud up,曇り; 曇る
-滴,N2,14,8,2019,水,85,テキ,しずく; したた.る,,drip; drop,水滴
-伺,N2,7,8,2209,人,9,シ,うかが.う,,pay respects; visit; ask; inquire; question; implore,
+character,level,strokes,grade,freq,radical,radical_number,onyomi,kunyomi,nanori,meanings,words,supplementary
+党,N2,10,6,39,儿,10,トウ,なかま; むら,,party; faction; clique,党; 政党; 野党; 与党,
+協,N2,8,4,121,十,24,キョウ,,,co-; cooperation,協力; 協会; 協議; 協調; 協定; 妥協,
+総,N2,14,5,129,糸,120,ソウ,す.べて; すべ.て; ふさ,うさ; ずさ,general; whole; all; full; total,総理大臣; 総; 総会; 総合,
+区,N2,4,3,137,匸,23,ク; オウ; コウ,,,ward; district,区別; 地区; 区域; 区分; 区切る; 区; 区画; 区間,
+領,N2,14,5,138,頁,181,リョウ,えり,よう; よし,jurisdiction; dominion; territory; fief; reign,大統領; 要領; 領事; 領収; 占領; 領域; 領海; 領地,
+県,N2,9,3,140,目,109,ケン,か.ける,あがた; がた,prefecture,県; 県庁,
+設,N2,11,5,145,言,149,セツ,もう.ける,した,establishment; provision; prepare,建設; 設計; 設備; 施設; 設置; 設定; 設立; 設ける,
+改,N2,7,4,147,攴,66,カイ,あらた.める; あらた.まる,,reformation; change; modify; mend; renew; examine; inspect; search,改善; 改札; 改正; 改造; 改めて; 改める; 改悪; 改革,
+府,N2,8,4,170,广,53,フ,,い; う; お; はん,borough; urban prefecture; govt office; representative body; storehouse,政府,
+査,N2,9,5,184,木,75,サ,,,investigate,検査; 調査; 巡査; 審査; 捜査,
+委,N2,8,3,187,女,38,イ,ゆだ.ねる,まかせ,committee; entrust to; leave to; devote; discard,委員; 委託,
+軍,N2,9,4,189,車,159,グン,いくさ,,army; force; troops; war; battle,軍; 軍隊; 軍艦; 軍事; 軍備; 軍服,
+団,N2,6,5,213,囗,31,ダン; トン,かたまり; まる.い,,group; association,布団; 集団; 団体; 団地; 座布団; 団扇; 劇団; 公団,
+各,N2,6,4,243,口,30,カク,おのおの,かか; かが,each; every; either,各々; 各自; 各地; 各種,
+島,N2,10,3,245,山,46,トウ,しま,,island,島; 半島; 列島,
+革,N2,9,6,249,革,177,カク,かわ,,leather; skin; reform; become serious,革; 改革; 革新; 革命; 変革; 吊り革,
+村,N2,7,1,253,木,75,ソン,むら,え; むた; ら,village; town,村; 農村; 漁村,
+勢,N2,13,5,260,力,19,セイ; ゼイ,いきお.い; はずみ,せ,forces; energy; military strength,大勢; 勢い; 姿勢; 形勢; 情勢; 勢力; 態勢; 優勢,
+減,N2,12,5,261,水,85,ゲン,へ.る; へ.らす,,dwindle; decrease; reduce; decline; curtail; get hungry,加減; 減る; 減らす; 増減; 軽減; 減少; 減点; 削減,
+再,N2,6,5,275,冂,13,サイ; サ,ふたた.び,ふた,again; twice; second time,再び; 再三; 再; 再会; 再建; 再現; 再生; 再発,
+税,N2,12,5,289,禾,115,ゼイ,,さい,tax; duty,税; 税金; 課税; 税関; 免税; 関税; 税務署,
+営,N2,12,5,303,口,30,エイ,いとな.む; いとな.み,,camp; perform; build; conduct (business),営業; 経営; 営む; 運営,
+比,N2,4,5,329,比,81,ヒ,くら.べる,い; ぴっ,compare; race; ratio; Philippines,比べる; 比較; 比較的; 対比; 比重; 比率; 比例,
+防,N2,7,5,331,阜,170,ボウ,ふせ.ぐ,あた; う; ほう,ward off; defend; protect; resist,消防; 防ぐ; 予防; 防止; 防犯; 消防署; 国防; 堤防,
+補,N2,12,6,332,衣,145,ホ,おぎな.う,,supplement; supply; make good; offset; compensate; assistant; learner,候補; 補う; 補給; 補強; 補充; 補助; 補償; 補足,
+境,N2,14,5,346,土,32,キョウ; ケイ,さかい,さか; じき,boundary; border; region,境; 環境; 国境; 境界; 境遇,
+導,N2,15,5,354,寸,41,ドウ,みちび.く,みち,guidance; leading; conduct; usher,指導; 主導; 導入; 導く; 誘導,
+副,N2,11,4,360,刀,18,フク,,そい; そえ,vice-; assistant; aide; duplicate; copy,副詞,
+算,N2,14,2,361,竹,118,サン,そろ,,calculate; divining; number; abacus; probability,計算; 予算; 算数; 算盤; 引算; 割算; 掛け算; 暗算,
+輸,N2,16,5,371,車,159,ユ; シュ,,,transport; send; be inferior,輸出; 輸入; 輸血; 輸送; 運輸,
+述,N2,8,5,379,辵,162,ジュツ,の.べる,,mention; state; speak; relate,述べる; 述語; 記述; 口述,
+線,N2,15,2,382,糸,120,セン,すじ,,line; track,線; 地平線; 下線; 曲線; 光線; 線路; 脱線; 直線,
+農,N2,13,3,385,辰,161,ノウ,,な; の; み,agriculture; farmers,農家; 農業; 農民; 農村; 農薬; 農産物; 農耕; 農場,
+州,N2,6,3,386,巛,47,シュウ; ス,す,くに,state; province,州,
+武,N2,8,5,387,止,77,ブ; ム,たけ; たけ.し,う; お; たけし; たけん; ん,warrior; military; chivalry; arms,武器; 武士; 武装; 武力,
+象,N2,12,5,394,豕,152,ショウ; ゾウ,かたど.る,きさ,elephant; pattern after; imitate; image; shape; sign (of the times),象; 印象; 現象; 対象; 抽象; 気象; 象徴,
+域,N2,11,6,396,土,32,イキ,,,range; region; limits; stage; level,地域; 区域; 流域; 域外; 領域,
+額,N2,18,5,407,頁,181,ガク,ひたい,ぬか,forehead; tablet; plaque; framed picture; sum; amount; volume,額; 金額; 差額,
+欧,N2,8,8,421,欠,76,オウ,うた.う; は.く,おお; ひろ,Europe,欧米,
+担,N2,8,6,422,手,64,タン,かつ.ぐ; にな.う,,shouldering; carry; raise; bear,担当; 担ぐ; 担架; 担う; 負担; 分担,
+準,N2,13,5,425,水,85,ジュン,じゅん.じる; じゅん.ずる; なぞら.える; のり; ひと.しい; みずもり,,semi-; correspond to; proportionate to; conform; imitate,準備; 水準; 基準; 規準; 標準; 準急; 準じる; 準ずる,
+賞,N2,15,5,426,貝,154,ショウ,ほ.める,,prize; reward; praise,賞; 鑑賞; 賞金; 賞品; 懸賞; 入賞,
+辺,N2,5,4,428,辵,162,ヘン,あた.り; ほと.り; -べ,なべ,environs; boundary; border; vicinity,辺; 辺り; 周辺; 対辺; 浜辺,
+造,N2,10,5,429,辵,162,ゾウ,つく.る; つく.り; -づく.り,ずくり; づくり; み,create; make; structure; physique,製造; 改造; 構造; 人造; 造船; 偽造; 創造; 造り,
+被,N2,10,8,431,衣,145,ヒ,こうむ.る; おお.う; かぶ.る; かぶ.せる,ぎぬ,incur; cover; veil; brood over; shelter; wear; put on; be exposed (film); receiving,被る; 被害; 被せる,
+技,N2,7,5,434,手,64,ギ,わざ,,skill; art; craft; ability; feat; performance; vocation; arts,技術; 演技; 技師; 競技; 技; 技能; 特技,
+低,N2,7,4,435,人,9,テイ,ひく.い; ひく.める; ひく.まる,,lower; short; humble,低い; 最低; 低下,
+復,N2,12,5,438,彳,60,フク,また,,restore; return to; revert; resume,復習; 回復; 往復; 復活; 復旧; 復興,
+移,N2,11,5,448,禾,115,イ,うつ.る; うつ.す,,"shift; move; change; drift; catch (cold, fire); pass into",移る; 移動; 移す; 移転; 移行; 移住; 移民,
+個,N2,10,5,451,人,9,コ; カ,,,individual; counter for articles,個人; 個所; 個体; 個; 個々; 個性; 個別,
+門,N2,8,2,452,門,169,モン,かど; と,じょう; も; ゆき,gate; counter for cannons,門; 正門; 部門,
+課,N2,15,4,455,言,149,カ,,,chapter; lesson; section; department; division; counter for chapters (of a book),課長; 課; 課税; 課程; 日課; 課外; 課題,
+脳,N2,11,6,459,肉,130,ノウ; ドウ,のうずる,,brain; memory,頭脳; 脳; 首脳,
+極,N2,12,4,460,木,75,キョク; ゴク,きわ.める; きわ.まる; きわ.まり; きわ.み; き.める; -ぎ.め; き.まる,,extreme; pole; extremely; very; highly; most; end; settlement; conclusion; highest rank,極; 積極的; 南極; 北極; 消極的; 究極; 極端; 極楽,
+含,N2,7,8,466,口,30,ガン,ふく.む; ふく.める,,contain; include; hold in the mouth; bear in mind; understand; cherish,含む; 含める; 含嗽,
+蔵,N2,15,6,468,艸,140,ゾウ; ソウ,くら; おさ.める; かく.れる,くらし; くらん; くろう; さし; ざ; ろう,storehouse; hide; own; have; possess,冷蔵庫; 貯蔵; 蔵; 蔵相; 埋蔵; 冷蔵,
+量,N2,12,4,469,里,166,リョウ,はか.る,かず,quantity; measure; weight; amount; consider; estimate; surmise,量; 重量; 測量; 量る; 分量; 熱量; 微量; 感無量,
+型,N2,9,5,482,土,32,ケイ,かた; -がた,,mould; type; model,型; 典型; 模型,
+況,N2,8,8,490,水,85,キョウ,まし.て; いわ.んや; おもむき,,condition; situation,状況; 好況; 不況; 況して,
+針,N2,10,6,505,金,167,シン,はり,は,needle; pin; staple; stinger,針; 針路; 針金; 方針,
+専,N2,9,6,506,寸,41,セン,もっぱ.ら,,specialty; exclusive; mainly; solely,専攻; 専制; 専修; 専用; 専ら,
+谷,N2,7,2,508,谷,150,コク,たに; きわ.まる,がい; がえ; がや; せ; たり; たん; や,valley,谷,
+史,N2,5,5,511,口,30,シ,,あきら; あや; お; こ; ちか; とし; なか; のぶ; ひさ; ひと; ふみ,history; chronicle,歴史; 女史,
+階,N2,12,3,513,阜,170,カイ,きざはし,しな; と; はし,storey; stair; counter for storeys of a building,階段; 二階建て; 段階; 階; 階級; 階層,
+管,N2,14,4,517,竹,118,カン,くだ,すが,pipe; tube; wind instrument; drunken talk; control; jurisdiction,管; 管理; 血管; 保管,
+兵,N2,7,4,522,八,12,ヘイ; ヒョウ,つわもの,へ,soldier; private; troops; army; warfare; strategy; tactics,兵隊; 兵器; 兵士,
+接,N2,11,5,523,手,64,セツ; ショウ,つ.ぐ,,touch; contact; adjoin; piece together,直接; 応接; 間接; 接近; 接続; 面接; 接する; 接触,
+細,N2,11,2,537,糸,120,サイ,ほそ.い; ほそ.る; こま.か; こま.かい,,dainty; get thin; taper; slender; narrow; detailed; precise,細い; 細かい; 細菌; 細工; 細胞; 詳細; 心細い; 細やか,
+効,N2,8,5,538,力,19,コウ,き.く; ききめ; なら.う,,merit; efficacy; efficiency; benefit,効く; 効果; 有効; 効力; 効率; 無効; 効き目,
+丸,N2,3,2,542,丶,3,ガン,まる; まる.める; まる.い,ま; わ; わに,round; full (month); perfection; -ship; pills; make round; roll up; curl up; seduce; explain away,丸い; 丸; 丸々; 日の丸; 丸ごと; 丸める; 丸っきり; 真ん丸い,
+湾,N2,12,8,545,水,85,ワン,いりえ,,gulf; bay; inlet,湾,
+録,N2,16,4,546,金,167,ロク,しる.す; と.る,,record,記録; 録音; 登録; 付録; 目録,
+省,N2,9,4,548,目,109,セイ; ショウ,かえり.みる; はぶ.く,さとし; み,government ministry; conserve; omit,省く; 省略; 反省; 省みる,
+旧,N2,5,5,549,日,72,キュウ,ふる.い; もと,,old times; old things; old friend; former; ex-,旧; 旧知; 旧事; 復旧,
+橋,N2,16,3,553,木,75,キョウ,はし,ばせ,bridge,橋; 鉄橋; 桟橋; 橋渡し,
+岸,N2,8,3,556,山,46,ガン,きし,けし,beach,海岸; 岸; 沿岸,
+周,N2,8,4,562,口,30,シュウ,まわ.り,あまね; しゅ; す; ちか; のり; ひろ; びび; まこと,circumference; circuit; lap,周り; 周囲; 円周; 周辺; 周; 周期,
+材,N2,7,4,565,木,75,ザイ,,き; さい,lumber; log; timber; wood; materials; ingredients; talent,材料; 材木; 木材; 教材; 取材; 人材; 素材,
+戸,N2,4,2,575,戶,63,コ,と,え; へ,door; counter for houses; door radical (no. 63),戸; 雨戸; 井戸; 戸棚; 瀬戸物; 戸籍; 戸締り,
+央,N2,5,3,582,大,37,オウ,,あきら; え; お; さと; ちか; てる; なか; ひさ; ひろ; や,center; middle,中央,
+券,N2,8,6,583,刀,18,ケン,,,ticket,券; 回数券; 定期券; 旅券,
+編,N2,15,5,591,糸,120,ヘン,あ.む; -あ.み,,compilation; knit; plait; braid; twist; editing; completed poem; part of a book,編物; 編む; 短編; 編集; 編; 長編,
+捜,N2,10,8,592,手,64,ソウ; シュ; シュウ,さが.す,,search; look for; locate,捜す; 捜査; 捜索,
+竹,N2,6,1,593,竹,118,チク,たけ,たか,bamboo,竹,
+超,N2,12,8,597,走,156,チョウ,こ.える; こ.す,まさる; わたる,transcend; super-; ultra-,超す; 超過; 超える; 超,
+並,N2,8,6,599,一,1,ヘイ; ホウ,な.み; なみ; なら.べる; なら.ぶ; なら.びに,なび,row; and; besides; as well as; line up; rank with; rival; equal,並ぶ; 並べる; 並木; 並行; 並み; 並列; 月並み; 並びに,
+療,N2,17,8,600,疒,104,リョウ,,,heal; cure,医療; 診療; 治療,
+採,N2,11,5,607,手,64,サイ,と.る,,pick; take; fetch; take up,採点; 採る; 採掘; 採決; 採算; 採集; 採択; 採用,
+森,N2,12,1,609,木,75,シン,もり,もと,forest; woods,森; 森林,
+競,N2,20,4,610,立,117,キョウ; ケイ,きそ.う; せ.る; くら.べる,かい; わたなべ,emulate; compete with; bid; sell at auction; bout; contest; race,競争; 競技; 競馬,
+介,N2,4,8,617,人,9,カイ,,すけ; ゆき,jammed in; shellfish; mediate; concern oneself with,紹介; 厄介; 介護; 介入; 介抱,
+根,N2,10,3,620,木,75,コン,ね; -ね,,root; radical; head (pimple),根; 屋根; 垣根; 球根; 根気; 根拠; 根底; 根本,
+販,N2,11,8,627,貝,154,ハン,,,marketing; sell; trade,販売,
+歴,N2,14,5,632,止,77,レキ; レッキ,,,curriculum; continuation; passage of time,歴史; 学歴; 経歴; 履歴,
+将,N2,10,6,634,寸,41,ショウ; ソウ,まさ.に; はた; まさ; ひきい.る; もって,かつ; かつり; すすむ; たか; ゆき,leader; commander; general; admiral; or; and again; soon; from now on; just about,将来; 将棋,
+幅,N2,12,8,641,巾,50,フク,はば,,hanging scroll; width,幅; 大幅,
+般,N2,10,8,649,舟,137,ハン,,,carrier; carry; all; general; sort; kind,一般; 全般,
+貿,N2,12,5,652,貝,154,ボウ,,,trade; exchange,貿易,
+講,N2,17,5,653,言,149,コウ,,,lecture; club; association,講義; 講堂; 講演; 休講; 講師; 講習; 講読; 聴講,
+林,N2,8,1,656,木,75,リン,はやし,し,grove; forest,林; 山林; 森林; 林業,
+装,N2,12,6,657,衣,145,ソウ; ショウ,よそお.う; よそお.い,,attire; dress; pretend; disguise; profess,装置; 服装; 包装; 衣装; 盛装; 装飾; 装備; 武装,
+諸,N2,15,6,658,言,149,ショ,もろ,,various; many; several; together,諸; 諸君,
+劇,N2,15,6,662,刀,18,ゲキ,,,drama; play,劇; 劇場; 悲劇; 演劇; 喜劇; 劇団,
+河,N2,8,5,663,水,85,カ,かわ,かっ; こ; こう,river,河; 運河; 河川,
+航,N2,10,5,665,舟,137,コウ,,わたる,navigate; sail; cruise; fly,航空; 航海,
+鉄,N2,13,3,672,金,167,テツ,くろがね,けん; てっ,iron,地下鉄; 鉄; 鉄道; 私鉄; 鉄橋; 鉄砲; 鉄棒; 製鉄,
+児,N2,7,4,679,儿,10,ジ; ニ; ゲイ,こ; -こ; -っこ,る,newborn babe; child; young of animals,育児; 児童; 幼児; 児; 孤児; 小児科,
+禁,N2,13,5,681,示,113,キン,,,prohibition; ban; forbid,禁煙; 禁止; 禁物; 禁じる; 禁ずる,
+印,N2,6,4,682,卩,26,イン,しるし; -じるし; しる.す,,stamp; seal; mark; imprint; symbol; emblem; trademark; evidence; souvenir; India,印; 印刷; 印象; 目印; 矢印; 印鑑; 調印,
+逆,N2,9,5,683,辵,162,ギャク; ゲキ,さか; さか.さ; さか.らう,,inverted; reverse; opposite; wicked,逆; 逆らう; 逆さ; 逆様; 逆転; 逆立ち; 逆上る,
+換,N2,12,8,687,手,64,カン,か.える; -か.える; か.わる,,interchange; period; change; convert; replace; renew,乗り換える; 交換; 換える; 換気; 乗換; 換算; 転換,
+久,N2,3,5,688,丿,4,キュウ; ク,ひさ.しい,きゅ; わ; なが; ひさ; ひさし,long time; old story,久しぶり; 永久; 久しい,
+短,N2,12,3,689,矢,111,タン,みじか.い,,short; brevity; fault; defect; weak point,短い; 短期; 短所; 短編; 長短; 短歌; 短気; 短縮,
+油,N2,8,3,690,水,85,ユ; ユウ,あぶら,,oil; fat,油; 石油; 灯油; 油断; 油絵; 原油,
+暴,N2,15,5,692,日,72,ボウ; バク,あば.く; あば.れる,,outburst; rave; fret; force; violence; cruelty; outrage,乱暴; 暴れる; 暴露; 暴動; 暴風; 暴力,
+輪,N2,15,4,693,車,159,リン,わ,なわ; も,wheel; ring; circle; link; loop; counter for wheels and flowers,指輪; 輪; 車輪; 首輪; 年輪,
+占,N2,5,8,694,卜,25,セン,し.める; うらな.う,うら; しむ; じめ,fortune-telling; divining; forecasting; occupy; hold; have; get; take,占める; 占う; 占領; 独占,
+植,N2,12,3,699,木,75,ショク,う.える; う.わる,うえ; え; げ,plant,植える; 植物; 植木; 田植え; 植わる; 植民地,
+清,N2,11,4,705,水,85,セイ; ショウ; シン,きよ.い; きよ.まる; きよ.める,あき; さや; し; すが; すみ; せ; ちん,pure; purify; cleanse; exorcise; Manchu dynasty,清潔; 清い; 清む; 清書; 清掃; 清算; 清純; 清濁,
+倍,N2,10,3,714,人,9,バイ,,べ; ます,double; twice; times; fold,倍; 倍率,
+均,N2,7,5,715,土,32,キン,なら.す,ひとし,level; average,平均; 均衡,
+億,N2,15,4,716,人,9,オク,,お,hundred million; 10**8,億,
+圧,N2,5,5,718,土,32,アツ; エン; オウ,お.す; へ.す; おさ.える; お.さえる,,pressure; push; overwhelm; oppress; dominate,圧縮; 気圧; 血圧; 圧迫; 圧力; 抑圧,
+芸,N2,7,4,719,艸,140,ゲイ; ウン,う.える; のり; わざ,き; げ; なり,technique; art; craft; performance; acting; trick; stunt,芸術; 園芸; 芸能; 工芸; 文芸; 学芸; 手芸,
+署,N2,13,6,725,网,122,ショ,,,signature; govt office; police station,署名; 消防署; 税務署,
+伸,N2,7,8,730,人,9,シン,の.びる; の.ばす; の.べる; の.す,のぶ; よぼる,expand; stretch; extend; lengthen; increase,伸ばす; 伸びる,
+停,N2,11,5,733,人,9,テイ,と.める; と.まる,,halt; stopping,停留所; 停止; 停車; 停電; 調停; 停滞,
+爆,N2,19,8,735,火,86,バク,は.ぜる,,bomb; burst open; pop; split,爆発; 原爆; 爆弾; 爆破,
+陸,N2,11,4,736,阜,170,リク; ロク,おか,くが; たち; みち; む; むつ,land; six,陸; 大陸; 上陸; 着陸; 内陸,
+玉,N2,5,1,737,玉,96,ギョク,たま; たま-; -だま,おう; だん,jewel; ball,玉,
+波,N2,8,3,740,水,85,ハ,なみ,ひら; みな; みなみ; わ,waves; billows; Poland,波; 電波; 短波; 津波,
+狙,N2,8,8,745,犬,94,ソ; ショ,ねら.う; ねら.い,,aim at; sight; shadow; stalk,狙い; 狙う,true
+帯,N2,10,4,746,巾,50,タイ,お.びる; おび,たて,sash; belt; obi; zone; region,帯; 熱帯; 温帯; 寒帯; 地帯; 包帯; 一帯; 携帯,
+延,N2,8,6,747,廴,54,エン,の.びる; の.べる; の.べ; の.ばす,たか; のぶ; のべ,prolong; stretching,延期; 延長; 延ばす; 延びる; 延べ; 延いては,
+羽,N2,6,2,748,羽,124,ウ,は; わ; はね,しゅう; ば,"feathers; counter for birds, rabbits",羽,
+固,N2,8,4,750,囗,31,コ,かた.める; かた.まる; かた.まり; かた.い,,harden; set; clot; curdle,固い; 固まる; 頑固; 固体; 固定; 固有; 固める,
+則,N2,9,5,753,刀,18,ソク,のっと.る; のり; すなわち,,rule; law; follow; based on; model after,規則; 法則; 不規則; 原則,
+乱,N2,7,6,755,乙,5,ラン; ロン,みだ.れる; みだ.る; みだ.す; みだ; おさ.める; わた.る,ら,riot; war; disorder; disturb,混乱; 乱暴; 内乱; 反乱; 乱す; 乱れる,
+普,N2,12,8,757,日,72,フ,あまね.く; あまねし,しん; ひろ,universal; wide(ly); generally; Prussia,普通; 普段; 普及; 普遍,
+測,N2,12,5,761,水,85,ソク,はか.る,,fathom; plan; scheme; measure,予測; 観測; 測定; 測量; 測る; 推測,
+豊,N2,13,5,762,豆,151,ホウ; ブ,ゆた.か; とよ,て; で; と; ひろし; ふう; ぶん; ほ; ゆたか,bountiful; excellent; rich,豊富; 豊か; 豊作,
+厚,N2,9,5,768,厂,27,コウ,あつ.い; あか,あ; あっ,thick; heavy; rich; kind; cordial; brazen; shameless,厚い; 厚かましい,
+齢,N2,17,8,770,齒,211,レイ,よわい; とし,,age,年齢,
+囲,N2,7,5,771,囗,31,イ,かこ.む; かこ.う; かこ.い,,surround; besiege; store; paling; enclosure; encircle; preserve; keep,囲む; 周囲; 範囲; 雰囲気,
+卒,N2,8,4,772,十,24,ソツ; シュツ,そっ.する; お.える; お.わる; ついに; にわか,,graduate; soldier; private; die,卒業; 卒直; 何卒,
+略,N2,11,5,774,田,102,リャク,ほぼ; はぶ.く; おか.す; おさ.める; はかりごと; はか.る,,abbreviation; omission; outline; shorten; capture; plunder,省略; 略す; 概略; 侵略; 略語; 略奪,
+承,N2,8,6,775,手,64,ショウ; ジョウ,うけたまわ.る; う.ける,つぐ; こと; すけ; つぎ; よし; うけ,acquiesce; hear; listen to; be informed; receive,承知; 承認; 承る; 承諾; 了承,
+順,N2,12,4,779,頁,181,ジュン,,あや; あり; おき; おさむ; しげ; したがう; とし; なお; のぶ; のり; まさ; むね; もと; ゆき; よし; より,obey; order; turn; right; docility; occasion,順; 順調; 順番; 順々; 順序; 道順; 手順; 不順,
+岩,N2,8,2,787,山,46,ガン,いわ,,boulder; rock; cliff,岩; 溶岩; 岩石,
+練,N2,14,3,788,糸,120,レン,ね.る; ね.り,ねり,practice; gloss; train; drill; polish; refine,練習; 訓練; 練る; 未練,
+軽,N2,12,3,790,車,159,ケイ; キョウ; キン,かる.い; かろ.やか; かろ.んじる,,lightly; trifling; unimportant,軽い; 気軽; 軽快; 軽減; 軽率; 軽蔑; 手軽,
+了,N2,2,8,792,亅,6,リョウ,,さとる,complete; finish,完了; 終了; 了; 修了; 了解; 了承,
+庁,N2,5,6,793,广,53,チョウ; テイ,やくしょ,,government office,官庁; 県庁; 庁,
+城,N2,9,4,795,土,32,ジョウ; セイ,しろ,いく; がき; き; くに; ぐしく; ぐすく; しき; すく; ぜい; たち; なり,castle,城; 城下,
+患,N2,11,8,796,心,61,カン,わずら.う,くろ,afflicted; disease; suffer from; be ill,患者,
+層,N2,14,6,801,尸,44,ソウ,,,stratum; social class; layer; story; floor,一層; 高層; 大層; 階層,
+版,N2,8,5,802,片,91,ハン,,,printing block; printing plate; edition; impression; label,出版; 版; 初版; 絶版; 版画,
+令,N2,5,4,804,人,9,レイ,,のり; りょう; れ,orders; laws; command; decree; good,命令; 指令; 仮令,
+角,N2,7,2,805,角,148,カク,かど; つの,い; す; すみ; ずみ; ふさ,angle; corner; square; horn; antlers,角; 角度; 三角; 四角; 折角; 直角; 方角; 街角,
+絡,N2,12,8,806,糸,120,ラク,から.む; から.まる,,entwine; coil around; get caught in,連絡; 絡む,
+損,N2,13,5,807,手,64,ソン,そこ.なう; そこな.う; -そこ.なう; そこ.ねる; -そこ.ねる,,damage; loss; disadvantage; hurt; injure,損; 損害; 損得; 損失; 破損; 損なう,
+募,N2,12,8,809,力,19,ボ,つの.る,,recruit; campaign; gather (contributions); enlist; grow violent,募集; 応募; 公募; 募る; 募金,
+裏,N2,13,6,812,衣,145,リ,うら,,back; amidst; in; reverse; inside; palm; sole; rear; lining; wrong side,裏; 裏切る; 裏口; 裏返す; 裏返し,
+仏,N2,4,5,819,人,9,ブツ; フツ,ほとけ,,Buddha; the dead; France,仏; 仏像,
+績,N2,17,5,820,糸,120,セキ,,み,exploits; achievements; unreeling cocoons,成績; 功績; 実績; 業績; 紡績,
+築,N2,16,5,821,竹,118,チク,きず.く,つい; つき; つく; づき,fabricate; build; construct,建築; 築く; 新築,
+貨,N2,11,4,822,貝,154,カ,たから,,freight; goods; property,硬貨; 貨物; 通貨; 外貨; 貨幣; 雑貨,
+混,N2,11,5,824,水,85,コン,ま.じる; -ま.じり; ま.ざる; ま.ぜる; こ.む,,mix; blend; confuse,混雑; 混乱; 混合; 混ざる; 混じる; 混ぜる; 混む; 混血,
+昇,N2,8,8,826,日,72,ショウ,のぼ.る,しゅう; のり,rise up,昇る; 上昇; 昇進,
+池,N2,6,2,827,水,85,チ,いけ,,pond; cistern; pool; reservoir,池; 電池; 乾電池,
+血,N2,6,3,832,血,143,ケツ,ち,,blood,血; 血圧; 血液; 輸血; 血管; 混血; 出血,
+温,N2,12,3,838,水,85,オン,あたた.か; あたた.かい; あたた.まる; あたた.める; ぬく,あつ; あつし; なお; はる; ゆ; ゆたか,warm,温い; 温暖; 温度; 気温; 体温; 温室; 温泉; 温帯,
+季,N2,8,4,842,子,39,キ,,すえ; とし,seasons,季節; 四季; 季刊,
+星,N2,9,2,844,日,72,セイ; ショウ,ほし; -ぼし,,star; spot; dot; mark,星; 衛星; 火星; 星座; 惑星,
+永,N2,5,5,846,水,85,エイ,なが.い,え; と; のり; ひさ; ひさし,eternity; long; lengthy,永遠; 永久; 永い,
+著,N2,11,6,849,艸,140,チョ; チャク,あらわ.す; いちじる.しい,,renowned; publish; write; remarkable; phenomenal; put on; don; wear; arrival; finish (race); counter for suits of clothing; literary work,著者; 著す; 著書; 著名; 著しい,
+誌,N2,14,6,851,言,149,シ,,,document; records,雑誌,
+庫,N2,10,3,852,广,53,コ; ク,くら,,warehouse; storehouse,冷蔵庫; 金庫; 車庫; 倉庫; 在庫,
+刊,N2,5,5,855,刀,18,カン,,,publish; carve; engrave,夕刊; 刊行; 季刊; 創刊,
+像,N2,14,5,856,人,9,ゾウ,,かた,statue; picture; image; figure; portrait,想像; 像; 映像; 現像; 仏像,
+香,N2,9,4,859,香,186,コウ; キョウ,か; かお.り; かお.る,こ; こお; ひゃん; よし,incense; smell; perfume,香り; 香水; 香辛料,
+坂,N2,7,3,865,土,32,ハン,さか,か; ざ,slope; incline; hill,坂,
+底,N2,8,4,867,广,53,テイ,そこ,,bottom; sole; depth; bottom price; base; kind; sort,底; 徹底; 根底; 到底,
+布,N2,5,5,877,巾,50,フ; ホ,ぬの; し.く; きれ,う; の; ほ,linen; cloth; spread; distribute,財布; 布団; 布; 毛布; 分布; 座布団; 配布; 布巾,
+寺,N2,6,2,879,寸,41,ジ,てら,,Buddhist temple,寺; 寺院,
+宇,N2,6,6,883,宀,40,ウ,,いえ; たか; ひろ; ひろし,eaves; roof; house; heaven,宇宙,
+巨,N2,5,8,892,工,48,キョ,,おお; か; こ; なお,gigantic; big; large; great,巨大; 巨,
+震,N2,15,8,893,雨,173,シン,ふる.う; ふる.える; ふる.わせる; ふる.わす,,quake; shake; tremble; quiver; shiver,地震; 震える; 震わせる,
+希,N2,7,4,896,巾,50,キ; ケ,まれ; こいねが.う,のぞ; のぞみ,hope; beg; request; pray; beseech; Greece; dilute (acid); rare; few; phenomenal,希望,
+触,N2,13,8,904,角,148,ショク,ふ.れる; さわ.る; さわ,,contact; touch; feel; hit; proclaim; announce; conflict,触る; 触れる; 感触; 接触; 気触れる,
+依,N2,8,8,906,人,9,イ; エ,よ.る,よ; より,reliant; depend on; consequently; therefore; due to,依頼; 依; 依然; 依存; 依って,
+籍,N2,20,8,907,竹,118,セキ,,,enroll; domiciliary register; membership,国籍; 書籍; 戸籍,
+汚,N2,6,8,908,水,85,オ,けが.す; けが.れる; けが.らわしい; よご.す; よご.れる; きたな.い,,dirty; pollute; disgrace; rape; defile,汚い; 汚れる; 汚染; 汚す; 汚れ; 汚らわしい,
+枚,N2,8,6,911,木,75,マイ; バイ,,ひら,sheet of...; counter for flat thin objects or sheets,枚数; 枚,
+複,N2,14,5,915,衣,145,フク,,,duplicate; double; compound; multiple,複雑; 複写; 複数; 重複; 複合,
+郵,N2,11,6,917,邑,163,ユウ,,,mail; stagecoach stop,郵便局; 郵便; 郵送,
+仲,N2,6,4,919,人,9,チュウ,なか,ちゅん; つづき; なかつ,go-between; relationship,仲; 仲間; 仲直り; 仲良し; 仲人,
+栄,N2,9,4,920,木,75,エイ; ヨウ,さか.える; は.え; -ば.え; は.える; え,さかえ; しげ; てる; なが; ひで; よし,flourish; prosperity; honor; glory; splendor,栄養; 繁栄; 栄える,
+札,N2,5,4,921,木,75,サツ,ふだ,さっ,tag; paper money; counter for bonds; placard; bid,札; 改札; 名札,
+板,N2,8,3,926,木,75,ハン; バン,いた,,plank; board; plate; stage,板; 黒板; 看板,
+骨,N2,10,6,936,骨,188,コツ,ほね,,skeleton; bone; remains; frame,骨; 骨折; 露骨; 骨董品,
+傾,N2,13,8,938,人,9,ケイ,かたむ.く; かたむ.ける; かたぶ.く; かた.げる; かし.げる,,lean; incline; tilt; trend; wane; sink; ruin; bias,傾向; 傾く; 傾; 傾斜; 傾ける,
+届,N2,8,6,939,尸,44,カイ,とど.ける; -とど.け; とど.く,,deliver; reach; arrive; report; notify; forward,届ける; 届く; 届け,
+巻,N2,9,6,944,己,49,カン; ケン,ま.く; まき; ま.き,,scroll; volume; book; part; roll up; wind up; tie; coil; counter for texts (or book scrolls),寝巻; 巻く; 巻; 取り巻く,
+燃,N2,16,5,948,火,86,ネン,も.える; も.やす; も.す,,burn; blaze; glow,燃える; 燃やす; 燃焼; 燃料,
+跡,N2,13,8,953,足,157,セキ,あと,,tracks; mark; print; impression,足跡; 遺跡; 追跡; 跡継ぎ; 跡切れる,
+包,N2,5,4,954,勹,20,ホウ,つつ.む; くる.む,お; かね,wrap; pack up; cover; conceal,包む; 小包; 包み; 包装; 包帯,
+駐,N2,15,8,955,馬,187,チュウ,,,stop-over; reside in; resident,駐車場; 駐車,
+弱,N2,10,2,958,弓,57,ジャク,よわ.い; よわ.る; よわ.まる; よわ.める,,weak; frail,弱い; 弱点; 弱; 薄弱; 貧弱; 弱る; 弱まる; 弱める,
+紹,N2,11,8,963,糸,120,ショウ,,つぐ,introduce; inherit; help,紹介,
+雇,N2,12,8,975,隹,172,コ,やと.う,,employ; hire,雇う; 雇用,
+替,N2,12,8,979,曰,73,タイ,か.える; か.え-; か.わる,かえ,exchange; spare; substitute; per-,取り替える; 両替; 替える; 為替; 交替; 着替え; 取り替え; 切り替える,
+預,N2,13,6,981,頁,181,ヨ,あず.ける; あず.かる,,deposit; custody; leave with; entrust to,預ける; 預かる; 預金,
+焼,N2,12,4,982,火,86,ショウ,や.く; や.き; や.き-; -や.き; や.ける,やい; やき,bake; burning,焼く; 焼ける; 燃焼; 日焼け; 夕焼け,
+簡,N2,18,6,983,竹,118,カン; ケン,えら.ぶ; ふだ,,simplicity; brevity,簡単; 簡易; 簡潔; 簡素,
+章,N2,11,3,990,立,117,ショウ,,あき; あきら; あや; ふみ,badge; chapter; composition; poem; design,文章; 章,
+臓,N2,19,6,991,肉,130,ゾウ,はらわた,,entrails; viscera; bowels,心臓; 内臓,
+律,N2,9,6,992,彳,60,リツ; リチ; レツ,,たかし; のり,rhythm; law; regulation; gauge; control,法律; 規律; 一律,
+贈,N2,18,8,1001,貝,154,ゾウ; ソウ,おく.る,,presents; send; give to; award to; confer on; presenting something,贈り物; 贈る; 寄贈,
+照,N2,13,4,1004,火,86,ショウ,て.る; て.らす; て.れる,あき; てる,illuminate; shine; compare; bashful,対照; 照る; 照らす; 参照; 照合; 照明; 照り返す,
+薄,N2,16,8,1009,艸,140,ハク,うす.い; うす-; -うす; うす.める; うす.まる; うす.らぐ; うす.ら-; うす.れる; すすき,,dilute; thin; weak (tea); pampas grass,薄い; 薄暗い; 薄める; 薄弱,
+群,N2,13,4,1012,羊,123,グン,む.れる; む.れ; むら; むら.がる,ぐり; ぐ; こお; こおり; ごうり,flock; group; crowd; herd; swarm; cluster,群れ; 群; 群集; 群がる,
+秒,N2,9,3,1015,禾,115,ビョウ,,,second (1/60 minute),秒,
+奥,N2,12,8,1018,大,37,オウ,おく; おく.まる; くま,お; おお; おん; つ; のく,heart; interior,奥さん; 奥,
+詰,N2,13,8,1020,言,149,キツ; キチ,つ.める; つ.め; -づ.め; つ.まる; つ.む,ずめ; づめ,packed; close; pressed; reprove; rebuke; blame,詰める; 缶詰; 瓶詰; 詰まる; 詰る,
+双,N2,4,8,1029,又,29,ソウ,ふた; たぐい; ならぶ; ふたつ,ふ,pair; set; comparison; counter for pairs,双子,
+孝,N2,7,6,1030,子,39,コウ; キョウ,,たか; たかし; のり; よし,filial piety; child's respect,孝行,true
+刺,N2,8,8,1031,刀,18,シ,さ.す; さ.さる; さ.し; さし; とげ,,thorn; pierce; stab; prick; sting; calling card,刺激; 刺身; 刺す; 名刺; 刺さる; 刺; 刺繍,
+純,N2,10,6,1044,糸,120,ジュン,,あつ; すみ; み; やすし; よし,genuine; purity; innocence; net (profit),単純; 純情; 純粋; 清純,
+翌,N2,11,6,1070,羽,124,ヨク,,,the following; next,,
+快,N2,7,5,1074,心,61,カイ,こころよ.い,よし,cheerful; pleasant; agreeable; comfortable,快適; 愉快; 快晴; 軽快; 快い; 全快,
+片,N2,4,6,1076,片,91,ヘン,かた-; かた,,one-sided; leaf; sheet; right-side kata radical (no. 91),片付ける; 片道; 破片; 片仮名; 片付く; 片寄る; 片言; 鉄片,
+敬,N2,12,6,1078,攴,66,ケイ; キョウ,うやま.う,け; たか; たかし; たけ; とし; のり; ひろ; ゆき; よし,awe; respect; honor; revere,敬意; 尊敬; 敬う; 敬語; 敬具,
+悩,N2,10,8,1084,心,61,ノウ,なや.む; なや.ます; なや.ましい; なやみ,,trouble; worry; in pain; distress; illness,悩む; 悩み; 悩ます; 悩ましい,
+泉,N2,9,6,1086,水,85,セン,いずみ,いず; ずい; ずみ; ぜい; ぜん; の,spring; fountain,泉; 温泉,
+皮,N2,5,3,1092,皮,107,ヒ,かわ,,pelt; skin; hide; leather; skin radical (no. 107),皮; 毛皮; 皮肉; 皮膚,
+漁,N2,14,4,1094,水,85,ギョ; リョウ,あさ.る,,fishing; fishery,漁業; 漁師; 漁船; 漁村,
+荒,N2,9,8,1099,艸,140,コウ,あ.らす; あ.れる; あら.い; すさ.ぶ; すさ.む; あ.らし,ら,laid waste; rough; rude; wild,荒い; 荒廃; 荒らす; 荒っぽい,
+貯,N2,12,5,1100,貝,154,チョ,た.める; たくわ.える,,savings; store; lay in; keep; wear mustache,貯金; 貯蔵; 貯蓄,
+硬,N2,12,8,1101,石,112,コウ,かた.い,,stiff; hard,硬い; 硬貨; 強硬,
+埋,N2,10,8,1110,土,32,マイ,う.める; う.まる; う.もれる; うず.める; うず.まる; い.ける,,bury; be filled up; embedded,埋める; 埋蔵; 埋まる; 埋め込む,
+柱,N2,9,3,1119,木,75,チュウ,はしら,,pillar; post; cylinder; support,電柱; 柱,
+祭,N2,11,3,1124,示,113,サイ,まつ.る; まつ.り; まつり,,ritual; offer prayers; celebrate; deify; enshrine; worship,お祭り; 祭; 祭日; 祭る,
+袋,N2,11,8,1125,衣,145,タイ; ダイ,ふくろ,てい; ない; ぶく,sack; bag; pouch,手袋; 袋; 足袋,
+筆,N2,12,3,1132,竹,118,ヒツ,ふで,はじめ,writing brush; writing; painting brush; handwriting,鉛筆; 万年筆; 筆; 執筆; 随筆; 筆記; 筆者,
+訓,N2,10,4,1134,言,149,クン; キン,おし.える; よ.む; くん.ずる,く; くに; くの; さとし; のり; ふみ,instruction; Japanese character reading; explanation; read,訓; 訓練; 教訓,
+浴,N2,10,4,1136,水,85,ヨク,あ.びる; あ.びせる,えき; さこ,bathe; be favored with; bask in,浴衣; 海水浴; 入浴; 浴室,
+童,N2,12,3,1138,立,117,ドウ,わらべ,ぱ,juvenile; child,児童; 童話,
+宝,N2,8,6,1139,宀,40,ホウ,たから,ほ,treasure; wealth; valuables,宝; 宝石; 重宝; 宝器,
+封,N2,9,8,1143,寸,41,フウ; ホウ,,,seal; closing,封筒; 封; 同封; 封鎖; 封建,
+胸,N2,10,6,1144,肉,130,キョウ,むね; むな-,,bosom; breast; chest; heart; feelings,胸,
+砂,N2,9,6,1146,石,112,サ; シャ,すな,いさ; ご,sand,砂糖; 砂; 砂漠; 砂利,
+塩,N2,13,4,1148,土,32,エン,しお,,salt,塩; 食塩; 塩辛い,
+賢,N2,16,8,1159,貝,154,ケン,かしこ.い,かた; さか; さと; さとし; たか; たて; のり; まこと; まさ; まさる,intelligent; wise; wisdom; cleverness,賢い; 賢明,
+腕,N2,12,8,1163,肉,130,ワン,うで,,arm; ability; talent,腕; 腕前,
+兆,N2,6,4,1174,儿,10,チョウ,きざ.す; きざ.し,,portent; 10**12; trillion; sign; omen; symptoms,兆; 兆し,
+床,N2,7,8,1175,广,53,ショウ,とこ; ゆか,,bed; counter for beds; floor; padding; tatami,床; 起床; 床の間,
+毛,N2,4,2,1179,毛,82,モウ,け,めん; も,fur; hair; feather; down,毛; 毛布; 髪の毛; 毛糸; 毛皮; 羊毛,
+緑,N2,14,3,1180,糸,120,リョク; ロク,みどり,,green,緑,
+尊,N2,12,6,1181,寸,41,ソン,たっと.い; とうと.い; たっと.ぶ; とうと.ぶ,さだ; たか; たけ; みこと,revered; valuable; precious; noble; exalted,尊敬; 尊重; 尊い; 尊ぶ; 自尊心,
+祝,N2,9,4,1184,示,113,シュク; シュウ,いわ.う,のり; ほぎ; ゆわい,celebrate; congratulate,お祝い; 祝い; 祝う; 祝日; 祝賀,
+柔,N2,9,8,1187,木,75,ジュウ; ニュウ,やわ.らか; やわ.らかい; やわ; やわ.ら,とお,tender; weakness; gentleness; softness,柔道; 柔らかい; 柔軟,
+殿,N2,13,8,1199,殳,79,デン; テン,との; -どの,て; どん,Mr.; hall; mansion; palace; temple; lord,殿; 宮殿; 神殿; 沈殿; 殿様,
+濃,N2,16,8,1200,水,85,ノウ,こ.い,の,concentrated; thick; dark; undiluted,濃い; 濃度,
+液,N2,11,5,1210,水,85,エキ,,,fluid; liquid; juice; sap; secretion,液体; 血液; 液; 溶液,
+衣,N2,6,4,1214,衣,145,イ; エ,ころも; きぬ; -ぎ,,garment; clothes; dressing,衣服; 浴衣; 衣食住; 衣装; 衣料; 衣類,
+肩,N2,8,8,1215,肉,130,ケン,かた,,shoulder,肩,
+零,N2,13,8,1217,雨,173,レイ,ぜろ; こぼ.す; こぼ.れる,,zero; spill; overflow; nothing; cipher,零; 零点,
+幼,N2,5,6,1227,幺,52,ヨウ,おさな.い,うぶ; わか,infancy; childhood,幼い; 幼児; 幼稚; 幼稚園,
+荷,N2,10,3,1230,艸,140,カ,に,はす; り,baggage; shoulder-pole load; bear (a burden); shoulder (a gun); load; cargo; freight,荷物; 荷; 荷造り,
+泊,N2,8,8,1233,水,85,ハク,と.まる; と.める,とまり; はつ,overnight stay; put up at; ride at anchor,泊まる; 宿泊; 泊める; 泊,
+黄,N2,11,2,1240,黃,201,コウ; オウ,き; こ-,うい; れい,yellow,黄色; 黄色い; 黄金,
+寿,N2,7,8,1245,寸,41,ジュ; ス; シュウ,ことぶき; ことぶ.く; ことほ.ぐ,かず; じ; じゅう; すっ; すみ; とし; としかつ; なが; のぶ; のり; ひさ; ひさし; やす,longevity; congratulations; one's natural life,寿命,true
+甘,N2,5,8,1248,甘,99,カン,あま.い; あま.える; あま.やかす; うま.い,かも,sweet; coax; pamper; be content; sugary,甘い; 甘やかす; 甘口; 甘える,
+臣,N2,7,4,1249,臣,131,シン; ジン,,おみ; たか; と; とみ; み,retainer; subject,大臣; 総理大臣,
+浅,N2,9,4,1253,水,85,セン,あさ.い,あざ; さ,shallow; superficial; frivolous; wretched; shameful,浅い; 浅ましい,
+掃,N2,11,8,1255,手,64,ソウ; シュ,は.く,か,sweep; brush,掃除; 清掃; 掃く,
+雲,N2,12,2,1256,雨,173,ウン,くも; -ぐも,き; ずも; のめ,cloud,雲,
+掘,N2,11,8,1257,手,64,クツ,ほ.る,ぼり,dig; delve; excavate,掘る; 採掘; 発掘,
+捨,N2,11,6,1266,手,64,シャ,す.てる,,discard; throw away; abandon; resign; reject; sacrifice,捨てる; 四捨五入,
+軟,N2,11,8,1269,車,159,ナン,やわ.らか; やわ.らかい,,soft,軟らかい; 柔軟,
+沈,N2,7,8,1271,水,85,チン; ジン,しず.む; しず.める,しん,sink; be submerged; subside; be depressed; aloes,沈む; 沈殿; 沈没; 沈黙; 沈める,
+凍,N2,10,8,1284,冫,15,トウ,こお.る; こご.える; こご.る; い.てる; し.みる,こおり,frozen; congeal; refrigerate,凍る; 冷凍; 凍える,
+乳,N2,8,6,1289,乙,5,ニュウ,ちち; ち,,milk; breasts,牛乳; 乳,
+恋,N2,10,8,1296,心,61,レン,こ.う; こい; こい.しい,,romance; in love; yearn for; miss; darling,恋; 恋人; 失恋; 恋しい; 恋愛; 恋する,
+紅,N2,9,6,1299,糸,120,コウ; ク,べに; くれない; あか.い,くれ; もみ,crimson; deep red,紅茶; 口紅; 紅葉,
+郊,N2,9,8,1304,邑,163,コウ,,,outskirts; suburbs; rural area,郊外; 近郊,
+腰,N2,13,8,1306,肉,130,ヨウ,こし,うすぐ,loins; hips; waist; low wainscoting,腰; 腰掛け; 腰掛ける,
+炭,N2,9,3,1307,火,86,タン,すみ,,charcoal; coal,石炭; 炭鉱; 炭素,
+踊,N2,14,8,1308,足,157,ヨウ,おど.る,,jump; dance; leap; skip,踊り; 踊る,
+冊,N2,5,6,1313,冂,13,サツ; サク,ふみ,,tome; counter for books; volume,冊,
+勇,N2,9,4,1319,力,19,ユウ,いさ.む,お; はや,courage; cheer up; be in high spirits; bravery; heroism,勇気; 勇ましい; 勇敢,
+械,N2,11,4,1321,木,75,カイ,かせ,,contraption; fetter; machine; instrument,機械; 器械,
+菜,N2,11,4,1327,艸,140,サイ,な,よう,vegetable; side dish; greens,野菜,
+珍,N2,9,8,1330,玉,96,チン,めずら.しい; たから,じん,rare; curious; strange,珍しい,
+卵,N2,7,6,1342,卩,26,ラン,たまご,,egg; ovum; spawn; roe,卵,
+湖,N2,12,3,1344,水,85,コ,みずうみ,うみ; み,lake,湖,
+喫,N2,12,8,1347,口,30,キツ,の.む,,consume; eat; drink; smoke; receive (a blow),喫茶店; 喫茶,
+干,N2,3,6,1349,干,51,カン,ほ.す; ほ.し-; -ぼ.し; ひ.る,ほし,dry; parch; ebb; recede; interfere; intercede,干す; 梅干; 干渉; 若干; 干し物,
+虫,N2,6,1,1351,虫,142,チュウ; キ,むし,む,insect; bug; temper,虫; 虫歯; 昆虫,
+刷,N2,8,4,1352,刀,18,サツ,す.る; -ず.り; -ずり; は.く,,printing; print; brush,印刷; 刷る; 刷り,
+湯,N2,12,3,1356,水,85,トウ,ゆ,,hot water; bath; hot spring,湯; 湯気; 湯飲み; 熱湯; 茶の湯,
+溶,N2,13,8,1364,水,85,ヨウ,と.ける; と.かす; と.く,,melt; dissolve; thaw,溶く; 溶岩; 溶かす; 溶ける; 溶け込む; 溶液,
+鉱,N2,13,5,1376,金,167,コウ,あらがね,,mineral; ore,鉱物; 炭鉱; 鉱業; 鉱山,
+涙,N2,10,8,1381,水,85,ルイ; レイ,なみだ,,tears; sympathy,涙,
+匹,N2,4,8,1384,匸,23,ヒツ,ひき,,equal; head; counter for small animals; roll of cloth,匹; 匹敵,
+孫,N2,10,4,1388,子,39,ソン,まご,ひ,grandchild; descendants,孫; 子孫,
+鋭,N2,15,8,1395,金,167,エイ,するど.い,とし,pointed; sharpness; edge; weapon; sharp; violent,鋭い,
+枝,N2,8,5,1401,木,75,シ,えだ,え; ぐさ,bough; branch; twig; limb; counter for branches,枝,
+塗,N2,13,8,1414,土,32,ト,ぬ.る; ぬ.り; まみ.れる,,paint; plaster; daub; smear; coating,塗る,
+軒,N2,10,8,1416,車,159,ケン,のき,,flats; counter for houses; eaves,軒; 軒並み,
+毒,N2,8,5,1419,毋,80,ドク,,,poison; virus; venom; germ; harm; injury; spite,毒; 気の毒; 消毒; 中毒,
+叫,N2,6,8,1426,口,30,キョウ,さけ.ぶ,,shout; exclaim; yell,叫ぶ; 叫び,
+拝,N2,8,6,1443,手,64,ハイ,おが.む; おろが.む,,worship; adore; pray to,拝見; 拝む; 崇拝; 拝啓; 拝借,
+氷,N2,5,3,1450,水,85,ヒョウ,こおり; ひ; こお.る,すい,icicle; ice; hail; freeze; congeal,氷,
+乾,N2,11,8,1453,乙,5,カン; ケン,かわ.く; かわ.かす; ほ.す; ひ.る; いぬい,,drought; dry; desiccate; drink up; heaven; emperor,乾く; 乾燥; 乾杯; 乾かす; 乾電池; 乾,
+棒,N2,12,6,1455,木,75,ボウ,,,rod; stick; cane; pole; club; line,泥棒; 棒; 鉄棒,
+祈,N2,8,8,1462,示,113,キ,いの.る,のり; れい,pray; wish,祈る; 祈り,
+拾,N2,9,3,1479,手,64,シュウ; ジュウ,ひろ.う,,pick up; gather; find; go on foot; ten,拾う,
+粉,N2,10,5,1484,米,119,フン,デシメートル; こ; こな,,flour; powder; dust,粉; 花粉; 粉々; 粉末,
+糸,N2,6,1,1488,糸,120,シ,いと,,thread,糸; 毛糸,
+綿,N2,14,5,1495,糸,120,メン,わた,う,cotton,木綿; 綿,
+汗,N2,6,8,1502,水,85,カン,あせ,,sweat; perspire,汗,
+銅,N2,14,5,1505,金,167,ドウ,あかがね,,copper,銅,
+湿,N2,12,8,1517,水,85,シツ; シュウ,しめ.る; しめ.す; うるお.う; うるお.す,,damp; wet; moist,湿気; 湿度; 湿る; 湿気る,
+瓶,N2,11,8,1528,瓦,98,ビン; ヘイ,かめ,べ; ぺ,bottle; vial; jar; jug; vat; urn,花瓶; 瓶; 瓶詰,
+咲,N2,9,8,1534,口,30,ショウ,さ.く; -ざき,さ; さき,blossom; bloom,咲く,
+召,N2,5,8,1540,口,30,ショウ,め.す,,seduce; call; send for; wear; put on; ride in; buy; eat; drink; catch (cold),召し上がる; 召す,
+缶,N2,6,8,1543,缶,121,カン,かま,ふ; べ,tin can; container; jar radical (no. 121),缶; 缶詰; 薬缶,
+隻,N2,10,8,1546,隹,172,セキ,,,vessels; counter for ships; fish; birds; arrows; one of a pair,,
+脂,N2,10,8,1548,肉,130,シ,あぶら,,fat; grease; tallow; lard; rosin; gum; tar,脂; 脂肪,
+蒸,N2,13,6,1552,艸,140,ジョウ; セイ,む.す; む.れる; む.らす,,steam; heat; sultry; foment; get musty,蒸気; 蒸発; 蒸す; 水蒸気; 蒸し暑い; 蒸留,
+肌,N2,6,8,1559,肉,130,キ,はだ,,texture; skin; body; grain,肌; 肌着,
+耕,N2,10,5,1568,耒,127,コウ,たがや.す,こお,till; plow; cultivate,耕地; 耕す; 耕作; 農耕,
+鈍,N2,12,8,1574,金,167,ドン,にぶ.い; にぶ.る; にぶ-; なま.る; なまく.ら,,dull; slow; foolish; blunt,鈍い; 鈍感; 鈍る,
+泥,N2,8,8,1589,水,85,デイ; ナイ; デ; ニ,どろ; なず.む,ひじ,mud; mire; adhere to; be attached to,泥棒; 泥,
+隅,N2,12,8,1601,阜,170,グウ,すみ,,corner; nook,隅,
+灯,N2,6,4,1605,火,86,トウ,ひ; ほ-; ともしび; とも.す; あかり,,lamp; a light; light; counter for lights,電灯; 灯; 灯台; 灯油; 蛍光灯,
+辛,N2,7,8,1607,辛,160,シン,から.い; つら.い; -づら.い; かのと,,spicy; bitter; hot; acrid,辛い; 塩辛い; 辛抱; 香辛料; 辛うじて,
+磨,N2,16,8,1608,石,112,マ,みが.く; す.る,おさむ,grind; polish; scour; improve; brush (teeth),磨く; 歯磨き,
+麦,N2,7,2,1615,麥,199,バク,むぎ,,barley; wheat,小麦; 蕎麦,
+姓,N2,8,8,1628,女,38,セイ; ショウ,,,surname,姓; 姓名,
+筒,N2,12,8,1631,竹,118,トウ,つつ,,cylinder; pipe; tube; gun barrel; sleeve,封筒; 水筒; 筒,
+鼻,N2,14,3,1632,鼻,209,ビ,はな,,nose; snout,鼻; 耳鼻科,
+粒,N2,11,8,1635,米,119,リュウ,つぶ,,grains; drop; counter for tiny particles,粒,
+詞,N2,12,6,1636,言,149,シ,ことば,,part of speech; words; poetry,動詞; 副詞; 名詞; 形容詞; 代名詞; 形容動詞; 助詞; 数詞,
+胃,N2,9,6,1647,肉,130,イ,,,stomach; paunch; crop; craw,胃,
+畳,N2,12,8,1665,田,102,ジョウ; チョウ,たた.む; たたみ; かさ.なる,,tatami mat; counter for tatami mats; fold; shut up; do away with,畳; 畳む,
+机,N2,6,6,1671,木,75,キ,つくえ,,desk; table,机,
+膚,N2,15,8,1679,肉,130,フ,はだ,,skin; body; grain; texture; disposition,皮膚,
+濯,N2,17,8,1698,水,85,タク,すす.ぐ; ゆす.ぐ,,laundry; wash; pour on; rinse,洗濯; 濯ぐ,
+塔,N2,12,8,1708,土,32,トウ,,,pagoda; tower; steeple,塔,
+沸,N2,8,8,1709,水,85,フツ,わ.く; わ.かす,,seethe; boil; ferment; uproar; breed,沸く; 沸かす; 沸騰,
+灰,N2,6,6,1717,火,86,カイ,はい,,ashes; puckery juice; cremate,灰皿; 灰; 灰色,
+菓,N2,11,8,1719,艸,140,カ,,,candy; cakes; fruit,お菓子; 菓子,
+帽,N2,12,8,1742,巾,50,ボウ; モウ,ずきん; おお.う,,cap; headgear,帽子,
+枯,N2,9,8,1749,木,75,コ,か.れる; か.らす,,wither; die; dry up; be seasoned,枯れる,
+釜,N2,10,8,1761,金,167,フ,かま,,kettle; cauldron; iron pot,釜,true
+涼,N2,11,8,1783,水,85,リョウ,すず.しい; すず.む; すず.やか; うす.い; ひや.す; まことに,りょ,refreshing; nice and cool,涼しい; 涼む,
+舟,N2,6,8,1786,舟,137,シュウ,ふね; ふな-; -ぶね,,boat; ship,舟,
+貝,N2,7,1,1787,貝,154,バイ,かい,,shellfish,貝; 貝殻,
+符,N2,11,8,1798,竹,118,フ,,,token; sign; mark; tally; charm,切符; 符号,
+憎,N2,14,8,1808,心,61,ゾウ,にく.む; にく.い; にく.らしい; にく.しみ,,hate; detest,憎い; 憎む; 憎らしい; 愛憎; 憎しみ,
+皿,N2,5,3,1812,皿,108,ベイ,さら,,dish; a helping; plate,お皿; 灰皿; 皿,
+肯,N2,8,8,1813,肉,130,コウ,がえんじ.る,,agreement; consent; comply with,肯定,
+燥,N2,17,8,1819,火,86,ソウ,はしゃ.ぐ,,parch; dry up,乾燥,
+畜,N2,10,8,1824,田,102,チク,,,livestock; domestic fowl and animals,牧畜; 家畜; 畜産; 畜生,
+瓦,N2,5,8,1850,瓦,98,ガ,かわら; ぐらむ,,tile; gram,瓦; 煉瓦,true
+挟,N2,9,8,1870,手,64,キョウ; ショウ,はさ.む; はさ.まる; わきばさ.む; さしはさ.む,,pinch; between,挟む; 挟まる,
+曇,N2,16,8,1899,日,72,ドン,くも.る,ど; ずみ,cloudy weather; cloud up,曇り; 曇る,
+滴,N2,14,8,2019,水,85,テキ,しずく; したた.る,,drip; drop,水滴,
+爪,N2,4,8,2025,爪,87,ソウ,つめ; つま-,,claw; nail; talon,爪,true
+枕,N2,8,8,2084,木,75,チン; シン,まくら,,pillow,枕,true
+丼,N2,5,8,2088,丶,3,トン; タン; ショウ; セイ,どんぶり,,bowl; bowl of food,丼,true
+斬,N2,11,8,2132,斤,69,ザン; サン; セン; ゼン,き.る,,beheading; kill; murder,斬る,true
+餅,N2,14,8,2152,食,184,ヘイ; ヒョウ,もち; もちい,,mochi rice cake,餅,true
+芯,N2,7,8,2202,艸,140,シン,,,wick,芯,true
+伺,N2,7,8,2209,人,9,シ,うかが.う,,pay respects; visit; ask; inquire; question; implore,,
+匂,N2,4,8,2213,勹,20,,にお.う; にお.い; にお.わせる,おり; こう; さぎ,fragrant; stink; glow; insinuate; (kokuji),匂う,true
+麓,N2,19,8,2366,鹿,198,ロク,ふもと,,foot of a mountain,麓,true
+稽,N2,15,8,2372,禾,115,ケイ,かんが.える; とど.める,,think; consider,稽古; 滑稽,true
+蹴,N2,19,8,2377,足,157,シュク; シュウ,け.る,,kick,蹴る; 蹴飛ばす,true
+蓋,N2,13,8,2388,艸,140,ガイ; カイ; コウ,ふた; けだ.し; おお.う; かさ; かこう,,cover; lid; flap,蓋,true
+拭,N2,9,8,2421,手,64,ショク; シキ,ぬぐ.う; ふ.く,,wipe; mop; swab,拭く; 手拭い,true
+煎,N2,13,8,2458,火,86,セン,せん.じる; い.る; に.る,いり,broil; parch; roast; boil,煎る,true
+嗅,N2,13,8,2480,口,30,キュウ,か.ぐ,,smell; sniff; scent,嗅ぐ,true
+塞,N2,13,8,,土,32,ソク; サイ,ふさ.ぐ; とりで; み.ちる,,close; shut; cover; block; obstruct,塞ぐ; 塞がる,true
+宛,N2,8,8,,宀,40,エン,あ.てる; -あて; -づつ; あたか.も,,address; just like; fortunately,宛名; 宛; 宛てる,true
+巾,N2,3,8,,巾,50,キン; フク,おお.い; ちきり; きれ,,towel; hanging scroll; width; cloth radical (no. 50),雑巾; 布巾,true
+捻,N2,11,8,,手,64,ネン; ジョウ,ね.じる; ねじ.る; ひね.くる; ひね.る,,twirl; twist; play with,捻る; 捻じれる,true
+桁,N2,10,8,,木,75,コウ,けた,,beam; girder; spar; unit or column (accounting),桁,true
+潰,N2,15,8,,水,85,カイ; エ,つぶ.す; つぶ.れる; つい.える,,crush; smash; break; dissipate,潰す; 潰れる,true
+箋,N2,14,8,,竹,118,セン,ふだ,,paper; label; letter; composition,便箋,true
+羨,N2,13,8,,羊,123,セン; エン,うらや.む; あまり,,envious; be jealous; covet,羨む; 羨ましい,true
+肘,N2,7,8,,肉,130,チュウ,ひじ,,elbow; arm,肘,true
+遜,N2,13,8,,辵,162,ソン,したが.う; へりくだ.る; ゆず.る,,humble; modest,謙遜,true
+遡,N2,13,8,,辵,162,ソ; サク,さかのぼ.る,,go upstream; retrace the past,遡る,true
+隙,N2,13,8,,阜,170,ゲキ; キャク; ケキ,すき; す.く; す.かす; ひま,,crevice; fissure; discord; opportunity; leisure,隙間,true

@@ -700,6 +700,57 @@
     ]
   },
   {
+    "character": "分",
+    "level": "N5",
+    "strokes": 4,
+    "grade": 2,
+    "freq": 24,
+    "radical": "刀",
+    "radical_number": 18,
+    "onyomi": [
+      "ブン",
+      "フン",
+      "ブ"
+    ],
+    "kunyomi": [
+      "わ.ける",
+      "わ.け",
+      "わ.かれる",
+      "わ.かる",
+      "わ.かつ"
+    ],
+    "meanings": [
+      "part",
+      "minute of time",
+      "segment",
+      "share",
+      "degree",
+      "one's lot",
+      "duty",
+      "understand",
+      "know",
+      "rate",
+      "1%",
+      "chances",
+      "shaku/100"
+    ],
+    "nanori": [
+      "いた",
+      "わけ"
+    ],
+    "words": [
+      "自分",
+      "半分",
+      "分かる",
+      "気分",
+      "十分",
+      "大分",
+      "分",
+      "部分"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "後",
     "level": "N5",
     "strokes": 9,
@@ -2176,6 +2227,41 @@
     ]
   },
   {
+    "character": "無",
+    "level": "N5",
+    "strokes": 12,
+    "grade": 4,
+    "freq": 274,
+    "radical": "火",
+    "radical_number": 86,
+    "onyomi": [
+      "ム",
+      "ブ"
+    ],
+    "kunyomi": [
+      "な.い"
+    ],
+    "meanings": [
+      "nothingness",
+      "none",
+      "ain't",
+      "nothing",
+      "nil",
+      "not"
+    ],
+    "words": [
+      "無くす",
+      "無理",
+      "無くなる",
+      "無",
+      "無し",
+      "無事",
+      "無視",
+      "無駄"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "校",
     "level": "N5",
     "strokes": 10,
@@ -2882,5 +2968,99 @@
       "雨具",
       "雨天"
     ]
+  },
+  {
+    "character": "丈",
+    "level": "N5",
+    "strokes": 3,
+    "grade": 8,
+    "freq": 1375,
+    "radical": "一",
+    "radical_number": 1,
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "たけ",
+      "だけ"
+    ],
+    "meanings": [
+      "length",
+      "ten shaku",
+      "measure",
+      "Mr.",
+      "Ms.",
+      "height",
+      "stature",
+      "all (one has)",
+      "only",
+      "that's all",
+      "merely"
+    ],
+    "nanori": [
+      "とも",
+      "ますら"
+    ],
+    "words": [
+      "丈夫",
+      "大丈夫",
+      "丈",
+      "頑丈",
+      "成る丈"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "誰",
+    "level": "N5",
+    "strokes": 15,
+    "grade": 8,
+    "freq": 1933,
+    "radical": "言",
+    "radical_number": 149,
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "だれ",
+      "たれ",
+      "た"
+    ],
+    "meanings": [
+      "who",
+      "someone",
+      "somebody"
+    ],
+    "words": [
+      "誰",
+      "誰か"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "貼",
+    "level": "N5",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 2444,
+    "radical": "貝",
+    "radical_number": 154,
+    "onyomi": [
+      "テン",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "は.る",
+      "つ.く"
+    ],
+    "meanings": [
+      "stick",
+      "paste",
+      "apply"
+    ],
+    "words": [
+      "貼る"
+    ],
+    "supplementary": true
   }
 ]

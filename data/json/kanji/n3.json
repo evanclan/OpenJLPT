@@ -1135,6 +1135,43 @@
     ]
   },
   {
+    "character": "的",
+    "level": "N3",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 105,
+    "radical": "白",
+    "radical_number": 106,
+    "onyomi": [
+      "テキ"
+    ],
+    "kunyomi": [
+      "まと"
+    ],
+    "meanings": [
+      "bull's eye",
+      "mark",
+      "target",
+      "object",
+      "adjective ending"
+    ],
+    "nanori": [
+      "いくは",
+      "ゆくは"
+    ],
+    "words": [
+      "目的",
+      "積極的",
+      "的確",
+      "消極的",
+      "比較的",
+      "的",
+      "静的",
+      "知的"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "要",
     "level": "N3",
     "strokes": 9,
@@ -4396,6 +4433,40 @@
     ]
   },
   {
+    "character": "可",
+    "level": "N3",
+    "strokes": 5,
+    "grade": 5,
+    "freq": 314,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "カ",
+      "コク"
+    ],
+    "kunyomi": [
+      "-べ.き",
+      "-べ.し"
+    ],
+    "meanings": [
+      "can",
+      "passable",
+      "approval"
+    ],
+    "nanori": [
+      "よし"
+    ],
+    "words": [
+      "可",
+      "可能",
+      "許可",
+      "不可",
+      "可決",
+      "不可欠"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "役",
     "level": "N3",
     "strokes": 7,
@@ -4502,6 +4573,37 @@
       "割引",
       "時間割"
     ]
+  },
+  {
+    "character": "身",
+    "level": "N3",
+    "strokes": 7,
+    "grade": 3,
+    "freq": 320,
+    "radical": "身",
+    "radical_number": 158,
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "み"
+    ],
+    "meanings": [
+      "somebody",
+      "person",
+      "one's station in life"
+    ],
+    "words": [
+      "身",
+      "自身",
+      "出身",
+      "身体",
+      "身長",
+      "独身",
+      "刺身",
+      "心身"
+    ],
+    "supplementary": true
   },
   {
     "character": "費",
@@ -11699,6 +11801,36 @@
     ]
   },
   {
+    "character": "畑",
+    "level": "N3",
+    "strokes": 9,
+    "grade": 3,
+    "freq": 1176,
+    "radical": "田",
+    "radical_number": 102,
+    "onyomi": [],
+    "kunyomi": [
+      "はた",
+      "はたけ",
+      "-ばたけ"
+    ],
+    "meanings": [
+      "farm",
+      "field",
+      "garden",
+      "one's specialty",
+      "(kokuji)"
+    ],
+    "nanori": [
+      "かま",
+      "まま"
+    ],
+    "words": [
+      "畑"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "慣",
     "level": "N3",
     "strokes": 14,
@@ -12358,6 +12490,30 @@
     ]
   },
   {
+    "character": "粧",
+    "level": "N3",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1545,
+    "radical": "米",
+    "radical_number": 119,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "cosmetics",
+      "adorn (one's person)"
+    ],
+    "nanori": [
+      "さ"
+    ],
+    "words": [
+      "化粧"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "靴",
     "level": "N3",
     "strokes": 13,
@@ -12467,6 +12623,34 @@
     ]
   },
   {
+    "character": "尻",
+    "level": "N3",
+    "strokes": 5,
+    "grade": 8,
+    "freq": 1692,
+    "radical": "尸",
+    "radical_number": 44,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "しり"
+    ],
+    "meanings": [
+      "buttocks",
+      "hips",
+      "butt",
+      "rear"
+    ],
+    "nanori": [
+      "がみ"
+    ],
+    "words": [
+      "尻"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "猫",
     "level": "N3",
     "strokes": 11,
@@ -12519,5 +12703,336 @@
       "幾分",
       "幾多"
     ]
+  },
+  {
+    "character": "脇",
+    "level": "N3",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1806,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "わき",
+      "わけ"
+    ],
+    "meanings": [
+      "armpit",
+      "the other way",
+      "another place",
+      "flank",
+      "supporting role"
+    ],
+    "words": [
+      "脇"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "鍋",
+    "level": "N3",
+    "strokes": 17,
+    "grade": 8,
+    "freq": 1810,
+    "radical": "金",
+    "radical_number": 167,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "なべ"
+    ],
+    "meanings": [
+      "pot",
+      "pan",
+      "kettle"
+    ],
+    "words": [
+      "鍋"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "袖",
+    "level": "N3",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1960,
+    "radical": "衣",
+    "radical_number": 145,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "そで"
+    ],
+    "meanings": [
+      "sleeve",
+      "wing (building)",
+      "extension",
+      "give cold shoulder"
+    ],
+    "words": [
+      "袖"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "頃",
+    "level": "N3",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 2015,
+    "radical": "頁",
+    "radical_number": 181,
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kunyomi": [
+      "ころ",
+      "ごろ",
+      "しばら.く"
+    ],
+    "meanings": [
+      "time",
+      "about",
+      "toward"
+    ],
+    "nanori": [
+      "ころも"
+    ],
+    "words": [
+      "頃",
+      "近頃",
+      "手頃",
+      "年頃",
+      "日頃",
+      "一頃"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "謎",
+    "level": "N3",
+    "strokes": 16,
+    "grade": 8,
+    "freq": 2021,
+    "radical": "言",
+    "radical_number": 149,
+    "onyomi": [
+      "メイ",
+      "ベイ"
+    ],
+    "kunyomi": [
+      "なぞ"
+    ],
+    "meanings": [
+      "riddle",
+      "puzzle",
+      "enigma",
+      "hint",
+      "tip"
+    ],
+    "words": [
+      "謎",
+      "謎謎"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "餌",
+    "level": "N3",
+    "strokes": 14,
+    "grade": 8,
+    "freq": 2277,
+    "radical": "食",
+    "radical_number": 184,
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "kunyomi": [
+      "え",
+      "えば",
+      "えさ",
+      "もち"
+    ],
+    "meanings": [
+      "food",
+      "bait",
+      "prey",
+      "tempting profit"
+    ],
+    "words": [
+      "餌"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "膝",
+    "level": "N3",
+    "strokes": 15,
+    "grade": 8,
+    "freq": 2320,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "ひざ"
+    ],
+    "meanings": [
+      "knee",
+      "lap"
+    ],
+    "words": [
+      "膝"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "諦",
+    "level": "N3",
+    "strokes": 16,
+    "grade": 8,
+    "freq": 2457,
+    "radical": "言",
+    "radical_number": 149,
+    "onyomi": [
+      "テイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "あきら.める",
+      "つまびらか",
+      "まこと"
+    ],
+    "meanings": [
+      "truth",
+      "clarity",
+      "abandon",
+      "give up"
+    ],
+    "words": [
+      "諦める",
+      "諦め"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "僅",
+    "level": "N3",
+    "strokes": 12,
+    "grade": 8,
+    "freq": null,
+    "radical": "人",
+    "radical_number": 9,
+    "onyomi": [
+      "キン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "わず.か"
+    ],
+    "meanings": [
+      "a wee bit"
+    ],
+    "words": [
+      "僅か",
+      "僅"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "戚",
+    "level": "N3",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "戈",
+    "radical_number": 62,
+    "onyomi": [
+      "ソク",
+      "セキ"
+    ],
+    "kunyomi": [
+      "いた.む",
+      "うれ.える",
+      "みうち"
+    ],
+    "meanings": [
+      "grieve",
+      "relatives"
+    ],
+    "words": [
+      "親戚"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "溺",
+    "level": "N3",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "水",
+    "radical_number": 85,
+    "onyomi": [
+      "デキ",
+      "ジョウ",
+      "ニョウ"
+    ],
+    "kunyomi": [
+      "いばり",
+      "おぼ.れる"
+    ],
+    "meanings": [
+      "drown",
+      "indulge"
+    ],
+    "words": [
+      "溺れる"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "籠",
+    "level": "N3",
+    "strokes": 22,
+    "grade": 8,
+    "freq": null,
+    "radical": "竹",
+    "radical_number": 118,
+    "onyomi": [
+      "ロウ",
+      "ル"
+    ],
+    "kunyomi": [
+      "かご",
+      "こ.める",
+      "こも.る",
+      "こ.む"
+    ],
+    "meanings": [
+      "basket",
+      "devote oneself",
+      "seclude oneself",
+      "cage",
+      "coop",
+      "implied"
+    ],
+    "nanori": [
+      "ごめ",
+      "もり"
+    ],
+    "words": [
+      "籠"
+    ],
+    "supplementary": true
   }
 ]

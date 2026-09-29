@@ -1298,6 +1298,26 @@
     ]
   },
   {
+    "character": "韓",
+    "level": "N1",
+    "strokes": 18,
+    "grade": 8,
+    "freq": 445,
+    "radical": "韋",
+    "radical_number": 178,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "から",
+      "いげた"
+    ],
+    "meanings": [
+      "Korea"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "衆",
     "level": "N1",
     "strokes": 12,
@@ -1352,6 +1372,27 @@
       "書評",
       "不評"
     ]
+  },
+  {
+    "character": "岡",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 463,
+    "radical": "山",
+    "radical_number": 46,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "おか"
+    ],
+    "meanings": [
+      "mount",
+      "hill",
+      "knoll"
+    ],
+    "supplementary": true
   },
   {
     "character": "影",
@@ -1650,6 +1691,26 @@
       "響く",
       "反響"
     ]
+  },
+  {
+    "character": "阪",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 4,
+    "freq": 503,
+    "radical": "阜",
+    "radical_number": 170,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "さか"
+    ],
+    "meanings": [
+      "heights",
+      "slope"
+    ],
+    "supplementary": true
   },
   {
     "character": "推",
@@ -6176,6 +6237,29 @@
     ]
   },
   {
+    "character": "埼",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 4,
+    "freq": 971,
+    "radical": "土",
+    "radical_number": 32,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "meanings": [
+      "cape",
+      "spit",
+      "promontory"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "衝",
     "level": "N1",
     "strokes": 15,
@@ -8423,6 +8507,34 @@
     ]
   },
   {
+    "character": "里",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 2,
+    "freq": 1096,
+    "radical": "里",
+    "radical_number": 166,
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "さと"
+    ],
+    "meanings": [
+      "ri",
+      "village",
+      "parent's home",
+      "league"
+    ],
+    "nanori": [
+      "さ"
+    ],
+    "words": [
+      "郷里"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "釈",
     "level": "N1",
     "strokes": 11,
@@ -10173,6 +10285,36 @@
     "words": [
       "翼"
     ]
+  },
+  {
+    "character": "茨",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 1203,
+    "radical": "艸",
+    "radical_number": 140,
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "いばら",
+      "かや",
+      "くさぶき"
+    ],
+    "meanings": [
+      "briar",
+      "thorn"
+    ],
+    "nanori": [
+      "あし",
+      "えばら",
+      "ばら",
+      "まつ",
+      "まん"
+    ],
+    "supplementary": true
   },
   {
     "character": "潟",
@@ -12085,6 +12227,34 @@
       "ひさ",
       "ひで"
     ]
+  },
+  {
+    "character": "曽",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1320,
+    "radical": "曰",
+    "radical_number": 73,
+    "onyomi": [
+      "ソウ",
+      "ソ",
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "かつ",
+      "かつて",
+      "すなわち"
+    ],
+    "meanings": [
+      "formerly",
+      "once",
+      "before",
+      "ever",
+      "never",
+      "ex-"
+    ],
+    "supplementary": true
   },
   {
     "character": "倫",
@@ -14123,6 +14293,24 @@
     ]
   },
   {
+    "character": "栃",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 4,
+    "freq": 1427,
+    "radical": "木",
+    "radical_number": 75,
+    "onyomi": [],
+    "kunyomi": [
+      "とち"
+    ],
+    "meanings": [
+      "horse chestnut",
+      "(kokuji)"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "岐",
     "level": "N1",
     "strokes": 7,
@@ -16116,6 +16304,29 @@
     ]
   },
   {
+    "character": "阜",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 4,
+    "freq": 1532,
+    "radical": "阜",
+    "radical_number": 170,
+    "onyomi": [
+      "フ",
+      "フウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "hill",
+      "mound",
+      "left village radical (no. 170)"
+    ],
+    "nanori": [
+      "おか"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "彫",
     "level": "N1",
     "strokes": 11,
@@ -16349,6 +16560,35 @@
     "nanori": [
       "は"
     ]
+  },
+  {
+    "character": "葛",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1547,
+    "radical": "艸",
+    "radical_number": 140,
+    "onyomi": [
+      "カツ",
+      "カチ"
+    ],
+    "kunyomi": [
+      "つづら",
+      "くず"
+    ],
+    "meanings": [
+      "arrowroot",
+      "kudzu"
+    ],
+    "nanori": [
+      "か",
+      "かず",
+      "かずら",
+      "かっ",
+      "かつら"
+    ],
+    "supplementary": true
   },
   {
     "character": "粛",
@@ -18898,6 +19138,26 @@
     ]
   },
   {
+    "character": "畿",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": 1683,
+    "radical": "田",
+    "radical_number": 102,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "meanings": [
+      "capital",
+      "suburbs of capital"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "猪",
     "level": "N1",
     "strokes": 11,
@@ -19786,6 +20046,31 @@
     ]
   },
   {
+    "character": "唐",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1727,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "から"
+    ],
+    "meanings": [
+      "T'ang",
+      "China",
+      "foreign"
+    ],
+    "nanori": [
+      "かろ",
+      "たん"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "亘",
     "level": "N1",
     "strokes": 6,
@@ -20124,6 +20409,25 @@
     ]
   },
   {
+    "character": "柿",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": 1745,
+    "radical": "木",
+    "radical_number": 75,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "かき"
+    ],
+    "meanings": [
+      "persimmon"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "陵",
     "level": "N1",
     "strokes": 11,
@@ -20276,6 +20580,23 @@
       "hungry",
       "thirst"
     ]
+  },
+  {
+    "character": "腎",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 1755,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "ジン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "kidney"
+    ],
+    "supplementary": true
   },
   {
     "character": "窮",
@@ -21640,6 +21961,28 @@
     ]
   },
   {
+    "character": "慌",
+    "level": "N1",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 1826,
+    "radical": "心",
+    "radical_number": 61,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "あわ.てる",
+      "あわ.ただしい"
+    ],
+    "meanings": [
+      "disconcerted",
+      "be confused",
+      "lose one's head"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "娯",
     "level": "N1",
     "strokes": 10,
@@ -22371,6 +22714,30 @@
       "pardon",
       "forgiveness"
     ]
+  },
+  {
+    "character": "挫",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1869,
+    "radical": "手",
+    "radical_number": 64,
+    "onyomi": [
+      "ザ",
+      "サ"
+    ],
+    "kunyomi": [
+      "くじ.く",
+      "くじ.ける"
+    ],
+    "meanings": [
+      "crush",
+      "break",
+      "sprain",
+      "discourage"
+    ],
+    "supplementary": true
   },
   {
     "character": "窃",
@@ -23809,6 +24176,30 @@
     ]
   },
   {
+    "character": "俺",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1946,
+    "radical": "人",
+    "radical_number": 9,
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "おれ",
+      "われ"
+    ],
+    "meanings": [
+      "I",
+      "myself"
+    ],
+    "words": [
+      "俺"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "叔",
     "level": "N1",
     "strokes": 8,
@@ -24004,6 +24395,26 @@
     ]
   },
   {
+    "character": "痕",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 1958,
+    "radical": "疒",
+    "radical_number": 104,
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [
+      "あと"
+    ],
+    "meanings": [
+      "mark",
+      "foot print"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "嶺",
     "level": "N1",
     "strokes": 17,
@@ -24077,6 +24488,56 @@
       "たかし",
       "たか"
     ]
+  },
+  {
+    "character": "妖",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 8,
+    "freq": 1964,
+    "radical": "女",
+    "radical_number": 38,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "あや.しい",
+      "なま.めく",
+      "わざわ.い"
+    ],
+    "meanings": [
+      "attractive",
+      "bewitching",
+      "calamity"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "闇",
+    "level": "N1",
+    "strokes": 17,
+    "grade": 8,
+    "freq": 1969,
+    "radical": "門",
+    "radical_number": 169,
+    "onyomi": [
+      "アン",
+      "オン"
+    ],
+    "kunyomi": [
+      "やみ",
+      "くら.い"
+    ],
+    "meanings": [
+      "get dark",
+      "gloom",
+      "disorder"
+    ],
+    "words": [
+      "闇",
+      "無闇に"
+    ],
+    "supplementary": true
   },
   {
     "character": "崇",
@@ -24235,6 +24696,27 @@
       "とも",
       "のぶ"
     ]
+  },
+  {
+    "character": "捉",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 1976,
+    "radical": "手",
+    "radical_number": 64,
+    "onyomi": [
+      "ソク",
+      "サク"
+    ],
+    "kunyomi": [
+      "とら.える"
+    ],
+    "meanings": [
+      "catch",
+      "capture"
+    ],
+    "supplementary": true
   },
   {
     "character": "礁",
@@ -24417,6 +24899,32 @@
     "nanori": [
       "よし"
     ]
+  },
+  {
+    "character": "賭",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": 1989,
+    "radical": "貝",
+    "radical_number": 154,
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "か.ける",
+      "かけ"
+    ],
+    "meanings": [
+      "gamble",
+      "wager",
+      "bet"
+    ],
+    "words": [
+      "賭け",
+      "賭ける"
+    ],
+    "supplementary": true
   },
   {
     "character": "擬",
@@ -24914,6 +25422,35 @@
     ]
   },
   {
+    "character": "汎",
+    "level": "N1",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 2014,
+    "radical": "水",
+    "radical_number": 85,
+    "onyomi": [
+      "ハン",
+      "ブ",
+      "フウ",
+      "ホウ",
+      "ホン"
+    ],
+    "kunyomi": [
+      "ただよ.う",
+      "ひろ.い"
+    ],
+    "meanings": [
+      "pan-"
+    ],
+    "nanori": [
+      "ひろ",
+      "ひろし",
+      "みな"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "帥",
     "level": "N1",
     "strokes": 9,
@@ -25013,6 +25550,25 @@
       "shelter",
       "shield"
     ]
+  },
+  {
+    "character": "鍵",
+    "level": "N1",
+    "strokes": 17,
+    "grade": 8,
+    "freq": 2029,
+    "radical": "金",
+    "radical_number": 167,
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "かぎ"
+    ],
+    "meanings": [
+      "key"
+    ],
+    "supplementary": true
   },
   {
     "character": "襟",
@@ -25246,6 +25802,27 @@
     "meanings": [
       "squeeze"
     ]
+  },
+  {
+    "character": "臼",
+    "level": "N1",
+    "strokes": 6,
+    "grade": 8,
+    "freq": 2048,
+    "radical": "臼",
+    "radical_number": 134,
+    "onyomi": [
+      "キュウ",
+      "グ"
+    ],
+    "kunyomi": [
+      "うす",
+      "うすづ.く"
+    ],
+    "meanings": [
+      "mortar"
+    ],
+    "supplementary": true
   },
   {
     "character": "畔",
@@ -25590,6 +26167,29 @@
     "nanori": [
       "きよ"
     ]
+  },
+  {
+    "character": "牙",
+    "level": "N1",
+    "strokes": 5,
+    "grade": 8,
+    "freq": 2067,
+    "radical": "牙",
+    "radical_number": 92,
+    "onyomi": [
+      "ガ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "きば",
+      "は"
+    ],
+    "meanings": [
+      "tusk",
+      "fang",
+      "tusk radical (no. 92)"
+    ],
+    "supplementary": true
   },
   {
     "character": "謹",
@@ -25995,6 +26595,28 @@
     ]
   },
   {
+    "character": "惧",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 2097,
+    "radical": "心",
+    "radical_number": 61,
+    "onyomi": [
+      "ク",
+      "グ"
+    ],
+    "kunyomi": [
+      "おそ.れる"
+    ],
+    "meanings": [
+      "fear",
+      "be afraid of",
+      "dread"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "倭",
     "level": "N1",
     "strokes": 10,
@@ -26340,6 +26962,36 @@
     ]
   },
   {
+    "character": "膳",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 8,
+    "freq": 2120,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "ゼン",
+      "セン"
+    ],
+    "kunyomi": [
+      "かしわ",
+      "すす.める",
+      "そな.える"
+    ],
+    "meanings": [
+      "small low table",
+      "tray"
+    ],
+    "nanori": [
+      "ぜ",
+      "よし"
+    ],
+    "words": [
+      "膳"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "蚊",
     "level": "N1",
     "strokes": 10,
@@ -26505,6 +27157,34 @@
     ]
   },
   {
+    "character": "呪",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 2131,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "ジュ",
+      "シュ",
+      "シュウ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "まじな.う",
+      "のろ.い",
+      "まじな.い",
+      "のろ.う"
+    ],
+    "meanings": [
+      "spell",
+      "curse",
+      "charm",
+      "malediction"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "尭",
     "level": "N1",
     "strokes": 8,
@@ -26528,6 +27208,54 @@
       "のり",
       "あき"
     ]
+  },
+  {
+    "character": "怨",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": 2137,
+    "radical": "心",
+    "radical_number": 61,
+    "onyomi": [
+      "エン",
+      "オン",
+      "ウン"
+    ],
+    "kunyomi": [
+      "うら.む",
+      "うらみ",
+      "うら.めしい"
+    ],
+    "meanings": [
+      "grudge",
+      "show resentment",
+      "be jealous"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "串",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 8,
+    "freq": 2139,
+    "radical": "丨",
+    "radical_number": 2,
+    "onyomi": [
+      "カン",
+      "ケン",
+      "セン"
+    ],
+    "kunyomi": [
+      "くし",
+      "つらぬ.く"
+    ],
+    "meanings": [
+      "spit",
+      "skewer"
+    ],
+    "supplementary": true
   },
   {
     "character": "嚇",
@@ -26624,6 +27352,33 @@
     ]
   },
   {
+    "character": "腫",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 2145,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "シュ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "は.れる",
+      "は.れ",
+      "は.らす",
+      "はれもの"
+    ],
+    "meanings": [
+      "tumor",
+      "swelling"
+    ],
+    "words": [
+      "腫れる"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "韻",
     "level": "N1",
     "strokes": 19,
@@ -26678,6 +27433,26 @@
       "nitrate",
       "saltpeter"
     ]
+  },
+  {
+    "character": "箸",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": 2156,
+    "radical": "竹",
+    "radical_number": 118,
+    "onyomi": [
+      "チョ",
+      "チャク"
+    ],
+    "kunyomi": [
+      "はし"
+    ],
+    "meanings": [
+      "chopsticks"
+    ],
+    "supplementary": true
   },
   {
     "character": "勅",
@@ -26831,6 +27606,35 @@
     ]
   },
   {
+    "character": "斑",
+    "level": "N1",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 2165,
+    "radical": "文",
+    "radical_number": 67,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "ふ",
+      "まだら"
+    ],
+    "meanings": [
+      "spot",
+      "blemish",
+      "speck",
+      "patches"
+    ],
+    "nanori": [
+      "い"
+    ],
+    "words": [
+      "斑"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "慧",
     "level": "N1",
     "strokes": 15,
@@ -26855,6 +27659,28 @@
       "あきら",
       "とし"
     ]
+  },
+  {
+    "character": "摯",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": 2170,
+    "radical": "手",
+    "radical_number": 64,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "いた.る",
+      "つか.む",
+      "にえ"
+    ],
+    "meanings": [
+      "gift",
+      "seriousness"
+    ],
+    "supplementary": true
   },
   {
     "character": "愁",
@@ -27025,6 +27851,26 @@
       "firewood",
       "kindling"
     ]
+  },
+  {
+    "character": "堆",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": 2184,
+    "radical": "土",
+    "radical_number": 32,
+    "onyomi": [
+      "タイ",
+      "ツイ"
+    ],
+    "kunyomi": [
+      "うずたか.い"
+    ],
+    "meanings": [
+      "piled high"
+    ],
+    "supplementary": true
   },
   {
     "character": "褐",
@@ -27206,6 +28052,30 @@
     ]
   },
   {
+    "character": "蜜",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 8,
+    "freq": 2203,
+    "radical": "虫",
+    "radical_number": 142,
+    "onyomi": [
+      "ミツ",
+      "ビツ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "honey",
+      "nectar",
+      "molasses"
+    ],
+    "words": [
+      "蜜",
+      "蜂蜜"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "榛",
     "level": "N1",
     "strokes": 14,
@@ -27317,6 +28187,30 @@
     ]
   },
   {
+    "character": "股",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 2212,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "また",
+      "もも"
+    ],
+    "meanings": [
+      "thigh",
+      "crotch"
+    ],
+    "words": [
+      "股"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "蔦",
     "level": "N1",
     "strokes": 14,
@@ -27339,6 +28233,29 @@
     ]
   },
   {
+    "character": "玩",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 8,
+    "freq": 2216,
+    "radical": "玉",
+    "radical_number": 96,
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "もちあそ.ぶ",
+      "もてあそ.ぶ"
+    ],
+    "meanings": [
+      "play",
+      "take pleasure in",
+      "trifle with",
+      "make sport of"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "錬",
     "level": "N1",
     "strokes": 16,
@@ -27359,6 +28276,33 @@
       "train",
       "polish"
     ]
+  },
+  {
+    "character": "蜂",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 2223,
+    "radical": "虫",
+    "radical_number": 142,
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "はち"
+    ],
+    "meanings": [
+      "bee",
+      "wasp",
+      "hornet"
+    ],
+    "nanori": [
+      "ほ"
+    ],
+    "words": [
+      "蜂蜜"
+    ],
+    "supplementary": true
   },
   {
     "character": "隼",
@@ -27589,6 +28533,23 @@
     ]
   },
   {
+    "character": "椅",
+    "level": "N1",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 2245,
+    "radical": "木",
+    "radical_number": 75,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "chair"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "惟",
     "level": "N1",
     "strokes": 11,
@@ -27706,6 +28667,27 @@
     "nanori": [
       "あつし"
     ]
+  },
+  {
+    "character": "挨",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 2258,
+    "radical": "手",
+    "radical_number": 64,
+    "onyomi": [
+      "アイ"
+    ],
+    "kunyomi": [
+      "ひら.く"
+    ],
+    "meanings": [
+      "approach",
+      "draw near",
+      "push open"
+    ],
+    "supplementary": true
   },
   {
     "character": "憧",
@@ -28119,6 +29101,28 @@
     ]
   },
   {
+    "character": "脊",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 2299,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "せ",
+      "せい"
+    ],
+    "meanings": [
+      "stature",
+      "height",
+      "spine"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "梓",
     "level": "N1",
     "strokes": 11,
@@ -28259,6 +29263,31 @@
     ]
   },
   {
+    "character": "嫉",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 2317,
+    "radical": "女",
+    "radical_number": 38,
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "そね.む",
+      "ねた.む",
+      "にく.む"
+    ],
+    "meanings": [
+      "jealous",
+      "envy"
+    ],
+    "words": [
+      "嫉妬"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "朔",
     "level": "N1",
     "strokes": 10,
@@ -28303,6 +29332,26 @@
       "attending",
       "entertainer"
     ]
+  },
+  {
+    "character": "恣",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 2325,
+    "radical": "心",
+    "radical_number": 61,
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "ほしいまま"
+    ],
+    "meanings": [
+      "selfish",
+      "arbitrary"
+    ],
+    "supplementary": true
   },
   {
     "character": "畝",
@@ -28354,6 +29403,48 @@
     ]
   },
   {
+    "character": "麺",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 8,
+    "freq": 2331,
+    "radical": "麥",
+    "radical_number": 199,
+    "onyomi": [
+      "メン",
+      "ベン"
+    ],
+    "kunyomi": [
+      "むぎこ"
+    ],
+    "meanings": [
+      "noodles",
+      "wheat flour"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "戴",
+    "level": "N1",
+    "strokes": 17,
+    "grade": 8,
+    "freq": 2332,
+    "radical": "戈",
+    "radical_number": 62,
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "いただ.く"
+    ],
+    "meanings": [
+      "be crowned with",
+      "live under (a ruler)",
+      "receive"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "爽",
     "level": "N1",
     "strokes": 11,
@@ -28376,6 +29467,31 @@
       "sweet",
       "clear"
     ]
+  },
+  {
+    "character": "裾",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": 2334,
+    "radical": "衣",
+    "radical_number": 145,
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "kunyomi": [
+      "すそ"
+    ],
+    "meanings": [
+      "cuff",
+      "hem",
+      "foot of mountain"
+    ],
+    "words": [
+      "裾"
+    ],
+    "supplementary": true
   },
   {
     "character": "黎",
@@ -28515,6 +29631,26 @@
       "もえ",
       "きざし"
     ]
+  },
+  {
+    "character": "冥",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 2349,
+    "radical": "冖",
+    "radical_number": 14,
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "くら.い"
+    ],
+    "meanings": [
+      "dark"
+    ],
+    "supplementary": true
   },
   {
     "character": "偲",
@@ -28721,6 +29857,25 @@
     ]
   },
   {
+    "character": "訃",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": 2379,
+    "radical": "言",
+    "radical_number": 149,
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "しらせ"
+    ],
+    "meanings": [
+      "obituary"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "舜",
     "level": "N1",
     "strokes": 13,
@@ -28740,6 +29895,51 @@
     "nanori": [
       "みつ"
     ]
+  },
+  {
+    "character": "畏",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": 2389,
+    "radical": "田",
+    "radical_number": 102,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "おそ.れる",
+      "かしこま.る",
+      "かしこ",
+      "かしこ.し"
+    ],
+    "meanings": [
+      "fear",
+      "majestic",
+      "graciously",
+      "be apprehensive"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "喉",
+    "level": "N1",
+    "strokes": 12,
+    "grade": 8,
+    "freq": 2390,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "のど"
+    ],
+    "meanings": [
+      "throat",
+      "voice"
+    ],
+    "supplementary": true
   },
   {
     "character": "瑛",
@@ -29195,6 +30395,46 @@
     ]
   },
   {
+    "character": "緻",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 8,
+    "freq": 2460,
+    "radical": "糸",
+    "radical_number": 120,
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "こまか.い"
+    ],
+    "meanings": [
+      "fine (i.e. not coarse)"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "哺",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": 2461,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "ホ"
+    ],
+    "kunyomi": [
+      "はぐく.む",
+      "ふく.む"
+    ],
+    "meanings": [
+      "nurse",
+      "suckle"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "啄",
     "level": "N1",
     "strokes": 10,
@@ -29245,6 +30485,29 @@
       "しげ",
       "みのる"
     ]
+  },
+  {
+    "character": "罵",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": 2467,
+    "radical": "网",
+    "radical_number": 122,
+    "onyomi": [
+      "バ"
+    ],
+    "kunyomi": [
+      "ののし.る"
+    ],
+    "meanings": [
+      "abuse",
+      "insult"
+    ],
+    "words": [
+      "罵る"
+    ],
+    "supplementary": true
   },
   {
     "character": "酉",
@@ -29298,6 +30561,31 @@
     ]
   },
   {
+    "character": "乞",
+    "level": "N1",
+    "strokes": 3,
+    "grade": 8,
+    "freq": 2478,
+    "radical": "乙",
+    "radical_number": 5,
+    "onyomi": [
+      "コツ",
+      "キツ",
+      "キ",
+      "キケ",
+      "コチ"
+    ],
+    "kunyomi": [
+      "こ.う"
+    ],
+    "meanings": [
+      "beg",
+      "invite",
+      "ask"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "倹",
     "level": "N1",
     "strokes": 10,
@@ -29320,6 +30608,34 @@
     "words": [
       "倹約"
     ]
+  },
+  {
+    "character": "蔑",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 8,
+    "freq": 2483,
+    "radical": "艸",
+    "radical_number": 140,
+    "onyomi": [
+      "ベツ"
+    ],
+    "kunyomi": [
+      "ないがしろ",
+      "なみ.する",
+      "くらい",
+      "さげす.む"
+    ],
+    "meanings": [
+      "ignore",
+      "despise",
+      "neglect",
+      "ridicule"
+    ],
+    "words": [
+      "軽蔑"
+    ],
+    "supplementary": true
   },
   {
     "character": "柚",
@@ -29571,6 +30887,27 @@
     ]
   },
   {
+    "character": "侶",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": null,
+    "radical": "人",
+    "radical_number": 9,
+    "onyomi": [
+      "リョ",
+      "ロ"
+    ],
+    "kunyomi": [
+      "とも"
+    ],
+    "meanings": [
+      "companion",
+      "follower"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "倖",
     "level": "N1",
     "strokes": 10,
@@ -29589,6 +30926,29 @@
       "happiness",
       "luck"
     ]
+  },
+  {
+    "character": "傲",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "人",
+    "radical_number": 9,
+    "onyomi": [
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "おご.る",
+      "あなど.る"
+    ],
+    "meanings": [
+      "be proud"
+    ],
+    "words": [
+      "傲る"
+    ],
+    "supplementary": true
   },
   {
     "character": "冶",
@@ -29652,6 +31012,55 @@
     ]
   },
   {
+    "character": "刹",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 8,
+    "freq": null,
+    "radical": "刀",
+    "radical_number": 18,
+    "onyomi": [
+      "セチ",
+      "セツ",
+      "サツ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "temple"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "剝",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": null,
+    "radical": "刀",
+    "radical_number": 18,
+    "onyomi": [
+      "ハク",
+      "ホク"
+    ],
+    "kunyomi": [
+      "へ.ぐ",
+      "へず.る",
+      "む.く",
+      "む.ける",
+      "は.がれる",
+      "は.ぐ",
+      "は.げる",
+      "は.がす"
+    ],
+    "meanings": [
+      "come off",
+      "peel",
+      "fade",
+      "discolor"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "勁",
     "level": "N1",
     "strokes": 9,
@@ -29670,6 +31079,28 @@
     ]
   },
   {
+    "character": "勃",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": null,
+    "radical": "力",
+    "radical_number": 19,
+    "onyomi": [
+      "ボツ",
+      "ホツ"
+    ],
+    "kunyomi": [
+      "おこ.る",
+      "にわかに"
+    ],
+    "meanings": [
+      "suddenness",
+      "rise"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "勺",
     "level": "N1",
     "strokes": 3,
@@ -29686,6 +31117,32 @@
       "one tenth of a go",
       "dip"
     ]
+  },
+  {
+    "character": "勾",
+    "level": "N1",
+    "strokes": 4,
+    "grade": 8,
+    "freq": null,
+    "radical": "勹",
+    "radical_number": 20,
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "かぎ",
+      "ま.がる"
+    ],
+    "meanings": [
+      "be bent",
+      "slope",
+      "capture"
+    ],
+    "nanori": [
+      "まがり"
+    ],
+    "supplementary": true
   },
   {
     "character": "匁",
@@ -29751,6 +31208,33 @@
     ]
   },
   {
+    "character": "咽",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": null,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "イン",
+      "エン",
+      "エツ"
+    ],
+    "kunyomi": [
+      "むせ.ぶ",
+      "むせ.る",
+      "のど",
+      "の.む"
+    ],
+    "meanings": [
+      "throat",
+      "choked",
+      "smothered",
+      "stuffy"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "哉",
     "level": "N1",
     "strokes": 9,
@@ -29784,6 +31268,73 @@
     ]
   },
   {
+    "character": "唾",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "kunyomi": [
+      "つば",
+      "つばき"
+    ],
+    "meanings": [
+      "saliva",
+      "sputum"
+    ],
+    "words": [
+      "唾"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "喩",
+    "level": "N1",
+    "strokes": 12,
+    "grade": 8,
+    "freq": null,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "ユ"
+    ],
+    "kunyomi": [
+      "たと.える",
+      "さと.す"
+    ],
+    "meanings": [
+      "metaphor",
+      "compare"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "嘲",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": null,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "チョウ",
+      "トウ"
+    ],
+    "kunyomi": [
+      "あざけ.る"
+    ],
+    "meanings": [
+      "ridicule",
+      "insult"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "塑",
     "level": "N1",
     "strokes": 13,
@@ -29801,6 +31352,31 @@
       "model",
       "molding"
     ]
+  },
+  {
+    "character": "塡",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "土",
+    "radical_number": 32,
+    "onyomi": [
+      "テン",
+      "チン"
+    ],
+    "kunyomi": [
+      "はま.る",
+      "うず.める",
+      "は.める",
+      "ふさ.ぐ"
+    ],
+    "meanings": [
+      "fill in",
+      "fill up",
+      "make good"
+    ],
+    "supplementary": true
   },
   {
     "character": "墾",
@@ -29841,6 +31417,34 @@
     ]
   },
   {
+    "character": "妬",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 8,
+    "freq": null,
+    "radical": "女",
+    "radical_number": 38,
+    "onyomi": [
+      "ト",
+      "ツ"
+    ],
+    "kunyomi": [
+      "ねた.む",
+      "そね.む",
+      "つも.る",
+      "ふさ.ぐ"
+    ],
+    "meanings": [
+      "jealous",
+      "envy"
+    ],
+    "words": [
+      "嫉妬",
+      "妬む"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "宥",
     "level": "N1",
     "strokes": 9,
@@ -29860,6 +31464,34 @@
       "calm",
       "pacify"
     ]
+  },
+  {
+    "character": "崖",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "山",
+    "radical_number": 46,
+    "onyomi": [
+      "ガイ",
+      "ゲ",
+      "ギ"
+    ],
+    "kunyomi": [
+      "がけ",
+      "きし",
+      "はて"
+    ],
+    "meanings": [
+      "cliff",
+      "bluff",
+      "precipice"
+    ],
+    "words": [
+      "崖"
+    ],
+    "supplementary": true
   },
   {
     "character": "崚",
@@ -29911,6 +31543,36 @@
     ]
   },
   {
+    "character": "弄",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 8,
+    "freq": null,
+    "radical": "廾",
+    "radical_number": 55,
+    "onyomi": [
+      "ロウ",
+      "ル"
+    ],
+    "kunyomi": [
+      "いじく.る",
+      "ろう.する",
+      "いじ.る",
+      "ひねく.る",
+      "たわむ.れる",
+      "もてあそ.ぶ"
+    ],
+    "meanings": [
+      "play with",
+      "tamper",
+      "trifle with"
+    ],
+    "words": [
+      "弄る"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "弐",
     "level": "N1",
     "strokes": 6,
@@ -29933,6 +31595,32 @@
     ]
   },
   {
+    "character": "彙",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "彐",
+    "radical_number": 58,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "はりねずみ"
+    ],
+    "meanings": [
+      "same kind",
+      "collect",
+      "classify",
+      "category",
+      "hedgehog"
+    ],
+    "words": [
+      "語彙"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "恕",
     "level": "N1",
     "strokes": 10,
@@ -29952,6 +31640,116 @@
       "tolerate",
       "forgive"
     ]
+  },
+  {
+    "character": "慄",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "心",
+    "radical_number": 61,
+    "onyomi": [
+      "リツ"
+    ],
+    "kunyomi": [
+      "ふる.える",
+      "おそ.れる",
+      "おのの.く"
+    ],
+    "meanings": [
+      "fear"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "憬",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": null,
+    "radical": "心",
+    "radical_number": 61,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "あこが.れる"
+    ],
+    "meanings": [
+      "yearn for",
+      "aspire to",
+      "admire"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "拉",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 8,
+    "freq": null,
+    "radical": "手",
+    "radical_number": 64,
+    "onyomi": [
+      "ラツ",
+      "ラ",
+      "ロウ"
+    ],
+    "kunyomi": [
+      "らっ.する",
+      "ひし.ぐ",
+      "くだ.く"
+    ],
+    "meanings": [
+      "Latin",
+      "kidnap",
+      "crush"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "拶",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": null,
+    "radical": "手",
+    "radical_number": 64,
+    "onyomi": [
+      "サツ"
+    ],
+    "kunyomi": [
+      "せま.る"
+    ],
+    "meanings": [
+      "be imminent",
+      "draw close"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "捗",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": null,
+    "radical": "手",
+    "radical_number": 64,
+    "onyomi": [
+      "チョク",
+      "ホ"
+    ],
+    "kunyomi": [
+      "はかど.る"
+    ],
+    "meanings": [
+      "make progress"
+    ],
+    "words": [
+      "捗る"
+    ],
+    "supplementary": true
   },
   {
     "character": "捷",
@@ -30077,6 +31875,28 @@
     ]
   },
   {
+    "character": "昧",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": null,
+    "radical": "日",
+    "radical_number": 72,
+    "onyomi": [
+      "マイ",
+      "バイ"
+    ],
+    "kunyomi": [
+      "くら.い",
+      "むさぼ.る"
+    ],
+    "meanings": [
+      "dark",
+      "foolish"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "昴",
     "level": "N1",
     "strokes": 9,
@@ -30156,6 +31976,26 @@
     ]
   },
   {
+    "character": "曖",
+    "level": "N1",
+    "strokes": 17,
+    "grade": 8,
+    "freq": null,
+    "radical": "日",
+    "radical_number": 72,
+    "onyomi": [
+      "アイ"
+    ],
+    "kunyomi": [
+      "くら.い"
+    ],
+    "meanings": [
+      "dark",
+      "not clear"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "朕",
     "level": "N1",
     "strokes": 10,
@@ -30190,6 +32030,39 @@
     "meanings": [
       "holly"
     ]
+  },
+  {
+    "character": "柵",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 8,
+    "freq": null,
+    "radical": "木",
+    "radical_number": 75,
+    "onyomi": [
+      "サク",
+      "サン"
+    ],
+    "kunyomi": [
+      "しがら.む",
+      "しがらみ",
+      "とりで",
+      "やらい"
+    ],
+    "meanings": [
+      "stockade",
+      "fence",
+      "weir",
+      "entwine around"
+    ],
+    "nanori": [
+      "ませ",
+      "やな"
+    ],
+    "words": [
+      "柵"
+    ],
+    "supplementary": true
   },
   {
     "character": "柾",
@@ -30229,6 +32102,30 @@
       "bookmark",
       "guidebook"
     ]
+  },
+  {
+    "character": "梗",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "木",
+    "radical_number": 75,
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "kunyomi": [
+      "ふさぐ",
+      "やまにれ",
+      "おおむね"
+    ],
+    "meanings": [
+      "for the most part",
+      "close up",
+      "flower stem"
+    ],
+    "supplementary": true
   },
   {
     "character": "梢",
@@ -30331,6 +32228,77 @@
     ]
   },
   {
+    "character": "楷",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "木",
+    "radical_number": 75,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "square character style",
+      "correctness"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "毀",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "殳",
+    "radical_number": 79,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "こぼ.つ",
+      "こわ.す",
+      "こぼ.れる",
+      "こわ.れる",
+      "そし.る",
+      "やぶ.る"
+    ],
+    "meanings": [
+      "break",
+      "destroy",
+      "censure",
+      "be chipped",
+      "be scratched",
+      "be broken",
+      "be ruined"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "氾",
+    "level": "N1",
+    "strokes": 5,
+    "grade": 8,
+    "freq": null,
+    "radical": "水",
+    "radical_number": 85,
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "ひろ.がる"
+    ],
+    "meanings": [
+      "spread out",
+      "wide"
+    ],
+    "words": [
+      "氾濫"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "汰",
     "level": "N1",
     "strokes": 7,
@@ -30360,6 +32328,27 @@
     ]
   },
   {
+    "character": "沃",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 8,
+    "freq": null,
+    "radical": "水",
+    "radical_number": 85,
+    "onyomi": [
+      "ヨウ",
+      "ヨク",
+      "オク"
+    ],
+    "kunyomi": [
+      "そそ.ぐ"
+    ],
+    "meanings": [
+      "fertility"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "洵",
     "level": "N1",
     "strokes": 9,
@@ -30379,6 +32368,30 @@
       "alike",
       "truth"
     ]
+  },
+  {
+    "character": "淫",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "水",
+    "radical_number": 85,
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "ひた.す",
+      "ほしいまま",
+      "みだ.ら",
+      "みだ.れる",
+      "みだり"
+    ],
+    "meanings": [
+      "lewdness",
+      "licentiousness"
+    ],
+    "supplementary": true
   },
   {
     "character": "滉",
@@ -30694,6 +32707,46 @@
     ]
   },
   {
+    "character": "璧",
+    "level": "N1",
+    "strokes": 18,
+    "grade": 8,
+    "freq": null,
+    "radical": "玉",
+    "radical_number": 96,
+    "onyomi": [
+      "ヘキ"
+    ],
+    "kunyomi": [
+      "たま"
+    ],
+    "meanings": [
+      "sphere",
+      "ball"
+    ],
+    "words": [
+      "完璧"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "璽",
+    "level": "N1",
+    "strokes": 19,
+    "grade": 8,
+    "freq": null,
+    "radical": "玉",
+    "radical_number": 96,
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "emperor's seal"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "痘",
     "level": "N1",
     "strokes": 12,
@@ -30709,6 +32762,27 @@
       "pox",
       "smallpox"
     ]
+  },
+  {
+    "character": "瘍",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 8,
+    "freq": null,
+    "radical": "疒",
+    "radical_number": 104,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "かさ"
+    ],
+    "meanings": [
+      "swelling",
+      "boil",
+      "tumor"
+    ],
+    "supplementary": true
   },
   {
     "character": "眸",
@@ -30769,6 +32843,28 @@
       "great",
       "eminent"
     ]
+  },
+  {
+    "character": "窟",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "穴",
+    "radical_number": 116,
+    "onyomi": [
+      "クツ",
+      "コツ"
+    ],
+    "kunyomi": [
+      "いわや",
+      "いはや",
+      "あな"
+    ],
+    "meanings": [
+      "cavern"
+    ],
+    "supplementary": true
   },
   {
     "character": "竣",
@@ -30917,6 +33013,54 @@
     ]
   },
   {
+    "character": "綻",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 8,
+    "freq": null,
+    "radical": "糸",
+    "radical_number": 120,
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "ほころ.びる"
+    ],
+    "meanings": [
+      "be rent",
+      "ripped",
+      "unravel",
+      "run",
+      "begin to open",
+      "smile"
+    ],
+    "words": [
+      "綻びる"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "羞",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "羊",
+    "radical_number": 123,
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "はじ.る",
+      "すすめ.る",
+      "は.ずかしい"
+    ],
+    "meanings": [
+      "feel ashamed"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "耗",
     "level": "N1",
     "strokes": 10,
@@ -31006,6 +33150,97 @@
     "words": [
       "膨脹"
     ]
+  },
+  {
+    "character": "腺",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "gland",
+      "(kokuji)"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "臆",
+    "level": "N1",
+    "strokes": 17,
+    "grade": 8,
+    "freq": null,
+    "radical": "肉",
+    "radical_number": 130,
+    "onyomi": [
+      "オク",
+      "ヨク"
+    ],
+    "kunyomi": [
+      "むね",
+      "おくする"
+    ],
+    "meanings": [
+      "timidity",
+      "heart",
+      "mind",
+      "fear",
+      "cowardly"
+    ],
+    "words": [
+      "臆病"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "舷",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "舟",
+    "radical_number": 137,
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "ふなばた",
+      "ふなべり"
+    ],
+    "meanings": [
+      "gunwale"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "苛",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 8,
+    "freq": null,
+    "radical": "艸",
+    "radical_number": 140,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "いじ.める",
+      "さいな.む",
+      "いらだ.つ",
+      "からい",
+      "こまかい"
+    ],
+    "meanings": [
+      "torment",
+      "scold",
+      "chastise"
+    ],
+    "supplementary": true
   },
   {
     "character": "茄",
@@ -31121,6 +33356,34 @@
     ]
   },
   {
+    "character": "萎",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "艸",
+    "radical_number": 140,
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "な",
+      "しお.れる",
+      "しな.びる",
+      "しぼ.む",
+      "な.える"
+    ],
+    "meanings": [
+      "wither",
+      "droop",
+      "lame"
+    ],
+    "words": [
+      "萎びる"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "蓉",
     "level": "N1",
     "strokes": 13,
@@ -31139,6 +33402,32 @@
       "はす",
       "よ"
     ]
+  },
+  {
+    "character": "蔽",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": null,
+    "radical": "艸",
+    "radical_number": 140,
+    "onyomi": [
+      "ヘイ",
+      "ヘツ",
+      "フツ"
+    ],
+    "kunyomi": [
+      "おお.う",
+      "おお.い"
+    ],
+    "meanings": [
+      "cover",
+      "shade",
+      "mantle",
+      "capsize",
+      "be ruined"
+    ],
+    "supplementary": true
   },
   {
     "character": "蕗",
@@ -31271,6 +33560,58 @@
     ]
   },
   {
+    "character": "詣",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "言",
+    "radical_number": 149,
+    "onyomi": [
+      "ケイ",
+      "ゲイ"
+    ],
+    "kunyomi": [
+      "けい.する",
+      "まい.る",
+      "いた.る",
+      "もう.でる"
+    ],
+    "meanings": [
+      "visit a temple",
+      "arrive",
+      "attain"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "詮",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "言",
+    "radical_number": 149,
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "せん.ずる",
+      "かい",
+      "あき.らか"
+    ],
+    "meanings": [
+      "discussion",
+      "methods called for",
+      "selection",
+      "result"
+    ],
+    "nanori": [
+      "あき"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "誼",
     "level": "N1",
     "strokes": 15,
@@ -31339,6 +33680,26 @@
     ]
   },
   {
+    "character": "諧",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 8,
+    "freq": null,
+    "radical": "言",
+    "radical_number": 149,
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "かな.う",
+      "やわ.らぐ"
+    ],
+    "meanings": [
+      "harmony"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "謁",
     "level": "N1",
     "strokes": 15,
@@ -31354,6 +33715,71 @@
       "audience",
       "audience (with king)"
     ]
+  },
+  {
+    "character": "貌",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 8,
+    "freq": null,
+    "radical": "豸",
+    "radical_number": 153,
+    "onyomi": [
+      "ボウ",
+      "バク"
+    ],
+    "kunyomi": [
+      "かたち",
+      "かたどる"
+    ],
+    "meanings": [
+      "form",
+      "appearance",
+      "countenance"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "貪",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 8,
+    "freq": null,
+    "radical": "貝",
+    "radical_number": 154,
+    "onyomi": [
+      "タン",
+      "ドン",
+      "トン"
+    ],
+    "kunyomi": [
+      "むさぼ.る"
+    ],
+    "meanings": [
+      "covet",
+      "indulge in"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "賂",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "貝",
+    "radical_number": 154,
+    "onyomi": [
+      "ロ"
+    ],
+    "kunyomi": [
+      "まいな.い",
+      "まいな.う"
+    ],
+    "meanings": [
+      "bribe"
+    ],
+    "supplementary": true
   },
   {
     "character": "賦",
@@ -31382,6 +33808,51 @@
     "words": [
       "月賦"
     ]
+  },
+  {
+    "character": "踪",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": null,
+    "radical": "足",
+    "radical_number": 157,
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あと"
+    ],
+    "meanings": [
+      "remains",
+      "clue",
+      "footprint"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "辣",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 8,
+    "freq": null,
+    "radical": "辛",
+    "radical_number": 160,
+    "onyomi": [
+      "ラツ"
+    ],
+    "kunyomi": [
+      "から.い"
+    ],
+    "meanings": [
+      "pungent",
+      "spicy",
+      "harsh",
+      "cruel",
+      "severe"
+    ],
+    "supplementary": true
   },
   {
     "character": "迪",
@@ -31430,6 +33901,48 @@
       "obey",
       "learn"
     ]
+  },
+  {
+    "character": "酎",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 8,
+    "freq": null,
+    "radical": "酉",
+    "radical_number": 164,
+    "onyomi": [
+      "チュウ",
+      "チュ"
+    ],
+    "kunyomi": [
+      "かも.す"
+    ],
+    "meanings": [
+      "sake"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "醒",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 8,
+    "freq": null,
+    "radical": "酉",
+    "radical_number": 164,
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "さ.ます",
+      "さ.める"
+    ],
+    "meanings": [
+      "awake",
+      "be disillusioned",
+      "sober up"
+    ],
+    "supplementary": true
   },
   {
     "character": "采",
@@ -31494,6 +34007,26 @@
     ]
   },
   {
+    "character": "錮",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 8,
+    "freq": null,
+    "radical": "金",
+    "radical_number": 167,
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "ふさ.ぐ"
+    ],
+    "meanings": [
+      "confinement",
+      "to tie"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "鞠",
     "level": "N1",
     "strokes": 17,
@@ -31545,6 +34078,82 @@
     ]
   },
   {
+    "character": "頓",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "radical": "頁",
+    "radical_number": 181,
+    "onyomi": [
+      "トン",
+      "トツ"
+    ],
+    "kunyomi": [
+      "にわか.に",
+      "とん.と",
+      "つまず.く",
+      "とみ.に",
+      "ぬかずく"
+    ],
+    "meanings": [
+      "suddenly",
+      "immediately",
+      "in a hurry",
+      "arrange",
+      "stay in place",
+      "bow",
+      "kowtow"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "頰",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 8,
+    "freq": null,
+    "radical": "頁",
+    "radical_number": 181,
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "ほお",
+      "ほほ"
+    ],
+    "meanings": [
+      "cheeks",
+      "jaw"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "顎",
+    "level": "N1",
+    "strokes": 18,
+    "grade": 8,
+    "freq": null,
+    "radical": "頁",
+    "radical_number": 181,
+    "onyomi": [
+      "ガク"
+    ],
+    "kunyomi": [
+      "あご",
+      "あぎと"
+    ],
+    "meanings": [
+      "jaw",
+      "chin",
+      "gill"
+    ],
+    "words": [
+      "顎"
+    ],
+    "supplementary": true
+  },
+  {
     "character": "颯",
     "level": "N1",
     "strokes": 14,
@@ -31564,6 +34173,56 @@
       "quick",
       "sound of the wind"
     ]
+  },
+  {
+    "character": "骸",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 8,
+    "freq": null,
+    "radical": "骨",
+    "radical_number": 188,
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "kunyomi": [
+      "むくろ"
+    ],
+    "meanings": [
+      "bone",
+      "body",
+      "corpse"
+    ],
+    "supplementary": true
+  },
+  {
+    "character": "鬱",
+    "level": "N1",
+    "strokes": 29,
+    "grade": 8,
+    "freq": null,
+    "radical": "鬯",
+    "radical_number": 192,
+    "onyomi": [
+      "ウツ"
+    ],
+    "kunyomi": [
+      "うっ.する",
+      "ふさ.ぐ",
+      "しげ.る"
+    ],
+    "meanings": [
+      "gloom",
+      "depression",
+      "melancholy",
+      "luxuriant"
+    ],
+    "words": [
+      "憂鬱",
+      "鬱陶しい"
+    ],
+    "supplementary": true
   },
   {
     "character": "麟",
@@ -31605,5 +34264,27 @@
     "nanori": [
       "ま"
     ]
+  },
+  {
+    "character": "𠮟",
+    "level": "N1",
+    "strokes": 5,
+    "grade": 8,
+    "freq": null,
+    "radical": "口",
+    "radical_number": 30,
+    "onyomi": [
+      "シツ",
+      "シチ",
+      "カ"
+    ],
+    "kunyomi": [
+      "しか.る"
+    ],
+    "meanings": [
+      "scold",
+      "reprove"
+    ],
+    "supplementary": true
   }
 ]

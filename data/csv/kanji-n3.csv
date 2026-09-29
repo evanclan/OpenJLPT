@@ -1,368 +1,386 @@
-character,level,strokes,grade,freq,radical,radical_number,onyomi,kunyomi,nanori,meanings,words
-政,N3,9,5,17,攴,66,セイ; ショウ,まつりごと; まん,ただ; まさ,politics; government,政治; 政府; 政党; 行政; 財政; 政権; 政策
-議,N3,20,4,25,言,149,ギ,,かた; のり,deliberation; consultation; debate; consideration,会議; 会議室; 議員; 議会; 議長; 議論; 不思議; 異議
-民,N3,5,4,28,氏,83,ミン,たみ,ひと; み,people; nation; subjects,市民; 国民; 住民; 農民; 民間; 民謡; 移民; 庶民
-連,N3,10,4,30,辵,162,レン,つら.なる; つら.ねる; つ.れる; -づ.れ,ずれ; つれ; むらじ; れ,take along; lead; join; connect; party; gang; clique,連絡; 連れる; 関連; 連れ; 連想; 連続; 連合; 一連
-対,N3,7,3,34,寸,41,タイ; ツイ,あいて; こた.える; そろ.い; つれあ.い; なら.ぶ; むか.う,つし,vis-a-vis; opposite; even; equal; versus; anti-; compare,反対; 対; 絶対; 対象; 対する; 応対; 対策; 対照
-部,N3,11,3,36,邑,163,ブ,-べ,とり; ふ; ぺ; ま,section; bureau; dept; class; copy; part; portion; counter for copies of a newspaper or magazine,全部; 部屋; 部長; 部分; 大部分; 外部; 学部; 部首
-合,N3,6,2,41,口,30,ゴウ; ガッ; カッ,あ.う; -あ.う; あ.い; あい-; -あ.い; -あい; あ.わす; あ.わせる; -あ.わせる,あう; あん; い; か; こう; ごお; に; ね; や; わい,fit; suit; join; 0.1,合う; 具合; 試合; 都合; 場合; 割合; 間に合う; 合図
-市,N3,5,2,42,巾,50,シ,いち,い; ち,market; city; town,市; 市民; 市場; 都市; 市街
-内,N3,4,2,44,冂,13,ナイ; ダイ,うち,いと; ただ; ち; のち,inside; within; between; among; house; home,案内; 以内; 家内; 内容; 内科; 内線; 内訳; 内閣
-相,N3,9,3,45,目,109,ソウ; ショウ,あい-,あ; い; おう; さ; さが; すけ,inter-; mutual; together; each other; minister of state; councillor; aspect; phase; physiognomy,相談; 相手; 首相; 相続; 相当; 相撲; 相違; 相互
-定,N3,8,3,48,宀,40,テイ; ジョウ,さだ.める; さだ.まる; さだ.か,さた,determine; fix; establish; decide,予定; 安定; 勘定; 決定; 定期; 否定; 一定; 仮定
-回,N3,6,2,50,囗,31,カイ; エ,まわ.る; -まわ.る; -まわ.り; まわ.す; -まわ.す; まわ.し-; -まわ.し; もとお.る; か.える,,-times; round; game; revolve; counter for occurrences,回る; 回; 回復; 今回; 回す; 回り; 回数; 回転
-選,N3,15,4,57,辵,162,セン,えら.ぶ; え.る; よ.る,,elect; select; choose; prefer,選ぶ; 選手; 選択; 選挙; 選考; 抽選; 当選
-米,N3,6,2,61,米,119,ベイ; マイ; メエトル,こめ; よね,は; べ; まべ; め; よ; よな; よの; よま,rice; USA; metre,米; 欧米; 南米
-実,N3,8,3,68,宀,40,ジツ; シツ,み; みの.る; まこと; みの; みち.る,ぐみ; さね,reality; truth; seed; fruit; nut,実; 確実; 現実; 事実; 実験; 実現; 実行; 実際
-関,N3,14,4,70,門,169,カン,せき; -ぜき; かか.わる; からくり; かんぬき,,connection; barrier; gateway; involve; concerning,玄関; 関係; 関心; 関連; 機関; 関する; 関西; 関東
-決,N3,7,3,71,水,85,ケツ,き.める; -ぎ.め; き.まる; さ.く,,decide; fix; agree upon; appoint,決る; 決める; 決して; 解決; 決心; 決定; 決まり; 可決
-全,N3,6,3,75,入,11,ゼン,まった.く; すべ.て,たけ; まさ,whole; entire; all; complete; fulfill,全部; 安全; 全; 完全; 全て; 全員; 全国; 全体
-表,N3,8,3,77,衣,145,ヒョウ,おもて; -おもて; あらわ.す; あらわ.れる; あら.わす,,surface; table; chart; diagram,表; 表す; 代表; 発表; 表現; 表情; 表面; 公表
-戦,N3,13,4,78,戈,62,セン,いくさ; たたか.う; おのの.く; そよ.ぐ; わなな.く,せ,war; battle; match,戦争; 大戦; 戦い; 戦う; 戦; 休戦; 作戦; 戦災
-経,N3,11,5,79,糸,120,ケイ; キョウ; キン,へ.る; た.つ; たていと; はか.る; のり,つね; のぶ,sutra; longitude; pass thru; expire; warp,経験; 経済; 経営; 経由; 神経; 経つ; 経度; 経緯
-最,N3,12,4,82,曰,73,サイ; シュ,もっと.も; つま,も,utmost; most; extreme,最近; 最後; 最初; 最高; 最終; 最中; 最低; 最善
-現,N3,11,5,85,玉,96,ゲン,あらわ.れる; あらわ.す; うつつ; うつ.つ,あきら; きら,present; existing; actual,現す; 現れ; 現金; 現在; 現実; 現象; 現状; 現代
-調,N3,15,3,87,言,149,チョウ,しら.べる; しら.べ; ととの.う; ととの.える,ぎ; つぎ,tune; tone; meter; key (music); writing style; prepare; exorcise; investigate; harmonize; mediate,調べる; 強調; 順調; 調査; 調子; 調整; 調節; 調味料
-化,N3,4,3,89,匕,21,カ; ケ,ば.ける; ば.かす; ふ.ける; け.する,,change; take the form of; influence; enchant; delude; -ization,文化; 化学; 化粧; 変化; 強化; 消化; 悪化; 化合
-当,N3,6,2,91,彐,58,トウ,あ.たる; あ.たり; あ.てる; あ.て; まさ.に; まさ.にべし,たい,hit; right; appropriate; himself,お弁当; 適当; 見当; 相当; 担当; 当時; 弁当; 本当
-約,N3,9,4,94,糸,120,ヤク,つづ.まる; つづ.める; つづま.やか,,promise; approximately; shrink,約束; 予約; 約; 契約; 婚約; 節約; 規約; 倹約
-首,N3,9,2,98,首,185,シュ,くび,おびと; こべ; す,neck; counter for songs and poems,首; 首相; 首都; 手首; 部首; 首輪; 元首; 自首
-法,N3,8,4,100,水,85,ホウ; ハッ; ホッ; フラン,のり,ほ,method; law; rule; principle; model; system,文法; 法律; 法; 憲法; 作法; 方法; 寸法; 法則
-性,N3,8,5,104,心,61,セイ; ショウ,さが,,sex; gender; nature,女性; 男性; 性; 性格; 酸性; 性質; 性能; 性別
-要,N3,9,4,106,襾,146,ヨウ,い.る; かなめ,とし,need; main point; essence; pivot; key to,要る; 必要; 重要; 主要; 需要; 要求; 要素; 要点
-制,N3,8,5,108,刀,18,セイ,,,system; law; rule,制限; 制度; 制作; 専制; 体制; 制; 規制; 強制
-治,N3,8,4,109,水,85,ジ; チ,おさ.める; おさ.まる; なお.る; なお.す,し; ぢ; はり; はる; みち,reign; be at peace; calm down; subdue; quell; govt; cure; heal; rule; conserve,政治; 治る; 自治; 治す; 治める; 退治; 治安; 治療
-務,N3,11,5,111,力,19,ム,つと.める,つかさ; み,task; duties,公務員; 事務所; 義務; 事務; 務め; 公務; 務める; 業務
-成,N3,6,4,116,戈,62,セイ; ジョウ,な.る; な.す; -な.す,あき; あきら; しげ; そん; たえ; なお; なり; なる; のり; ひら; まさ; よし; り,turn into; become; get; grow; elapse; reach,完成; 構成; 賛成; 成功; 成人; 成績; 成長; 作成
-期,N3,12,3,117,月,74,キ; ゴ,,,period; time; date; term,延期; 学期; 期間; 期待; 時期; 長期; 定期; 予期
-取,N3,8,3,122,又,29,シュ,と.る; と.り; と.り-; とり; -ど.り,どる,take; fetch; take up,取る; 取り替える; 取れる; 受け取る; 取り上げる; 受取; 書取; 取り消す
-都,N3,11,3,123,邑,163,ト; ツ,みやこ,くに; ず; ち; づめ; みや,metropolis; capital; all; everything,都; 都合; 首都; 都会; 都市; 都心
-和,N3,8,3,124,口,30,ワ; オ; カ,やわ.らぐ; やわ.らげる; なご.む; なご.やか; あ.える,あい; いず; かず; かつ; かつり; かづ; たけ; ち; とも; な; にぎ; まさ; やす; よし; より; わだこ; わっ,harmony; Japanese style; peace; soften; Japan,平和; 英和; 漢和; 和英; 和服; 和; 温和; 緩和
-機,N3,16,4,127,木,75,キ,はた,,loom; mechanism; machine; airplane; opportunity; potency; efficacy; occasion,飛行機; 機会; 機械; 機関; 機嫌; 機能; ジェット機; 機関車
-平,N3,5,3,128,干,51,ヘイ; ビョウ; ヒョウ,たい.ら; たい.らげる; ひら,たいら; たら; はち; ひ; ひとし; へ; へん,even; flat; peace,公平; 平ら; 平等; 不平; 平均; 平和; 地平線; 水平
-加,N3,5,4,130,力,19,カ,くわ.える; くわ.わる,,add; addition; increase; join; include; Canada,加減; 参加; 増加; 加える; 加わる; 加速; 加熱; 追加
-受,N3,8,3,136,又,29,ジュ,う.ける; -う.け; う.かる,じょ,accept; undergo; answer (phone); take; get; catch; receive,受付; 受ける; 受け取る; 受取; 受験; 受話器; 引受る; 受け持つ
-続,N3,13,4,141,糸,120,ゾク; ショク; コウ; キョウ,つづ.く; つづ.ける; つぐ.ない,つぐ,continue; series; sequel,続く; 続ける; 相続; 続き; 連続; 継続; 接続; 続々
-進,N3,11,3,142,辵,162,シン,すす.む; すす.める,のぶ,advance; proceed; progress; promote,進む; 進学; 進歩; 前進; 進める; 行進; 昇進; 進化
-数,N3,13,2,148,攴,66,スウ; ス; サク; ソク; シュ,かず; かぞ.える; しばしば; せ.める; わずらわ.しい,じゅ,number; strength; fate; law; figures,数学; 数; 数字; 数える; 回数; 偶数; 算数; 小数
-記,N3,10,2,149,言,149,キ,しる.す,のり,scribe; account; narrative,日記; 暗記; 記憶; 記事; 記者; 記入; 記念; 記録
-初,N3,7,4,152,刀,18,ショ,はじ.め; はじ.めて; はつ; はつ-; うい-; -そ.める; -ぞ.め,し; はっ,first time; beginning,初め; 初めて; 最初; 初級; 初旬; 初めに; 初; 初版
-指,N3,9,3,155,手,64,シ,ゆび; さ.す; -さ.し,い; いぶ; さし; さす,finger; point to; indicate; put into; play (chess); measure (ruler),指; 指輪; 指す; 指導; 親指; 薬指; 小指; 指定
-権,N3,15,6,156,木,75,ケン; ゴン,おもり; かり; はか.る,,authority; power; rights,権利; 権; 棄権; 権威; 権限; 権力; 主権; 政権
-支,N3,4,5,159,支,65,シ,ささ.える; つか.える; か.う,,branch; support; sustain; branch radical (no. 65),支度; 支給; 支出; 支店; 支配; 支払; 支える; 支払う
-産,N3,11,4,161,生,100,サン,う.む; う.まれる; うぶ-; む.す,もと,products; bear; give birth; yield; childbirth; native; property,産業; 生産; お土産; 財産; 破産; 土産; 原産; 産地
-点,N3,9,2,165,火,86,テン,つ.ける; つ.く; た.てる; さ.す; とぼ.す; とも.す; ぼち,,spot; point; mark; speck; decimal point,交差点; 点; 欠点; 要点; 採点; 弱点; 終点; 重点
-報,N3,12,5,167,土,32,ホウ,むく.いる,,report; news; reward; retribution,電報; 天気予報; 情報; 報告; 予報; 報酬; 報道; 報じる
-済,N3,11,6,168,水,85,サイ; セイ,す.む; -ず.み; -ずみ; す.まない; す.ます; -す.ます; すく.う; な.す; わたし; わた.る,すむ; なり; わたる,"settle (debt, etc.); relieve (burden); finish; come to an end; excusable; need not",経済; 済む; 済ませる; 救済; 返済; 済ます
-活,N3,9,2,171,水,85,カツ,い.きる; い.かす; い.ける,,lively; resuscitation; being helped; living,生活; 活気; 活動; 活用; 活字; 活躍; 活力; 活発
-原,N3,10,2,172,厂,27,ゲン,はら,た; ばる; ら; わた; わら,meadow; original; primitive; field; plain; prairie; tundra; wilderness,原因; 原; 原稿; 原産; 原始; 原理; 原料; 原形
-共,N3,6,4,174,八,12,キョウ,とも; とも.に; -ども,,together; both; neither; all; and; alike; with,共通; 共同; 共に; 公共; 共; 共学; 共感; 共産
-得,N3,11,5,175,彳,60,トク,え.る; う.る,あつ; てろ,gain; get; find; earn; acquire; can; may; able to; profit; advantage; benefit,得る; 得意; 納得; 損得; 心得る; 獲得; 心得; 所得
-解,N3,13,5,176,角,148,カイ; ゲ,と.く; と.かす; と.ける; ほど.く; ほぐ.す; わか.る; さと.る,さとる; とけ,unravel; notes; key; explanation; understanding; untie; undo; solve; answer; cancel; absolve; explain; minute,解決; 解釈; 見解; 誤解; 解く; 理解; 解ける; 解散
-交,N3,6,2,178,亠,8,コウ,まじ.わる; まじ.える; ま.じる; まじ.る; ま.ざる; ま.ぜる; -か.う; か.わす; かわ.す; こもごも,かた,mingle; mixing; association; coming & going,交番; 交差点; 交通; 外交; 交換; 交際; 交差; 交替
-資,N3,13,5,179,貝,154,シ,,すけ; もと,assets; resources; capital; funds; data; be conducive to; contribute to,資源; 資本; 資料; 資格; 資金; 資産; 投資; 物資
-予,N3,4,3,180,亅,6,ヨ; シャ,あらかじ.め,,beforehand; previous; myself; I,予習; 予定; 予約; 天気予報; 予期; 予算; 予測; 予報
-向,N3,6,3,182,口,30,コウ,む.く; む.い; -む.き; む.ける; -む.け; む.かう; む.かい; む.こう; む.こう-; むこ; むか.い,こお; た; な; むか; むかい; むこう,yonder; facing; beyond; confront; defy; tend toward; approach,向こう; 向かう; 傾向; 方向; 向く; 向かい; 向ける; 意向
-際,N3,14,5,183,阜,170,サイ,きわ; -ぎわ,わ,occasion; side; edge; verge; dangerous; adventurous; indecent; time; when,国際; 際; 交際; 実際; 手際
-勝,N3,12,3,185,力,19,ショウ,か.つ; -が.ち; まさ.る; すぐ.れる; かつ,かち; と; よし,victory; win; prevail; excel,勝つ; 勝ち; 優勝; 勝敗; 勝負; 決勝; 勝利; 勝る
-面,N3,9,3,186,面,176,メン; ベン,おも; おもて; つら,お; ずら; ほおつき; も,mask; face; features; surface,面; 場面; 表面; 面倒; 正面; 方面; 面積; 面接
-告,N3,7,5,188,口,30,コク,つ.げる,い,revelation; tell; inform; announce,警告; 広告; 報告; 勧告; 告白; 申告; 忠告; 布告
-反,N3,4,3,191,又,29,ハン; ホン; タン; ホ,そ.る; そ.らす; かえ.す; かえ.る; -かえ.る,そり; た,anti-,反対; 違反; 反抗; 反る; 反映; 反省; 反; 反り
-判,N3,7,5,197,刀,18,ハン; バン,わか.る,,judgement; judgment; signature; stamp; seal,裁判; 審判; 判断; 批判; 評判; 判子; 判事; 判
-認,N3,14,6,198,言,149,ニン,みと.める; したた.める,,acknowledge; witness; discern; recognize; appreciate; believe,確認; 承認; 認める; 公認; 認識
-参,N3,8,4,201,厶,28,サン; シン,まい.る; まい-; まじわる; みつ,み,nonplussed; three (in documents); going; coming; visiting; visit; be defeated; die; be madly in love; participate; take part in,参る; 参加; 参考; 持参; お参り; 参照; 参上; 参議院
-利,N3,7,4,203,刀,18,リ,き.く,かが; と; とし; のり; み; りい,profit; advantage; benefit,便利; 利用; 権利; 不利; 有利; 利益; 利口; 利害
-組,N3,11,2,204,糸,120,ソ,く.む; くみ; -ぐみ,,association; braid; plait; construct; assemble; unite; cooperate; grapple,番組; 組; 組合; 組む; 組織; 組合せ; 組み立てる; 仕組み
-信,N3,9,4,208,人,9,シン,,し; しが; しな; しの; しぶ; とき; のび; のぶ; まこと,faith; truth; fidelity; trust,信仰; 信号; 信用; 信頼; 通信; 信じる; 迷信; 信ずる
-在,N3,6,5,211,土,32,ザイ,あ.る,あり,exist; outskirts; suburbs; located in,現在; 存在; 滞在; 在学; 健在; 在庫; 自在; 所在
-件,N3,6,5,212,人,9,ケン,くだん,,affair; case; matter; item,事件; 条件; 件; 用件
-側,N3,11,4,216,人,9,ソク,かわ; がわ; そば,,side; lean; oppose; regret,両側; 側; 縁側; 側面
-任,N3,6,5,217,人,9,ニン,まか.せる; まか.す,さ; とう; ひで,responsibility; duty; term; entrust to; appoint,責任; 任せる; 就任; 主任; 信任; 転任; 任務; 任命
-引,N3,4,2,218,弓,57,イン,ひ.く; ひ.ける,いな; ひき; ひけ; びき,pull; tug; jerk; admit; install; quote; refer to,字引; 引く; 引き出し; 引き出す; 引っ越す; 引退; 引用; 引っ張る
-求,N3,7,4,220,水,85,キュウ; グ,もと.める,,request; want; wish for; require; demand,請求; 要求; 求める
-所,N3,8,3,221,戶,63,ショ,ところ; -ところ; どころ; とこ,せ,place; extent,所; 台所; 近所; 住所; 場所; 事務所; 所為; 停留所
-次,N3,6,3,222,欠,76,ジ; シ,つ.ぐ; つぎ,き; すき; つぐ; よし,next; order; sequence,次; 次第; 次々; 次ぐ; 目次; 次いで; 取り次ぐ
-昨,N3,9,4,226,日,72,サク,,,yesterday; previous,昨日; 昨夜; 一昨日; 一昨年; 昨
-論,N3,15,6,227,言,149,ロン,あげつら.う,,argument; discourse,議論; 結論; 論争; 論文; 論じる; 概論; 評論; 論ずる
-官,N3,8,4,230,宀,40,カン,,,bureaucrat; the government; organ,警官; 官庁; 官僚; 器官; 長官
-増,N3,14,5,231,土,32,ゾウ,ま.す; ま.し; ふ.える; ふ.やす,まし; ます,increase; add; augment; gain; promote,増える; 増加; 増す; 激増; 増減; 増大; 増やす; 増強
-係,N3,9,3,232,人,9,ケイ,かか.る; かかり; -がかり; かか.わる,,person in charge; connection; duty; concern oneself,関係; 係; 係わる
-感,N3,13,3,233,心,61,カン,,,emotion; feeling; sensation,感覚; 感じ; 感謝; 感情; 感心; 感動; 感じる; 感激
-情,N3,11,5,235,心,61,ジョウ; セイ,なさ.け,,feelings; emotion; passion; sympathy; circumstances; facts,愛情; 感情; 事情; 情報; 表情; 友情; 苦情; 純情
-投,N3,7,3,236,手,64,トウ,な.げる; -な.げ,,throw; discard; abandon; launch into; join; invest in; hurl; give up; sell at a loss,投げる; 投票; 投書; 投資; 投入; 投げ出す
-示,N3,5,5,237,示,113,ジ; シ,しめ.す,,show; indicate; point out; express; display,掲示; 示す; 暗示; 指示; 提示; 展示
-変,N3,9,4,238,夂,34,ヘン,か.わる; か.わり; か.える,,unusual; change; strange,変; 変える; 変わる; 変化; 変更; 一変; 変革; 変遷
-打,N3,5,3,239,手,64,ダ; ダース,う.つ; う.ち-; ぶ.つ,うち,strike; hit; knock; pound; dozen,打つ; 打合せ; 打ち消す; 打開; 打撃; 値打ち; 打ち切る; 打ち消し
-直,N3,8,2,246,目,109,チョク; ジキ; ジカ,ただ.ちに; なお.す; -なお.す; なお.る; なお.き; す.ぐ,すぐ; なお; のう; のお,straightaway; honesty; frankness; fix; repair,直す; 直る; 直; 直に; 正直; 直接; 直ちに; 垂直
-両,N3,6,3,247,一,1,リョウ,てる; ふたつ,もろ,"both; old Japanese coin; counter for carriages (e.g., in a train); two",両親; 両方; 両替; 両側; 両極; 両立
-式,N3,6,3,251,弋,56,シキ,,のり,style; ceremony; rite; function; method; system; form; expression,式; 正式; 儀式; 形式; 公式; 葬式; 方程式; 株式
-確,N3,15,5,252,石,112,カク; コウ,たし.か; たし.かめる,,assurance; firm; tight; hard; solid; confirm; clear; evident,確か; 確実; 確認; 正確; 明確; 確かめる; 確率; 的確
-果,N3,8,4,258,木,75,カ,は.たす; はた.す; -は.たす; は.てる; -は.てる; は.て,み,fruit; reward; carry out; achieve; complete; end; finish; succeed,果物; 結果; 効果; 果実; 果して; 成果; 果て; 果ない
-容,N3,10,5,264,宀,40,ヨウ,い.れる,かた; ひろ; まさ,contain; form; looks,内容; 容易; 美容; 容器; 容積; 形容詞; 形容動詞; 寛容
-必,N3,5,4,265,心,61,ヒツ,かなら.ず,,invariably; certain; inevitable,必ず; 必要; 必死; 必ずしも; 必需品; 必修; 必然
-演,N3,14,5,267,水,85,エン,,,performance; act; play; render; stage,演技; 演説; 演奏; 講演; 演劇; 演習; 演出; 公演
-歳,N3,13,8,269,止,77,サイ; セイ,とし; とせ; よわい,,year-end; age; occasion; opportunity,二十歳; 万歳; 歳
-争,N3,6,4,271,亅,6,ソウ,あらそ.う; いか.でか,,contend; dispute; argue,競争; 戦争; 論争; 争う; 争い; 抗争; 紛争
-談,N3,15,3,272,言,149,ダン,,,discuss; talk,相談; 冗談; 縁談; 会談; 雑談; 対談; 座談会
-能,N3,10,5,273,肉,130,ノウ,よ.く; あた.う,たか; の; のり; よし,ability; talent; skill; capacity,能; 可能; 機能; 才能; 知能; 能力; 有能; 芸能
-位,N3,7,4,276,人,9,イ,くらい; ぐらい,ぞき,rank; grade; throne; crown; about; some,位; 位置; 単位; 地位; 位地; 下位; 上位; 優位
-置,N3,13,4,277,网,122,チ,お.く; -お.き,おき; おけ; き,placement; put; set; deposit; leave behind; keep; employ; pawn,置く; 位置; 装置; 物置; 処置; 設置; 措置; 配置
-流,N3,10,3,280,水,85,リュウ; ル,なが.れる; なが.れ; なが.す; -なが.す,な; ながれ; めぐる,current; a sink; flow; forfeit,流す; 流れ; 流行; 流れる; 一流; 交流; 合流; 流石
-格,N3,10,5,281,木,75,カク; コウ; キャク; ゴウ,,いたる; のり,"status; rank; capacity; character; case (law, grammar)",価格; 合格; 性格; 格別; 同格; 格; 格差; 規格
-疑,N3,14,6,283,疋,103,ギ,うたが.う,,doubt; distrust; be suspicious; question,疑う; 疑問; 疑惑; 質疑
-過,N3,12,5,285,辵,162,カ,す.ぎる; す.ごす; あやま.ち; あやま.つ; よぎ.る; よ.ぎる,,overdo; exceed; go beyond; error,過ぎる; 過去; 通過; 過ごす; 通り過ぎる; 過失; 過剰; 過程
-局,N3,7,3,286,尸,44,キョク,つぼね,,bureau; board; office; affair; conclusion; court lady; lady-in-waiting; her apartment,郵便局; 局; 結局; 薬局; 局限
-放,N3,8,3,288,攴,66,ホウ,はな.す; -っぱな.し; はな.つ; はな.れる; こ.く; ほう.る,はなれ,set free; release; fire; shoot; emit; banish; liberate,放送; 放す; 解放; 開放; 放る; 放れる; 追放; 放棄
-常,N3,11,5,293,巾,50,ジョウ,つね; とこ-,とき; のぶ; ひ; ひた,usual; ordinary; normal; common; regular; continually; always; long-lasting,非常に; 異常; 常識; 常に; 日常; 非常; 正常; 通常
-状,N3,7,5,298,犬,94,ジョウ,,,status quo; conditions; circumstances; form; appearance,現状; 状況; 症状; 状態; 状; 白状
-球,N3,11,3,302,玉,96,キュウ,たま,く,ball; sphere,球; 地球; 電球; 眼球; 球根
-職,N3,18,5,305,耳,128,ショク; ソク,,もと,post; employment; work,職; 就職; 職業; 職人; 教職; 辞職; 職員; 職務
-与,N3,3,8,308,一,1,ヨ,あた.える; あずか.る; くみ.する; ともに,とも; ゆ,bestow; participate in; give; award; impart; provide; cause; gift; godsend,与える; 給与; 関与; 寄与; 与党
-供,N3,8,6,313,人,9,キョウ; ク; クウ; グ,そな.える; とも; -ども,,submit; offer; present; serve (meal); accompany,子供; 供給; 供; お供; 提供
-役,N3,7,3,315,彳,60,ヤク; エキ,,ちゃく,duty; war; campaign; drafted labor; office; service; role,役に立つ; 役; 役割; 重役; 主役; 役者; 役所; 役人
-構,N3,14,5,316,木,75,コウ,かま.える; かま.う,とち,posture; stance; appearance; build; set up,結構; 構成; 構造; 構え; 機構; 構想; 構える
-割,N3,12,6,318,刀,18,カツ,わ.る; わり; わ.り; わ.れる; さ.く,,proportion; comparatively; divide; cut; separate; split,割合; 割れる; 役割; 割る; 割算; 割と; 割引; 時間割
-費,N3,12,5,321,貝,154,ヒ,つい.やす; つい.える,,expense; cost; spend; consume; waste,消費; 費用; 費; 経費; 実費; 出費; 浪費; 光熱費
-付,N3,5,4,322,人,9,フ,つ.ける; -つ.ける; -づ.ける; つ.け; つ.け-; -つ.け; -づ.け; -づけ; つ.く; -づ.く; つ.き; -つ.き; -つき; -づ.き; -づき,つけ,adhere; attach; refer to; append,受付; 付く; 片付ける; 寄付; 日付; 気付く; 付ける; 追い付く
-由,N3,5,3,325,田,102,ユ; ユウ; ユイ,よし; よ.る,,wherefore; a reason,自由; 理由; 経由; 不自由
-説,N3,14,4,326,言,149,セツ; ゼイ,と.く,さとし; とき,opinion; theory; explanation; rumor,小説; 説明; 説; 演説; 解説; 社説; 概説; 学説
-難,N3,18,6,330,隹,172,ナン,かた.い; -がた.い; むずか.しい; むづか.しい; むつか.しい; -にく.い,な; なに,difficult; impossible; trouble; accident; defect,難しい; 困難; 災難; 盗難; 有難い; 難; 難い; 遭難
-優,N3,17,6,334,人,9,ユウ; ウ,やさ.しい; すぐ.れる; まさ.る,ゆ; よし,tenderness; excel; surpass; actor; superiority; gentleness,優しい; 女優; 俳優; 優秀; 優勝; 優れる; 優; 優位
-夫,N3,4,4,335,大,37,フ; フウ; ブ,おっと; それ,お; と; ゆう; よ,husband; man,丈夫; 大丈夫; 夫; 夫婦; 夫人; 工夫; 夫妻
-収,N3,4,6,337,又,29,シュウ,おさ.める; おさ.まる,のぶ,income; obtain; reap; pay; supply; store,吸収; 収穫; 収入; 収める; 領収; 回収; 収益; 収支
-断,N3,11,5,338,斤,69,ダン,た.つ; ことわ.る; さだ.める,,severance; decline; refuse; apologize; warn; dismiss; prohibit; decision; judgement; cutting,横断; 断る; 判断; 診断; 断水; 断定; 油断; 決断
-石,N3,5,1,342,石,112,セキ; シャク; コク,いし,いさ; いす; いわ; し; せっく; と,stone,石; 石炭; 石油; 宝石; 流石; 磁石; 石鹸; 化石
-違,N3,13,8,344,辵,162,イ,ちが.う; ちが.い; ちが.える; -ちが.える; たが.う; たが.える,,difference; differ,違う; 間違える; 違反; 違い; 間違い; 違いない; 相違; 勘違い
-消,N3,10,3,345,水,85,ショウ,き.える; け.す,,extinguish; blow out; turn off; neutralize; cancel,消す; 消える; 消しゴム; 消費; 消防; 消化; 消毒; 消耗
-神,N3,9,3,347,示,113,シン; ジン,かみ; かん-; こう-,か; かぐ; かな; かも; くま; こ; こは; だま; み,gods; mind; soul,神社; 神; 神経; 精神; 神様; 神話; 神聖; 神殿
-番,N3,12,2,348,田,102,バン,つが.い,は; ま,turn; number in a series,交番; 番号; 番組; 番; 順番; 当番; 番地; 留守番
-規,N3,11,5,349,見,147,キ,,すのり; ただし; のり; み,standard; measure,規則; 規準; 規律; 定規; 不規則; 規格; 規制; 規定
-術,N3,11,5,350,行,144,ジュツ,すべ,,art; technique; skill; means; trick; resources; magic,技術; 美術館; 芸術; 手術; 学術; 戦術; 美術
-備,N3,12,5,356,人,9,ビ,そな.える; そな.わる; つぶさ.に,びっ; びん,equip; provision; preparation,準備; 設備; 備える; 警備; 整備; 予備; 軍備; 守備
-宅,N3,6,6,357,宀,40,タク,,け; たか; たけ; や; やけ,home; house; residence; our house; my husband,お宅; 宅; 帰宅; 住宅; 社宅; 邸宅
-害,N3,10,4,358,宀,40,ガイ,,,harm; injury,害; 障害; 損害; 被害; 公害; 利害; 危害; 災害
-配,N3,10,3,359,酉,164,ハイ,くば.る,,distribute; spouse; exile; rationing,心配; 支配; 配達; 配る; 気配; 手配; 配給; 配置
-警,N3,19,6,366,言,149,ケイ,いまし.める,,admonish; commandment,警官; 警察; 警告; 警備; 警戒; 警部
-育,N3,8,3,369,肉,130,イク,そだ.つ; そだ.ち; そだ.てる; はぐく.む,やす,bring up; grow up; raise; rear,教育; 育てる; 育つ; 体育; 育児; 育成; 飼育; 生育
-席,N3,10,4,370,巾,50,セキ,むしろ,,seat; mat; occasion; place,席; 出席; 欠席; 座席; 客席; 着席
-訪,N3,11,6,372,言,149,ホウ,おとず.れる; たず.ねる; と.う,わ,call on; visit; look up; offer sympathy,訪ねる; 訪問; 訪れる
-乗,N3,9,3,377,丿,4,ジョウ; ショウ,の.る; -の.り; の.せる,のり,ride; power; multiplication; record; counter for vehicles; board; mount; join,乗る; 乗り物; 乗り換える; 乗客; 乗せる; 乗車; 乗換; 乗っ取る
-残,N3,10,4,380,歹,78,ザン; サン,のこ.る; のこ.す; そこな.う; のこ.り,,remainder; leftover; balance,残念; 残る; 残す; 残り; 残らず; 残金; 残酷; 残高
-想,N3,13,3,381,心,61,ソウ; ソ,おも.う,,idea; thought; conception; think,思想; 想像; 理想; 連想; 感想; 空想; 発想; 愛想
-声,N3,7,2,388,士,33,セイ; ショウ,こえ; こわ-,,voice,声; 歓声; 声明
-念,N3,8,4,390,心,61,ネン,,,wish; sense; idea; thought; feeling; desire; attention,残念; 記念; 観念; 念; 概念; 無念
-助,N3,7,3,397,力,19,ジョ,たす.ける; たす.かる; す.ける; すけ,,help; rescue; assist,援助; 救助; 助手; 助ける; 助教授; 助かる; 助; 助言
-労,N3,7,4,398,力,19,ロウ,ろう.する; いたわ.る; いた.ずき; ねぎら; つか.れる; ねぎら.う,,labor; thank for; reward for; toil; trouble,苦労; 労働; 労る; 過労; 勤労; 疲労; 労力
-例,N3,8,4,399,人,9,レイ,たと.える,,example; custom; usage; precedent,例えば; 例; 実例; 例外; 例える; 慣例; 前例; 比例
-然,N3,12,4,401,火,86,ゼン; ネン,しか; しか.り; しか.し; さ,,sort of thing; so; if so; in that case; well,偶然; 自然; 天然; 突然; 自然科学; 依然; 公然; 然も
-限,N3,9,5,405,阜,170,ゲン,かぎ.る; かぎ.り; -かぎ.り,,limit; restrict; to best of ability,限る; 限界; 制限; 期限; 限度; 無限; 局限; 権限
-追,N3,9,3,411,辵,162,ツイ,お.う,おい,chase; drive away; follow; pursue; meanwhile,追う; 追い付く; 追加; 追い越す; 追い掛ける; 追及; 追跡; 追放
-商,N3,11,3,413,口,30,ショウ,あきな.う,あき,make a deal; selling; dealing in; merchant,商人; 商売; 商品; 商業; 商社; 商店; 商
-葉,N3,12,3,414,艸,140,ヨウ,は,よ; わ,leaf; plane; lobe; needle; blade; spear; counter for flat things; fragment; piece,言葉; 葉書; 葉; 紅葉; 言葉遣い; 落ち葉
-伝,N3,6,4,416,人,9,デン; テン,つた.わる; つた.える; つた.う; つだ.う; -づた.い; つて,つたえ,transmit; go along; walk along; follow; report; communicate; legend; tradition,伝える; 手伝う; 伝統; 手伝い; 宣伝; 伝記; 伝染; 伝わる
-働,N3,13,4,417,人,9,ドウ,はたら.く,,work; (kokuji),働く; 働き; 労働; 働; 共働き
-形,N3,7,2,418,彡,59,ケイ; ギョウ,かた; -がた; かたち; なり,ち,shape; form; style,形; 人形; 形式; 図形; 形容詞; 正方形; 長方形; 形容動詞
-景,N3,12,4,419,日,72,ケイ,,かげ,scenery; view,景色; 景気; 光景; 風景; 背景; 不景気
-落,N3,12,3,420,艸,140,ラク,お.ちる; お.ち; お.とす,おち,fall; drop; come down; village; hamlet,落る; 落す; 洒落; 落第; 落着く; 落し物; 墜落; 転落
-好,N3,6,4,423,女,38,コウ,この.む; す.く; よ.い; い.い,こ; たか; とし; よし,fond; pleasing; like something,好き; 大好き; 好み; 好む; 友好; 好き嫌い; 好き好き; 好意
-退,N3,9,6,424,辵,162,タイ,しりぞ.く; しりぞ.ける; ひ.く; の.く; の.ける; ど.く,,retreat; withdraw; retire; resign; repel; expel; reject,退院; 引退; 退屈; 退く; 退ける; 後退; 辞退; 退化
-頭,N3,16,2,433,頁,181,トウ; ズ; ト,あたま; かしら; -がしら; かぶり,かみ; がみ; ちゃん; つむり; づ,head; counter for large animals,頭; 頭痛; 頭脳; 先頭; 街頭; 口頭; 冒頭
-負,N3,9,3,443,貝,154,フ,ま.ける; ま.かす; お.う,,defeat; negative; -; minus; bear; owe; assume a responsibility,負ける; 負け; 勝負; 背負う; 負う; 負債; 負傷; 負担
-渡,N3,12,8,446,水,85,ト,わた.る; -わた.る; わた.す,お; たり; わたな; わたら; わたり,transit; ford; ferry; cross; import; deliver; diameter; migrate,渡す; 渡る; 橋渡し; 見渡す; 渡り鳥
-失,N3,5,4,447,大,37,シツ,うしな.う; う.せる,,lose; error; fault; disadvantage; loss,失敗; 失う; 失業; 失望; 過失; 失恋; 失格; 失調
-差,N3,10,4,449,工,48,サ,さ.す; さ.し,,distinction; difference; variation; discrepancy; margin; balance,差す; 交差点; 差し上げる; 差; 差別; 交差; 人差指; 物差し
-末,N3,5,4,456,木,75,マツ; バツ,すえ; うら; うれ,,end; close; tip; powder; posterity,末; 粗末; 月末; 末っ子; 期末; 始末; 粉末; 末期
-守,N3,6,3,457,宀,40,シュ; ス,まも.る; まも.り; もり; -もり; かみ,う; し; も; て,guard; protect; defend; obey,留守; 守る; 留守番; 守衛; 守備; 保守
-若,N3,8,6,458,艸,140,ジャク; ニャク; ニャ,わか.い; わか-; も.しくわ; も.し; も.しくは; ごと.し,わく; わこ,young; if; perhaps; possibly; low number; immature,若い; 若々しい; 若干; 若しくは; 若しかして
-種,N3,14,4,461,禾,115,シュ,たね; -ぐさ,おい; くさ; た; ほ,species; kind; class; variety; seed,種; 一種; 種類; 人種; 各種; 種々; 品種
-美,N3,9,3,462,羊,123,ビ; ミ,うつく.しい,はる; よし; よしみ; り,beauty; beautiful,美しい; 美術館; 美人; 美容; 美; 華美; 賛美; 美術
-命,N3,8,3,465,口,30,メイ; ミョウ,いのち,,fate; command; decree; destiny; life; appoint,一生懸命; 命; 生命; 命令; 命じる; 寿命; 人命; 命ずる
-福,N3,13,3,467,示,113,フク,,とし; とみ; ふ; ふき; ふっ; ぼく; よし,blessing; fortune; luck; wealth,幸福; 福; 福祉
-望,N3,11,4,470,月,74,ボウ; モウ,のぞ.む; もち,み; も,ambition; full moon; hope; desire; aspire to; expect,希望; 失望; 望み; 望む; 望遠鏡; 志望; 絶望; 待望
-非,N3,8,5,472,非,175,ヒ,あら.ず,,un-; mistake; negative; injustice; non-,非常に; 非常; 非; 非行; 非難
-観,N3,18,4,476,見,147,カン,み.る; しめ.す,,outlook; look; appearance; condition; view,観客; 観光; 観察; 観測; 観念; 観; 外観; 観衆
-察,N3,14,4,477,宀,40,サツ,,,guess; presume; surmise; judge; understand,警察; 観察; 診察; 視察; 察する
-段,N3,9,6,479,殳,79,ダン; タン,,,grade; steps; stairs,階段; 段; 手段; 普段; 段階; 一段と
-横,N3,15,3,480,木,75,オウ,よこ,,sideways; side; horizontal; width; woof; unreasonable; perverse,横; 横断; 横切る; 横綱
-深,N3,11,3,484,水,85,シン,ふか.い; -ぶか.い; ふか.まる; ふか.める; み-,,deep; heighten; intensify; strengthen,深い; 深刻; 深夜; 深まる; 深める; 欲深い; 情け深い
-申,N3,5,3,492,田,102,シン,もう.す; もう.し-; さる,,have the honor to; sign of the monkey; 3-5PM; ninth sign of Chinese zodiac,申す; 申し上げる; 申し訳; 申し込む; 申請; 申し訳ない; 申告; 申出
-様,N3,14,3,493,木,75,ヨウ; ショウ,さま; さん,,Esq.; way; manner; situation; polite suffix,様; 王様; 様々; 同様; 模様; 様子; 神様; 逆様
-財,N3,10,5,494,貝,154,ザイ; サイ; ゾク,たから,,property; money; wealth; assets,財布; 財産; 財; 財源; 財政; 文化財
-港,N3,12,3,495,水,85,コウ,みなと,,harbor,港; 空港
-識,N3,19,5,496,言,149,シキ,し.る; しる.す,さと; さとる,discriminating; know; write,意識; 常識; 知識; 標識; 認識; 良識
-呼,N3,8,6,498,口,30,コ,よ.ぶ,よぶ,call; call out to; invite,呼ぶ; 呼吸; 呼び出す; 呼び掛ける; 嗚呼; 呼び止める
-達,N3,12,4,500,辵,162,タツ; ダ,-たち,かつ; さと; て; てつ; とおる; みち,accomplished; reach; arrive; attain,友達; 上達; 配達; 発達; 達する; 速達; 達者; 達成
-良,N3,7,4,501,艮,138,リョウ,よ.い; -よ.い; い.い; -い.い,じ; なが; まこと; よし; ら; りょ; ろう,good; pleasing; skilled,仲良し; 改良; 善良; 不良; 良好; 良識; 良質; 良心
-候,N3,10,4,510,人,9,コウ,そうろう,,climate; season; weather; wait for; expect,気候; 候補; 天候
-程,N3,12,5,514,禾,115,テイ,ほど; -ほど,ほと,extent; degree; law; formula; distance; limits; amount,程度; 課程; 過程; 先程; 日程; 方程式; 左程; 中程
-満,N3,12,4,515,水,85,マン; バン,み.ちる; み.つ; み.たす,ま; みち; みつ; みつる,full; fullness; enough; satisfy,不満; 満足; 満ちる; 満員; 満点; 未満; 円満; 満月
-敗,N3,11,4,516,攴,66,ハイ,やぶ.れる,,failure; defeat; reversal,失敗; 勝敗; 一敗; 敗戦; 腐敗
-値,N3,10,6,518,人,9,チ,ね; あたい,じ,price; cost; value,価値; 値; 値する; 値打ち; 値引き
-突,N3,8,8,521,穴,116,トツ; カ,つ.く,,stab; protruding; thrust; pierce; prick; collision; sudden,衝突; 突然; 煙突; 突く; 突っ込む; 突き当たり; 突き当たる; 突如
-光,N3,6,2,527,儿,10,コウ,ひか.る; ひかり,あき; あきら; こお; てる; ひこ; み; みつ,ray; light,光; 光る; 観光; 光景; 日光; 光線; 蛍光灯; 稲光
-路,N3,13,3,529,足,157,ロ; ル,-じ; みち,,path; route; road; distance,道路; 針路; 線路; 通路; 海路; 回路; 経路; 進路
-科,N3,9,2,531,禾,115,カ,,しな,department; course; section,科学; 科目; 教科書; 学科; 外科; 内科; 理科; 自然科学
-積,N3,16,4,541,禾,115,セキ,つ.む; -づ.み; つ.もる; つ.もり,か; さか; しゃこ; ずみ; つみ,volume; product (x*y); acreage; contents; pile up; stack; load; amass,積極的; 積もる; 体積; 積む; 面積; 容積; 蓄積; 見積り
-他,N3,5,3,543,人,9,タ,ほか,,other; another; the others,他; 他人; 他意; 他方; 他動詞
-処,N3,5,6,547,几,16,ショ,ところ; -こ; お.る,,dispose; manage; deal with; sentence; condemn; act; behave; place,処理; 処置; 処罰; 処分; 対処; 其処ら
-太,N3,4,2,552,大,37,タイ; タ,ふと.い; ふと.る,おお; たか; ひろ,plump; thick; big around,太い; 太る; 太陽; 太鼓
-客,N3,9,3,557,宀,40,キャク; カク,,,guest; visitor; customer; client,客; 観客; 乗客; 客席; 客間; 客観; 旅客
-否,N3,7,6,561,口,30,ヒ,いな; いや,,negate; no; noes; refuse; decline; deny,否; 否定; 拒否; 否決
-師,N3,10,5,563,巾,50,シ,いくさ,のし; のり; もろ; かず; つかさ; みつ; もと,expert; teacher; master; model; exemplar; army (incl. counter); war,医師; 技師; 教師; 講師; 漁師; 牧師
-登,N3,12,3,566,癶,105,トウ; ト; ドウ; ショウ; チョウ,のぼ.る; あ.がる,たか; のぼし; のぼり; のり,ascend; climb up,登る; 登山; 登場; 登校; 登録
-易,N3,8,5,571,日,72,エキ; イ,やさ.しい; やす.い,,easy; ready to; simple; fortune-telling; divination,易しい; 貿易; 容易; 安易; 簡易; 交易; 辟易; 易い
-速,N3,10,3,576,辵,162,ソク,はや.い; はや-; はや.める; すみ.やか,わ,quick; fast,速い; 急速; 高速; 速度; 加速; 早速; 時速; 速達
-存,N3,6,6,577,子,39,ソン; ゾン,ながら.える; あ.る; たも.つ; と.う,あり; まさ,exist; suppose; be aware of; believe; feel,ご存じ; 存在; 保存; 生存; 存じる; 存ずる; 依存; 共存
-飛,N3,9,4,580,飛,183,ヒ,と.ぶ; と.ばす; -と.ばす,あす; とび,fly; skip (pages); scatter,飛ぶ; 飛行機; 飛行場; 飛行; 飛ばす; 飛び出す; 飛び込む; 蹴飛ばす
-殺,N3,10,5,581,殳,79,サツ; サイ; セツ,ころ.す; -ごろ.し; そ.ぐ; あや.める,,kill; murder; butcher; slice off; split; diminish; reduce; spoil,殺す; 自殺; 暗殺; 殺人
-号,N3,5,3,585,口,30,ゴウ,さけ.ぶ; よびな,,nickname; number; item; title; pseudonym; name; call,番号; 信号; 記号; 符号; 号; 年号
-単,N3,9,4,586,十,24,タン,ひとえ,,simple; one; single; merely,簡単; 単位; 単語; 単純; 単に; 単なる; 単数; 単
-座,N3,10,6,588,广,53,ザ,すわ.る,,squat; seat; cushion; gathering; sit,座る; 座席; 座敷; 座布団; 座標; 星座; 座談会; 即座に
-破,N3,10,5,590,石,112,ハ,やぶ.る; やぶ.れる; わ.れる,,rend; rip; tear; break; destroy; defeat; frustrate,破産; 破る; 破片; 破く; 破れる; 突破; 破壊; 破棄
-除,N3,10,6,594,阜,170,ジョ; ジ,のぞ.く; -よ.け,,exclude; division (x/3); remove; abolish; cancel; except,掃除; 除く; 削除; 解除; 控除; 除外; 排除; 免除
-完,N3,7,4,595,宀,40,カン,,,perfect; completion; end,完成; 完全; 完了; 完璧
-降,N3,10,6,596,阜,170,コウ; ゴ,お.りる; お.ろす; ふ.る; ふ.り; くだ.る; くだ.す,ふり; ふる,descend; precipitate; fall; surrender,降る; 降りる; 降り出す; 降ろす; 以降; 下降; 降水; 降伏
-責,N3,11,5,598,貝,154,セキ,せ.める,,blame; condemn; censure,責任; 責める; 責務
-捕,N3,10,8,604,手,64,ホ,と.らえる; と.らわれる; と.る; とら.える; とら.われる; つか.まえる; つか.まる,,catch; capture,捕まえる; 逮捕; 捕まる; 捕る; 捕える; 捕獲; 捕鯨; 捕吏
-危,N3,6,6,606,卩,26,キ,あぶ.ない; あや.うい; あや.ぶむ,,dangerous; fear; uneasy,危ない; 危険; 危うい; 危害; 危機; 危ぶむ
-給,N3,12,4,615,糸,120,キュウ,たま.う; たも.う; -たま.え,きい,salary; wage; gift; allow; grant; bestow on,給料; 供給; 支給; 給与; 月給; 給仕; 給食; 給う
-苦,N3,8,3,623,艸,140,ク,くる.しい; -ぐる.しい; くる.しむ; くる.しめる; にが.い; にが.る,,suffering; trial; worry; hardship; feel bitter; scowl,苦い; 苦痛; 苦労; 苦手; 苦しい; 苦しむ; 苦情; 苦心
-迎,N3,7,8,625,辵,162,ゲイ,むか.える,むかえ,welcome; meet; greet,迎える; 歓迎; 迎え; 出迎え; 出迎える
-園,N3,13,2,628,囗,31,エン,その,おん; ぞの,park; garden; yard; farm,公園; 動物園; 園芸; 遊園地; 幼稚園; 園; 田園
-具,N3,8,3,629,八,12,グ,そな.える; つぶさ.に,とも,"tool; utensil; means; possess; ingredients; counter for armor, suits, sets of furniture",具合; 道具; 家具; 具体; 器具; 絵の具; 具える; 文房具
-辞,N3,13,4,633,辛,160,ジ,や.める; いな.む,,resign; word; term; expression,辞書; 辞典; 辞める; 御辞儀; 辞職; 辞退; 世辞; お世辞
-因,N3,6,5,636,囗,31,イン,よ.る; ちな.む,て,cause; factor; be associated with; depend on; be limited to,原因; 要因
-馬,N3,10,2,639,馬,187,バ; メ; マ; ボ; モ,うま; ま,た; ばん,horse,馬; 馬鹿; 競馬; 馬鹿馬鹿しい
-愛,N3,13,4,640,心,61,アイ,いと.しい; かな.しい; め.でる; お.しむ; まな,あ; あし; え; かな; なる; めぐ; めぐみ; よし; ちか,love; affection; favourite,愛; 愛情; 愛する; 愛想; 愛憎; 恋愛
-富,N3,12,4,644,宀,40,フ; フウ,と.む; とみ,と; とん; ふっ,wealth; enrich; abundant,豊富; 富; 富む; 富豪
-彼,N3,8,8,648,彳,60,ヒ,かれ; かの; か.の,その,he; that; the,彼; 彼女; 彼ら
-未,N3,5,4,650,木,75,ミ; ビ,いま.だ; ま.だ; ひつじ,,un-; not yet; hitherto; still; even now; sign of the ram; 1-3PM; eighth sign of Chinese zodiac,未来; 未満; 未; 未だ; 未開; 未婚; 未熟; 未知
-舞,N3,15,8,655,舛,136,ブ,ま.う; -ま.う; まい,,dance; flit; circle; wheel,お見舞い; 舞台; 見舞い; 振舞う; 見舞う; 仕舞; 舞う
-亡,N3,3,6,661,亠,8,ボウ; モウ,な.い; な.き-; ほろ.びる; ほろ.ぶ; ほろ.ぼす,,deceased; the late; dying; perish,亡くなる; 死亡; 亡くす; 逃亡; 滅亡
-冷,N3,7,4,667,冫,15,レイ,つめ.たい; ひ.える; ひ.や; ひ.ややか; ひ.やす; ひ.やかす; さ.める; さ.ます,,"cool; cold (beer, person); chill",冷たい; 冷蔵庫; 冷房; 冷える; 冷静; 冷凍; 冷ます; 冷める
-適,N3,14,5,670,辵,162,テキ,かな.う,,suitable; occasional; rare; qualified; capable,適当; 快適; 適切; 適度; 適用; 適する; 適確; 適応
-婦,N3,11,5,671,女,38,フ,よめ,ね,lady; woman; wife; bride,看護婦; 主婦; 夫婦; 婦人; 産婦人科
-寄,N3,11,5,673,宀,40,キ,よ.る; -よ.り; よ.せる,よせ; より; よろ,draw near; stop in; bring near; gather; collect; send; forward,寄る; 寄付; 年寄; 片寄る; 近寄る; 寄せる; 寄贈; 寄与
-込,N3,5,8,675,辵,162,,-こ.む; こ.む; こ.み; -こ.み; こ.める,こみ; ごめ,crowded; mixture; in bulk; included; (kokuji),込む; 人込み; 申し込む; 思い込む; 突っ込む; 溶け込む; 飛び込む; 払い込む
-顔,N3,18,2,676,頁,181,ガン,かお,,face; expression,笑顔; 顔付き
-類,N3,18,4,678,頁,181,ルイ,たぐ.い,,sort; kind; variety; class; genus,種類; 書類; 人類; 親類; 分類; 類; 衣類; 類似
-余,N3,7,5,680,人,9,ヨ,あま.る; あま.り; あま.す; あんま.り,あまる,too much; myself; surplus; other; remainder,余分; 余裕; 余る; 余計; 余所; 余暇; 余興; 余地
-王,N3,4,1,684,玉,96,オウ; -ノウ,,おお; おおきみ; わ,king; rule; magnate,王; 王様; 王子; 女王; 王女; 国王
-返,N3,7,3,685,辵,162,ヘン,かえ.す; -かえ.す; かえ.る; -かえ.る,,return; answer; fade; repay,返す; 返事; 繰り返す; 裏返す; 引返す; 引っ繰り返す; 引っ繰り返る; 返る
-妻,N3,8,5,691,女,38,サイ,つま,ずま; め,wife; spouse,妻; 夫妻
-背,N3,9,6,696,肉,130,ハイ,せ; せい; そむ.く; そむ.ける,,stature; height; back; behind; disobey; defy; go back on; rebel,背; 背広; 背中; 背負う; 背く; 背景; 背後
-熱,N3,15,4,700,火,86,ネツ,あつ.い,あた,heat; temperature; fever; mania; passion,熱い; 熱; 熱帯; 熱中; 加熱; 熱する; 情熱; 熱意
-宿,N3,11,3,701,宀,40,シュク,やど; やど.る; やど.す,すく; ぶすき; やけ,inn; lodging; relay station; dwell; lodge; be pregnant; home; dwelling,宿題; 下宿; 宿; 宿泊; 宿命; 民宿
-薬,N3,16,3,702,艸,140,ヤク,くすり,み,medicine; chemical; enamel; gunpowder; benefit,薬; 薬指; 農薬; 薬缶; 薬品; 薬局
-険,N3,11,5,707,阜,170,ケン,けわ.しい,,precipitous; inaccessible place; impregnable position; steep place; sharp eyes,危険; 冒険; 険しい; 保険
-頼,N3,16,8,708,頁,181,ライ,たの.む; たの.もしい; たよ.る,よち; より,trust; request,頼む; 依頼; 信頼; 頼る; 頼もしい; 頼み
-覚,N3,12,4,710,見,147,カク,おぼ.える; さ.ます; さ.める; さと.る,,memorize; learn; remember; awake; sober up,覚える; 覚悟; 感覚; 覚ます; 覚める; 目覚し; 覚え; 錯覚
-船,N3,11,2,713,舟,137,セン,ふね; ふな-,ふ,ship; boat,船; 造船; 風船; 船便; 汽船; 漁船; 船舶
-途,N3,10,8,717,辵,162,ト,みち,,route; way; road,途中; 途端; 中途; 用途; 前途; 途上; 途絶える
-許,N3,11,5,720,言,149,キョ,ゆる.す; もと,,permit; approve,許可; 免許; 許す; 許容; 特許
-抜,N3,7,8,726,手,64,バツ; ハツ; ハイ,ぬ.く; -ぬ.く; ぬ.き; ぬ.ける; ぬ.かす; ぬ.かる,ぬき,slip out; extract; pull out; pilfer; quote; remove; omit,抜く; 抜ける; 海抜; 抜かす; 抜け出す
-便,N3,9,4,729,人,9,ベン; ビン,たよ.り,,convenience; facility; excrement; feces; letter; chance,便利; 郵便局; 不便; 便; 便り; 郵便; 小便; 便箋
-留,N3,10,5,731,田,102,リュウ; ル,と.める; と.まる; とど.める; とど.まる; るうぶる,とめ,detain; fasten; halt; stop,留学生; 留守; 留学; 停留所; 留める; 書留; 留まる; 留守番
-罪,N3,13,5,732,网,122,ザイ,つみ,,guilt; sin; crime; fault; blame; offense,罪; 犯罪
-努,N3,7,4,749,力,19,ド,つと.める,,toil; diligent; as much as possible,努力; 努める; 努めて
-精,N3,14,5,752,米,119,セイ; ショウ,しら.げる; くわ.しい,きよ,refined; ghost; fairy; energy; vitality; semen; excellence; purity; skill,精神; 精々; 精巧; 精密
-散,N3,12,4,758,攴,66,サン,ち.る; ち.らす; -ち.らす; ち.らかす; ち.らかる; ち.らばる; ばら; ばら.ける,ちる,scatter; disperse; spend; squander,散歩; 解散; 散る; 散らす; 散らかす; 散らかる; 拡散; 分散
-静,N3,14,4,764,靑,174,セイ; ジョウ,しず-; しず.か; しず.まる; しず.める,しづ,quiet,静か; 冷静; 静まる; 安静; 静止; 静的
-婚,N3,11,8,767,女,38,コン,,,marriage,結婚; 婚約; 離婚; 既婚; 新婚; 未婚
-喜,N3,12,5,769,口,30,キ,よろこ.ぶ; よろこ.ばす,あき; きゅ; のぶ; ゆき; よし,rejoice; take pleasure in,喜ぶ; 喜び; 喜劇
-浮,N3,10,8,776,水,85,フ,う.く; う.かれる; う.かぶ; う.かべる,うき,floating; float; rise to surface,浮ぶ; 浮く; 浮かべる; 浮気; 浮力
-絶,N3,12,5,784,糸,120,ゼツ,た.える; た.やす; た.つ,,discontinue; sever; cut off; abstain; interrupt; suppress; be beyond; without match; peerless; unparalleled,絶対; 絶滅; 絶えず; 拒絶; 謝絶; 絶版; 絶望; 絶つ
-幸,N3,8,3,786,干,51,コウ,さいわ.い; さち; しあわ.せ,こ; さき; さし; さっ; とも; ひろ; みゆき; ゆ; ゆき; よし,happiness; blessing; fortune,幸運; 幸福; 幸い; 幸せ; 不幸
-押,N3,8,8,789,手,64,オウ,お.す; お.し-; お.っ-; お.さえる; おさ.える,おし; おす; おや,push; stop; check; subdue; attach; seize; weight; shove; press; seal; do in spite of,押す; 押し入れ; 押える; 押し込む; 押し寄せる
-倒,N3,10,8,791,人,9,トウ,たお.れる; -だお.れ; たお.す; さかさま; さかさ; さかしま,,overthrow; fall; collapse; drop; break down,倒れる; 倒す; 面倒; 面倒臭い; 倒産
-等,N3,12,3,798,竹,118,トウ,ひと.しい; など; -ら,と; ひ,etc.; and so forth; class (first); quality; equal; similar,高等学校; 上等; 平等; 等しい; 高等; 等分; 等; 対等
-老,N3,6,4,803,老,125,ロウ,お.いる; ふ.ける,えび; おい; び,old man; old age; grow old,老い; 老人; 老衰; 老いる; 老ける
-曲,N3,6,3,810,曰,73,キョク,ま.がる; ま.げる; くま,まがた,bend; music; melody; composition; pleasure; injustice; fault; curve; crooked; perverse; lean,曲る; 作曲; 曲線; 曲げる; 曲; 婉曲; 戯曲
-払,N3,5,8,813,手,64,フツ; ヒツ; ホツ,はら.う; -はら.い; -ばら.い,はらい,pay; clear out; prune; banish; dispose of,払う; 支払; 支払う; 払い込む; 払い戻す; 酔っ払い
-庭,N3,10,3,816,广,53,テイ,にわ,ば,courtyard; garden; yard,庭; 家庭; 校庭
-徒,N3,10,4,817,彳,60,ト,いたずら; あだ,かち,on foot; junior; emptiness; vanity; futility; uselessness; ephemeral thing; gang; set; party; people,生徒; 徒歩
-勤,N3,12,6,830,力,19,キン; ゴン,つと.める; -づと.め; つと.まる; いそ.しむ,,diligence; become employed; serve,勤める; 勤め; 出勤; 通勤; 勤勉; 勤務; 勤労; 転勤
-遅,N3,12,8,833,辵,162,チ,おく.れる; おく.らす; おそ.い,じ,slow; late; back; later,遅い; 遅れる; 遅刻; 遅れ; 遅らす; 手遅れ; 遅くとも
-居,N3,8,5,836,尸,44,キョ; コ,い.る; -い; お.る,おき; ぐ; すえ,reside; to be; exist; live with,居る; 居間; 芝居; 居眠り; 住居; 隠居; 居住; 皇居
-雑,N3,14,5,839,隹,172,ザツ; ゾウ,まじ.える; まじ.る,,miscellaneous,雑誌; 複雑; 混雑; 雑音; 雑巾; 雑; 雑貨; 雑談
-招,N3,8,5,840,手,64,ショウ,まね.く,,beckon; invite; summon; engage,招待; 招く; 招き
-困,N3,7,6,843,囗,31,コン,こま.る,,quandary; become distressed; annoyed,困る; 困難; 貧困
-欠,N3,4,4,860,欠,76,ケツ; ケン,か.ける; か.く,,lack; gap; fail; yawning radical (no. 76),欠陥; 欠席; 欠点; 欠ける; 欠く; 欠乏; 不可欠
-更,N3,7,8,861,曰,73,コウ,さら; さら.に; ふ.ける; ふ.かす,,grow late; night watch; sit up late; of course; renew; renovate; again; more and more; further,更に; 変更; 更ける; 今更; 尚更; 夜更け; 夜更かし
-刻,N3,8,6,866,刀,18,コク,きざ.む; きざ.み,,engrave; cut fine; chop; hash; mince; time; carving,時刻; 深刻; 遅刻; 刻む; 彫刻; 時刻表
-賛,N3,15,5,868,貝,154,サン,たす.ける; たた.える,,approve; praise; title or inscription on picture; assist; agree with,賛成; 賛美
-抱,N3,8,8,871,手,64,ホウ,だ.く; いだ.く; かか.える,たば,embrace; hug; hold in arms,抱く; 抱える; 介抱; 辛抱
-犯,N3,5,5,874,犬,94,ハン; ボン,おか.す,,crime; sin; offense,犯罪; 犯人; 防犯; 犯す
-恐,N3,10,8,878,心,61,キョウ,おそ.れる; おそ.る; おそ.ろしい; こわ.い; こわ.がる,,fear; dread; awe,恐怖; 恐れる; 恐ろしい; 恐縮; 恐れ; 恐れ入る
-息,N3,10,3,882,心,61,ソク,いき,,breath; respiration; son; interest (on money); rest; coming to an end,息子; 息; 休息; 溜息; 子息; 消息; 窒息; 一息
-遠,N3,13,2,887,辵,162,エン; オン,とお.い,お; おに; ど; どお,distant; far,遠い; 遠慮; 遠く; 永遠; 遠足; 望遠鏡; 遠方; 遠回り
-戻,N3,7,8,890,戶,63,レイ,もど.す; もど.る,,re-; return; revert; resume; restore; go backwards,戻る; 戻す; 払い戻す; 取り戻す
-願,N3,19,4,894,頁,181,ガン,ねが.う; -ねがい,ら,petition; request; vow; wish; hope,願い; 願う; 願書
-絵,N3,12,2,895,糸,120,カイ; エ,,,picture; drawing; painting; sketch,絵; 絵画; 絵の具; 油絵
-越,N3,12,8,897,走,156,エツ; オツ,こ.す; -こ.す; -ご.し; こ.える; -ご.え,えち; えっ; お; こえ; こし; ごえ; ごし; ごや,surpass; cross over; move to; exceed; Vietnam,引っ越す; 越す; 越える; 引越し; 追い越す; 優越
-欲,N3,11,6,902,欠,76,ヨク,ほっ.する; ほ.しい,,longing; covetousness; greed; passion; desire; craving,欲しい; 食欲; 欲張り; 意欲; 欲望; 欲深い
-痛,N3,12,6,903,疒,104,ツウ,いた.い; いた.む; いた.ましい; いた.める,,pain; hurt; damage; bruise,痛い; 痛み; 苦痛; 頭痛; 痛む; 痛感; 痛切; 痛める
-笑,N3,10,4,913,竹,118,ショウ,わら.う; え.む,えみ,laugh,笑う; 笑顔; 笑い; 微笑む; 微笑; あざ笑う
-互,N3,4,8,914,二,7,ゴ,たが.い; かたみ.に,,mutually; reciprocally; together,互い; お互い; 相互; 交互
-束,N3,7,4,918,木,75,ソク,たば; たば.ねる; つか; つか.ねる,,bundle; sheaf; ream; tie in bundles; govern; manage; control,約束; 束; 結束; 拘束; 束縛; 束の間
-似,N3,7,5,923,人,9,ジ,に.る; ひ.る,にた,becoming; resemble; counterfeit; imitate; suitable,似る; 真似; 似合う; 真似る; 類似; 似通う
-列,N3,6,3,927,刀,18,レツ; レ,,れっ,file; row; rank; tier; column,列; 列車; 行列; 列島; 整列; 陳列; 配列; 並列
-探,N3,11,6,930,手,64,タン,さぐ.る; さが.す,,grope; search; look for,探す; 探る; 探検
-逃,N3,9,8,931,辵,162,トウ,に.げる; に.がす; のが.す; のが.れる,,escape; flee; shirk; evade; set free,逃げる; 逃がす; 逃走; 逃亡; 逃す; 逃れる; 見逃す; 逃げ出す
-遊,N3,12,3,941,辵,162,ユウ; ユ,あそ.ぶ; あそ.ばす,あす; う,play,遊ぶ; 遊び; 遊園地; 遊牧
-迷,N3,9,5,942,辵,162,メイ,まよ.う,,astray; be perplexed; in doubt; lost; err; illusion,迷子; 迷惑; 迷信
-夢,N3,13,5,943,夕,36,ム; ボウ,ゆめ; ゆめ.みる; くら.い,,dream; vision; illusion,夢; 夢中
-君,N3,7,3,947,口,30,クン,きみ; -ぎみ,み,mister; you; ruler; male name suffix,君; 君主; 諸君
-閉,N3,11,6,951,門,169,ヘイ,と.じる; と.ざす; し.める; し.まる; た.てる,へ,closed; shut,閉まる; 閉める; 閉じる; 閉会; 閉口; 閉鎖
-緒,N3,14,8,952,糸,120,ショ; チョ,お; いとぐち,ほ,thong; beginning; inception; end; cord; strap; mental or emotional state,一緒; 情緒
-折,N3,7,4,962,手,64,セツ; シャク,お.る; おり; お.り; -お.り; お.れる,せき,fold; break; fracture; bend; yield; submit,折る; 折れる; 骨折; 折角; 屈折; 折衷; 時折; 折り返す
-草,N3,9,1,967,艸,140,ソウ,くさ; くさ-; -ぐさ,そ; や,grass; weeds; herbs; pasture; write; draft,草; 草履
-暮,N3,14,6,978,日,72,ボ,く.れる; く.らす,ぐらし; ぐれ; ぽ,evening; twilight; season's end; livelihood; make a living; spend time,暮れる; 暮れ; 暮らし; 暮らす; 夕暮れ
-酒,N3,10,3,1006,酉,164,シュ,さけ; さか-,き; さ; し,sake; alcohol,お酒; 酒; 酒場
-悲,N3,12,3,1014,心,61,ヒ,かな.しい; かな.しむ,,grieve; sad; deplore; regret,悲しい; 悲劇; 悲しむ; 悲観; 悲惨; 悲鳴
-晴,N3,12,2,1022,日,72,セイ,は.れる; は.れ; は.れ-; -ば.れ; は.らす,はる; はれ,clear up,晴れ; 晴れる; 快晴; 晴天; 見晴らし
-掛,N3,11,8,1027,手,64,カイ; ケイ,か.ける; -か.ける; か.け; -か.け; -が.け; か.かる; -か.かる; -が.かる; か.かり; -が.かり; かかり; -がかり,かけ,hang; suspend; depend; arrive at; tax; pour,お目に掛かる; 掛け算; 腰掛け; 見掛け; お出掛け; 腰掛ける; 追い掛ける; 通り掛かる
-到,N3,8,8,1032,刀,18,トウ,いた.る,,arrival; proceed; reach; attain; result in,到着; 到達; 到底
-寝,N3,13,8,1034,宀,40,シン,ね.る; ね.かす; い.ぬ; みたまや; や.める,,lie down; sleep; rest; bed; remain unsold,寝る; 寝坊; 寝台; 寝巻; 昼寝; 寝間着; 朝寝坊; 寝かせる
-暗,N3,13,3,1040,日,72,アン,くら.い; くら.む; くれ.る,,darkness; disappear; shade; informal; grow dark; be blinded,暗い; 暗記; 薄暗い; 真っ暗; 暗殺; 暗算; 暗示
-盗,N3,11,8,1051,皿,108,トウ,ぬす.む; ぬす.み,,steal; rob; pilfer,盗む; 強盗; 盗難; 盗み
-吸,N3,6,6,1054,口,30,キュウ,す.う,,suck; imbibe; inhale; sip,吸う; 吸収; 呼吸
-陽,N3,12,3,1071,阜,170,ヨウ,ひ,あき; あきら; あけ; はる; ひろ; やん; よ,sunshine; yang principle; positive; male; heaven; daytime,太陽; 陽気; 陽射
-御,N3,12,8,1087,彳,60,ギョ; ゴ,おん-; お-; み-,う,honorable; manipulate; govern,御飯; 朝御飯; 晩御飯; 昼御飯; 御主人; 御; 御中; 御免
-歯,N3,12,3,1106,止,77,シ,よわい; は; よわ.い; よわい.する,,tooth; cog,歯; 歯医者; 虫歯; 歯車; 歯磨き; 歯科
-忘,N3,7,6,1129,心,61,ボウ,わす.れる,,forget,忘れる; 忘れ物; 度忘れ
-雪,N3,11,2,1131,雨,173,セツ,ゆき,せっ; ぶき,snow,雪; 吹雪; 雪崩
-吹,N3,7,8,1133,口,30,スイ,ふ.く,ふき,blow; breathe; puff; emit; smoke,吹く; 吹雪; 吹奏
-娘,N3,10,8,1145,女,38,ジョウ,むすめ; こ,,daughter; girl,娘
-誤,N3,14,6,1150,言,149,ゴ,あやま.る; -あやま.る,,mistake; err; do wrong; mislead,誤り; 誤解; 誤る; 誤差; 錯誤; 誤魔化す
-洗,N3,9,6,1168,水,85,セン,あら.う,あらい; らい,wash; inquire into; probe,洗う; 洗濯; お手洗い; 洗剤; 手洗い; 水洗
-慣,N3,14,5,1177,心,61,カン,な.れる; な.らす,,accustomed; get used to; become experienced,習慣; 慣れる; 見慣れる; 慣行; 慣習; 慣用; 慣例; 慣れ
-礼,N3,5,3,1185,示,113,レイ; ライ,,あや; なり; のり; ひろし; れ,salute; bow; ceremony; thanks; remuneration,お礼; 礼; 礼儀; 無礼
-窓,N3,11,6,1186,穴,116,ソウ; ス,まど; てんまど; けむだし,,window; pane,窓; 窓口
-昔,N3,8,3,1197,日,72,セキ; シャク,むかし,,once upon a time; antiquity; old times,昔
-貧,N3,11,5,1211,貝,154,ヒン; ビン,まず.しい,,poverty; poor,貧しい; 貧困; 貧弱; 貧乏
-怒,N3,9,8,1221,心,61,ド; ヌ,いか.る; おこ.る,,angry; be offended,怒る; 怒り
-泳,N3,8,3,1223,水,85,エイ,およ.ぐ,,swim,泳ぐ; 水泳; 泳ぎ方; 泳ぎ
-祖,N3,9,5,1226,示,113,ソ,,い,ancestor; pioneer; founder,お祖父さん; 祖父; 祖母; 先祖; 祖先
-杯,N3,8,8,1235,木,75,ハイ,さかずき,,counter for cupfuls; wine glass; glass; toast,乾杯; 杯
-疲,N3,10,8,1263,疒,104,ヒ,つか.れる; -づか.れ; つか.らす,,exhausted; tire; weary,疲れる; 疲れ; 疲労
-皆,N3,9,8,1267,白,106,カイ,みな; みんな,むな,all; everything,皆さん; 皆
-鳴,N3,14,2,1279,鳥,196,メイ,な.く; な.る; な.らす,なり; なる,chirp; cry; bark; sound; ring; echo; honk,鳴く; 鳴る; 鳴らす; 共鳴; 悲鳴
-腹,N3,13,6,1286,肉,130,フク,はら,,abdomen; belly; stomach,腹; 空腹; 山腹; 中腹; 腹立ち
-煙,N3,13,8,1290,火,86,エン,けむ.る; けむり; けむ.い,たば,smoke,煙; 禁煙; 煙突; 煙い; 煙る; 煙たい
-眠,N3,10,8,1315,目,109,ミン,ねむ.る; ねむ.い,ね,sleep; die; sleepy,眠い; 眠る; 睡眠; 居眠り; 冬眠; 眠たい
-怖,N3,8,8,1325,心,61,フ; ホ,こわ.い; こわ.がる; お.じる; おそ.れる,,dreadful; be frightened; fearful,怖い; 恐怖
-耳,N3,6,1,1328,耳,128,ジ,みみ,がみ,ear,耳; 初耳; 耳鼻科
-頂,N3,11,6,1350,頁,181,チョウ,いただ.く; いただき,,place on the head; receive; top of head; top; summit; peak,頂上; 頂点; 頂
-箱,N3,15,3,1357,竹,118,ソウ,はこ,,box; chest; case; bin; railway car,箱
-晩,N3,12,6,1424,日,72,バン,,,nightfall; night,晩; 今晩; 毎晩; 晩御飯
-寒,N3,12,3,1456,宀,40,カン,さむ.い,さ; さん,cold,寒い; 寒帯; 寒気
-髪,N3,14,8,1474,髟,190,ハツ,かみ,がた; ひげ,hair of the head,髪; 髪の毛; 白髪
-忙,N3,6,8,1475,心,61,ボウ; モウ,いそが.しい; せわ.しい; おそ.れる; うれえるさま,,busy; occupied; restless,忙しい; 多忙
-才,N3,3,2,1497,手,64,サイ,,,genius; years old; cubic shaku,才能; 天才
-靴,N3,13,8,1561,革,177,カ,くつ,,shoes,靴; 靴下
-恥,N3,10,8,1575,心,61,チ,は.じる; はじ; は.じらう; は.ずかしい,,shame; dishonor,恥ずかしい; 恥; 恥じる; 恥じらう
-偶,N3,11,8,1602,人,9,グウ,たま,,accidentally; even number; couple; man & wife; same kind,偶; 偶然; 偶々; 偶数; 配偶者
-偉,N3,12,8,1639,人,9,イ,えら.い,ひで,admirable; greatness; remarkable; conceited; famous; excellent,偉大; 偉い
-猫,N3,11,8,1702,犬,94,ビョウ,ねこ,,cat,猫
-幾,N3,12,8,1725,幺,52,キ,いく-; いく.つ; いく.ら,い; く,how many; how much; how far; how long; some; several,幾分; 幾多
+character,level,strokes,grade,freq,radical,radical_number,onyomi,kunyomi,nanori,meanings,words,supplementary
+政,N3,9,5,17,攴,66,セイ; ショウ,まつりごと; まん,ただ; まさ,politics; government,政治; 政府; 政党; 行政; 財政; 政権; 政策,
+議,N3,20,4,25,言,149,ギ,,かた; のり,deliberation; consultation; debate; consideration,会議; 会議室; 議員; 議会; 議長; 議論; 不思議; 異議,
+民,N3,5,4,28,氏,83,ミン,たみ,ひと; み,people; nation; subjects,市民; 国民; 住民; 農民; 民間; 民謡; 移民; 庶民,
+連,N3,10,4,30,辵,162,レン,つら.なる; つら.ねる; つ.れる; -づ.れ,ずれ; つれ; むらじ; れ,take along; lead; join; connect; party; gang; clique,連絡; 連れる; 関連; 連れ; 連想; 連続; 連合; 一連,
+対,N3,7,3,34,寸,41,タイ; ツイ,あいて; こた.える; そろ.い; つれあ.い; なら.ぶ; むか.う,つし,vis-a-vis; opposite; even; equal; versus; anti-; compare,反対; 対; 絶対; 対象; 対する; 応対; 対策; 対照,
+部,N3,11,3,36,邑,163,ブ,-べ,とり; ふ; ぺ; ま,section; bureau; dept; class; copy; part; portion; counter for copies of a newspaper or magazine,全部; 部屋; 部長; 部分; 大部分; 外部; 学部; 部首,
+合,N3,6,2,41,口,30,ゴウ; ガッ; カッ,あ.う; -あ.う; あ.い; あい-; -あ.い; -あい; あ.わす; あ.わせる; -あ.わせる,あう; あん; い; か; こう; ごお; に; ね; や; わい,fit; suit; join; 0.1,合う; 具合; 試合; 都合; 場合; 割合; 間に合う; 合図,
+市,N3,5,2,42,巾,50,シ,いち,い; ち,market; city; town,市; 市民; 市場; 都市; 市街,
+内,N3,4,2,44,冂,13,ナイ; ダイ,うち,いと; ただ; ち; のち,inside; within; between; among; house; home,案内; 以内; 家内; 内容; 内科; 内線; 内訳; 内閣,
+相,N3,9,3,45,目,109,ソウ; ショウ,あい-,あ; い; おう; さ; さが; すけ,inter-; mutual; together; each other; minister of state; councillor; aspect; phase; physiognomy,相談; 相手; 首相; 相続; 相当; 相撲; 相違; 相互,
+定,N3,8,3,48,宀,40,テイ; ジョウ,さだ.める; さだ.まる; さだ.か,さた,determine; fix; establish; decide,予定; 安定; 勘定; 決定; 定期; 否定; 一定; 仮定,
+回,N3,6,2,50,囗,31,カイ; エ,まわ.る; -まわ.る; -まわ.り; まわ.す; -まわ.す; まわ.し-; -まわ.し; もとお.る; か.える,,-times; round; game; revolve; counter for occurrences,回る; 回; 回復; 今回; 回す; 回り; 回数; 回転,
+選,N3,15,4,57,辵,162,セン,えら.ぶ; え.る; よ.る,,elect; select; choose; prefer,選ぶ; 選手; 選択; 選挙; 選考; 抽選; 当選,
+米,N3,6,2,61,米,119,ベイ; マイ; メエトル,こめ; よね,は; べ; まべ; め; よ; よな; よの; よま,rice; USA; metre,米; 欧米; 南米,
+実,N3,8,3,68,宀,40,ジツ; シツ,み; みの.る; まこと; みの; みち.る,ぐみ; さね,reality; truth; seed; fruit; nut,実; 確実; 現実; 事実; 実験; 実現; 実行; 実際,
+関,N3,14,4,70,門,169,カン,せき; -ぜき; かか.わる; からくり; かんぬき,,connection; barrier; gateway; involve; concerning,玄関; 関係; 関心; 関連; 機関; 関する; 関西; 関東,
+決,N3,7,3,71,水,85,ケツ,き.める; -ぎ.め; き.まる; さ.く,,decide; fix; agree upon; appoint,決る; 決める; 決して; 解決; 決心; 決定; 決まり; 可決,
+全,N3,6,3,75,入,11,ゼン,まった.く; すべ.て,たけ; まさ,whole; entire; all; complete; fulfill,全部; 安全; 全; 完全; 全て; 全員; 全国; 全体,
+表,N3,8,3,77,衣,145,ヒョウ,おもて; -おもて; あらわ.す; あらわ.れる; あら.わす,,surface; table; chart; diagram,表; 表す; 代表; 発表; 表現; 表情; 表面; 公表,
+戦,N3,13,4,78,戈,62,セン,いくさ; たたか.う; おのの.く; そよ.ぐ; わなな.く,せ,war; battle; match,戦争; 大戦; 戦い; 戦う; 戦; 休戦; 作戦; 戦災,
+経,N3,11,5,79,糸,120,ケイ; キョウ; キン,へ.る; た.つ; たていと; はか.る; のり,つね; のぶ,sutra; longitude; pass thru; expire; warp,経験; 経済; 経営; 経由; 神経; 経つ; 経度; 経緯,
+最,N3,12,4,82,曰,73,サイ; シュ,もっと.も; つま,も,utmost; most; extreme,最近; 最後; 最初; 最高; 最終; 最中; 最低; 最善,
+現,N3,11,5,85,玉,96,ゲン,あらわ.れる; あらわ.す; うつつ; うつ.つ,あきら; きら,present; existing; actual,現す; 現れ; 現金; 現在; 現実; 現象; 現状; 現代,
+調,N3,15,3,87,言,149,チョウ,しら.べる; しら.べ; ととの.う; ととの.える,ぎ; つぎ,tune; tone; meter; key (music); writing style; prepare; exorcise; investigate; harmonize; mediate,調べる; 強調; 順調; 調査; 調子; 調整; 調節; 調味料,
+化,N3,4,3,89,匕,21,カ; ケ,ば.ける; ば.かす; ふ.ける; け.する,,change; take the form of; influence; enchant; delude; -ization,文化; 化学; 化粧; 変化; 強化; 消化; 悪化; 化合,
+当,N3,6,2,91,彐,58,トウ,あ.たる; あ.たり; あ.てる; あ.て; まさ.に; まさ.にべし,たい,hit; right; appropriate; himself,お弁当; 適当; 見当; 相当; 担当; 当時; 弁当; 本当,
+約,N3,9,4,94,糸,120,ヤク,つづ.まる; つづ.める; つづま.やか,,promise; approximately; shrink,約束; 予約; 約; 契約; 婚約; 節約; 規約; 倹約,
+首,N3,9,2,98,首,185,シュ,くび,おびと; こべ; す,neck; counter for songs and poems,首; 首相; 首都; 手首; 部首; 首輪; 元首; 自首,
+法,N3,8,4,100,水,85,ホウ; ハッ; ホッ; フラン,のり,ほ,method; law; rule; principle; model; system,文法; 法律; 法; 憲法; 作法; 方法; 寸法; 法則,
+性,N3,8,5,104,心,61,セイ; ショウ,さが,,sex; gender; nature,女性; 男性; 性; 性格; 酸性; 性質; 性能; 性別,
+的,N3,8,4,105,白,106,テキ,まと,いくは; ゆくは,bull's eye; mark; target; object; adjective ending,目的; 積極的; 的確; 消極的; 比較的; 的; 静的; 知的,true
+要,N3,9,4,106,襾,146,ヨウ,い.る; かなめ,とし,need; main point; essence; pivot; key to,要る; 必要; 重要; 主要; 需要; 要求; 要素; 要点,
+制,N3,8,5,108,刀,18,セイ,,,system; law; rule,制限; 制度; 制作; 専制; 体制; 制; 規制; 強制,
+治,N3,8,4,109,水,85,ジ; チ,おさ.める; おさ.まる; なお.る; なお.す,し; ぢ; はり; はる; みち,reign; be at peace; calm down; subdue; quell; govt; cure; heal; rule; conserve,政治; 治る; 自治; 治す; 治める; 退治; 治安; 治療,
+務,N3,11,5,111,力,19,ム,つと.める,つかさ; み,task; duties,公務員; 事務所; 義務; 事務; 務め; 公務; 務める; 業務,
+成,N3,6,4,116,戈,62,セイ; ジョウ,な.る; な.す; -な.す,あき; あきら; しげ; そん; たえ; なお; なり; なる; のり; ひら; まさ; よし; り,turn into; become; get; grow; elapse; reach,完成; 構成; 賛成; 成功; 成人; 成績; 成長; 作成,
+期,N3,12,3,117,月,74,キ; ゴ,,,period; time; date; term,延期; 学期; 期間; 期待; 時期; 長期; 定期; 予期,
+取,N3,8,3,122,又,29,シュ,と.る; と.り; と.り-; とり; -ど.り,どる,take; fetch; take up,取る; 取り替える; 取れる; 受け取る; 取り上げる; 受取; 書取; 取り消す,
+都,N3,11,3,123,邑,163,ト; ツ,みやこ,くに; ず; ち; づめ; みや,metropolis; capital; all; everything,都; 都合; 首都; 都会; 都市; 都心,
+和,N3,8,3,124,口,30,ワ; オ; カ,やわ.らぐ; やわ.らげる; なご.む; なご.やか; あ.える,あい; いず; かず; かつ; かつり; かづ; たけ; ち; とも; な; にぎ; まさ; やす; よし; より; わだこ; わっ,harmony; Japanese style; peace; soften; Japan,平和; 英和; 漢和; 和英; 和服; 和; 温和; 緩和,
+機,N3,16,4,127,木,75,キ,はた,,loom; mechanism; machine; airplane; opportunity; potency; efficacy; occasion,飛行機; 機会; 機械; 機関; 機嫌; 機能; ジェット機; 機関車,
+平,N3,5,3,128,干,51,ヘイ; ビョウ; ヒョウ,たい.ら; たい.らげる; ひら,たいら; たら; はち; ひ; ひとし; へ; へん,even; flat; peace,公平; 平ら; 平等; 不平; 平均; 平和; 地平線; 水平,
+加,N3,5,4,130,力,19,カ,くわ.える; くわ.わる,,add; addition; increase; join; include; Canada,加減; 参加; 増加; 加える; 加わる; 加速; 加熱; 追加,
+受,N3,8,3,136,又,29,ジュ,う.ける; -う.け; う.かる,じょ,accept; undergo; answer (phone); take; get; catch; receive,受付; 受ける; 受け取る; 受取; 受験; 受話器; 引受る; 受け持つ,
+続,N3,13,4,141,糸,120,ゾク; ショク; コウ; キョウ,つづ.く; つづ.ける; つぐ.ない,つぐ,continue; series; sequel,続く; 続ける; 相続; 続き; 連続; 継続; 接続; 続々,
+進,N3,11,3,142,辵,162,シン,すす.む; すす.める,のぶ,advance; proceed; progress; promote,進む; 進学; 進歩; 前進; 進める; 行進; 昇進; 進化,
+数,N3,13,2,148,攴,66,スウ; ス; サク; ソク; シュ,かず; かぞ.える; しばしば; せ.める; わずらわ.しい,じゅ,number; strength; fate; law; figures,数学; 数; 数字; 数える; 回数; 偶数; 算数; 小数,
+記,N3,10,2,149,言,149,キ,しる.す,のり,scribe; account; narrative,日記; 暗記; 記憶; 記事; 記者; 記入; 記念; 記録,
+初,N3,7,4,152,刀,18,ショ,はじ.め; はじ.めて; はつ; はつ-; うい-; -そ.める; -ぞ.め,し; はっ,first time; beginning,初め; 初めて; 最初; 初級; 初旬; 初めに; 初; 初版,
+指,N3,9,3,155,手,64,シ,ゆび; さ.す; -さ.し,い; いぶ; さし; さす,finger; point to; indicate; put into; play (chess); measure (ruler),指; 指輪; 指す; 指導; 親指; 薬指; 小指; 指定,
+権,N3,15,6,156,木,75,ケン; ゴン,おもり; かり; はか.る,,authority; power; rights,権利; 権; 棄権; 権威; 権限; 権力; 主権; 政権,
+支,N3,4,5,159,支,65,シ,ささ.える; つか.える; か.う,,branch; support; sustain; branch radical (no. 65),支度; 支給; 支出; 支店; 支配; 支払; 支える; 支払う,
+産,N3,11,4,161,生,100,サン,う.む; う.まれる; うぶ-; む.す,もと,products; bear; give birth; yield; childbirth; native; property,産業; 生産; お土産; 財産; 破産; 土産; 原産; 産地,
+点,N3,9,2,165,火,86,テン,つ.ける; つ.く; た.てる; さ.す; とぼ.す; とも.す; ぼち,,spot; point; mark; speck; decimal point,交差点; 点; 欠点; 要点; 採点; 弱点; 終点; 重点,
+報,N3,12,5,167,土,32,ホウ,むく.いる,,report; news; reward; retribution,電報; 天気予報; 情報; 報告; 予報; 報酬; 報道; 報じる,
+済,N3,11,6,168,水,85,サイ; セイ,す.む; -ず.み; -ずみ; す.まない; す.ます; -す.ます; すく.う; な.す; わたし; わた.る,すむ; なり; わたる,"settle (debt, etc.); relieve (burden); finish; come to an end; excusable; need not",経済; 済む; 済ませる; 救済; 返済; 済ます,
+活,N3,9,2,171,水,85,カツ,い.きる; い.かす; い.ける,,lively; resuscitation; being helped; living,生活; 活気; 活動; 活用; 活字; 活躍; 活力; 活発,
+原,N3,10,2,172,厂,27,ゲン,はら,た; ばる; ら; わた; わら,meadow; original; primitive; field; plain; prairie; tundra; wilderness,原因; 原; 原稿; 原産; 原始; 原理; 原料; 原形,
+共,N3,6,4,174,八,12,キョウ,とも; とも.に; -ども,,together; both; neither; all; and; alike; with,共通; 共同; 共に; 公共; 共; 共学; 共感; 共産,
+得,N3,11,5,175,彳,60,トク,え.る; う.る,あつ; てろ,gain; get; find; earn; acquire; can; may; able to; profit; advantage; benefit,得る; 得意; 納得; 損得; 心得る; 獲得; 心得; 所得,
+解,N3,13,5,176,角,148,カイ; ゲ,と.く; と.かす; と.ける; ほど.く; ほぐ.す; わか.る; さと.る,さとる; とけ,unravel; notes; key; explanation; understanding; untie; undo; solve; answer; cancel; absolve; explain; minute,解決; 解釈; 見解; 誤解; 解く; 理解; 解ける; 解散,
+交,N3,6,2,178,亠,8,コウ,まじ.わる; まじ.える; ま.じる; まじ.る; ま.ざる; ま.ぜる; -か.う; か.わす; かわ.す; こもごも,かた,mingle; mixing; association; coming & going,交番; 交差点; 交通; 外交; 交換; 交際; 交差; 交替,
+資,N3,13,5,179,貝,154,シ,,すけ; もと,assets; resources; capital; funds; data; be conducive to; contribute to,資源; 資本; 資料; 資格; 資金; 資産; 投資; 物資,
+予,N3,4,3,180,亅,6,ヨ; シャ,あらかじ.め,,beforehand; previous; myself; I,予習; 予定; 予約; 天気予報; 予期; 予算; 予測; 予報,
+向,N3,6,3,182,口,30,コウ,む.く; む.い; -む.き; む.ける; -む.け; む.かう; む.かい; む.こう; む.こう-; むこ; むか.い,こお; た; な; むか; むかい; むこう,yonder; facing; beyond; confront; defy; tend toward; approach,向こう; 向かう; 傾向; 方向; 向く; 向かい; 向ける; 意向,
+際,N3,14,5,183,阜,170,サイ,きわ; -ぎわ,わ,occasion; side; edge; verge; dangerous; adventurous; indecent; time; when,国際; 際; 交際; 実際; 手際,
+勝,N3,12,3,185,力,19,ショウ,か.つ; -が.ち; まさ.る; すぐ.れる; かつ,かち; と; よし,victory; win; prevail; excel,勝つ; 勝ち; 優勝; 勝敗; 勝負; 決勝; 勝利; 勝る,
+面,N3,9,3,186,面,176,メン; ベン,おも; おもて; つら,お; ずら; ほおつき; も,mask; face; features; surface,面; 場面; 表面; 面倒; 正面; 方面; 面積; 面接,
+告,N3,7,5,188,口,30,コク,つ.げる,い,revelation; tell; inform; announce,警告; 広告; 報告; 勧告; 告白; 申告; 忠告; 布告,
+反,N3,4,3,191,又,29,ハン; ホン; タン; ホ,そ.る; そ.らす; かえ.す; かえ.る; -かえ.る,そり; た,anti-,反対; 違反; 反抗; 反る; 反映; 反省; 反; 反り,
+判,N3,7,5,197,刀,18,ハン; バン,わか.る,,judgement; judgment; signature; stamp; seal,裁判; 審判; 判断; 批判; 評判; 判子; 判事; 判,
+認,N3,14,6,198,言,149,ニン,みと.める; したた.める,,acknowledge; witness; discern; recognize; appreciate; believe,確認; 承認; 認める; 公認; 認識,
+参,N3,8,4,201,厶,28,サン; シン,まい.る; まい-; まじわる; みつ,み,nonplussed; three (in documents); going; coming; visiting; visit; be defeated; die; be madly in love; participate; take part in,参る; 参加; 参考; 持参; お参り; 参照; 参上; 参議院,
+利,N3,7,4,203,刀,18,リ,き.く,かが; と; とし; のり; み; りい,profit; advantage; benefit,便利; 利用; 権利; 不利; 有利; 利益; 利口; 利害,
+組,N3,11,2,204,糸,120,ソ,く.む; くみ; -ぐみ,,association; braid; plait; construct; assemble; unite; cooperate; grapple,番組; 組; 組合; 組む; 組織; 組合せ; 組み立てる; 仕組み,
+信,N3,9,4,208,人,9,シン,,し; しが; しな; しの; しぶ; とき; のび; のぶ; まこと,faith; truth; fidelity; trust,信仰; 信号; 信用; 信頼; 通信; 信じる; 迷信; 信ずる,
+在,N3,6,5,211,土,32,ザイ,あ.る,あり,exist; outskirts; suburbs; located in,現在; 存在; 滞在; 在学; 健在; 在庫; 自在; 所在,
+件,N3,6,5,212,人,9,ケン,くだん,,affair; case; matter; item,事件; 条件; 件; 用件,
+側,N3,11,4,216,人,9,ソク,かわ; がわ; そば,,side; lean; oppose; regret,両側; 側; 縁側; 側面,
+任,N3,6,5,217,人,9,ニン,まか.せる; まか.す,さ; とう; ひで,responsibility; duty; term; entrust to; appoint,責任; 任せる; 就任; 主任; 信任; 転任; 任務; 任命,
+引,N3,4,2,218,弓,57,イン,ひ.く; ひ.ける,いな; ひき; ひけ; びき,pull; tug; jerk; admit; install; quote; refer to,字引; 引く; 引き出し; 引き出す; 引っ越す; 引退; 引用; 引っ張る,
+求,N3,7,4,220,水,85,キュウ; グ,もと.める,,request; want; wish for; require; demand,請求; 要求; 求める,
+所,N3,8,3,221,戶,63,ショ,ところ; -ところ; どころ; とこ,せ,place; extent,所; 台所; 近所; 住所; 場所; 事務所; 所為; 停留所,
+次,N3,6,3,222,欠,76,ジ; シ,つ.ぐ; つぎ,き; すき; つぐ; よし,next; order; sequence,次; 次第; 次々; 次ぐ; 目次; 次いで; 取り次ぐ,
+昨,N3,9,4,226,日,72,サク,,,yesterday; previous,昨日; 昨夜; 一昨日; 一昨年; 昨,
+論,N3,15,6,227,言,149,ロン,あげつら.う,,argument; discourse,議論; 結論; 論争; 論文; 論じる; 概論; 評論; 論ずる,
+官,N3,8,4,230,宀,40,カン,,,bureaucrat; the government; organ,警官; 官庁; 官僚; 器官; 長官,
+増,N3,14,5,231,土,32,ゾウ,ま.す; ま.し; ふ.える; ふ.やす,まし; ます,increase; add; augment; gain; promote,増える; 増加; 増す; 激増; 増減; 増大; 増やす; 増強,
+係,N3,9,3,232,人,9,ケイ,かか.る; かかり; -がかり; かか.わる,,person in charge; connection; duty; concern oneself,関係; 係; 係わる,
+感,N3,13,3,233,心,61,カン,,,emotion; feeling; sensation,感覚; 感じ; 感謝; 感情; 感心; 感動; 感じる; 感激,
+情,N3,11,5,235,心,61,ジョウ; セイ,なさ.け,,feelings; emotion; passion; sympathy; circumstances; facts,愛情; 感情; 事情; 情報; 表情; 友情; 苦情; 純情,
+投,N3,7,3,236,手,64,トウ,な.げる; -な.げ,,throw; discard; abandon; launch into; join; invest in; hurl; give up; sell at a loss,投げる; 投票; 投書; 投資; 投入; 投げ出す,
+示,N3,5,5,237,示,113,ジ; シ,しめ.す,,show; indicate; point out; express; display,掲示; 示す; 暗示; 指示; 提示; 展示,
+変,N3,9,4,238,夂,34,ヘン,か.わる; か.わり; か.える,,unusual; change; strange,変; 変える; 変わる; 変化; 変更; 一変; 変革; 変遷,
+打,N3,5,3,239,手,64,ダ; ダース,う.つ; う.ち-; ぶ.つ,うち,strike; hit; knock; pound; dozen,打つ; 打合せ; 打ち消す; 打開; 打撃; 値打ち; 打ち切る; 打ち消し,
+直,N3,8,2,246,目,109,チョク; ジキ; ジカ,ただ.ちに; なお.す; -なお.す; なお.る; なお.き; す.ぐ,すぐ; なお; のう; のお,straightaway; honesty; frankness; fix; repair,直す; 直る; 直; 直に; 正直; 直接; 直ちに; 垂直,
+両,N3,6,3,247,一,1,リョウ,てる; ふたつ,もろ,"both; old Japanese coin; counter for carriages (e.g., in a train); two",両親; 両方; 両替; 両側; 両極; 両立,
+式,N3,6,3,251,弋,56,シキ,,のり,style; ceremony; rite; function; method; system; form; expression,式; 正式; 儀式; 形式; 公式; 葬式; 方程式; 株式,
+確,N3,15,5,252,石,112,カク; コウ,たし.か; たし.かめる,,assurance; firm; tight; hard; solid; confirm; clear; evident,確か; 確実; 確認; 正確; 明確; 確かめる; 確率; 的確,
+果,N3,8,4,258,木,75,カ,は.たす; はた.す; -は.たす; は.てる; -は.てる; は.て,み,fruit; reward; carry out; achieve; complete; end; finish; succeed,果物; 結果; 効果; 果実; 果して; 成果; 果て; 果ない,
+容,N3,10,5,264,宀,40,ヨウ,い.れる,かた; ひろ; まさ,contain; form; looks,内容; 容易; 美容; 容器; 容積; 形容詞; 形容動詞; 寛容,
+必,N3,5,4,265,心,61,ヒツ,かなら.ず,,invariably; certain; inevitable,必ず; 必要; 必死; 必ずしも; 必需品; 必修; 必然,
+演,N3,14,5,267,水,85,エン,,,performance; act; play; render; stage,演技; 演説; 演奏; 講演; 演劇; 演習; 演出; 公演,
+歳,N3,13,8,269,止,77,サイ; セイ,とし; とせ; よわい,,year-end; age; occasion; opportunity,二十歳; 万歳; 歳,
+争,N3,6,4,271,亅,6,ソウ,あらそ.う; いか.でか,,contend; dispute; argue,競争; 戦争; 論争; 争う; 争い; 抗争; 紛争,
+談,N3,15,3,272,言,149,ダン,,,discuss; talk,相談; 冗談; 縁談; 会談; 雑談; 対談; 座談会,
+能,N3,10,5,273,肉,130,ノウ,よ.く; あた.う,たか; の; のり; よし,ability; talent; skill; capacity,能; 可能; 機能; 才能; 知能; 能力; 有能; 芸能,
+位,N3,7,4,276,人,9,イ,くらい; ぐらい,ぞき,rank; grade; throne; crown; about; some,位; 位置; 単位; 地位; 位地; 下位; 上位; 優位,
+置,N3,13,4,277,网,122,チ,お.く; -お.き,おき; おけ; き,placement; put; set; deposit; leave behind; keep; employ; pawn,置く; 位置; 装置; 物置; 処置; 設置; 措置; 配置,
+流,N3,10,3,280,水,85,リュウ; ル,なが.れる; なが.れ; なが.す; -なが.す,な; ながれ; めぐる,current; a sink; flow; forfeit,流す; 流れ; 流行; 流れる; 一流; 交流; 合流; 流石,
+格,N3,10,5,281,木,75,カク; コウ; キャク; ゴウ,,いたる; のり,"status; rank; capacity; character; case (law, grammar)",価格; 合格; 性格; 格別; 同格; 格; 格差; 規格,
+疑,N3,14,6,283,疋,103,ギ,うたが.う,,doubt; distrust; be suspicious; question,疑う; 疑問; 疑惑; 質疑,
+過,N3,12,5,285,辵,162,カ,す.ぎる; す.ごす; あやま.ち; あやま.つ; よぎ.る; よ.ぎる,,overdo; exceed; go beyond; error,過ぎる; 過去; 通過; 過ごす; 通り過ぎる; 過失; 過剰; 過程,
+局,N3,7,3,286,尸,44,キョク,つぼね,,bureau; board; office; affair; conclusion; court lady; lady-in-waiting; her apartment,郵便局; 局; 結局; 薬局; 局限,
+放,N3,8,3,288,攴,66,ホウ,はな.す; -っぱな.し; はな.つ; はな.れる; こ.く; ほう.る,はなれ,set free; release; fire; shoot; emit; banish; liberate,放送; 放す; 解放; 開放; 放る; 放れる; 追放; 放棄,
+常,N3,11,5,293,巾,50,ジョウ,つね; とこ-,とき; のぶ; ひ; ひた,usual; ordinary; normal; common; regular; continually; always; long-lasting,非常に; 異常; 常識; 常に; 日常; 非常; 正常; 通常,
+状,N3,7,5,298,犬,94,ジョウ,,,status quo; conditions; circumstances; form; appearance,現状; 状況; 症状; 状態; 状; 白状,
+球,N3,11,3,302,玉,96,キュウ,たま,く,ball; sphere,球; 地球; 電球; 眼球; 球根,
+職,N3,18,5,305,耳,128,ショク; ソク,,もと,post; employment; work,職; 就職; 職業; 職人; 教職; 辞職; 職員; 職務,
+与,N3,3,8,308,一,1,ヨ,あた.える; あずか.る; くみ.する; ともに,とも; ゆ,bestow; participate in; give; award; impart; provide; cause; gift; godsend,与える; 給与; 関与; 寄与; 与党,
+供,N3,8,6,313,人,9,キョウ; ク; クウ; グ,そな.える; とも; -ども,,submit; offer; present; serve (meal); accompany,子供; 供給; 供; お供; 提供,
+可,N3,5,5,314,口,30,カ; コク,-べ.き; -べ.し,よし,can; passable; approval,可; 可能; 許可; 不可; 可決; 不可欠,true
+役,N3,7,3,315,彳,60,ヤク; エキ,,ちゃく,duty; war; campaign; drafted labor; office; service; role,役に立つ; 役; 役割; 重役; 主役; 役者; 役所; 役人,
+構,N3,14,5,316,木,75,コウ,かま.える; かま.う,とち,posture; stance; appearance; build; set up,結構; 構成; 構造; 構え; 機構; 構想; 構える,
+割,N3,12,6,318,刀,18,カツ,わ.る; わり; わ.り; わ.れる; さ.く,,proportion; comparatively; divide; cut; separate; split,割合; 割れる; 役割; 割る; 割算; 割と; 割引; 時間割,
+身,N3,7,3,320,身,158,シン,み,,somebody; person; one's station in life,身; 自身; 出身; 身体; 身長; 独身; 刺身; 心身,true
+費,N3,12,5,321,貝,154,ヒ,つい.やす; つい.える,,expense; cost; spend; consume; waste,消費; 費用; 費; 経費; 実費; 出費; 浪費; 光熱費,
+付,N3,5,4,322,人,9,フ,つ.ける; -つ.ける; -づ.ける; つ.け; つ.け-; -つ.け; -づ.け; -づけ; つ.く; -づ.く; つ.き; -つ.き; -つき; -づ.き; -づき,つけ,adhere; attach; refer to; append,受付; 付く; 片付ける; 寄付; 日付; 気付く; 付ける; 追い付く,
+由,N3,5,3,325,田,102,ユ; ユウ; ユイ,よし; よ.る,,wherefore; a reason,自由; 理由; 経由; 不自由,
+説,N3,14,4,326,言,149,セツ; ゼイ,と.く,さとし; とき,opinion; theory; explanation; rumor,小説; 説明; 説; 演説; 解説; 社説; 概説; 学説,
+難,N3,18,6,330,隹,172,ナン,かた.い; -がた.い; むずか.しい; むづか.しい; むつか.しい; -にく.い,な; なに,difficult; impossible; trouble; accident; defect,難しい; 困難; 災難; 盗難; 有難い; 難; 難い; 遭難,
+優,N3,17,6,334,人,9,ユウ; ウ,やさ.しい; すぐ.れる; まさ.る,ゆ; よし,tenderness; excel; surpass; actor; superiority; gentleness,優しい; 女優; 俳優; 優秀; 優勝; 優れる; 優; 優位,
+夫,N3,4,4,335,大,37,フ; フウ; ブ,おっと; それ,お; と; ゆう; よ,husband; man,丈夫; 大丈夫; 夫; 夫婦; 夫人; 工夫; 夫妻,
+収,N3,4,6,337,又,29,シュウ,おさ.める; おさ.まる,のぶ,income; obtain; reap; pay; supply; store,吸収; 収穫; 収入; 収める; 領収; 回収; 収益; 収支,
+断,N3,11,5,338,斤,69,ダン,た.つ; ことわ.る; さだ.める,,severance; decline; refuse; apologize; warn; dismiss; prohibit; decision; judgement; cutting,横断; 断る; 判断; 診断; 断水; 断定; 油断; 決断,
+石,N3,5,1,342,石,112,セキ; シャク; コク,いし,いさ; いす; いわ; し; せっく; と,stone,石; 石炭; 石油; 宝石; 流石; 磁石; 石鹸; 化石,
+違,N3,13,8,344,辵,162,イ,ちが.う; ちが.い; ちが.える; -ちが.える; たが.う; たが.える,,difference; differ,違う; 間違える; 違反; 違い; 間違い; 違いない; 相違; 勘違い,
+消,N3,10,3,345,水,85,ショウ,き.える; け.す,,extinguish; blow out; turn off; neutralize; cancel,消す; 消える; 消しゴム; 消費; 消防; 消化; 消毒; 消耗,
+神,N3,9,3,347,示,113,シン; ジン,かみ; かん-; こう-,か; かぐ; かな; かも; くま; こ; こは; だま; み,gods; mind; soul,神社; 神; 神経; 精神; 神様; 神話; 神聖; 神殿,
+番,N3,12,2,348,田,102,バン,つが.い,は; ま,turn; number in a series,交番; 番号; 番組; 番; 順番; 当番; 番地; 留守番,
+規,N3,11,5,349,見,147,キ,,すのり; ただし; のり; み,standard; measure,規則; 規準; 規律; 定規; 不規則; 規格; 規制; 規定,
+術,N3,11,5,350,行,144,ジュツ,すべ,,art; technique; skill; means; trick; resources; magic,技術; 美術館; 芸術; 手術; 学術; 戦術; 美術,
+備,N3,12,5,356,人,9,ビ,そな.える; そな.わる; つぶさ.に,びっ; びん,equip; provision; preparation,準備; 設備; 備える; 警備; 整備; 予備; 軍備; 守備,
+宅,N3,6,6,357,宀,40,タク,,け; たか; たけ; や; やけ,home; house; residence; our house; my husband,お宅; 宅; 帰宅; 住宅; 社宅; 邸宅,
+害,N3,10,4,358,宀,40,ガイ,,,harm; injury,害; 障害; 損害; 被害; 公害; 利害; 危害; 災害,
+配,N3,10,3,359,酉,164,ハイ,くば.る,,distribute; spouse; exile; rationing,心配; 支配; 配達; 配る; 気配; 手配; 配給; 配置,
+警,N3,19,6,366,言,149,ケイ,いまし.める,,admonish; commandment,警官; 警察; 警告; 警備; 警戒; 警部,
+育,N3,8,3,369,肉,130,イク,そだ.つ; そだ.ち; そだ.てる; はぐく.む,やす,bring up; grow up; raise; rear,教育; 育てる; 育つ; 体育; 育児; 育成; 飼育; 生育,
+席,N3,10,4,370,巾,50,セキ,むしろ,,seat; mat; occasion; place,席; 出席; 欠席; 座席; 客席; 着席,
+訪,N3,11,6,372,言,149,ホウ,おとず.れる; たず.ねる; と.う,わ,call on; visit; look up; offer sympathy,訪ねる; 訪問; 訪れる,
+乗,N3,9,3,377,丿,4,ジョウ; ショウ,の.る; -の.り; の.せる,のり,ride; power; multiplication; record; counter for vehicles; board; mount; join,乗る; 乗り物; 乗り換える; 乗客; 乗せる; 乗車; 乗換; 乗っ取る,
+残,N3,10,4,380,歹,78,ザン; サン,のこ.る; のこ.す; そこな.う; のこ.り,,remainder; leftover; balance,残念; 残る; 残す; 残り; 残らず; 残金; 残酷; 残高,
+想,N3,13,3,381,心,61,ソウ; ソ,おも.う,,idea; thought; conception; think,思想; 想像; 理想; 連想; 感想; 空想; 発想; 愛想,
+声,N3,7,2,388,士,33,セイ; ショウ,こえ; こわ-,,voice,声; 歓声; 声明,
+念,N3,8,4,390,心,61,ネン,,,wish; sense; idea; thought; feeling; desire; attention,残念; 記念; 観念; 念; 概念; 無念,
+助,N3,7,3,397,力,19,ジョ,たす.ける; たす.かる; す.ける; すけ,,help; rescue; assist,援助; 救助; 助手; 助ける; 助教授; 助かる; 助; 助言,
+労,N3,7,4,398,力,19,ロウ,ろう.する; いたわ.る; いた.ずき; ねぎら; つか.れる; ねぎら.う,,labor; thank for; reward for; toil; trouble,苦労; 労働; 労る; 過労; 勤労; 疲労; 労力,
+例,N3,8,4,399,人,9,レイ,たと.える,,example; custom; usage; precedent,例えば; 例; 実例; 例外; 例える; 慣例; 前例; 比例,
+然,N3,12,4,401,火,86,ゼン; ネン,しか; しか.り; しか.し; さ,,sort of thing; so; if so; in that case; well,偶然; 自然; 天然; 突然; 自然科学; 依然; 公然; 然も,
+限,N3,9,5,405,阜,170,ゲン,かぎ.る; かぎ.り; -かぎ.り,,limit; restrict; to best of ability,限る; 限界; 制限; 期限; 限度; 無限; 局限; 権限,
+追,N3,9,3,411,辵,162,ツイ,お.う,おい,chase; drive away; follow; pursue; meanwhile,追う; 追い付く; 追加; 追い越す; 追い掛ける; 追及; 追跡; 追放,
+商,N3,11,3,413,口,30,ショウ,あきな.う,あき,make a deal; selling; dealing in; merchant,商人; 商売; 商品; 商業; 商社; 商店; 商,
+葉,N3,12,3,414,艸,140,ヨウ,は,よ; わ,leaf; plane; lobe; needle; blade; spear; counter for flat things; fragment; piece,言葉; 葉書; 葉; 紅葉; 言葉遣い; 落ち葉,
+伝,N3,6,4,416,人,9,デン; テン,つた.わる; つた.える; つた.う; つだ.う; -づた.い; つて,つたえ,transmit; go along; walk along; follow; report; communicate; legend; tradition,伝える; 手伝う; 伝統; 手伝い; 宣伝; 伝記; 伝染; 伝わる,
+働,N3,13,4,417,人,9,ドウ,はたら.く,,work; (kokuji),働く; 働き; 労働; 働; 共働き,
+形,N3,7,2,418,彡,59,ケイ; ギョウ,かた; -がた; かたち; なり,ち,shape; form; style,形; 人形; 形式; 図形; 形容詞; 正方形; 長方形; 形容動詞,
+景,N3,12,4,419,日,72,ケイ,,かげ,scenery; view,景色; 景気; 光景; 風景; 背景; 不景気,
+落,N3,12,3,420,艸,140,ラク,お.ちる; お.ち; お.とす,おち,fall; drop; come down; village; hamlet,落る; 落す; 洒落; 落第; 落着く; 落し物; 墜落; 転落,
+好,N3,6,4,423,女,38,コウ,この.む; す.く; よ.い; い.い,こ; たか; とし; よし,fond; pleasing; like something,好き; 大好き; 好み; 好む; 友好; 好き嫌い; 好き好き; 好意,
+退,N3,9,6,424,辵,162,タイ,しりぞ.く; しりぞ.ける; ひ.く; の.く; の.ける; ど.く,,retreat; withdraw; retire; resign; repel; expel; reject,退院; 引退; 退屈; 退く; 退ける; 後退; 辞退; 退化,
+頭,N3,16,2,433,頁,181,トウ; ズ; ト,あたま; かしら; -がしら; かぶり,かみ; がみ; ちゃん; つむり; づ,head; counter for large animals,頭; 頭痛; 頭脳; 先頭; 街頭; 口頭; 冒頭,
+負,N3,9,3,443,貝,154,フ,ま.ける; ま.かす; お.う,,defeat; negative; -; minus; bear; owe; assume a responsibility,負ける; 負け; 勝負; 背負う; 負う; 負債; 負傷; 負担,
+渡,N3,12,8,446,水,85,ト,わた.る; -わた.る; わた.す,お; たり; わたな; わたら; わたり,transit; ford; ferry; cross; import; deliver; diameter; migrate,渡す; 渡る; 橋渡し; 見渡す; 渡り鳥,
+失,N3,5,4,447,大,37,シツ,うしな.う; う.せる,,lose; error; fault; disadvantage; loss,失敗; 失う; 失業; 失望; 過失; 失恋; 失格; 失調,
+差,N3,10,4,449,工,48,サ,さ.す; さ.し,,distinction; difference; variation; discrepancy; margin; balance,差す; 交差点; 差し上げる; 差; 差別; 交差; 人差指; 物差し,
+末,N3,5,4,456,木,75,マツ; バツ,すえ; うら; うれ,,end; close; tip; powder; posterity,末; 粗末; 月末; 末っ子; 期末; 始末; 粉末; 末期,
+守,N3,6,3,457,宀,40,シュ; ス,まも.る; まも.り; もり; -もり; かみ,う; し; も; て,guard; protect; defend; obey,留守; 守る; 留守番; 守衛; 守備; 保守,
+若,N3,8,6,458,艸,140,ジャク; ニャク; ニャ,わか.い; わか-; も.しくわ; も.し; も.しくは; ごと.し,わく; わこ,young; if; perhaps; possibly; low number; immature,若い; 若々しい; 若干; 若しくは; 若しかして,
+種,N3,14,4,461,禾,115,シュ,たね; -ぐさ,おい; くさ; た; ほ,species; kind; class; variety; seed,種; 一種; 種類; 人種; 各種; 種々; 品種,
+美,N3,9,3,462,羊,123,ビ; ミ,うつく.しい,はる; よし; よしみ; り,beauty; beautiful,美しい; 美術館; 美人; 美容; 美; 華美; 賛美; 美術,
+命,N3,8,3,465,口,30,メイ; ミョウ,いのち,,fate; command; decree; destiny; life; appoint,一生懸命; 命; 生命; 命令; 命じる; 寿命; 人命; 命ずる,
+福,N3,13,3,467,示,113,フク,,とし; とみ; ふ; ふき; ふっ; ぼく; よし,blessing; fortune; luck; wealth,幸福; 福; 福祉,
+望,N3,11,4,470,月,74,ボウ; モウ,のぞ.む; もち,み; も,ambition; full moon; hope; desire; aspire to; expect,希望; 失望; 望み; 望む; 望遠鏡; 志望; 絶望; 待望,
+非,N3,8,5,472,非,175,ヒ,あら.ず,,un-; mistake; negative; injustice; non-,非常に; 非常; 非; 非行; 非難,
+観,N3,18,4,476,見,147,カン,み.る; しめ.す,,outlook; look; appearance; condition; view,観客; 観光; 観察; 観測; 観念; 観; 外観; 観衆,
+察,N3,14,4,477,宀,40,サツ,,,guess; presume; surmise; judge; understand,警察; 観察; 診察; 視察; 察する,
+段,N3,9,6,479,殳,79,ダン; タン,,,grade; steps; stairs,階段; 段; 手段; 普段; 段階; 一段と,
+横,N3,15,3,480,木,75,オウ,よこ,,sideways; side; horizontal; width; woof; unreasonable; perverse,横; 横断; 横切る; 横綱,
+深,N3,11,3,484,水,85,シン,ふか.い; -ぶか.い; ふか.まる; ふか.める; み-,,deep; heighten; intensify; strengthen,深い; 深刻; 深夜; 深まる; 深める; 欲深い; 情け深い,
+申,N3,5,3,492,田,102,シン,もう.す; もう.し-; さる,,have the honor to; sign of the monkey; 3-5PM; ninth sign of Chinese zodiac,申す; 申し上げる; 申し訳; 申し込む; 申請; 申し訳ない; 申告; 申出,
+様,N3,14,3,493,木,75,ヨウ; ショウ,さま; さん,,Esq.; way; manner; situation; polite suffix,様; 王様; 様々; 同様; 模様; 様子; 神様; 逆様,
+財,N3,10,5,494,貝,154,ザイ; サイ; ゾク,たから,,property; money; wealth; assets,財布; 財産; 財; 財源; 財政; 文化財,
+港,N3,12,3,495,水,85,コウ,みなと,,harbor,港; 空港,
+識,N3,19,5,496,言,149,シキ,し.る; しる.す,さと; さとる,discriminating; know; write,意識; 常識; 知識; 標識; 認識; 良識,
+呼,N3,8,6,498,口,30,コ,よ.ぶ,よぶ,call; call out to; invite,呼ぶ; 呼吸; 呼び出す; 呼び掛ける; 嗚呼; 呼び止める,
+達,N3,12,4,500,辵,162,タツ; ダ,-たち,かつ; さと; て; てつ; とおる; みち,accomplished; reach; arrive; attain,友達; 上達; 配達; 発達; 達する; 速達; 達者; 達成,
+良,N3,7,4,501,艮,138,リョウ,よ.い; -よ.い; い.い; -い.い,じ; なが; まこと; よし; ら; りょ; ろう,good; pleasing; skilled,仲良し; 改良; 善良; 不良; 良好; 良識; 良質; 良心,
+候,N3,10,4,510,人,9,コウ,そうろう,,climate; season; weather; wait for; expect,気候; 候補; 天候,
+程,N3,12,5,514,禾,115,テイ,ほど; -ほど,ほと,extent; degree; law; formula; distance; limits; amount,程度; 課程; 過程; 先程; 日程; 方程式; 左程; 中程,
+満,N3,12,4,515,水,85,マン; バン,み.ちる; み.つ; み.たす,ま; みち; みつ; みつる,full; fullness; enough; satisfy,不満; 満足; 満ちる; 満員; 満点; 未満; 円満; 満月,
+敗,N3,11,4,516,攴,66,ハイ,やぶ.れる,,failure; defeat; reversal,失敗; 勝敗; 一敗; 敗戦; 腐敗,
+値,N3,10,6,518,人,9,チ,ね; あたい,じ,price; cost; value,価値; 値; 値する; 値打ち; 値引き,
+突,N3,8,8,521,穴,116,トツ; カ,つ.く,,stab; protruding; thrust; pierce; prick; collision; sudden,衝突; 突然; 煙突; 突く; 突っ込む; 突き当たり; 突き当たる; 突如,
+光,N3,6,2,527,儿,10,コウ,ひか.る; ひかり,あき; あきら; こお; てる; ひこ; み; みつ,ray; light,光; 光る; 観光; 光景; 日光; 光線; 蛍光灯; 稲光,
+路,N3,13,3,529,足,157,ロ; ル,-じ; みち,,path; route; road; distance,道路; 針路; 線路; 通路; 海路; 回路; 経路; 進路,
+科,N3,9,2,531,禾,115,カ,,しな,department; course; section,科学; 科目; 教科書; 学科; 外科; 内科; 理科; 自然科学,
+積,N3,16,4,541,禾,115,セキ,つ.む; -づ.み; つ.もる; つ.もり,か; さか; しゃこ; ずみ; つみ,volume; product (x*y); acreage; contents; pile up; stack; load; amass,積極的; 積もる; 体積; 積む; 面積; 容積; 蓄積; 見積り,
+他,N3,5,3,543,人,9,タ,ほか,,other; another; the others,他; 他人; 他意; 他方; 他動詞,
+処,N3,5,6,547,几,16,ショ,ところ; -こ; お.る,,dispose; manage; deal with; sentence; condemn; act; behave; place,処理; 処置; 処罰; 処分; 対処; 其処ら,
+太,N3,4,2,552,大,37,タイ; タ,ふと.い; ふと.る,おお; たか; ひろ,plump; thick; big around,太い; 太る; 太陽; 太鼓,
+客,N3,9,3,557,宀,40,キャク; カク,,,guest; visitor; customer; client,客; 観客; 乗客; 客席; 客間; 客観; 旅客,
+否,N3,7,6,561,口,30,ヒ,いな; いや,,negate; no; noes; refuse; decline; deny,否; 否定; 拒否; 否決,
+師,N3,10,5,563,巾,50,シ,いくさ,のし; のり; もろ; かず; つかさ; みつ; もと,expert; teacher; master; model; exemplar; army (incl. counter); war,医師; 技師; 教師; 講師; 漁師; 牧師,
+登,N3,12,3,566,癶,105,トウ; ト; ドウ; ショウ; チョウ,のぼ.る; あ.がる,たか; のぼし; のぼり; のり,ascend; climb up,登る; 登山; 登場; 登校; 登録,
+易,N3,8,5,571,日,72,エキ; イ,やさ.しい; やす.い,,easy; ready to; simple; fortune-telling; divination,易しい; 貿易; 容易; 安易; 簡易; 交易; 辟易; 易い,
+速,N3,10,3,576,辵,162,ソク,はや.い; はや-; はや.める; すみ.やか,わ,quick; fast,速い; 急速; 高速; 速度; 加速; 早速; 時速; 速達,
+存,N3,6,6,577,子,39,ソン; ゾン,ながら.える; あ.る; たも.つ; と.う,あり; まさ,exist; suppose; be aware of; believe; feel,ご存じ; 存在; 保存; 生存; 存じる; 存ずる; 依存; 共存,
+飛,N3,9,4,580,飛,183,ヒ,と.ぶ; と.ばす; -と.ばす,あす; とび,fly; skip (pages); scatter,飛ぶ; 飛行機; 飛行場; 飛行; 飛ばす; 飛び出す; 飛び込む; 蹴飛ばす,
+殺,N3,10,5,581,殳,79,サツ; サイ; セツ,ころ.す; -ごろ.し; そ.ぐ; あや.める,,kill; murder; butcher; slice off; split; diminish; reduce; spoil,殺す; 自殺; 暗殺; 殺人,
+号,N3,5,3,585,口,30,ゴウ,さけ.ぶ; よびな,,nickname; number; item; title; pseudonym; name; call,番号; 信号; 記号; 符号; 号; 年号,
+単,N3,9,4,586,十,24,タン,ひとえ,,simple; one; single; merely,簡単; 単位; 単語; 単純; 単に; 単なる; 単数; 単,
+座,N3,10,6,588,广,53,ザ,すわ.る,,squat; seat; cushion; gathering; sit,座る; 座席; 座敷; 座布団; 座標; 星座; 座談会; 即座に,
+破,N3,10,5,590,石,112,ハ,やぶ.る; やぶ.れる; わ.れる,,rend; rip; tear; break; destroy; defeat; frustrate,破産; 破る; 破片; 破く; 破れる; 突破; 破壊; 破棄,
+除,N3,10,6,594,阜,170,ジョ; ジ,のぞ.く; -よ.け,,exclude; division (x/3); remove; abolish; cancel; except,掃除; 除く; 削除; 解除; 控除; 除外; 排除; 免除,
+完,N3,7,4,595,宀,40,カン,,,perfect; completion; end,完成; 完全; 完了; 完璧,
+降,N3,10,6,596,阜,170,コウ; ゴ,お.りる; お.ろす; ふ.る; ふ.り; くだ.る; くだ.す,ふり; ふる,descend; precipitate; fall; surrender,降る; 降りる; 降り出す; 降ろす; 以降; 下降; 降水; 降伏,
+責,N3,11,5,598,貝,154,セキ,せ.める,,blame; condemn; censure,責任; 責める; 責務,
+捕,N3,10,8,604,手,64,ホ,と.らえる; と.らわれる; と.る; とら.える; とら.われる; つか.まえる; つか.まる,,catch; capture,捕まえる; 逮捕; 捕まる; 捕る; 捕える; 捕獲; 捕鯨; 捕吏,
+危,N3,6,6,606,卩,26,キ,あぶ.ない; あや.うい; あや.ぶむ,,dangerous; fear; uneasy,危ない; 危険; 危うい; 危害; 危機; 危ぶむ,
+給,N3,12,4,615,糸,120,キュウ,たま.う; たも.う; -たま.え,きい,salary; wage; gift; allow; grant; bestow on,給料; 供給; 支給; 給与; 月給; 給仕; 給食; 給う,
+苦,N3,8,3,623,艸,140,ク,くる.しい; -ぐる.しい; くる.しむ; くる.しめる; にが.い; にが.る,,suffering; trial; worry; hardship; feel bitter; scowl,苦い; 苦痛; 苦労; 苦手; 苦しい; 苦しむ; 苦情; 苦心,
+迎,N3,7,8,625,辵,162,ゲイ,むか.える,むかえ,welcome; meet; greet,迎える; 歓迎; 迎え; 出迎え; 出迎える,
+園,N3,13,2,628,囗,31,エン,その,おん; ぞの,park; garden; yard; farm,公園; 動物園; 園芸; 遊園地; 幼稚園; 園; 田園,
+具,N3,8,3,629,八,12,グ,そな.える; つぶさ.に,とも,"tool; utensil; means; possess; ingredients; counter for armor, suits, sets of furniture",具合; 道具; 家具; 具体; 器具; 絵の具; 具える; 文房具,
+辞,N3,13,4,633,辛,160,ジ,や.める; いな.む,,resign; word; term; expression,辞書; 辞典; 辞める; 御辞儀; 辞職; 辞退; 世辞; お世辞,
+因,N3,6,5,636,囗,31,イン,よ.る; ちな.む,て,cause; factor; be associated with; depend on; be limited to,原因; 要因,
+馬,N3,10,2,639,馬,187,バ; メ; マ; ボ; モ,うま; ま,た; ばん,horse,馬; 馬鹿; 競馬; 馬鹿馬鹿しい,
+愛,N3,13,4,640,心,61,アイ,いと.しい; かな.しい; め.でる; お.しむ; まな,あ; あし; え; かな; なる; めぐ; めぐみ; よし; ちか,love; affection; favourite,愛; 愛情; 愛する; 愛想; 愛憎; 恋愛,
+富,N3,12,4,644,宀,40,フ; フウ,と.む; とみ,と; とん; ふっ,wealth; enrich; abundant,豊富; 富; 富む; 富豪,
+彼,N3,8,8,648,彳,60,ヒ,かれ; かの; か.の,その,he; that; the,彼; 彼女; 彼ら,
+未,N3,5,4,650,木,75,ミ; ビ,いま.だ; ま.だ; ひつじ,,un-; not yet; hitherto; still; even now; sign of the ram; 1-3PM; eighth sign of Chinese zodiac,未来; 未満; 未; 未だ; 未開; 未婚; 未熟; 未知,
+舞,N3,15,8,655,舛,136,ブ,ま.う; -ま.う; まい,,dance; flit; circle; wheel,お見舞い; 舞台; 見舞い; 振舞う; 見舞う; 仕舞; 舞う,
+亡,N3,3,6,661,亠,8,ボウ; モウ,な.い; な.き-; ほろ.びる; ほろ.ぶ; ほろ.ぼす,,deceased; the late; dying; perish,亡くなる; 死亡; 亡くす; 逃亡; 滅亡,
+冷,N3,7,4,667,冫,15,レイ,つめ.たい; ひ.える; ひ.や; ひ.ややか; ひ.やす; ひ.やかす; さ.める; さ.ます,,"cool; cold (beer, person); chill",冷たい; 冷蔵庫; 冷房; 冷える; 冷静; 冷凍; 冷ます; 冷める,
+適,N3,14,5,670,辵,162,テキ,かな.う,,suitable; occasional; rare; qualified; capable,適当; 快適; 適切; 適度; 適用; 適する; 適確; 適応,
+婦,N3,11,5,671,女,38,フ,よめ,ね,lady; woman; wife; bride,看護婦; 主婦; 夫婦; 婦人; 産婦人科,
+寄,N3,11,5,673,宀,40,キ,よ.る; -よ.り; よ.せる,よせ; より; よろ,draw near; stop in; bring near; gather; collect; send; forward,寄る; 寄付; 年寄; 片寄る; 近寄る; 寄せる; 寄贈; 寄与,
+込,N3,5,8,675,辵,162,,-こ.む; こ.む; こ.み; -こ.み; こ.める,こみ; ごめ,crowded; mixture; in bulk; included; (kokuji),込む; 人込み; 申し込む; 思い込む; 突っ込む; 溶け込む; 飛び込む; 払い込む,
+顔,N3,18,2,676,頁,181,ガン,かお,,face; expression,笑顔; 顔付き,
+類,N3,18,4,678,頁,181,ルイ,たぐ.い,,sort; kind; variety; class; genus,種類; 書類; 人類; 親類; 分類; 類; 衣類; 類似,
+余,N3,7,5,680,人,9,ヨ,あま.る; あま.り; あま.す; あんま.り,あまる,too much; myself; surplus; other; remainder,余分; 余裕; 余る; 余計; 余所; 余暇; 余興; 余地,
+王,N3,4,1,684,玉,96,オウ; -ノウ,,おお; おおきみ; わ,king; rule; magnate,王; 王様; 王子; 女王; 王女; 国王,
+返,N3,7,3,685,辵,162,ヘン,かえ.す; -かえ.す; かえ.る; -かえ.る,,return; answer; fade; repay,返す; 返事; 繰り返す; 裏返す; 引返す; 引っ繰り返す; 引っ繰り返る; 返る,
+妻,N3,8,5,691,女,38,サイ,つま,ずま; め,wife; spouse,妻; 夫妻,
+背,N3,9,6,696,肉,130,ハイ,せ; せい; そむ.く; そむ.ける,,stature; height; back; behind; disobey; defy; go back on; rebel,背; 背広; 背中; 背負う; 背く; 背景; 背後,
+熱,N3,15,4,700,火,86,ネツ,あつ.い,あた,heat; temperature; fever; mania; passion,熱い; 熱; 熱帯; 熱中; 加熱; 熱する; 情熱; 熱意,
+宿,N3,11,3,701,宀,40,シュク,やど; やど.る; やど.す,すく; ぶすき; やけ,inn; lodging; relay station; dwell; lodge; be pregnant; home; dwelling,宿題; 下宿; 宿; 宿泊; 宿命; 民宿,
+薬,N3,16,3,702,艸,140,ヤク,くすり,み,medicine; chemical; enamel; gunpowder; benefit,薬; 薬指; 農薬; 薬缶; 薬品; 薬局,
+険,N3,11,5,707,阜,170,ケン,けわ.しい,,precipitous; inaccessible place; impregnable position; steep place; sharp eyes,危険; 冒険; 険しい; 保険,
+頼,N3,16,8,708,頁,181,ライ,たの.む; たの.もしい; たよ.る,よち; より,trust; request,頼む; 依頼; 信頼; 頼る; 頼もしい; 頼み,
+覚,N3,12,4,710,見,147,カク,おぼ.える; さ.ます; さ.める; さと.る,,memorize; learn; remember; awake; sober up,覚える; 覚悟; 感覚; 覚ます; 覚める; 目覚し; 覚え; 錯覚,
+船,N3,11,2,713,舟,137,セン,ふね; ふな-,ふ,ship; boat,船; 造船; 風船; 船便; 汽船; 漁船; 船舶,
+途,N3,10,8,717,辵,162,ト,みち,,route; way; road,途中; 途端; 中途; 用途; 前途; 途上; 途絶える,
+許,N3,11,5,720,言,149,キョ,ゆる.す; もと,,permit; approve,許可; 免許; 許す; 許容; 特許,
+抜,N3,7,8,726,手,64,バツ; ハツ; ハイ,ぬ.く; -ぬ.く; ぬ.き; ぬ.ける; ぬ.かす; ぬ.かる,ぬき,slip out; extract; pull out; pilfer; quote; remove; omit,抜く; 抜ける; 海抜; 抜かす; 抜け出す,
+便,N3,9,4,729,人,9,ベン; ビン,たよ.り,,convenience; facility; excrement; feces; letter; chance,便利; 郵便局; 不便; 便; 便り; 郵便; 小便; 便箋,
+留,N3,10,5,731,田,102,リュウ; ル,と.める; と.まる; とど.める; とど.まる; るうぶる,とめ,detain; fasten; halt; stop,留学生; 留守; 留学; 停留所; 留める; 書留; 留まる; 留守番,
+罪,N3,13,5,732,网,122,ザイ,つみ,,guilt; sin; crime; fault; blame; offense,罪; 犯罪,
+努,N3,7,4,749,力,19,ド,つと.める,,toil; diligent; as much as possible,努力; 努める; 努めて,
+精,N3,14,5,752,米,119,セイ; ショウ,しら.げる; くわ.しい,きよ,refined; ghost; fairy; energy; vitality; semen; excellence; purity; skill,精神; 精々; 精巧; 精密,
+散,N3,12,4,758,攴,66,サン,ち.る; ち.らす; -ち.らす; ち.らかす; ち.らかる; ち.らばる; ばら; ばら.ける,ちる,scatter; disperse; spend; squander,散歩; 解散; 散る; 散らす; 散らかす; 散らかる; 拡散; 分散,
+静,N3,14,4,764,靑,174,セイ; ジョウ,しず-; しず.か; しず.まる; しず.める,しづ,quiet,静か; 冷静; 静まる; 安静; 静止; 静的,
+婚,N3,11,8,767,女,38,コン,,,marriage,結婚; 婚約; 離婚; 既婚; 新婚; 未婚,
+喜,N3,12,5,769,口,30,キ,よろこ.ぶ; よろこ.ばす,あき; きゅ; のぶ; ゆき; よし,rejoice; take pleasure in,喜ぶ; 喜び; 喜劇,
+浮,N3,10,8,776,水,85,フ,う.く; う.かれる; う.かぶ; う.かべる,うき,floating; float; rise to surface,浮ぶ; 浮く; 浮かべる; 浮気; 浮力,
+絶,N3,12,5,784,糸,120,ゼツ,た.える; た.やす; た.つ,,discontinue; sever; cut off; abstain; interrupt; suppress; be beyond; without match; peerless; unparalleled,絶対; 絶滅; 絶えず; 拒絶; 謝絶; 絶版; 絶望; 絶つ,
+幸,N3,8,3,786,干,51,コウ,さいわ.い; さち; しあわ.せ,こ; さき; さし; さっ; とも; ひろ; みゆき; ゆ; ゆき; よし,happiness; blessing; fortune,幸運; 幸福; 幸い; 幸せ; 不幸,
+押,N3,8,8,789,手,64,オウ,お.す; お.し-; お.っ-; お.さえる; おさ.える,おし; おす; おや,push; stop; check; subdue; attach; seize; weight; shove; press; seal; do in spite of,押す; 押し入れ; 押える; 押し込む; 押し寄せる,
+倒,N3,10,8,791,人,9,トウ,たお.れる; -だお.れ; たお.す; さかさま; さかさ; さかしま,,overthrow; fall; collapse; drop; break down,倒れる; 倒す; 面倒; 面倒臭い; 倒産,
+等,N3,12,3,798,竹,118,トウ,ひと.しい; など; -ら,と; ひ,etc.; and so forth; class (first); quality; equal; similar,高等学校; 上等; 平等; 等しい; 高等; 等分; 等; 対等,
+老,N3,6,4,803,老,125,ロウ,お.いる; ふ.ける,えび; おい; び,old man; old age; grow old,老い; 老人; 老衰; 老いる; 老ける,
+曲,N3,6,3,810,曰,73,キョク,ま.がる; ま.げる; くま,まがた,bend; music; melody; composition; pleasure; injustice; fault; curve; crooked; perverse; lean,曲る; 作曲; 曲線; 曲げる; 曲; 婉曲; 戯曲,
+払,N3,5,8,813,手,64,フツ; ヒツ; ホツ,はら.う; -はら.い; -ばら.い,はらい,pay; clear out; prune; banish; dispose of,払う; 支払; 支払う; 払い込む; 払い戻す; 酔っ払い,
+庭,N3,10,3,816,广,53,テイ,にわ,ば,courtyard; garden; yard,庭; 家庭; 校庭,
+徒,N3,10,4,817,彳,60,ト,いたずら; あだ,かち,on foot; junior; emptiness; vanity; futility; uselessness; ephemeral thing; gang; set; party; people,生徒; 徒歩,
+勤,N3,12,6,830,力,19,キン; ゴン,つと.める; -づと.め; つと.まる; いそ.しむ,,diligence; become employed; serve,勤める; 勤め; 出勤; 通勤; 勤勉; 勤務; 勤労; 転勤,
+遅,N3,12,8,833,辵,162,チ,おく.れる; おく.らす; おそ.い,じ,slow; late; back; later,遅い; 遅れる; 遅刻; 遅れ; 遅らす; 手遅れ; 遅くとも,
+居,N3,8,5,836,尸,44,キョ; コ,い.る; -い; お.る,おき; ぐ; すえ,reside; to be; exist; live with,居る; 居間; 芝居; 居眠り; 住居; 隠居; 居住; 皇居,
+雑,N3,14,5,839,隹,172,ザツ; ゾウ,まじ.える; まじ.る,,miscellaneous,雑誌; 複雑; 混雑; 雑音; 雑巾; 雑; 雑貨; 雑談,
+招,N3,8,5,840,手,64,ショウ,まね.く,,beckon; invite; summon; engage,招待; 招く; 招き,
+困,N3,7,6,843,囗,31,コン,こま.る,,quandary; become distressed; annoyed,困る; 困難; 貧困,
+欠,N3,4,4,860,欠,76,ケツ; ケン,か.ける; か.く,,lack; gap; fail; yawning radical (no. 76),欠陥; 欠席; 欠点; 欠ける; 欠く; 欠乏; 不可欠,
+更,N3,7,8,861,曰,73,コウ,さら; さら.に; ふ.ける; ふ.かす,,grow late; night watch; sit up late; of course; renew; renovate; again; more and more; further,更に; 変更; 更ける; 今更; 尚更; 夜更け; 夜更かし,
+刻,N3,8,6,866,刀,18,コク,きざ.む; きざ.み,,engrave; cut fine; chop; hash; mince; time; carving,時刻; 深刻; 遅刻; 刻む; 彫刻; 時刻表,
+賛,N3,15,5,868,貝,154,サン,たす.ける; たた.える,,approve; praise; title or inscription on picture; assist; agree with,賛成; 賛美,
+抱,N3,8,8,871,手,64,ホウ,だ.く; いだ.く; かか.える,たば,embrace; hug; hold in arms,抱く; 抱える; 介抱; 辛抱,
+犯,N3,5,5,874,犬,94,ハン; ボン,おか.す,,crime; sin; offense,犯罪; 犯人; 防犯; 犯す,
+恐,N3,10,8,878,心,61,キョウ,おそ.れる; おそ.る; おそ.ろしい; こわ.い; こわ.がる,,fear; dread; awe,恐怖; 恐れる; 恐ろしい; 恐縮; 恐れ; 恐れ入る,
+息,N3,10,3,882,心,61,ソク,いき,,breath; respiration; son; interest (on money); rest; coming to an end,息子; 息; 休息; 溜息; 子息; 消息; 窒息; 一息,
+遠,N3,13,2,887,辵,162,エン; オン,とお.い,お; おに; ど; どお,distant; far,遠い; 遠慮; 遠く; 永遠; 遠足; 望遠鏡; 遠方; 遠回り,
+戻,N3,7,8,890,戶,63,レイ,もど.す; もど.る,,re-; return; revert; resume; restore; go backwards,戻る; 戻す; 払い戻す; 取り戻す,
+願,N3,19,4,894,頁,181,ガン,ねが.う; -ねがい,ら,petition; request; vow; wish; hope,願い; 願う; 願書,
+絵,N3,12,2,895,糸,120,カイ; エ,,,picture; drawing; painting; sketch,絵; 絵画; 絵の具; 油絵,
+越,N3,12,8,897,走,156,エツ; オツ,こ.す; -こ.す; -ご.し; こ.える; -ご.え,えち; えっ; お; こえ; こし; ごえ; ごし; ごや,surpass; cross over; move to; exceed; Vietnam,引っ越す; 越す; 越える; 引越し; 追い越す; 優越,
+欲,N3,11,6,902,欠,76,ヨク,ほっ.する; ほ.しい,,longing; covetousness; greed; passion; desire; craving,欲しい; 食欲; 欲張り; 意欲; 欲望; 欲深い,
+痛,N3,12,6,903,疒,104,ツウ,いた.い; いた.む; いた.ましい; いた.める,,pain; hurt; damage; bruise,痛い; 痛み; 苦痛; 頭痛; 痛む; 痛感; 痛切; 痛める,
+笑,N3,10,4,913,竹,118,ショウ,わら.う; え.む,えみ,laugh,笑う; 笑顔; 笑い; 微笑む; 微笑; あざ笑う,
+互,N3,4,8,914,二,7,ゴ,たが.い; かたみ.に,,mutually; reciprocally; together,互い; お互い; 相互; 交互,
+束,N3,7,4,918,木,75,ソク,たば; たば.ねる; つか; つか.ねる,,bundle; sheaf; ream; tie in bundles; govern; manage; control,約束; 束; 結束; 拘束; 束縛; 束の間,
+似,N3,7,5,923,人,9,ジ,に.る; ひ.る,にた,becoming; resemble; counterfeit; imitate; suitable,似る; 真似; 似合う; 真似る; 類似; 似通う,
+列,N3,6,3,927,刀,18,レツ; レ,,れっ,file; row; rank; tier; column,列; 列車; 行列; 列島; 整列; 陳列; 配列; 並列,
+探,N3,11,6,930,手,64,タン,さぐ.る; さが.す,,grope; search; look for,探す; 探る; 探検,
+逃,N3,9,8,931,辵,162,トウ,に.げる; に.がす; のが.す; のが.れる,,escape; flee; shirk; evade; set free,逃げる; 逃がす; 逃走; 逃亡; 逃す; 逃れる; 見逃す; 逃げ出す,
+遊,N3,12,3,941,辵,162,ユウ; ユ,あそ.ぶ; あそ.ばす,あす; う,play,遊ぶ; 遊び; 遊園地; 遊牧,
+迷,N3,9,5,942,辵,162,メイ,まよ.う,,astray; be perplexed; in doubt; lost; err; illusion,迷子; 迷惑; 迷信,
+夢,N3,13,5,943,夕,36,ム; ボウ,ゆめ; ゆめ.みる; くら.い,,dream; vision; illusion,夢; 夢中,
+君,N3,7,3,947,口,30,クン,きみ; -ぎみ,み,mister; you; ruler; male name suffix,君; 君主; 諸君,
+閉,N3,11,6,951,門,169,ヘイ,と.じる; と.ざす; し.める; し.まる; た.てる,へ,closed; shut,閉まる; 閉める; 閉じる; 閉会; 閉口; 閉鎖,
+緒,N3,14,8,952,糸,120,ショ; チョ,お; いとぐち,ほ,thong; beginning; inception; end; cord; strap; mental or emotional state,一緒; 情緒,
+折,N3,7,4,962,手,64,セツ; シャク,お.る; おり; お.り; -お.り; お.れる,せき,fold; break; fracture; bend; yield; submit,折る; 折れる; 骨折; 折角; 屈折; 折衷; 時折; 折り返す,
+草,N3,9,1,967,艸,140,ソウ,くさ; くさ-; -ぐさ,そ; や,grass; weeds; herbs; pasture; write; draft,草; 草履,
+暮,N3,14,6,978,日,72,ボ,く.れる; く.らす,ぐらし; ぐれ; ぽ,evening; twilight; season's end; livelihood; make a living; spend time,暮れる; 暮れ; 暮らし; 暮らす; 夕暮れ,
+酒,N3,10,3,1006,酉,164,シュ,さけ; さか-,き; さ; し,sake; alcohol,お酒; 酒; 酒場,
+悲,N3,12,3,1014,心,61,ヒ,かな.しい; かな.しむ,,grieve; sad; deplore; regret,悲しい; 悲劇; 悲しむ; 悲観; 悲惨; 悲鳴,
+晴,N3,12,2,1022,日,72,セイ,は.れる; は.れ; は.れ-; -ば.れ; は.らす,はる; はれ,clear up,晴れ; 晴れる; 快晴; 晴天; 見晴らし,
+掛,N3,11,8,1027,手,64,カイ; ケイ,か.ける; -か.ける; か.け; -か.け; -が.け; か.かる; -か.かる; -が.かる; か.かり; -が.かり; かかり; -がかり,かけ,hang; suspend; depend; arrive at; tax; pour,お目に掛かる; 掛け算; 腰掛け; 見掛け; お出掛け; 腰掛ける; 追い掛ける; 通り掛かる,
+到,N3,8,8,1032,刀,18,トウ,いた.る,,arrival; proceed; reach; attain; result in,到着; 到達; 到底,
+寝,N3,13,8,1034,宀,40,シン,ね.る; ね.かす; い.ぬ; みたまや; や.める,,lie down; sleep; rest; bed; remain unsold,寝る; 寝坊; 寝台; 寝巻; 昼寝; 寝間着; 朝寝坊; 寝かせる,
+暗,N3,13,3,1040,日,72,アン,くら.い; くら.む; くれ.る,,darkness; disappear; shade; informal; grow dark; be blinded,暗い; 暗記; 薄暗い; 真っ暗; 暗殺; 暗算; 暗示,
+盗,N3,11,8,1051,皿,108,トウ,ぬす.む; ぬす.み,,steal; rob; pilfer,盗む; 強盗; 盗難; 盗み,
+吸,N3,6,6,1054,口,30,キュウ,す.う,,suck; imbibe; inhale; sip,吸う; 吸収; 呼吸,
+陽,N3,12,3,1071,阜,170,ヨウ,ひ,あき; あきら; あけ; はる; ひろ; やん; よ,sunshine; yang principle; positive; male; heaven; daytime,太陽; 陽気; 陽射,
+御,N3,12,8,1087,彳,60,ギョ; ゴ,おん-; お-; み-,う,honorable; manipulate; govern,御飯; 朝御飯; 晩御飯; 昼御飯; 御主人; 御; 御中; 御免,
+歯,N3,12,3,1106,止,77,シ,よわい; は; よわ.い; よわい.する,,tooth; cog,歯; 歯医者; 虫歯; 歯車; 歯磨き; 歯科,
+忘,N3,7,6,1129,心,61,ボウ,わす.れる,,forget,忘れる; 忘れ物; 度忘れ,
+雪,N3,11,2,1131,雨,173,セツ,ゆき,せっ; ぶき,snow,雪; 吹雪; 雪崩,
+吹,N3,7,8,1133,口,30,スイ,ふ.く,ふき,blow; breathe; puff; emit; smoke,吹く; 吹雪; 吹奏,
+娘,N3,10,8,1145,女,38,ジョウ,むすめ; こ,,daughter; girl,娘,
+誤,N3,14,6,1150,言,149,ゴ,あやま.る; -あやま.る,,mistake; err; do wrong; mislead,誤り; 誤解; 誤る; 誤差; 錯誤; 誤魔化す,
+洗,N3,9,6,1168,水,85,セン,あら.う,あらい; らい,wash; inquire into; probe,洗う; 洗濯; お手洗い; 洗剤; 手洗い; 水洗,
+畑,N3,9,3,1176,田,102,,はた; はたけ; -ばたけ,かま; まま,farm; field; garden; one's specialty; (kokuji),畑,true
+慣,N3,14,5,1177,心,61,カン,な.れる; な.らす,,accustomed; get used to; become experienced,習慣; 慣れる; 見慣れる; 慣行; 慣習; 慣用; 慣例; 慣れ,
+礼,N3,5,3,1185,示,113,レイ; ライ,,あや; なり; のり; ひろし; れ,salute; bow; ceremony; thanks; remuneration,お礼; 礼; 礼儀; 無礼,
+窓,N3,11,6,1186,穴,116,ソウ; ス,まど; てんまど; けむだし,,window; pane,窓; 窓口,
+昔,N3,8,3,1197,日,72,セキ; シャク,むかし,,once upon a time; antiquity; old times,昔,
+貧,N3,11,5,1211,貝,154,ヒン; ビン,まず.しい,,poverty; poor,貧しい; 貧困; 貧弱; 貧乏,
+怒,N3,9,8,1221,心,61,ド; ヌ,いか.る; おこ.る,,angry; be offended,怒る; 怒り,
+泳,N3,8,3,1223,水,85,エイ,およ.ぐ,,swim,泳ぐ; 水泳; 泳ぎ方; 泳ぎ,
+祖,N3,9,5,1226,示,113,ソ,,い,ancestor; pioneer; founder,お祖父さん; 祖父; 祖母; 先祖; 祖先,
+杯,N3,8,8,1235,木,75,ハイ,さかずき,,counter for cupfuls; wine glass; glass; toast,乾杯; 杯,
+疲,N3,10,8,1263,疒,104,ヒ,つか.れる; -づか.れ; つか.らす,,exhausted; tire; weary,疲れる; 疲れ; 疲労,
+皆,N3,9,8,1267,白,106,カイ,みな; みんな,むな,all; everything,皆さん; 皆,
+鳴,N3,14,2,1279,鳥,196,メイ,な.く; な.る; な.らす,なり; なる,chirp; cry; bark; sound; ring; echo; honk,鳴く; 鳴る; 鳴らす; 共鳴; 悲鳴,
+腹,N3,13,6,1286,肉,130,フク,はら,,abdomen; belly; stomach,腹; 空腹; 山腹; 中腹; 腹立ち,
+煙,N3,13,8,1290,火,86,エン,けむ.る; けむり; けむ.い,たば,smoke,煙; 禁煙; 煙突; 煙い; 煙る; 煙たい,
+眠,N3,10,8,1315,目,109,ミン,ねむ.る; ねむ.い,ね,sleep; die; sleepy,眠い; 眠る; 睡眠; 居眠り; 冬眠; 眠たい,
+怖,N3,8,8,1325,心,61,フ; ホ,こわ.い; こわ.がる; お.じる; おそ.れる,,dreadful; be frightened; fearful,怖い; 恐怖,
+耳,N3,6,1,1328,耳,128,ジ,みみ,がみ,ear,耳; 初耳; 耳鼻科,
+頂,N3,11,6,1350,頁,181,チョウ,いただ.く; いただき,,place on the head; receive; top of head; top; summit; peak,頂上; 頂点; 頂,
+箱,N3,15,3,1357,竹,118,ソウ,はこ,,box; chest; case; bin; railway car,箱,
+晩,N3,12,6,1424,日,72,バン,,,nightfall; night,晩; 今晩; 毎晩; 晩御飯,
+寒,N3,12,3,1456,宀,40,カン,さむ.い,さ; さん,cold,寒い; 寒帯; 寒気,
+髪,N3,14,8,1474,髟,190,ハツ,かみ,がた; ひげ,hair of the head,髪; 髪の毛; 白髪,
+忙,N3,6,8,1475,心,61,ボウ; モウ,いそが.しい; せわ.しい; おそ.れる; うれえるさま,,busy; occupied; restless,忙しい; 多忙,
+才,N3,3,2,1497,手,64,サイ,,,genius; years old; cubic shaku,才能; 天才,
+粧,N3,12,8,1545,米,119,ショウ,,さ,cosmetics; adorn (one's person),化粧,true
+靴,N3,13,8,1561,革,177,カ,くつ,,shoes,靴; 靴下,
+恥,N3,10,8,1575,心,61,チ,は.じる; はじ; は.じらう; は.ずかしい,,shame; dishonor,恥ずかしい; 恥; 恥じる; 恥じらう,
+偶,N3,11,8,1602,人,9,グウ,たま,,accidentally; even number; couple; man & wife; same kind,偶; 偶然; 偶々; 偶数; 配偶者,
+偉,N3,12,8,1639,人,9,イ,えら.い,ひで,admirable; greatness; remarkable; conceited; famous; excellent,偉大; 偉い,
+尻,N3,5,8,1692,尸,44,コウ,しり,がみ,buttocks; hips; butt; rear,尻,true
+猫,N3,11,8,1702,犬,94,ビョウ,ねこ,,cat,猫,
+幾,N3,12,8,1725,幺,52,キ,いく-; いく.つ; いく.ら,い; く,how many; how much; how far; how long; some; several,幾分; 幾多,
+脇,N3,10,8,1806,肉,130,キョウ,わき; わけ,,armpit; the other way; another place; flank; supporting role,脇,true
+鍋,N3,17,8,1810,金,167,カ,なべ,,pot; pan; kettle,鍋,true
+袖,N3,10,8,1960,衣,145,シュウ,そで,,sleeve; wing (building); extension; give cold shoulder,袖,true
+頃,N3,11,8,2015,頁,181,ケイ; キョウ,ころ; ごろ; しばら.く,ころも,time; about; toward,頃; 近頃; 手頃; 年頃; 日頃; 一頃,true
+謎,N3,16,8,2021,言,149,メイ; ベイ,なぞ,,riddle; puzzle; enigma; hint; tip,謎; 謎謎,true
+餌,N3,14,8,2277,食,184,ジ; ニ,え; えば; えさ; もち,,food; bait; prey; tempting profit,餌,true
+膝,N3,15,8,2320,肉,130,シツ,ひざ,,knee; lap,膝,true
+諦,N3,16,8,2457,言,149,テイ; タイ,あきら.める; つまびらか; まこと,,truth; clarity; abandon; give up,諦める; 諦め,true
+僅,N3,12,8,,人,9,キン; ゴン,わず.か,,a wee bit,僅か; 僅,true
+戚,N3,11,8,,戈,62,ソク; セキ,いた.む; うれ.える; みうち,,grieve; relatives,親戚,true
+溺,N3,13,8,,水,85,デキ; ジョウ; ニョウ,いばり; おぼ.れる,,drown; indulge,溺れる,true
+籠,N3,22,8,,竹,118,ロウ; ル,かご; こ.める; こも.る; こ.む,ごめ; もり,basket; devote oneself; seclude oneself; cage; coop; implied,籠,true
