@@ -44,5 +44,6 @@
   {"level": "N2", "front": "反る", "why": "Reading belongs to 返る; 反る \"to warp\" is read そる.", "set": {"reading": "そる"}},
   {"level": "N1", "front": "いく", "why": "Only a slang sense of 行く (already at N5); not a separate word.", "drop": true},
   {"level": "N1", "front": "汚す", "why": "A second word: けがす \"to disgrace\"; 汚す よごす \"to soil\" is at N2.", "set": {"reading": "けがす"}},
-  {"level": "N1", "front": "未だ", "why": "A second word: literary いまだ \"as yet\"; 未だ まだ is at N3.", "set": {"reading": "いまだ"}}
+  {"level": "N1", "front": "未だ", "why": "A second word: literary いまだ \"as yet\"; 未だ まだ is at N3.", "set": {"reading": "いまだ"}},
+  {"level": "N3", "front": "日", "why": "Gloss is that of 日 ひ (N4); read にち the word is the counter/suffix for days.", "set": {"meanings": ["day (of the month)", "counter for days", "Sunday (abbreviation)"]}}
 ]
