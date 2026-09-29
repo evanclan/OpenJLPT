@@ -5,6 +5,8 @@
     "strokes": 6,
     "grade": 2,
     "freq": 4,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "カイ",
       "エ"
@@ -21,6 +23,20 @@
       "association",
       "interview",
       "join"
+    ],
+    "nanori": [
+      "あい",
+      "い"
+    ],
+    "words": [
+      "会う",
+      "会社",
+      "会議",
+      "会場",
+      "会話",
+      "機会",
+      "教会",
+      "社会"
     ]
   },
   {
@@ -29,6 +45,8 @@
     "strokes": 6,
     "grade": 2,
     "freq": 15,
+    "radical": "口",
+    "radical_number": 30,
     "onyomi": [
       "ドウ"
     ],
@@ -39,6 +57,16 @@
       "same",
       "agree",
       "equal"
+    ],
+    "words": [
+      "同じ",
+      "共同",
+      "同一",
+      "同時",
+      "同様",
+      "同僚",
+      "合同",
+      "同格"
     ]
   },
   {
@@ -47,6 +75,8 @@
     "strokes": 8,
     "grade": 3,
     "freq": 18,
+    "radical": "亅",
+    "radical_number": 6,
     "onyomi": [
       "ジ",
       "ズ"
@@ -63,6 +93,19 @@
       "business",
       "reason",
       "possibly"
+    ],
+    "nanori": [
+      "ろ"
+    ],
+    "words": [
+      "仕事",
+      "火事",
+      "事故",
+      "食事",
+      "大事",
+      "返事",
+      "用事",
+      "事務所"
     ]
   },
   {
@@ -71,6 +114,8 @@
     "strokes": 6,
     "grade": 2,
     "freq": 19,
+    "radical": "自",
+    "radical_number": 132,
     "onyomi": [
       "ジ",
       "シ"
@@ -82,6 +127,19 @@
     ],
     "meanings": [
       "oneself"
+    ],
+    "nanori": [
+      "より"
+    ],
+    "words": [
+      "自分",
+      "自転車",
+      "自動車",
+      "自由",
+      "自殺",
+      "自身",
+      "自然",
+      "自動"
     ]
   },
   {
@@ -90,6 +148,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 21,
+    "radical": "示",
+    "radical_number": 113,
     "onyomi": [
       "シャ"
     ],
@@ -102,6 +162,19 @@
       "office",
       "association",
       "shrine"
+    ],
+    "nanori": [
+      "こそ"
+    ],
+    "words": [
+      "会社",
+      "社会",
+      "社長",
+      "神社",
+      "新聞社",
+      "社説",
+      "商社",
+      "入社"
     ]
   },
   {
@@ -110,6 +183,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 32,
+    "radical": "癶",
+    "radical_number": 105,
     "onyomi": [
       "ハツ",
       "ホツ"
@@ -129,6 +204,20 @@
       "start from",
       "disclose",
       "counter for gunshots"
+    ],
+    "nanori": [
+      "ば",
+      "わ"
+    ],
+    "words": [
+      "出発",
+      "発音",
+      "爆発",
+      "発見",
+      "発行",
+      "発車",
+      "発達",
+      "発展"
     ]
   },
   {
@@ -137,6 +226,8 @@
     "strokes": 8,
     "grade": 3,
     "freq": 38,
+    "radical": "老",
+    "radical_number": 125,
     "onyomi": [
       "シャ"
     ],
@@ -146,6 +237,16 @@
     "meanings": [
       "someone",
       "person"
+    ],
+    "words": [
+      "医者",
+      "歯医者",
+      "者",
+      "学者",
+      "患者",
+      "記者",
+      "後者",
+      "前者"
     ]
   },
   {
@@ -154,6 +255,8 @@
     "strokes": 6,
     "grade": 2,
     "freq": 40,
+    "radical": "土",
+    "radical_number": 32,
     "onyomi": [
       "チ",
       "ジ"
@@ -162,6 +265,19 @@
     "meanings": [
       "ground",
       "earth"
+    ],
+    "nanori": [
+      "どま"
+    ],
+    "words": [
+      "地図",
+      "地下鉄",
+      "地震",
+      "地理",
+      "地",
+      "生地",
+      "地位",
+      "地域"
     ]
   },
   {
@@ -170,6 +286,8 @@
     "strokes": 13,
     "grade": 3,
     "freq": 43,
+    "radical": "木",
+    "radical_number": 75,
     "onyomi": [
       "ギョウ",
       "ゴウ"
@@ -182,6 +300,20 @@
       "vocation",
       "arts",
       "performance"
+    ],
+    "nanori": [
+      "なり",
+      "のぶ"
+    ],
+    "words": [
+      "授業",
+      "工業",
+      "産業",
+      "卒業",
+      "営業",
+      "企業",
+      "作業",
+      "失業"
     ]
   },
   {
@@ -190,6 +322,8 @@
     "strokes": 4,
     "grade": 2,
     "freq": 46,
+    "radical": "方",
+    "radical_number": 70,
     "onyomi": [
       "ホウ"
     ],
@@ -202,6 +336,26 @@
       "direction",
       "person",
       "alternative"
+    ],
+    "nanori": [
+      "から",
+      "な",
+      "なた",
+      "ふさ",
+      "まさ",
+      "みち",
+      "も",
+      "わ"
+    ],
+    "words": [
+      "方",
+      "夕方",
+      "仕方",
+      "両方",
+      "泳ぎ方",
+      "一方",
+      "方々",
+      "地方"
     ]
   },
   {
@@ -210,6 +364,8 @@
     "strokes": 13,
     "grade": 2,
     "freq": 51,
+    "radical": "斤",
+    "radical_number": 69,
     "onyomi": [
       "シン"
     ],
@@ -221,6 +377,25 @@
     ],
     "meanings": [
       "new"
+    ],
+    "nanori": [
+      "あせ",
+      "あたらし",
+      "し",
+      "に",
+      "にっ",
+      "につ",
+      "よし"
+    ],
+    "words": [
+      "新聞",
+      "新しい",
+      "新聞社",
+      "新た",
+      "新鮮",
+      "新幹線",
+      "新",
+      "革新"
     ]
   },
   {
@@ -229,6 +404,8 @@
     "strokes": 12,
     "grade": 2,
     "freq": 52,
+    "radical": "土",
+    "radical_number": 32,
     "onyomi": [
       "ジョウ",
       "チョウ"
@@ -239,6 +416,16 @@
     "meanings": [
       "location",
       "place"
+    ],
+    "words": [
+      "会場",
+      "工場",
+      "場合",
+      "場所",
+      "売り場",
+      "駐車場",
+      "飛行場",
+      "場"
     ]
   },
   {
@@ -247,6 +434,8 @@
     "strokes": 10,
     "grade": 3,
     "freq": 54,
+    "radical": "口",
+    "radical_number": 30,
     "onyomi": [
       "イン"
     ],
@@ -256,6 +445,20 @@
       "member",
       "number",
       "the one in charge"
+    ],
+    "nanori": [
+      "いな",
+      "かず"
+    ],
+    "words": [
+      "店員",
+      "公務員",
+      "委員",
+      "会員",
+      "議員",
+      "全員",
+      "工員",
+      "定員"
     ]
   },
   {
@@ -264,6 +467,8 @@
     "strokes": 5,
     "grade": 1,
     "freq": 58,
+    "radical": "立",
+    "radical_number": 117,
     "onyomi": [
       "リツ",
       "リュウ",
@@ -286,6 +491,23 @@
       "rise",
       "set up",
       "erect"
+    ],
+    "nanori": [
+      "たち",
+      "たっ",
+      "たつ",
+      "だて",
+      "つい"
+    ],
+    "words": [
+      "立つ",
+      "立てる",
+      "役に立つ",
+      "立場",
+      "独立",
+      "立ち上がる",
+      "国立",
+      "献立"
     ]
   },
   {
@@ -294,6 +516,8 @@
     "strokes": 12,
     "grade": 3,
     "freq": 59,
+    "radical": "門",
+    "radical_number": 169,
     "onyomi": [
       "カイ"
     ],
@@ -309,6 +533,21 @@
       "open",
       "unfold",
       "unseal"
+    ],
+    "nanori": [
+      "はる",
+      "か",
+      "ひらき"
+    ],
+    "words": [
+      "開く",
+      "開ける",
+      "開始",
+      "開会",
+      "開通",
+      "開放",
+      "展開",
+      "開催"
     ]
   },
   {
@@ -317,6 +556,8 @@
     "strokes": 4,
     "grade": 1,
     "freq": 60,
+    "radical": "手",
+    "radical_number": 64,
     "onyomi": [
       "シュ",
       "ズ"
@@ -329,6 +570,16 @@
     ],
     "meanings": [
       "hand"
+    ],
+    "words": [
+      "手",
+      "切手",
+      "上手",
+      "手紙",
+      "下手",
+      "お手洗い",
+      "手袋",
+      "運転手"
     ]
   },
   {
@@ -337,6 +588,8 @@
     "strokes": 2,
     "grade": 1,
     "freq": 62,
+    "radical": "力",
+    "radical_number": 19,
     "onyomi": [
       "リョク",
       "リキ",
@@ -352,6 +605,20 @@
       "strain",
       "bear up",
       "exert"
+    ],
+    "nanori": [
+      "じから",
+      "つとむ"
+    ],
+    "words": [
+      "力",
+      "協力",
+      "強力",
+      "努力",
+      "能力",
+      "魅力",
+      "引力",
+      "学力"
     ]
   },
   {
@@ -360,6 +627,8 @@
     "strokes": 11,
     "grade": 3,
     "freq": 64,
+    "radical": "口",
+    "radical_number": 30,
     "onyomi": [
       "モン"
     ],
@@ -372,6 +641,19 @@
       "question",
       "ask",
       "problem"
+    ],
+    "nanori": [
+      "はる"
+    ],
+    "words": [
+      "質問",
+      "問題",
+      "学問",
+      "疑問",
+      "問い",
+      "訪問",
+      "問答",
+      "問い合わせ"
     ]
   },
   {
@@ -380,6 +662,8 @@
     "strokes": 5,
     "grade": 3,
     "freq": 66,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "ダイ",
       "タイ"
@@ -407,6 +691,19 @@
       "charge",
       "rate",
       "fee"
+    ],
+    "nanori": [
+      "す"
+    ],
+    "words": [
+      "時代",
+      "代わり",
+      "近代",
+      "現代",
+      "代金",
+      "代表",
+      "代理",
+      "年代"
     ]
   },
   {
@@ -415,6 +712,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 67,
+    "radical": "日",
+    "radical_number": 72,
     "onyomi": [
       "メイ",
       "ミョウ",
@@ -435,6 +734,29 @@
     "meanings": [
       "bright",
       "light"
+    ],
+    "nanori": [
+      "あきら",
+      "あけ",
+      "あす",
+      "きら",
+      "け",
+      "さや",
+      "さやか",
+      "とし",
+      "はる",
+      "み",
+      "め"
+    ],
+    "words": [
+      "明い",
+      "明日",
+      "説明",
+      "証明",
+      "発明",
+      "文明",
+      "明確",
+      "明かり"
     ]
   },
   {
@@ -443,6 +765,8 @@
     "strokes": 11,
     "grade": 3,
     "freq": 73,
+    "radical": "力",
+    "radical_number": 19,
     "onyomi": [
       "ドウ"
     ],
@@ -457,6 +781,19 @@
       "confusion",
       "shift",
       "shake"
+    ],
+    "nanori": [
+      "るぎ"
+    ],
+    "words": [
+      "動物",
+      "自動車",
+      "動く",
+      "運動",
+      "動物園",
+      "移動",
+      "活動",
+      "感動"
     ]
   },
   {
@@ -465,6 +802,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 74,
+    "radical": "亠",
+    "radical_number": 8,
     "onyomi": [
       "キョウ",
       "ケイ",
@@ -476,6 +815,13 @@
     "meanings": [
       "capital",
       "10**16"
+    ],
+    "nanori": [
+      "たか"
+    ],
+    "words": [
+      "上京",
+      "帰京"
     ]
   },
   {
@@ -484,6 +830,8 @@
     "strokes": 5,
     "grade": 1,
     "freq": 76,
+    "radical": "目",
+    "radical_number": 109,
     "onyomi": [
       "モク",
       "ボク"
@@ -501,6 +849,22 @@
       "experience",
       "care",
       "favor"
+    ],
+    "nanori": [
+      "さかん",
+      "さがん",
+      "さっか",
+      "さつか"
+    ],
+    "words": [
+      "目",
+      "科目",
+      "注目",
+      "目的",
+      "目標",
+      "お目に掛かる",
+      "項目",
+      "目上"
     ]
   },
   {
@@ -509,6 +873,8 @@
     "strokes": 10,
     "grade": 2,
     "freq": 80,
+    "radical": "辵",
+    "radical_number": 162,
     "onyomi": [
       "ツウ",
       "ツ"
@@ -529,6 +895,22 @@
       "avenue",
       "commute",
       "counter for letters, notes, documents, etc."
+    ],
+    "nanori": [
+      "とん",
+      "どうし",
+      "どおり",
+      "みち"
+    ],
+    "words": [
+      "通う",
+      "交通",
+      "通る",
+      "普通",
+      "共通",
+      "通過",
+      "通学",
+      "通行"
     ]
   },
   {
@@ -537,6 +919,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 83,
+    "radical": "言",
+    "radical_number": 149,
     "onyomi": [
       "ゲン",
       "ゴン"
@@ -548,6 +932,19 @@
     "meanings": [
       "say",
       "word"
+    ],
+    "nanori": [
+      "とき"
+    ],
+    "words": [
+      "言う",
+      "言葉",
+      "言語",
+      "一言",
+      "言わば",
+      "方言",
+      "独り言",
+      "言い出す"
     ]
   },
   {
@@ -556,6 +953,8 @@
     "strokes": 11,
     "grade": 2,
     "freq": 86,
+    "radical": "玉",
+    "radical_number": 96,
     "onyomi": [
       "リ"
     ],
@@ -568,6 +967,34 @@
       "reason",
       "justice",
       "truth"
+    ],
+    "nanori": [
+      "あや",
+      "おさむ",
+      "さと",
+      "さとる",
+      "ただ",
+      "ただし",
+      "とおる",
+      "に",
+      "のり",
+      "ひ",
+      "まこと",
+      "まさ",
+      "まさし",
+      "まろ",
+      "みち",
+      "よし"
+    ],
+    "words": [
+      "料理",
+      "地理",
+      "無理",
+      "理由",
+      "管理",
+      "修理",
+      "処理",
+      "心理"
     ]
   },
   {
@@ -576,6 +1003,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 88,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "タイ",
       "テイ"
@@ -590,6 +1019,19 @@
       "object",
       "reality",
       "counter for images"
+    ],
+    "nanori": [
+      "なり"
+    ],
+    "words": [
+      "体",
+      "大体",
+      "一体",
+      "具体",
+      "身体",
+      "全体",
+      "体育",
+      "体温"
     ]
   },
   {
@@ -598,6 +1040,8 @@
     "strokes": 5,
     "grade": 1,
     "freq": 90,
+    "radical": "田",
+    "radical_number": 102,
     "onyomi": [
       "デン"
     ],
@@ -607,6 +1051,22 @@
     "meanings": [
       "rice field",
       "rice paddy"
+    ],
+    "nanori": [
+      "いなか",
+      "おか",
+      "たん",
+      "で",
+      "とう",
+      "や"
+    ],
+    "words": [
+      "田舎",
+      "田",
+      "田植え",
+      "田んぼ",
+      "水田",
+      "田園"
     ]
   },
   {
@@ -615,6 +1075,8 @@
     "strokes": 5,
     "grade": 3,
     "freq": 95,
+    "radical": "丶",
+    "radical_number": 3,
     "onyomi": [
       "シュ",
       "ス",
@@ -631,6 +1093,21 @@
       "master",
       "main thing",
       "principal"
+    ],
+    "nanori": [
+      "かず",
+      "ず",
+      "もん"
+    ],
+    "words": [
+      "御主人",
+      "主に",
+      "主義",
+      "主張",
+      "主婦",
+      "主要",
+      "主語",
+      "主役"
     ]
   },
   {
@@ -639,6 +1116,8 @@
     "strokes": 18,
     "grade": 3,
     "freq": 96,
+    "radical": "頁",
+    "radical_number": 181,
     "onyomi": [
       "ダイ"
     ],
@@ -646,6 +1125,16 @@
     "meanings": [
       "topic",
       "subject"
+    ],
+    "words": [
+      "宿題",
+      "問題",
+      "題",
+      "話題",
+      "題名",
+      "課題",
+      "議題",
+      "主題"
     ]
   },
   {
@@ -654,6 +1143,8 @@
     "strokes": 13,
     "grade": 3,
     "freq": 99,
+    "radical": "心",
+    "radical_number": 61,
     "onyomi": [
       "イ"
     ],
@@ -667,6 +1158,20 @@
       "desire",
       "care",
       "liking"
+    ],
+    "nanori": [
+      "もと",
+      "よし"
+    ],
+    "words": [
+      "意味",
+      "意見",
+      "注意",
+      "用意",
+      "意外",
+      "意志",
+      "意思",
+      "意識"
     ]
   },
   {
@@ -675,6 +1180,8 @@
     "strokes": 4,
     "grade": 4,
     "freq": 101,
+    "radical": "一",
+    "radical_number": 1,
     "onyomi": [
       "フ",
       "ブ"
@@ -686,6 +1193,16 @@
       "bad",
       "ugly",
       "clumsy"
+    ],
+    "words": [
+      "不便",
+      "不",
+      "不安",
+      "不可",
+      "不幸",
+      "不正",
+      "不足",
+      "不平"
     ]
   },
   {
@@ -694,6 +1211,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 103,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "サク",
       "サ"
@@ -708,6 +1227,26 @@
       "production",
       "prepare",
       "build"
+    ],
+    "nanori": [
+      "くり",
+      "さか",
+      "さっ",
+      "づくり",
+      "とも",
+      "なお",
+      "はぎ",
+      "まさか"
+    ],
+    "words": [
+      "作文",
+      "作る",
+      "作業",
+      "作品",
+      "作物",
+      "作家",
+      "作曲",
+      "作法"
     ]
   },
   {
@@ -716,6 +1255,8 @@
     "strokes": 5,
     "grade": 2,
     "freq": 107,
+    "radical": "用",
+    "radical_number": 101,
     "onyomi": [
       "ヨウ"
     ],
@@ -728,6 +1269,19 @@
       "service",
       "use",
       "employ"
+    ],
+    "nanori": [
+      "たから"
+    ],
+    "words": [
+      "用",
+      "用意",
+      "用事",
+      "利用",
+      "引用",
+      "活用",
+      "器用",
+      "使用"
     ]
   },
   {
@@ -736,6 +1290,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 110,
+    "radical": "广",
+    "radical_number": 53,
     "onyomi": [
       "ド",
       "ト",
@@ -752,6 +1308,19 @@
       "counter for occurrences",
       "consider",
       "attitude"
+    ],
+    "nanori": [
+      "のり"
+    ],
+    "words": [
+      "もう一度",
+      "一度",
+      "今度",
+      "支度",
+      "度",
+      "温度",
+      "制度",
+      "速度"
     ]
   },
   {
@@ -760,6 +1329,8 @@
     "strokes": 11,
     "grade": 2,
     "freq": 112,
+    "radical": "弓",
+    "radical_number": 57,
     "onyomi": [
       "キョウ",
       "ゴウ"
@@ -773,6 +1344,19 @@
     ],
     "meanings": [
       "strong"
+    ],
+    "nanori": [
+      "すね"
+    ],
+    "words": [
+      "強い",
+      "勉強",
+      "強調",
+      "強力",
+      "強盗",
+      "強化",
+      "強引",
+      "強気"
     ]
   },
   {
@@ -781,6 +1365,8 @@
     "strokes": 4,
     "grade": 2,
     "freq": 118,
+    "radical": "八",
+    "radical_number": 12,
     "onyomi": [
       "コウ",
       "ク"
@@ -793,6 +1379,27 @@
       "prince",
       "official",
       "governmental"
+    ],
+    "nanori": [
+      "あきら",
+      "き",
+      "きみ",
+      "きん",
+      "たか",
+      "ただし",
+      "とも",
+      "ひろ",
+      "まさ"
+    ],
+    "words": [
+      "公園",
+      "公務員",
+      "公平",
+      "公害",
+      "公共",
+      "公式",
+      "公衆",
+      "公正"
     ]
   },
   {
@@ -801,6 +1408,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 119,
+    "radical": "手",
+    "radical_number": 64,
     "onyomi": [
       "ジ"
     ],
@@ -812,6 +1421,20 @@
     "meanings": [
       "hold",
       "have"
+    ],
+    "nanori": [
+      "もち",
+      "もつ"
+    ],
+    "words": [
+      "持つ",
+      "気持ち",
+      "お金持ち",
+      "維持",
+      "金持ち",
+      "持ち上げる",
+      "持参",
+      "受け持つ"
     ]
   },
   {
@@ -820,6 +1443,8 @@
     "strokes": 11,
     "grade": 2,
     "freq": 120,
+    "radical": "里",
+    "radical_number": 166,
     "onyomi": [
       "ヤ",
       "ショ"
@@ -833,6 +1458,21 @@
       "field",
       "rustic",
       "civilian life"
+    ],
+    "nanori": [
+      "ずけ",
+      "つけ",
+      "ぬ"
+    ],
+    "words": [
+      "野菜",
+      "野",
+      "分野",
+      "平野",
+      "視野",
+      "野外",
+      "野心",
+      "野生"
     ]
   },
   {
@@ -841,6 +1481,8 @@
     "strokes": 5,
     "grade": 4,
     "freq": 126,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "イ"
     ],
@@ -852,6 +1494,19 @@
       "because",
       "in view of",
       "compared with"
+    ],
+    "nanori": [
+      "もち"
+    ],
+    "words": [
+      "以下",
+      "以外",
+      "以上",
+      "以内",
+      "以前",
+      "以来",
+      "以後",
+      "以降"
     ]
   },
   {
@@ -860,6 +1515,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 132,
+    "radical": "心",
+    "radical_number": 61,
     "onyomi": [
       "シ"
     ],
@@ -870,6 +1527,16 @@
     ],
     "meanings": [
       "think"
+    ],
+    "words": [
+      "思う",
+      "思い出す",
+      "意思",
+      "思想",
+      "思い出",
+      "思わず",
+      "不思議",
+      "思い込む"
     ]
   },
   {
@@ -878,6 +1545,8 @@
     "strokes": 10,
     "grade": 2,
     "freq": 133,
+    "radical": "宀",
+    "radical_number": 40,
     "onyomi": [
       "カ",
       "ケ"
@@ -894,6 +1563,23 @@
       "professional",
       "expert",
       "performer"
+    ],
+    "nanori": [
+      "あり",
+      "え",
+      "く",
+      "つか",
+      "べ"
+    ],
+    "words": [
+      "家",
+      "家族",
+      "家庭",
+      "家内",
+      "一家",
+      "大家",
+      "画家",
+      "家具"
     ]
   },
   {
@@ -902,6 +1588,8 @@
     "strokes": 5,
     "grade": 3,
     "freq": 135,
+    "radical": "一",
+    "radical_number": 1,
     "onyomi": [
       "セイ",
       "セ",
@@ -915,6 +1603,21 @@
       "world",
       "society",
       "public"
+    ],
+    "nanori": [
+      "とし",
+      "ゆ",
+      "ゆき"
+    ],
+    "words": [
+      "世界",
+      "世話",
+      "世紀",
+      "世間",
+      "世の中",
+      "中世",
+      "世",
+      "出世"
     ]
   },
   {
@@ -923,6 +1626,8 @@
     "strokes": 6,
     "grade": 2,
     "freq": 139,
+    "radical": "夕",
+    "radical_number": 36,
     "onyomi": [
       "タ"
     ],
@@ -935,6 +1640,16 @@
       "many",
       "frequent",
       "much"
+    ],
+    "words": [
+      "多い",
+      "多少",
+      "滅多に",
+      "幾多",
+      "過多",
+      "多忙",
+      "多様",
+      "多数決"
     ]
   },
   {
@@ -943,6 +1658,8 @@
     "strokes": 5,
     "grade": 1,
     "freq": 143,
+    "radical": "止",
+    "radical_number": 77,
     "onyomi": [
       "セイ",
       "ショウ"
@@ -958,6 +1675,23 @@
       "justice",
       "righteous",
       "10**40"
+    ],
+    "nanori": [
+      "おお",
+      "くに",
+      "ま",
+      "まさし",
+      "ただし"
+    ],
+    "words": [
+      "正しい",
+      "正",
+      "修正",
+      "正午",
+      "正直",
+      "正確",
+      "正式",
+      "不正"
     ]
   },
   {
@@ -966,6 +1700,8 @@
     "strokes": 6,
     "grade": 3,
     "freq": 144,
+    "radical": "宀",
+    "radical_number": 40,
     "onyomi": [
       "アン"
     ],
@@ -983,6 +1719,23 @@
       "rested",
       "contented",
       "peaceful"
+    ],
+    "nanori": [
+      "あ",
+      "あす",
+      "あず",
+      "あっ",
+      "や"
+    ],
+    "words": [
+      "安い",
+      "安心",
+      "安全",
+      "安定",
+      "不安",
+      "安易",
+      "目安",
+      "安静"
     ]
   },
   {
@@ -991,6 +1744,8 @@
     "strokes": 10,
     "grade": 3,
     "freq": 150,
+    "radical": "阜",
+    "radical_number": 170,
     "onyomi": [
       "イン"
     ],
@@ -1001,6 +1756,15 @@
       "temple",
       "mansion",
       "school"
+    ],
+    "words": [
+      "病院",
+      "退院",
+      "入院",
+      "寺院",
+      "大学院",
+      "参議院",
+      "衆議院"
     ]
   },
   {
@@ -1009,6 +1773,8 @@
     "strokes": 4,
     "grade": 2,
     "freq": 157,
+    "radical": "心",
+    "radical_number": 61,
     "onyomi": [
       "シン"
     ],
@@ -1021,6 +1787,16 @@
       "mind",
       "spirit",
       "heart radical (no. 61)"
+    ],
+    "words": [
+      "心",
+      "安心",
+      "心配",
+      "感心",
+      "関心",
+      "決心",
+      "心臓",
+      "心理"
     ]
   },
   {
@@ -1029,6 +1805,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 158,
+    "radical": "田",
+    "radical_number": 102,
     "onyomi": [
       "カイ"
     ],
@@ -1036,6 +1814,11 @@
     "meanings": [
       "world",
       "boundary"
+    ],
+    "words": [
+      "世界",
+      "限界",
+      "境界"
     ]
   },
   {
@@ -1044,6 +1827,8 @@
     "strokes": 11,
     "grade": 2,
     "freq": 166,
+    "radical": "攴",
+    "radical_number": 66,
     "onyomi": [
       "キョウ"
     ],
@@ -1055,6 +1840,20 @@
       "teach",
       "faith",
       "doctrine"
+    ],
+    "nanori": [
+      "のり",
+      "ひさ"
+    ],
+    "words": [
+      "教室",
+      "教える",
+      "教育",
+      "教会",
+      "教師",
+      "教授",
+      "宗教",
+      "教科書"
     ]
   },
   {
@@ -1063,6 +1862,8 @@
     "strokes": 4,
     "grade": 1,
     "freq": 190,
+    "radical": "文",
+    "radical_number": 67,
     "onyomi": [
       "ブン",
       "モン"
@@ -1080,6 +1881,21 @@
       "figures",
       "plan",
       "literary radical (no. 67)"
+    ],
+    "nanori": [
+      "かざり",
+      "ふ",
+      "も"
+    ],
+    "words": [
+      "作文",
+      "文章",
+      "文化",
+      "文学",
+      "文法",
+      "文",
+      "注文",
+      "文明"
     ]
   },
   {
@@ -1088,6 +1904,8 @@
     "strokes": 4,
     "grade": 2,
     "freq": 192,
+    "radical": "儿",
+    "radical_number": 10,
     "onyomi": [
       "ゲン",
       "ガン"
@@ -1099,6 +1917,23 @@
       "beginning",
       "former time",
       "origin"
+    ],
+    "nanori": [
+      "ちか",
+      "はじめ",
+      "はる",
+      "ゆき",
+      "よし"
+    ],
+    "words": [
+      "元気",
+      "元",
+      "元々",
+      "還元",
+      "元年",
+      "元来",
+      "元首",
+      "元素"
     ]
   },
   {
@@ -1107,6 +1942,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 193,
+    "radical": "里",
+    "radical_number": 166,
     "onyomi": [
       "ジュウ",
       "チョウ"
@@ -1129,6 +1966,21 @@
       "pile up",
       "nest of boxes",
       "-fold"
+    ],
+    "nanori": [
+      "さね",
+      "しげ",
+      "しげる"
+    ],
+    "words": [
+      "重い",
+      "貴重",
+      "重視",
+      "重大",
+      "重要",
+      "慎重",
+      "尊重",
+      "厳重"
     ]
   },
   {
@@ -1137,6 +1989,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 194,
+    "radical": "辵",
+    "radical_number": 162,
     "onyomi": [
       "キン",
       "コン"
@@ -1149,6 +2003,21 @@
       "early",
       "akin",
       "tantamount"
+    ],
+    "nanori": [
+      "おう",
+      "おお",
+      "この"
+    ],
+    "words": [
+      "近い",
+      "近く",
+      "近所",
+      "最近",
+      "近代",
+      "近頃",
+      "接近",
+      "近々"
     ]
   },
   {
@@ -1157,6 +2026,8 @@
     "strokes": 6,
     "grade": 2,
     "freq": 196,
+    "radical": "老",
+    "radical_number": 125,
     "onyomi": [
       "コウ"
     ],
@@ -1167,6 +2038,18 @@
     "meanings": [
       "consider",
       "think over"
+    ],
+    "nanori": [
+      "たか"
+    ],
+    "words": [
+      "考える",
+      "考え",
+      "考慮",
+      "参考",
+      "思考",
+      "選考",
+      "考古学"
     ]
   },
   {
@@ -1175,6 +2058,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 199,
+    "radical": "田",
+    "radical_number": 102,
     "onyomi": [
       "ガ",
       "カク",
@@ -1191,6 +2076,16 @@
     "meanings": [
       "brush-stroke",
       "picture"
+    ],
+    "words": [
+      "映画",
+      "映画館",
+      "計画",
+      "漫画",
+      "絵画",
+      "画家",
+      "画",
+      "画期"
     ]
   },
   {
@@ -1199,6 +2094,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 200,
+    "radical": "水",
+    "radical_number": 85,
     "onyomi": [
       "カイ"
     ],
@@ -1208,6 +2105,33 @@
     "meanings": [
       "sea",
       "ocean"
+    ],
+    "nanori": [
+      "あ",
+      "あま",
+      "うな",
+      "うん",
+      "え",
+      "か",
+      "た",
+      "ひろ",
+      "ひろし",
+      "ぶ",
+      "まち",
+      "まま",
+      "み",
+      "め",
+      "わたる"
+    ],
+    "words": [
+      "海",
+      "海岸",
+      "海外",
+      "海洋",
+      "海水浴",
+      "海路",
+      "海運",
+      "海峡"
     ]
   },
   {
@@ -1216,6 +2140,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 202,
+    "radical": "士",
+    "radical_number": 33,
     "onyomi": [
       "バイ"
     ],
@@ -1225,6 +2151,21 @@
     ],
     "meanings": [
       "sell"
+    ],
+    "nanori": [
+      "うり",
+      "うる",
+      "め"
+    ],
+    "words": [
+      "売る",
+      "売り場",
+      "商売",
+      "販売",
+      "売れる",
+      "売上",
+      "特売",
+      "売店"
     ]
   },
   {
@@ -1233,6 +2174,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 205,
+    "radical": "矢",
+    "radical_number": 111,
     "onyomi": [
       "チ"
     ],
@@ -1243,6 +2186,24 @@
     "meanings": [
       "know",
       "wisdom"
+    ],
+    "nanori": [
+      "さと",
+      "さとる",
+      "しり",
+      "しれ",
+      "とも",
+      "のり"
+    ],
+    "words": [
+      "知る",
+      "承知",
+      "知らせる",
+      "知恵",
+      "知事",
+      "知識",
+      "知能",
+      "知らせ"
     ]
   },
   {
@@ -1251,6 +2212,8 @@
     "strokes": 12,
     "grade": 2,
     "freq": 207,
+    "radical": "辵",
+    "radical_number": 162,
     "onyomi": [
       "ドウ",
       "トウ"
@@ -1267,6 +2230,23 @@
       "course",
       "moral",
       "teachings"
+    ],
+    "nanori": [
+      "さ",
+      "じ",
+      "ど",
+      "みつ",
+      "おさむ"
+    ],
+    "words": [
+      "道",
+      "柔道",
+      "水道",
+      "道具",
+      "鉄道",
+      "道徳",
+      "道路",
+      "歩道"
     ]
   },
   {
@@ -1275,6 +2255,8 @@
     "strokes": 12,
     "grade": 3,
     "freq": 210,
+    "radical": "隹",
+    "radical_number": 172,
     "onyomi": [
       "シュウ"
     ],
@@ -1289,6 +2271,20 @@
       "congregate",
       "swarm",
       "flock"
+    ],
+    "nanori": [
+      "あつまり",
+      "ず"
+    ],
+    "words": [
+      "集る",
+      "集める",
+      "集団",
+      "集中",
+      "集まり",
+      "集会",
+      "集金",
+      "集合"
     ]
   },
   {
@@ -1297,6 +2293,8 @@
     "strokes": 7,
     "grade": 4,
     "freq": 214,
+    "radical": "刀",
+    "radical_number": 18,
     "onyomi": [
       "ベツ"
     ],
@@ -1312,6 +2310,19 @@
       "another",
       "extra",
       "specially"
+    ],
+    "nanori": [
+      "べっ"
+    ],
+    "words": [
+      "別",
+      "特別",
+      "別れる",
+      "区別",
+      "差別",
+      "別に",
+      "別れ",
+      "格別"
     ]
   },
   {
@@ -1320,6 +2331,8 @@
     "strokes": 8,
     "grade": 3,
     "freq": 215,
+    "radical": "牛",
+    "radical_number": 93,
     "onyomi": [
       "ブツ",
       "モツ"
@@ -1332,6 +2345,16 @@
       "thing",
       "object",
       "matter"
+    ],
+    "words": [
+      "物",
+      "果物",
+      "建物",
+      "動物",
+      "荷物",
+      "買い物",
+      "食べ物",
+      "飲み物"
     ]
   },
   {
@@ -1340,6 +2363,8 @@
     "strokes": 8,
     "grade": 3,
     "freq": 219,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "シ"
     ],
@@ -1357,6 +2382,16 @@
       "envoy",
       "ambassador",
       "cause"
+    ],
+    "words": [
+      "使う",
+      "大使館",
+      "使用",
+      "大使",
+      "使命",
+      "お使い",
+      "使用人",
+      "使い道"
     ]
   },
   {
@@ -1365,6 +2400,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 225,
+    "radical": "口",
+    "radical_number": 30,
     "onyomi": [
       "ヒン",
       "ホン"
@@ -1378,6 +2415,16 @@
       "dignity",
       "article",
       "counter for meal courses"
+    ],
+    "words": [
+      "品物",
+      "食料品",
+      "品",
+      "作品",
+      "商品",
+      "食品",
+      "製品",
+      "手品"
     ]
   },
   {
@@ -1386,6 +2433,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 228,
+    "radical": "言",
+    "radical_number": 149,
     "onyomi": [
       "ケイ"
     ],
@@ -1398,6 +2447,21 @@
       "plan",
       "scheme",
       "measure"
+    ],
+    "nanori": [
+      "え",
+      "かず",
+      "け"
+    ],
+    "words": [
+      "時計",
+      "計画",
+      "計",
+      "会計",
+      "計算",
+      "合計",
+      "設計",
+      "計る"
     ]
   },
   {
@@ -1406,6 +2470,8 @@
     "strokes": 6,
     "grade": 3,
     "freq": 229,
+    "radical": "歹",
+    "radical_number": 78,
     "onyomi": [
       "シ"
     ],
@@ -1416,6 +2482,15 @@
     "meanings": [
       "death",
       "die"
+    ],
+    "words": [
+      "死ぬ",
+      "死亡",
+      "必死",
+      "死体",
+      "死",
+      "死刑",
+      "生死"
     ]
   },
   {
@@ -1424,12 +2499,24 @@
     "strokes": 10,
     "grade": 4,
     "freq": 234,
+    "radical": "牛",
+    "radical_number": 93,
     "onyomi": [
       "トク"
     ],
     "kunyomi": [],
     "meanings": [
       "special"
+    ],
+    "words": [
+      "特に",
+      "特別",
+      "特急",
+      "特徴",
+      "独特",
+      "特殊",
+      "特色",
+      "特長"
     ]
   },
   {
@@ -1438,6 +2525,8 @@
     "strokes": 7,
     "grade": 6,
     "freq": 242,
+    "radical": "禾",
+    "radical_number": 115,
     "onyomi": [
       "シ"
     ],
@@ -1449,6 +2538,14 @@
       "private",
       "I",
       "me"
+    ],
+    "words": [
+      "私",
+      "私鉄",
+      "私立",
+      "私物",
+      "私有",
+      "私用"
     ]
   },
   {
@@ -1457,6 +2554,8 @@
     "strokes": 8,
     "grade": 3,
     "freq": 244,
+    "radical": "女",
+    "radical_number": 38,
     "onyomi": [
       "シ"
     ],
@@ -1468,6 +2567,19 @@
     "meanings": [
       "commence",
       "begin"
+    ],
+    "nanori": [
+      "もと"
+    ],
+    "words": [
+      "始まる",
+      "始める",
+      "開始",
+      "始まり",
+      "原始",
+      "始終",
+      "始めに",
+      "始発"
     ]
   },
   {
@@ -1476,6 +2588,8 @@
     "strokes": 12,
     "grade": 2,
     "freq": 248,
+    "radical": "月",
+    "radical_number": 74,
     "onyomi": [
       "チョウ"
     ],
@@ -1489,6 +2603,20 @@
       "epoch",
       "period",
       "(North) Korea"
+    ],
+    "nanori": [
+      "あ",
+      "あそ",
+      "ささ",
+      "ちか",
+      "とも"
+    ],
+    "words": [
+      "朝",
+      "今朝",
+      "毎朝",
+      "朝御飯",
+      "朝寝坊"
     ]
   },
   {
@@ -1497,6 +2625,8 @@
     "strokes": 12,
     "grade": 3,
     "freq": 255,
+    "radical": "辵",
+    "radical_number": 162,
     "onyomi": [
       "ウン"
     ],
@@ -1512,6 +2642,16 @@
       "transport",
       "progress",
       "advance"
+    ],
+    "words": [
+      "運転",
+      "運動",
+      "運ぶ",
+      "運転手",
+      "運",
+      "幸運",
+      "運河",
+      "不運"
     ]
   },
   {
@@ -1520,6 +2660,8 @@
     "strokes": 11,
     "grade": 3,
     "freq": 256,
+    "radical": "糸",
+    "radical_number": 120,
     "onyomi": [
       "シュウ"
     ],
@@ -1534,6 +2676,19 @@
     "meanings": [
       "end",
       "finish"
+    ],
+    "nanori": [
+      "ばて"
+    ],
+    "words": [
+      "終る",
+      "終わり",
+      "最終",
+      "終える",
+      "始終",
+      "終点",
+      "終了",
+      "終始"
     ]
   },
   {
@@ -1542,6 +2697,8 @@
     "strokes": 5,
     "grade": 2,
     "freq": 262,
+    "radical": "口",
+    "radical_number": 30,
     "onyomi": [
       "ダイ",
       "タイ"
@@ -1555,6 +2712,16 @@
       "pedestal",
       "a stand",
       "counter for machines and vehicles"
+    ],
+    "words": [
+      "台所",
+      "台風",
+      "台",
+      "舞台",
+      "寝台",
+      "灯台",
+      "台本",
+      "土台"
     ]
   },
   {
@@ -1563,6 +2730,8 @@
     "strokes": 5,
     "grade": 2,
     "freq": 263,
+    "radical": "广",
+    "radical_number": 53,
     "onyomi": [
       "コウ"
     ],
@@ -1577,6 +2746,16 @@
       "wide",
       "broad",
       "spacious"
+    ],
+    "words": [
+      "背広",
+      "広い",
+      "広告",
+      "広がる",
+      "広さ",
+      "広場",
+      "広々",
+      "広げる"
     ]
   },
   {
@@ -1585,6 +2764,8 @@
     "strokes": 7,
     "grade": 3,
     "freq": 270,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "ジュウ",
       "ヂュウ",
@@ -1600,6 +2781,21 @@
       "reside",
       "live",
       "inhabit"
+    ],
+    "nanori": [
+      "し",
+      "じゅ",
+      "すみ"
+    ],
+    "words": [
+      "住む",
+      "住所",
+      "住宅",
+      "住民",
+      "住居",
+      "衣食住",
+      "住まい",
+      "住"
     ]
   },
   {
@@ -1608,6 +2804,8 @@
     "strokes": 10,
     "grade": 3,
     "freq": 279,
+    "radical": "目",
+    "radical_number": 109,
     "onyomi": [
       "シン"
     ],
@@ -1620,6 +2818,33 @@
       "true",
       "reality",
       "Buddhist sect"
+    ],
+    "nanori": [
+      "さな",
+      "さね",
+      "ただ",
+      "ただし",
+      "なお",
+      "のり",
+      "まあ",
+      "まこ",
+      "まさ",
+      "まっ",
+      "まど",
+      "まな",
+      "まゆ",
+      "みち",
+      "も"
+    ],
+    "words": [
+      "写真",
+      "真ん中",
+      "真剣",
+      "真似",
+      "真っ赤",
+      "真空",
+      "真っ暗",
+      "真っ黒"
     ]
   },
   {
@@ -1628,6 +2853,8 @@
     "strokes": 6,
     "grade": 3,
     "freq": 282,
+    "radical": "月",
+    "radical_number": 74,
     "onyomi": [
       "ユウ",
       "ウ"
@@ -1642,6 +2869,25 @@
       "happen",
       "occur",
       "approx"
+    ],
+    "nanori": [
+      "あ",
+      "あら",
+      "あり",
+      "ある",
+      "くに",
+      "なお",
+      "ゆ"
+    ],
+    "words": [
+      "有名",
+      "有効",
+      "有能",
+      "有利",
+      "有無",
+      "有料",
+      "有難い",
+      "有様"
     ]
   },
   {
@@ -1650,6 +2896,8 @@
     "strokes": 3,
     "grade": 1,
     "freq": 284,
+    "radical": "口",
+    "radical_number": 30,
     "onyomi": [
       "コウ",
       "ク"
@@ -1659,6 +2907,16 @@
     ],
     "meanings": [
       "mouth"
+    ],
+    "words": [
+      "口",
+      "入口",
+      "出口",
+      "人口",
+      "利口",
+      "悪口",
+      "裏口",
+      "火口"
     ]
   },
   {
@@ -1667,6 +2925,8 @@
     "strokes": 4,
     "grade": 2,
     "freq": 287,
+    "radical": "小",
+    "radical_number": 42,
     "onyomi": [
       "ショウ"
     ],
@@ -1677,6 +2937,16 @@
     "meanings": [
       "few",
       "little"
+    ],
+    "words": [
+      "少し",
+      "少ない",
+      "少女",
+      "少々",
+      "少年",
+      "多少",
+      "少しも",
+      "青少年"
     ]
   },
   {
@@ -1685,6 +2955,8 @@
     "strokes": 7,
     "grade": 1,
     "freq": 292,
+    "radical": "田",
+    "radical_number": 102,
     "onyomi": [
       "チョウ"
     ],
@@ -1696,6 +2968,10 @@
       "village",
       "block",
       "street"
+    ],
+    "words": [
+      "町",
+      "下町"
     ]
   },
   {
@@ -1704,6 +2980,8 @@
     "strokes": 10,
     "grade": 4,
     "freq": 295,
+    "radical": "斗",
+    "radical_number": 68,
     "onyomi": [
       "リョウ"
     ],
@@ -1711,6 +2989,16 @@
     "meanings": [
       "fee",
       "materials"
+    ],
+    "words": [
+      "料理",
+      "食料品",
+      "給料",
+      "材料",
+      "食料",
+      "無料",
+      "料金",
+      "原料"
     ]
   },
   {
@@ -1719,6 +3007,8 @@
     "strokes": 3,
     "grade": 2,
     "freq": 299,
+    "radical": "工",
+    "radical_number": 48,
     "onyomi": [
       "コウ",
       "ク",
@@ -1729,6 +3019,19 @@
       "craft",
       "construction",
       "katakana e radical (no. 48)"
+    ],
+    "nanori": [
+      "もく"
+    ],
+    "words": [
+      "工業",
+      "工場",
+      "人工",
+      "工夫",
+      "工員",
+      "工芸",
+      "工事",
+      "大工"
     ]
   },
   {
@@ -1737,6 +3040,8 @@
     "strokes": 9,
     "grade": 4,
     "freq": 300,
+    "radical": "廴",
+    "radical_number": 54,
     "onyomi": [
       "ケン",
       "コン"
@@ -1749,6 +3054,21 @@
     ],
     "meanings": [
       "build"
+    ],
+    "nanori": [
+      "たけ",
+      "たつ",
+      "たて"
+    ],
+    "words": [
+      "建物",
+      "建てる",
+      "二階建て",
+      "建設",
+      "建築",
+      "建つ",
+      "再建",
+      "建前"
     ]
   },
   {
@@ -1757,6 +3077,8 @@
     "strokes": 8,
     "grade": 1,
     "freq": 304,
+    "radical": "穴",
+    "radical_number": 116,
     "onyomi": [
       "クウ"
     ],
@@ -1776,6 +3098,21 @@
       "void",
       "vacant",
       "vacuum"
+    ],
+    "nanori": [
+      "うつ",
+      "き",
+      "く"
+    ],
+    "words": [
+      "空",
+      "空く",
+      "空気",
+      "空港",
+      "空き",
+      "航空",
+      "架空",
+      "空想"
     ]
   },
   {
@@ -1784,6 +3121,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 309,
+    "radical": "心",
+    "radical_number": 61,
     "onyomi": [
       "キュウ"
     ],
@@ -1797,6 +3136,16 @@
       "emergency",
       "sudden",
       "steep"
+    ],
+    "words": [
+      "急",
+      "急ぐ",
+      "急行",
+      "特急",
+      "急激",
+      "急速",
+      "急に",
+      "至急"
     ]
   },
   {
@@ -1805,6 +3154,8 @@
     "strokes": 4,
     "grade": 2,
     "freq": 310,
+    "radical": "止",
+    "radical_number": 77,
     "onyomi": [
       "シ"
     ],
@@ -1827,6 +3178,19 @@
     "meanings": [
       "stop",
       "halt"
+    ],
+    "nanori": [
+      "どめ"
+    ],
+    "words": [
+      "止まる",
+      "止む",
+      "止める",
+      "禁止",
+      "中止",
+      "止す",
+      "停止",
+      "防止"
     ]
   },
   {
@@ -1835,6 +3199,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 311,
+    "radical": "辵",
+    "radical_number": 162,
     "onyomi": [
       "ソウ"
     ],
@@ -1844,6 +3210,16 @@
     "meanings": [
       "escort",
       "send"
+    ],
+    "words": [
+      "送る",
+      "放送",
+      "見送り",
+      "送別",
+      "送料",
+      "郵送",
+      "輸送",
+      "見送る"
     ]
   },
   {
@@ -1852,6 +3228,8 @@
     "strokes": 4,
     "grade": 2,
     "freq": 324,
+    "radical": "刀",
+    "radical_number": 18,
     "onyomi": [
       "セツ",
       "サイ"
@@ -1872,6 +3250,21 @@
       "cut",
       "cutoff",
       "be sharp"
+    ],
+    "nanori": [
+      "きつ",
+      "きり",
+      "ぎり"
+    ],
+    "words": [
+      "切手",
+      "切符",
+      "切る",
+      "大切",
+      "親切",
+      "切れ",
+      "適切",
+      "裏切る"
     ]
   },
   {
@@ -1880,6 +3273,8 @@
     "strokes": 11,
     "grade": 3,
     "freq": 327,
+    "radical": "車",
+    "radical_number": 159,
     "onyomi": [
       "テン"
     ],
@@ -1897,6 +3292,16 @@
       "revolve",
       "turn around",
       "change"
+    ],
+    "words": [
+      "自転車",
+      "運転",
+      "運転手",
+      "転ぶ",
+      "移転",
+      "回転",
+      "転々",
+      "転がす"
     ]
   },
   {
@@ -1905,6 +3310,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 336,
+    "radical": "石",
+    "radical_number": 112,
     "onyomi": [
       "ケン"
     ],
@@ -1915,6 +3322,15 @@
       "polish",
       "study of",
       "sharpen"
+    ],
+    "nanori": [
+      "のり"
+    ],
+    "words": [
+      "研究",
+      "研究室",
+      "研修",
+      "研ぐ"
     ]
   },
   {
@@ -1923,6 +3339,8 @@
     "strokes": 7,
     "grade": 1,
     "freq": 343,
+    "radical": "足",
+    "radical_number": 157,
     "onyomi": [
       "ソク"
     ],
@@ -1937,6 +3355,22 @@
       "foot",
       "be sufficient",
       "counter for pairs of footwear"
+    ],
+    "nanori": [
+      "あ",
+      "あす",
+      "おす",
+      "たらし"
+    ],
+    "words": [
+      "足",
+      "足す",
+      "足りる",
+      "不足",
+      "満足",
+      "足跡",
+      "遠足",
+      "足袋"
     ]
   },
   {
@@ -1945,6 +3379,8 @@
     "strokes": 7,
     "grade": 3,
     "freq": 368,
+    "radical": "穴",
+    "radical_number": 116,
     "onyomi": [
       "キュウ",
       "ク"
@@ -1955,6 +3391,14 @@
     "meanings": [
       "research",
       "study"
+    ],
+    "nanori": [
+      "きゅ"
+    ],
+    "words": [
+      "研究",
+      "研究室",
+      "究極"
     ]
   },
   {
@@ -1963,6 +3407,8 @@
     "strokes": 13,
     "grade": 2,
     "freq": 373,
+    "radical": "木",
+    "radical_number": 75,
     "onyomi": [
       "ガク",
       "ラク",
@@ -1977,6 +3423,22 @@
       "music",
       "comfort",
       "ease"
+    ],
+    "nanori": [
+      "さ",
+      "た",
+      "やす",
+      "ら"
+    ],
+    "words": [
+      "音楽",
+      "楽しい",
+      "楽む",
+      "楽しみ",
+      "楽",
+      "楽器",
+      "娯楽",
+      "楽譜"
     ]
   },
   {
@@ -1985,6 +3447,8 @@
     "strokes": 10,
     "grade": 3,
     "freq": 374,
+    "radical": "走",
+    "radical_number": 156,
     "onyomi": [
       "キ"
     ],
@@ -1999,6 +3463,16 @@
       "rouse",
       "wake up",
       "get up"
+    ],
+    "words": [
+      "起きる",
+      "起す",
+      "起こる",
+      "起床",
+      "起源",
+      "起点",
+      "起伏",
+      "引き起こす"
     ]
   },
   {
@@ -2007,6 +3481,8 @@
     "strokes": 12,
     "grade": 3,
     "freq": 376,
+    "radical": "目",
+    "radical_number": 109,
     "onyomi": [
       "チャク",
       "ジャク"
@@ -2022,6 +3498,16 @@
       "arrive",
       "wear",
       "counter for suits of clothing"
+    ],
+    "words": [
+      "上着",
+      "着る",
+      "着く",
+      "着物",
+      "下着",
+      "到着",
+      "着々",
+      "肌着"
     ]
   },
   {
@@ -2030,6 +3516,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 378,
+    "radical": "广",
+    "radical_number": 53,
     "onyomi": [
       "テン"
     ],
@@ -2040,6 +3528,16 @@
     "meanings": [
       "store",
       "shop"
+    ],
+    "words": [
+      "店",
+      "喫茶店",
+      "店員",
+      "支店",
+      "商店",
+      "書店",
+      "売店",
+      "店屋"
     ]
   },
   {
@@ -2048,6 +3546,8 @@
     "strokes": 10,
     "grade": 3,
     "freq": 384,
+    "radical": "疒",
+    "radical_number": 104,
     "onyomi": [
       "ビョウ",
       "ヘイ"
@@ -2060,6 +3560,15 @@
     "meanings": [
       "ill",
       "sick"
+    ],
+    "words": [
+      "病院",
+      "病気",
+      "看病",
+      "病",
+      "臆病",
+      "発病",
+      "病む"
     ]
   },
   {
@@ -2068,6 +3577,8 @@
     "strokes": 15,
     "grade": 5,
     "freq": 389,
+    "radical": "貝",
+    "radical_number": 154,
     "onyomi": [
       "シツ",
       "シチ",
@@ -2084,6 +3595,16 @@
       "quality",
       "matter",
       "temperament"
+    ],
+    "words": [
+      "質問",
+      "質",
+      "物質",
+      "性質",
+      "素質",
+      "地質",
+      "気質",
+      "質疑"
     ]
   },
   {
@@ -2092,6 +3613,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 391,
+    "radical": "彳",
+    "radical_number": 60,
     "onyomi": [
       "タイ"
     ],
@@ -2102,6 +3625,20 @@
     "meanings": [
       "wait",
       "depend on"
+    ],
+    "nanori": [
+      "まち",
+      "まつ"
+    ],
+    "words": [
+      "待つ",
+      "招待",
+      "期待",
+      "待合室",
+      "待ち合わせる",
+      "待遇",
+      "待望",
+      "待ち望む"
     ]
   },
   {
@@ -2110,6 +3647,8 @@
     "strokes": 13,
     "grade": 4,
     "freq": 392,
+    "radical": "言",
+    "radical_number": 149,
     "onyomi": [
       "シ"
     ],
@@ -2123,6 +3662,14 @@
       "attempt",
       "experiment",
       "ordeal"
+    ],
+    "words": [
+      "試合",
+      "試験",
+      "試し",
+      "試す",
+      "試み",
+      "試みる"
     ]
   },
   {
@@ -2131,6 +3678,8 @@
     "strokes": 11,
     "grade": 3,
     "freq": 393,
+    "radical": "方",
+    "radical_number": 70,
     "onyomi": [
       "ゾク"
     ],
@@ -2138,6 +3687,14 @@
     "meanings": [
       "tribe",
       "family"
+    ],
+    "nanori": [
+      "つぎ"
+    ],
+    "words": [
+      "家族",
+      "貴族",
+      "民族"
     ]
   },
   {
@@ -2146,6 +3703,8 @@
     "strokes": 14,
     "grade": 3,
     "freq": 395,
+    "radical": "金",
+    "radical_number": 167,
     "onyomi": [
       "ギン"
     ],
@@ -2154,6 +3713,15 @@
     ],
     "meanings": [
       "silver"
+    ],
+    "nanori": [
+      "うん",
+      "かな",
+      "かね"
+    ],
+    "words": [
+      "銀行",
+      "銀"
     ]
   },
   {
@@ -2162,6 +3730,8 @@
     "strokes": 6,
     "grade": 1,
     "freq": 402,
+    "radical": "日",
+    "radical_number": 72,
     "onyomi": [
       "ソウ",
       "サッ"
@@ -2177,6 +3747,21 @@
     "meanings": [
       "early",
       "fast"
+    ],
+    "nanori": [
+      "さか",
+      "さわ",
+      "そ",
+      "わ"
+    ],
+    "words": [
+      "早い",
+      "早速",
+      "早口",
+      "早急",
+      "最早",
+      "素早い",
+      "早める"
     ]
   },
   {
@@ -2185,6 +3770,8 @@
     "strokes": 9,
     "grade": 6,
     "freq": 404,
+    "radical": "日",
+    "radical_number": 72,
     "onyomi": [
       "エイ"
     ],
@@ -2198,6 +3785,21 @@
       "reflect",
       "reflection",
       "projection"
+    ],
+    "nanori": [
+      "あきら",
+      "え",
+      "てる"
+    ],
+    "words": [
+      "映画",
+      "映画館",
+      "映す",
+      "映る",
+      "反映",
+      "映写",
+      "映像",
+      "映える"
     ]
   },
   {
@@ -2206,6 +3808,8 @@
     "strokes": 16,
     "grade": 2,
     "freq": 406,
+    "radical": "見",
+    "radical_number": 147,
     "onyomi": [
       "シン"
     ],
@@ -2221,6 +3825,21 @@
       "relative",
       "familiarity",
       "dealer (cards)"
+    ],
+    "nanori": [
+      "ぎ",
+      "ちか",
+      "のり"
+    ],
+    "words": [
+      "両親",
+      "親",
+      "親切",
+      "親戚",
+      "親友",
+      "父親",
+      "母親",
+      "親しい"
     ]
   },
   {
@@ -2229,6 +3848,8 @@
     "strokes": 18,
     "grade": 4,
     "freq": 410,
+    "radical": "馬",
+    "radical_number": 187,
     "onyomi": [
       "ケン",
       "ゲン"
@@ -2243,6 +3864,13 @@
       "verification",
       "effect",
       "testing"
+    ],
+    "words": [
+      "経験",
+      "試験",
+      "実験",
+      "受験",
+      "体験"
     ]
   },
   {
@@ -2251,6 +3879,8 @@
     "strokes": 8,
     "grade": 4,
     "freq": 430,
+    "radical": "艸",
+    "radical_number": 140,
     "onyomi": [
       "エイ"
     ],
@@ -2263,6 +3893,25 @@
       "hero",
       "outstanding",
       "calyx"
+    ],
+    "nanori": [
+      "あ",
+      "あい",
+      "え",
+      "すぐる",
+      "はな",
+      "ひ",
+      "ひで",
+      "よし",
+      "ら"
+    ],
+    "words": [
+      "英語",
+      "英文",
+      "英和",
+      "和英",
+      "英字",
+      "英雄"
     ]
   },
   {
@@ -2271,6 +3920,8 @@
     "strokes": 7,
     "grade": 3,
     "freq": 437,
+    "radical": "匸",
+    "radical_number": 23,
     "onyomi": [
       "イ"
     ],
@@ -2282,6 +3933,13 @@
     "meanings": [
       "doctor",
       "medicine"
+    ],
+    "words": [
+      "医者",
+      "医学",
+      "歯医者",
+      "医師",
+      "医療"
     ]
   },
   {
@@ -2290,6 +3948,8 @@
     "strokes": 5,
     "grade": 3,
     "freq": 439,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "シ",
       "ジ"
@@ -2302,6 +3962,16 @@
       "doing",
       "official",
       "serve"
+    ],
+    "words": [
+      "仕事",
+      "仕方",
+      "仕上がる",
+      "給仕",
+      "仕舞",
+      "仕様",
+      "奉仕",
+      "仕上げ"
     ]
   },
   {
@@ -2310,6 +3980,8 @@
     "strokes": 5,
     "grade": 3,
     "freq": 440,
+    "radical": "厶",
+    "radical_number": 28,
     "onyomi": [
       "キョ",
       "コ"
@@ -2326,6 +3998,15 @@
       "elapse",
       "eliminate",
       "divorce"
+    ],
+    "nanori": [
+      "い"
+    ],
+    "words": [
+      "去年",
+      "過去",
+      "去る",
+      "消去"
     ]
   },
   {
@@ -2334,6 +4015,8 @@
     "strokes": 8,
     "grade": 3,
     "freq": 442,
+    "radical": "口",
+    "radical_number": 30,
     "onyomi": [
       "ミ"
     ],
@@ -2344,6 +4027,16 @@
     "meanings": [
       "flavor",
       "taste"
+    ],
+    "words": [
+      "意味",
+      "味",
+      "興味",
+      "趣味",
+      "味噌",
+      "気味",
+      "味方",
+      "地味"
     ]
   },
   {
@@ -2352,6 +4045,8 @@
     "strokes": 5,
     "grade": 3,
     "freq": 453,
+    "radical": "冖",
+    "radical_number": 14,
     "onyomi": [
       "シャ",
       "ジャ"
@@ -2366,6 +4061,16 @@
       "copy",
       "be photographed",
       "describe"
+    ],
+    "words": [
+      "写真",
+      "写す",
+      "写る",
+      "写生",
+      "複写",
+      "写し",
+      "映写",
+      "描写"
     ]
   },
   {
@@ -2374,6 +4079,8 @@
     "strokes": 6,
     "grade": 1,
     "freq": 485,
+    "radical": "子",
+    "radical_number": 39,
     "onyomi": [
       "ジ"
     ],
@@ -2387,6 +4094,16 @@
       "letter",
       "word",
       "section of village"
+    ],
+    "words": [
+      "漢字",
+      "字引",
+      "字",
+      "数字",
+      "文字",
+      "活字",
+      "習字",
+      "名字"
     ]
   },
   {
@@ -2395,6 +4112,8 @@
     "strokes": 12,
     "grade": 2,
     "freq": 486,
+    "radical": "竹",
+    "radical_number": 118,
     "onyomi": [
       "トウ"
     ],
@@ -2405,6 +4124,18 @@
     "meanings": [
       "solution",
       "answer"
+    ],
+    "nanori": [
+      "どう"
+    ],
+    "words": [
+      "答える",
+      "答",
+      "答案",
+      "解答",
+      "回答",
+      "問答",
+      "返答"
     ]
   },
   {
@@ -2413,6 +4144,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 487,
+    "radical": "夕",
+    "radical_number": 36,
     "onyomi": [
       "ヤ"
     ],
@@ -2423,6 +4156,16 @@
     "meanings": [
       "night",
       "evening"
+    ],
+    "words": [
+      "夜",
+      "昨夜",
+      "今夜",
+      "徹夜",
+      "夜中",
+      "夜明け",
+      "深夜",
+      "夜間"
     ]
   },
   {
@@ -2431,6 +4174,8 @@
     "strokes": 9,
     "grade": 1,
     "freq": 491,
+    "radical": "音",
+    "radical_number": 180,
     "onyomi": [
       "オン",
       "イン",
@@ -2443,6 +4188,20 @@
     "meanings": [
       "sound",
       "noise"
+    ],
+    "nanori": [
+      "お",
+      "と"
+    ],
+    "words": [
+      "音楽",
+      "音",
+      "発音",
+      "騒音",
+      "物音",
+      "雑音",
+      "録音",
+      "五十音"
     ]
   },
   {
@@ -2451,6 +4210,8 @@
     "strokes": 8,
     "grade": 3,
     "freq": 497,
+    "radical": "水",
+    "radical_number": 85,
     "onyomi": [
       "チュウ"
     ],
@@ -2468,6 +4229,15 @@
       "notes",
       "comment",
       "annotate"
+    ],
+    "words": [
+      "注意",
+      "注射",
+      "注",
+      "注ぐ",
+      "注目",
+      "注文",
+      "注す"
     ]
   },
   {
@@ -2476,6 +4246,8 @@
     "strokes": 10,
     "grade": 2,
     "freq": 504,
+    "radical": "巾",
+    "radical_number": 50,
     "onyomi": [
       "キ"
     ],
@@ -2490,6 +4262,15 @@
       "arrive at",
       "lead to",
       "result in"
+    ],
+    "words": [
+      "帰る",
+      "帰り",
+      "帰宅",
+      "帰す",
+      "お帰り",
+      "日帰り",
+      "帰京"
     ]
   },
   {
@@ -2498,6 +4279,8 @@
     "strokes": 5,
     "grade": 2,
     "freq": 509,
+    "radical": "口",
+    "radical_number": 30,
     "onyomi": [
       "コ"
     ],
@@ -2508,6 +4291,18 @@
     ],
     "meanings": [
       "old"
+    ],
+    "nanori": [
+      "ふゆ"
+    ],
+    "words": [
+      "古い",
+      "中古",
+      "稽古",
+      "古典",
+      "古",
+      "古代",
+      "考古学"
     ]
   },
   {
@@ -2516,6 +4311,8 @@
     "strokes": 14,
     "grade": 2,
     "freq": 519,
+    "radical": "欠",
+    "radical_number": 76,
     "onyomi": [
       "カ"
     ],
@@ -2526,6 +4323,13 @@
     "meanings": [
       "song",
       "sing"
+    ],
+    "words": [
+      "歌",
+      "歌う",
+      "歌手",
+      "歌謡",
+      "短歌"
     ]
   },
   {
@@ -2534,6 +4338,8 @@
     "strokes": 12,
     "grade": 2,
     "freq": 520,
+    "radical": "貝",
+    "radical_number": 154,
     "onyomi": [
       "バイ"
     ],
@@ -2542,6 +4348,11 @@
     ],
     "meanings": [
       "buy"
+    ],
+    "words": [
+      "買う",
+      "買い物",
+      "購買"
     ]
   },
   {
@@ -2550,6 +4361,8 @@
     "strokes": 11,
     "grade": 3,
     "freq": 530,
+    "radical": "心",
+    "radical_number": 61,
     "onyomi": [
       "アク",
       "オ"
@@ -2572,6 +4385,16 @@
       "false",
       "evil",
       "wrong"
+    ],
+    "words": [
+      "悪い",
+      "悪魔",
+      "悪口",
+      "意地悪",
+      "悪",
+      "悪日",
+      "悪化",
+      "改悪"
     ]
   },
   {
@@ -2580,6 +4403,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 539,
+    "radical": "囗",
+    "radical_number": 31,
     "onyomi": [
       "ズ",
       "ト"
@@ -2594,6 +4419,19 @@
       "plan",
       "extraordinary",
       "audacious"
+    ],
+    "nanori": [
+      "づ"
+    ],
+    "words": [
+      "地図",
+      "図書館",
+      "図",
+      "合図",
+      "図書",
+      "図鑑",
+      "図形",
+      "図表"
     ]
   },
   {
@@ -2602,12 +4440,24 @@
     "strokes": 11,
     "grade": 2,
     "freq": 540,
+    "radical": "辵",
+    "radical_number": 162,
     "onyomi": [
       "シュウ"
     ],
     "kunyomi": [],
     "meanings": [
       "week"
+    ],
+    "words": [
+      "今週",
+      "先週",
+      "毎週",
+      "来週",
+      "さ来週",
+      "週",
+      "週間",
+      "先々週"
     ]
   },
   {
@@ -2616,6 +4466,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 550,
+    "radical": "宀",
+    "radical_number": 40,
     "onyomi": [
       "シツ"
     ],
@@ -2628,6 +4480,16 @@
       "chamber",
       "greenhouse",
       "cellar"
+    ],
+    "words": [
+      "教室",
+      "会議室",
+      "研究室",
+      "温室",
+      "待合室",
+      "室",
+      "控室",
+      "浴室"
     ]
   },
   {
@@ -2636,6 +4498,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 554,
+    "radical": "止",
+    "radical_number": 77,
     "onyomi": [
       "ホ",
       "ブ",
@@ -2648,6 +4512,21 @@
     "meanings": [
       "walk",
       "counter for steps"
+    ],
+    "nanori": [
+      "あ",
+      "ゆき",
+      "ゆみ"
+    ],
+    "words": [
+      "歩く",
+      "散歩",
+      "進歩",
+      "歩道",
+      "歩",
+      "歩み",
+      "歩む",
+      "譲歩"
     ]
   },
   {
@@ -2656,6 +4535,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 558,
+    "radical": "風",
+    "radical_number": 182,
     "onyomi": [
       "フウ",
       "フ"
@@ -2669,6 +4550,20 @@
       "air",
       "style",
       "manner"
+    ],
+    "nanori": [
+      "い",
+      "え"
+    ],
+    "words": [
+      "風",
+      "風邪",
+      "お風呂",
+      "台風",
+      "風景",
+      "風船",
+      "扇風機",
+      "風呂敷"
     ]
   },
   {
@@ -2677,6 +4572,8 @@
     "strokes": 10,
     "grade": 2,
     "freq": 559,
+    "radical": "糸",
+    "radical_number": 120,
     "onyomi": [
       "シ"
     ],
@@ -2685,6 +4582,16 @@
     ],
     "meanings": [
       "paper"
+    ],
+    "words": [
+      "紙",
+      "手紙",
+      "紙屑",
+      "紙幣",
+      "塵紙",
+      "表紙",
+      "用紙",
+      "張り紙"
     ]
   },
   {
@@ -2693,6 +4600,8 @@
     "strokes": 11,
     "grade": 2,
     "freq": 573,
+    "radical": "黑",
+    "radical_number": 203,
     "onyomi": [
       "コク"
     ],
@@ -2703,6 +4612,13 @@
     ],
     "meanings": [
       "black"
+    ],
+    "words": [
+      "黒",
+      "黒い",
+      "黒板",
+      "真っ黒",
+      "黒字"
     ]
   },
   {
@@ -2711,6 +4627,8 @@
     "strokes": 7,
     "grade": 1,
     "freq": 578,
+    "radical": "艸",
+    "radical_number": 140,
     "onyomi": [
       "カ",
       "ケ"
@@ -2720,6 +4638,19 @@
     ],
     "meanings": [
       "flower"
+    ],
+    "nanori": [
+      "わ"
+    ],
+    "words": [
+      "花",
+      "花瓶",
+      "花見",
+      "花火",
+      "花嫁",
+      "生け花",
+      "花壇",
+      "花粉"
     ]
   },
   {
@@ -2728,6 +4659,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 579,
+    "radical": "日",
+    "radical_number": 72,
     "onyomi": [
       "シュン"
     ],
@@ -2737,6 +4670,17 @@
     "meanings": [
       "springtime",
       "spring (season)"
+    ],
+    "nanori": [
+      "あずま",
+      "かす",
+      "すの",
+      "ひ",
+      "わら"
+    ],
+    "words": [
+      "春",
+      "青春"
     ]
   },
   {
@@ -2745,6 +4689,8 @@
     "strokes": 7,
     "grade": 1,
     "freq": 584,
+    "radical": "赤",
+    "radical_number": 155,
     "onyomi": [
       "セキ",
       "シャク"
@@ -2758,6 +4704,20 @@
     ],
     "meanings": [
       "red"
+    ],
+    "nanori": [
+      "あ",
+      "あこ",
+      "あま"
+    ],
+    "words": [
+      "赤",
+      "赤い",
+      "赤ん坊",
+      "真っ赤",
+      "赤道",
+      "赤字",
+      "赤らむ"
     ]
   },
   {
@@ -2766,6 +4726,8 @@
     "strokes": 8,
     "grade": 1,
     "freq": 589,
+    "radical": "靑",
+    "radical_number": 174,
     "onyomi": [
       "セイ",
       "ショウ"
@@ -2778,6 +4740,18 @@
     "meanings": [
       "blue",
       "green"
+    ],
+    "nanori": [
+      "お"
+    ],
+    "words": [
+      "青",
+      "青い",
+      "青年",
+      "青白い",
+      "青少年",
+      "真っ青",
+      "青春"
     ]
   },
   {
@@ -2786,6 +4760,8 @@
     "strokes": 16,
     "grade": 3,
     "freq": 613,
+    "radical": "食",
+    "radical_number": 184,
     "onyomi": [
       "カン"
     ],
@@ -2798,6 +4774,19 @@
       "mansion",
       "large building",
       "palace"
+    ],
+    "nanori": [
+      "たち"
+    ],
+    "words": [
+      "映画館",
+      "大使館",
+      "図書館",
+      "旅館",
+      "美術館",
+      "博物館",
+      "会館",
+      "館"
     ]
   },
   {
@@ -2806,6 +4795,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 616,
+    "radical": "尸",
+    "radical_number": 44,
     "onyomi": [
       "オク"
     ],
@@ -2818,6 +4809,19 @@
       "shop",
       "dealer",
       "seller"
+    ],
+    "nanori": [
+      "た"
+    ],
+    "words": [
+      "部屋",
+      "八百屋",
+      "屋上",
+      "小屋",
+      "屋根",
+      "屋外",
+      "家屋",
+      "店屋"
     ]
   },
   {
@@ -2826,6 +4830,8 @@
     "strokes": 6,
     "grade": 2,
     "freq": 621,
+    "radical": "色",
+    "radical_number": 139,
     "onyomi": [
       "ショク",
       "シキ"
@@ -2835,6 +4841,20 @@
     ],
     "meanings": [
       "color"
+    ],
+    "nanori": [
+      "しか",
+      "しこ"
+    ],
+    "words": [
+      "色",
+      "黄色",
+      "茶色",
+      "黄色い",
+      "景色",
+      "特色",
+      "灰色",
+      "茶色い"
     ]
   },
   {
@@ -2843,6 +4863,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 626,
+    "radical": "走",
+    "radical_number": 156,
     "onyomi": [
       "ソウ"
     ],
@@ -2851,6 +4873,14 @@
     ],
     "meanings": [
       "run"
+    ],
+    "nanori": [
+      "はしり"
+    ],
+    "words": [
+      "走る",
+      "走行",
+      "逃走"
     ]
   },
   {
@@ -2859,6 +4889,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 635,
+    "radical": "禾",
+    "radical_number": 115,
     "onyomi": [
       "シュウ"
     ],
@@ -2868,6 +4900,12 @@
     ],
     "meanings": [
       "autumn"
+    ],
+    "nanori": [
+      "あい"
+    ],
+    "words": [
+      "秋"
     ]
   },
   {
@@ -2876,6 +4914,8 @@
     "strokes": 10,
     "grade": 2,
     "freq": 659,
+    "radical": "夊",
+    "radical_number": 35,
     "onyomi": [
       "カ",
       "ガ",
@@ -2886,6 +4926,10 @@
     ],
     "meanings": [
       "summer"
+    ],
+    "words": [
+      "夏",
+      "夏休み"
     ]
   },
   {
@@ -2894,6 +4938,8 @@
     "strokes": 11,
     "grade": 3,
     "freq": 706,
+    "radical": "羽",
+    "radical_number": 124,
     "onyomi": [
       "シュウ",
       "ジュ"
@@ -2904,6 +4950,16 @@
     ],
     "meanings": [
       "learn"
+    ],
+    "words": [
+      "習う",
+      "練習",
+      "習慣",
+      "復習",
+      "予習",
+      "学習",
+      "自習",
+      "実習"
     ]
   },
   {
@@ -2912,12 +4968,17 @@
     "strokes": 14,
     "grade": 3,
     "freq": 724,
+    "radical": "馬",
+    "radical_number": 187,
     "onyomi": [
       "エキ"
     ],
     "kunyomi": [],
     "meanings": [
       "station"
+    ],
+    "words": [
+      "駅"
     ]
   },
   {
@@ -2926,6 +4987,8 @@
     "strokes": 9,
     "grade": 3,
     "freq": 763,
+    "radical": "水",
+    "radical_number": 85,
     "onyomi": [
       "ヨウ"
     ],
@@ -2935,6 +4998,21 @@
       "sea",
       "foreign",
       "Western style"
+    ],
+    "nanori": [
+      "なだ",
+      "ひろ",
+      "ひろし",
+      "よ",
+      "よし"
+    ],
+    "words": [
+      "洋服",
+      "西洋",
+      "海洋",
+      "東洋",
+      "洋品店",
+      "洋風"
     ]
   },
   {
@@ -2943,6 +5021,8 @@
     "strokes": 10,
     "grade": 3,
     "freq": 783,
+    "radical": "方",
+    "radical_number": 70,
     "onyomi": [
       "リョ"
     ],
@@ -2952,6 +5032,13 @@
     "meanings": [
       "trip",
       "travel"
+    ],
+    "words": [
+      "旅行",
+      "旅館",
+      "旅",
+      "旅客",
+      "旅券"
     ]
   },
   {
@@ -2960,6 +5047,8 @@
     "strokes": 8,
     "grade": 3,
     "freq": 873,
+    "radical": "月",
+    "radical_number": 74,
     "onyomi": [
       "フク"
     ],
@@ -2969,6 +5058,21 @@
       "admit",
       "obey",
       "discharge"
+    ],
+    "nanori": [
+      "はっ",
+      "はつ",
+      "はら"
+    ],
+    "words": [
+      "服",
+      "洋服",
+      "衣服",
+      "克服",
+      "服装",
+      "和服",
+      "軍服",
+      "制服"
     ]
   },
   {
@@ -2977,6 +5081,8 @@
     "strokes": 3,
     "grade": 1,
     "freq": 924,
+    "radical": "夕",
+    "radical_number": 36,
     "onyomi": [
       "セキ"
     ],
@@ -2985,6 +5091,19 @@
     ],
     "meanings": [
       "evening"
+    ],
+    "nanori": [
+      "ゆ"
+    ],
+    "words": [
+      "夕方",
+      "夕飯",
+      "夕べ",
+      "夕刊",
+      "夕立",
+      "夕日",
+      "夕暮れ",
+      "夕焼け"
     ]
   },
   {
@@ -2993,6 +5112,8 @@
     "strokes": 10,
     "grade": 4,
     "freq": 932,
+    "radical": "人",
+    "radical_number": 9,
     "onyomi": [
       "シャク"
     ],
@@ -3002,6 +5123,12 @@
     "meanings": [
       "borrow",
       "rent"
+    ],
+    "words": [
+      "借りる",
+      "借金",
+      "借り",
+      "拝借"
     ]
   },
   {
@@ -3010,12 +5137,27 @@
     "strokes": 18,
     "grade": 2,
     "freq": 940,
+    "radical": "日",
+    "radical_number": 72,
     "onyomi": [
       "ヨウ"
     ],
     "kunyomi": [],
     "meanings": [
       "weekday"
+    ],
+    "nanori": [
+      "てる"
+    ],
+    "words": [
+      "火曜日",
+      "金曜日",
+      "月曜日",
+      "水曜日",
+      "土曜日",
+      "日曜日",
+      "木曜日",
+      "火曜"
     ]
   },
   {
@@ -3024,6 +5166,8 @@
     "strokes": 12,
     "grade": 3,
     "freq": 969,
+    "radical": "食",
+    "radical_number": 184,
     "onyomi": [
       "イン",
       "オン"
@@ -3036,6 +5180,12 @@
       "drink",
       "smoke",
       "take"
+    ],
+    "words": [
+      "飲む",
+      "飲み物",
+      "湯飲み",
+      "飲み込む"
     ]
   },
   {
@@ -3044,6 +5194,8 @@
     "strokes": 6,
     "grade": 2,
     "freq": 986,
+    "radical": "肉",
+    "radical_number": 130,
     "onyomi": [
       "ニク"
     ],
@@ -3052,6 +5204,16 @@
     ],
     "meanings": [
       "meat"
+    ],
+    "words": [
+      "肉",
+      "牛肉",
+      "豚肉",
+      "とり肉",
+      "筋肉",
+      "皮肉",
+      "肉親",
+      "肉体"
     ]
   },
   {
@@ -3060,6 +5222,8 @@
     "strokes": 12,
     "grade": 5,
     "freq": 995,
+    "radical": "貝",
+    "radical_number": 154,
     "onyomi": [
       "タイ"
     ],
@@ -3070,6 +5234,13 @@
     ],
     "meanings": [
       "lend"
+    ],
+    "words": [
+      "貸す",
+      "貸し",
+      "貸間",
+      "貸家",
+      "貸し出し"
     ]
   },
   {
@@ -3078,6 +5249,8 @@
     "strokes": 11,
     "grade": 5,
     "freq": 1010,
+    "radical": "土",
+    "radical_number": 32,
     "onyomi": [
       "ドウ"
     ],
@@ -3085,6 +5258,12 @@
     "meanings": [
       "public chamber",
       "hall"
+    ],
+    "words": [
+      "食堂",
+      "講堂",
+      "堂々",
+      "議事堂"
     ]
   },
   {
@@ -3093,6 +5272,8 @@
     "strokes": 11,
     "grade": 2,
     "freq": 1043,
+    "radical": "鳥",
+    "radical_number": 196,
     "onyomi": [
       "チョウ"
     ],
@@ -3102,6 +5283,17 @@
     "meanings": [
       "bird",
       "chicken"
+    ],
+    "nanori": [
+      "か",
+      "と",
+      "とっ"
+    ],
+    "words": [
+      "鳥",
+      "小鳥",
+      "鳥居",
+      "渡り鳥"
     ]
   },
   {
@@ -3110,6 +5302,8 @@
     "strokes": 12,
     "grade": 4,
     "freq": 1046,
+    "radical": "食",
+    "radical_number": 184,
     "onyomi": [
       "ハン"
     ],
@@ -3119,6 +5313,21 @@
     "meanings": [
       "meal",
       "boiled rice"
+    ],
+    "nanori": [
+      "い",
+      "いい",
+      "いり",
+      "え"
+    ],
+    "words": [
+      "御飯",
+      "夕飯",
+      "朝御飯",
+      "晩御飯",
+      "昼御飯",
+      "飯",
+      "昼飯"
     ]
   },
   {
@@ -3127,6 +5336,8 @@
     "strokes": 10,
     "grade": 3,
     "freq": 1066,
+    "radical": "力",
+    "radical_number": 19,
     "onyomi": [
       "ベン"
     ],
@@ -3140,6 +5351,14 @@
       "strive",
       "make effort",
       "diligent"
+    ],
+    "nanori": [
+      "ひこ",
+      "やつ"
+    ],
+    "words": [
+      "勉強",
+      "勤勉"
     ]
   },
   {
@@ -3148,6 +5367,8 @@
     "strokes": 5,
     "grade": 2,
     "freq": 1090,
+    "radical": "冫",
+    "radical_number": 15,
     "onyomi": [
       "トウ"
     ],
@@ -3156,6 +5377,10 @@
     ],
     "meanings": [
       "winter"
+    ],
+    "words": [
+      "冬",
+      "冬眠"
     ]
   },
   {
@@ -3164,6 +5389,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 1115,
+    "radical": "日",
+    "radical_number": 72,
     "onyomi": [
       "チュウ"
     ],
@@ -3173,6 +5400,16 @@
     "meanings": [
       "daytime",
       "noon"
+    ],
+    "words": [
+      "昼",
+      "昼御飯",
+      "昼間",
+      "昼休み",
+      "お昼",
+      "昼食",
+      "昼寝",
+      "昼飯"
     ]
   },
   {
@@ -3181,6 +5418,8 @@
     "strokes": 9,
     "grade": 2,
     "freq": 1116,
+    "radical": "艸",
+    "radical_number": 140,
     "onyomi": [
       "チャ",
       "サ"
@@ -3188,6 +5427,19 @@
     "kunyomi": [],
     "meanings": [
       "tea"
+    ],
+    "nanori": [
+      "ちや"
+    ],
+    "words": [
+      "お茶",
+      "紅茶",
+      "茶色",
+      "喫茶店",
+      "茶",
+      "茶色い",
+      "喫茶",
+      "無茶"
     ]
   },
   {
@@ -3196,6 +5448,8 @@
     "strokes": 7,
     "grade": 2,
     "freq": 1161,
+    "radical": "弓",
+    "radical_number": 57,
     "onyomi": [
       "テイ",
       "ダイ",
@@ -3207,6 +5461,14 @@
     "meanings": [
       "younger brother",
       "faithful service to elders"
+    ],
+    "nanori": [
+      "て"
+    ],
+    "words": [
+      "弟",
+      "兄弟",
+      "従兄弟"
     ]
   },
   {
@@ -3215,6 +5477,8 @@
     "strokes": 4,
     "grade": 2,
     "freq": 1202,
+    "radical": "牛",
+    "radical_number": 93,
     "onyomi": [
       "ギュウ"
     ],
@@ -3223,6 +5487,15 @@
     ],
     "meanings": [
       "cow"
+    ],
+    "nanori": [
+      "うじ",
+      "ご"
+    ],
+    "words": [
+      "牛肉",
+      "牛乳",
+      "牛"
     ]
   },
   {
@@ -3231,6 +5504,8 @@
     "strokes": 11,
     "grade": 2,
     "freq": 1208,
+    "radical": "魚",
+    "radical_number": 195,
     "onyomi": [
       "ギョ"
     ],
@@ -3241,6 +5516,13 @@
     ],
     "meanings": [
       "fish"
+    ],
+    "nanori": [
+      "い"
+    ],
+    "words": [
+      "魚",
+      "金魚"
     ]
   },
   {
@@ -3249,6 +5531,8 @@
     "strokes": 5,
     "grade": 2,
     "freq": 1219,
+    "radical": "儿",
+    "radical_number": 10,
     "onyomi": [
       "ケイ",
       "キョウ"
@@ -3259,6 +5543,17 @@
     "meanings": [
       "elder brother",
       "big brother"
+    ],
+    "nanori": [
+      "え",
+      "せ",
+      "よし"
+    ],
+    "words": [
+      "兄",
+      "兄弟",
+      "お兄さん",
+      "従兄弟"
     ]
   },
   {
@@ -3267,6 +5562,8 @@
     "strokes": 4,
     "grade": 1,
     "freq": 1326,
+    "radical": "犬",
+    "radical_number": 94,
     "onyomi": [
       "ケン"
     ],
@@ -3276,6 +5573,9 @@
     ],
     "meanings": [
       "dog"
+    ],
+    "words": [
+      "犬"
     ]
   },
   {
@@ -3284,6 +5584,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 1446,
+    "radical": "女",
+    "radical_number": 38,
     "onyomi": [
       "マイ"
     ],
@@ -3292,6 +5594,16 @@
     ],
     "meanings": [
       "younger sister"
+    ],
+    "nanori": [
+      "す",
+      "せ",
+      "も"
+    ],
+    "words": [
+      "妹",
+      "従姉妹",
+      "姉妹"
     ]
   },
   {
@@ -3300,6 +5612,8 @@
     "strokes": 8,
     "grade": 2,
     "freq": 1473,
+    "radical": "女",
+    "radical_number": 38,
     "onyomi": [
       "シ"
     ],
@@ -3309,6 +5623,12 @@
     ],
     "meanings": [
       "elder sister"
+    ],
+    "words": [
+      "姉",
+      "お姉さん",
+      "従姉妹",
+      "姉妹"
     ]
   },
   {
@@ -3317,6 +5637,8 @@
     "strokes": 13,
     "grade": 3,
     "freq": 1487,
+    "radical": "水",
+    "radical_number": 85,
     "onyomi": [
       "カン"
     ],
@@ -3324,6 +5646,14 @@
     "meanings": [
       "Sino-",
       "China"
+    ],
+    "nanori": [
+      "はん"
+    ],
+    "words": [
+      "漢字",
+      "漢和",
+      "漢語"
     ]
   }
 ]
