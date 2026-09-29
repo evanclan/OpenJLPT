@@ -21,10 +21,10 @@
         "tatoeba_id": 194412
       },
       {
-        "ja": "またいつかお会いしたいものです。",
-        "furigana": "またいつかお{会|あ}いしたいものです。",
-        "en": "I would like to see you again sometime.",
-        "tatoeba_id": 195525
+        "ja": "じゃあパーティーで会いましょう。",
+        "furigana": "じゃあパーティーで{会|あ}いましょう。",
+        "en": "See you at the party.",
+        "tatoeba_id": 215904
       }
     ]
   },
@@ -44,16 +44,15 @@
     "jmdict_id": 1381380,
     "examples": [
       {
-        "ja": "夏の通学服は白と青のチェックです。",
-        "furigana": "{夏|なつ}の{通学|つうがく}{服|ふく}は{白|しろ}と{青|あお}のチェックです。",
-        "en": "My summer school dress is blue and white checkered.",
-        "tatoeba_id": 187219
-      },
-      {
         "ja": "信号が青に変わったわよ。",
         "furigana": "{信号|しんごう}が{青|あお}に{変|か}わったわよ。",
         "en": "The traffic light turned green.",
         "tatoeba_id": 145720
+      },
+      {
+        "ja": "夏の通学服は白と青のチェックです。",
+        "en": "My summer school dress is blue and white checkered.",
+        "tatoeba_id": 187219
       }
     ]
   },
@@ -101,16 +100,16 @@
     "jmdict_id": 2013900,
     "examples": [
       {
-        "ja": "赤白まだらのタオルを一本ください。",
-        "furigana": "{赤|あか}{白|しろ}まだらのタオルを{一本|いっぽん}ください。",
-        "en": "A red and spotted white towel, please.",
-        "tatoeba_id": 142119
-      },
-      {
         "ja": "赤インクで書いてはいけない。",
         "furigana": "{赤|あか}インクで{書|か}いてはいけない。",
         "en": "Don't write in red ink.",
         "tatoeba_id": 142280
+      },
+      {
+        "ja": "その家は赤レンガづくりです。",
+        "furigana": "その{家|いえ}は{赤|あか}レンガづくりです。",
+        "en": "The house is built of red bricks.",
+        "tatoeba_id": 212071
       }
     ]
   },
@@ -604,16 +603,16 @@
     ],
     "examples": [
       {
-        "ja": "あちらが私の待っていた人です。",
-        "furigana": "あちらが{私|わたし}の{待|ま}っていた{人|ひと}です。",
-        "en": "That's the person I've been waiting for.",
-        "tatoeba_id": 234351
-      },
-      {
         "ja": "こっちの本はあっちの本よりやさしい。",
         "furigana": "こっちの{本|ほん}はあっちの{本|ほん}よりやさしい。",
         "en": "These books are easier than those books.",
         "tatoeba_id": 217779
+      },
+      {
+        "ja": "あちらに着いたら手紙をください。",
+        "furigana": "あちらに{着|つ}いたら{手紙|てがみ}をください。",
+        "en": "Please write to me when you get there.",
+        "tatoeba_id": 234350
       }
     ]
   },
@@ -832,16 +831,15 @@
     "jmdict_id": 1307630,
     "examples": [
       {
-        "ja": "姉は私のズボンにアイロンをかけてくれる。",
-        "furigana": "{姉|あね}は{私|わたし}のズボンにアイロンをかけてくれる。",
-        "en": "My sister presses my trousers.",
-        "tatoeba_id": 168901
-      },
-      {
         "ja": "先月、姉は６ポンドの男の子を生んだ。",
         "furigana": "{先月|せんげつ}、{姉|あね}は６ポンドの{男|おとこ}の{子|こ}を{生|う}んだ。",
         "en": "Last month my sister gave birth to a six-pound baby.",
         "tatoeba_id": 141894
+      },
+      {
+        "ja": "姉は私のズボンにアイロンをかけてくれる。",
+        "en": "My sister presses my trousers.",
+        "tatoeba_id": 168901
       }
     ]
   },
@@ -1447,16 +1445,15 @@
     "jmdict_id": 1421700,
     "examples": [
       {
-        "ja": "この前の夏にこの池は水がなくなりました。",
-        "furigana": "この{前|まえ}の{夏|なつ}にこの{池|いけ}は{水|みず}がなくなりました。",
-        "en": "The pond dried up last summer.",
-        "tatoeba_id": 220757
-      },
-      {
         "ja": "その池にはほとんど水がない。",
         "furigana": "その{池|いけ}にはほとんど{水|みず}がない。",
         "en": "There is little water in the pond.",
         "tatoeba_id": 207858
+      },
+      {
+        "ja": "この前の夏にこの池は水がなくなりました。",
+        "en": "The pond dried up last summer.",
+        "tatoeba_id": 220757
       }
     ]
   },
@@ -1626,10 +1623,9 @@
         "tatoeba_id": 218179
       },
       {
-        "ja": "ショッピングセンターは一マイル先です。",
-        "furigana": "ショッピングセンターは{一|いち}マイル{先|さき}です。",
-        "en": "The shopping center is a mile further down the road.",
-        "tatoeba_id": 215553
+        "ja": "このとおりを一マイル行きなさい。",
+        "en": "Go along this street for a mile.",
+        "tatoeba_id": 223472
       }
     ]
   },
@@ -1649,16 +1645,16 @@
     "jmdict_id": 1576260,
     "examples": [
       {
-        "ja": "それは一日二日でできるでしょう。",
-        "furigana": "それは{一日|いちにち}{二日|ふつか}でできるでしょう。",
-        "en": "I'll be able to finish in a day or two.",
-        "tatoeba_id": 205335
-      },
-      {
         "ja": "一日で５００ドルつかってしまった。",
         "furigana": "{一日|いちにち}で５００ドルつかってしまった。",
         "en": "I've spent $500 a day.",
         "tatoeba_id": 190280
+      },
+      {
+        "ja": "一日いい天気になりそうですよ。",
+        "furigana": "{一日|いちにち}いい{天気|てんき}になりそうですよ。",
+        "en": "I think it's going to be a nice day.",
+        "tatoeba_id": 190284
       }
     ]
   },
@@ -1941,16 +1937,16 @@
     "jmdict_id": 1524590,
     "examples": [
       {
-        "ja": "あのかわいい少女は私の妹です。",
-        "furigana": "あのかわいい{少女|しょうじょ}は{私|わたし}の{妹|いもうと}です。",
-        "en": "That pretty girl is my sister.",
-        "tatoeba_id": 231347
-      },
-      {
         "ja": "男の子は妹を見下ろしがちである。",
         "furigana": "{男|おとこ}の{子|こ}は{妹|いもうと}を{見下|みお}ろしがちである。",
         "en": "Boys tend to look down on their younger sisters.",
         "tatoeba_id": 127233
+      },
+      {
+        "ja": "あいつの妹、とてもかわいいね。",
+        "furigana": "あいつの{妹|いもうと}、とてもかわいいね。",
+        "en": "His little sister is very cute, isn't she?",
+        "tatoeba_id": 234651
       }
     ]
   },
@@ -2797,15 +2793,14 @@
     "jmdict_id": 1414220,
     "examples": [
       {
-        "ja": "そこには大勢の人がいた。",
-        "furigana": "そこには{大勢|おおぜい}の{人|ひと}がいた。",
-        "en": "There was a large crowd there.",
-        "tatoeba_id": 213674
-      },
-      {
         "ja": "大ぜいの人たちがいた。",
         "en": "There were lots of people.",
         "tatoeba_id": 137691
+      },
+      {
+        "ja": "そこには大勢の人がいた。",
+        "en": "There was a large crowd there.",
+        "tatoeba_id": 213674
       }
     ]
   },
@@ -3034,10 +3029,10 @@
         "tatoeba_id": 215024
       },
       {
-        "ja": "給仕は新しいお皿を持ってきた。",
-        "furigana": "{給仕|きゅうじ}は{新|あたら}しいお{皿|さら}を{持|も}ってきた。",
-        "en": "The waiter brought a new plate.",
-        "tatoeba_id": 182363
+        "ja": "私はお皿を洗ってからテレビを見た。",
+        "furigana": "{私|わたし}はお{皿|さら}を{洗|あら}ってからテレビを{見|み}た。",
+        "en": "I watched TV after I washed the dishes.",
+        "tatoeba_id": 161235
       }
     ]
   },
@@ -3216,7 +3211,6 @@
       },
       {
         "ja": "お手洗いはどこか教えて下さいませんか。",
-        "furigana": "お{手洗|てあら}いはどこか{教|おし}えて{下|くだ}さいませんか。",
         "en": "Could you show me where the bathroom is?",
         "tatoeba_id": 227064
       }
@@ -3622,10 +3616,10 @@
         "tatoeba_id": 227572
       },
       {
-        "ja": "父は叔母さんの名前をとって私の名前にしました。",
-        "furigana": "{父|ちち}は{叔母|おば}さんの{名前|なまえ}をとって{私|わたし}の{名前|なまえ}にしました。",
-        "en": "Father named me after his aunt.",
-        "tatoeba_id": 84742
+        "ja": "これクララ叔母さんのと同じネックレスじゃない？",
+        "furigana": "これクララ{叔母|おば}さんのと{同|おな}じネックレスじゃない？",
+        "en": "Isn't this the same necklace that Aunt Clara wears?",
+        "tatoeba_id": 218824
       }
     ]
   },
@@ -3702,16 +3696,14 @@
     "jmdict_id": 1513065,
     "examples": [
       {
-        "ja": "お弁当食べたんでしょう。",
-        "furigana": "お{弁当|べんとう}{食|た}べたんでしょう。",
-        "en": "You have eaten lunch, haven't you?",
-        "tatoeba_id": 226652
+        "ja": "彼は今日、お弁当を持って来た。",
+        "en": "He brought his lunch today.",
+        "tatoeba_id": 107100
       },
       {
-        "ja": "学校にお弁当を持ってきてもいいですよ。",
-        "furigana": "{学校|がっこう}にお{弁当|べんとう}を{持|も}ってきてもいいですよ。",
-        "en": "You may bring your own lunch to school.",
-        "tatoeba_id": 9806427
+        "ja": "お弁当食べたんでしょう。",
+        "en": "You have eaten lunch, haven't you?",
+        "tatoeba_id": 226652
       }
     ]
   },
@@ -3767,10 +3759,10 @@
         "tatoeba_id": 214211
       },
       {
-        "ja": "そのおまわりさんは勤務中です。",
-        "furigana": "そのおまわりさんは{勤務|きんむ}{中|ちゅう}です。",
-        "en": "The policeman is on duty.",
-        "tatoeba_id": 213319
+        "ja": "おまわりさんに道を尋ねなさい。",
+        "furigana": "おまわりさんに{道|みち}を{尋|たず}ねなさい。",
+        "en": "Ask the policeman the way.",
+        "tatoeba_id": 227504
       }
     ]
   },
@@ -3910,16 +3902,14 @@
     ],
     "examples": [
       {
-        "ja": "ケーキをまだ食べ終わっていない。",
-        "furigana": "ケーキをまだ{食|た}べ{終|お}わっていない。",
-        "en": "You haven't eaten the cake yet.",
-        "tatoeba_id": 225311
+        "ja": "そのコンサートは十時に終わった。",
+        "en": "The concert came to an end at ten o'clock.",
+        "tatoeba_id": 213081
       },
       {
-        "ja": "うん、休みが終わるまででいいの。",
-        "furigana": "うん、{休|やす}みが{終|お}わるまででいいの。",
-        "en": "Oh, just over the holidays.",
-        "tatoeba_id": 228063
+        "ja": "今日は終わりにしましょう。",
+        "en": "Let's call it a day.",
+        "tatoeba_id": 171599
       }
     ]
   },
@@ -4374,16 +4364,16 @@
     ],
     "examples": [
       {
+        "ja": "１０円で電話がかけられますか。",
+        "furigana": "１０{円|えん}で{電話|でんわ}がかけられますか。",
+        "en": "Can I make a phone call for ten yen?",
+        "tatoeba_id": 236074
+      },
+      {
         "ja": "コックさんは少しもかけていない。",
         "furigana": "コックさんは{少|すこ}しもかけていない。",
         "en": "The cook hasn't put any on it.",
         "tatoeba_id": 224138
-      },
-      {
-        "ja": "どうぞおかけ下さい。",
-        "furigana": "どうぞおかけ{下|くだ}さい。",
-        "en": "Please have a seat.",
-        "tatoeba_id": 236991
       }
     ]
   },
@@ -4990,16 +4980,16 @@
     "jmdict_id": 1390020,
     "examples": [
       {
-        "ja": "ロンドンはテムズ川のほとりにある。",
-        "furigana": "ロンドンはテムズ{川|かわ}のほとりにある。",
-        "en": "London is on the Thames.",
-        "tatoeba_id": 192113
-      },
-      {
         "ja": "その川はあまりきれいではなかった。",
         "furigana": "その{川|かわ}はあまりきれいではなかった。",
         "en": "The river was not so clean.",
         "tatoeba_id": 208510
+      },
+      {
+        "ja": "この川は長さ５００マイルです。",
+        "furigana": "この{川|かわ}は{長|なが}さ５００マイルです。",
+        "en": "This river is 500 miles in length.",
+        "tatoeba_id": 220796
       }
     ]
   },
@@ -5389,15 +5379,14 @@
     "jmdict_id": 1579260,
     "examples": [
       {
-        "ja": "この女の子は昨日来た子だ。",
-        "furigana": "この{女|おんな}の{子|こ}は{昨日|きのう}{来|き}た{子|こ}だ。",
-        "en": "This is the girl that came yesterday.",
-        "tatoeba_id": 221196
-      },
-      {
         "ja": "きのう先生は今日テストをすると言った。",
         "en": "Yesterday the teacher told us that he would give us a test today.",
         "tatoeba_id": 225950
+      },
+      {
+        "ja": "昨日はなんともひどい天気だった。",
+        "en": "The weather was miserable yesterday.",
+        "tatoeba_id": 169994
       }
     ]
   },
@@ -5529,16 +5518,15 @@
     "jmdict_id": 1237150,
     "examples": [
       {
-        "ja": "エアロビクス教室に一日入学したいのですが。",
-        "furigana": "エアロビクス{教室|きょうしつ}に{一日|いちにち}{入学|にゅうがく}したいのですが。",
-        "en": "I'd like to try out the aerobics class for a day.",
-        "tatoeba_id": 228037
-      },
-      {
         "ja": "ＬＬ教室を使ってもよいですか。",
         "furigana": "ＬＬ{教室|きょうしつ}を{使|つか}ってもよいですか。",
         "en": "May we use the language lab?",
         "tatoeba_id": 234825
+      },
+      {
+        "ja": "エアロビクス教室に一日入学したいのですが。",
+        "en": "I'd like to try out the aerobics class for a day.",
+        "tatoeba_id": 228037
       }
     ]
   },
@@ -5558,7 +5546,6 @@
     "examples": [
       {
         "ja": "あなたは何人兄弟がいますか。",
-        "furigana": "あなたは{何人|なんにん}{兄弟|きょうだい}がいますか。",
         "en": "How many siblings do you have?",
         "tatoeba_id": 232196
       },
@@ -5906,16 +5893,16 @@
     "jmdict_id": 1275640,
     "examples": [
       {
-        "ja": "あの仕事の口はまだあるよ。",
-        "furigana": "あの{仕事|しごと}の{口|くち}はまだあるよ。",
-        "en": "The job offer still stands.",
-        "tatoeba_id": 230989
-      },
-      {
         "ja": "口にものをほおばってしゃべるな。",
         "furigana": "{口|くち}にものをほおばってしゃべるな。",
         "en": "Don't speak with your mouth full.",
         "tatoeba_id": 173943
+      },
+      {
+        "ja": "なぜ、あなたの口はそんなに大きいの？",
+        "furigana": "なぜ、あなたの{口|くち}はそんなに{大|おお}きいの？",
+        "en": "Why is your mouth so big?",
+        "tatoeba_id": 199296
       }
     ]
   },
@@ -6798,7 +6785,6 @@
       },
       {
         "ja": "彼の英作文には９行に９つの誤りがあります。",
-        "furigana": "{彼|かれ}の{英作文|えいさくぶん}には９{行|ぎょう}に９つの{誤|あやま}りがあります。",
         "en": "His English composition has nine mistakes in as many lines.",
         "tatoeba_id": 118095
       }
@@ -7034,7 +7020,6 @@
     "examples": [
       {
         "ja": "あなたには何人子供がいますか。",
-        "furigana": "あなたには{何人|なんにん}{子供|こども}がいますか。",
         "en": "How many children do you have?",
         "tatoeba_id": 233758
       },
@@ -7364,10 +7349,10 @@
         "tatoeba_id": 171245
       },
       {
-        "ja": "今晩はテレビを見る気がしない。",
-        "furigana": "{今晩|こんばん}はテレビを{見|み}る{気|き}がしない。",
-        "en": "I don't feel like watching TV tonight.",
-        "tatoeba_id": 171249
+        "ja": "今晩チェスをしてはどうですか。",
+        "furigana": "{今晩|こんばん}チェスをしてはどうですか。",
+        "en": "How about playing chess tonight?",
+        "tatoeba_id": 171264
       }
     ]
   },
@@ -7420,10 +7405,10 @@
         "tatoeba_id": 216960
       },
       {
-        "ja": "さあどうぞお入りください。",
-        "furigana": "さあどうぞお{入|はい}りください。",
-        "en": "Do come in!",
-        "tatoeba_id": 216899
+        "ja": "みんな。さあ聞きなさい。",
+        "furigana": "みんな。さあ{聞|き}きなさい。",
+        "en": "Boys! Now listen.",
+        "tatoeba_id": 195024
       }
     ]
   },
@@ -7501,7 +7486,6 @@
     "examples": [
       {
         "ja": "それから先の話を聞きたい。",
-        "furigana": "それから{先|さき}の{話|はなし}を{聞|き}きたい。",
         "en": "I'd like to know the rest of the story.",
         "tatoeba_id": 205916
       },
@@ -7936,10 +7920,10 @@
         "tatoeba_id": 76109
       },
       {
-        "ja": "仕事のほうはうまくいってますか。",
-        "furigana": "{仕事|しごと}のほうはうまくいってますか。",
-        "en": "How's your business going?",
-        "tatoeba_id": 169137
+        "ja": "どの仕事もやすやすとはできない。",
+        "furigana": "どの{仕事|しごと}もやすやすとはできない。",
+        "en": "No work can be done with ease.",
+        "tatoeba_id": 200317
       }
     ]
   },
@@ -8014,16 +7998,16 @@
     "jmdict_id": 1184140,
     "examples": [
       {
-        "ja": "雨が私のレインコートの下までしみとおった。",
-        "furigana": "{雨|あめ}が{私|わたし}のレインコートの{下|した}までしみとおった。",
-        "en": "The rain penetrated my raincoat.",
-        "tatoeba_id": 189677
-      },
-      {
         "ja": "クッキーはテーブルの下にいる。",
         "furigana": "クッキーはテーブルの{下|した}にいる。",
         "en": "Cookie is under the table.",
         "tatoeba_id": 225669
+      },
+      {
+        "ja": "木の下にベンチがあります。",
+        "furigana": "{木|き}の{下|した}にベンチがあります。",
+        "en": "There is a bench under the tree.",
+        "tatoeba_id": 80128
       }
     ]
   },
@@ -8137,10 +8121,10 @@
         "tatoeba_id": 150044
       },
       {
-        "ja": "こちらが先日お話しした自動車です。",
-        "furigana": "こちらが{先日|せんじつ}お{話|はな}しした{自動車|じどうしゃ}です。",
-        "en": "This is the car I spoke of the other day.",
-        "tatoeba_id": 218862
+        "ja": "ぼくの自動車はずいぶんガソリンをくう。",
+        "furigana": "ぼくの{自動車|じどうしゃ}はずいぶんガソリンをくう。",
+        "en": "My car burns a lot of gas.",
+        "tatoeba_id": 196376
       }
     ]
   },
@@ -8334,15 +8318,15 @@
     ],
     "examples": [
       {
-        "ja": "もう行かなくちゃ。じゃ、またね。",
-        "furigana": "もう{行|い}かなくちゃ。じゃ、またね。",
-        "en": "It's high time to go. See you later.",
-        "tatoeba_id": 194210
-      },
-      {
         "ja": "じゃあ、キーをもらえますか。",
         "en": "Can I have the key now, please?",
         "tatoeba_id": 215913
+      },
+      {
+        "ja": "じゃまた後から来ます。",
+        "furigana": "じゃまた{後|あと}から{来|き}ます。",
+        "en": "Then I'll come again later.",
+        "tatoeba_id": 215754
       }
     ]
   },
@@ -8532,15 +8516,14 @@
     "examples": [
       {
         "ja": "あなたは上手にバスケットボールができますか。",
-        "furigana": "あなたは{上手|じょうず}にバスケットボールができますか。",
         "en": "Do you play basketball well?",
         "tatoeba_id": 231837
       },
       {
-        "ja": "メアリーは上手にダンスができる。",
-        "furigana": "メアリーは{上手|じょうず}にダンスができる。",
-        "en": "Mary can dance well.",
-        "tatoeba_id": 194591
+        "ja": "マイクは日本語を話すのが上手だ。",
+        "furigana": "マイクは{日本語|にほんご}を{話|はな}すのが{上手|じょうず}だ。",
+        "en": "Mike speaks good Japanese.",
+        "tatoeba_id": 195731
       }
     ]
   },
@@ -8670,16 +8653,15 @@
     "jmdict_id": 1474900,
     "examples": [
       {
-        "ja": "赤白まだらのタオルを一本ください。",
-        "furigana": "{赤|あか}{白|しろ}まだらのタオルを{一本|いっぽん}ください。",
-        "en": "A red and spotted white towel, please.",
-        "tatoeba_id": 142119
-      },
-      {
         "ja": "黒に黒をたしても白にはならぬ。",
         "furigana": "{黒|くろ}に{黒|くろ}をたしても{白|しろ}にはならぬ。",
         "en": "Two blacks do not make a white.",
         "tatoeba_id": 172985
+      },
+      {
+        "ja": "赤白まだらのタオルを一本ください。",
+        "en": "A red and spotted white towel, please.",
+        "tatoeba_id": 142119
       }
     ]
   },
@@ -8761,10 +8743,10 @@
         "tatoeba_id": 172151
       },
       {
-        "ja": "彼女はこの前の水曜日からずっと休んでいる。",
-        "furigana": "{彼女|かのじょ}はこの{前|まえ}の{水曜日|すいようび}からずっと{休|やす}んでいる。",
-        "en": "She has been absent since last Wednesday.",
-        "tatoeba_id": 92866
+        "ja": "彼女は先週の水曜日から病気です。",
+        "furigana": "{彼女|かのじょ}は{先週|せんしゅう}の{水曜日|すいようび}から{病気|びょうき}です。",
+        "en": "She has been sick since last Wednesday.",
+        "tatoeba_id": 88253
       }
     ]
   },
@@ -8819,10 +8801,10 @@
         "tatoeba_id": 215022
       },
       {
-        "ja": "あなたのサロン風のスカートが好きです。",
-        "furigana": "あなたのサロン{風|ふう}のスカートが{好|す}きです。",
-        "en": "I like your sarong style skirt.",
-        "tatoeba_id": 233525
+        "ja": "このスカートは少しきつすぎます。",
+        "furigana": "このスカートは{少|すこ}しきつすぎます。",
+        "en": "This skirt is a little too tight.",
+        "tatoeba_id": 223642
       }
     ]
   },
@@ -8848,10 +8830,10 @@
         "tatoeba_id": 161709
       },
       {
-        "ja": "好きなことは何でもしてよろしい。",
-        "furigana": "{好|す}きなことは{何|なん}でもしてよろしい。",
-        "en": "You can do whatever you like.",
-        "tatoeba_id": 173816
+        "ja": "あなたはマルチーズは好きですか。",
+        "furigana": "あなたはマルチーズは{好|す}きですか。",
+        "en": "Are you fond of Maltese dogs?",
+        "tatoeba_id": 232388
       }
     ]
   },
@@ -8968,10 +8950,10 @@
         "tatoeba_id": 146856
       },
       {
-        "ja": "少しお話ししてもよろしいですか。",
-        "furigana": "{少|すこ}しお{話|はな}ししてもよろしいですか。",
-        "en": "May I speak to you a minute?",
-        "tatoeba_id": 146869
+        "ja": "このスカートは少しきつすぎます。",
+        "furigana": "このスカートは{少|すこ}しきつすぎます。",
+        "en": "This skirt is a little too tight.",
+        "tatoeba_id": 223642
       }
     ]
   },
@@ -9937,7 +9919,6 @@
       },
       {
         "ja": "それから先の話を聞きたい。",
-        "furigana": "それから{先|さき}の{話|はなし}を{聞|き}きたい。",
         "en": "I'd like to know the rest of the story.",
         "tatoeba_id": 205916
       }
@@ -10020,7 +10001,6 @@
       },
       {
         "ja": "彼はアメリカ大使館に出入りしている。",
-        "furigana": "{彼|かれ}はアメリカ{大使館|たいしかん}に{出入|でい}りしている。",
         "en": "He has access to the American Embassy.",
         "tatoeba_id": 114807
       }
@@ -10097,16 +10077,16 @@
     "jmdict_id": 1414340,
     "examples": [
       {
-        "ja": "大切なものはここに置かないで下さい。",
-        "furigana": "{大切|たいせつ}なものはここに{置|お}かないで{下|くだ}さい。",
-        "en": "Please don't leave valuable things here.",
-        "tatoeba_id": 137436
+        "ja": "本を読むことは大切です。",
+        "furigana": "{本|ほん}を{読|よ}むことは{大切|たいせつ}です。",
+        "en": "To read books is important.",
+        "tatoeba_id": 81616
       },
       {
-        "ja": "時間ほど大切なものはないといわれる。",
-        "furigana": "{時間|じかん}ほど{大切|たいせつ}なものはないといわれる。",
-        "en": "It's said that nothing is more precious than time.",
-        "tatoeba_id": 150567
+        "ja": "水は人間にとって大切だ。",
+        "furigana": "{水|みず}は{人間|にんげん}にとって{大切|たいせつ}だ。",
+        "en": "Water is important for humans.",
+        "tatoeba_id": 143754
       }
     ]
   },
@@ -10361,16 +10341,16 @@
     "jmdict_id": 1257540,
     "examples": [
       {
-        "ja": "そのビルは日本一高い建物です。",
-        "furigana": "そのビルは{日本一|にほんいち}{高|たか}い{建物|たてもの}です。",
-        "en": "That building is the tallest in Japan.",
-        "tatoeba_id": 76633
-      },
-      {
         "ja": "建物がとっても小さく見えるよ。",
         "furigana": "{建物|たてもの}がとっても{小|ちい}さく{見|み}えるよ。",
         "en": "The buildings look so tiny.",
         "tatoeba_id": 175391
+      },
+      {
+        "ja": "リンダは建物の中に入って来ました。",
+        "furigana": "リンダは{建物|たてもの}の{中|なか}に{入|はい}って{来|き}ました。",
+        "en": "Linda came into the building.",
+        "tatoeba_id": 192428
       }
     ]
   },
@@ -10542,10 +10522,10 @@
         "tatoeba_id": 202896
       },
       {
-        "ja": "このオレンジ食べてもいいですか。",
-        "furigana": "このオレンジ{食|た}べてもいいですか。",
-        "en": "Can I have this orange?",
-        "tatoeba_id": 223958
+        "ja": "食べながら読んではいけません。",
+        "furigana": "{食|た}べながら{読|よ}んではいけません。",
+        "en": "You must not read while eating.",
+        "tatoeba_id": 145934
       }
     ]
   },
@@ -10565,7 +10545,6 @@
     "examples": [
       {
         "ja": "卵を一ダースづつつめなさい。",
-        "furigana": "{卵|たまご}を{一|いち}ダースづつつめなさい。",
         "en": "Pack eggs in dozens.",
         "tatoeba_id": 78480
       },
@@ -10796,7 +10775,6 @@
     "examples": [
       {
         "ja": "７時近くだ。学校へ行かなくては。",
-        "furigana": "７{時|じ}{近|ちか}くだ。{学校|がっこう}へ{行|い}かなくては。",
         "en": "It is close to seven o'clock. We have to go to school.",
         "tatoeba_id": 234967
       },
@@ -12245,7 +12223,6 @@
     "examples": [
       {
         "ja": "お年をお聞きしてよろしいでしょうか。",
-        "furigana": "お{年|とし}をお{聞|き}きしてよろしいでしょうか。",
         "en": "Might I ask your age?",
         "tatoeba_id": 226785
       },
@@ -12395,10 +12372,10 @@
         "tatoeba_id": 4914
       },
       {
-        "ja": "どなたとお話しになりたいのですか。",
-        "furigana": "どなたとお{話|はな}しになりたいのですか。",
-        "en": "Who do you want to speak to?",
-        "tatoeba_id": 200543
+        "ja": "あなたが話していた人はどなたですか。",
+        "furigana": "あなたが{話|はな}していた{人|ひと}はどなたですか。",
+        "en": "Who is the man that you were talking with?",
+        "tatoeba_id": 233903
       }
     ]
   },
@@ -12655,10 +12632,10 @@
         "tatoeba_id": 184902
       },
       {
-        "ja": "これは私の妹を撮った写真です。",
-        "furigana": "これは{私|わたし}の{妹|いもうと}を{撮|と}った{写真|しゃしん}です。",
-        "en": "This is a picture of my sister.",
-        "tatoeba_id": 218296
+        "ja": "写真はあまり撮らなかったんだ。",
+        "furigana": "{写真|しゃしん}はあまり{撮|と}らなかったんだ。",
+        "en": "I did not take many photos.",
+        "tatoeba_id": 156161
       }
     ]
   },
@@ -13102,10 +13079,10 @@
         "tatoeba_id": 229608
       },
       {
-        "ja": "並んでお待ちください。",
-        "furigana": "{並|なら}んでお{待|ま}ちください。",
-        "en": "Wait in line, please.",
-        "tatoeba_id": 83523
+        "ja": "女の子たちは並んで座っていました。",
+        "furigana": "{女|おんな}の{子|こ}たちは{並|なら}んで{座|すわ}っていました。",
+        "en": "The girls were sitting side by side.",
+        "tatoeba_id": 147326
       }
     ]
   },
@@ -13188,15 +13165,15 @@
     ],
     "examples": [
       {
-        "ja": "今のアナウンスは何だったのですか。",
-        "furigana": "{今|いま}のアナウンスは{何|なに}だったのですか。",
-        "en": "What did the announcement just say?",
-        "tatoeba_id": 172752
-      },
-      {
         "ja": "学校の前に何本か木が見えます。",
         "en": "You see some trees in front of the school.",
         "tatoeba_id": 184431
+      },
+      {
+        "ja": "「ユリ」を英語で何といいますか。",
+        "furigana": "「ユリ」を{英語|えいご}で{何|なん}といいますか。",
+        "en": "What do you call \"yuri\" in English?",
+        "tatoeba_id": 236417
       }
     ]
   },
@@ -13215,15 +13192,14 @@
     "jmdict_id": 1461140,
     "examples": [
       {
-        "ja": "これを二、三日貸していただけますか。",
-        "furigana": "これを{二|に}、{三日|みっか}{貸|か}していただけますか。",
-        "en": "May I have this for two or three days?",
-        "tatoeba_id": 217617
-      },
-      {
         "ja": "このホールには人が二千人入れる。",
         "en": "Two thousand people fit into this hall.",
         "tatoeba_id": 223188
+      },
+      {
+        "ja": "二、三デメリットがありますね。",
+        "en": "There are a few disadvantages to it.",
+        "tatoeba_id": 123182
       }
     ]
   },
@@ -13474,7 +13450,6 @@
       },
       {
         "ja": "風呂がぬるくて入った気がしなかった。",
-        "furigana": "{風呂|ふろ}がぬるくて{入|はい}った{気|き}がしなかった。",
         "en": "The bath was not hot enough and I was unable to enjoy it.",
         "tatoeba_id": 196881
       }
@@ -13666,16 +13641,16 @@
     "jmdict_id": 1169870,
     "examples": [
       {
-        "ja": "この薬を飲まなければ行けませんか。",
-        "furigana": "この{薬|くすり}を{飲|の}まなければ{行|い}けませんか。",
-        "en": "Must I take this medicine?",
-        "tatoeba_id": 219269
-      },
-      {
         "ja": "コーラはみんな飲んでしまったの。",
         "furigana": "コーラはみんな{飲|の}んでしまったの。",
         "en": "Has all the coke been drunk?",
         "tatoeba_id": 224842
+      },
+      {
+        "ja": "今すぐにコーラが飲みたいんだ。",
+        "furigana": "{今|いま}すぐにコーラが{飲|の}みたいんだ。",
+        "en": "I am just dying for a Coke right now.",
+        "tatoeba_id": 172829
       }
     ]
   },
@@ -13696,16 +13671,16 @@
     "jmdict_id": 1355120,
     "examples": [
       {
-        "ja": "１１時の列車に乗るつもりです。",
-        "furigana": "１１{時|じ}の{列車|れっしゃ}に{乗|の}るつもりです。",
-        "en": "I'm catching the 11:00 train.",
-        "tatoeba_id": 235972
-      },
-      {
         "ja": "ほら、あなたの乗る電車が来たわ。",
         "furigana": "ほら、あなたの{乗|の}る{電車|でんしゃ}が{来|き}たわ。",
         "en": "Look, here comes your train.",
         "tatoeba_id": 195969
+      },
+      {
+        "ja": "車に乗るかどうか聞いたのです。",
+        "furigana": "{車|くるま}に{乗|の}るかどうか{聞|き}いたのです。",
+        "en": "I asked if you wanted a ride.",
+        "tatoeba_id": 149076
       }
     ]
   },
@@ -13731,6 +13706,7 @@
       },
       {
         "ja": "歯をくいしばってください。",
+        "furigana": "{歯|は}をくいしばってください。",
         "en": "Bite together, please.",
         "tatoeba_id": 150960
       }
@@ -14100,16 +14076,15 @@
     ],
     "examples": [
       {
-        "ja": "はじめまして、ジョーンズ夫人。",
-        "furigana": "はじめまして、ジョーンズ{夫人|ふじん}。",
-        "en": "How do you do, Mrs. Jones?",
-        "tatoeba_id": 198254
-      },
-      {
         "ja": "初めましてケン。",
         "furigana": "{初|はじ}めましてケン。",
         "en": "Nice to meet you, Ken.",
         "tatoeba_id": 147522
+      },
+      {
+        "ja": "はじめまして、ジョーンズ夫人。",
+        "en": "How do you do, Mrs. Jones?",
+        "tatoeba_id": 198254
       }
     ]
   },
@@ -14158,7 +14133,6 @@
     "examples": [
       {
         "ja": "バス通学と積極的差別是正措置などが論争の多い話題だった。",
-        "furigana": "バス{通学|つうがく}と{積極的|せっきょくてき}{差別|さべつ}{是正措置|ぜせいそち}などが{論争|ろんそう}の{多|おお}い{話題|わだい}だった。",
         "en": "School busing and taking a proactive stance against discrimination were hotly debated topics.",
         "tatoeba_id": 77225
       }
@@ -14179,16 +14153,15 @@
     "jmdict_id": 1098620,
     "examples": [
       {
-        "ja": "彼女はバターを２ポンド買いました。",
-        "furigana": "{彼女|かのじょ}はバターを２ポンド{買|か}いました。",
-        "en": "She bought two pounds of butter.",
-        "tatoeba_id": 91728
-      },
-      {
         "ja": "バターはミルクから出来る。",
         "furigana": "バターはミルクから{出来|でき}る。",
         "en": "Butter is made from milk.",
         "tatoeba_id": 198015
+      },
+      {
+        "ja": "このバターつきパンをいただいてもいいですか。",
+        "en": "May I have this bread and butter?",
+        "tatoeba_id": 223336
       }
     ]
   },
@@ -14300,7 +14273,6 @@
       },
       {
         "ja": "卒業式は三月二十日に行われます。",
-        "furigana": "{卒業式|そつぎょうしき}は{三月|さんがつ}{二十日|はつか}に{行|おこな}われます。",
         "en": "The graduation ceremony will take place on March 20th.",
         "tatoeba_id": 139663
       }
@@ -14555,10 +14527,10 @@
         "tatoeba_id": 192149
       },
       {
-        "ja": "今年の夏は晴れの日がほとんどなかった。",
-        "furigana": "{今年|ことし}の{夏|なつ}は{晴|は}れの{日|ひ}がほとんどなかった。",
-        "en": "We had few sunny days this summer.",
-        "tatoeba_id": 171387
+        "ja": "晴れにならないと思う。",
+        "furigana": "{晴|は}れにならないと{思|おも}う。",
+        "en": "I don't suppose it's going to be sunny.",
+        "tatoeba_id": 143007
       }
     ]
   },
@@ -14613,10 +14585,10 @@
         "tatoeba_id": 121264
       },
       {
-        "ja": "一時間半もずっと待っていたのです。",
-        "furigana": "{一時間|いちじかん}{半|はん}もずっと{待|ま}っていたのです。",
-        "en": "I've been waiting for one and a half-hours.",
-        "tatoeba_id": 190584
+        "ja": "海まではわずか半マイルだ。",
+        "furigana": "{海|うみ}まではわずか{半|はん}マイルだ。",
+        "en": "It is no more than half a mile to the sea.",
+        "tatoeba_id": 185085
       }
     ]
   },
@@ -14705,16 +14677,16 @@
     "jmdict_id": 1482290,
     "examples": [
       {
-        "ja": "ええ、じゃあ私の電話番号教えるね。",
-        "furigana": "ええ、じゃあ{私|わたし}の{電話|でんわ}{番号|ばんごう}{教|おし}えるね。",
-        "en": "OK. Let me give you my number.",
-        "tatoeba_id": 228016
-      },
-      {
         "ja": "番号をまちがえじゃありませんか。",
         "furigana": "{番号|ばんごう}をまちがえじゃありませんか。",
         "en": "I'm afraid you have got the wrong number.",
         "tatoeba_id": 121170
+      },
+      {
+        "ja": "お名前とフライト番号をどうぞ。",
+        "furigana": "お{名前|なまえ}とフライト{番号|ばんごう}をどうぞ。",
+        "en": "Your name and flight number, please?",
+        "tatoeba_id": 226580
       }
     ]
   },
@@ -14761,16 +14733,16 @@
     "jmdict_id": 1479890,
     "examples": [
       {
-        "ja": "パン半分でもないよりはまし。",
-        "furigana": "パン{半分|はんぶん}でもないよりはまし。",
-        "en": "Half a loaf is better than none.",
-        "tatoeba_id": 197730
-      },
-      {
         "ja": "ケーキのどちらの半分でもとりなさい。",
         "furigana": "ケーキのどちらの{半分|はんぶん}でもとりなさい。",
         "en": "You may take either half of the cake.",
         "tatoeba_id": 225320
+      },
+      {
+        "ja": "それを半分にきりなさい。",
+        "furigana": "それを{半分|はんぶん}にきりなさい。",
+        "en": "Cut it in half.",
+        "tatoeba_id": 204534
       }
     ]
   },
@@ -15506,16 +15478,15 @@
     "jmdict_id": 1462900,
     "examples": [
       {
-        "ja": "それは一日二日でできるでしょう。",
-        "furigana": "それは{一日|いちにち}{二日|ふつか}でできるでしょう。",
-        "en": "I'll be able to finish in a day or two.",
-        "tatoeba_id": 205335
+        "ja": "それは１週間前、すなわち４月２日に行われた。",
+        "en": "It was due a week ago, namely on April second.",
+        "tatoeba_id": 205590
       },
       {
-        "ja": "後二日でバーゲンがなくなる。",
-        "furigana": "{後|あと}{二日|ふつか}でバーゲンがなくなる。",
-        "en": "The sale will be over in two days.",
-        "tatoeba_id": 174283
+        "ja": "このミルクは二日はもつ。",
+        "furigana": "このミルクは{二日|ふつか}はもつ。",
+        "en": "The milk will keep for two days.",
+        "tatoeba_id": 223124
       }
     ]
   },
@@ -15541,7 +15512,6 @@
       },
       {
         "ja": "私の妹は足が太いのをひどく気にしている。",
-        "furigana": "{私|わたし}の{妹|いもうと}は{足|あし}が{太|ふと}いのをひどく{気|き}にしている。",
         "en": "My sister is sensitive about her thick legs.",
         "tatoeba_id": 162597
       }
@@ -15680,16 +15650,15 @@
     "jmdict_id": 1505470,
     "examples": [
       {
-        "ja": "次の文章を日本語に直しなさい。",
-        "furigana": "{次|つぎ}の{文章|ぶんしょう}を{日本語|にほんご}に{直|なお}しなさい。",
-        "en": "Put the following sentences into Japanese.",
-        "tatoeba_id": 150227
-      },
-      {
         "ja": "ヘミングウェイの文章は悪文だった。",
         "furigana": "ヘミングウェイの{文章|ぶんしょう}は{悪文|あくぶん}だった。",
         "en": "Hemingway had a poor writing style.",
         "tatoeba_id": 74604
+      },
+      {
+        "ja": "次の文章を日本語に直しなさい。",
+        "en": "Put the following sentences into Japanese.",
+        "tatoeba_id": 150227
       }
     ]
   },
@@ -15937,7 +15906,6 @@
     "examples": [
       {
         "ja": "電話は便利なものである。",
-        "furigana": "{電話|でんわ}は{便利|べんり}なものである。",
         "en": "The telephone is a convenience.",
         "tatoeba_id": 124682
       },
@@ -16135,16 +16103,15 @@
     "jmdict_id": 1295510,
     "examples": [
       {
-        "ja": "細く長く愛して。",
-        "furigana": "{細|ほそ}く{長|なが}く{愛|あい}して。",
-        "en": "Love me lithe, love me long.",
-        "tatoeba_id": 237482
-      },
-      {
         "ja": "彼は太っているくせに声は細い。",
         "furigana": "{彼|かれ}は{太|ふと}っているくせに{声|こえ}は{細|ほそ}い。",
         "en": "His voice is thin even though he is fat.",
         "tatoeba_id": 102553
+      },
+      {
+        "ja": "細く長く愛して。",
+        "en": "Love me lithe, love me long.",
+        "tatoeba_id": 237482
       }
     ]
   },
@@ -16394,16 +16361,16 @@
     "jmdict_id": 1524720,
     "examples": [
       {
-        "ja": "その犬に毎日食べ物をやって下さい。",
-        "furigana": "その{犬|いぬ}に{毎日|まいにち}{食|た}べ{物|もの}をやって{下|くだ}さい。",
-        "en": "Please feed the dog every day.",
-        "tatoeba_id": 211013
-      },
-      {
         "ja": "毎日うっとうしくていやですね。",
         "furigana": "{毎日|まいにち}うっとうしくていやですね。",
         "en": "Don't you just hate this weather?",
         "tatoeba_id": 81316
+      },
+      {
+        "ja": "あなたは毎日どれぐらいテニスをしますか。",
+        "furigana": "あなたは{毎日|まいにち}どれぐらいテニスをしますか。",
+        "en": "How long do you play tennis every day?",
+        "tatoeba_id": 231557
       }
     ]
   },
@@ -16507,16 +16474,14 @@
     ],
     "examples": [
       {
-        "ja": "ネクタイが曲がってるよ。",
-        "furigana": "ネクタイが{曲|ま}がってるよ。",
-        "en": "Your tie is crooked.",
-        "tatoeba_id": 198633
+        "ja": "２ブロック先まで歩き、左へ曲がりなさい。",
+        "en": "Walk two blocks, and turn left.",
+        "tatoeba_id": 235525
       },
       {
-        "ja": "その車はあそこで右に曲がった。",
-        "furigana": "その{車|くるま}はあそこで{右|みぎ}に{曲|ま}がった。",
-        "en": "The car made a right turn over there.",
-        "tatoeba_id": 209586
+        "ja": "この通りを２ブロック行って、左に曲がりなさい。",
+        "en": "Go two blocks along this street and turn left.",
+        "tatoeba_id": 220472
       }
     ]
   },
@@ -16576,10 +16541,10 @@
         "tatoeba_id": 215924
       },
       {
-        "ja": "もう行かなくちゃ。じゃ、またね。",
-        "furigana": "もう{行|い}かなくちゃ。じゃ、またね。",
-        "en": "It's high time to go. See you later.",
-        "tatoeba_id": 194210
+        "ja": "あの人は医者でありまた大学の先生でもある。",
+        "furigana": "あの{人|ひと}は{医者|いしゃ}でありまた{大学|だいがく}の{先生|せんせい}でもある。",
+        "en": "He is a doctor and a university professor.",
+        "tatoeba_id": 230730
       }
     ]
   },
@@ -16660,16 +16625,16 @@
     "jmdict_id": 1410590,
     "examples": [
       {
-        "ja": "しばらく電話を切らずにお待ちください。",
-        "furigana": "しばらく{電話|でんわ}を{切|き}らずにお{待|ま}ちください。",
-        "en": "Please hold the line a moment.",
-        "tatoeba_id": 216089
-      },
-      {
         "ja": "ちょっと待っていてもらえますか。",
         "furigana": "ちょっと{待|ま}っていてもらえますか。",
         "en": "Would you mind waiting a few minutes?",
         "tatoeba_id": 202739
+      },
+      {
+        "ja": "すこし待つのは気になさいますか。",
+        "furigana": "すこし{待|ま}つのは{気|き}になさいますか。",
+        "en": "Do you mind waiting for a minute?",
+        "tatoeba_id": 214707
       }
     ]
   },
@@ -16866,10 +16831,10 @@
         "tatoeba_id": 212854
       },
       {
-        "ja": "彼女の車はぴかぴかに磨いてある。",
-        "furigana": "{彼女|かのじょ}の{車|くるま}はぴかぴかに{磨|みが}いてある。",
-        "en": "Her car has a nice polish.",
-        "tatoeba_id": 94340
+        "ja": "学生は読書の技能を磨くべきだ。",
+        "furigana": "{学生|がくせい}は{読書|どくしょ}の{技能|ぎのう}を{磨|みが}くべきだ。",
+        "en": "Students should develop their reading skills.",
+        "tatoeba_id": 184229
       }
     ]
   },
@@ -17064,10 +17029,9 @@
         "tatoeba_id": 236068
       },
       {
-        "ja": "これを二、三日貸していただけますか。",
-        "furigana": "これを{二|に}、{三日|みっか}{貸|か}していただけますか。",
-        "en": "May I have this for two or three days?",
-        "tatoeba_id": 217617
+        "ja": "この本を読むのに３日かかった。",
+        "en": "It took me three days to read this book.",
+        "tatoeba_id": 168024
       }
     ]
   },
@@ -17460,7 +17424,6 @@
     "examples": [
       {
         "ja": "前の人から1メートル離れて並んでください。",
-        "furigana": "{前|#1392580}の{人|ひと}から1メートル{離|はな}れて{並|なら}んでください。",
         "en": "Form a line, keeping one meter away from the person in front of you.",
         "tatoeba_id": 140982
       }
@@ -17572,10 +17535,10 @@
         "tatoeba_id": 193147
       },
       {
-        "ja": "母はこの前の木曜日からずっと病気です。",
-        "furigana": "{母|はは}はこの{前|まえ}の{木曜日|もくようび}からずっと{病気|びょうき}です。",
-        "en": "Mother has been sick since last Thursday.",
-        "tatoeba_id": 83071
+        "ja": "木曜日よりむしろ金曜日においでいただきたい。",
+        "furigana": "{木曜日|もくようび}よりむしろ{金曜日|きんようび}においでいただきたい。",
+        "en": "I would rather you came on Friday than on Thursday.",
+        "tatoeba_id": 80049
       }
     ]
   },
@@ -17912,10 +17875,10 @@
         "tatoeba_id": 519714
       },
       {
-        "ja": "この真っ赤なりんごを８つ下さい。",
-        "furigana": "この{真|ま}っ{赤|か}なりんごを８つ{下|くだ}さい。",
-        "en": "Give me these 8 crimson apples please.",
-        "tatoeba_id": 221014
+        "ja": "母はケーキを８つに分けました。",
+        "furigana": "{母|はは}はケーキを８つに{分|わ}けました。",
+        "en": "Mother divided the cake into eight pieces.",
+        "tatoeba_id": 83078
       }
     ]
   },
@@ -17967,15 +17930,14 @@
     ],
     "examples": [
       {
-        "ja": "サイン書いてやってもいいぞ。",
-        "furigana": "サイン{書|か}いてやってもいいぞ。",
-        "en": "I can give you an autograph if you want.",
-        "tatoeba_id": 430482
-      },
-      {
         "ja": "５ドルをやる。",
         "en": "Here's $5.",
         "tatoeba_id": 235161
+      },
+      {
+        "ja": "サイン書いてやってもいいぞ。",
+        "en": "I can give you an autograph if you want.",
+        "tatoeba_id": 430482
       }
     ]
   },
@@ -18106,16 +18068,15 @@
     "jmdict_id": 1541620,
     "examples": [
       {
-        "ja": "トーマス先生はとても有名な先生です。",
-        "furigana": "トーマス{先生|せんせい}はとても{有名|ゆうめい}な{先生|せんせい}です。",
-        "en": "Mr Thomas is a very able teacher.",
-        "tatoeba_id": 201079
+        "ja": "そのホテルは食事で有名である。",
+        "furigana": "そのホテルは{食事|しょくじ}で{有名|ゆうめい}である。",
+        "en": "The hotel is noted for its food.",
+        "tatoeba_id": 212598
       },
       {
-        "ja": "有名なブランドですね。",
-        "furigana": "{有名|ゆうめい}なブランドですね。",
-        "en": "That's a famous brand.",
-        "tatoeba_id": 79254
+        "ja": "トーマス先生はとても有名な先生です。",
+        "en": "Mr Thomas is a very able teacher.",
+        "tatoeba_id": 201079
       }
     ]
   },
@@ -18140,10 +18101,10 @@
         "tatoeba_id": 197547
       },
       {
-        "ja": "雪のため学校はその日休校になった。",
-        "furigana": "{雪|ゆき}のため{学校|がっこう}はその{日|ひ}{休校|きゅうこう}になった。",
-        "en": "School was closed for the day due to the snow.",
-        "tatoeba_id": 141997
+        "ja": "雪のため、外に出られなかった。",
+        "furigana": "{雪|ゆき}のため、{外|そと}に{出|で}られなかった。",
+        "en": "The snow kept us from going out.",
+        "tatoeba_id": 142003
       }
     ]
   },
@@ -18512,10 +18473,10 @@
         "tatoeba_id": 78688
       },
       {
-        "ja": "来月でここに１０年間住んだことになります。",
-        "furigana": "{来月|らいげつ}でここに１０{年間|ねんかん}{住|す}んだことになります。",
-        "en": "I will have lived here for ten years next month.",
-        "tatoeba_id": 78687
+        "ja": "おじは来月で２年間ずっとニューヨークにいることになる。",
+        "furigana": "おじは{来月|らいげつ}で２{年間|ねんかん}ずっとニューヨークにいることになる。",
+        "en": "My uncle will have been in New York for two years next month.",
+        "tatoeba_id": 227704
       }
     ]
   },
@@ -18563,16 +18524,16 @@
     "jmdict_id": 1548220,
     "examples": [
       {
-        "ja": "来年パリ見物をするつもりです。",
-        "furigana": "{来年|らいねん}パリ{見物|けんぶつ}をするつもりです。",
-        "en": "I'm going to see the sights of Paris next year.",
-        "tatoeba_id": 78584
-      },
-      {
         "ja": "あなたは来年この本を読むことが出来るでしょう。",
         "furigana": "あなたは{来年|らいねん}この{本|ほん}を{読|よ}むことが{出来|でき}るでしょう。",
         "en": "You will be able to read this book next year.",
         "tatoeba_id": 231498
+      },
+      {
+        "ja": "私は来年の四月に学校に入っています。",
+        "furigana": "{私|わたし}は{来年|らいねん}の{四月|しがつ}に{学校|がっこう}に{入|はい}っています。",
+        "en": "I will be in high school next April.",
+        "tatoeba_id": 152393
       }
     ]
   },
