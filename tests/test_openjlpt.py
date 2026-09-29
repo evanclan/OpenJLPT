@@ -7,6 +7,7 @@ import sqlite3
 import pytest
 
 from openjlpt import (
+    to_ruby_html,
     Example,
     Grammar,
     Kanji,
@@ -185,3 +186,8 @@ def test_entries_are_hashable_and_levels_normalized():
     assert len(get_vocab("n5")) == len(get_vocab("N5"))
     assert find_grammar("～てもいい") and search_grammar("～てもいい")
     assert sample([1, 2, 3], -1) == []
+
+
+def test_to_ruby_html_escapes_and_renders():
+    assert to_ruby_html("{彼|かれ}は<b>{本|ほん}を") == "<ruby>彼<rt>かれ</rt></ruby>は&lt;b&gt;<ruby>本<rt>ほん</rt></ruby>を"
+    assert to_ruby_html("ありがとう") == "ありがとう"

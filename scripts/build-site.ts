@@ -18,7 +18,7 @@ import { DATA_DIR, LEVELS, ROOT, type Level } from './lib/util.ts';
 // ---------------------------------------------------------------------------
 // Data
 
-interface Example { ja: string; en: string; tatoeba_id?: number }
+interface Example { ja: string; furigana?: string; en: string; tatoeba_id?: number }
 interface Vocab {
   id: string; word: string; reading: string; romaji: string; meanings: string[]; level: Level;
   pos?: string[]; jmdict_id?: number; other_forms?: string[]; other_readings?: string[]; examples?: Example[];
@@ -199,11 +199,29 @@ const crumbs = (root: string, items: [string, string?][]) => {
 /** JSON for a <script> block: escape "<" so data can never close the tag. */
 const jsonLd = (data: unknown) => JSON.stringify(data).replace(/</g, '\\u003c');
 
+/** `{漢字|かんじ}` notation → <ruby>. */
+const rubyHtml = (furigana: string) =>
+  furigana
+    .split(/(\{[^|{}]+\|[^|{}]+\})/)
+    .map((part) => {
+      const m = part.match(/^\{([^|{}]+)\|([^|{}]+)\}$/);
+      return m ? `<ruby>${esc(m[1])}<rt>${esc(m[2])}</rt></ruby>` : esc(part);
+    })
+    .join('');
+
+/** Section heading for example sentences, with a furigana switch when any sentence has furigana. */
+const examplesHeading = (examples: Example[] | undefined) =>
+  `<div class="ex-head"><h2>Examples</h2>${
+    examples?.some((e) => e.furigana)
+      ? '<label class="furi-toggle"><input type="checkbox" data-furigana checked> Furigana</label>'
+      : ''
+  }</div>`;
+
 const exampleList = (examples: Example[] | undefined) =>
   examples?.length
     ? `<ul class="examples">${examples
         .map(
-          (e) => `<li><div class="ja" lang="ja">${esc(e.ja)}</div><div class="en">${esc(e.en)}</div>${
+          (e) => `<li><div class="ja" lang="ja">${e.furigana ? rubyHtml(e.furigana) : esc(e.ja)}</div><div class="en">${esc(e.en)}</div>${
             e.tatoeba_id ? `<div class="src"><a href="https://tatoeba.org/en/sentences/show/${e.tatoeba_id}" rel="noopener">Tatoeba #${e.tatoeba_id}</a></div>` : ''
           }</li>`,
         )
@@ -255,7 +273,7 @@ function vocabPages(): void {
 <ol class="meanings${v.meanings.length === 1 ? ' single' : ''}">${v.meanings.map((m) => `<li>${esc(m)}</li>`).join('')}</ol>
 ${pos ? `<div class="chips">${pos}</div>` : ''}
 ${also}
-<h2>Examples</h2>
+${examplesHeading(v.examples)}
 ${exampleList(v.examples)}
 </section>
 <aside>
@@ -619,7 +637,7 @@ function writeData(): void {
   for (const level of LEVEL_NAMES) {
     const lc = level.toLowerCase();
     // Row layout: [progress key, front, …, page path]
-    w(`vocab-${lc}.json`, vocab.get(level)!.map((v) => [v.id, v.word, v.reading, v.romaji, v.meanings.slice(0, 4).join('; '), v.examples?.[0]?.ja ?? '', v.examples?.[0]?.en ?? '', vocabPath(v)]));
+    w(`vocab-${lc}.json`, vocab.get(level)!.map((v) => [v.id, v.word, v.reading, v.romaji, v.meanings.slice(0, 4).join('; '), v.examples?.[0]?.furigana ?? v.examples?.[0]?.ja ?? '', v.examples?.[0]?.en ?? '', vocabPath(v)]));
     w(`kanji-${lc}.json`, kanji.get(level)!.map((k) => [k.character, k.character, k.onyomi.join('、'), k.kunyomi.join('、'), k.meanings.slice(0, 4).join(', '), (k.words ?? []).slice(0, 3).join('、'), kanjiPath(k.character)]));
     w(`grammar-${lc}.json`, grammar.get(level)!.map((g) => [g.id, g.pattern, g.romaji, g.meaning, g.examples[0]?.ja ?? '', g.examples[0]?.en ?? '', grammarPath(g)]));
   }

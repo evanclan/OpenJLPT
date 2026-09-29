@@ -37,6 +37,7 @@ import {
   type Match,
 } from './lib/jmdict.ts';
 import { ExampleIndex, tatoebaAvailable, type Example } from './lib/examples.ts';
+import type { LemmaReader } from './lib/furigana.ts';
 
 export interface Vocab {
   id: string;
@@ -127,6 +128,29 @@ function kanjiLevels(): Map<string, string> {
   return map;
 }
 
+/**
+ * The reading of a dictionary form in Tatoeba's word index: its only reading, or its only
+ * common one. (The index spells out the reading wherever the form alone is ambiguous.)
+ */
+function lemmaReader(jmIndex: JmdictIndex): LemmaReader {
+  const cache = new Map<string, string | undefined>();
+  return (headword) => {
+    if (cache.has(headword)) return cache.get(headword);
+    const readings = new Map<string, boolean>();
+    for (const e of jmIndex.entriesWithKanji(headword)) {
+      for (const r of readingsFor(e, headword)) {
+        if (r.inf.some((i) => ['ik', 'ok', 'rk', 'sk'].includes(i))) continue;
+        const h = toHiragana(r.text);
+        readings.set(h, (readings.get(h) ?? false) || isCommonReading(r));
+      }
+    }
+    const common = [...readings].filter(([, c]) => c).map(([h]) => h);
+    const out = readings.size === 1 ? [...readings.keys()][0] : common.length === 1 ? common[0] : undefined;
+    cache.set(headword, out);
+    return out;
+  };
+}
+
 function build() {
   const idLock = readIdLock();
   const lockedIds = new Set(Object.values(idLock));
@@ -136,7 +160,7 @@ function build() {
   const jmIndex = new JmdictIndex(jm.entries);
   console.log(`JMdict: ${jm.entries.length} entries (created ${jm.created ?? 'unknown'})`);
 
-  const examples = tatoebaAvailable() ? new ExampleIndex(kanjiLevels()) : null;
+  const examples = tatoebaAvailable() ? new ExampleIndex(kanjiLevels(), undefined, lemmaReader(jmIndex)) : null;
   if (examples) console.log(`Example pool: ${examples.size} Tatoeba sentence pairs`);
   else console.warn('⚠ Tatoeba cache not found — building vocabulary WITHOUT example sentences. Run `npm run fetch`.');
 
@@ -322,7 +346,16 @@ function build() {
   list('moved to the dictionary entry the gloss describes', log.rematched);
   list('kept in kanji to stay distinct from a homophone', log.unrespelled);
   list('skipped, no meaning', log.noMeaning);
-  if (examples) console.log(`  example coverage: ${withExamples}/${total} words (${Math.round((withExamples / total) * 100)}%)`);
+  if (examples) {
+    console.log(`  example coverage: ${withExamples}/${total} words (${Math.round((withExamples / total) * 100)}%)`);
+    const all = [...perLevel.values()].flat().flatMap((e) => e.examples ?? []);
+    const withKanji = all.filter((x) => hasKanji(x.ja));
+    const annotated = withKanji.filter((x) => x.furigana);
+    console.log(`  furigana: ${annotated.length}/${withKanji.length} example sentences with kanji (${Math.round((annotated.length / Math.max(1, withKanji.length)) * 100)}%)`);
+    // An evenly spaced sample for review.
+    const step = Math.max(1, Math.floor(annotated.length / 40));
+    list('furigana sample', annotated.filter((_, i) => i % step === 0).slice(0, 40).map((x) => x.furigana!));
+  }
 }
 
 type Log = {

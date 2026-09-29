@@ -33,6 +33,7 @@ from ._data import (
     sample,
     search_grammar,
     search_vocab,
+    to_ruby_html,
 )
 from ._models import Example, Grammar, Kanji, Level, Vocab
 from ._sqlite import connect, db_path, query
@@ -65,5 +66,6 @@ __all__ = [
     "sample",
     "search_grammar",
     "search_vocab",
+    "to_ruby_html",
     "Vocab",
 ]

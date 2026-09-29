@@ -2,6 +2,10 @@
 (function () {
   'use strict';
 
+  var furiOff = false;
+  try { furiOff = localStorage.getItem('openjlpt-furigana') === 'off'; } catch (err) { /* storage blocked */ }
+  document.documentElement.classList.toggle('no-furigana', furiOff);
+
   // 🔊 buttons use the browser's own Japanese voice, when there is one.
   document.addEventListener('click', function (e) {
     var btn = e.target.closest && e.target.closest('[data-speak]');
@@ -31,6 +35,15 @@
         if (cell && (target.classList.contains('hide-r') || target.classList.contains('hide-m'))) {
           if (!e.target.closest('a') || cell.matches('span.m')) { e.preventDefault(); cell.classList.toggle('peek'); }
         }
+      });
+    });
+
+    // Furigana on example sentences: on by default, remembered per browser.
+    document.querySelectorAll('[data-furigana]').forEach(function (box) {
+      box.checked = !furiOff;
+      box.addEventListener('change', function () {
+        document.documentElement.classList.toggle('no-furigana', !box.checked);
+        try { localStorage.setItem('openjlpt-furigana', box.checked ? 'on' : 'off'); } catch (err) { /* storage blocked */ }
       });
     });
 

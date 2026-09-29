@@ -100,6 +100,12 @@
             "minLength": 1,
             "description": "Japanese sentence."
           },
+          "furigana": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\{[^|{}]+\\|[ぁ-ゖー]+\\}",
+            "description": "The sentence with readings over its kanji, in {漢字|かんじ} notation: \"{彼|かれ}は{本|ほん}を{読|よ}んでいる。\". Present only when every kanji could be read with confidence; removing the notation gives `ja`."
+          },
           "en": {
             "type": "string",
             "minLength": 1,

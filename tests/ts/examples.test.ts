@@ -55,3 +55,12 @@ test('near-duplicate sentences are not both chosen', () => {
 test('sentences that write the word in kanji are preferred', () => {
   assert.equal(index.find({ forms: ['見る'], readings: ['みる'], level: 'N5' })[0].ja, 'テレビを見ます。');
 });
+
+test('examples carry furigana when every kanji can be read', () => {
+  const readings: Record<string, string> = { 本: 'ほん', 読む: 'よむ' };
+  const withFurigana = new ExampleIndex(new Map([['本', 'N5'], ['読', 'N5']]), dir, (w) => readings[w]);
+  const ex = withFurigana.find({ forms: ['読む'], readings: ['よむ'], level: 'N5' }, 3);
+  assert.equal(ex[0].furigana, '{彼|かれ}は{本|ほん}を{読|よ}んでいる。');
+  // 毎日 has no known reading here, so that sentence stays without furigana.
+  assert.equal(ex.find((e) => e.ja === '毎日本を読みます。')?.furigana, undefined);
+});

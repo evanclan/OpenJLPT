@@ -17,13 +17,19 @@ export type Level = 'N5' | 'N4' | 'N3' | 'N2' | 'N1';
 
 export interface Example {
   ja: string;
+  /**
+   * The sentence with readings over its kanji, in `{漢字|かんじ}` notation:
+   * `{彼|かれ}は{本|ほん}を{読|よ}んでいる。` Present only when every kanji could be read with
+   * confidence. See `toRubyHtml`.
+   */
+  furigana?: string;
   en: string;
   /** Tatoeba ID of the Japanese sentence (Tatoeba examples only): https://tatoeba.org/sentences/show/<id> */
   tatoeba_id?: number;
 }
 
 export interface Vocab {
-  /** Stable ID: first 10 hex digits of SHA-1(word + "\0" + reading). */
+  /** Stable ID (10 hex digits), assigned once and kept across data updates. */
   id: string;
   word: string;
   /** Kana reading (equals `word` for kana-only words). */
@@ -275,6 +281,23 @@ export const meta = (): Meta => readJson<Meta>('meta.json');
 
 /** Descriptions of the JMdict part-of-speech codes used in `Vocab.pos`, e.g. `v1` → "Ichidan verb". */
 export const posLabels = (): Record<string, string> => readJson<Record<string, string>>('pos.json');
+
+const HTML_ESCAPES: Record<string, string> = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+const escapeHtml = (s: string) => s.replace(/[&<>"']/g, (c) => HTML_ESCAPES[c]);
+
+/**
+ * Render an example's `furigana` (`{漢字|かんじ}` notation) as HTML ruby:
+ * `{本|ほん}を` → `<ruby>本<rt>ほん</rt></ruby>を`. Other text is HTML-escaped.
+ */
+export function toRubyHtml(furigana: string): string {
+  return furigana
+    .split(/(\{[^|{}]+\|[^|{}]+\})/)
+    .map((part) => {
+      const m = part.match(/^\{([^|{}]+)\|([^|{}]+)\}$/);
+      return m ? `<ruby>${escapeHtml(m[1])}<rt>${escapeHtml(m[2])}</rt></ruby>` : escapeHtml(part);
+    })
+    .join('');
+}
 
 /**
  * `n` random items (without replacement) — for flashcards and quizzes.

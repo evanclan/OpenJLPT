@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import html
 import json
 import os
 import random as _random
@@ -45,7 +46,10 @@ def _check_level(level: Optional[str]) -> Optional[str]:
 
 
 def _examples(raw: dict) -> List[Example]:
-    return [Example(**ex) for ex in raw.get("examples") or []]
+    return [
+        Example(ja=ex["ja"], en=ex["en"], tatoeba_id=ex.get("tatoeba_id"), furigana=ex.get("furigana"))
+        for ex in raw.get("examples") or []
+    ]
 
 
 def _to_vocab(raw: dict) -> Vocab:
@@ -285,6 +289,25 @@ def meta() -> Dict[str, Any]:
 def pos_labels() -> Dict[str, str]:
     """Descriptions of the JMdict part-of-speech codes used in ``Vocab.pos`` (``v1`` → "Ichidan verb")."""
     return _read_json("pos.json")
+
+
+_RUBY = re.compile(r"\{([^|{}]+)\|([^|{}]+)\}")
+
+
+def to_ruby_html(furigana: str) -> str:
+    """Render an example's ``furigana`` (``{漢字|かんじ}`` notation) as HTML ruby.
+
+    >>> to_ruby_html("{本|ほん}を")
+    '<ruby>本<rt>ほん</rt></ruby>を'
+    """
+    out = []
+    pos = 0
+    for m in _RUBY.finditer(furigana):
+        out.append(html.escape(furigana[pos : m.start()]))
+        out.append(f"<ruby>{html.escape(m.group(1))}<rt>{html.escape(m.group(2))}</rt></ruby>")
+        pos = m.end()
+    out.append(html.escape(furigana[pos:]))
+    return "".join(out)
 
 
 def sample(items: Sequence[T], n: int = 1, rng: Union[_random.Random, None] = None) -> List[T]:

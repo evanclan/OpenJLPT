@@ -84,14 +84,17 @@ VOCAB_MODEL = genanki.Model(
     VOCAB_MODEL_ID,
     "OpenJLPT Vocabulary",
     fields=[{"name": n} for n in ["Word", "Reading", "Furigana", "Romaji", "Meaning", "PartOfSpeech",
-                                  "ExampleJa", "ExampleEn", "Level", "OpenJLPT ID"]],
+                                  "ExampleJa", "ExampleEn", "Level", "OpenJLPT ID", "ExampleFurigana"]],
     templates=[{
         "name": "Recognition",
         "qfmt": '<div class="big">{{Word}}</div>',
         "afmt": '<div class="big">{{furigana:Furigana}}</div>'
                 '<hr id="answer"><div class="reading">{{Reading}} <span class="small">{{Romaji}}</span></div>'
                 '<div class="meaning">{{Meaning}}</div><div class="small">{{PartOfSpeech}}</div>'
-                '{{#ExampleJa}}<div class="ex">{{ExampleJa}}<div class="en">{{ExampleEn}}</div></div>{{/ExampleJa}}'
+                '{{#ExampleJa}}<div class="ex">'
+                '{{#ExampleFurigana}}{{furigana:ExampleFurigana}}{{/ExampleFurigana}}'
+                '{{^ExampleFurigana}}{{ExampleJa}}{{/ExampleFurigana}}'
+                '<div class="en">{{ExampleEn}}</div></div>{{/ExampleJa}}'
                 '<p><span class="lvl">{{Level}}</span></p>{{tts ja_JP:Reading}}',
     }],
     css=CSS,
@@ -137,6 +140,14 @@ def Note(key: str, **kwargs) -> genanki.Note:
     return genanki.Note(guid=genanki.guid_for("openjlpt", key), **kwargs)
 
 
+def anki_furigana(text: str) -> str:
+    """OpenJLPT's {漢字|かんじ} notation in Anki's furigana syntax: " 漢字[かんじ]".
+
+    The space marks where the annotated text starts; Anki's furigana filter hides it.
+    """
+    return re.sub(r"\{([^|{}]+)\|([^|{}]+)\}", r" \1[\2]", esc(text)) if text else ""
+
+
 def vocab_note(v: dict, pos_labels: dict) -> genanki.Note:
     ex = (v.get("examples") or [{}])[0]
     return Note(
@@ -144,7 +155,7 @@ def vocab_note(v: dict, pos_labels: dict) -> genanki.Note:
         model=VOCAB_MODEL,
         fields=[esc(v["word"]), esc(v["reading"]), esc(furigana(v["word"], v["reading"])), esc(v["romaji"]),
                 esc("; ".join(v["meanings"])), esc(", ".join(pos_labels.get(p, p) for p in v.get("pos", []))),
-                esc(ex.get("ja", "")), esc(ex.get("en", "")), v["level"], v["id"]],
+                esc(ex.get("ja", "")), esc(ex.get("en", "")), v["level"], v["id"], anki_furigana(ex.get("furigana", ""))],
         tags=["OpenJLPT", "JLPT_" + v["level"], "vocab"],
     )
 

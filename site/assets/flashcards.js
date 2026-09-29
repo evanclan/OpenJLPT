@@ -15,6 +15,10 @@
   function esc(s) {
     return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; });
   }
+  // Example sentences may carry furigana as {漢字|かんじ}; escape first, then add <ruby>.
+  function ruby(s) {
+    return esc(s).replace(/\{([^|{}]+)\|([^|{}]+)\}/g, '<ruby>$1<rt>$2</rt></ruby>');
+  }
   function $(id) { return document.getElementById(id); }
 
   function start() {
@@ -68,7 +72,7 @@
       $('fc-front').textContent = row[1];
       $('fc-back').innerHTML = '<div class="reading">' + esc(row[2]) + ' <span class="romaji">' + esc(row[3]) + '</span></div>' +
         '<div class="meaning">' + esc(row[4]) + '</div>' +
-        (row[5] ? '<div class="ex">' + esc(row[5]) + '<br><span style="font-family:system-ui">' + esc(row[6]) + '</span></div>' : '') +
+        (row[5] ? '<div class="ex">' + ruby(row[5]) + '<br><span style="font-family:system-ui">' + esc(row[6]) + '</span></div>' : '') +
         '<p><a href="' + link + '" target="_blank" rel="noopener">details ↗</a></p>';
     } else if (state.kind === 'kanji') {
       $('fc-front').textContent = row[1];

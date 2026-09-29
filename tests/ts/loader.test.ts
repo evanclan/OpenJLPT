@@ -1,6 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
+  toRubyHtml,
   findGrammar,
   findKanji,
   findWord,
@@ -144,4 +145,9 @@ test('full-width wave dash and sample edge cases', () => {
   assert.ok(findGrammar('～てもいい').length >= 1);
   assert.ok(searchGrammar('～てもいい').length >= 1);
   assert.deepEqual(sample([1, 2, 3], -1), []);
+});
+
+test('toRubyHtml renders furigana notation as escaped ruby', () => {
+  assert.equal(toRubyHtml('{彼|かれ}は<b>{本|ほん}を'), '<ruby>彼<rt>かれ</rt></ruby>は&lt;b&gt;<ruby>本<rt>ほん</rt></ruby>を');
+  assert.equal(toRubyHtml('ありがとう'), 'ありがとう');
 });

@@ -155,6 +155,12 @@ h3 { font-size: 17px; margin: 20px 0 8px; }
 .entry-head { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px 18px; margin-bottom: 8px; }
 .headword { font-family: var(--jp); font-size: clamp(44px, 8vw, 68px); line-height: 1; font-weight: 700; margin: 0; }
 .headword ruby rt { font-size: 0.28em; color: var(--muted); font-weight: 500; }
+.ex-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.furi-toggle { font-size: 14px; color: var(--muted); cursor: pointer; white-space: nowrap; }
+.examples .ja { line-height: 2.1; }
+.examples .ja rt { font-size: 0.55em; color: var(--muted); }
+.no-furigana .examples rt { display: none; }
+.no-furigana .examples .ja { line-height: inherit; }
 .reading { font-family: var(--jp); font-size: 22px; color: var(--muted); }
 .romaji { color: var(--muted); font-size: 16px; }
 .meanings { font-size: 20px; margin: 14px 0; padding-left: 28px; }
@@ -229,7 +235,8 @@ table.list td.r { font-family: var(--jp); color: var(--muted); white-space: nowr
 .fc-card.flipped .fc-back { display: block; }
 .fc-back .reading { font-size: 26px; }
 .fc-back .meaning { font-size: 20px; margin: 8px 0; }
-.fc-back .ex { font-family: var(--jp); color: var(--muted); font-size: 16px; }
+.fc-back .ex { font-family: var(--jp); color: var(--muted); font-size: 16px; line-height: 2; }
+.fc-back .ex rt { font-size: 0.6em; }
 .fc-progress { height: 6px; border-radius: 999px; background: var(--surface-2); overflow: hidden; margin: 16px 0; }
 .fc-progress div { height: 100%; background: var(--accent); width: 0; transition: width 0.3s; }
 .kbd { font-family: ui-monospace, monospace; font-size: 12px; border: 1px solid var(--border); border-bottom-width: 2px; border-radius: 5px; padding: 0 5px; color: var(--muted); }

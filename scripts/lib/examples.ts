@@ -18,9 +18,12 @@ import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { CACHE_DIR } from './util.ts';
 import { hasKanji, toHiragana } from './kana.ts';
+import { annotate, type LemmaReader } from './furigana.ts';
 
 export interface Example {
   ja: string;
+  /** The sentence with readings over its kanji, in `{漢字|かんじ}` notation. */
+  furigana?: string;
   en: string;
   /** Tatoeba sentence ID of the Japanese sentence (https://tatoeba.org/sentences/show/<id>). */
   tatoeba_id?: number;
@@ -99,6 +102,7 @@ interface Sentence {
   id: number;
   ja: string;
   en: string;
+  bline?: string;
 }
 
 interface Posting {
@@ -126,12 +130,16 @@ export class ExampleIndex {
   private charIndex = new Map<string, number[]>();
   /** kanji → JLPT level rank (5 = N5 ... 1 = N1), for difficulty scoring. */
   private kanjiRank = new Map<string, number>();
+  private readLemma?: LemmaReader;
+  private furigana = new Map<number, string | undefined>();
 
   /**
    * @param kanjiLevels kanji → JLPT level ("N5"…"N1"), used to prefer sentences with easier kanji
    * @param dir directory holding the Tatoeba exports (defaults to .cache/tatoeba)
+   * @param readLemma reading of a dictionary form (from JMdict); enables furigana
    */
-  constructor(kanjiLevels: Map<string, string> = new Map(), dir = TATOEBA_DIR) {
+  constructor(kanjiLevels: Map<string, string> = new Map(), dir = TATOEBA_DIR, readLemma?: LemmaReader) {
+    this.readLemma = readLemma;
     for (const [ch, level] of kanjiLevels) this.kanjiRank.set(ch, Number(level.slice(1)));
 
     const readTsv = (file: string, fn: (cols: string[]) => void) => {
@@ -170,9 +178,9 @@ export class ExampleIndex {
       const en = eng.get(engId);
       if (!en || ja.length < MIN_LEN || ja.length > MAX_LEN || CRUDE.test(en) || CRUDE_JA.test(ja)) continue;
       const s = this.pool.length;
-      this.pool.push({ id: Number(jpId), ja, en });
-
       const bline = indices.get(jpId);
+      this.pool.push({ id: Number(jpId), ja, en, bline });
+
       if (bline) {
         for (const t of parseBLine(bline)) {
           let list = this.byHeadword.get(t.headword);
@@ -192,11 +200,22 @@ export class ExampleIndex {
     return this.pool.length;
   }
 
+  /** Furigana for a pooled sentence, if every kanji in it can be read with confidence. */
+  private furiganaOf(s: number): string | undefined {
+    if (!this.readLemma) return undefined;
+    if (!this.furigana.has(s)) {
+      const { ja, bline } = this.pool[s];
+      this.furigana.set(s, bline ? annotate(ja, parseBLine(bline), this.readLemma) : undefined);
+    }
+    return this.furigana.get(s);
+  }
+
   /**
    * Lower is better: prefer checked, readable-length sentences with kanji at or below
    * the word's level, that write the word with its kanji (見る, not みる).
    */
-  private cost(s: Sentence, checked: boolean, levelRank: number, wordKanji: Set<string>): number {
+  private cost(i: number, checked: boolean, levelRank: number, wordKanji: Set<string>): number {
+    const s = this.pool[i];
     let hard = 0;
     for (const ch of s.ja) {
       if (!hasKanji(ch)) continue;
@@ -205,7 +224,9 @@ export class ExampleIndex {
       else if (r < levelRank) hard += levelRank - r;
     }
     const kanaOnly = wordKanji.size > 0 && ![...wordKanji].some((k) => s.ja.includes(k));
-    return (checked ? 0 : 4) + Math.abs(s.ja.length - IDEAL_LEN) / 4 + hard * 1.5 + (kanaOnly ? 5 : 0);
+    // Sentences we can give furigana are easier to read; prefer them when furigana is on.
+    const bare = this.readLemma && hasKanji(s.ja) && !this.furiganaOf(i) ? 2 : 0;
+    return (checked ? 0 : 4) + Math.abs(s.ja.length - IDEAL_LEN) / 4 + hard * 1.5 + (kanaOnly ? 5 : 0) + bare;
   }
 
   /** Up to `max` example sentences for a word, best first. */
@@ -222,7 +243,7 @@ export class ExampleIndex {
       for (const p of postings) {
         // Respect an explicit reading in the index (e.g. 一日(ついたち) is not いちにち).
         if (p.reading && readings.size && !readings.has(p.reading)) continue;
-        const c = this.cost(this.pool[p.s], p.checked, levelRank, wordKanji);
+        const c = this.cost(p.s, p.checked, levelRank, wordKanji);
         if (c < (scored.get(p.s) ?? Infinity)) scored.set(p.s, c);
       }
     }
@@ -242,7 +263,7 @@ export class ExampleIndex {
         }
         for (const s of bucket ?? []) {
           if (containsWord(this.pool[s].ja, form)) {
-            const c = this.cost(this.pool[s], false, levelRank, wordKanji);
+            const c = this.cost(s, false, levelRank, wordKanji);
             if (c < (scored.get(s) ?? Infinity)) scored.set(s, c);
           }
         }
@@ -260,7 +281,8 @@ export class ExampleIndex {
       if (seenEn.has(en) || picked.some((p) => jaccard(p, grams) >= 0.5)) continue;
       seenEn.add(en);
       picked.push(grams);
-      out.push({ ja, en, tatoeba_id: id });
+      const furigana = this.furiganaOf(s);
+      out.push(furigana && furigana !== ja ? { ja, furigana, en, tatoeba_id: id } : { ja, en, tatoeba_id: id });
       if (out.length >= max) break;
     }
     return out;

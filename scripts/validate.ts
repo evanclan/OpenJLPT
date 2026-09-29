@@ -7,6 +7,7 @@ import { join } from 'node:path';
 import { readFileSync } from 'node:fs';
 import Ajv from 'ajv';
 import { DATA_DIR, LEVELS, ROOT } from './lib/util.ts';
+import { stripFurigana } from './lib/furigana.ts';
 
 const readJson = (p: string) => JSON.parse(readFileSync(p, 'utf8'));
 
@@ -55,6 +56,9 @@ function main() {
         if (seen.has(key)) fail(`${kind}: ${key} appears at ${seen.get(key)} and ${level}`);
         seen.set(key, level);
         if (row.examples?.length) withExamples++;
+        for (const ex of row.examples ?? []) {
+          if (ex.furigana && stripFurigana(ex.furigana) !== ex.ja) fail(`${kind}/${level} ${key}: furigana does not match the sentence: ${ex.furigana}`);
+        }
       }
       errors += bad;
       total += rows.length;

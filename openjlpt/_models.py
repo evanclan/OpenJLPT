@@ -18,6 +18,9 @@ class Example:
     ja: str
     en: str
     tatoeba_id: Optional[int] = None
+    furigana: Optional[str] = None
+    """``ja`` with readings over its kanji in ``{漢字|かんじ}`` notation, when every kanji
+    could be read with confidence (see :func:`openjlpt.to_ruby_html`)."""
 
 
 @dataclass(frozen=True)
@@ -25,7 +28,7 @@ class Vocab:
     """A single JLPT vocabulary entry."""
 
     id: str
-    """Stable ID: first 10 hex digits of SHA-1(word + "\\0" + reading)."""
+    """Stable ID (10 hex digits), assigned once and kept across data updates."""
     word: str
     reading: str
     """Kana reading (equals ``word`` for kana-only words)."""
