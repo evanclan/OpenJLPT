@@ -42,6 +42,7 @@ jobs:
         with:
           name: upstream-sources
           path: .cache
+          include-hidden-files: true
           retention-days: 3
 
       - name: Commit rebuilt data to this branch
