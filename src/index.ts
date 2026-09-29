@@ -58,6 +58,8 @@ export interface Kanji {
   meanings: string[];
   /** OpenJLPT words that use this kanji, easiest first. */
   words?: string[];
+  /** A jōyō kanji missing from Waller's (pre-2010) lists, levelled by the words that use it. */
+  supplementary?: true;
 }
 
 export interface Grammar {

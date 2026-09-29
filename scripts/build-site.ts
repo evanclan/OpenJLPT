@@ -26,7 +26,7 @@ interface Vocab {
 interface Kanji {
   character: string; level: Level; strokes: number | null; grade: number | null; freq: number | null;
   radical: string | null; radical_number: number | null; onyomi: string[]; kunyomi: string[];
-  nanori?: string[]; meanings: string[]; words?: string[];
+  nanori?: string[]; meanings: string[]; words?: string[]; supplementary?: true;
 }
 interface Grammar {
   id: string; pattern: string; reading?: string; romaji: string; level: Level; meaning: string;
@@ -269,6 +269,7 @@ ${k.grade ? `<dt>School grade</dt><dd>${k.grade <= 6 ? k.grade : k.grade === 8 ?
 ${k.freq ? `<dt>Frequency</dt><dd>#${k.freq} <span class="muted">in newspapers</span></dd>` : ''}
 ${k.nanori?.length ? `<dt>Name readings</dt><dd>${esc(k.nanori.join('、'))}</dd>` : ''}
 </dl>
+${k.supplementary ? `<p class="muted" style="font-size:14px">Not in Waller's JLPT lists (which predate the 2010 jōyō revision): placed at ${k.level} because ${k.words?.length ? 'OpenJLPT words at that level use it' : 'the N1 level completes the jōyō kanji'}.</p>` : ''}
 </section>
 <aside>
 <h2>Stroke order</h2>
@@ -428,7 +429,7 @@ function homePage(): void {
 <a class="card level-card" href="data.html"><h3 style="margin-top:0">📦 Data &amp; API</h3><p class="muted">JSON, CSV, SQLite and Anki downloads, a CDN, and loaders for JavaScript and Python.</p></a>
 </div>
 <h2>Built for developers</h2>
-<p class="muted">The same data powers this site and your app. MIT-style easy, CC BY-SA 4.0 licensed.</p>
+<p class="muted">The same data powers this site and can power your app: free to use, including commercially, under CC BY-SA 4.0.</p>
 <pre><code>npm install openjlpt        # or: pip install openjlpt
 
 import { findWord, getGrammar } from 'openjlpt';

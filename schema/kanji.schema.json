@@ -109,6 +109,11 @@
         "minLength": 1
       },
       "description": "OpenJLPT vocabulary words that use this kanji, easiest level first (join on vocab `word`)."
+    },
+    "supplementary": {
+      "type": "boolean",
+      "const": true,
+      "description": "Present on jōyō kanji missing from Waller's (pre-2010) lists, added at the easiest level of an OpenJLPT word that uses them, otherwise N1. Filter these out for Waller's lists only."
     }
   }
 }

@@ -32,7 +32,7 @@ function build() {
       character TEXT PRIMARY KEY, level TEXT NOT NULL,
       strokes INTEGER, grade INTEGER, freq INTEGER, radical TEXT, radical_number INTEGER,
       onyomi TEXT NOT NULL, kunyomi TEXT NOT NULL, nanori TEXT NOT NULL DEFAULT '[]',
-      meanings TEXT NOT NULL, words TEXT NOT NULL DEFAULT '[]'
+      meanings TEXT NOT NULL, words TEXT NOT NULL DEFAULT '[]', supplementary INTEGER NOT NULL DEFAULT 0
     );
     CREATE TABLE grammar (
       id TEXT PRIMARY KEY,
@@ -56,8 +56,8 @@ function build() {
      VALUES (?,?,?,?,?,?,?,?,?,?,?)`,
   );
   const insK = db.prepare(
-    `INSERT INTO kanji (character, level, strokes, grade, freq, radical, radical_number, onyomi, kunyomi, nanori, meanings, words)
-     VALUES (?,?,?,?,?,?,?,?,?,?,?,?)`,
+    `INSERT INTO kanji (character, level, strokes, grade, freq, radical, radical_number, onyomi, kunyomi, nanori, meanings, words, supplementary)
+     VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)`,
   );
   const insG = db.prepare(
     `INSERT INTO grammar (id, pattern, reading, romaji, level, meaning, formation, examples, tags, notes)
@@ -78,7 +78,7 @@ function build() {
       }
       for (const k of readJson(join(DATA_DIR, 'json', 'kanji', `${lc}.json`))) {
         insK.run(k.character, k.level, k.strokes, k.grade, k.freq, k.radical, k.radical_number,
-          json(k.onyomi), json(k.kunyomi), json(k.nanori), json(k.meanings), json(k.words));
+          json(k.onyomi), json(k.kunyomi), json(k.nanori), json(k.meanings), json(k.words), k.supplementary ? 1 : 0);
         nk++;
       }
       for (const g of readJson(join(DATA_DIR, 'json', 'grammar', `${lc}.json`))) {

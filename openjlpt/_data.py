@@ -72,6 +72,7 @@ def _to_kanji(raw: dict) -> Kanji:
         meanings=raw.get("meanings", []),
         nanori=raw.get("nanori", []),
         words=raw.get("words", []),
+        supplementary=raw.get("supplementary", False),
     )
 
 

@@ -47,7 +47,7 @@ def test_counts_match_meta():
         assert len(get_kanji(level)) == m["counts"]["kanji"][level]
         assert len(get_grammar(level)) == m["counts"]["grammar"][level]
     assert len(get_vocab()) == m["counts"]["vocab"]["total"]
-    assert len(get_kanji()) == m["counts"]["kanji"]["total"] == 2211
+    assert len(get_kanji()) == m["counts"]["kanji"]["total"]
 
 
 def test_invalid_level_raises():

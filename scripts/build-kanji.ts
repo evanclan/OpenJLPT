@@ -5,6 +5,11 @@
  * readings, meanings, stroke count, grade, frequency, radical and name readings
  * come from KANJIDIC2 (EDRDG). Each kanji also links to OpenJLPT vocabulary that
  * uses it, easiest words first — run build-vocab first.
+ *
+ * Waller's lists predate the 2010 jōyō revision, so 172 jōyō kanji (誰, 頃, 鍵, and
+ * even 分 and 的) are missing from them. They are added as `supplementary`: at the
+ * easiest level of an OpenJLPT word that uses them, otherwise N1 (Waller's N1 is
+ * meant to complete the jōyō set).
  */
 import { join } from 'node:path';
 import { readFileSync } from 'node:fs';
@@ -27,6 +32,7 @@ export interface Kanji {
   nanori?: string[];
   meanings: string[];
   words?: string[];
+  supplementary?: true;
 }
 
 interface KdEntry {
@@ -91,6 +97,21 @@ function loadKanjidic2(): { map: Map<string, KdEntry>; version?: string } {
   return { map, version: doc.kanjidic2.header?.database_version };
 }
 
+/** Jōyō kanji: KANJIDIC2 grades 1–6 (taught in primary school) and 8 (rest of the jōyō list). */
+const isJoyo = (kd: KdEntry) => kd.grade !== null && (kd.grade <= 6 || kd.grade === 8);
+
+/** Easiest vocabulary level using each kanji. */
+function kanjiVocabLevel(): Map<string, Level> {
+  const map = new Map<string, Level>();
+  for (const { level } of LEVELS) {
+    const path = join(DATA_DIR, 'json', 'vocab', `${level.toLowerCase()}.json`);
+    for (const v of JSON.parse(readFileSync(path, 'utf8'))) {
+      for (const ch of v.word) if (!map.has(ch)) map.set(ch, level);
+    }
+  }
+  return map;
+}
+
 /** Vocabulary words containing each kanji, easiest level first, then shortest. */
 function wordsByKanji(): Map<string, string[]> {
   const words: { word: string; level: string }[] = [];
@@ -118,32 +139,49 @@ function build() {
   const seen = new Set<string>();
   let missing = 0;
 
+  const makeEntry = (char: string, level: Level, fallbackMeanings: string[]): Kanji => {
+    const kd = kdic.get(char);
+    if (!kd) missing++;
+    const entry: Kanji = {
+      character: char,
+      level,
+      strokes: kd?.strokes ?? null,
+      grade: kd?.grade ?? null,
+      freq: kd?.freq ?? null,
+      radical: kd?.radical ? radicalChar(kd.radical) : null,
+      radical_number: kd?.radical ?? null,
+      onyomi: kd?.onyomi ?? [],
+      kunyomi: kd?.kunyomi ?? [],
+      meanings: kd?.meanings?.length ? kd.meanings : fallbackMeanings,
+    };
+    if (kd?.nanori.length) entry.nanori = kd.nanori;
+    const w = words.get(char);
+    if (w?.length) entry.words = w;
+    return entry;
+  };
+
+  const perLevel = new Map<Level, Kanji[]>(LEVELS.map(({ level }) => [level, []]));
   for (const { level } of LEVELS) {
-    const entries: Kanji[] = [];
     for (const card of readCards('kanji-eng', level)) {
       const char = [...card.front.replace(/・/g, '').trim()][0]; // first code point (a single kanji)
       if (!char || seen.has(char)) continue; // a kanji belongs to the easiest level that lists it
       seen.add(char);
-
-      const kd = kdic.get(char);
-      if (!kd) missing++;
-      const entry: Kanji = {
-        character: char,
-        level,
-        strokes: kd?.strokes ?? null,
-        grade: kd?.grade ?? null,
-        freq: kd?.freq ?? null,
-        radical: kd?.radical ? radicalChar(kd.radical) : null,
-        radical_number: kd?.radical ?? null,
-        onyomi: kd?.onyomi ?? [],
-        kunyomi: kd?.kunyomi ?? [],
-        meanings: kd?.meanings?.length ? kd.meanings : parseMeanings(card.back).meanings,
-      };
-      if (kd?.nanori.length) entry.nanori = kd.nanori;
-      const w = words.get(char);
-      if (w?.length) entry.words = w;
-      entries.push(entry);
+      perLevel.get(level)!.push(makeEntry(char, level, parseMeanings(card.back).meanings));
     }
+  }
+
+  // Jōyō kanji the lists miss (see the header comment).
+  const vocabLevel = kanjiVocabLevel();
+  let supplementary = 0;
+  for (const [char, kd] of kdic) {
+    if (seen.has(char) || !isJoyo(kd)) continue;
+    const level = vocabLevel.get(char) ?? 'N1';
+    perLevel.get(level)!.push({ ...makeEntry(char, level, []), supplementary: true });
+    supplementary++;
+  }
+
+  for (const { level } of LEVELS) {
+    const entries = perLevel.get(level)!;
 
     // Most frequent first; ties (and kanji without a frequency rank) by code point, for stable output.
     entries.sort((a, b) => (a.freq ?? 1e9) - (b.freq ?? 1e9) || a.character.codePointAt(0)! - b.character.codePointAt(0)!);
@@ -151,7 +189,7 @@ function build() {
     writeJson(join(DATA_DIR, 'json', 'kanji', `${lc}.json`), entries);
     writeCsv(
       join(DATA_DIR, 'csv', `kanji-${lc}.csv`),
-      ['character', 'level', 'strokes', 'grade', 'freq', 'radical', 'radical_number', 'onyomi', 'kunyomi', 'nanori', 'meanings', 'words'],
+      ['character', 'level', 'strokes', 'grade', 'freq', 'radical', 'radical_number', 'onyomi', 'kunyomi', 'nanori', 'meanings', 'words', 'supplementary'],
       entries.map((e) => [
         e.character,
         e.level,
@@ -165,13 +203,14 @@ function build() {
         (e.nanori ?? []).join('; '),
         e.meanings.join('; '),
         (e.words ?? []).join('; '),
+        e.supplementary ? 'true' : '',
       ]),
     );
     summary[level] = entries.length;
   }
 
   const total = Object.values(summary).reduce((a, b) => a + b, 0);
-  console.log('Kanji:', summary, `(total ${total}, ${missing} not found in KANJIDIC2)`);
+  console.log('Kanji:', summary, `(total ${total}, incl. ${supplementary} supplementary jōyō kanji; ${missing} not found in KANJIDIC2)`);
 }
 
 build();

@@ -59,6 +59,8 @@ class Kanji:
     nanori: List[str] = field(default_factory=list)
     words: List[str] = field(default_factory=list)
     """OpenJLPT words that use this kanji, easiest level first."""
+    supplementary: bool = False
+    """A jōyō kanji missing from Waller's (pre-2010) lists, levelled by the words that use it."""
 
 
 @dataclass(frozen=True)
