@@ -25,6 +25,7 @@ import {
   isCommonReading,
   isCommonSpelling,
   isIrregularSpelling,
+  isKnownSpelling,
   isRegularForm,
   loadJmdict,
   overlap,
@@ -70,6 +71,8 @@ interface Candidate {
   otherForms: string[];
   otherReadings: string[];
   m?: Match;
+  /** The card's kanji spelling when it was respelled in kana (此の → この). */
+  kanjiSpelling?: string;
 }
 
 const LEVEL_RANK: Record<Level, number> = { N5: 0, N4: 1, N3: 2, N2: 3, N1: 4 };
@@ -148,6 +151,7 @@ function build() {
     reglossed: [] as string[],
     switched: [] as string[],
     rematched: [] as string[],
+    unrespelled: [] as string[],
     realigned: [] as string[],
     repaired: 0,
   };
@@ -181,9 +185,17 @@ function build() {
   const seen = new Map<string, Candidate>();
   const kept: Candidate[] = [];
   let duplicates = 0;
+  const keysOf = (c: Candidate) => [`${c.word}\u0000${toHiragana(c.reading)}`, ...(c.m ? [`#${c.m.entry.seq}\u0000${toHiragana(c.reading)}`] : [])];
   for (const c of candidates) {
-    const keys = [`${c.word}\u0000${toHiragana(c.reading)}`];
-    if (c.m) keys.push(`#${c.m.entry.seq}\u0000${toHiragana(c.reading)}`);
+    // Respelling in kana can make two different words look alike (尤も "plausible" and
+    // 最も "most" are both もっとも); such a card keeps its kanji instead.
+    const clash = seen.get(keysOf(c)[0]);
+    if (clash?.m && c.m && clash.m.entry.seq !== c.m.entry.seq && c.kanjiSpelling) {
+      log.unrespelled.push(`${c.level} ${c.word} → ${c.kanjiSpelling} (not ${clash.level} ${clash.word}, JMdict ${clash.m.entry.seq})`);
+      c.otherForms = c.otherForms.filter((f) => f !== c.kanjiSpelling);
+      c.word = c.kanjiSpelling;
+    }
+    const keys = keysOf(c);
     const k = seen.get(keys[0]) ?? (keys[1] && sameWord(seen.get(keys[1]), c.word) ? seen.get(keys[1]) : undefined);
     if (k) {
       duplicates++;
@@ -227,7 +239,7 @@ function build() {
       (f) =>
         f !== c.word &&
         !headwords.get(f)?.has(toHiragana(c.reading)) &&
-        (!c.m || !hasKanji(f) || isRegularForm(c.m.entry, f)),
+        (!c.m || !hasKanji(f) || isKnownSpelling(c.m.entry, f)),
     );
     const otherReadings = [...new Set(c.otherReadings)].filter((r) => r !== c.reading && isKana(r));
     if (otherForms.length) entry.other_forms = otherForms;
@@ -308,6 +320,7 @@ function build() {
   list('glosses replaced (did not match the word)', log.reglossed);
   list('switched to the word the gloss describes', log.switched);
   list('moved to the dictionary entry the gloss describes', log.rematched);
+  list('kept in kanji to stay distinct from a homophone', log.unrespelled);
   list('skipped, no meaning', log.noMeaning);
   if (examples) console.log(`  example coverage: ${withExamples}/${total} words (${Math.round((withExamples / total) * 100)}%)`);
 }
@@ -322,6 +335,7 @@ type Log = {
   reglossed: string[];
   switched: string[];
   rematched: string[];
+  unrespelled: string[];
   realigned: string[];
   repaired: number;
 };
@@ -362,6 +376,7 @@ function matchCandidate(
   log: Log,
 ): Omit<Candidate, 'cardKey' | 'level'> | undefined {
   const tag = `${level} ${v.word}`;
+  let kanjiSpelling: string | undefined;
   // A kana headword is its own reading (コピーする, not the matched stem's コピー).
   if (isKana(v.word)) v.reading = v.word;
   // The reading must fit the written form's kana (お金持ち is not かねもち).
@@ -380,11 +395,12 @@ function matchCandidate(
     m = jmIndex.matchByReading(q());
     if (m) {
       // The card's kanji is a typo or rare spelling: use the dictionary's usual form.
-      const usuallyKana = m.entry.senses[m.sense]?.misc.includes('uk');
-      const usual = usuallyKana ? m.reading : usualSpelling(m.entry, m.reading);
+      const kanji = usualSpelling(m.entry, m.reading);
+      const usual = m.entry.senses[m.sense]?.misc.includes('uk') ? m.reading : kanji;
       if (usual && usual !== v.word) {
         log.respelled.push(`${tag} → ${usual}`);
-        v.otherForms = [v.word, ...v.otherForms];
+        if (!hasKanji(usual) && kanji) kanjiSpelling = kanji;
+        v.otherForms = [...(kanji && kanji !== usual ? [kanji] : []), v.word, ...v.otherForms];
         v.word = usual;
       }
     }
@@ -431,6 +447,7 @@ function matchCandidate(
         const usual = m.entry.senses[m.sense]?.misc.includes('uk') ? v.reading : kanji;
         if (usual && usual !== v.word) {
           log.respelled.push(`${tag} → ${usual}`);
+          if (!hasKanji(usual)) kanjiSpelling = kanji ?? v.word;
           v.otherForms = [...(kanji && kanji !== usual ? [kanji] : []), v.word, ...v.otherForms];
           v.word = usual;
           m = { ...m, keb: hasKanji(usual) ? usual : undefined };
@@ -496,7 +513,7 @@ function matchCandidate(
     return undefined;
   }
   if (!v.reading) throw new Error(`${tag}: no reading — add an entry to sources/corrections/vocab.json`);
-  return { word: v.word, reading: v.reading, meanings: v.meanings, otherForms: v.otherForms, otherReadings: v.otherReadings, m };
+  return { word: v.word, reading: v.reading, meanings: v.meanings, otherForms: v.otherForms, otherReadings: v.otherReadings, m, kanjiSpelling };
 }
 
 build();

@@ -198,6 +198,17 @@ export const isCommonSpelling = (entry: JmEntry, keb: string) => isCommon(entry.
 export const isIrregularSpelling = (entry: JmEntry, keb: string) =>
   (entry.kanji.find((k) => k.text === keb)?.inf ?? []).some((i) => IRREGULAR_KANJI.has(i));
 
+/**
+ * Is `form` a real spelling of this entry worth showing learners? Rare kanji forms count
+ * (居る for いる); irregular, out-dated and search-only ones don't (田ぼ, 明い).
+ */
+export function isKnownSpelling(entry: JmEntry, form: string): boolean {
+  const k = entry.kanji.find((x) => x.text === form);
+  if (k) return !k.inf.some((i) => ['iK', 'io', 'oK', 'sK'].includes(i));
+  const hira = toHiragana(form);
+  return entry.kana.some((r) => toHiragana(r.text) === hira && !r.inf.some((i) => ['ik', 'ok', 'sk'].includes(i)));
+}
+
 /** Does `form` appear in the entry as a regular spelling (kanji form or kana reading)? */
 export function isRegularForm(entry: JmEntry, form: string): boolean {
   const k = entry.kanji.find((x) => x.text === form);
