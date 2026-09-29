@@ -76,8 +76,8 @@ img { max-width: 100%; }
 .brand { display: flex; align-items: center; gap: 8px; font-weight: 700; color: var(--text); font-size: 17px; }
 .brand:hover { text-decoration: none; }
 .brand-mark {
-  display: grid; place-items: center; width: 28px; height: 28px; border-radius: 8px;
-  background: var(--accent); color: #fff; font-family: var(--jp); font-size: 15px;
+  display: grid; place-items: center; width: 28px; height: 28px; border-radius: 50%;
+  background: #e60012; color: #fff; font-family: var(--jp); font-size: 15px; line-height: 1;
 }
 .nav { display: flex; gap: 4px; margin-left: auto; overflow-x: auto; scrollbar-width: none; }
 .nav a { color: var(--muted); padding: 6px 10px; border-radius: 8px; white-space: nowrap; font-size: 15px; }

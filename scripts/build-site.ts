@@ -138,7 +138,7 @@ ${scripts}
 </head>
 <body data-root="${root}">
 <header class="site-header"><div class="wrap">
-<a class="brand" href="${root}index.html"><span class="brand-mark">日</span>OpenJLPT</a>
+<a class="brand" href="${root}index.html"><span class="brand-mark">あ</span>OpenJLPT</a>
 <nav class="nav" aria-label="Main">${nav}</nav>
 <a class="gh-btn" href="${REPO}" rel="noopener">${GITHUB_ICON}<span>Star on GitHub</span></a>
 </div></header>

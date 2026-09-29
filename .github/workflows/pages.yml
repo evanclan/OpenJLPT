@@ -1,6 +1,7 @@
 name: Website
 
-# Builds the static site (scripts/build-site.ts) and deploys it to GitHub Pages.
+# Builds the static site (scripts/build-site.ts) plus the Anki/Yomitan downloads,
+# and deploys them to GitHub Pages from the default branch.
 # One-time setup: Settings → Pages → Build and deployment → Source: "GitHub Actions".
 on:
   push:
@@ -14,7 +15,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -26,16 +27,15 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm ci
-      - id: pages
-        uses: actions/configure-pages@v5
-      - name: Build site
-        run: npx tsx scripts/build-site.ts _site
-        env:
-          SITE_URL: ${{ steps.pages.outputs.base_url }}/
       - uses: actions/setup-python@v6
         with:
           python-version: '3.13'
+      - run: npm ci
+      - name: Build site
+        run: npx tsx scripts/build-site.ts _site
+        env:
+          # Change this if you serve the site from a custom domain.
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
       - name: Build Anki decks and Yomitan dictionary
         run: |
           pip install genanki
@@ -45,6 +45,8 @@ jobs:
           path: _site
 
   deploy:
+    # Branch runs only build (to check the site), the default branch deploys.
+    if: github.ref_name == github.event.repository.default_branch
     needs: build
     runs-on: ubuntu-latest
     environment:
