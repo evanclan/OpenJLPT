@@ -1,0 +1,40 @@
+name: Dev cache (temporary)
+# Temporary: snapshots the upstream downloads into this branch so the pipeline can be
+# debugged locally where the upstream hosts are unreachable. Delete the branch afterwards.
+on:
+  push:
+    branches: [claude/dev-cache]
+permissions:
+  contents: write
+jobs:
+  cache:
+    if: ${{ !contains(github.event.head_commit.message, '[cache]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx tsx scripts/fetch-sources.ts
+      - name: Pack
+        run: |
+          mkdir -p devcache/tatoeba
+          cp .cache/JMdict_e.gz .cache/kanjidic2.xml.gz devcache/
+          cd .cache/tatoeba
+          # English sentences: only those linked from a Japanese sentence.
+          cut -f2 links.tsv | sort -u > /tmp/eng-ids
+          awk -F'\t' 'NR==FNR{keep[$1]=1; next} keep[$1]' /tmp/eng-ids eng.tsv > /tmp/eng.tsv
+          gzip -9c jpn.tsv > ../../devcache/tatoeba/jpn.tsv.gz
+          gzip -9c /tmp/eng.tsv > ../../devcache/tatoeba/eng.tsv.gz
+          gzip -9c links.tsv > ../../devcache/tatoeba/links.tsv.gz
+          gzip -9c jpn_indices.csv > ../../devcache/tatoeba/jpn_indices.csv.gz
+          cd ../..
+          du -sh devcache devcache/* devcache/tatoeba/*
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add devcache
+          git commit -m '[cache] upstream sources for local debugging'
+          git push
