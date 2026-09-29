@@ -1,0 +1,15 @@
+name: Feature request
+description: Suggest a new field, format, export or tool.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like?
+      description: What problem does it solve, and who is it for (app developers, learners, teachers…)?
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: Ideas for how it could work (optional)

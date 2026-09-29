@@ -1,0 +1,67 @@
+name: Release
+
+# Push a tag like v0.3.0 to publish a release:
+#  - GitHub Release with Anki decks, the Yomitan dictionary and a data bundle
+#  - npm (needs an NPM_TOKEN repository secret)
+#  - PyPI via trusted publishing (configure it on pypi.org, then set the
+#    repository variable PYPI_TRUSTED_PUBLISHING=true)
+on:
+  push:
+    tags: ['v*']
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          registry-url: https://registry.npmjs.org
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - run: npm ci
+      - run: npm run validate && npm test
+      - name: Version matches the tag
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: |
+          test "v$(node -p "require('./package.json').version")" = "$GITHUB_REF_NAME"
+          grep -q "^version = \"${GITHUB_REF_NAME#v}\"" pyproject.toml
+
+      - name: Build Anki decks, Yomitan dictionary and data bundle
+        run: |
+          pip install genanki build
+          python scripts/build_exports.py release
+          (cd data && zip -qr ../release/openjlpt-data.zip json csv openjlpt.sqlite)
+          python -m build --outdir python-dist
+
+      - name: GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: release/*
+          generate_release_notes: true
+          body: |
+            📦 **Downloads:** Anki decks per level (`openjlpt-<level>-<kind>.apkg`) or all in one (`openjlpt-complete.apkg`),
+            the Yomitan JLPT-level dictionary (`openjlpt-yomitan.zip`) and the full dataset (`openjlpt-data.zip`: JSON, CSV, SQLite).
+
+            See [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/main/CHANGELOG.md) for what changed.
+
+      - name: Publish to npm
+        if: startsWith(github.ref, 'refs/tags/v') && env.NODE_AUTH_TOKEN != ''
+        run: npm publish --provenance --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Publish to PyPI
+        if: startsWith(github.ref, 'refs/tags/v') && vars.PYPI_TRUSTED_PUBLISHING == 'true'
+        uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          packages-dir: python-dist

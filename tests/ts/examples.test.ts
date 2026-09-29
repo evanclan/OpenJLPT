@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { ExampleIndex, parseBLine } from '../../scripts/lib/examples.ts';
 
 const dir = fileURLToPath(new URL('./fixtures/tatoeba', import.meta.url));
-const index = new ExampleIndex(new Map([['本', 'N5'], ['読', 'N5'], ['毎', 'N5'], ['日', 'N5']]), dir);
+const index = new ExampleIndex(new Map(['本', '読', '毎', '日', '見', '何', '時', '間', '勉', '強', '三'].map((k) => [k, 'N5'])), dir);
 
 test('B-line tokens: headword, reading, sense, surface form and checked flag', () => {
   assert.deepEqual(parseBLine('彼(かれ)[01]{彼の}~ 読む{読んでいる}'), [
@@ -33,4 +33,15 @@ test('explicit readings in the index disambiguate homographs', () => {
 
 test('crude translations are filtered out', () => {
   assert.deepEqual(index.find({ forms: ['あっち'], readings: ['あっち'], level: 'N5' }), []);
+});
+
+test('near-duplicate sentences are not both chosen', () => {
+  const ex = index.find({ forms: ['勉強'], readings: ['べんきょう'], level: 'N5' }, 3);
+  const ja = ex.map((e) => e.ja);
+  assert.equal(ja.includes('あなたは何時間勉強していますか。') && ja.includes('あなたは２時間勉強していますか。'), false);
+  assert.ok(ja.includes('毎日三時間勉強します。'));
+});
+
+test('sentences that write the word in kanji are preferred', () => {
+  assert.equal(index.find({ forms: ['見る'], readings: ['みる'], level: 'N5' })[0].ja, 'テレビを見ます。');
 });

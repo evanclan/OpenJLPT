@@ -46,6 +46,20 @@ export function tatoebaAvailable(dir = TATOEBA_DIR): boolean {
   return ['jpn.tsv', 'eng.tsv', 'links.tsv'].every((f) => existsSync(join(dir, f)));
 }
 
+function bigrams(s: string): Set<string> {
+  const chars = [...s.replace(/[。、！？!?「」\s]/g, '')];
+  const out = new Set<string>();
+  for (let i = 0; i < chars.length - 1; i++) out.add(chars[i] + chars[i + 1]);
+  return out;
+}
+
+function jaccard(a: Set<string>, b: Set<string>): number {
+  let inter = 0;
+  for (const x of a) if (b.has(x)) inter++;
+  const union = a.size + b.size - inter;
+  return union ? inter / union : 1;
+}
+
 const TOKEN = /^(.+?)(?:\(([^)]+)\))?(?:\[(\d+)\])?(?:\{([^}]+)\})?(~)?$/;
 
 /** Parse one B-line into tokens. */
@@ -158,8 +172,11 @@ export class ExampleIndex {
     return this.pool.length;
   }
 
-  /** Lower is better: prefer checked, readable-length sentences with kanji at or below the word's level. */
-  private cost(s: Sentence, checked: boolean, levelRank: number): number {
+  /**
+   * Lower is better: prefer checked, readable-length sentences with kanji at or below
+   * the word's level, that write the word with its kanji (見る, not みる).
+   */
+  private cost(s: Sentence, checked: boolean, levelRank: number, wordKanji: Set<string>): number {
     let hard = 0;
     for (const ch of s.ja) {
       if (!hasKanji(ch)) continue;
@@ -167,12 +184,14 @@ export class ExampleIndex {
       if (r === undefined) hard += 2;
       else if (r < levelRank) hard += levelRank - r;
     }
-    return (checked ? 0 : 4) + Math.abs(s.ja.length - IDEAL_LEN) / 4 + hard * 1.5;
+    const kanaOnly = wordKanji.size > 0 && ![...wordKanji].some((k) => s.ja.includes(k));
+    return (checked ? 0 : 4) + Math.abs(s.ja.length - IDEAL_LEN) / 4 + hard * 1.5 + (kanaOnly ? 5 : 0);
   }
 
   /** Up to `max` example sentences for a word, best first. */
   find(q: ExampleQuery, max = 2): Example[] {
     const levelRank = Number(q.level.slice(1)) || 1;
+    const wordKanji = new Set([...(q.forms[0] ?? '')].filter(hasKanji));
     const readings = new Set(q.readings.filter(Boolean).map(toHiragana));
     const scored = new Map<number, number>(); // pool index -> cost
 
@@ -183,7 +202,7 @@ export class ExampleIndex {
       for (const p of postings) {
         // Respect an explicit reading in the index (e.g. 一日(ついたち) is not いちにち).
         if (p.reading && readings.size && !readings.has(p.reading)) continue;
-        const c = this.cost(this.pool[p.s], p.checked, levelRank);
+        const c = this.cost(this.pool[p.s], p.checked, levelRank, wordKanji);
         if (c < (scored.get(p.s) ?? Infinity)) scored.set(p.s, c);
       }
     }
@@ -203,7 +222,7 @@ export class ExampleIndex {
         }
         for (const s of bucket ?? []) {
           if (this.pool[s].ja.includes(form)) {
-            const c = this.cost(this.pool[s], false, levelRank);
+            const c = this.cost(this.pool[s], false, levelRank, wordKanji);
             if (c < (scored.get(s) ?? Infinity)) scored.set(s, c);
           }
         }
@@ -212,11 +231,15 @@ export class ExampleIndex {
 
     const ranked = [...scored].sort((a, b) => a[1] - b[1] || this.pool[a[0]].id - this.pool[b[0]].id);
     const out: Example[] = [];
-    const seen = new Set<string>();
+    const picked: Set<string>[] = [];
+    const seenEn = new Set<string>();
     for (const [s] of ranked) {
       const { id, ja, en } = this.pool[s];
-      if (seen.has(en) || seen.has(ja)) continue;
-      seen.add(en).add(ja);
+      const grams = bigrams(ja);
+      // Skip near-duplicates (何時間勉強していますか / ２時間勉強していますか).
+      if (seenEn.has(en) || picked.some((p) => jaccard(p, grams) >= 0.5)) continue;
+      seenEn.add(en);
+      picked.push(grams);
       out.push({ ja, en, tatoeba_id: id });
       if (out.length >= max) break;
     }

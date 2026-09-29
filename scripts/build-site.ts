@@ -183,6 +183,9 @@ const jsonBlock = (entry: unknown, snippet: string) => `<details class="json"><s
 const pager = (root: string, prev?: [string, string], next?: [string, string]) =>
   `<nav class="pager">${prev ? `<a href="${root}${prev[0]}">← ${esc(prev[1])}</a>` : '<span></span>'}${next ? `<a href="${root}${next[0]}">${esc(next[1])} →</a>` : '<span></span>'}</nav>`;
 
+const reportUrl = (kind: string, entry: string) =>
+  esc(`${REPO}/issues/new?template=data-error.yml&title=${encodeURIComponent(`Data error: ${entry}`)}&kind=${kind}&entry=${encodeURIComponent(entry)}`);
+
 const speak = (text: string) => `<button class="speak" type="button" data-speak="${esc(text)}" title="Listen" aria-label="Listen">🔊</button>`;
 
 // ---------------------------------------------------------------------------
@@ -215,7 +218,7 @@ function vocabPages(): void {
 <div>${reading} <span class="romaji">${esc(v.romaji)}</span></div>
 <div class="two-col">
 <section>
-<ol class="meanings">${v.meanings.map((m) => `<li>${esc(m)}</li>`).join('')}</ol>
+<ol class="meanings${v.meanings.length === 1 ? ' single' : ''}">${v.meanings.map((m) => `<li>${esc(m)}</li>`).join('')}</ol>
 ${pos ? `<div class="chips">${pos}</div>` : ''}
 ${also}
 <h2>Examples</h2>
@@ -226,7 +229,7 @@ ${kanjiCards ? `<h2>Kanji</h2><div class="kanji-links">${kanjiCards}</div>` : ''
 <h2>Look up</h2>
 <p><a href="https://jisho.org/word/${encodeURIComponent(v.word)}" rel="noopener">Jisho</a>${
           v.jmdict_id ? ` · <a href="https://www.edrdg.org/jmwsgi/entry.py?svc=jmdict&amp;q=${v.jmdict_id}" rel="noopener">JMdict #${v.jmdict_id}</a>` : ''
-        } · <a href="${REPO}/issues/new?title=${encodeURIComponent(`Data error: ${v.word} (${level})`)}&amp;labels=data" rel="noopener">Report an error</a></p>
+        } · <a href="${reportUrl('Vocabulary', `${v.word} (${level})`)}" rel="noopener">Report an error</a></p>
 </aside>
 </div>
 ${jsonBlock(v, `import { getVocabById } from 'openjlpt';\ngetVocabById('${v.id}'); // ${v.word}`)}
@@ -256,7 +259,7 @@ function kanjiPages(): void {
 <div class="two-col">
 <section>
 <div class="entry-head"><h1 class="kanji-big" lang="ja">${esc(k.character)}</h1>${lvl(k.level)}</div>
-<ol class="meanings">${k.meanings.map((m) => `<li>${esc(m)}</li>`).join('')}</ol>
+<ol class="meanings${k.meanings.length === 1 ? ' single' : ''}">${k.meanings.map((m) => `<li>${esc(m)}</li>`).join('')}</ol>
 <dl class="kv">
 <dt>On'yomi</dt><dd>${esc(k.onyomi.join('、') || '—')}</dd>
 <dt>Kun'yomi</dt><dd>${esc(k.kunyomi.join('、') || '—')}</dd>
@@ -274,6 +277,7 @@ ${k.nanori?.length ? `<dt>Name readings</dt><dd>${esc(k.nanori.join('、'))}</dd
 </aside>
 </div>
 ${words ? `<h2>Words with ${esc(k.character)}</h2><table class="list"><tbody>${words}</tbody></table>` : ''}
+<p class="muted" style="margin-top:24px"><a href="https://jisho.org/search/${encodeURIComponent(k.character)}%20%23kanji" rel="noopener">Jisho</a> · <a href="${reportUrl('Kanji', `${k.character} (${level})`)}" rel="noopener">Report an error</a></p>
 ${jsonBlock(k, `import { findKanji } from 'openjlpt';\nfindKanji('${k.character}');`)}
 ${pager(root, list[i - 1] && [kanjiPath(list[i - 1].character), list[i - 1].character], list[i + 1] && [kanjiPath(list[i + 1].character), list[i + 1].character])}`,
       });
@@ -307,6 +311,7 @@ ${exampleList(g.examples)}
 ${g.notes ? `<h2>Notes</h2><p class="note">${esc(g.notes)}</p>` : ''}
 <div class="chips">${g.tags.map((t) => `<span class="chip">#${esc(t)}</span>`).join('')}</div>
 ${related ? `<h2>Related ${level} grammar</h2><div class="chips">${related}</div>` : ''}
+<p class="muted" style="margin-top:24px"><a href="${reportUrl('Grammar', `${g.pattern} (${level})`)}" rel="noopener">Suggest an improvement</a></p>
 ${jsonBlock(g, `import { getGrammarById } from 'openjlpt';\ngetGrammarById('${g.id}');`)}
 ${pager(root, list[i - 1] && [grammarPath(list[i - 1]), list[i - 1].pattern], list[i + 1] && [grammarPath(list[i + 1]), list[i + 1].pattern])}`,
       });
@@ -389,10 +394,12 @@ ${v.map((x) => `<tr data-s="${esc(`${x.word} ${x.reading} ${x.romaji} ${x.meanin
 // ---------------------------------------------------------------------------
 // Home and tools
 
+const levelShort: Record<Level, string> = { N5: 'Beginner', N4: 'Elementary', N3: 'Intermediate', N2: 'Upper intermediate', N1: 'Advanced' };
+
 function homePage(): void {
   const c = meta.counts;
   const levelCards = LEVEL_NAMES.map(
-    (l) => `<a class="card level-card" href="${l.toLowerCase()}/index.html"><div class="big">${lvl(l)}</div><ul>
+    (l) => `<a class="card level-card" href="${l.toLowerCase()}/index.html"><div class="lv" style="color:var(--${l.toLowerCase()})">${l}</div><div class="lv-sub">${levelShort[l]}</div><ul>
 <li>${c.vocab[l].toLocaleString('en-US')} words</li><li>${c.kanji[l].toLocaleString('en-US')} kanji</li><li>${c.grammar[l]} grammar points</li></ul></a>`,
   ).join('');
   writePage({
@@ -488,7 +495,15 @@ ${LEVEL_NAMES.map((l) => {
   return `<tr><td>${lvl(l)}</td>${(['vocab', 'kanji', 'grammar'] as const).map((k) => `<td><a href="${cdn}/data/json/${k}/${lc}.json">JSON</a> · <a href="${cdn}/data/csv/${k}-${lc}.csv">CSV</a></td>`).join('')}</tr>`;
 }).join('')}
 </tbody></table>
-<p><a class="btn" href="${REPO}/raw/main/data/openjlpt.sqlite">⬇ SQLite database (all levels)</a> <a class="btn" href="${REPO}/releases/latest">Anki decks &amp; Yomitan dictionary (Releases)</a></p>
+<p><a class="btn" href="${REPO}/raw/main/data/openjlpt.sqlite">⬇ SQLite database (all levels)</a></p>
+<h2 id="anki">Anki decks</h2>
+<p>Ready-made <a href="https://apps.ankiweb.net/">Anki</a> decks with furigana, example sentences and text-to-speech. Re-importing a newer version updates your cards and keeps your review history.</p>
+<table class="list"><thead><tr><th>Level</th><th>Vocabulary</th><th>Kanji</th><th>Grammar</th></tr></thead><tbody>
+${LEVEL_NAMES.map((l) => `<tr><td>${lvl(l)}</td>${(['vocab', 'kanji', 'grammar'] as const).map((k) => `<td><a href="downloads/openjlpt-${l.toLowerCase()}-${k}.apkg">⬇ ${meta.counts[k][l].toLocaleString('en-US')} ${k === 'vocab' ? 'words' : k === 'kanji' ? 'kanji' : 'points'}</a></td>`).join('')}</tr>`).join('')}
+</tbody></table>
+<p><a class="btn primary" href="downloads/openjlpt-complete.apkg">⬇ Everything in one deck (N5–N1)</a></p>
+<h2 id="yomitan">Yomitan dictionary</h2>
+<p>See the JLPT level of any word or kanji right in the <a href="https://yomitan.wiki/">Yomitan</a> pop-up: <a href="downloads/openjlpt-yomitan.zip">⬇ openjlpt-yomitan.zip</a>, then import it in Yomitan's settings → Dictionaries.</p>
 <h2>CDN (no install)</h2>
 <p>Every file is served by jsDelivr — fetch it straight from a browser app:</p>
 <pre><code>const n5 = await fetch('${cdn}/data/json/vocab/n5.json').then(r =&gt; r.json());</code></pre>

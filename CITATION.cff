@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use OpenJLPT, please cite it as below."
+title: "OpenJLPT: an open JLPT N5–N1 dataset of vocabulary, kanji and grammar"
+type: dataset
+authors:
+  - name: "OpenJLPT contributors"
+  - family-names: "Clan"
+    given-names: "Evan"
+repository-code: "https://github.com/evanclan/OpenJLPT"
+url: "https://evanclan.github.io/OpenJLPT/"
+license: CC-BY-SA-4.0
+version: 0.3.0
+date-released: 2026-09-29
+keywords:
+  - JLPT
+  - Japanese
+  - vocabulary
+  - kanji
+  - grammar
+  - dataset
+  - language learning
+references:
+  - type: data
+    title: "JMdict / KANJIDIC2"
+    authors:
+      - name: "Electronic Dictionary Research and Development Group"
+    url: "https://www.edrdg.org/"
+  - type: data
+    title: "JLPT Resources"
+    authors:
+      - family-names: "Waller"
+        given-names: "Jonathan"
+    url: "https://www.tanos.co.uk/jlpt/"
+  - type: data
+    title: "Tatoeba"
+    authors:
+      - name: "Tatoeba contributors"
+    url: "https://tatoeba.org"

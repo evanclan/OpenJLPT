@@ -5,7 +5,7 @@ name: Website
 on:
   push:
     branches: [main]
-    paths: ['data/**', 'site/**', 'scripts/build-site.ts', '.github/workflows/pages.yml']
+    paths: ['data/**', 'site/**', 'scripts/build-site.ts', 'scripts/build_exports.py', '.github/workflows/pages.yml']
   workflow_dispatch: {}
 
 permissions:
@@ -33,6 +33,13 @@ jobs:
         run: npx tsx scripts/build-site.ts _site
         env:
           SITE_URL: ${{ steps.pages.outputs.base_url }}/
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Build Anki decks and Yomitan dictionary
+        run: |
+          pip install genanki
+          python scripts/build_exports.py _site/downloads
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site

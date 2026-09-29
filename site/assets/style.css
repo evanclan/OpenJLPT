@@ -87,7 +87,13 @@ img { max-width: 100%; }
   border: 1px solid var(--border); color: var(--text); background: var(--surface); font-size: 14px; white-space: nowrap;
 }
 .gh-btn:hover { text-decoration: none; border-color: var(--muted); }
-@media (max-width: 720px) { .gh-btn span { display: none; } .nav a { padding: 6px 7px; } }
+@media (max-width: 720px) {
+  .gh-btn span { display: none; }
+  .site-header .wrap { flex-wrap: wrap; height: auto; padding-top: 8px; padding-bottom: 6px; row-gap: 4px; }
+  .gh-btn { margin-left: auto; }
+  .nav { order: 3; width: 100%; margin-left: -8px; }
+  .nav a { padding: 4px 8px; font-size: 14px; }
+}
 
 main { padding: 28px 0 64px; }
 .site-footer { border-top: 1px solid var(--border); color: var(--muted); font-size: 14px; padding: 28px 0 40px; }
@@ -117,6 +123,8 @@ h3 { font-size: 17px; margin: 20px 0 8px; }
 .level-card { display: block; color: var(--text); }
 .level-card:hover { text-decoration: none; border-color: var(--muted); }
 .level-card .big { font-size: 30px; font-weight: 800; }
+.level-card .lv { font-size: 34px; font-weight: 800; line-height: 1; }
+.level-card .lv-sub { color: var(--muted); font-size: 14px; margin-top: 4px; }
 .level-card ul { list-style: none; padding: 0; margin: 10px 0 0; color: var(--muted); font-size: 14px; }
 
 .stats { display: flex; flex-wrap: wrap; gap: 28px; margin: 22px 0 8px; }
@@ -148,7 +156,8 @@ h3 { font-size: 17px; margin: 20px 0 8px; }
 .headword ruby rt { font-size: 0.28em; color: var(--muted); font-weight: 500; }
 .reading { font-family: var(--jp); font-size: 22px; color: var(--muted); }
 .romaji { color: var(--muted); font-size: 16px; }
-.meanings { font-size: 20px; margin: 14px 0; padding-left: 22px; }
+.meanings { font-size: 20px; margin: 14px 0; padding-left: 28px; }
+.meanings.single { list-style: none; padding-left: 0; }
 .meanings li { margin: 2px 0; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
 .chip { font-size: 13px; padding: 2px 10px; border-radius: 999px; background: var(--surface-2); color: var(--muted); border: 1px solid var(--border); }
