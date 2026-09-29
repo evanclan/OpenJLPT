@@ -5931,7 +5931,8 @@
     ],
     "meanings": [
       "lad",
-      "boy (ancient)"
+      "boy",
+      "fine young man"
     ]
   },
   {
@@ -16352,7 +16353,7 @@
       "はた"
     ],
     "meanings": [
-      "Manchu dynasty",
+      "Qin dynasty",
       "name given to naturalized foreigners"
     ]
   },
@@ -21419,6 +21420,470 @@
     ]
   },
   {
+    "character": "晏",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "おそ.い"
+    ],
+    "meanings": [
+      "late",
+      "quiet",
+      "sets (sun)"
+    ]
+  },
+  {
+    "character": "眸",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ボウ",
+      "ム"
+    ],
+    "kunyomi": [
+      "ひとみ"
+    ],
+    "meanings": [
+      "pupil of the eye"
+    ]
+  },
+  {
+    "character": "勺",
+    "level": "N1",
+    "strokes": 3,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "ladle",
+      "one tenth of a go",
+      "dip"
+    ]
+  },
+  {
+    "character": "絃",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "いと"
+    ],
+    "meanings": [
+      "string",
+      "cord",
+      "samisen music"
+    ]
+  },
+  {
+    "character": "且",
+    "level": "N1",
+    "strokes": 5,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "ショ",
+      "ソ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "か.つ"
+    ],
+    "meanings": [
+      "moreover",
+      "also",
+      "furthermore"
+    ]
+  },
+  {
+    "character": "伶",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "レイ",
+      "リョウ"
+    ],
+    "kunyomi": [
+      "わざおぎ"
+    ],
+    "meanings": [
+      "actor"
+    ]
+  },
+  {
+    "character": "奎",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ケイ",
+      "キ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "star",
+      "god of literature"
+    ]
+  },
+  {
+    "character": "謁",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "エツ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "audience",
+      "audience (with king)"
+    ]
+  },
+  {
+    "character": "勁",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "つよ.い"
+    ],
+    "meanings": [
+      "strong"
+    ]
+  },
+  {
+    "character": "迪",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "テキ"
+    ],
+    "kunyomi": [
+      "みち",
+      "みちび.く",
+      "すす.む",
+      "いた.る"
+    ],
+    "meanings": [
+      "edify",
+      "way",
+      "path"
+    ]
+  },
+  {
+    "character": "柊",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "シュ",
+      "シュウ"
+    ],
+    "kunyomi": [
+      "ひいらぎ"
+    ],
+    "meanings": [
+      "holly"
+    ]
+  },
+  {
+    "character": "諒",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "あきら.か",
+      "まことに"
+    ],
+    "meanings": [
+      "fact",
+      "reality",
+      "understand",
+      "appreciate"
+    ]
+  },
+  {
+    "character": "麟",
+    "level": "N1",
+    "strokes": 24,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "リン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "Chinese unicorn",
+      "genius",
+      "giraffe",
+      "bright",
+      "shining"
+    ]
+  },
+  {
+    "character": "紗",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "kunyomi": [
+      "うすぎぬ"
+    ],
+    "meanings": [
+      "gauze",
+      "gossamer"
+    ]
+  },
+  {
+    "character": "椰",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "やし"
+    ],
+    "meanings": [
+      "coconut tree"
+    ]
+  },
+  {
+    "character": "頌",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ショウ",
+      "ジュ",
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "かたち",
+      "たた.える",
+      "ほめ.る"
+    ],
+    "meanings": [
+      "eulogy"
+    ]
+  },
+  {
+    "character": "賦",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "levy",
+      "ode",
+      "prose",
+      "poem",
+      "tribute",
+      "installment"
+    ]
+  },
+  {
+    "character": "爾",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "kunyomi": [
+      "なんじ",
+      "しかり",
+      "その",
+      "のみ",
+      "おれ",
+      "しか"
+    ],
+    "meanings": [
+      "you",
+      "thou",
+      "second person"
+    ]
+  },
+  {
+    "character": "丞",
+    "level": "N1",
+    "strokes": 6,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すく.う",
+      "たす.ける"
+    ],
+    "meanings": [
+      "help"
+    ]
+  },
+  {
+    "character": "碩",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "おお.きい"
+    ],
+    "meanings": [
+      "large",
+      "great",
+      "eminent"
+    ]
+  },
+  {
+    "character": "宥",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "なだ.める",
+      "ゆる.す"
+    ],
+    "meanings": [
+      "soothe",
+      "calm",
+      "pacify"
+    ]
+  },
+  {
+    "character": "笙",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "ふえ"
+    ],
+    "meanings": [
+      "a reed instrument"
+    ]
+  },
+  {
+    "character": "玖",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "beautiful black jewel",
+      "nine"
+    ]
+  },
+  {
+    "character": "梧",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "あおぎり"
+    ],
+    "meanings": [
+      "Chinese parasol tree",
+      "phoenix tree"
+    ]
+  },
+  {
+    "character": "燎",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "かがりび"
+    ],
+    "meanings": [
+      "burn",
+      "bonfire"
+    ]
+  },
+  {
+    "character": "箇",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "カ",
+      "コ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "counter for articles"
+    ]
+  },
+  {
     "character": "紬",
     "level": "N1",
     "strokes": 11,
@@ -21436,41 +21901,119 @@
     ]
   },
   {
-    "character": "哉",
+    "character": "竣",
+    "level": "N1",
+    "strokes": 12,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ドウ",
+      "シュン"
+    ],
+    "kunyomi": [
+      "わらわ",
+      "わらべ",
+      "おわ.る"
+    ],
+    "meanings": [
+      "end",
+      "finish"
+    ]
+  },
+  {
+    "character": "洵",
     "level": "N1",
     "strokes": 9,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "サイ"
+      "ジュン",
+      "シュン"
     ],
     "kunyomi": [
-      "かな",
-      "や"
+      "の.ぶ",
+      "まこと.に"
     ],
     "meanings": [
-      "how",
-      "what",
-      "alas",
-      "question mark",
-      "exclamation mark"
+      "alike",
+      "truth"
     ]
   },
   {
-    "character": "凪",
+    "character": "莉",
     "level": "N1",
-    "strokes": 6,
+    "strokes": 10,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "リ",
+      "ライ",
+      "レイ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "jasmine"
+    ]
+  },
+  {
+    "character": "熙",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "たのし.む",
+      "ひか.る",
+      "ひろ.い",
+      "よろこ.ぶ",
+      "かわ.く",
+      "あきらか",
+      "ひろ.める",
+      "ひろ.まる"
+    ],
+    "meanings": [
+      "bright",
+      "sunny",
+      "prosperous",
+      "merry"
+    ]
+  },
+  {
+    "character": "麿",
+    "level": "N1",
+    "strokes": 18,
     "grade": 9,
     "freq": null,
     "onyomi": [],
     "kunyomi": [
-      "なぎ",
-      "な.ぐ"
+      "まろ"
     ],
     "meanings": [
-      "lull",
-      "calm",
+      "I",
+      "you",
       "(kokuji)"
+    ]
+  },
+  {
+    "character": "衿",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "キン",
+      "コン"
+    ],
+    "kunyomi": [
+      "えり"
+    ],
+    "meanings": [
+      "neck",
+      "collar",
+      "lapel"
     ]
   },
   {
@@ -21493,6 +22036,23 @@
     ]
   },
   {
+    "character": "塑",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [
+      "でく"
+    ],
+    "meanings": [
+      "model",
+      "molding"
+    ]
+  },
+  {
     "character": "栞",
     "level": "N1",
     "strokes": 10,
@@ -21510,17 +22070,66 @@
     ]
   },
   {
-    "character": "崚",
+    "character": "叡",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "あき.らか"
+    ],
+    "meanings": [
+      "intelligence",
+      "imperial"
+    ]
+  },
+  {
+    "character": "梢",
     "level": "N1",
     "strokes": 11,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "リョウ"
+      "ショウ"
     ],
-    "kunyomi": [],
+    "kunyomi": [
+      "こずえ",
+      "くすのき"
+    ],
     "meanings": [
-      "mountains towering in a row"
+      "treetops",
+      "twig"
+    ]
+  },
+  {
+    "character": "虞",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "グ"
+    ],
+    "kunyomi": [
+      "おそれ",
+      "おもんぱか.る",
+      "はか.る",
+      "うれ.える",
+      "あざむ.く",
+      "あやま.る",
+      "のぞ.む",
+      "たの.しむ"
+    ],
+    "meanings": [
+      "fear",
+      "uneasiness",
+      "anxiety",
+      "concern",
+      "expectation",
+      "consideration"
     ]
   },
   {
@@ -21547,6 +22156,221 @@
     ]
   },
   {
+    "character": "袈",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ケ",
+      "カ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "a coarse camlet"
+    ]
+  },
+  {
+    "character": "耶",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ヤ",
+      "ジャ"
+    ],
+    "kunyomi": [
+      "か"
+    ],
+    "meanings": [
+      "question mark"
+    ]
+  },
+  {
+    "character": "滉",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろ.い"
+    ],
+    "meanings": [
+      "deep and broad (water)"
+    ]
+  },
+  {
+    "character": "菫",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [
+      "すみれ"
+    ],
+    "meanings": [
+      "the violet"
+    ]
+  },
+  {
+    "character": "侃",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "つよ.い"
+    ],
+    "meanings": [
+      "strong",
+      "just",
+      "righteous",
+      "peace-loving"
+    ]
+  },
+  {
+    "character": "澪",
+    "level": "N1",
+    "strokes": 16,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "みお"
+    ],
+    "meanings": [
+      "water route",
+      "shipping channel"
+    ]
+  },
+  {
+    "character": "瞭",
+    "level": "N1",
+    "strokes": 17,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "あきらか"
+    ],
+    "meanings": [
+      "clear"
+    ]
+  },
+  {
+    "character": "昴",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "コウ",
+      "ボウ"
+    ],
+    "kunyomi": [
+      "すばる"
+    ],
+    "meanings": [
+      "the Pleiades"
+    ]
+  },
+  {
+    "character": "璃",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "glassy",
+      "lapis lazuli"
+    ]
+  },
+  {
+    "character": "菖",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "iris"
+    ]
+  },
+  {
+    "character": "燿",
+    "level": "N1",
+    "strokes": 18,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "かがや.く",
+      "ひかり"
+    ],
+    "meanings": [
+      "shine"
+    ]
+  },
+  {
+    "character": "詢",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ジュン",
+      "シュン"
+    ],
+    "kunyomi": [
+      "はか.る",
+      "まこと"
+    ],
+    "meanings": [
+      "consult with"
+    ]
+  },
+  {
+    "character": "凜",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "リン"
+    ],
+    "kunyomi": [
+      "きびし.い"
+    ],
+    "meanings": [
+      "cold",
+      "strict",
+      "severe"
+    ]
+  },
+  {
     "character": "銑",
     "level": "N1",
     "strokes": 14,
@@ -21558,6 +22382,37 @@
     "kunyomi": [],
     "meanings": [
       "pig iron"
+    ]
+  },
+  {
+    "character": "遵",
+    "level": "N1",
+    "strokes": 15,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "ジュン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "abide by",
+      "follow",
+      "obey",
+      "learn"
+    ]
+  },
+  {
+    "character": "茄",
+    "level": "N1",
+    "strokes": 8,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "eggplant"
     ]
   },
   {
@@ -21583,206 +22438,55 @@
     ]
   },
   {
-    "character": "賦",
+    "character": "痘",
+    "level": "N1",
+    "strokes": 12,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "pox",
+      "smallpox"
+    ]
+  },
+  {
+    "character": "諄",
     "level": "N1",
     "strokes": 15,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "フ",
-      "ブ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "levy",
-      "ode",
-      "prose",
-      "poem",
-      "tribute",
-      "installment"
-    ]
-  },
-  {
-    "character": "晟",
-    "level": "N1",
-    "strokes": 10,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "セイ",
-      "ジョウ"
+      "シュン"
     ],
     "kunyomi": [
-      "あきらか"
+      "ひちくど.い",
+      "くど.い",
+      "くどくど",
+      "ねんご.ろ"
     ],
     "meanings": [
-      "clear"
+      "tedious"
     ]
   },
   {
-    "character": "斤",
+    "character": "誼",
     "level": "N1",
-    "strokes": 4,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "キン"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "axe",
-      "1.32 lb",
-      "catty",
-      "counter for loaves of bread",
-      "axe radical (no. 69)"
-    ]
-  },
-  {
-    "character": "亦",
-    "level": "N1",
-    "strokes": 6,
+    "strokes": 15,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "エキ",
-      "ヤク"
+      "ギ"
     ],
     "kunyomi": [
-      "また"
+      "よしみ",
+      "よい"
     ],
     "meanings": [
-      "also",
-      "again"
-    ]
-  },
-  {
-    "character": "冶",
-    "level": "N1",
-    "strokes": 7,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "ヤ"
-    ],
-    "kunyomi": [
-      "い.る"
-    ],
-    "meanings": [
-      "melting",
-      "smelting"
-    ]
-  },
-  {
-    "character": "瑶",
-    "level": "N1",
-    "strokes": 13,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ヨウ"
-    ],
-    "kunyomi": [
-      "たま"
-    ],
-    "meanings": [
-      "beautiful as a jewel"
-    ]
-  },
-  {
-    "character": "且",
-    "level": "N1",
-    "strokes": 5,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "ショ",
-      "ソ",
-      "ショウ"
-    ],
-    "kunyomi": [
-      "か.つ"
-    ],
-    "meanings": [
-      "moreover",
-      "also",
-      "furthermore"
-    ]
-  },
-  {
-    "character": "弐",
-    "level": "N1",
-    "strokes": 6,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "ニ",
-      "ジ"
-    ],
-    "kunyomi": [
-      "ふた.つ",
-      "そえ"
-    ],
-    "meanings": [
-      "II",
-      "two",
-      "second"
-    ]
-  },
-  {
-    "character": "勁",
-    "level": "N1",
-    "strokes": 9,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ケイ"
-    ],
-    "kunyomi": [
-      "つよ.い"
-    ],
-    "meanings": [
-      "strong"
-    ]
-  },
-  {
-    "character": "旦",
-    "level": "N1",
-    "strokes": 5,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "タン",
-      "ダン"
-    ],
-    "kunyomi": [
-      "あき.らか",
-      "あきら",
-      "ただし",
-      "あさ",
-      "あした"
-    ],
-    "meanings": [
-      "daybreak",
-      "dawn",
-      "morning"
-    ]
-  },
-  {
-    "character": "麟",
-    "level": "N1",
-    "strokes": 24,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "リン"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "Chinese unicorn",
-      "genius",
-      "giraffe",
-      "bright",
-      "shining"
+      "friendship",
+      "intimacy"
     ]
   },
   {
@@ -21820,106 +22524,6 @@
     ]
   },
   {
-    "character": "吏",
-    "level": "N1",
-    "strokes": 6,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "リ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "officer",
-      "an official"
-    ]
-  },
-  {
-    "character": "勺",
-    "level": "N1",
-    "strokes": 3,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "シャク"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "ladle",
-      "one tenth of a go",
-      "dip"
-    ]
-  },
-  {
-    "character": "塑",
-    "level": "N1",
-    "strokes": 13,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "ソ"
-    ],
-    "kunyomi": [
-      "でく"
-    ],
-    "meanings": [
-      "model",
-      "molding"
-    ]
-  },
-  {
-    "character": "侑",
-    "level": "N1",
-    "strokes": 8,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ユウ",
-      "ウ"
-    ],
-    "kunyomi": [
-      "すす.める",
-      "たす.ける"
-    ],
-    "meanings": [
-      "urge to eat"
-    ]
-  },
-  {
-    "character": "叡",
-    "level": "N1",
-    "strokes": 16,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "エイ"
-    ],
-    "kunyomi": [
-      "あき.らか"
-    ],
-    "meanings": [
-      "intelligence",
-      "imperial"
-    ]
-  },
-  {
-    "character": "澪",
-    "level": "N1",
-    "strokes": 16,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "レイ"
-    ],
-    "kunyomi": [
-      "みお"
-    ],
-    "meanings": [
-      "water route",
-      "shipping channel"
-    ]
-  },
-  {
     "character": "嵩",
     "level": "N1",
     "strokes": 13,
@@ -21942,35 +22546,55 @@
     ]
   },
   {
-    "character": "箇",
+    "character": "墾",
     "level": "N1",
-    "strokes": 14,
+    "strokes": 16,
     "grade": 8,
     "freq": null,
     "onyomi": [
-      "カ",
-      "コ"
+      "コン"
     ],
-    "kunyomi": [],
+    "kunyomi": [
+      "は.る",
+      "ひら.く"
+    ],
     "meanings": [
-      "counter for articles"
+      "ground-breaking",
+      "open up farmland"
     ]
   },
   {
-    "character": "匁",
+    "character": "吏",
     "level": "N1",
-    "strokes": 4,
-    "grade": 9,
+    "strokes": 6,
+    "grade": 8,
     "freq": null,
-    "onyomi": [],
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "officer",
+      "an official"
+    ]
+  },
+  {
+    "character": "濫",
+    "level": "N1",
+    "strokes": 18,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "ラン"
+    ],
     "kunyomi": [
-      "もんめ",
-      "め"
+      "みだ.りに",
+      "みだ.りがましい"
     ],
     "meanings": [
-      "monme",
-      "3.75 grams",
-      "(kokuji)"
+      "excessive",
+      "overflow",
+      "spread out"
     ]
   },
   {
@@ -21989,61 +22613,211 @@
     ]
   },
   {
-    "character": "誼",
+    "character": "捺",
     "level": "N1",
-    "strokes": 15,
+    "strokes": 11,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "ギ"
+      "ナツ",
+      "ダツ"
     ],
     "kunyomi": [
-      "よしみ",
-      "よい"
+      "さ.す",
+      "お.す"
     ],
     "meanings": [
-      "friendship",
-      "intimacy"
+      "press",
+      "print",
+      "affix a seal",
+      "stamp"
     ]
   },
   {
-    "character": "錘",
+    "character": "茉",
     "level": "N1",
-    "strokes": 16,
+    "strokes": 8,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "スイ"
+      "マツ",
+      "バツ",
+      "マ"
     ],
-    "kunyomi": [
-      "つむ",
-      "おもり"
-    ],
+    "kunyomi": [],
     "meanings": [
-      "weight",
-      "plumb bob",
-      "sinker",
-      "spindle"
+      "jasmine"
     ]
   },
   {
-    "character": "竣",
+    "character": "丙",
     "level": "N1",
-    "strokes": 12,
+    "strokes": 5,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "ひのえ"
+    ],
+    "meanings": [
+      "third class",
+      "3rd",
+      "3rd calendar sign"
+    ]
+  },
+  {
+    "character": "凪",
+    "level": "N1",
+    "strokes": 6,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [],
+    "kunyomi": [
+      "なぎ",
+      "な.ぐ"
+    ],
+    "meanings": [
+      "lull",
+      "calm",
+      "(kokuji)"
+    ]
+  },
+  {
+    "character": "瑳",
+    "level": "N1",
+    "strokes": 14,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "ドウ",
-      "シュン"
+      "サ"
     ],
     "kunyomi": [
-      "わらわ",
-      "わらべ",
-      "おわ.る"
+      "みが.く"
     ],
     "meanings": [
-      "end",
-      "finish"
+      "polish",
+      "brilliant white luster of a gem",
+      "artful smile"
+    ]
+  },
+  {
+    "character": "蓉",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "lotus"
+    ]
+  },
+  {
+    "character": "崚",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "mountains towering in a row"
+    ]
+  },
+  {
+    "character": "亦",
+    "level": "N1",
+    "strokes": 6,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "エキ",
+      "ヤク"
+    ],
+    "kunyomi": [
+      "また"
+    ],
+    "meanings": [
+      "also",
+      "again"
+    ]
+  },
+  {
+    "character": "晟",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "あきらか"
+    ],
+    "meanings": [
+      "clear"
+    ]
+  },
+  {
+    "character": "綸",
+    "level": "N1",
+    "strokes": 14,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "リン",
+      "カン"
+    ],
+    "kunyomi": [
+      "いと"
+    ],
+    "meanings": [
+      "thread",
+      "silk cloth"
+    ]
+  },
+  {
+    "character": "捷",
+    "level": "N1",
+    "strokes": 11,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はや.い"
+    ],
+    "meanings": [
+      "victory",
+      "fast"
+    ]
+  },
+  {
+    "character": "伎",
+    "level": "N1",
+    "strokes": 6,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "ギ",
+      "キ"
+    ],
+    "kunyomi": [
+      "わざ",
+      "わざおぎ"
+    ],
+    "meanings": [
+      "deed",
+      "skill"
     ]
   },
   {
@@ -22065,56 +22839,6 @@
     ]
   },
   {
-    "character": "爵",
-    "level": "N1",
-    "strokes": 17,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "シャク"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "baron",
-      "peerage",
-      "court rank"
-    ]
-  },
-  {
-    "character": "椋",
-    "level": "N1",
-    "strokes": 12,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "リョウ"
-    ],
-    "kunyomi": [
-      "むく"
-    ],
-    "meanings": [
-      "type of deciduous tree",
-      "grey starling"
-    ]
-  },
-  {
-    "character": "鞠",
-    "level": "N1",
-    "strokes": 17,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "キク",
-      "キュウ"
-    ],
-    "kunyomi": [
-      "まり"
-    ],
-    "meanings": [
-      "ball"
-    ]
-  },
-  {
     "character": "瑚",
     "level": "N1",
     "strokes": 13,
@@ -22131,141 +22855,74 @@
     ]
   },
   {
-    "character": "麿",
+    "character": "蕗",
     "level": "N1",
-    "strokes": 18,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [],
-    "kunyomi": [
-      "まろ"
-    ],
-    "meanings": [
-      "I",
-      "you",
-      "(kokuji)"
-    ]
-  },
-  {
-    "character": "洵",
-    "level": "N1",
-    "strokes": 9,
+    "strokes": 16,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "ジュン",
-      "シュン"
+      "ロ",
+      "ル"
     ],
     "kunyomi": [
-      "の.ぶ",
-      "まこと.に"
+      "ふき"
     ],
     "meanings": [
-      "alike",
-      "truth"
+      "butterbur",
+      "bog rhubarb"
     ]
   },
   {
-    "character": "碩",
+    "character": "琳",
     "level": "N1",
-    "strokes": 14,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "セキ"
-    ],
-    "kunyomi": [
-      "おお.きい"
-    ],
-    "meanings": [
-      "large",
-      "great",
-      "eminent"
-    ]
-  },
-  {
-    "character": "茉",
-    "level": "N1",
-    "strokes": 8,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "マツ",
-      "バツ",
-      "マ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "jasmine"
-    ]
-  },
-  {
-    "character": "凜",
-    "level": "N1",
-    "strokes": 15,
+    "strokes": 12,
     "grade": 9,
     "freq": null,
     "onyomi": [
       "リン"
     ],
-    "kunyomi": [
-      "きびし.い"
-    ],
-    "meanings": [
-      "cold",
-      "strict",
-      "severe"
-    ]
-  },
-  {
-    "character": "遵",
-    "level": "N1",
-    "strokes": 15,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "ジュン"
-    ],
     "kunyomi": [],
     "meanings": [
-      "abide by",
-      "follow",
-      "obey",
-      "learn"
+      "jewel",
+      "tinkling of jewelry"
     ]
   },
   {
-    "character": "宥",
-    "level": "N1",
-    "strokes": 9,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ユウ"
-    ],
-    "kunyomi": [
-      "なだ.める",
-      "ゆる.す"
-    ],
-    "meanings": [
-      "soothe",
-      "calm",
-      "pacify"
-    ]
-  },
-  {
-    "character": "袈",
+    "character": "晨",
     "level": "N1",
     "strokes": 11,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "ケ",
-      "カ"
+      "シン"
     ],
-    "kunyomi": [],
+    "kunyomi": [
+      "あした",
+      "とき",
+      "あさ"
+    ],
     "meanings": [
-      "a coarse camlet"
+      "morning",
+      "early"
+    ]
+  },
+  {
+    "character": "恕",
+    "level": "N1",
+    "strokes": 10,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ジョ",
+      "ショ"
+    ],
+    "kunyomi": [
+      "ゆる.す"
+    ],
+    "meanings": [
+      "excuse",
+      "tolerate",
+      "forgive"
     ]
   },
   {
@@ -22282,192 +22939,6 @@
     ],
     "meanings": [
       "maple"
-    ]
-  },
-  {
-    "character": "墾",
-    "level": "N1",
-    "strokes": 16,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "コン"
-    ],
-    "kunyomi": [
-      "は.る",
-      "ひら.く"
-    ],
-    "meanings": [
-      "ground-breaking",
-      "open up farmland"
-    ]
-  },
-  {
-    "character": "昴",
-    "level": "N1",
-    "strokes": 9,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "コウ",
-      "ボウ"
-    ],
-    "kunyomi": [
-      "すばる"
-    ],
-    "meanings": [
-      "the Pleiades"
-    ]
-  },
-  {
-    "character": "笙",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ショウ",
-      "ソウ"
-    ],
-    "kunyomi": [
-      "ふえ"
-    ],
-    "meanings": [
-      "a reed instrument"
-    ]
-  },
-  {
-    "character": "耶",
-    "level": "N1",
-    "strokes": 9,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ヤ",
-      "ジャ"
-    ],
-    "kunyomi": [
-      "か"
-    ],
-    "meanings": [
-      "question mark"
-    ]
-  },
-  {
-    "character": "侃",
-    "level": "N1",
-    "strokes": 8,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "カン"
-    ],
-    "kunyomi": [
-      "つよ.い"
-    ],
-    "meanings": [
-      "strong",
-      "just",
-      "righteous",
-      "peace-loving"
-    ]
-  },
-  {
-    "character": "菫",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "キン"
-    ],
-    "kunyomi": [
-      "すみれ"
-    ],
-    "meanings": [
-      "the violet"
-    ]
-  },
-  {
-    "character": "痘",
-    "level": "N1",
-    "strokes": 12,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "トウ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "pox",
-      "smallpox"
-    ]
-  },
-  {
-    "character": "迪",
-    "level": "N1",
-    "strokes": 8,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "テキ"
-    ],
-    "kunyomi": [
-      "みち",
-      "みちび.く",
-      "すす.む",
-      "いた.る"
-    ],
-    "meanings": [
-      "edify",
-      "way",
-      "path"
-    ]
-  },
-  {
-    "character": "茄",
-    "level": "N1",
-    "strokes": 8,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "カ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "eggplant"
-    ]
-  },
-  {
-    "character": "梢",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ショウ"
-    ],
-    "kunyomi": [
-      "こずえ",
-      "くすのき"
-    ],
-    "meanings": [
-      "treetops",
-      "twig"
-    ]
-  },
-  {
-    "character": "菖",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ショウ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "iris"
     ]
   },
   {
@@ -22489,21 +22960,6 @@
     ]
   },
   {
-    "character": "璃",
-    "level": "N1",
-    "strokes": 15,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "リ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "glassy",
-      "lapis lazuli"
-    ]
-  },
-  {
     "character": "莞",
     "level": "N1",
     "strokes": 10,
@@ -22521,89 +22977,88 @@
     ]
   },
   {
-    "character": "瞭",
-    "level": "N1",
-    "strokes": 17,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "リョウ"
-    ],
-    "kunyomi": [
-      "あきらか"
-    ],
-    "meanings": [
-      "clear"
-    ]
-  },
-  {
-    "character": "梧",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ゴ"
-    ],
-    "kunyomi": [
-      "あおぎり"
-    ],
-    "meanings": [
-      "Chinese parasol tree",
-      "phoenix tree"
-    ]
-  },
-  {
-    "character": "昂",
+    "character": "侑",
     "level": "N1",
     "strokes": 8,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "コウ",
-      "ゴウ"
+      "ユウ",
+      "ウ"
     ],
     "kunyomi": [
-      "あ.がる",
-      "たか.い",
-      "たか.ぶる"
+      "すす.める",
+      "たす.ける"
     ],
     "meanings": [
-      "rise"
+      "urge to eat"
     ]
   },
   {
-    "character": "莉",
+    "character": "朕",
     "level": "N1",
     "strokes": 10,
-    "grade": 9,
+    "grade": 8,
     "freq": null,
     "onyomi": [
-      "リ",
-      "ライ",
-      "レイ"
+      "チン"
     ],
     "kunyomi": [],
     "meanings": [
-      "jasmine"
+      "majestic plural",
+      "imperial we"
     ]
   },
   {
-    "character": "紗",
+    "character": "柾",
     "level": "N1",
-    "strokes": 10,
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [],
+    "kunyomi": [
+      "まさ",
+      "まさめ",
+      "まさき"
+    ],
+    "meanings": [
+      "straight grain",
+      "spindle tree",
+      "(kokuji)"
+    ]
+  },
+  {
+    "character": "鞠",
+    "level": "N1",
+    "strokes": 17,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "サ",
-      "シャ"
+      "キク",
+      "キュウ"
     ],
     "kunyomi": [
-      "うすぎぬ"
+      "まり"
     ],
     "meanings": [
-      "gauze",
-      "gossamer"
+      "ball"
+    ]
+  },
+  {
+    "character": "冶",
+    "level": "N1",
+    "strokes": 7,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "い.る"
+    ],
+    "meanings": [
+      "melting",
+      "smelting"
     ]
   },
   {
@@ -22629,6 +23084,117 @@
     ]
   },
   {
+    "character": "斤",
+    "level": "N1",
+    "strokes": 4,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "axe",
+      "1.32 lb",
+      "catty",
+      "counter for loaves of bread",
+      "axe radical (no. 69)"
+    ]
+  },
+  {
+    "character": "椋",
+    "level": "N1",
+    "strokes": 12,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "むく"
+    ],
+    "meanings": [
+      "type of deciduous tree",
+      "grey starling"
+    ]
+  },
+  {
+    "character": "爵",
+    "level": "N1",
+    "strokes": 17,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [],
+    "meanings": [
+      "baron",
+      "peerage",
+      "court rank"
+    ]
+  },
+  {
+    "character": "哉",
+    "level": "N1",
+    "strokes": 9,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "かな",
+      "や"
+    ],
+    "meanings": [
+      "how",
+      "what",
+      "alas",
+      "question mark",
+      "exclamation mark"
+    ]
+  },
+  {
+    "character": "瑶",
+    "level": "N1",
+    "strokes": 13,
+    "grade": 9,
+    "freq": null,
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "たま"
+    ],
+    "meanings": [
+      "beautiful as a jewel"
+    ]
+  },
+  {
+    "character": "旦",
+    "level": "N1",
+    "strokes": 5,
+    "grade": 8,
+    "freq": null,
+    "onyomi": [
+      "タン",
+      "ダン"
+    ],
+    "kunyomi": [
+      "あき.らか",
+      "あきら",
+      "ただし",
+      "あさ",
+      "あした"
+    ],
+    "meanings": [
+      "daybreak",
+      "dawn",
+      "morning"
+    ]
+  },
+  {
     "character": "颯",
     "level": "N1",
     "strokes": 14,
@@ -22648,644 +23214,79 @@
     ]
   },
   {
-    "character": "詢",
+    "character": "昂",
     "level": "N1",
-    "strokes": 13,
+    "strokes": 8,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "ジュン",
-      "シュン"
+      "コウ",
+      "ゴウ"
     ],
     "kunyomi": [
-      "はか.る",
-      "まこと"
+      "あ.がる",
+      "たか.い",
+      "たか.ぶる"
     ],
     "meanings": [
-      "consult with"
+      "rise"
     ]
   },
   {
-    "character": "爾",
+    "character": "匁",
     "level": "N1",
-    "strokes": 14,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ジ",
-      "ニ"
-    ],
-    "kunyomi": [
-      "なんじ",
-      "しかり",
-      "その",
-      "のみ",
-      "おれ",
-      "しか"
-    ],
-    "meanings": [
-      "you",
-      "thou",
-      "second person"
-    ]
-  },
-  {
-    "character": "玖",
-    "level": "N1",
-    "strokes": 7,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "キュウ",
-      "ク"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "beautiful black jewel",
-      "nine"
-    ]
-  },
-  {
-    "character": "晏",
-    "level": "N1",
-    "strokes": 10,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "アン"
-    ],
-    "kunyomi": [
-      "おそ.い"
-    ],
-    "meanings": [
-      "late",
-      "quiet",
-      "sets (sun)"
-    ]
-  },
-  {
-    "character": "蕗",
-    "level": "N1",
-    "strokes": 16,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ロ",
-      "ル"
-    ],
-    "kunyomi": [
-      "ふき"
-    ],
-    "meanings": [
-      "butterbur",
-      "bog rhubarb"
-    ]
-  },
-  {
-    "character": "衿",
-    "level": "N1",
-    "strokes": 9,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "キン",
-      "コン"
-    ],
-    "kunyomi": [
-      "えり"
-    ],
-    "meanings": [
-      "neck",
-      "collar",
-      "lapel"
-    ]
-  },
-  {
-    "character": "眸",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ボウ",
-      "ム"
-    ],
-    "kunyomi": [
-      "ひとみ"
-    ],
-    "meanings": [
-      "pupil of the eye"
-    ]
-  },
-  {
-    "character": "頌",
-    "level": "N1",
-    "strokes": 13,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ショウ",
-      "ジュ",
-      "ヨウ"
-    ],
-    "kunyomi": [
-      "かたち",
-      "たた.える",
-      "ほめ.る"
-    ],
-    "meanings": [
-      "eulogy"
-    ]
-  },
-  {
-    "character": "椰",
-    "level": "N1",
-    "strokes": 13,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ヤ"
-    ],
-    "kunyomi": [
-      "やし"
-    ],
-    "meanings": [
-      "coconut tree"
-    ]
-  },
-  {
-    "character": "瑳",
-    "level": "N1",
-    "strokes": 14,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "サ"
-    ],
-    "kunyomi": [
-      "みが.く"
-    ],
-    "meanings": [
-      "polish",
-      "brilliant white luster of a gem",
-      "artful smile"
-    ]
-  },
-  {
-    "character": "綸",
-    "level": "N1",
-    "strokes": 14,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "リン",
-      "カン"
-    ],
-    "kunyomi": [
-      "いと"
-    ],
-    "meanings": [
-      "thread",
-      "silk cloth"
-    ]
-  },
-  {
-    "character": "熙",
-    "level": "N1",
-    "strokes": 15,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "キ"
-    ],
-    "kunyomi": [
-      "たのし.む",
-      "ひか.る",
-      "ひろ.い",
-      "よろこ.ぶ",
-      "かわ.く",
-      "あきらか",
-      "ひろ.める",
-      "ひろ.まる"
-    ],
-    "meanings": [
-      "bright",
-      "sunny",
-      "prosperous",
-      "merry"
-    ]
-  },
-  {
-    "character": "奎",
-    "level": "N1",
-    "strokes": 9,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ケイ",
-      "キ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "star",
-      "god of literature"
-    ]
-  },
-  {
-    "character": "虞",
-    "level": "N1",
-    "strokes": 13,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "グ"
-    ],
-    "kunyomi": [
-      "おそれ",
-      "おもんぱか.る",
-      "はか.る",
-      "うれ.える",
-      "あざむ.く",
-      "あやま.る",
-      "のぞ.む",
-      "たの.しむ"
-    ],
-    "meanings": [
-      "fear",
-      "uneasiness",
-      "anxiety",
-      "concern",
-      "expectation",
-      "consideration"
-    ]
-  },
-  {
-    "character": "晨",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "シン"
-    ],
-    "kunyomi": [
-      "あした",
-      "とき",
-      "あさ"
-    ],
-    "meanings": [
-      "morning",
-      "early"
-    ]
-  },
-  {
-    "character": "丞",
-    "level": "N1",
-    "strokes": 6,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ジョウ",
-      "ショウ"
-    ],
-    "kunyomi": [
-      "すく.う",
-      "たす.ける"
-    ],
-    "meanings": [
-      "help"
-    ]
-  },
-  {
-    "character": "琳",
-    "level": "N1",
-    "strokes": 12,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "リン"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "jewel",
-      "tinkling of jewelry"
-    ]
-  },
-  {
-    "character": "捺",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ナツ",
-      "ダツ"
-    ],
-    "kunyomi": [
-      "さ.す",
-      "お.す"
-    ],
-    "meanings": [
-      "press",
-      "print",
-      "affix a seal",
-      "stamp"
-    ]
-  },
-  {
-    "character": "謁",
-    "level": "N1",
-    "strokes": 15,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "エツ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "audience",
-      "audience (with king)"
-    ]
-  },
-  {
-    "character": "柾",
-    "level": "N1",
-    "strokes": 9,
+    "strokes": 4,
     "grade": 9,
     "freq": null,
     "onyomi": [],
     "kunyomi": [
-      "まさ",
-      "まさめ",
-      "まさき"
+      "もんめ",
+      "め"
     ],
     "meanings": [
-      "straight grain",
-      "spindle tree",
+      "monme",
+      "3.75 grams",
       "(kokuji)"
     ]
   },
   {
-    "character": "燿",
-    "level": "N1",
-    "strokes": 18,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ヨウ"
-    ],
-    "kunyomi": [
-      "かがや.く",
-      "ひかり"
-    ],
-    "meanings": [
-      "shine"
-    ]
-  },
-  {
-    "character": "濫",
-    "level": "N1",
-    "strokes": 18,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "ラン"
-    ],
-    "kunyomi": [
-      "みだ.りに",
-      "みだ.りがましい"
-    ],
-    "meanings": [
-      "excessive",
-      "overflow",
-      "spread out"
-    ]
-  },
-  {
-    "character": "絃",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ゲン"
-    ],
-    "kunyomi": [
-      "いと"
-    ],
-    "meanings": [
-      "string",
-      "cord",
-      "samisen music"
-    ]
-  },
-  {
-    "character": "柊",
-    "level": "N1",
-    "strokes": 9,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "シュ",
-      "シュウ"
-    ],
-    "kunyomi": [
-      "ひいらぎ"
-    ],
-    "meanings": [
-      "holly"
-    ]
-  },
-  {
-    "character": "伶",
-    "level": "N1",
-    "strokes": 7,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "レイ",
-      "リョウ"
-    ],
-    "kunyomi": [
-      "わざおぎ"
-    ],
-    "meanings": [
-      "actor"
-    ]
-  },
-  {
-    "character": "恕",
-    "level": "N1",
-    "strokes": 10,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ジョ",
-      "ショ"
-    ],
-    "kunyomi": [
-      "ゆる.す"
-    ],
-    "meanings": [
-      "excuse",
-      "tolerate",
-      "forgive"
-    ]
-  },
-  {
-    "character": "丙",
-    "level": "N1",
-    "strokes": 5,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "ヘイ"
-    ],
-    "kunyomi": [
-      "ひのえ"
-    ],
-    "meanings": [
-      "third class",
-      "3rd",
-      "3rd calendar sign"
-    ]
-  },
-  {
-    "character": "朕",
-    "level": "N1",
-    "strokes": 10,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "チン"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "majestic plural",
-      "imperial we"
-    ]
-  },
-  {
-    "character": "諄",
-    "level": "N1",
-    "strokes": 15,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "シュン"
-    ],
-    "kunyomi": [
-      "ひちくど.い",
-      "くど.い",
-      "くどくど",
-      "ねんご.ろ"
-    ],
-    "meanings": [
-      "tedious"
-    ]
-  },
-  {
-    "character": "伎",
-    "level": "N1",
-    "strokes": 6,
-    "grade": 8,
-    "freq": null,
-    "onyomi": [
-      "ギ",
-      "キ"
-    ],
-    "kunyomi": [
-      "わざ",
-      "わざおぎ"
-    ],
-    "meanings": [
-      "deed",
-      "skill"
-    ]
-  },
-  {
-    "character": "捷",
-    "level": "N1",
-    "strokes": 11,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ショウ",
-      "ソウ"
-    ],
-    "kunyomi": [
-      "はや.い"
-    ],
-    "meanings": [
-      "victory",
-      "fast"
-    ]
-  },
-  {
-    "character": "諒",
-    "level": "N1",
-    "strokes": 15,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "リョウ"
-    ],
-    "kunyomi": [
-      "あきら.か",
-      "まことに"
-    ],
-    "meanings": [
-      "fact",
-      "reality",
-      "understand",
-      "appreciate"
-    ]
-  },
-  {
-    "character": "蓉",
-    "level": "N1",
-    "strokes": 13,
-    "grade": 9,
-    "freq": null,
-    "onyomi": [
-      "ヨウ"
-    ],
-    "kunyomi": [],
-    "meanings": [
-      "lotus"
-    ]
-  },
-  {
-    "character": "燎",
+    "character": "錘",
     "level": "N1",
     "strokes": 16,
     "grade": 9,
     "freq": null,
     "onyomi": [
-      "リョウ"
+      "スイ"
     ],
     "kunyomi": [
-      "かがりび"
+      "つむ",
+      "おもり"
     ],
     "meanings": [
-      "burn",
-      "bonfire"
+      "weight",
+      "plumb bob",
+      "sinker",
+      "spindle"
     ]
   },
   {
-    "character": "滉",
+    "character": "弐",
     "level": "N1",
-    "strokes": 13,
-    "grade": 9,
+    "strokes": 6,
+    "grade": 8,
     "freq": null,
     "onyomi": [
-      "コウ"
+      "ニ",
+      "ジ"
     ],
     "kunyomi": [
-      "ひろ.い"
+      "ふた.つ",
+      "そえ"
     ],
     "meanings": [
-      "deep and broad (water)"
+      "II",
+      "two",
+      "second"
     ]
   }
 ]

@@ -1864,12 +1864,12 @@
     "level": "N1",
     "examples": [
       {
-        "ja": "失礼なコメントね！",
-        "en": "What a rude comment!"
+        "ja": "コメントする。",
+        "en": "Comment."
       },
       {
-        "ja": "コメント消したよ。",
-        "en": "I've deleted my comment."
+        "ja": "失礼なコメントね！",
+        "en": "What a rude comment!"
       }
     ]
   },
@@ -5084,12 +5084,12 @@
     "level": "N1",
     "examples": [
       {
-        "ja": "彼はメロディーを口笛で吹き始めた。",
-        "en": "He began to whistle a tune."
+        "ja": "このメロディーを知っている。",
+        "en": "I know this melody."
       },
       {
-        "ja": "私はあの歌のメロディーが思い出せない。",
-        "en": "I can't remember the tune of that song."
+        "ja": "このメロディーが大好きです。",
+        "en": "I love this melody."
       }
     ]
   },
@@ -27043,8 +27043,8 @@
         "en": "Her love of money is without bounds."
       },
       {
-        "ja": "彼は弁護士になれるという希望に執着していた。",
-        "en": "He clung to the hope that he could be a lawyer."
+        "ja": "物は突然こわれて失うから執着しない。",
+        "en": "Things can quickly get broken or lost so don't get attached to them."
       }
     ]
   },
@@ -38723,12 +38723,12 @@
     "level": "N1",
     "examples": [
       {
-        "ja": "多忙な生活を送る。",
-        "en": "I lead a busy life."
+        "ja": "トムは多忙だ。",
+        "en": "Tom is very busy."
       },
       {
-        "ja": "多忙な毎日を送っています。",
-        "en": "I live a busy life."
+        "ja": "多忙な生活を送る。",
+        "en": "I lead a busy life."
       }
     ]
   },

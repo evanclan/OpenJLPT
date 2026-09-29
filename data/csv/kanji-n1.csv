@@ -296,7 +296,7 @@ character,level,strokes,grade,freq,onyomi,kunyomi,meanings
 暫,N1,15,8,1112,ザン,しばら.く,temporarily; a while; moment; long time
 忠,N1,8,6,1113,チュウ,,loyalty; fidelity; faithfulness
 倉,N1,10,4,1114,ソウ,くら,godown; warehouse; storehouse; cellar; treasury
-彦,N1,9,9,1117,ゲン,ひこ,lad; boy (ancient)
+彦,N1,9,9,1117,ゲン,ひこ,lad; boy; fine young man
 肝,N1,7,8,1118,カン,きも,liver; pluck; nerve; chutzpah
 喚,N1,12,8,1120,カン,わめ.く,yell; cry; call; scream; summon
 沿,N1,8,6,1121,エン,そ.う; -ぞ.い,run alongside; follow along; run along; lie along
@@ -847,7 +847,7 @@ character,level,strokes,grade,freq,onyomi,kunyomi,meanings
 朽,N1,6,8,1891,キュウ,く.ちる,decay; rot; remain in seclusion
 殻,N1,11,8,1892,カク; コク; バイ,から; がら,husk; nut shell
 享,N1,8,8,1893,キョウ; コウ,う.ける,enjoy; receive; undergo; answer (phone); take; get; catch
-秦,N1,10,9,1894,シン,はた,Manchu dynasty; name given to naturalized foreigners
+秦,N1,10,9,1894,シン,はた,Qin dynasty; name given to naturalized foreigners
 茅,N1,8,9,1895,ボウ; ミョウ,かや; ちがや,miscanthus reed
 藩,N1,18,8,1896,ハン,,clan; enclosure
 沙,N1,7,8,1897,サ; シャ,すな; よなげる,sand
@@ -1126,108 +1126,108 @@ character,level,strokes,grade,freq,onyomi,kunyomi,meanings
 倹,N1,10,8,2479,ケン,つま.しい; つづまやか,frugal; economy; thrifty
 柚,N1,9,9,2489,ユ; ユウ; ジク,ゆず,citron
 繭,N1,18,8,2495,ケン,まゆ; きぬ,cocoon
-紬,N1,11,9,,チュウ,つむぎ; つむ.ぐ,pongee (a knotted silk cloth)
-哉,N1,9,9,,サイ,かな; や,how; what; alas; question mark; exclamation mark
-凪,N1,6,9,,,なぎ; な.ぐ,lull; calm; (kokuji)
-燦,N1,17,9,,サン,さん.たる; あき.らか; きらめ.く; きら.めく,brilliant
-栞,N1,10,9,,カン,しおり,bookmark; guidebook
-崚,N1,11,9,,リョウ,,mountains towering in a row
-汰,N1,7,8,,タ; タイ,おご.る; にご.る; よな.げる,washing; sieving; filtering; weeding out; luxury
-銑,N1,14,9,,セン,,pig iron
-脹,N1,12,9,,チョウ,は.れる; ふく.らむ; ふく.れる,dilate; distend; bulge; fill out; swell
-賦,N1,15,8,,フ; ブ,,levy; ode; prose; poem; tribute; installment
-晟,N1,10,9,,セイ; ジョウ,あきらか,clear
-斤,N1,4,8,,キン,,axe; 1.32 lb; catty; counter for loaves of bread; axe radical (no. 69)
-亦,N1,6,9,,エキ; ヤク,また,also; again
-冶,N1,7,8,,ヤ,い.る,melting; smelting
-瑶,N1,13,9,,ヨウ,たま,beautiful as a jewel
+晏,N1,10,9,,アン,おそ.い,late; quiet; sets (sun)
+眸,N1,11,9,,ボウ; ム,ひとみ,pupil of the eye
+勺,N1,3,9,,シャク,,ladle; one tenth of a go; dip
+絃,N1,11,9,,ゲン,いと,string; cord; samisen music
 且,N1,5,8,,ショ; ソ; ショウ,か.つ,moreover; also; furthermore
-弐,N1,6,8,,ニ; ジ,ふた.つ; そえ,II; two; second
+伶,N1,7,9,,レイ; リョウ,わざおぎ,actor
+奎,N1,9,9,,ケイ; キ,,star; god of literature
+謁,N1,15,8,,エツ,,audience; audience (with king)
 勁,N1,9,9,,ケイ,つよ.い,strong
-旦,N1,5,8,,タン; ダン,あき.らか; あきら; ただし; あさ; あした,daybreak; dawn; morning
+迪,N1,8,9,,テキ,みち; みちび.く; すす.む; いた.る,edify; way; path
+柊,N1,9,9,,シュ; シュウ,ひいらぎ,holly
+諒,N1,15,9,,リョウ,あきら.か; まことに,fact; reality; understand; appreciate
 麟,N1,24,9,,リン,,Chinese unicorn; genius; giraffe; bright; shining
+紗,N1,10,9,,サ; シャ,うすぎぬ,gauze; gossamer
+椰,N1,13,9,,ヤ,やし,coconut tree
+頌,N1,13,9,,ショウ; ジュ; ヨウ,かたち; たた.える; ほめ.る,eulogy
+賦,N1,15,8,,フ; ブ,,levy; ode; prose; poem; tribute; installment
+爾,N1,14,9,,ジ; ニ,なんじ; しかり; その; のみ; おれ; しか,you; thou; second person
+丞,N1,6,9,,ジョウ; ショウ,すく.う; たす.ける,help
+碩,N1,14,9,,セキ,おお.きい,large; great; eminent
+宥,N1,9,9,,ユウ,なだ.める; ゆる.す,soothe; calm; pacify
+笙,N1,11,9,,ショウ; ソウ,ふえ,a reed instrument
+玖,N1,7,9,,キュウ; ク,,beautiful black jewel; nine
+梧,N1,11,9,,ゴ,あおぎり,Chinese parasol tree; phoenix tree
+燎,N1,16,9,,リョウ,かがりび,burn; bonfire
+箇,N1,14,8,,カ; コ,,counter for articles
+紬,N1,11,9,,チュウ,つむぎ; つむ.ぐ,pongee (a knotted silk cloth)
+竣,N1,12,9,,ドウ; シュン,わらわ; わらべ; おわ.る,end; finish
+洵,N1,9,9,,ジュン; シュン,の.ぶ; まこと.に,alike; truth
+莉,N1,10,9,,リ; ライ; レイ,,jasmine
+熙,N1,15,9,,キ,たのし.む; ひか.る; ひろ.い; よろこ.ぶ; かわ.く; あきらか; ひろ.める; ひろ.まる,bright; sunny; prosperous; merry
+麿,N1,18,9,,,まろ,I; you; (kokuji)
+衿,N1,9,9,,キン; コン,えり,neck; collar; lapel
+燦,N1,17,9,,サン,さん.たる; あき.らか; きらめ.く; きら.めく,brilliant
+塑,N1,13,8,,ソ,でく,model; molding
+栞,N1,10,9,,カン,しおり,bookmark; guidebook
+叡,N1,16,9,,エイ,あき.らか,intelligence; imperial
+梢,N1,11,9,,ショウ,こずえ; くすのき,treetops; twig
+虞,N1,13,8,,グ,おそれ; おもんぱか.る; はか.る; うれ.える; あざむ.く; あやま.る; のぞ.む; たの.しむ,fear; uneasiness; anxiety; concern; expectation; consideration
+汰,N1,7,8,,タ; タイ,おご.る; にご.る; よな.げる,washing; sieving; filtering; weeding out; luxury
+袈,N1,11,9,,ケ; カ,,a coarse camlet
+耶,N1,9,9,,ヤ; ジャ,か,question mark
+滉,N1,13,9,,コウ,ひろ.い,deep and broad (water)
+菫,N1,11,9,,キン,すみれ,the violet
+侃,N1,8,9,,カン,つよ.い,strong; just; righteous; peace-loving
+澪,N1,16,9,,レイ,みお,water route; shipping channel
+瞭,N1,17,8,,リョウ,あきらか,clear
+昴,N1,9,9,,コウ; ボウ,すばる,the Pleiades
+璃,N1,15,8,,リ,,glassy; lapis lazuli
+菖,N1,11,9,,ショウ,,iris
+燿,N1,18,9,,ヨウ,かがや.く; ひかり,shine
+詢,N1,13,9,,ジュン; シュン,はか.る; まこと,consult with
+凜,N1,15,9,,リン,きびし.い,cold; strict; severe
+銑,N1,14,9,,セン,,pig iron
+遵,N1,15,8,,ジュン,,abide by; follow; obey; learn
+茄,N1,8,9,,カ,,eggplant
+脹,N1,12,9,,チョウ,は.れる; ふく.らむ; ふく.れる,dilate; distend; bulge; fill out; swell
+痘,N1,12,8,,トウ,,pox; smallpox
+諄,N1,15,9,,シュン,ひちくど.い; くど.い; くどくど; ねんご.ろ,tedious
+誼,N1,15,9,,ギ,よしみ; よい,friendship; intimacy
 耗,N1,10,8,,モウ; コウ,,decrease
 亥,N1,6,9,,ガイ; カイ,い,sign of the hog; 9-11PM; twelfth sign of the Chinese zodiac
-吏,N1,6,8,,リ,,officer; an official
-勺,N1,3,9,,シャク,,ladle; one tenth of a go; dip
-塑,N1,13,8,,ソ,でく,model; molding
-侑,N1,8,9,,ユウ; ウ,すす.める; たす.ける,urge to eat
-叡,N1,16,9,,エイ,あき.らか,intelligence; imperial
-澪,N1,16,9,,レイ,みお,water route; shipping channel
 嵩,N1,13,9,,スウ; シュウ,かさ; かさ.む; たか.い,be aggravated; grow worse; grow bulky; swell
-箇,N1,14,8,,カ; コ,,counter for articles
-匁,N1,4,9,,,もんめ; め,monme; 3.75 grams; (kokuji)
-裟,N1,13,9,,サ; シャ,,Buddhist surplice
-誼,N1,15,9,,ギ,よしみ; よい,friendship; intimacy
-錘,N1,16,9,,スイ,つむ; おもり,weight; plumb bob; sinker; spindle
-竣,N1,12,9,,ドウ; シュン,わらわ; わらべ; おわ.る,end; finish
-胤,N1,9,9,,イン,たね,descendent; issue; offspring
-爵,N1,17,8,,シャク,,baron; peerage; court rank
-椋,N1,12,9,,リョウ,むく,type of deciduous tree; grey starling
-鞠,N1,17,9,,キク; キュウ,まり,ball
-瑚,N1,13,9,,コ; ゴ,,ancestral offering receptacle; coral
-麿,N1,18,9,,,まろ,I; you; (kokuji)
-洵,N1,9,9,,ジュン; シュン,の.ぶ; まこと.に,alike; truth
-碩,N1,14,9,,セキ,おお.きい,large; great; eminent
-茉,N1,8,9,,マツ; バツ; マ,,jasmine
-凜,N1,15,9,,リン,きびし.い,cold; strict; severe
-遵,N1,15,8,,ジュン,,abide by; follow; obey; learn
-宥,N1,9,9,,ユウ,なだ.める; ゆる.す,soothe; calm; pacify
-袈,N1,11,9,,ケ; カ,,a coarse camlet
-楓,N1,13,9,,フウ,かえで,maple
 墾,N1,16,8,,コン,は.る; ひら.く,ground-breaking; open up farmland
-昴,N1,9,9,,コウ; ボウ,すばる,the Pleiades
-笙,N1,11,9,,ショウ; ソウ,ふえ,a reed instrument
-耶,N1,9,9,,ヤ; ジャ,か,question mark
-侃,N1,8,9,,カン,つよ.い,strong; just; righteous; peace-loving
-菫,N1,11,9,,キン,すみれ,the violet
-痘,N1,12,8,,トウ,,pox; smallpox
-迪,N1,8,9,,テキ,みち; みちび.く; すす.む; いた.る,edify; way; path
-茄,N1,8,9,,カ,,eggplant
-梢,N1,11,9,,ショウ,こずえ; くすのき,treetops; twig
-菖,N1,11,9,,ショウ,,iris
-倖,N1,10,9,,コウ,しあわ.せ; さいわ.い,happiness; luck
-璃,N1,15,8,,リ,,glassy; lapis lazuli
-莞,N1,10,9,,カン,い,smiling; reed used to cover tatami
-瞭,N1,17,8,,リョウ,あきらか,clear
-梧,N1,11,9,,ゴ,あおぎり,Chinese parasol tree; phoenix tree
-昂,N1,8,9,,コウ; ゴウ,あ.がる; たか.い; たか.ぶる,rise
-莉,N1,10,9,,リ; ライ; レイ,,jasmine
-紗,N1,10,9,,サ; シャ,うすぎぬ,gauze; gossamer
-采,N1,8,8,,サイ,と.る; いろどり,dice; form; appearance; take; gather; coloring
-颯,N1,14,9,,サツ; ソウ,さっ.と,sudden; quick; sound of the wind
-詢,N1,13,9,,ジュン; シュン,はか.る; まこと,consult with
-爾,N1,14,9,,ジ; ニ,なんじ; しかり; その; のみ; おれ; しか,you; thou; second person
-玖,N1,7,9,,キュウ; ク,,beautiful black jewel; nine
-晏,N1,10,9,,アン,おそ.い,late; quiet; sets (sun)
-蕗,N1,16,9,,ロ; ル,ふき,butterbur; bog rhubarb
-衿,N1,9,9,,キン; コン,えり,neck; collar; lapel
-眸,N1,11,9,,ボウ; ム,ひとみ,pupil of the eye
-頌,N1,13,9,,ショウ; ジュ; ヨウ,かたち; たた.える; ほめ.る,eulogy
-椰,N1,13,9,,ヤ,やし,coconut tree
-瑳,N1,14,9,,サ,みが.く,polish; brilliant white luster of a gem; artful smile
-綸,N1,14,9,,リン; カン,いと,thread; silk cloth
-熙,N1,15,9,,キ,たのし.む; ひか.る; ひろ.い; よろこ.ぶ; かわ.く; あきらか; ひろ.める; ひろ.まる,bright; sunny; prosperous; merry
-奎,N1,9,9,,ケイ; キ,,star; god of literature
-虞,N1,13,8,,グ,おそれ; おもんぱか.る; はか.る; うれ.える; あざむ.く; あやま.る; のぞ.む; たの.しむ,fear; uneasiness; anxiety; concern; expectation; consideration
-晨,N1,11,9,,シン,あした; とき; あさ,morning; early
-丞,N1,6,9,,ジョウ; ショウ,すく.う; たす.ける,help
-琳,N1,12,9,,リン,,jewel; tinkling of jewelry
-捺,N1,11,9,,ナツ; ダツ,さ.す; お.す,press; print; affix a seal; stamp
-謁,N1,15,8,,エツ,,audience; audience (with king)
-柾,N1,9,9,,,まさ; まさめ; まさき,straight grain; spindle tree; (kokuji)
-燿,N1,18,9,,ヨウ,かがや.く; ひかり,shine
+吏,N1,6,8,,リ,,officer; an official
 濫,N1,18,8,,ラン,みだ.りに; みだ.りがましい,excessive; overflow; spread out
-絃,N1,11,9,,ゲン,いと,string; cord; samisen music
-柊,N1,9,9,,シュ; シュウ,ひいらぎ,holly
-伶,N1,7,9,,レイ; リョウ,わざおぎ,actor
-恕,N1,10,9,,ジョ; ショ,ゆる.す,excuse; tolerate; forgive
+裟,N1,13,9,,サ; シャ,,Buddhist surplice
+捺,N1,11,9,,ナツ; ダツ,さ.す; お.す,press; print; affix a seal; stamp
+茉,N1,8,9,,マツ; バツ; マ,,jasmine
 丙,N1,5,8,,ヘイ,ひのえ,third class; 3rd; 3rd calendar sign
-朕,N1,10,8,,チン,,majestic plural; imperial we
-諄,N1,15,9,,シュン,ひちくど.い; くど.い; くどくど; ねんご.ろ,tedious
-伎,N1,6,8,,ギ; キ,わざ; わざおぎ,deed; skill
-捷,N1,11,9,,ショウ; ソウ,はや.い,victory; fast
-諒,N1,15,9,,リョウ,あきら.か; まことに,fact; reality; understand; appreciate
+凪,N1,6,9,,,なぎ; な.ぐ,lull; calm; (kokuji)
+瑳,N1,14,9,,サ,みが.く,polish; brilliant white luster of a gem; artful smile
 蓉,N1,13,9,,ヨウ,,lotus
-燎,N1,16,9,,リョウ,かがりび,burn; bonfire
-滉,N1,13,9,,コウ,ひろ.い,deep and broad (water)
+崚,N1,11,9,,リョウ,,mountains towering in a row
+亦,N1,6,9,,エキ; ヤク,また,also; again
+晟,N1,10,9,,セイ; ジョウ,あきらか,clear
+綸,N1,14,9,,リン; カン,いと,thread; silk cloth
+捷,N1,11,9,,ショウ; ソウ,はや.い,victory; fast
+伎,N1,6,8,,ギ; キ,わざ; わざおぎ,deed; skill
+胤,N1,9,9,,イン,たね,descendent; issue; offspring
+瑚,N1,13,9,,コ; ゴ,,ancestral offering receptacle; coral
+蕗,N1,16,9,,ロ; ル,ふき,butterbur; bog rhubarb
+琳,N1,12,9,,リン,,jewel; tinkling of jewelry
+晨,N1,11,9,,シン,あした; とき; あさ,morning; early
+恕,N1,10,9,,ジョ; ショ,ゆる.す,excuse; tolerate; forgive
+楓,N1,13,9,,フウ,かえで,maple
+倖,N1,10,9,,コウ,しあわ.せ; さいわ.い,happiness; luck
+莞,N1,10,9,,カン,い,smiling; reed used to cover tatami
+侑,N1,8,9,,ユウ; ウ,すす.める; たす.ける,urge to eat
+朕,N1,10,8,,チン,,majestic plural; imperial we
+柾,N1,9,9,,,まさ; まさめ; まさき,straight grain; spindle tree; (kokuji)
+鞠,N1,17,9,,キク; キュウ,まり,ball
+冶,N1,7,8,,ヤ,い.る,melting; smelting
+采,N1,8,8,,サイ,と.る; いろどり,dice; form; appearance; take; gather; coloring
+斤,N1,4,8,,キン,,axe; 1.32 lb; catty; counter for loaves of bread; axe radical (no. 69)
+椋,N1,12,9,,リョウ,むく,type of deciduous tree; grey starling
+爵,N1,17,8,,シャク,,baron; peerage; court rank
+哉,N1,9,9,,サイ,かな; や,how; what; alas; question mark; exclamation mark
+瑶,N1,13,9,,ヨウ,たま,beautiful as a jewel
+旦,N1,5,8,,タン; ダン,あき.らか; あきら; ただし; あさ; あした,daybreak; dawn; morning
+颯,N1,14,9,,サツ; ソウ,さっ.と,sudden; quick; sound of the wind
+昂,N1,8,9,,コウ; ゴウ,あ.がる; たか.い; たか.ぶる,rise
+匁,N1,4,9,,,もんめ; め,monme; 3.75 grams; (kokuji)
+錘,N1,16,9,,スイ,つむ; おもり,weight; plumb bob; sinker; spindle
+弐,N1,6,8,,ニ; ジ,ふた.つ; そえ,II; two; second
