@@ -302,6 +302,9 @@
       "adv"
     ],
     "jmdict_id": 1518320,
+    "other_forms": [
+      "飽くまで"
+    ],
     "examples": [
       {
         "ja": "彼はその計画にあくまで反対した。",
@@ -1318,16 +1321,19 @@
       "pn"
     ],
     "jmdict_id": 1612650,
+    "other_forms": [
+      "彼此"
+    ],
     "examples": [
+      {
+        "ja": "もうかれこれ１０時です。",
+        "en": "It is almost ten o'clock.",
+        "tatoeba_id": 194487
+      },
       {
         "ja": "彼らはあれこれと話をしています。",
         "en": "They are talking about this and that.",
         "tatoeba_id": 98212
-      },
-      {
-        "ja": "彼はあれこれ疑って苦しんでいる。",
-        "en": "He is torn by doubts.",
-        "tatoeba_id": 114753
       }
     ]
   },
@@ -1602,6 +1608,9 @@
       "adj-no"
     ],
     "jmdict_id": 1282000,
+    "other_forms": [
+      "行き成り"
+    ],
     "examples": [
       {
         "ja": "彼がいきなり、目の前に出てきたの。",
@@ -2355,11 +2364,14 @@
       "adv"
     ],
     "jmdict_id": 1587670,
+    "other_forms": [
+      "愈々"
+    ],
     "examples": [
       {
-        "ja": "いよいよという時に言葉が出ない。",
-        "en": "Words fail right when you need them.",
-        "tatoeba_id": 228464
+        "ja": "いよいよ千載一遇のチャンスがめぐってきた。",
+        "en": "At last, a chance in a million arrived.",
+        "tatoeba_id": 228463
       },
       {
         "ja": "雨はやむどころかいよいよひどくなった。",
@@ -3058,12 +3070,10 @@
       "n"
     ],
     "jmdict_id": 1574470,
+    "other_forms": [
+      "饂飩"
+    ],
     "examples": [
-      {
-        "ja": "うどんでも食べませんか？",
-        "en": "Would you like to eat some udon?",
-        "tatoeba_id": 1771715
-      },
       {
         "ja": "そばはそば粉から、うどんやきしめんは普通の小麦粉からできてるの。",
         "en": "Soba is made of buckwheat flour, and udon and kishimen are made of plain wheat flour.",
@@ -4350,6 +4360,9 @@
       "adv"
     ],
     "jmdict_id": 1415050,
+    "other_forms": [
+      "大凡"
+    ],
     "examples": [
       {
         "ja": "彼女のおおよその年齢しか知らない。",
@@ -4461,6 +4474,9 @@
       "n"
     ],
     "jmdict_id": 1588930,
+    "other_forms": [
+      "お菜"
+    ],
     "examples": [
       {
         "ja": "今晩のおかずはもう決めてあります。",
@@ -4468,9 +4484,9 @@
         "tatoeba_id": 171262
       },
       {
-        "ja": "え、たこ焼きをおかずにするの？",
-        "en": "What, you decided to have takoyaki as one of your main food ideas?",
-        "tatoeba_id": 10988810
+        "ja": "今晩のおかずは魚だ。",
+        "en": "Today's dinner is fish.",
+        "tatoeba_id": 171261
       }
     ]
   },
@@ -5436,6 +5452,9 @@
       "adj-i"
     ],
     "jmdict_id": 1610630,
+    "other_forms": [
+      "思い掛けない"
+    ],
     "examples": [
       {
         "ja": "彼は全く思いがけなく着いた。",
@@ -5493,6 +5512,9 @@
       "adv"
     ],
     "jmdict_id": 1309310,
+    "other_forms": [
+      "思いっ切り"
+    ],
     "examples": [
       {
         "ja": "早く外に出て思いっきり遊びたい。",
@@ -8626,16 +8648,19 @@
       "vt"
     ],
     "jmdict_id": 1567650,
+    "other_forms": [
+      "揶揄う"
+    ],
     "examples": [
       {
-        "ja": "そんな風にメアリーをからかうな。",
-        "en": "Stop teasing Mary like that.",
-        "tatoeba_id": 5777114
+        "ja": "新入生をからかってはいけません。",
+        "en": "Don't make fun of the new student!",
+        "tatoeba_id": 145211
       },
       {
-        "ja": "子どもをからかうのはよしなさい。",
-        "en": "Don't make fun of children.",
-        "tatoeba_id": 10178542
+        "ja": "彼をからかわずにはいられない。",
+        "en": "I can't help making fun of him.",
+        "tatoeba_id": 95966
       }
     ]
   },
@@ -8682,16 +8707,15 @@
       "n"
     ],
     "jmdict_id": 1590710,
+    "other_forms": [
+      "歌留多",
+      "加留多"
+    ],
     "examples": [
       {
-        "ja": "私は試験に受かるために熱心に勉強した。",
-        "en": "I studied hard in order to pass the examination.",
-        "tatoeba_id": 156457
-      },
-      {
-        "ja": "私たちはあなたにお目にかかるために伺いました。",
-        "en": "We have come to pay you a visit.",
-        "tatoeba_id": 166646
+        "ja": "カルタを配ってください。",
+        "en": "Please deal the cards.",
+        "tatoeba_id": 226163
       }
     ]
   },
@@ -9955,6 +9979,9 @@
       "n"
     ],
     "jmdict_id": 1591290,
+    "other_forms": [
+      "切っ掛け"
+    ],
     "examples": [
       {
         "ja": "彼等は彼に逃げるきっかけを与えた。",
@@ -9962,9 +9989,9 @@
         "tatoeba_id": 85996
       },
       {
-        "ja": "ここへ来たきっかけは何ですか？",
-        "en": "What made you come here?",
-        "tatoeba_id": 1156664
+        "ja": "私の意見がそのグループでの議論のきっかけになった。",
+        "en": "My comment sparked off an argument in the group.",
+        "tatoeba_id": 164084
       }
     ]
   },
@@ -10856,16 +10883,19 @@
       "vi"
     ],
     "jmdict_id": 1003710,
+    "other_forms": [
+      "嚏"
+    ],
     "examples": [
-      {
-        "ja": "トムがくしゃみをするのが聞こえた。",
-        "en": "I heard Tom sneezing.",
-        "tatoeba_id": 8218511
-      },
       {
         "ja": "彼のくしゃみで私たちの会話が中断した。",
         "en": "Our conversation was interrupted by his sneezes.",
         "tatoeba_id": 118358
+      },
+      {
+        "ja": "くしゃみが止まりません。",
+        "en": "I can't stop sneezing.",
+        "tatoeba_id": 225705
       }
     ]
   },
@@ -11101,7 +11131,22 @@
       "v1",
       "vi"
     ],
-    "jmdict_id": 1003810
+    "jmdict_id": 1003810,
+    "other_forms": [
+      "草臥れる"
+    ],
+    "examples": [
+      {
+        "ja": "私は仕事でひどくくたびれている。",
+        "en": "I'm very tired from work.",
+        "tatoeba_id": 156638
+      },
+      {
+        "ja": "ジャックは５０マイル歩いてくたびれた。",
+        "en": "Jack was tired from having walked fifty miles.",
+        "tatoeba_id": 215849
+      }
+    ]
   },
   {
     "id": "57d3c312c5",
@@ -11292,16 +11337,19 @@
       "adj-i"
     ],
     "jmdict_id": 1572760,
+    "other_forms": [
+      "諄い"
+    ],
     "examples": [
-      {
-        "ja": "回りくどい言い方はしないでくれ。",
-        "en": "Don't say it in a roundabout way.",
-        "tatoeba_id": 185190
-      },
       {
         "ja": "くどいよ君の質問は、もううるさい。",
         "en": "Stop bugging me with your annoying questions!",
         "tatoeba_id": 225648
+      },
+      {
+        "ja": "彼は親切な男だったが、その話のくどさは人をいらいらさせた。",
+        "en": "He was a very kind man, but his verbosity was exasperating.",
+        "tatoeba_id": 103667
       }
     ]
   },
@@ -11636,11 +11684,14 @@
       "adv"
     ],
     "jmdict_id": 1269140,
+    "other_forms": [
+      "呉れ呉れも"
+    ],
     "examples": [
       {
-        "ja": "くれぐれもご自愛くださいませ。",
-        "en": "Please take care of yourself.",
-        "tatoeba_id": 11648598
+        "ja": "くれぐれもお体をお大事に。",
+        "en": "Please take good care of yourself.",
+        "tatoeba_id": 225438
       },
       {
         "ja": "あの方にくれぐれもよろしく。",
@@ -15598,6 +15649,9 @@
       "n"
     ],
     "jmdict_id": 1593650,
+    "other_forms": [
+      "逆様"
+    ],
     "examples": [
       {
         "ja": "その絵は逆さまにかかっている。",
@@ -15657,7 +15711,8 @@
     ],
     "jmdict_id": 1397830,
     "other_forms": [
-      "さかのぼる"
+      "さかのぼる",
+      "逆上る"
     ],
     "examples": [
       {
@@ -18585,16 +18640,14 @@
       "vi"
     ],
     "jmdict_id": 1005650,
+    "other_forms": [
+      "吃逆"
+    ],
     "examples": [
       {
-        "ja": "さっきからしゃっくりが止まらない。",
-        "en": "It's been a while now and my hiccups still haven't stopped.",
-        "tatoeba_id": 2481156
-      },
-      {
-        "ja": "しゃっくりがちっとも止まらないんだよ。",
-        "en": "My hiccups won't stop at all.",
-        "tatoeba_id": 1057273
+        "ja": "しゃっくりがよく出ます。",
+        "en": "I hiccup a lot.",
+        "tatoeba_id": 215787
       }
     ]
   },
@@ -18721,16 +18774,14 @@
       "vi"
     ],
     "jmdict_id": 1005970,
+    "other_forms": [
+      "じゃん拳"
+    ],
     "examples": [
       {
-        "ja": "じゃんけんで係を決めることになった。",
-        "en": "Rock Paper Scissors was used to decide who would be in charge.",
-        "tatoeba_id": 11013889
-      },
-      {
-        "ja": "せーの、じゃんけんぽん！あいこでしょ！",
-        "en": "Ready, rock-paper-scissors! It's a draw!",
-        "tatoeba_id": 1291785
+        "ja": "「じゃんけんね」「ぐー」「ちょ・・パー」「後出しかよ！」",
+        "en": "\"Rock-paper-scissors, OK?\" \"Rock.\" \"Sciss... paper.\" \"You cheated!\"",
+        "tatoeba_id": 77030
       }
     ]
   },
@@ -22625,11 +22676,14 @@
       "adj-i"
     ],
     "jmdict_id": 1569240,
+    "other_forms": [
+      "狡い"
+    ],
     "examples": [
       {
-        "ja": "ずるいとか、思わないの？",
-        "en": "Do you not think that's unfair?",
-        "tatoeba_id": 11910235
+        "ja": "狐は他のどんな動物よりもずるいということだ。",
+        "en": "It is said that the fox is more cunning than any other animal.",
+        "tatoeba_id": 174467
       },
       {
         "ja": "彼は賢いがずるい。",
@@ -24767,6 +24821,9 @@
       "n"
     ],
     "jmdict_id": 1596570,
+    "other_forms": [
+      "卒直"
+    ],
     "examples": [
       {
         "ja": "あなたの率直な意見が聞きたいのです。",
@@ -29887,16 +29944,19 @@
       "adj-na"
     ],
     "jmdict_id": 1339630,
+    "other_forms": [
+      "出鱈目"
+    ],
     "examples": [
       {
-        "ja": "あの人の言うことはでたらめです。",
-        "en": "What he says is nonsense.",
-        "tatoeba_id": 393891
+        "ja": "彼は本棚に本をでたらめに入れた。",
+        "en": "He put the books on the shelf out of order.",
+        "tatoeba_id": 99883
       },
       {
-        "ja": "動物はでたらめに動くように見える。",
-        "en": "Animals seem to move at random.",
-        "tatoeba_id": 123754
+        "ja": "彼はでたらめな約束をして彼女を誘惑した。",
+        "en": "He seduced her with false promises.",
+        "tatoeba_id": 111833
       }
     ]
   },
@@ -31593,16 +31653,19 @@
       "adv"
     ],
     "jmdict_id": 1320570,
+    "other_forms": [
+      "疾っくに"
+    ],
     "examples": [
+      {
+        "ja": "もうとっくに寝る時間だ。",
+        "en": "It is high time we went to bed.",
+        "tatoeba_id": 194381
+      },
       {
         "ja": "とっくに彼はそれに気づいていた。",
         "en": "He was already aware of it.",
         "tatoeba_id": 200698
-      },
-      {
-        "ja": "子供はもうとっくに寝る時間だよ。",
-        "en": "It's high time the children went to bed.",
-        "tatoeba_id": 10895587
       }
     ]
   },
@@ -31826,16 +31889,19 @@
       "adv"
     ],
     "jmdict_id": 1444010,
+    "other_forms": [
+      "兎も角"
+    ],
     "examples": [
       {
-        "ja": "ともかく、君の知ったことではない。",
-        "en": "In any case, it's none of your business.",
-        "tatoeba_id": 199779
+        "ja": "ともかく合格してうれしい。",
+        "en": "I'm glad to have passed at all.",
+        "tatoeba_id": 199774
       },
       {
-        "ja": "ともかく約束を破るのはよくありません。",
-        "en": "In any case, it's wrong to break a promise.",
-        "tatoeba_id": 199771
+        "ja": "顔はともかく、気立てはとてもいい子だよ。",
+        "en": "Looks aside, she is very good-natured.",
+        "tatoeba_id": 183637
       }
     ]
   },
@@ -33566,7 +33632,22 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1585010
+    "jmdict_id": 1585010,
+    "other_forms": [
+      "捻子"
+    ],
+    "examples": [
+      {
+        "ja": "この機械は１時間に千個のねじを製造する。",
+        "en": "This machine cranks out a thousand screws an hour.",
+        "tatoeba_id": 222486
+      },
+      {
+        "ja": "ネジを回すと、急に水が吹き出してきた。",
+        "en": "When I turned the screw, water burst out.",
+        "tatoeba_id": 82396
+      }
+    ]
   },
   {
     "id": "f3946a0625",
@@ -35415,7 +35496,17 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1099490
+    "jmdict_id": 1099490,
+    "other_forms": [
+      "発条"
+    ],
+    "examples": [
+      {
+        "ja": "そのばね１個で車の全重量を支えている。",
+        "en": "That one spring carries the whole weight of the car.",
+        "tatoeba_id": 212723
+      }
+    ]
   },
   {
     "id": "87313b2fe5",
@@ -35518,7 +35609,8 @@
     ],
     "jmdict_id": 1566420,
     "other_forms": [
-      "嵌める"
+      "嵌める",
+      "填める"
     ],
     "examples": [
       {
@@ -36526,6 +36618,9 @@
       "vt"
     ],
     "jmdict_id": 1601870,
+    "other_forms": [
+      "引っ繰り返す"
+    ],
     "examples": [
       {
         "ja": "彼はテーブルをひっくり返した。",
@@ -38465,11 +38560,19 @@
       "vt"
     ],
     "jmdict_id": 2742080,
+    "other_forms": [
+      "打付ける"
+    ],
     "examples": [
       {
-        "ja": "ビリさんは顔を窓によくぶつける。",
-        "en": "Billy often hits his face against windows.",
-        "tatoeba_id": 183630
+        "ja": "私に泥をぶつけて、泥だらけになった。",
+        "en": "He threw mud at me and made me dirty.",
+        "tatoeba_id": 164345
+      },
+      {
+        "ja": "彼は頭を棚に強くぶつけて大きなこぶを作った。",
+        "en": "He banged his head against a shelf and got a big lump.",
+        "tatoeba_id": 101687
       }
     ]
   },
@@ -38706,6 +38809,9 @@
       "vt"
     ],
     "jmdict_id": 1602880,
+    "other_forms": [
+      "殖やす"
+    ],
     "examples": [
       {
         "ja": "体力を増やすように努めなさい。",
@@ -40690,6 +40796,9 @@
       "n"
     ],
     "jmdict_id": 1572500,
+    "other_forms": [
+      "襤褸"
+    ],
     "examples": [
       {
         "ja": "ぼろ服が正直者を包んでいるかもしれない。",
@@ -41632,11 +41741,14 @@
       "vt"
     ],
     "jmdict_id": 1440930,
+    "other_forms": [
+      "纏める"
+    ],
     "examples": [
       {
-        "ja": "クラスをまとめるのが君の役目だ。",
-        "en": "It is your responsibility to bring the class together.",
-        "tatoeba_id": 1619958
+        "ja": "データはまだまとめていません。",
+        "en": "The data hasn't been compiled yet.",
+        "tatoeba_id": 202437
       },
       {
         "ja": "今こそ一気に取引をまとめるときだ。",
@@ -41717,7 +41829,8 @@
     ],
     "jmdict_id": 1569920,
     "other_forms": [
-      "瞼"
+      "瞼",
+      "目蓋"
     ],
     "examples": [
       {
@@ -42238,16 +42351,19 @@
       "adj-i"
     ],
     "jmdict_id": 1259250,
+    "other_forms": [
+      "見っともない"
+    ],
     "examples": [
       {
-        "ja": "こんな人前でみっともないまねするな。",
-        "en": "Don't make a scene in such a public place.",
-        "tatoeba_id": 678335
+        "ja": "人前でああいうみっともないことはするな。",
+        "en": "Don't do such a shameful thing in public.",
+        "tatoeba_id": 143956
       },
       {
-        "ja": "うちの家って、古くてみっともないんだ。",
-        "en": "My house is old and ugly.",
-        "tatoeba_id": 9233899
+        "ja": "恥を知れ、みっともない。",
+        "en": "For shame!",
+        "tatoeba_id": 126803
       }
     ]
   },
@@ -43338,6 +43454,9 @@
       "n"
     ],
     "jmdict_id": 1533000,
+    "other_forms": [
+      "滅茶苦茶"
+    ],
     "examples": [
       {
         "ja": "みんな、めちゃくちゃ喜んでたよ。",
@@ -43799,16 +43918,19 @@
       "adv"
     ],
     "jmdict_id": 1012510,
+    "other_forms": [
+      "若しかしたら"
+    ],
     "examples": [
       {
-        "ja": "もしかしたら明日帰ってこれるかも。",
-        "en": "Perhaps I could come back tomorrow.",
-        "tatoeba_id": 8630524
+        "ja": "もしかしたら彼は気が変わるかもしれない。",
+        "en": "He might change his mind.",
+        "tatoeba_id": 193883
       },
       {
-        "ja": "もしかしたら夕飯に遅れるかも。",
-        "en": "I might be late for dinner.",
-        "tatoeba_id": 8724571
+        "ja": "この空模様だと、もしかしたら午後にはひと雨降るかもしれません。",
+        "en": "From the look of the sky, it may rain in the afternoon.",
+        "tatoeba_id": 222270
       }
     ]
   },
@@ -43827,16 +43949,14 @@
       "adv"
     ],
     "jmdict_id": 1012530,
+    "other_forms": [
+      "若しかすると"
+    ],
     "examples": [
       {
-        "ja": "もしかすると明日雨が降るかもしれない。",
-        "en": "It might rain tomorrow.",
-        "tatoeba_id": 193877
-      },
-      {
-        "ja": "もしかすると彼が来るかも。",
-        "en": "Perhaps he will come.",
-        "tatoeba_id": 541935
+        "ja": "もしかすると彼は明日来るかもしれない。",
+        "en": "He might come tomorrow.",
+        "tatoeba_id": 193878
       }
     ]
   },
@@ -43857,16 +43977,19 @@
       "vi"
     ],
     "jmdict_id": 1564380,
+    "other_forms": [
+      "凭れる"
+    ],
     "examples": [
       {
-        "ja": "ステーキは胃にもたれる。",
-        "en": "Steak lies heavy on the stomach.",
-        "tatoeba_id": 214618
+        "ja": "彼は壁にもたれていた。",
+        "en": "He was leaning against the wall.",
+        "tatoeba_id": 100151
       },
       {
-        "ja": "食後胃がもたれる。",
-        "en": "I have aggravation after eating.",
-        "tatoeba_id": 145872
+        "ja": "彼はいすの背にもたれている。",
+        "en": "He is leaning on the back of the chair.",
+        "tatoeba_id": 114666
       }
     ]
   },
@@ -44694,16 +44817,19 @@
       "adv"
     ],
     "jmdict_id": 1012810,
+    "other_forms": [
+      "矢っ張り"
+    ],
     "examples": [
       {
-        "ja": "和菓子にはやっぱり日本茶が合う。",
-        "en": "Traditional Japanese sweets really do go well with Japanese tea.",
-        "tatoeba_id": 2319231
+        "ja": "やっぱり何とかやってのけたね。",
+        "en": "You managed it after all.",
+        "tatoeba_id": 193053
       },
       {
-        "ja": "あっ、やっぱり、自覚がないんだ。",
-        "en": "Huh. I guess they really don't have any self-awareness.",
-        "tatoeba_id": 10629281
+        "ja": "疲れているが、やっぱり行くつもりだ。",
+        "en": "I'm tired, but I'm going anyway.",
+        "tatoeba_id": 85894
       }
     ]
   },
@@ -45560,16 +45686,19 @@
       "adv"
     ],
     "jmdict_id": 1394600,
+    "other_forms": [
+      "漸く"
+    ],
     "examples": [
       {
-        "ja": "彼はようやく試してみることにした。",
-        "en": "He finally decided to try.",
-        "tatoeba_id": 2147314
+        "ja": "「そっか」ウィリーはようやく納得した。",
+        "en": "\"Well, OK,\" Willie finally agreed.",
+        "tatoeba_id": 236543
       },
       {
-        "ja": "ようやく夜が明けて長い夜が終わった。",
-        "en": "Finally dawn broke; the long night had ended.",
-        "tatoeba_id": 74120
+        "ja": "９時２０分の電車にようやく間に合った。",
+        "en": "I barely made the 9:20 train.",
+        "tatoeba_id": 506577
       }
     ]
   },
@@ -45965,7 +46094,22 @@
       "v5r",
       "vi"
     ],
-    "jmdict_id": 1168660
+    "jmdict_id": 1168660,
+    "other_forms": [
+      "因る"
+    ],
+    "examples": [
+      {
+        "ja": "造られたもので、この方によらずできたものは一つもない。",
+        "en": "Without him nothing was made that has been made.",
+        "tatoeba_id": 140216
+      },
+      {
+        "ja": "この理由により、著者に関する信憑性は、資料の信憑性に拠っているのである。",
+        "en": "For this reason, the credibility of the book's authors rests on the credibility of their sources.",
+        "tatoeba_id": 219209
+      }
+    ]
   },
   {
     "id": "2c59eb6f09",

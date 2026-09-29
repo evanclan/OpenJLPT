@@ -310,6 +310,9 @@
       "n"
     ],
     "jmdict_id": 1586330,
+    "other_forms": [
+      "朝御飯"
+    ],
     "examples": [
       {
         "ja": "朝ごはんにはなにがよろしいですか。",
@@ -423,16 +426,19 @@
       "pn"
     ],
     "jmdict_id": 1000320,
+    "other_forms": [
+      "彼処"
+    ],
     "examples": [
+      {
+        "ja": "先生、アソコがかゆいんです。",
+        "en": "Doctor, I've got an itch in my crotch.",
+        "tatoeba_id": 2733322
+      },
       {
         "ja": "あそこのスポーツカーを見なさい。",
         "en": "Look at the sports car over there.",
         "tatoeba_id": 234395
-      },
-      {
-        "ja": "あそこにエレベーターがあります。",
-        "en": "There's a lift over there.",
-        "tatoeba_id": 10899486
       }
     ]
   },
@@ -555,16 +561,19 @@
       "pn"
     ],
     "jmdict_id": 1483185,
+    "other_forms": [
+      "彼方"
+    ],
     "examples": [
       {
-        "ja": "トイレはあちらにあります。",
-        "en": "The toilet is over there.",
-        "tatoeba_id": 201727
+        "ja": "あちらが私の待っていた人です。",
+        "en": "That's the person I've been waiting for.",
+        "tatoeba_id": 234351
       },
       {
-        "ja": "かしこまりました。サラダバーはあちらです。",
-        "en": "All right, sir. The salad bar is over there.",
-        "tatoeba_id": 226414
+        "ja": "こっちの本はあっちの本よりやさしい。",
+        "en": "These books are easier than those books.",
+        "tatoeba_id": 217779
       }
     ]
   },
@@ -794,7 +803,22 @@
     "pos": [
       "adj-pn"
     ],
-    "jmdict_id": 1000420
+    "jmdict_id": 1000420,
+    "other_forms": [
+      "彼の"
+    ],
+    "examples": [
+      {
+        "ja": "あのおいしいワインをなぜ飲まないんだい。",
+        "en": "Why not try that delicious wine?",
+        "tatoeba_id": 231361
+      },
+      {
+        "ja": "この本はあの本ほどやさしくない。",
+        "en": "This book is not as easy as that one.",
+        "tatoeba_id": 219724
+      }
+    ]
   },
   {
     "id": "0cf05b3a0d",
@@ -1587,7 +1611,22 @@
     "pos": [
       "pn"
     ],
-    "jmdict_id": 1188760
+    "jmdict_id": 1188760,
+    "other_forms": [
+      "何時"
+    ],
+    "examples": [
+      {
+        "ja": "いつ旅行においでになりますか。",
+        "en": "When will you go on a journey?",
+        "tatoeba_id": 228596
+      },
+      {
+        "ja": "パーティーはいつにしましょうか。",
+        "en": "When shall we have the party?",
+        "tatoeba_id": 198453
+      }
+    ]
   },
   {
     "id": "2a7c4baf86",
@@ -1871,7 +1910,22 @@
       "aux-v",
       "v1"
     ],
-    "jmdict_id": 1577980
+    "jmdict_id": 1577980,
+    "other_forms": [
+      "居る"
+    ],
+    "examples": [
+      {
+        "ja": "すっかり食べ終わってはいない。",
+        "en": "I haven't quite finished eating.",
+        "tatoeba_id": 214668
+      },
+      {
+        "ja": "あんないい男そうそういないぞ！！",
+        "en": "There aren't many blokes that nice!",
+        "tatoeba_id": 75577
+      }
+    ]
   },
   {
     "id": "7a84208708",
@@ -4668,6 +4722,9 @@
       "adj-i"
     ],
     "jmdict_id": 1577200,
+    "other_forms": [
+      "可愛い"
+    ],
     "examples": [
       {
         "ja": "ルーシーはかわいい女の子だ。",
@@ -4675,9 +4732,9 @@
         "tatoeba_id": 192411
       },
       {
-        "ja": "ナンシーはとてもかわいいんだってね。",
+        "ja": "ナンシーさんはとてもかわいいそうです。",
         "en": "I hear that Nancy is very pretty.",
-        "tatoeba_id": 1241702
+        "tatoeba_id": 199013
       }
     ]
   },
@@ -6590,7 +6647,22 @@
     "pos": [
       "adj-pn"
     ],
-    "jmdict_id": 1582920
+    "jmdict_id": 1582920,
+    "other_forms": [
+      "此の"
+    ],
+    "examples": [
+      {
+        "ja": "このコップをミルクで満たした。",
+        "en": "I filled this glass with milk.",
+        "tatoeba_id": 223794
+      },
+      {
+        "ja": "この木にしっかりつかまりなさい。",
+        "en": "Hold fast to this tree.",
+        "tatoeba_id": 219456
+      }
+    ]
   },
   {
     "id": "a2694d259e",
@@ -6716,7 +6788,22 @@
     "pos": [
       "pn"
     ],
-    "jmdict_id": 1628530
+    "jmdict_id": 1628530,
+    "other_forms": [
+      "此れ"
+    ],
+    "examples": [
+      {
+        "ja": "これは兄です。かっこいいですね。",
+        "en": "This is my brother. Handsome, isn't he?",
+        "tatoeba_id": 74148
+      },
+      {
+        "ja": "これはいったいどういうことなの。",
+        "en": "What does all this add up to?",
+        "tatoeba_id": 143331
+      }
+    ]
   },
   {
     "id": "3793173687",
@@ -7165,16 +7252,19 @@
       "int"
     ],
     "jmdict_id": 1291050,
+    "other_forms": [
+      "左様なら"
+    ],
     "examples": [
+      {
+        "ja": "では今晩またね、さようなら。",
+        "en": "See you tonight, then. Cheers!",
+        "tatoeba_id": 202137
+      },
       {
         "ja": "さようなら、さよ子。",
         "en": "Goodbye, Sayoko.",
         "tatoeba_id": 216707
-      },
-      {
-        "ja": "さようなら。また会いましょう。",
-        "en": "I'll be seeing you.",
-        "tatoeba_id": 216704
       }
     ]
   },
@@ -7322,6 +7412,9 @@
       "conj"
     ],
     "jmdict_id": 1505990,
+    "other_forms": [
+      "然し"
+    ],
     "examples": [
       {
         "ja": "しかしこの本をしまっておきなさい。",
@@ -7329,9 +7422,9 @@
         "tatoeba_id": 216279
       },
       {
-        "ja": "もしかしてフランス語できたりする？",
-        "en": "Do you, by any chance, speak French?",
-        "tatoeba_id": 2841047
+        "ja": "しかし男の子は長い間来ませんでした。",
+        "en": "But the boy stayed away for a long time.",
+        "tatoeba_id": 216222
       }
     ]
   },
@@ -8587,7 +8680,22 @@
     "pos": [
       "vs-i"
     ],
-    "jmdict_id": 1157170
+    "jmdict_id": 1157170,
+    "other_forms": [
+      "為る"
+    ],
+    "examples": [
+      {
+        "ja": "ログアウトするんじゃなかったよ。",
+        "en": "I shouldn't have logged off.",
+        "tatoeba_id": 4858
+      },
+      {
+        "ja": "今までいったい何をしていたんだ！",
+        "en": "What have you been getting up to till now?!",
+        "tatoeba_id": 74957
+      }
+    ]
   },
   {
     "id": "c9a15e8777",
@@ -9010,13 +9118,19 @@
     ],
     "jmdict_id": 1612860,
     "other_forms": [
-      "そして"
+      "そして",
+      "然うして"
     ],
     "examples": [
       {
-        "ja": "そして世はこの方によって造られた。",
-        "en": "And the world was made through him.",
-        "tatoeba_id": 143466
+        "ja": "そうしてくださればとてもうれしい。",
+        "en": "I can't be sorry.",
+        "tatoeba_id": 213883
+      },
+      {
+        "ja": "そうしてくれて君は親切ですね。",
+        "en": "It is kind of you to do so.",
+        "tatoeba_id": 213882
       }
     ]
   },
@@ -9032,7 +9146,22 @@
     "pos": [
       "pn"
     ],
-    "jmdict_id": 1006670
+    "jmdict_id": 1006670,
+    "other_forms": [
+      "其処"
+    ],
+    "examples": [
+      {
+        "ja": "バスでそこまで２時間かかります。",
+        "en": "It takes two hours to go there by bus.",
+        "tatoeba_id": 198206
+      },
+      {
+        "ja": "そこにいたのはせいぜい５０人だ。",
+        "en": "There were barely fifty people there.",
+        "tatoeba_id": 213700
+      }
+    ]
   },
   {
     "id": "105df79571",
@@ -9047,16 +9176,19 @@
       "pn"
     ],
     "jmdict_id": 1006780,
+    "other_forms": [
+      "其方"
+    ],
     "examples": [
       {
-        "ja": "そちらへ電話させましょうか。",
-        "en": "Shall I have him call you?",
-        "tatoeba_id": 213471
+        "ja": "これとそちらとの違いは何だい。",
+        "en": "What is the difference between this and that?",
+        "tatoeba_id": 218744
       },
       {
-        "ja": "そちらの天気はいかがですか。",
-        "en": "How's the weather there?",
-        "tatoeba_id": 213476
+        "ja": "そっちの生活はどうだい？",
+        "en": "How are things for you up there?",
+        "tatoeba_id": 213468
       }
     ]
   },
@@ -9194,7 +9326,22 @@
     "pos": [
       "pn"
     ],
-    "jmdict_id": 1006970
+    "jmdict_id": 1006970,
+    "other_forms": [
+      "其れ"
+    ],
+    "examples": [
+      {
+        "ja": "それが高1の時だから17年が経ちました。",
+        "en": "That was when I was in the first year at high school, so 17 years have passed since then.",
+        "tatoeba_id": 74146
+      },
+      {
+        "ja": "わたしはそれを見てぎょっとした。",
+        "en": "I was appalled at the sight.",
+        "tatoeba_id": 191835
+      }
+    ]
   },
   {
     "id": "799b7cabe0",
@@ -10155,6 +10302,10 @@
       "adv"
     ],
     "jmdict_id": 1427340,
+    "other_forms": [
+      "丁度",
+      "恰度"
+    ],
     "examples": [
       {
         "ja": "ちょうど食べたかったものでした。",
@@ -10162,9 +10313,9 @@
         "tatoeba_id": 202896
       },
       {
-        "ja": "バスはちょうど出たところだった。",
-        "en": "The bus has just left.",
-        "tatoeba_id": 9953034
+        "ja": "ちょうどチェックインするところです。",
+        "en": "I'm just about to check in.",
+        "tatoeba_id": 202931
       }
     ]
   },
@@ -10181,16 +10332,19 @@
       "adv"
     ],
     "jmdict_id": 1163940,
+    "other_forms": [
+      "一寸"
+    ],
     "examples": [
+      {
+        "ja": "ちょっと、そこのきみ！",
+        "en": "Hey, you there!",
+        "tatoeba_id": 74695
+      },
       {
         "ja": "もうほんのちょっと気をつけねば。",
         "en": "You should be a thought more careful.",
         "tatoeba_id": 194363
-      },
-      {
-        "ja": "ところで、ちょっと話があるんだ。",
-        "en": "By the way, I have something to tell you.",
-        "tatoeba_id": 200863
       }
     ]
   },
@@ -11081,6 +11235,9 @@
       "adv"
     ],
     "jmdict_id": 1466940,
+    "other_forms": [
+      "如何して"
+    ],
     "examples": [
       {
         "ja": "どうしてあなたは一人になったの？",
@@ -11088,9 +11245,9 @@
         "tatoeba_id": 201572
       },
       {
-        "ja": "どうしてにゃんにゃんしているの？",
-        "en": "Why are you meowing?",
-        "tatoeba_id": 1531519
+        "ja": "どうしてスペイン語を学ぶのですか。",
+        "en": "What do you learn Spanish for?",
+        "tatoeba_id": 201551
       }
     ]
   },
@@ -11430,6 +11587,9 @@
       "pn"
     ],
     "jmdict_id": 1189360,
+    "other_forms": [
+      "何方"
+    ],
     "examples": [
       {
         "ja": "二つのうちでどちらが高いですか。",
@@ -11482,16 +11642,19 @@
       "adv"
     ],
     "jmdict_id": 1008630,
+    "other_forms": [
+      "迚も"
+    ],
     "examples": [
       {
-        "ja": "それらはとても大きなりんごです。",
-        "en": "They are very big apples.",
-        "tatoeba_id": 204722
+        "ja": "この雨の中を外出することはとてもできないことです。",
+        "en": "Going out in this rain is out of the question.",
+        "tatoeba_id": 222938
       },
       {
-        "ja": "スケートはとてもおもしろかった。",
-        "en": "We had a lot of fun skating.",
-        "tatoeba_id": 214743
+        "ja": "「これはとてもおもしろそうだね」とひろしが言います。",
+        "en": "\"This looks pretty interesting,\" Hiroshi says.",
+        "tatoeba_id": 4925
       }
     ]
   },
@@ -11560,7 +11723,22 @@
     "pos": [
       "adj-pn"
     ],
-    "jmdict_id": 1920240
+    "jmdict_id": 1920240,
+    "other_forms": [
+      "何の"
+    ],
+    "examples": [
+      {
+        "ja": "これはほかのどの木よりも高い。",
+        "en": "This is taller than any other tree.",
+        "tatoeba_id": 218528
+      },
+      {
+        "ja": "あなたはどのＣＤを聞きたいですか。",
+        "en": "Which CD do you want to listen to?",
+        "tatoeba_id": 232473
+      }
+    ]
   },
   {
     "id": "397b682fa7",
@@ -16740,7 +16918,22 @@
       "v5r",
       "vt"
     ],
-    "jmdict_id": 1012980
+    "jmdict_id": 1012980,
+    "other_forms": [
+      "遣る"
+    ],
+    "examples": [
+      {
+        "ja": "サイン書いてやってもいいぞ。",
+        "en": "I can give you an autograph if you want.",
+        "tatoeba_id": 430482
+      },
+      {
+        "ja": "５ドルをやる。",
+        "en": "Here's $5.",
+        "tatoeba_id": 235161
+      }
+    ]
   },
   {
     "id": "285b008622",

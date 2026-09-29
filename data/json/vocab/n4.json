@@ -1980,7 +1980,8 @@
     ],
     "jmdict_id": 1001640,
     "other_forms": [
-      "お陰"
+      "お陰",
+      "お蔭"
     ],
     "examples": [
       {
@@ -4260,16 +4261,19 @@
       "adv"
     ],
     "jmdict_id": 1003430,
+    "other_forms": [
+      "屹度"
+    ],
     "examples": [
+      {
+        "ja": "でもよー、オラのおとうさんは良い気しねーよ、きっと。",
+        "en": "But I don't think Dad would like me to.",
+        "tatoeba_id": 202091
+      },
       {
         "ja": "きっと今日テストがあるでしょう。",
         "en": "I bet we'll have a test today.",
         "tatoeba_id": 226018
-      },
-      {
-        "ja": "きっと別のやり方もあるはずだよ。",
-        "en": "There has to be another way to do this.",
-        "tatoeba_id": 2746980
       }
     ]
   },
@@ -4930,16 +4934,19 @@
       "vt"
     ],
     "jmdict_id": 1269130,
+    "other_forms": [
+      "呉れる"
+    ],
     "examples": [
       {
-        "ja": "何をやってみせてくれるのかしら？",
-        "en": "I wonder what they have in store for us under the big top?",
-        "tatoeba_id": 187580
+        "ja": "友達がはがきをくれるように私に頼んだ。",
+        "en": "A friend of mine asked me to send her a postcard.",
+        "tatoeba_id": 79331
       },
       {
-        "ja": "あなたのアルバムを見せてくれる？",
-        "en": "Will you show me your album?",
-        "tatoeba_id": 233642
+        "ja": "時間通りに行かなければならないから、明日は待たさないでくれよ。",
+        "en": "We have to be there on time, so don't stand me up tomorrow!",
+        "tatoeba_id": 150527
       }
     ]
   },
@@ -6112,7 +6119,8 @@
     ],
     "jmdict_id": 1369900,
     "other_forms": [
-      "ゴミ"
+      "ゴミ",
+      "塵"
     ],
     "examples": [
       {
@@ -7262,16 +7270,19 @@
       "vs"
     ],
     "jmdict_id": 1594400,
+    "other_forms": [
+      "確り"
+    ],
     "examples": [
+      {
+        "ja": "君にはもっとしっかり仕事をしてもらいたい。",
+        "en": "I want you to work harder.",
+        "tatoeba_id": 178641
+      },
       {
         "ja": "ラケットをしっかりにぎりなさい。",
         "en": "Hold the racket tight.",
         "tatoeba_id": 192637
-      },
-      {
-        "ja": "この木にしっかりつかまりなさい。",
-        "en": "Hold fast to this tree.",
-        "tatoeba_id": 219456
       }
     ]
   },
@@ -8639,6 +8650,9 @@
       "vt"
     ],
     "jmdict_id": 1322320,
+    "other_forms": [
+      "棄てる"
+    ],
     "examples": [
       {
         "ja": "そんな計画は捨ててしまいなさい。",
@@ -8717,16 +8731,19 @@
       "adj-i"
     ],
     "jmdict_id": 1397300,
+    "other_forms": [
+      "素晴らしい"
+    ],
     "examples": [
+      {
+        "ja": "その日は実にすばらしい日だった。",
+        "en": "It was a really beautiful day.",
+        "tatoeba_id": 207334
+      },
       {
         "ja": "なんてすばらしい家族なんだろう。",
         "en": "What a wonderful family.",
         "tatoeba_id": 198928
-      },
-      {
-        "ja": "すばらしいアイデアがうかんだよ。",
-        "en": "I've got a splendid idea.",
-        "tatoeba_id": 214570
       }
     ]
   },
@@ -8825,7 +8842,22 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1567450
+    "jmdict_id": 1567450,
+    "other_forms": [
+      "掏摸"
+    ],
+    "examples": [
+      {
+        "ja": "すりは人ごみの中に消えた。",
+        "en": "The pickpocket disappeared into the crowd.",
+        "tatoeba_id": 214107
+      },
+      {
+        "ja": "私の兄は電車の中でスリにあった。",
+        "en": "My brother had his pocket picked in the train.",
+        "tatoeba_id": 163785
+      }
+    ]
   },
   {
     "id": "416c1b3679",
@@ -9439,16 +9471,19 @@
       "conj"
     ],
     "jmdict_id": 1007000,
+    "other_forms": [
+      "其れで"
+    ],
     "examples": [
       {
-        "ja": "それでは音楽をお楽しみください。",
-        "en": "Now let me entertain you with music.",
-        "tatoeba_id": 205764
+        "ja": "それで、その金はどこから出るんだよ？",
+        "en": "And where is the money coming from?",
+        "tatoeba_id": 205786
       },
       {
-        "ja": "それで何をしようとしているの？",
-        "en": "And what are we going to do?",
-        "tatoeba_id": 5113
+        "ja": "試験に通ったよ。それで、特待生になるんだ。",
+        "en": "I passed the examination, and I'm going to be an honor student.",
+        "tatoeba_id": 151105
       }
     ]
   },
@@ -9465,16 +9500,19 @@
       "conj"
     ],
     "jmdict_id": 1007040,
+    "other_forms": [
+      "其れに"
+    ],
     "examples": [
       {
-        "ja": "私はそれについてはよく知らない。",
-        "en": "I am not certain about that.",
-        "tatoeba_id": 159761
+        "ja": "それに、みんなに仲間もできるしね。",
+        "en": "And, we get each other's company to boot.",
+        "tatoeba_id": 205709
       },
       {
-        "ja": "もう一度それにトライしてみたら。",
-        "en": "Why don't you give it another try?",
-        "tatoeba_id": 194328
+        "ja": "それにもっと水をたしなさい。",
+        "en": "Add more water to it.",
+        "tatoeba_id": 205647
       }
     ]
   },
@@ -10440,16 +10478,19 @@
       "adv"
     ],
     "jmdict_id": 1007560,
+    "other_forms": [
+      "些とも"
+    ],
     "examples": [
       {
-        "ja": "今はちっともうれしくない。",
-        "en": "I'm not in the least bit happy now.",
-        "tatoeba_id": 172674
+        "ja": "ちっとも気にしていない。",
+        "en": "I am not the least bit worried.",
+        "tatoeba_id": 202987
       },
       {
-        "ja": "しゃっくりがちっとも止まらないんだよ。",
-        "en": "My hiccups won't stop at all.",
-        "tatoeba_id": 1057273
+        "ja": "最近エリザベスにちっともあってない。",
+        "en": "I have not seen anything of Elizabeth lately.",
+        "tatoeba_id": 170722
       }
     ]
   },
@@ -12028,16 +12069,19 @@
       "vt"
     ],
     "jmdict_id": 1157090,
+    "other_forms": [
+      "為さる"
+    ],
     "examples": [
       {
-        "ja": "そうなさるのもごもっともです。",
-        "en": "You have every right to do that.",
-        "tatoeba_id": 3563138
+        "ja": "ステーキの焼き方はどうなさいますか。",
+        "en": "How would you like your steak?",
+        "tatoeba_id": 214623
       },
       {
-        "ja": "このお金をどうしようとなさるのですか。",
-        "en": "What are you going to do with this money?",
-        "tatoeba_id": 223947
+        "ja": "どうぞごゆっくりなさって下さい。",
+        "en": "Please make yourself at home.",
+        "tatoeba_id": 201333
       }
     ]
   },
@@ -14786,16 +14830,19 @@
       "n"
     ],
     "jmdict_id": 1364360,
+    "other_forms": [
+      "真面目"
+    ],
     "examples": [
+      {
+        "ja": "サムは仕事に関してまじめです。",
+        "en": "Sam is serious about his work.",
+        "tatoeba_id": 216718
+      },
       {
         "ja": "私のボーイフレンドはまじめに見えます。",
         "en": "My boyfriend seems serious.",
         "tatoeba_id": 164109
-      },
-      {
-        "ja": "トムは勉強にまじめでない。",
-        "en": "Tom is not serious about his studies.",
-        "tatoeba_id": 199811
       }
     ]
   },
@@ -15105,6 +15152,9 @@
       "vi"
     ],
     "jmdict_id": 1604550,
+    "other_forms": [
+      "見付かる"
+    ],
     "examples": [
       {
         "ja": "運悪く仕事が見つからなかった。",
@@ -15541,7 +15591,22 @@
     "pos": [
       "adv"
     ],
-    "jmdict_id": 1012500
+    "jmdict_id": 1012500,
+    "other_forms": [
+      "若し"
+    ],
+    "examples": [
+      {
+        "ja": "もし百万ドルあれば、どうしますか。",
+        "en": "What would you do if you had a million dollars?",
+        "tatoeba_id": 193464
+      },
+      {
+        "ja": "もし電話がなったら出てくれますか。",
+        "en": "If the telephone rings, can you answer it?",
+        "tatoeba_id": 193542
+      }
+    ]
   },
   {
     "id": "a695a20c52",
@@ -15586,8 +15651,7 @@
     ],
     "jmdict_id": 1293700,
     "other_forms": [
-      "最も",
-      "尤も"
+      "最も"
     ],
     "examples": [
       {
@@ -16405,6 +16469,9 @@
       "vi"
     ],
     "jmdict_id": 1218760,
+    "other_forms": [
+      "慶ぶ"
+    ],
     "examples": [
       {
         "ja": "喜んで質問に答えましょう。",

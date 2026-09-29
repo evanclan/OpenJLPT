@@ -2044,11 +2044,14 @@
       "n"
     ],
     "jmdict_id": 1541000,
+    "other_forms": [
+      "有りのまま"
+    ],
     "examples": [
       {
-        "ja": "ありのままの私を愛してほしいの。",
-        "en": "I want you to love me for who I am.",
-        "tatoeba_id": 2409473
+        "ja": "ありのままの事実を伝えることは難しい。",
+        "en": "It is difficult to tell the bare facts.",
+        "tatoeba_id": 229967
       },
       {
         "ja": "彼は事実をありのままに述べた。",
@@ -4428,7 +4431,8 @@
     ],
     "jmdict_id": 1587620,
     "other_forms": [
-      "嫌々"
+      "嫌々",
+      "厭々"
     ],
     "examples": [
       {
@@ -7205,16 +7209,14 @@
       "exp"
     ],
     "jmdict_id": 1178920,
+    "other_forms": [
+      "於いて"
+    ],
     "examples": [
       {
-        "ja": "彼を一人にしておいてやりなさい。",
-        "en": "Leave him alone.",
-        "tatoeba_id": 95926
-      },
-      {
-        "ja": "彼は私に席を取っておいてくれた。",
-        "en": "He kept a seat for me.",
-        "tatoeba_id": 106018
+        "ja": "ちょっとの時間、電話を切らないでおいて下さい。",
+        "en": "Hold on a moment, please.",
+        "tatoeba_id": 202810
       }
     ]
   },
@@ -7885,7 +7887,8 @@
     ],
     "jmdict_id": 2857913,
     "other_forms": [
-      "驕る"
+      "驕る",
+      "傲る"
     ],
     "examples": [
       {
@@ -8974,6 +8977,9 @@
       "n"
     ],
     "jmdict_id": 1694410,
+    "other_forms": [
+      "御負け"
+    ],
     "examples": [
       {
         "ja": "彼は若いし、おまけに、二枚目だ。",
@@ -9022,11 +9028,14 @@
       "n"
     ],
     "jmdict_id": 1270830,
+    "other_forms": [
+      "お襁褓"
+    ],
     "examples": [
       {
-        "ja": "ジョンは毎日、赤ちゃんのおむつを替えなといけないの。",
-        "en": "John has to change the baby's diapers every day.",
-        "tatoeba_id": 11508423
+        "ja": "ピーターは新しいオムツを必要としているのかもしれない。",
+        "en": "Peter may need a new diaper.",
+        "tatoeba_id": 197689
       }
     ]
   },
@@ -9090,7 +9099,10 @@
       "exp",
       "adj-pn"
     ],
-    "jmdict_id": 1589400
+    "jmdict_id": 1589400,
+    "other_forms": [
+      "重なる"
+    ]
   },
   {
     "id": "061df73f89",
@@ -12900,11 +12912,14 @@
       "adj-no"
     ],
     "jmdict_id": 1581210,
+    "other_forms": [
+      "嘗て"
+    ],
     "examples": [
       {
-        "ja": "彼はいまだかつてない偉大な人だ。",
-        "en": "He is the greatest man who has ever lived.",
-        "tatoeba_id": 114417
+        "ja": "彼女はかってその問題に直面した。",
+        "en": "She was at one time faced with the problem.",
+        "tatoeba_id": 93048
       },
       {
         "ja": "ここにかつて住んでいたのですか。",
@@ -13298,11 +13313,19 @@
       "vi"
     ],
     "jmdict_id": 1222350,
+    "other_forms": [
+      "気触れる"
+    ],
     "examples": [
       {
-        "ja": "触るとかぶれるよ。",
-        "en": "If you touch them, you'll get a rash.",
-        "tatoeba_id": 11029607
+        "ja": "ツタウルシにかぶれました。",
+        "en": "I got a rash from poison ivy.",
+        "tatoeba_id": 202579
+      },
+      {
+        "ja": "食器用洗剤で手がかぶれました。",
+        "en": "I got a rash on my hands from dishwasher detergent.",
+        "tatoeba_id": 145880
       }
     ]
   },
@@ -25521,7 +25544,8 @@
     ],
     "jmdict_id": 1194360,
     "other_forms": [
-      "炬燵"
+      "炬燵",
+      "火燵"
     ],
     "examples": [
       {
@@ -28165,7 +28189,22 @@
     "pos": [
       "adv"
     ],
-    "jmdict_id": 1565620
+    "jmdict_id": 1565620,
+    "other_forms": [
+      "嘸"
+    ],
+    "examples": [
+      {
+        "ja": "さぞショックだったでしょう。",
+        "en": "It must have been a shock to you.",
+        "tatoeba_id": 216821
+      },
+      {
+        "ja": "もし彼が死んだらさぞ悲しむだろう。",
+        "en": "I'll be deeply affected by his death.",
+        "tatoeba_id": 193517
+      }
+    ]
   },
   {
     "id": "398673bdbc",
@@ -28568,7 +28607,8 @@
     ],
     "jmdict_id": 1394760,
     "other_forms": [
-      "然程"
+      "然程",
+      "左程"
     ],
     "examples": [
       {
@@ -30011,6 +30051,9 @@
       "n"
     ],
     "jmdict_id": 1594160,
+    "other_forms": [
+      "為来り"
+    ],
     "examples": [
       {
         "ja": "彼はそのしきたりをよく知っている。",
@@ -42241,16 +42284,19 @@
       "pn"
     ],
     "jmdict_id": 1006720,
+    "other_forms": [
+      "其処ら"
+    ],
     "examples": [
       {
-        "ja": "１０００円かそこらで買えますよ。",
-        "en": "You can buy it for a thousand yen or so.",
-        "tatoeba_id": 236122
+        "ja": "彼女はそこらにいますか。",
+        "en": "Is she anywhere about?",
+        "tatoeba_id": 92630
       },
       {
-        "ja": "彼女は４０歳かそこらにちがいない。",
-        "en": "She must be forty or so.",
-        "tatoeba_id": 93532
+        "ja": "どんなに一生懸命英語を勉強しても、一年やそこらではマスターできない。",
+        "en": "No matter how hard you may study English, you cannot master it in a year or so.",
+        "tatoeba_id": 199546
       }
     ]
   },
@@ -42466,6 +42512,9 @@
       "n"
     ],
     "jmdict_id": 1204110,
+    "other_forms": [
+      "外方"
+    ],
     "examples": [
       {
         "ja": "彼は眉をひそめてそっぽをむいた。",
@@ -45007,6 +45056,35 @@
         "ja": "動詞には目的語をとらない自動詞と、目的語をとる他動詞があります。",
         "en": "With verbs there are intransitive verbs that don't take an object, and transitive verbs that do take an object.",
         "tatoeba_id": 75163
+      }
+    ]
+  },
+  {
+    "id": "cb1e6d49fa",
+    "word": "仮令",
+    "reading": "たとえ",
+    "romaji": "tatoe",
+    "meanings": [
+      "even if",
+      "if",
+      "though",
+      "although"
+    ],
+    "level": "N1",
+    "pos": [
+      "adv"
+    ],
+    "jmdict_id": 1597125,
+    "examples": [
+      {
+        "ja": "たとえ両親が反対しても私は留学したい。",
+        "en": "I want to study abroad, even if my parents are against it.",
+        "tatoeba_id": 203450
+      },
+      {
+        "ja": "たとえ雨が降っても、その試合は行われるだろう。",
+        "en": "The game will be played even if it rains.",
+        "tatoeba_id": 203527
       }
     ]
   },
@@ -55045,6 +55123,9 @@
       "adv"
     ],
     "jmdict_id": 1599150,
+    "other_forms": [
+      "取り分け"
+    ],
     "examples": [
       {
         "ja": "とりわけ子供たちは愛情を必要とする。",
@@ -55081,7 +55162,10 @@
       "v1",
       "vi"
     ],
-    "jmdict_id": 1599170
+    "jmdict_id": 1599170,
+    "other_forms": [
+      "蕩ける"
+    ]
   },
   {
     "id": "4fa38f27ac",
@@ -56146,7 +56230,8 @@
     ],
     "jmdict_id": 1571320,
     "other_forms": [
-      "舐める"
+      "舐める",
+      "嘗める"
     ],
     "examples": [
       {
@@ -56357,7 +56442,10 @@
     "pos": [
       "adv"
     ],
-    "jmdict_id": 1375630
+    "jmdict_id": 1375630,
+    "other_forms": [
+      "成る丈"
+    ]
   },
   {
     "id": "8d6d7688de",
@@ -56717,11 +56805,14 @@
       "n"
     ],
     "jmdict_id": 1533600,
+    "other_forms": [
+      "面皰"
+    ],
     "examples": [
       {
-        "ja": "オリヴァーはにきびに悩んでいる。",
-        "en": "Oliver has an acne problem.",
-        "tatoeba_id": 2499129
+        "ja": "ニキビが治りません。",
+        "en": "I can't get rid of my pimples.",
+        "tatoeba_id": 198796
       },
       {
         "ja": "彼女の顔はにきびだらけだ。",
@@ -60929,13 +61020,19 @@
     ],
     "jmdict_id": 1601030,
     "other_forms": [
-      "嵌まる"
+      "嵌まる",
+      "填まる"
     ],
     "examples": [
       {
         "ja": "彼女は編み物にはまっている。",
         "en": "She is absorbed in knitting.",
         "tatoeba_id": 87586
+      },
+      {
+        "ja": "車がぬかるみにはまって動けなくなった。",
+        "en": "The car got stuck in the mud.",
+        "tatoeba_id": 149138
       }
     ]
   },
@@ -61058,9 +61155,15 @@
     ],
     "jmdict_id": 1601320,
     "other_forms": [
-      "ばら撒く"
+      "ばら撒く",
+      "散蒔く"
     ],
     "examples": [
+      {
+        "ja": "ベンは悪意から私の噂をばらまいた。",
+        "en": "Ben spread a rumor about me out of malice.",
+        "tatoeba_id": 196618
+      },
       {
         "ja": "彼女は金をばらまくのが好きだった。",
         "en": "She liked throwing her money about.",
@@ -62584,6 +62687,9 @@
       "adj-na"
     ],
     "jmdict_id": 1010530,
+    "other_forms": [
+      "一向"
+    ],
     "examples": [
       {
         "ja": "彼はひたすら成功を望んで懸命に働く。",
@@ -62591,9 +62697,9 @@
         "tatoeba_id": 111172
       },
       {
-        "ja": "自分が遅刻したことを、ひたすら謝ったよ。",
-        "en": "I apologized profusely for my being late.",
-        "tatoeba_id": 10756630
+        "ja": "私はそれで一向に構いません。",
+        "en": "That's just fine with me.",
+        "tatoeba_id": 159764
       }
     ]
   },
@@ -65507,7 +65613,10 @@
       "adj-na",
       "n"
     ],
-    "jmdict_id": 1602810
+    "jmdict_id": 1602810,
+    "other_forms": [
+      "不便"
+    ]
   },
   {
     "id": "393877926f",
@@ -69548,16 +69657,19 @@
       "adj-pn"
     ],
     "jmdict_id": 1011740,
+    "other_forms": [
+      "本の"
+    ],
     "examples": [
+      {
+        "ja": "クリスマスはほんの２週間先です。",
+        "en": "Christmas is only two weeks off.",
+        "tatoeba_id": 225465
+      },
       {
         "ja": "何だ、まだほんの子供じゃないか。",
         "en": "Say, he is no more than a kid.",
         "tatoeba_id": 187859
-      },
-      {
-        "ja": "もうほんのちょっと気をつけねば。",
-        "en": "You should be a thought more careful.",
-        "tatoeba_id": 194363
       }
     ]
   },
@@ -70358,16 +70470,19 @@
       "adv"
     ],
     "jmdict_id": 1237470,
+    "other_forms": [
+      "況して"
+    ],
     "examples": [
       {
-        "ja": "悲しい時は友達が励ましてくれる。",
-        "en": "When I'm sad, my friends encourage me.",
-        "tatoeba_id": 85965
+        "ja": "メアリーはフランス語を読むことさえできない、まして話すことはできない。",
+        "en": "Mary can't even read French, much less speak it.",
+        "tatoeba_id": 194790
       },
       {
-        "ja": "道でばったり彼女に会いましてね。",
-        "en": "I just ran into her on the street.",
-        "tatoeba_id": 123619
+        "ja": "彼は浮くことさえできない。まして泳げない。",
+        "en": "He can't even float let alone swim.",
+        "tatoeba_id": 100418
       }
     ]
   },
@@ -70663,16 +70778,19 @@
       "n"
     ],
     "jmdict_id": 1604010,
+    "other_forms": [
+      "区々"
+    ],
     "examples": [
-      {
-        "ja": "今日の東京市場の株価はまちまちだった。",
-        "en": "Stock prices were mixed on the Tokyo market today.",
-        "tatoeba_id": 171852
-      },
       {
         "ja": "その件について彼らの意見はまちまちだ。",
         "en": "Their views vary on the subject.",
         "tatoeba_id": 211074
+      },
+      {
+        "ja": "今日の東京市場の株価はまちまちだった。",
+        "en": "Stock prices were mixed on the Tokyo market today.",
+        "tatoeba_id": 171852
       }
     ]
   },
@@ -70784,6 +70902,9 @@
       "n"
     ],
     "jmdict_id": 1440920,
+    "other_forms": [
+      "纏め"
+    ],
     "examples": [
       {
         "ja": "クラスをまとめるのが君の役目だ。",
@@ -74061,7 +74182,22 @@
       "v5k",
       "vi"
     ],
-    "jmdict_id": 1012490
+    "jmdict_id": 1012490,
+    "other_forms": [
+      "藻掻く"
+    ],
+    "examples": [
+      {
+        "ja": "その動物は檻から出ようともがいた。",
+        "en": "The animal struggled to get out of the cage.",
+        "tatoeba_id": 207445
+      },
+      {
+        "ja": "彼女は立ちあがろうと、もがいた。",
+        "en": "She struggled to get up.",
+        "tatoeba_id": 86307
+      }
+    ]
   },
   {
     "id": "303fa096e1",
@@ -74183,16 +74319,19 @@
       "adv"
     ],
     "jmdict_id": 1012520,
+    "other_forms": [
+      "若しかして"
+    ],
     "examples": [
       {
-        "ja": "もしかして、私のこと怖がってる？",
-        "en": "Are you, by any chance, afraid of me?",
-        "tatoeba_id": 2976607
+        "ja": "ああ、もしかして名前を呼ばれるのが恥ずかしいって？",
+        "en": "Ah, could it be you're embarrassed to be called by your first name?",
+        "tatoeba_id": 76927
       },
       {
-        "ja": "もしかして今日もお仕事ですか？",
-        "en": "Do you also go to work today, by any chance?",
-        "tatoeba_id": 369486
+        "ja": "もしかしてあなたのタイプ貸してもらえるかしら。",
+        "en": "Is there any chance of my borrowing your typewriter?",
+        "tatoeba_id": 193879
       }
     ]
   },
@@ -74388,11 +74527,19 @@
       "vt"
     ],
     "jmdict_id": 1315740,
+    "other_forms": [
+      "持て成す"
+    ],
     "examples": [
       {
-        "ja": "彼女は誰を招いても厚くもてなす。",
-        "en": "Whomsoever she invites, she is quite hospitable.",
-        "tatoeba_id": 87962
+        "ja": "主人はパーティーで私達をもてなしてくれた。",
+        "en": "The host entertained us at the party.",
+        "tatoeba_id": 148704
+      },
+      {
+        "ja": "僕は彼女の家族を大いにもてなしたよ。",
+        "en": "I made a fuss of her family.",
+        "tatoeba_id": 81776
       }
     ]
   },
@@ -77212,6 +77359,9 @@
       "conj"
     ],
     "jmdict_id": 1605970,
+    "other_forms": [
+      "依って"
+    ],
     "examples": [
       {
         "ja": "「帰ろ」「マックよってかない？」",
@@ -79510,16 +79660,19 @@
       "adv"
     ],
     "jmdict_id": 1606710,
+    "other_forms": [
+      "態々"
+    ],
     "examples": [
       {
-        "ja": "彼はわざわざ家まで送ってくれた。",
-        "en": "He kindly took the trouble to send me home.",
-        "tatoeba_id": 110259
+        "ja": "わざわざおいでにならなくて結構です。",
+        "en": "Don't bother to come to my house.",
+        "tatoeba_id": 191995
       },
       {
-        "ja": "彼はわざわざ私を手伝ってくれた。",
-        "en": "He went out of his way to assist me.",
-        "tatoeba_id": 110262
+        "ja": "彼はわざわざ髪にくしをかけたりしない。",
+        "en": "He doesn't bother to comb his hair.",
+        "tatoeba_id": 110261
       }
     ]
   },

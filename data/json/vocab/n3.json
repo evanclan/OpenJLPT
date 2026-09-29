@@ -661,16 +661,19 @@
       "vs"
     ],
     "jmdict_id": 1612620,
+    "other_forms": [
+      "彼方此方"
+    ],
     "examples": [
+      {
+        "ja": "本が部屋のあちこちに散らばっていた。",
+        "en": "There were books lying about the room.",
+        "tatoeba_id": 81665
+      },
       {
         "ja": "彼女は地球のあちこちを旅行した。",
         "en": "She has traveled all over the globe.",
         "tatoeba_id": 87934
-      },
-      {
-        "ja": "彼はあちこちに行ったことがある。",
-        "en": "He has been to many places.",
-        "tatoeba_id": 114952
       }
     ]
   },
@@ -986,6 +989,9 @@
       "adj-pn"
     ],
     "jmdict_id": 1586780,
+    "other_forms": [
+      "凡ゆる"
+    ],
     "examples": [
       {
         "ja": "私はあらゆる言論の自由に賛成だ。",
@@ -2141,6 +2147,9 @@
       "vi"
     ],
     "jmdict_id": 1587310,
+    "other_forms": [
+      "位地"
+    ],
     "examples": [
       {
         "ja": "私はパレードが見えるいい位置にいた。",
@@ -8473,16 +8482,14 @@
       "n"
     ],
     "jmdict_id": 1590740,
+    "other_forms": [
+      "可哀想"
+    ],
     "examples": [
       {
-        "ja": "トムをかわいそうだとは思わない。",
-        "en": "I don't feel sorry for Tom.",
-        "tatoeba_id": 2073817
-      },
-      {
-        "ja": "私はその少年をかわいそうに思った。",
-        "en": "I felt sorry for the boy.",
-        "tatoeba_id": 160020
+        "ja": "彼女は可哀想に思って、その子達の面倒をみた。",
+        "en": "She cared for the children out of charity.",
+        "tatoeba_id": 95500
       }
     ]
   },
@@ -15786,13 +15793,19 @@
     ],
     "jmdict_id": 1004830,
     "other_forms": [
-      "これ等"
+      "これ等",
+      "此れ等"
     ],
     "examples": [
       {
-        "ja": "これらのコメントから判断すると、この文は直した方がよさそうね。",
-        "en": "Judging from these comments, it would seem that this sentence should be corrected.",
-        "tatoeba_id": 218950
+        "ja": "これらのクッキーは星の形をしている。",
+        "en": "These cookies are star-shaped.",
+        "tatoeba_id": 217990
+      },
+      {
+        "ja": "これらは子供によくある病気です。",
+        "en": "These are common diseases of children.",
+        "tatoeba_id": 217717
       }
     ]
   },
@@ -17088,7 +17101,10 @@
       "conj",
       "int"
     ],
-    "jmdict_id": 1585460
+    "jmdict_id": 1585460,
+    "other_forms": [
+      "偖"
+    ]
   },
   {
     "id": "66c155bf9f",
@@ -17723,6 +17739,9 @@
       "conj"
     ],
     "jmdict_id": 1506050,
+    "other_forms": [
+      "而も"
+    ],
     "examples": [
       {
         "ja": "それは作りやすいし、しかも安い。",
@@ -19125,16 +19144,19 @@
       "v5u"
     ],
     "jmdict_id": 1305380,
+    "other_forms": [
+      "仕舞う"
+    ],
     "examples": [
       {
-        "ja": "彼らは明日飛行機で行ってしまう。",
-        "en": "They are going off by plane tomorrow.",
-        "tatoeba_id": 96104
+        "ja": "やってしまったことは元に戻らない。",
+        "en": "What is done cannot be undone.",
+        "tatoeba_id": 193096
       },
       {
-        "ja": "彼には思わず説得されてしまうよ。",
-        "en": "He persuades you in spite of yourself.",
-        "tatoeba_id": 118841
+        "ja": "本とノートをしまいなさい。",
+        "en": "Put away your books and notebooks.",
+        "tatoeba_id": 81664
       }
     ]
   },
@@ -23319,6 +23341,9 @@
       "adj-na"
     ],
     "jmdict_id": 1397350,
+    "other_forms": [
+      "素敵"
+    ],
     "examples": [
       {
         "ja": "彼らはすてきな家を持っている。",
@@ -23513,7 +23538,22 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1610040
+    "jmdict_id": 1610040,
+    "other_forms": [
+      "所為"
+    ],
+    "examples": [
+      {
+        "ja": "あなたの頭痛は過労のせいだ。",
+        "en": "Your headache comes from overwork.",
+        "tatoeba_id": 233064
+      },
+      {
+        "ja": "彼は失敗を弟のせいだと非難した。",
+        "en": "He blamed the failure on his brother.",
+        "tatoeba_id": 104749
+      }
+    ]
   },
   {
     "id": "cde24ec2dd",
@@ -25301,16 +25341,19 @@
       "conj"
     ],
     "jmdict_id": 1406090,
+    "other_forms": [
+      "其処で"
+    ],
     "examples": [
       {
-        "ja": "二本の道はそこでクロスしている。",
-        "en": "The two roads cross there.",
-        "tatoeba_id": 75827
+        "ja": "そこで他人との相互作用が大切になる。",
+        "en": "Then interaction with others becomes important.",
+        "tatoeba_id": 213715
       },
       {
-        "ja": "彼らはそこで幸せな生活を送った。",
-        "en": "They lived a happy life there.",
-        "tatoeba_id": 98007
+        "ja": "そして、そこでその男は入ってきました。",
+        "en": "And so the man came in.",
+        "tatoeba_id": 213552
       }
     ]
   },
@@ -25360,6 +25403,9 @@
       "conj"
     ],
     "jmdict_id": 1006730,
+    "other_forms": [
+      "然して"
+    ],
     "examples": [
       {
         "ja": "そして世はこの方によって造られた。",
@@ -25530,6 +25576,9 @@
       "vt"
     ],
     "jmdict_id": 1244960,
+    "other_forms": [
+      "具える"
+    ],
     "examples": [
       {
         "ja": "このビルは非常階段を備えている。",
@@ -25713,16 +25762,19 @@
       "conj"
     ],
     "jmdict_id": 1406060,
+    "other_forms": [
+      "其れでも"
+    ],
     "examples": [
       {
-        "ja": "それでも、そこに行ってみたい。",
-        "en": "Nevertheless, I want to go there.",
-        "tatoeba_id": 11619795
+        "ja": "それでもそれはやはり本当だ。",
+        "en": "It is none the less true.",
+        "tatoeba_id": 205747
       },
       {
-        "ja": "私はそれでもかまいませんよ。",
-        "en": "That sounds good to me.",
-        "tatoeba_id": 159765
+        "ja": "それでも、おまえは人間だ。",
+        "en": "Even so, you are a human.",
+        "tatoeba_id": 425538
       }
     ]
   },
@@ -27091,7 +27143,23 @@
       "adj-no",
       "n"
     ],
-    "jmdict_id": 1538900
+    "jmdict_id": 1538900,
+    "other_forms": [
+      "唯",
+      "只"
+    ],
+    "examples": [
+      {
+        "ja": "私はその切符をただで手にいれた。",
+        "en": "I got the ticket for nothing.",
+        "tatoeba_id": 159998
+      },
+      {
+        "ja": "君はただ皿を洗いさえすればいい。",
+        "en": "All you have to do is wash the dishes.",
+        "tatoeba_id": 177669
+      }
+    ]
   },
   {
     "id": "900eaa8fd0",
@@ -27708,16 +27776,19 @@
       "adv"
     ],
     "jmdict_id": 1597180,
+    "other_forms": [
+      "偶々"
+    ],
     "examples": [
+      {
+        "ja": "通りを歩いていたとき、私はたまたま旧友に出会った。",
+        "en": "Walking along the street, I happened to meet my old friend.",
+        "tatoeba_id": 125599
+      },
       {
         "ja": "私達はたまたま同じ列車に乗った。",
         "en": "We happened to take the same train.",
         "tatoeba_id": 151746
-      },
-      {
-        "ja": "私達はたまたま駅で出会ったんだ。",
-        "en": "We happened to meet at the station.",
-        "tatoeba_id": 151748
       }
     ]
   },
@@ -31457,16 +31528,19 @@
       "adv"
     ],
     "jmdict_id": 1466950,
+    "other_forms": [
+      "如何しても"
+    ],
     "examples": [
+      {
+        "ja": "残念ですが、あなたの名前をどうしても覚えられない。",
+        "en": "I'm sorry to say I don't remember your name.",
+        "tatoeba_id": 149573
+      },
       {
         "ja": "彼はどうしても言葉が出なかった。",
         "en": "Words failed him.",
         "tatoeba_id": 111727
-      },
-      {
-        "ja": "私はどうしても歌手になりたいの。",
-        "en": "I wish to be a singer come what may.",
-        "tatoeba_id": 159363
       }
     ]
   },
@@ -32053,16 +32127,19 @@
       "adv"
     ],
     "jmdict_id": 1189000,
+    "other_forms": [
+      "何処か"
+    ],
     "examples": [
       {
-        "ja": "彼女はどこか他に買い物に行った。",
-        "en": "She went shopping elsewhere.",
-        "tatoeba_id": 91991
+        "ja": "夏休みにどこかへ行きましたか。",
+        "en": "Did you go anywhere during the summer vacation?",
+        "tatoeba_id": 187188
       },
       {
-        "ja": "彼女はどこかであったことがある。",
-        "en": "I remember meeting her somewhere.",
-        "tatoeba_id": 91997
+        "ja": "どこかおかしいと一目で私にはわかりました。",
+        "en": "I could tell at a glance that something was wrong.",
+        "tatoeba_id": 201044
       }
     ]
   },
@@ -32451,16 +32528,19 @@
       "adv"
     ],
     "jmdict_id": 1443990,
+    "other_forms": [
+      "兎に角"
+    ],
     "examples": [
+      {
+        "ja": "とにかく、試験が終わってほっとしたよ。",
+        "en": "Anyhow, I'm relieved the test is over.",
+        "tatoeba_id": 200472
+      },
       {
         "ja": "とにかく来てくださればうれしい。",
         "en": "At any rate, I hope you can come.",
         "tatoeba_id": 200436
-      },
-      {
-        "ja": "とにかくその問題を解いてみよう。",
-        "en": "I will try to solve the problem at any rate.",
-        "tatoeba_id": 200463
       }
     ]
   },
@@ -37219,6 +37299,9 @@
       "adv"
     ],
     "jmdict_id": 1226360,
+    "other_forms": [
+      "吃驚"
+    ],
     "examples": [
       {
         "ja": "彼はびっくりして彼女を見つめた。",
@@ -38895,7 +38978,22 @@
     "pos": [
       "adv"
     ],
-    "jmdict_id": 1493240
+    "jmdict_id": 1493240,
+    "other_forms": [
+      "不図"
+    ],
+    "examples": [
+      {
+        "ja": "彼はそれを見るとふと魔がさして盗んだ。",
+        "en": "The sight tempted him to steal.",
+        "tatoeba_id": 112184
+      },
+      {
+        "ja": "良い考えが彼の頭にふと浮かんだ。",
+        "en": "A good idea crossed his mind.",
+        "tatoeba_id": 77880
+      }
+    ]
   },
   {
     "id": "144ace6a3f",
@@ -41335,16 +41433,19 @@
       "adv"
     ],
     "jmdict_id": 1216280,
+    "other_forms": [
+      "丸で"
+    ],
     "examples": [
       {
-        "ja": "彼女は私の計画にはまるで反対だ。",
-        "en": "She has a strong objection to my plan.",
-        "tatoeba_id": 89398
+        "ja": "まるで夢を見ているようだよ。",
+        "en": "I feel as if I were dreaming.",
+        "tatoeba_id": 158843
       },
       {
-        "ja": "まるで月面を歩いているみたいだ。",
-        "en": "It's just like walking on the moon.",
-        "tatoeba_id": 195147
+        "ja": "ぼくにはまるでその理由がわからない。",
+        "en": "I have no idea why it is so.",
+        "tatoeba_id": 196390
       }
     ]
   },
@@ -42936,16 +43037,19 @@
       "adv"
     ],
     "jmdict_id": 1612050,
+    "other_forms": [
+      "若しも"
+    ],
     "examples": [
       {
-        "ja": "もしもし、こちらはマイクです。",
-        "en": "Hello, this is Mike.",
-        "tatoeba_id": 193812
+        "ja": "もしも私が生まれ変わるなら、鳥になりたい。",
+        "en": "If I were to be reborn, I would like to be a bird.",
+        "tatoeba_id": 193787
       },
       {
-        "ja": "もしも、職を失ったらどうする？",
-        "en": "What would you do if you lost your job?",
-        "tatoeba_id": 10287376
+        "ja": "もしも別の方法でお手伝いできることがありましたら、ご連絡ください。",
+        "en": "Please let us know if we can be of help in other ways.",
+        "tatoeba_id": 193818
       }
     ]
   },
@@ -43003,6 +43107,36 @@
         "ja": "文の初めには大文字が用いられる。",
         "en": "A capital letter is used at the beginning of a sentence.",
         "tatoeba_id": 83692
+      }
+    ]
+  },
+  {
+    "id": "779c980843",
+    "word": "尤も",
+    "reading": "もっとも",
+    "romaji": "mottomo",
+    "meanings": [
+      "quite right",
+      "plausible",
+      "natural",
+      "but then",
+      "although"
+    ],
+    "level": "N3",
+    "pos": [
+      "conj"
+    ],
+    "jmdict_id": 1535810,
+    "examples": [
+      {
+        "ja": "彼が仕事を辞めるのももっともだ。",
+        "en": "He has every reason to quit his job.",
+        "tatoeba_id": 120323
+      },
+      {
+        "ja": "彼がそうするのももっともだった。",
+        "en": "He had every reason for doing so.",
+        "tatoeba_id": 120950
       }
     ]
   },
@@ -43358,16 +43492,19 @@
       "adv"
     ],
     "jmdict_id": 1012730,
+    "other_forms": [
+      "軈て"
+    ],
     "examples": [
       {
-        "ja": "彼はやがてその事実をしるだろう。",
-        "en": "He will learn the facts in the course of time.",
-        "tatoeba_id": 110520
+        "ja": "やがて彼はその事件のことを忘れた。",
+        "en": "By and by he forgot that affair.",
+        "tatoeba_id": 193117
       },
       {
-        "ja": "やがて事件の真相がわかるころだ。",
-        "en": "It will not be long before we can know the truth of the matter.",
-        "tatoeba_id": 193123
+        "ja": "私たちはやがてまたあなたにお目にかかるでしょう。",
+        "en": "We will be seeing you again before long.",
+        "tatoeba_id": 166134
       }
     ]
   },
@@ -43669,7 +43806,22 @@
       "adv",
       "adj-f"
     ],
-    "jmdict_id": 1570120
+    "jmdict_id": 1570120,
+    "other_forms": [
+      "稍"
+    ],
+    "examples": [
+      {
+        "ja": "中古車にしてはこの値段はやや高い。",
+        "en": "The price is kind of high for a used car.",
+        "tatoeba_id": 126512
+      },
+      {
+        "ja": "この学校は規律がやや緩やかだ。",
+        "en": "Discipline is rather mild at this school.",
+        "tatoeba_id": 222599
+      }
+    ]
   },
   {
     "id": "ea7b6990d3",
@@ -45038,6 +45190,9 @@
       "n"
     ],
     "jmdict_id": 1606140,
+    "other_forms": [
+      "慶び"
+    ],
     "examples": [
       {
         "ja": "読書の喜びほど大きな喜びはない。",
@@ -46099,6 +46254,9 @@
       "adv"
     ],
     "jmdict_id": 1410760,
+    "other_forms": [
+      "態と"
+    ],
     "examples": [
       {
         "ja": "彼がわざとそうしたとも思えない。",
