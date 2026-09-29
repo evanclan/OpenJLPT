@@ -44,14 +44,14 @@
     "jmdict_id": 1400800,
     "examples": [
       {
-        "ja": "理論と実践は相伴うとは限らない。",
-        "en": "Theory and practice do not necessarily go together.",
-        "tatoeba_id": 78354
+        "ja": "彼の思想は時勢と相いれなかった。",
+        "en": "His ideas were out of harmony with the times.",
+        "tatoeba_id": 117203
       },
       {
-        "ja": "弁護士に相談しておくべきだった。",
-        "en": "You should have consulted your lawyer.",
-        "tatoeba_id": 83278
+        "ja": "彼はすぐに相づちを打った。",
+        "en": "He made a quick response.",
+        "tatoeba_id": 113441
       }
     ]
   },
@@ -126,14 +126,9 @@
     "jmdict_id": 1401100,
     "examples": [
       {
-        "ja": "相対性理論を理解する科学者は少ない。",
-        "en": "Few scientists understand the theory of relativity.",
-        "tatoeba_id": 140430
-      },
-      {
-        "ja": "「文化相対主義」とはどういう意味ですか。",
-        "en": "What do you mean by cultural relativism?",
-        "tatoeba_id": 236156
+        "ja": "このため、会談の席の配置では米国と相対して座る場所を求めた。",
+        "en": "So they sought a place such that the conference seating would have them facing the Americans.",
+        "tatoeba_id": 74588
       }
     ]
   },
@@ -293,32 +288,6 @@
     ]
   },
   {
-    "id": "b30e366866",
-    "word": "銅",
-    "reading": "あかがね",
-    "romaji": "akagane",
-    "meanings": [
-      "copper"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1582390,
-    "examples": [
-      {
-        "ja": "銅はよく電気を通す。",
-        "en": "Copper conducts electricity well.",
-        "tatoeba_id": 123494
-      },
-      {
-        "ja": "青銅は銅とすずから成り立っている。",
-        "en": "Bronze is composed of copper and tin.",
-        "tatoeba_id": 142559
-      }
-    ]
-  },
-  {
     "id": "ddb83d9881",
     "word": "証",
     "reading": "あかし",
@@ -403,31 +372,6 @@
     ]
   },
   {
-    "id": "cab6ea7801",
-    "word": "明白",
-    "reading": "あからさま",
-    "romaji": "akarasama",
-    "meanings": [
-      "obvious",
-      "overt",
-      "plainly",
-      "frankly"
-    ],
-    "level": "N1",
-    "pos": [
-      "adj-na",
-      "adj-no"
-    ],
-    "jmdict_id": 1000225,
-    "examples": [
-      {
-        "ja": "あからさまに言えば彼は嫌いだ。",
-        "en": "Frankly, I don't like him.",
-        "tatoeba_id": 234521
-      }
-    ]
-  },
-  {
     "id": "ff854ec90e",
     "word": "赤らむ",
     "reading": "あからむ",
@@ -489,36 +433,43 @@
     ]
   },
   {
-    "id": "2d334953d0",
-    "word": "商人",
-    "reading": "あきうど",
-    "romaji": "akiudo",
+    "id": "413c0dcc43",
+    "word": "上がる",
+    "reading": "あがる",
+    "romaji": "agaru",
     "meanings": [
-      "trader",
-      "shopkeeper",
-      "merchant"
+      "to enter",
+      "to go up",
+      "to rise",
+      "to climb up",
+      "to advance",
+      "to appreciate",
+      "to be promoted",
+      "to improve",
+      "to call on"
     ],
     "level": "N1",
     "pos": [
-      "n"
+      "v5r",
+      "vi"
     ],
-    "jmdict_id": 1580270,
+    "jmdict_id": 1352290,
     "examples": [
       {
-        "ja": "あの商人は絹織物を商う。",
-        "en": "The merchant deals in silk goods.",
-        "tatoeba_id": 230865
+        "ja": "明日それをいただきに上がります。",
+        "en": "I will call for it tomorrow.",
+        "tatoeba_id": 80598
       },
       {
-        "ja": "彼女は金持ちの商人と結婚した。",
-        "en": "She married a rich merchant.",
-        "tatoeba_id": 90392
+        "ja": "翌日、またバッテリーが上がってる。",
+        "en": "The next day the battery was flat again.",
+        "tatoeba_id": 78743
       }
     ]
   },
   {
-    "id": "5eddfdbe71",
-    "word": "空間",
+    "id": "61c572fca7",
+    "word": "空き間",
     "reading": "あきま",
     "romaji": "akima",
     "meanings": [
@@ -587,28 +538,6 @@
     ]
   },
   {
-    "id": "86a808ca3f",
-    "word": "灰",
-    "reading": "あく",
-    "romaji": "aku",
-    "meanings": [
-      "puckery juice"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "すべては燃えて灰となった。",
-        "en": "Everything was burnt to ashes.",
-        "tatoeba_id": 214381
-      },
-      {
-        "ja": "その古い家は焼けて灰になった。",
-        "en": "The old house was burned to ashes.",
-        "tatoeba_id": 210892
-      }
-    ]
-  },
-  {
     "id": "1acc5eb731",
     "word": "アクセル",
     "reading": "アクセル",
@@ -640,14 +569,14 @@
     "jmdict_id": 1000260,
     "examples": [
       {
+        "ja": "かなりあくどい事をしてきたそうだな。",
+        "en": "I hear you've done some pretty extreme stuff.",
+        "tatoeba_id": 76794
+      },
+      {
         "ja": "あくどい事をするな。",
         "en": "Don't do wicked things.",
         "tatoeba_id": 234503
-      },
-      {
-        "ja": "王女があくどい化粧をしていた。",
-        "en": "The princess was wearing too much makeup.",
-        "tatoeba_id": 76325
       }
     ]
   },
@@ -756,19 +685,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1524290,
-    "examples": [
-      {
-        "ja": "お宅の娘さん、麻薬やってますよ。",
-        "en": "Your daughter's on drugs.",
-        "tatoeba_id": 9280305
-      },
-      {
-        "ja": "麻薬なんて、ここにはありません。",
-        "en": "There are no drugs here.",
-        "tatoeba_id": 12057955
-      }
-    ]
+    "jmdict_id": 1524290
   },
   {
     "id": "13e5e36fd0",
@@ -1069,35 +986,6 @@
     ]
   },
   {
-    "id": "4758d8e921",
-    "word": "他人",
-    "reading": "あだびと",
-    "romaji": "adabito",
-    "meanings": [
-      "another person",
-      "unrelated person",
-      "outsider",
-      "stranger"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1581400,
-    "examples": [
-      {
-        "ja": "彼女はもっと他人の言うことを聞くべきだ。",
-        "en": "She should listen more to other people.",
-        "tatoeba_id": 91361
-      },
-      {
-        "ja": "彼は他人をばかにする傾向がある。",
-        "en": "He is apt to ridicule others.",
-        "tatoeba_id": 102608
-      }
-    ]
-  },
-  {
     "id": "e7ce133582",
     "word": "当たり",
     "reading": "あたり",
@@ -1324,6 +1212,35 @@
     ]
   },
   {
+    "id": "a5df889211",
+    "word": "集まる",
+    "reading": "あつまる",
+    "romaji": "atsumaru",
+    "meanings": [
+      "to gather",
+      "to collect",
+      "to assemble"
+    ],
+    "level": "N1",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1333550,
+    "examples": [
+      {
+        "ja": "私達は先生の前に集まった。",
+        "en": "We gathered around the teacher.",
+        "tatoeba_id": 151443
+      },
+      {
+        "ja": "通りに人がたくさん集まっている。",
+        "en": "There is a crowd of people on the street.",
+        "tatoeba_id": 125642
+      }
+    ]
+  },
+  {
     "id": "11fdbf024e",
     "word": "誂える",
     "reading": "あつらえる",
@@ -1484,19 +1401,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1383690,
-    "examples": [
-      {
-        "ja": "国王の長男は、王座の後継者である。",
-        "en": "The king's eldest son is the heir to the throne.",
-        "tatoeba_id": 173107
-      },
-      {
-        "ja": "彼の後継者についての問題はまだ論争中だ。",
-        "en": "The matter of his successor is still under debate.",
-        "tatoeba_id": 117480
-      }
-    ]
+    "jmdict_id": 1383690
   },
   {
     "id": "20b715b301",
@@ -1717,8 +1622,8 @@
     ]
   },
   {
-    "id": "3bb3492a08",
-    "word": "天つ",
+    "id": "4570b0ab6b",
+    "word": "天津",
     "reading": "あまつ",
     "romaji": "amatsu",
     "meanings": [
@@ -1729,10 +1634,7 @@
     "pos": [
       "adj-f"
     ],
-    "jmdict_id": 1438200,
-    "other_forms": [
-      "天"
-    ]
+    "jmdict_id": 1438200
   },
   {
     "id": "925a73e9ad",
@@ -1758,38 +1660,6 @@
         "ja": "彼女は網を張らないで綱渡りに挑んだ。",
         "en": "She dared to walk the tightrope without a net.",
         "tatoeba_id": 86538
-      }
-    ]
-  },
-  {
-    "id": "6046f61bb1",
-    "word": "天地",
-    "reading": "あめつち",
-    "romaji": "ametsuchi",
-    "meanings": [
-      "heaven and earth",
-      "the universe",
-      "nature",
-      "top and bottom",
-      "realm",
-      "sphere",
-      "world"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1582090,
-    "examples": [
-      {
-        "ja": "天地神明に誓って嘘ではありません。",
-        "en": "I'm not lying. I swear to God!",
-        "tatoeba_id": 125015
-      },
-      {
-        "ja": "この天地の間にはな、所謂哲学の思いも及ばぬ大事があるわい。",
-        "en": "There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.",
-        "tatoeba_id": 1649981
       }
     ]
   },
@@ -2269,6 +2139,11 @@
         "ja": "アルカリは酸を中和する。",
         "en": "Alkalis neutralize acids.",
         "tatoeba_id": 76887
+      },
+      {
+        "ja": "小学校のときから、酸性・アルカリ性という性質をリトマス紙で調べたりしてきていますね。",
+        "en": "Since primary school we've been checking for the qualities known as acidity and alkalinity with litmus paper.",
+        "tatoeba_id": 74266
       }
     ]
   },
@@ -2396,7 +2271,7 @@
     "reading": "アンケート",
     "romaji": "ankeeto",
     "meanings": [
-      "(fr:) (n) questionnaire (fr: enquete)",
+      "questionnaire (fr: enquete)",
       "survey"
     ],
     "level": "N1",
@@ -2604,28 +2479,6 @@
     ]
   },
   {
-    "id": "3224096e6a",
-    "word": "依",
-    "reading": "い",
-    "romaji": "i",
-    "meanings": [
-      "depending on"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "彼らは依頼に応じて見本を送った。",
-        "en": "They sent me a sample in answer to my request.",
-        "tatoeba_id": 97551
-      },
-      {
-        "ja": "日本は石油を外国に依存している。",
-        "en": "Japan depends on foreign countries for oil.",
-        "tatoeba_id": 122439
-      }
-    ]
-  },
-  {
     "id": "73a0f22579",
     "word": "いい加減",
     "reading": "いいかげん",
@@ -2732,32 +2585,6 @@
     ]
   },
   {
-    "id": "9534644f0b",
-    "word": "家主",
-    "reading": "いえぬし",
-    "romaji": "ienushi",
-    "meanings": [
-      "landlord"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1191990,
-    "examples": [
-      {
-        "ja": "家主は彼がドアを赤く塗ることを許してくれない。",
-        "en": "The landlord won't permit him to paint the door red.",
-        "tatoeba_id": 186959
-      },
-      {
-        "ja": "犯人は家主から１０万ドルを強奪して逃走した。",
-        "en": "The criminal robbed the landlord of a hundred thousand dollars and ran away.",
-        "tatoeba_id": 121208
-      }
-    ]
-  },
-  {
     "id": "5d8eead4ba",
     "word": "生かす",
     "reading": "いかす",
@@ -2857,29 +2684,6 @@
         "tatoeba_id": 114714
       }
     ]
-  },
-  {
-    "id": "27261823e9",
-    "word": "歪む",
-    "reading": "いがむ",
-    "romaji": "igamu",
-    "meanings": [
-      "to warp",
-      "to swerve",
-      "to deflect",
-      "to be crooked",
-      "to be distorted",
-      "to be bent",
-      "to incline",
-      "to slant",
-      "to be perverted"
-    ],
-    "level": "N1",
-    "pos": [
-      "v5m",
-      "vi"
-    ],
-    "jmdict_id": 1585360
   },
   {
     "id": "9b84f255df",
@@ -2990,14 +2794,7 @@
       "n",
       "adj-no"
     ],
-    "jmdict_id": 1160500,
-    "examples": [
-      {
-        "ja": "自分の領域外にある。",
-        "en": "It's outside my expertise.",
-        "tatoeba_id": 149751
-      }
-    ]
+    "jmdict_id": 1160500
   },
   {
     "id": "5ffd03b2a2",
@@ -3076,8 +2873,9 @@
     "reading": "いく",
     "romaji": "iku",
     "meanings": [
-      "to come",
-      "to orgasm"
+      "some",
+      "several",
+      "a few"
     ],
     "level": "N1",
     "pos": [
@@ -3563,10 +3361,10 @@
     ]
   },
   {
-    "id": "5403d8f4ee",
+    "id": "bd89f26551",
     "word": "依存",
-    "reading": "いそん",
-    "romaji": "ison",
+    "reading": "いぞん",
+    "romaji": "izon",
     "meanings": [
       "dependence",
       "dependent",
@@ -3580,6 +3378,9 @@
       "vi"
     ],
     "jmdict_id": 1575870,
+    "other_readings": [
+      "いそん"
+    ],
     "examples": [
       {
         "ja": "それはすべて天候に依存している。",
@@ -3800,37 +3601,6 @@
     ]
   },
   {
-    "id": "c37e701c35",
-    "word": "位地",
-    "reading": "いち",
-    "romaji": "ichi",
-    "meanings": [
-      "place",
-      "situation",
-      "position",
-      "location"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "jmdict_id": 1587310,
-    "examples": [
-      {
-        "ja": "私はパレードが見えるいい位置にいた。",
-        "en": "I was in a good position to see the parade.",
-        "tatoeba_id": 159088
-      },
-      {
-        "ja": "彼の事務所は町の中心部に位置している。",
-        "en": "His office is located in the center of the town.",
-        "tatoeba_id": 117134
-      }
-    ]
-  },
-  {
     "id": "2f38551629",
     "word": "一概に",
     "reading": "いちがいに",
@@ -3873,50 +3643,6 @@
         "tatoeba_id": 230567
       }
     ]
-  },
-  {
-    "id": "ed2f5da74e",
-    "word": "一言",
-    "reading": "いちげん",
-    "romaji": "ichigen",
-    "meanings": [
-      "single word"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "jmdict_id": 1575990,
-    "examples": [
-      {
-        "ja": "一言で言えば、彼は馬鹿だと思います。",
-        "en": "In a word, I think he's a fool.",
-        "tatoeba_id": 190654
-      },
-      {
-        "ja": "彼は私たちに一言も言わなかった。",
-        "en": "He did not say a word to us.",
-        "tatoeba_id": 106332
-      }
-    ]
-  },
-  {
-    "id": "5a2f0f6f34",
-    "word": "一日",
-    "reading": "いちじつ",
-    "romaji": "ichijitsu",
-    "meanings": [
-      "one day",
-      "first of month"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1576260
   },
   {
     "id": "1d578a6738",
@@ -4006,32 +3732,6 @@
         "ja": "彼の冗談が一同をどっと笑わせた。",
         "en": "His joke set the company off into a fit of laughter.",
         "tatoeba_id": 116906
-      }
-    ]
-  },
-  {
-    "id": "52554da879",
-    "word": "一人",
-    "reading": "いちにん",
-    "romaji": "ichinin",
-    "meanings": [
-      "one person"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1576150,
-    "examples": [
-      {
-        "ja": "私は一人の弟がいます。",
-        "en": "I have one brother.",
-        "tatoeba_id": 158458
-      },
-      {
-        "ja": "彼等は委員会に女性を一人加えた。",
-        "en": "They added a woman to the committee.",
-        "tatoeba_id": 86019
       }
     ]
   },
@@ -4283,14 +3983,14 @@
     "jmdict_id": 1161720,
     "examples": [
       {
-        "ja": "トムがビールを一気飲みしたんだ。",
-        "en": "Tom chugged his beer.",
-        "tatoeba_id": 9817232
-      },
-      {
         "ja": "今こそ一気に取引をまとめるときだ。",
         "en": "Now is the time to clinch the deal.",
         "tatoeba_id": 172860
+      },
+      {
+        "ja": "その報告書を一気に書き上げた。",
+        "en": "I dashed off the report.",
+        "tatoeba_id": 206784
       }
     ]
   },
@@ -4308,6 +4008,35 @@
       "adv"
     ],
     "jmdict_id": 1609220
+  },
+  {
+    "id": "53b486764f",
+    "word": "一向",
+    "reading": "いっこう",
+    "romaji": "ikkou",
+    "meanings": [
+      "earnestly"
+    ],
+    "level": "N1",
+    "pos": [
+      "adv"
+    ],
+    "jmdict_id": 1162410,
+    "other_readings": [
+      "ひたすら"
+    ],
+    "examples": [
+      {
+        "ja": "私はそれで一向に構いません。",
+        "en": "That's just fine with me.",
+        "tatoeba_id": 159764
+      },
+      {
+        "ja": "彼の言うことは僕には一向にわからない。",
+        "en": "I can make nothing of what he says.",
+        "tatoeba_id": 117613
+      }
+    ]
   },
   {
     "id": "0bf76a38ae",
@@ -4518,14 +4247,7 @@
       "vt",
       "vi"
     ],
-    "jmdict_id": 1157970,
-    "examples": [
-      {
-        "ja": "市内の区から他の区へ引っ越した場合は、区間異動届をご提出ください。",
-        "en": "If you move from one borough to another within the city, please submit a notification of the change.",
-        "tatoeba_id": 10693879
-      }
-    ]
+    "jmdict_id": 1157970
   },
   {
     "id": "cdd1146fbf",
@@ -4753,34 +4475,6 @@
     ]
   },
   {
-    "id": "30935266bc",
-    "word": "未だ",
-    "reading": "いまだ",
-    "romaji": "imada",
-    "meanings": [
-      "as yet",
-      "hitherto",
-      "not yet (neg)"
-    ],
-    "level": "N1",
-    "pos": [
-      "adv"
-    ],
-    "jmdict_id": 1527110,
-    "examples": [
-      {
-        "ja": "その島にはまだ未開の種族がいる。",
-        "en": "There are still some savage tribes on that island.",
-        "tatoeba_id": 207507
-      },
-      {
-        "ja": "未だパリに行ったことがありません。",
-        "en": "I have never been to Paris.",
-        "tatoeba_id": 81061
-      }
-    ]
-  },
-  {
     "id": "94fa2eb100",
     "word": "移民",
     "reading": "いみん",
@@ -4812,8 +4506,8 @@
     ]
   },
   {
-    "id": "d2d1228b54",
-    "word": "厭々",
+    "id": "2b1903712a",
+    "word": "嫌々",
     "reading": "いやいや",
     "romaji": "iyaiya",
     "meanings": [
@@ -4953,35 +4647,6 @@
         "ja": "何より大切なのは、英語をマスターしようという強い意欲である。",
         "en": "What is most important is your strong will to master English.",
         "tatoeba_id": 187637
-      }
-    ]
-  },
-  {
-    "id": "d6aa50c601",
-    "word": "入口",
-    "reading": "いりくち",
-    "romaji": "irikuchi",
-    "meanings": [
-      "entrance",
-      "gate",
-      "approach",
-      "mouth"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1582820,
-    "examples": [
-      {
-        "ja": "１台の車が入り口に止まった。",
-        "en": "A car stopped at the entrance.",
-        "tatoeba_id": 235719
-      },
-      {
-        "ja": "彼は入り口の前で帽子を取った。",
-        "en": "He took off his cap in front of the entrance.",
-        "tatoeba_id": 101418
       }
     ]
   },
@@ -5342,6 +5007,23 @@
     ]
   },
   {
+    "id": "1e2cd74d5d",
+    "word": "卯",
+    "reading": "う",
+    "romaji": "u",
+    "meanings": [
+      "fourth sign of Chinese zodiac (The Hare, 5am-7am, east, February)"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1576460,
+    "other_readings": [
+      "ぼう"
+    ]
+  },
+  {
     "id": "104005ac4b",
     "word": "ウェートレス",
     "reading": "ウェートレス",
@@ -5676,19 +5358,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1172310,
-    "examples": [
-      {
-        "ja": "大きな渦巻きと急流があります。",
-        "en": "It has a big whirlpool and a strong current.",
-        "tatoeba_id": 137742
-      },
-      {
-        "ja": "ボートが渦潮に巻き込まれ横転しました。",
-        "en": "The boat fell into a whirlpool and overturned.",
-        "tatoeba_id": 10060100
-      }
-    ]
+    "jmdict_id": 1172310
   },
   {
     "id": "88984a7ed8",
@@ -6185,33 +5855,6 @@
     ]
   },
   {
-    "id": "f9d45be109",
-    "word": "海路",
-    "reading": "うみじ",
-    "romaji": "umiji",
-    "meanings": [
-      "sea route"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "adv"
-    ],
-    "jmdict_id": 1201830,
-    "examples": [
-      {
-        "ja": "陸路を運ぶのは大変ですが、海路で運ぶのは簡単です。",
-        "en": "It's very difficult to transport them overland, but simple to do so by sea.",
-        "tatoeba_id": 390718
-      },
-      {
-        "ja": "待てば海路の日和あり。",
-        "en": "Everything comes to those who wait.",
-        "tatoeba_id": 137924
-      }
-    ]
-  },
-  {
     "id": "c887a99195",
     "word": "産む",
     "reading": "うむ",
@@ -6608,14 +6251,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1588620,
-    "examples": [
-      {
-        "ja": "今日届くはずだった荷物、運送中のトラブルで明日以降になるんだって。",
-        "en": "They said the package that was supposed to be delivered today will now arrive tomorrow or later because of problems during shipping.",
-        "tatoeba_id": 10726296
-      }
-    ]
+    "jmdict_id": 1588620
   },
   {
     "id": "2eba52219f",
@@ -6749,11 +6385,6 @@
         "ja": "問題は、お金をどう運用すべきかだ。",
         "en": "The problem is how we should manage the money.",
         "tatoeba_id": 11883545
-      },
-      {
-        "ja": "もう少し諸規則の弾力的運用はできないか。",
-        "en": "Can't you apply the rules a little more elastically?",
-        "tatoeba_id": 409852
       }
     ]
   },
@@ -6775,11 +6406,6 @@
         "ja": "陸上競技会は大雨のため中止になった。",
         "en": "The track meet was called off on account of the heavy rain.",
         "tatoeba_id": 206241
-      },
-      {
-        "ja": "え、そうですとも。",
-        "en": "Yes, that is most certainly so.",
-        "tatoeba_id": 74886
       }
     ]
   },
@@ -6800,14 +6426,14 @@
     "jmdict_id": 1335730,
     "examples": [
       {
-        "ja": "え、そうですとも。",
-        "en": "Yes, that is most certainly so.",
-        "tatoeba_id": 74886
+        "ja": "壁が屋根全体の重さを支えていた。",
+        "en": "The walls supported the entire weight of the roof.",
+        "tatoeba_id": 83480
       },
       {
-        "ja": "え、出かける前に、しっかりかぎをかけたんですね。",
-        "en": "Really? I had locked it up before I went out.",
-        "tatoeba_id": 228049
+        "ja": "彼女は昨年不幸なことが重なった。",
+        "en": "She had one misfortune after another last year.",
+        "tatoeba_id": 89872
       }
     ]
   },
@@ -6863,19 +6489,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1174530,
-    "examples": [
-      {
-        "ja": "大学時代に私は英字新聞をとっていた。",
-        "en": "I took an English newspaper when I was in college.",
-        "tatoeba_id": 137613
-      },
-      {
-        "ja": "あなたは英字新聞を定期購読したことがありますか。",
-        "en": "Have you ever subscribed to any English language newspaper?",
-        "tatoeba_id": 232269
-      }
-    ]
+    "jmdict_id": 1174530
   },
   {
     "id": "189db824d3",
@@ -7045,14 +6659,14 @@
     "jmdict_id": 1175380,
     "examples": [
       {
-        "ja": "定期雑誌類は閲覧室より帯出禁止。",
-        "en": "Periodicals may not be removed from the reading room.",
-        "tatoeba_id": 125543
-      },
-      {
         "ja": "お前の好きなインターネット閲覧ソフトはなんだ。",
         "en": "What's your favorite web browser?",
         "tatoeba_id": 1487208
+      },
+      {
+        "ja": "インターネットの閲覧にYahooを使っている。",
+        "en": "I use \"Yahoo\" to browse the internet.",
+        "tatoeba_id": 9855974
       }
     ]
   },
@@ -7318,14 +6932,7 @@
       "adj-na",
       "n"
     ],
-    "jmdict_id": 1566060,
-    "examples": [
-      {
-        "ja": "「少女の部屋へ行く」というのは「トイレへ行く」ということの婉曲表現です。",
-        "en": "\"Going to the little girl's room\" is an euphemistic expression for \"going to the toilet.\"",
-        "tatoeba_id": 76983
-      }
-    ]
+    "jmdict_id": 1566060
   },
   {
     "id": "e5d4fba484",
@@ -7370,19 +6977,7 @@
       "vt",
       "vi"
     ],
-    "jmdict_id": 1176930,
-    "examples": [
-      {
-        "ja": "明日は運動会の予行演習につき、通常の授業はありません。",
-        "en": "Tomorrow there will be no normal lessons, in view of the athletic meet rehearsal.",
-        "tatoeba_id": 459035
-      },
-      {
-        "ja": "過去に陸上自衛隊演習場で行われた射撃訓練で、砲弾が場外に着弾する事故が起きている。",
-        "en": "In the past accidents have occurred where shells fell outside of the firing range area used for exercises by the JGSDF.",
-        "tatoeba_id": 459036
-      }
-    ]
+    "jmdict_id": 1176930
   },
   {
     "id": "62e5ed991c",
@@ -7512,11 +7107,6 @@
         "ja": "やっと、姉の縁談がまとまりました。",
         "en": "My older sister's marriage has finally been arranged.",
         "tatoeba_id": 10813358
-      },
-      {
-        "ja": "姉のところに縁談話が舞い込んできた。",
-        "en": "Talk of marriage unexpectedly came to my older sister’s place.",
-        "tatoeba_id": 9681780
       }
     ]
   },
@@ -7707,13 +7297,15 @@
     "jmdict_id": 1178920,
     "examples": [
       {
-        "ja": "ちょっとの時間、電話を切らないでおいて下さい。",
-        "en": "Hold on a moment, please.",
-        "tatoeba_id": 202810
+        "ja": "彼を一人にしておいてやりなさい。",
+        "en": "Leave him alone.",
+        "tatoeba_id": 95926
+      },
+      {
+        "ja": "彼は私に席を取っておいてくれた。",
+        "en": "He kept a seat for me.",
+        "tatoeba_id": 106018
       }
-    ],
-    "other_forms": [
-      "於いて"
     ]
   },
   {
@@ -7822,34 +7414,6 @@
         "ja": "女王のクラウンは黄金でできています。",
         "en": "The Queen's crown was made of gold.",
         "tatoeba_id": 522632
-      }
-    ]
-  },
-  {
-    "id": "2b2b0b443e",
-    "word": "黄色",
-    "reading": "おうしょく",
-    "romaji": "oushoku",
-    "meanings": [
-      "yellow"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "adj-no",
-      "adj-na"
-    ],
-    "jmdict_id": 1576760,
-    "examples": [
-      {
-        "ja": "床は緑色に塗られていたが、一方壁は黄色だった。",
-        "en": "The floor was painted green, while the walls were yellow.",
-        "tatoeba_id": 146465
-      },
-      {
-        "ja": "彼等は自宅を明るい黄色に塗った。",
-        "en": "They painted their house bright yellow.",
-        "tatoeba_id": 86007
       }
     ]
   },
@@ -8310,19 +7874,7 @@
       "v5s",
       "vt"
     ],
-    "jmdict_id": 1422000,
-    "examples": [
-      {
-        "ja": "謝るのに遅すぎるってことはない。",
-        "en": "It's never too late to apologize.",
-        "tatoeba_id": 11706797
-      },
-      {
-        "ja": "私たちがほかの事をするには遅すぎた。",
-        "en": "It was too late for us to do anything else.",
-        "tatoeba_id": 167294
-      }
-    ]
+    "jmdict_id": 1422000
   },
   {
     "id": "37d3906e02",
@@ -8409,8 +7961,8 @@
     ]
   },
   {
-    "id": "08b5fcfc9a",
-    "word": "傲る",
+    "id": "bc37b59298",
+    "word": "驕る",
     "reading": "おごる",
     "romaji": "ogoru",
     "meanings": [
@@ -9104,9 +8656,9 @@
     ]
   },
   {
-    "id": "04f781fb96",
+    "id": "af9c173d83",
     "word": "おどおど",
-    "reading": "オドオド",
+    "reading": "おどおど",
     "romaji": "odoodo",
     "meanings": [
       "coweringly",
@@ -9511,9 +9063,9 @@
     "jmdict_id": 1694410,
     "examples": [
       {
-        "ja": "この商品にはおまけが付く。",
-        "en": "This article comes with a free gift.",
-        "tatoeba_id": 221187
+        "ja": "彼は若いし、おまけに、二枚目だ。",
+        "en": "He is young and, what is more, handsome.",
+        "tatoeba_id": 104580
       },
       {
         "ja": "なんとガムのおまけだったんだよ。",
@@ -9566,20 +9118,6 @@
     ]
   },
   {
-    "id": "acde843dbf",
-    "word": "面",
-    "reading": "おも",
-    "romaji": "omo",
-    "meanings": [
-      "face"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1584680
-  },
-  {
     "id": "e562d42eba",
     "word": "思い付き",
     "reading": "おもいつき",
@@ -9608,8 +9146,25 @@
     ]
   },
   {
-    "id": "d6ebbdd595",
-    "word": "重なる",
+    "id": "e6562f65be",
+    "word": "面",
+    "reading": "おもて",
+    "romaji": "omote",
+    "meanings": [
+      "face"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1584680,
+    "other_readings": [
+      "おも"
+    ]
+  },
+  {
+    "id": "eae8d1488f",
+    "word": "主なる",
     "reading": "おもなる",
     "romaji": "omonaru",
     "meanings": [
@@ -9685,33 +9240,6 @@
         "ja": "決心がつきかねたので、私は感情のおもむくままに行動した。",
         "en": "I couldn't decide what to do, so I just followed my heart.",
         "tatoeba_id": 175907
-      }
-    ]
-  },
-  {
-    "id": "be770f959b",
-    "word": "重役",
-    "reading": "おもやく",
-    "romaji": "omoyaku",
-    "meanings": [
-      "heavy responsibilities",
-      "director"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1336770,
-    "examples": [
-      {
-        "ja": "彼はどこかの会社の重役に違いない。",
-        "en": "One must be an executive in some company.",
-        "tatoeba_id": 111675
-      },
-      {
-        "ja": "重役たちは朝食会に集まっています。",
-        "en": "The top execs are gathering for a power breakfast.",
-        "tatoeba_id": 147967
       }
     ]
   },
@@ -10141,40 +9669,14 @@
     "jmdict_id": 1192680,
     "examples": [
       {
-        "ja": "今学期はどんな教科を選択しますか。",
-        "en": "What are you going to take this semester?",
-        "tatoeba_id": 172484
+        "ja": "１ドルの罰金を科せられた。",
+        "en": "I was fined a dollar.",
+        "tatoeba_id": 235834
       },
       {
-        "ja": "学校ではどんな科目を勉強しますか。",
-        "en": "What subjects do you study at school?",
-        "tatoeba_id": 184483
-      }
-    ]
-  },
-  {
-    "id": "680114ed9c",
-    "word": "個",
-    "reading": "か",
-    "romaji": "ka",
-    "meanings": [
-      "article counter"
-    ],
-    "level": "N1",
-    "pos": [
-      "ctr"
-    ],
-    "jmdict_id": 2220320,
-    "examples": [
-      {
-        "ja": "この鶏は週に何個卵を産みますか。",
-        "en": "How many eggs does this hen lay each week?",
-        "tatoeba_id": 222187
-      },
-      {
-        "ja": "そうするなと警告したではないか。",
-        "en": "I warned you not to do so, didn't I?",
-        "tatoeba_id": 213870
+        "ja": "彼は駐車違反で５千円の罰金を科せられた。",
+        "en": "They fined him 5,000 yen for illegal parking.",
+        "tatoeba_id": 102127
       }
     ]
   },
@@ -10225,11 +9727,6 @@
         "ja": "彼は組んだ下位候補者が悪かったので落選しました。",
         "en": "He was dropped because of his running mate.",
         "tatoeba_id": 102884
-      },
-      {
-        "ja": "下調べはしたかい。会議は２日後だよ。",
-        "en": "Did you do your homework? The meeting is only two days away.",
-        "tatoeba_id": 188214
       }
     ]
   },
@@ -10244,8 +9741,7 @@
     ],
     "level": "N1",
     "pos": [
-      "n",
-      "n-suf"
+      "ctr"
     ],
     "jmdict_id": 1203020,
     "examples": [
@@ -10625,14 +10121,14 @@
     "jmdict_id": 1200880,
     "examples": [
       {
-        "ja": "職員室と体育館は、改修工事中です。",
-        "en": "The teachers' room and the gym are under renovation.",
-        "tatoeba_id": 11267749
-      },
-      {
         "ja": "バグ改修、終わりました。",
         "en": "The bug has been fixed.",
         "tatoeba_id": 10042636
+      },
+      {
+        "ja": "このバグを改修してます。",
+        "en": "We are working to fix this bug.",
+        "tatoeba_id": 11796002
       }
     ]
   },
@@ -10788,14 +10284,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1199610,
-    "examples": [
-      {
-        "ja": "ごめん、さっきのメール間違えて消しちゃったんだけどもう一回送ってくれない？",
-        "en": "Sorry but I accidentally deleted the email you just sent so would you please resend it?",
-        "tatoeba_id": 3398641
-      }
-    ]
+    "jmdict_id": 1199610
   },
   {
     "id": "06f4ced5f8",
@@ -11380,6 +10869,36 @@
     ]
   },
   {
+    "id": "4385ccd897",
+    "word": "海路",
+    "reading": "かいろ",
+    "romaji": "kairo",
+    "meanings": [
+      "sea route"
+    ],
+    "level": "N1",
+    "pos": [
+      "n",
+      "adv"
+    ],
+    "jmdict_id": 1201830,
+    "other_readings": [
+      "うみじ"
+    ],
+    "examples": [
+      {
+        "ja": "陸路を運ぶのは大変ですが、海路で運ぶのは簡単です。",
+        "en": "It's very difficult to transport them overland, but simple to do so by sea.",
+        "tatoeba_id": 390718
+      },
+      {
+        "ja": "待てば海路の日和あり。",
+        "en": "Everything comes to those who wait.",
+        "tatoeba_id": 137924
+      }
+    ]
+  },
+  {
     "id": "c41eb29491",
     "word": "顧みる",
     "reading": "かえりみる",
@@ -11698,34 +11217,6 @@
     ]
   },
   {
-    "id": "778765a79e",
-    "word": "角",
-    "reading": "かく",
-    "romaji": "kaku",
-    "meanings": [
-      "angle",
-      "bishop (shogi)"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "n-suf"
-    ],
-    "jmdict_id": 1206100,
-    "examples": [
-      {
-        "ja": "３角形のすべての角の和は１８０度に等しい。",
-        "en": "The sum of all the angles in a triangle equals 180 degrees.",
-        "tatoeba_id": 235339
-      },
-      {
-        "ja": "フロントローラーのスラスト角は２度、多分レース時にはもう少し角度を強める予定です。",
-        "en": "The front-roller thrust angle is 2 degrees, probably there were plans to strengthen that angle a little when racing.",
-        "tatoeba_id": 76452
-      }
-    ]
-  },
-  {
     "id": "939c8fef9e",
     "word": "欠く",
     "reading": "かく",
@@ -11768,14 +11259,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1206720,
-    "examples": [
-      {
-        "ja": "芳田氏は山形県に生まれ、日本大学芸術学部油絵科を卒業する。",
-        "en": "Mr Yoshida was born in Yamagata prefecture, and graduated from Nihon University College of Art with a degree in oil painting.",
-        "tatoeba_id": 774511
-      }
-    ]
+    "jmdict_id": 1206720
   },
   {
     "id": "1bd65ccbfc",
@@ -11840,14 +11324,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1206760,
-    "examples": [
-      {
-        "ja": "あなたは学士号を持っています。",
-        "en": "You have a bachelor's degree.",
-        "tatoeba_id": 1483498
-      }
-    ]
+    "jmdict_id": 1206760
   },
   {
     "id": "7d0a45022f",
@@ -11898,9 +11375,9 @@
         "tatoeba_id": 10758976
       },
       {
-        "ja": "この雑誌の発売日は、隔週水曜日です。",
-        "en": "This magazine's release day is on Wednesday every two weeks.",
-        "tatoeba_id": 9552276
+        "ja": "僕の親って別れてるから、父さんとは隔週の週末だけ一緒にいるんだ。",
+        "en": "Because my parents are separated, I only get to see my dad every other weekend.",
+        "tatoeba_id": 9621182
       }
     ]
   },
@@ -11951,14 +11428,9 @@
     "jmdict_id": 1206470,
     "examples": [
       {
-        "ja": "選挙では、保守派と革新派がせめぎ合った。",
-        "en": "In the election, conservatives and progressives were fighting each other.",
-        "tatoeba_id": 12179686
-      },
-      {
-        "ja": "技術革新は情報産業に急速な進歩をもたらした。",
-        "en": "Technological innovation brought about the rapid progress of the information industry.",
-        "tatoeba_id": 182932
+        "ja": "医学の革新は苦痛から私たちを取り除く最良の方法です。",
+        "en": "Medical innovations are the best way to relieve us from sufferings.",
+        "tatoeba_id": 2047946
       }
     ]
   },
@@ -12349,7 +11821,7 @@
     "reading": "かげつ",
     "romaji": "kagetsu",
     "meanings": [
-      "#NAME?"
+      "counter for months"
     ],
     "level": "N1",
     "pos": [
@@ -12501,19 +11973,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1186980,
-    "examples": [
-      {
-        "ja": "工場では複雑な化学化合物を製造している。",
-        "en": "The plants manufacture complex chemical compounds.",
-        "tatoeba_id": 173735
-      },
-      {
-        "ja": "一酸化炭素とは炭素化合物の不完全燃焼で発生する有害物質です。",
-        "en": "Carbon monoxide is a poisonous substance formed by the incomplete combustion of carbon compounds.",
-        "tatoeba_id": 75074
-      }
-    ]
+    "jmdict_id": 1186980
   },
   {
     "id": "0830cb0b68",
@@ -12920,14 +12380,7 @@
       "n",
       "adj-na"
     ],
-    "jmdict_id": 1196230,
-    "examples": [
-      {
-        "ja": "胃酸過多で空腹になると胃痛に苦しむ方に良いのがトマトです。",
-        "en": "Tomatoes are good for people who suffer stomach pain from excess stomach acid when their stomach is empty.",
-        "tatoeba_id": 538098
-      }
-    ]
+    "jmdict_id": 1196230
   },
   {
     "id": "712db68fb8",
@@ -13107,27 +12560,6 @@
         "tatoeba_id": 88606
       }
     ]
-  },
-  {
-    "id": "e379331540",
-    "word": "傾く",
-    "reading": "かたぶく",
-    "romaji": "katabuku",
-    "meanings": [
-      "to incline toward",
-      "to slant",
-      "to lurch",
-      "to heel over",
-      "to be disposed to",
-      "to trend toward",
-      "to be prone to"
-    ],
-    "level": "N1",
-    "pos": [
-      "v5k",
-      "vi"
-    ],
-    "jmdict_id": 1578210
   },
   {
     "id": "31abecc2fa",
@@ -13327,37 +12759,6 @@
     ]
   },
   {
-    "id": "517fd647e5",
-    "word": "割",
-    "reading": "かつ",
-    "romaji": "katsu",
-    "meanings": [
-      "divide",
-      "cut",
-      "halve",
-      "separate",
-      "split",
-      "rip",
-      "break",
-      "crack",
-      "smash",
-      "dilute"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "私は割のいい仕事の申し入れを受けた。",
-        "en": "I received a good job offer.",
-        "tatoeba_id": 157825
-      },
-      {
-        "ja": "トムは勤務終了時間を超えて働くと、５割アップの時給をもらっていた。",
-        "en": "Tom got time and a half when he worked beyond his usual quitting time.",
-        "tatoeba_id": 199960
-      }
-    ]
-  },
-  {
     "id": "8d4eb1d5d4",
     "word": "且つ",
     "reading": "かつ",
@@ -13397,19 +12798,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1197170,
-    "examples": [
-      {
-        "ja": "当時としちゃ画期的な発明だったね。",
-        "en": "It was a groundbreaking invention at the time.",
-        "tatoeba_id": 11030781
-      },
-      {
-        "ja": "これは、画期的な発明だから教科書に載るかもよ。",
-        "en": "This invention is so revolutionary, it might make it into the textbooks.",
-        "tatoeba_id": 11027930
-      }
-    ]
+    "jmdict_id": 1197170
   },
   {
     "id": "4a24741cdf",
@@ -13802,34 +13191,6 @@
     ]
   },
   {
-    "id": "fa8bfe4f16",
-    "word": "鉄棒",
-    "reading": "かなぼう",
-    "romaji": "kanabou",
-    "meanings": [
-      "iron rod",
-      "crowbar",
-      "horizontal bar (gymnastics)"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1682400,
-    "examples": [
-      {
-        "ja": "鬼に金棒。",
-        "en": "Fortune is the rod of the weak, and the staff of the brave.",
-        "tatoeba_id": 182947
-      },
-      {
-        "ja": "君がここにいてくれるなら、なにも怖いものなし。鬼に金棒だよ。",
-        "en": "With you here beside me I'm not afraid of anything. You're my fortress.",
-        "tatoeba_id": 179184
-      }
-    ]
-  },
-  {
     "id": "378a7e05c1",
     "word": "加入",
     "reading": "かにゅう",
@@ -13861,35 +13222,6 @@
         "ja": "彼はその会に加入させてもらえなかった。",
         "en": "He was debarred from entering the club.",
         "tatoeba_id": 113066
-      }
-    ]
-  },
-  {
-    "id": "6fde828848",
-    "word": "金庫",
-    "reading": "かねぐら",
-    "romaji": "kanegura",
-    "meanings": [
-      "safe",
-      "vault",
-      "treasury",
-      "provider of funds"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1578130,
-    "examples": [
-      {
-        "ja": "彼は私の金庫からその金を盗んだ。",
-        "en": "He stole the money from my safe.",
-        "tatoeba_id": 105869
-      },
-      {
-        "ja": "重い金庫の重量で床がぬけ落ちた。",
-        "en": "The floor gave in under the weight of the heavy safe.",
-        "tatoeba_id": 147980
       }
     ]
   },
@@ -14104,14 +13436,14 @@
     "jmdict_id": 1279690,
     "examples": [
       {
-        "ja": "面白ければどんな本でも結構です。",
-        "en": "Any book will do as long as it is interesting.",
-        "tatoeba_id": 80190
+        "ja": "私は最後のチャンスを待ち構えた。",
+        "en": "I watched for the last chance.",
+        "tatoeba_id": 156867
       },
       {
-        "ja": "水は水素と酸素で構成されている。",
-        "en": "Water consists of hydrogen and oxygen.",
-        "tatoeba_id": 143753
+        "ja": "彼はジャマイカに新居を構えた。",
+        "en": "He set up a new home in Jamaica.",
+        "tatoeba_id": 113530
       }
     ]
   },
@@ -14570,10 +13902,10 @@
     ]
   },
   {
-    "id": "273bae797e",
+    "id": "ddb35e549d",
     "word": "側",
-    "reading": "かわ",
-    "romaji": "kawa",
+    "reading": "がわ",
+    "romaji": "gawa",
     "meanings": [
       "side",
       "row",
@@ -14586,7 +13918,22 @@
       "n",
       "suf"
     ],
-    "jmdict_id": 1581310
+    "jmdict_id": 1581310,
+    "other_readings": [
+      "かわ"
+    ],
+    "examples": [
+      {
+        "ja": "審判はどちらの側も支持するべきではない。",
+        "en": "A referee should not favor either side.",
+        "tatoeba_id": 145618
+      },
+      {
+        "ja": "日本は国連総会で米国側に立った。",
+        "en": "Japan stood with the United States at the U. N. Assembly.",
+        "tatoeba_id": 122469
+      }
+    ]
   },
   {
     "id": "b966033b0e",
@@ -14644,29 +13991,6 @@
         "tatoeba_id": 165468
       }
     ]
-  },
-  {
-    "id": "e1cbcb9d6c",
-    "word": "冠",
-    "reading": "かん",
-    "romaji": "kan",
-    "meanings": [
-      "crown",
-      "diadem",
-      "first",
-      "best",
-      "peerless",
-      "cap",
-      "naming",
-      "designating",
-      "initiating on coming of age"
-    ],
-    "level": "N1",
-    "pos": [
-      "adj-t",
-      "adv-to"
-    ],
-    "jmdict_id": 1577620
   },
   {
     "id": "8ac22c99b5",
@@ -14790,14 +14114,14 @@
     "jmdict_id": 1214270,
     "examples": [
       {
-        "ja": "安価な簡易住宅を提供します。",
-        "en": "We offer low-cost prefabricated houses.",
-        "tatoeba_id": 74260
-      },
-      {
         "ja": "簡易ベッドで寝てるんだ。",
         "en": "I sleep on a cot.",
         "tatoeba_id": 10153679
+      },
+      {
+        "ja": "簡易ベッドの組み立て方を教えてもらえますか。",
+        "en": "Will you show me how to set up a cot?",
+        "tatoeba_id": 183842
       }
     ]
   },
@@ -14820,11 +14144,6 @@
         "ja": "眼科で視力検査をしました。",
         "en": "I took an eyesight test in the eye clinic.",
         "tatoeba_id": 13715788
-      },
-      {
-        "ja": "私は眼科医です。",
-        "en": "I'm an ophthalmologist.",
-        "tatoeba_id": 10971855
       }
     ]
   },
@@ -14841,14 +14160,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1212310,
-    "examples": [
-      {
-        "ja": "感慨深い一日でした。",
-        "en": "It was an emotional day.",
-        "tatoeba_id": 12508674
-      }
-    ]
+    "jmdict_id": 1212310
   },
   {
     "id": "fd76167657",
@@ -15076,11 +14388,6 @@
         "ja": "ついに新しい小説が刊行された。",
         "en": "The new novel was finally published.",
         "tatoeba_id": 4211985
-      },
-      {
-        "ja": "外国の書籍や定期刊行物を販売している店がいくつかある。",
-        "en": "There are a number of shops selling foreign books and periodicals.",
-        "tatoeba_id": 184811
       }
     ]
   },
@@ -15485,19 +14792,7 @@
       "n",
       "adj-no"
     ],
-    "jmdict_id": 1212140,
-    "examples": [
-      {
-        "ja": "次の新幹線は９時ちょうどに出ます。",
-        "en": "The next Shinkansen train leaves at just nine o'clock.",
-        "tatoeba_id": 150271
-      },
-      {
-        "ja": "交通事故が幹線道路で起こった。",
-        "en": "The traffic accident took place on the main highway.",
-        "tatoeba_id": 174143
-      }
-    ]
+    "jmdict_id": 1212140
   },
   {
     "id": "eac47f495f",
@@ -15595,14 +14890,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1212550,
-    "examples": [
-      {
-        "ja": "高感度フィルムは出してもいいですか。",
-        "en": "Can I unload the high speed film?",
-        "tatoeba_id": 173225
-      }
-    ]
+    "jmdict_id": 1212550
   },
   {
     "id": "337e74cd80",
@@ -15672,35 +14960,6 @@
         "ja": "党幹部らは、党組織の欠陥問題に取り組んでいます。",
         "en": "Party leaders are grappling with flaws in the party system.",
         "tatoeba_id": 124399
-      }
-    ]
-  },
-  {
-    "id": "65ea45184c",
-    "word": "贋物",
-    "reading": "がんぶつ",
-    "romaji": "ganbutsu",
-    "meanings": [
-      "imitation",
-      "counterfeit",
-      "forgery",
-      "sham"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1577800,
-    "examples": [
-      {
-        "ja": "彼は本物と偽物を区別できない。",
-        "en": "He can't tell the real thing from the fake.",
-        "tatoeba_id": 81461
-      },
-      {
-        "ja": "偽物のダイヤと本物とはどう違うのですか。",
-        "en": "What is the difference between imitation and real diamonds?",
-        "tatoeba_id": 182937
       }
     ]
   },
@@ -15887,19 +15146,7 @@
       "vt",
       "adj-no"
     ],
-    "jmdict_id": 1212720,
-    "examples": [
-      {
-        "ja": "これは現代英語の慣用法についての本です。",
-        "en": "This is a book on modern English usage.",
-        "tatoeba_id": 218425
-      },
-      {
-        "ja": "どうして英語って、慣用句や句動詞がこんなに多いの？",
-        "en": "Why does English have so many idioms and phrasal verbs?",
-        "tatoeba_id": 10589626
-      }
-    ]
+    "jmdict_id": 1212720
   },
   {
     "id": "bad0f9f7f6",
@@ -15940,19 +15187,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1215040,
-    "examples": [
-      {
-        "ja": "観覧車の一番上から街全体が見渡せます。",
-        "en": "You could see the entire city from the top of the Ferris wheel.",
-        "tatoeba_id": 9961058
-      },
-      {
-        "ja": "観覧車が一番好きです。",
-        "en": "The Ferris wheel is my favorite.",
-        "tatoeba_id": 183786
-      }
-    ]
+    "jmdict_id": 1215040
   },
   {
     "id": "e5967381ed",
@@ -16012,9 +15247,9 @@
     "jmdict_id": 1215160,
     "examples": [
       {
-        "ja": "母方の祖父は明日還暦を迎える。",
+        "ja": "明日は母方の祖父の還暦のお祝いをする。",
         "en": "My grandfather on my mother's side is celebrating his 60th birthday tomorrow.",
-        "tatoeba_id": 2240088
+        "tatoeba_id": 2240094
       }
     ]
   },
@@ -16722,30 +15957,6 @@
     ]
   },
   {
-    "id": "d1640ecbac",
-    "word": "兆",
-    "reading": "きざし",
-    "romaji": "kizashi",
-    "meanings": [
-      "signs",
-      "omen",
-      "symptoms"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "事が起こる時は前兆があるものだ。",
-        "en": "Coming events cast their shadows before them.",
-        "tatoeba_id": 150913
-      },
-      {
-        "ja": "社会不安の兆候が高まりつつある。",
-        "en": "Signs of social unrest are mounting.",
-        "tatoeba_id": 8655735
-      }
-    ]
-  },
-  {
     "id": "acfd50010e",
     "word": "兆し",
     "reading": "きざし",
@@ -17072,10 +16283,10 @@
     ]
   },
   {
-    "id": "97ba558517",
+    "id": "56c97b87bd",
     "word": "寄贈",
-    "reading": "きそう",
-    "romaji": "kisou",
+    "reading": "きぞう",
+    "romaji": "kizou",
     "meanings": [
       "donation",
       "presentation"
@@ -17087,6 +16298,9 @@
       "vt"
     ],
     "jmdict_id": 1577730,
+    "other_readings": [
+      "きそう"
+    ],
     "examples": [
       {
         "ja": "同書を一部ご寄贈いただければ幸いに存じます。",
@@ -17360,14 +16574,9 @@
     "jmdict_id": 1226430,
     "examples": [
       {
-        "ja": "昔は学校の近くに喫茶店があった。",
-        "en": "There used to be a coffee shop near the school.",
-        "tatoeba_id": 142391
-      },
-      {
-        "ja": "ちょっとあの喫茶店に立ち寄ろう。",
-        "en": "Let's drop in at that coffee lounge.",
-        "tatoeba_id": 202863
+        "ja": "マンガ喫茶を営んでいます。",
+        "en": "I own a comic book store.",
+        "tatoeba_id": 10971898
       }
     ]
   },
@@ -17545,34 +16754,6 @@
       "n"
     ],
     "jmdict_id": 2397580
-  },
-  {
-    "id": "cd961dd959",
-    "word": "気配",
-    "reading": "きはい",
-    "romaji": "kihai",
-    "meanings": [
-      "indication",
-      "market trend",
-      "worry"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1222510,
-    "examples": [
-      {
-        "ja": "秋の気配が感じられた。",
-        "en": "There was a hint of fall in the air.",
-        "tatoeba_id": 148202
-      },
-      {
-        "ja": "その家には人の気配はなかった。",
-        "en": "There was no sign of life in the house.",
-        "tatoeba_id": 212129
-      }
-    ]
   },
   {
     "id": "27f5dcd741",
@@ -17939,19 +17120,7 @@
       "n",
       "adj-no"
     ],
-    "jmdict_id": 1226690,
-    "examples": [
-      {
-        "ja": "客観的な歴史は存在するだろうか。",
-        "en": "Does objective history exist?",
-        "tatoeba_id": 1471203
-      },
-      {
-        "ja": "トムは客観的だけど、メアリーは違うよ。",
-        "en": "Tom is objective, but Mary isn't.",
-        "tatoeba_id": 10227935
-      }
-    ]
+    "jmdict_id": 1226690
   },
   {
     "id": "28fa5ea61e",
@@ -18366,32 +17535,6 @@
     ]
   },
   {
-    "id": "e9d3482add",
-    "word": "供",
-    "reading": "きょう",
-    "romaji": "kyou",
-    "meanings": [
-      "offer",
-      "present",
-      "submit",
-      "serve (a meal)",
-      "supply"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "年明けに子供が産まれる予定です♪",
-        "en": "I'm expecting a baby in the new year!",
-        "tatoeba_id": 74933
-      },
-      {
-        "ja": "私の子供達はもうすぐ春休みです。",
-        "en": "My kids have their spring break soon.",
-        "tatoeba_id": 76090
-      }
-    ]
-  },
-  {
     "id": "3f18aa382c",
     "word": "行",
     "reading": "ぎょう",
@@ -18771,19 +17914,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1234430,
-    "examples": [
-      {
-        "ja": "喜んで中国共産党に入ります。",
-        "en": "I willingly join the Chinese Communist Party.",
-        "tatoeba_id": 1046599
-      },
-      {
-        "ja": "共産主義はソ連で実践された体制である。",
-        "en": "Communism is the system practiced in the Soviet Union.",
-        "tatoeba_id": 180622
-      }
-    ]
+    "jmdict_id": 1234430
   },
   {
     "id": "2284a3924c",
@@ -18858,19 +17989,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1237170,
-    "examples": [
-      {
-        "ja": "ジムは教習所に通っている。",
-        "en": "Jim goes to driving school.",
-        "tatoeba_id": 2432322
-      },
-      {
-        "ja": "教習所の教師にそう焦るなと言われています。",
-        "en": "My driving instructor says I should be more patient.",
-        "tatoeba_id": 180144
-      }
-    ]
+    "jmdict_id": 1237170
   },
   {
     "id": "2c40858d7a",
@@ -19030,10 +18149,10 @@
     ]
   },
   {
-    "id": "d4426e2374",
+    "id": "7706bb62ac",
     "word": "共存",
-    "reading": "きょうそん",
-    "romaji": "kyouson",
+    "reading": "きょうぞん",
+    "romaji": "kyouzon",
     "meanings": [
       "coexistence"
     ],
@@ -19043,32 +18162,9 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1578050
-  },
-  {
-    "id": "5e1ed50e4b",
-    "word": "姉妹",
-    "reading": "きょうだい",
-    "romaji": "kyoudai",
-    "meanings": [
-      "sisters"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1579490,
-    "examples": [
-      {
-        "ja": "彼の姉妹は二人とも美人です。",
-        "en": "Both his sisters are beautiful.",
-        "tatoeba_id": 117217
-      },
-      {
-        "ja": "姉妹はやっきになって言い争った。",
-        "en": "The sisters dueled with each other verbally.",
-        "tatoeba_id": 168884
-      }
+    "jmdict_id": 1578050,
+    "other_readings": [
+      "きょうそん"
     ]
   },
   {
@@ -19284,19 +18380,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1630190,
-    "examples": [
-      {
-        "ja": "民主党は共和党に勝つと思いますか。",
-        "en": "Do you think the Democratic Party will get the better of the Republican Party?",
-        "tatoeba_id": 81017
-      },
-      {
-        "ja": "革命後、フランスは共和国になった。",
-        "en": "After the revolution, France became a republic.",
-        "tatoeba_id": 184529
-      }
-    ]
+    "jmdict_id": 1630190
   },
   {
     "id": "cd2faccb83",
@@ -19637,7 +18721,19 @@
     "pos": [
       "adj-na"
     ],
-    "jmdict_id": 1570480
+    "jmdict_id": 1570480,
+    "examples": [
+      {
+        "ja": "きらびやかでいて重厚な宮殿を前に言葉も出ない。",
+        "en": "I'm speechless before such a beautiful and stately palace.",
+        "tatoeba_id": 11001555
+      },
+      {
+        "ja": "思い出のつまったお店がきらびやかにリニューアルしてうれしいような悲しいような。",
+        "en": "I have mixed feelings about the sumptuous renovations at the store where I have so many memories.",
+        "tatoeba_id": 11016108
+      }
+    ]
   },
   {
     "id": "4b0b74219f",
@@ -19843,20 +18939,6 @@
     ]
   },
   {
-    "id": "8f2bbabb68",
-    "word": "木綿",
-    "reading": "きわた",
-    "romaji": "kiwata",
-    "meanings": [
-      "cotton"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1534870
-  },
-  {
     "id": "746e5a2a80",
     "word": "極めて",
     "reading": "きわめて",
@@ -19880,29 +18962,6 @@
         "ja": "交渉は極めて重大な局面に入った。",
         "en": "The negotiations stepped into a crucial phase.",
         "tatoeba_id": 174178
-      }
-    ]
-  },
-  {
-    "id": "872cb832e0",
-    "word": "僅",
-    "reading": "きん",
-    "romaji": "kin",
-    "meanings": [
-      "a little",
-      "small quantity"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "その列車の乗客はほんの僅かしかいない。",
-        "en": "There are very few passengers in the train.",
-        "tatoeba_id": 206205
-      },
-      {
-        "ja": "僅かながらの私の持っていたお金を全部彼に与えた。",
-        "en": "I gave him what little money I had.",
-        "tatoeba_id": 179997
       }
     ]
   },
@@ -19958,33 +19017,6 @@
         "ja": "緊急時に備えて多量の食料を蓄えた。",
         "en": "We have reserved a lot of food for emergencies.",
         "tatoeba_id": 179932
-      }
-    ]
-  },
-  {
-    "id": "803c5d815d",
-    "word": "近々",
-    "reading": "きんきん",
-    "romaji": "kinkin",
-    "meanings": [
-      "nearness",
-      "before long"
-    ],
-    "level": "N1",
-    "pos": [
-      "adv"
-    ],
-    "jmdict_id": 1578110,
-    "examples": [
-      {
-        "ja": "彼の秘密は近々あばかれるだろう。",
-        "en": "His secret will be disclosed soon.",
-        "tatoeba_id": 116309
-      },
-      {
-        "ja": "内緒の話だが僕は近々仕事を辞める予定だ。",
-        "en": "Between you and me, I'm going to quit my present job soon.",
-        "tatoeba_id": 123226
       }
     ]
   },
@@ -20474,14 +19506,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1244180,
-    "examples": [
-      {
-        "ja": "グラウンドは白線で３つに区切られている。",
-        "en": "The playground is divided into three areas by white lines.",
-        "tatoeba_id": 225535
-      }
-    ]
+    "jmdict_id": 1244180
   },
   {
     "id": "91af54997d",
@@ -20489,11 +19514,10 @@
     "reading": "くぐる",
     "romaji": "kuguru",
     "meanings": [
-      "to drive",
       "to pass through",
-      "to evade",
-      "to hide",
-      "to dive (into or under water)"
+      "to go under",
+      "to slip through",
+      "to evade"
     ],
     "level": "N1",
     "pos": [
@@ -20579,7 +19603,19 @@
     "pos": [
       "adj-i"
     ],
-    "jmdict_id": 1003730
+    "jmdict_id": 1003730,
+    "examples": [
+      {
+        "ja": "もぅ、止めてよ。くすぐったい！",
+        "en": "Oh stop, that tickles!",
+        "tatoeba_id": 9681645
+      },
+      {
+        "ja": "足の裏ってくすぐったい？",
+        "en": "Are your feet ticklish?",
+        "tatoeba_id": 9681639
+      }
+    ]
   },
   {
     "id": "4d62fb410a",
@@ -20814,32 +19850,6 @@
     ]
   },
   {
-    "id": "e6ac6e6d43",
-    "word": "国境",
-    "reading": "くにざかい",
-    "romaji": "kunizakai",
-    "meanings": [
-      "national or state border"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1286320,
-    "examples": [
-      {
-        "ja": "国境でパスポートの提示を求められた。",
-        "en": "I was asked for my passport at the border.",
-        "tatoeba_id": 173069
-      },
-      {
-        "ja": "明日中には国境を越えます。",
-        "en": "We'll be across the border by tomorrow.",
-        "tatoeba_id": 80278
-      }
-    ]
-  },
-  {
     "id": "4d5c43bf88",
     "word": "首飾り",
     "reading": "くびかざり",
@@ -20962,14 +19972,9 @@
     "jmdict_id": 1592380,
     "examples": [
       {
-        "ja": "冷蔵庫に何か飲み物がありますか。",
-        "en": "Is there anything to drink in the refrigerator?",
-        "tatoeba_id": 77644
-      },
-      {
-        "ja": "蔵書に書き込みをしないで下さい。",
-        "en": "Please do not write in this library book.",
-        "tatoeba_id": 963653
+        "ja": "下戸の建てたる蔵もなし。",
+        "en": "Nobody ever got rich by saving on drinks.",
+        "tatoeba_id": 419267
       }
     ]
   },
@@ -21013,19 +20018,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1243910,
-    "examples": [
-      {
-        "ja": "私はどのクラブにも所属していない。",
-        "en": "I don't belong to any club.",
-        "tatoeba_id": 159254
-      },
-      {
-        "ja": "彼女はクラブの指導者をつとめた。",
-        "en": "She acted as leader of our club.",
-        "tatoeba_id": 92944
-      }
-    ]
+    "jmdict_id": 1243910
   },
   {
     "id": "a0ad5884f8",
@@ -21352,29 +20345,6 @@
     "jmdict_id": 1248970
   },
   {
-    "id": "4fb829873d",
-    "word": "傾",
-    "reading": "けい",
-    "romaji": "kei",
-    "meanings": [
-      "lean",
-      "incline"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "彼女は人の悪口を言う傾向がある。",
-        "en": "She tends to speak ill of others.",
-        "tatoeba_id": 88468
-      },
-      {
-        "ja": "彼女はその少年の話に耳を傾けた。",
-        "en": "She listened to him.",
-        "tatoeba_id": 92410
-      }
-    ]
-  },
-  {
     "id": "0dff3c38d4",
     "word": "刑",
     "reading": "けい",
@@ -21431,23 +20401,6 @@
         "tatoeba_id": 76934
       }
     ]
-  },
-  {
-    "id": "cc37631ed1",
-    "word": "頃",
-    "reading": "けい",
-    "romaji": "kei",
-    "meanings": [
-      "time",
-      "about",
-      "toward",
-      "approximately (time)"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 2210780
   },
   {
     "id": "8703a8fa42",
@@ -21992,34 +20945,6 @@
     ]
   },
   {
-    "id": "fc259785af",
-    "word": "汚す",
-    "reading": "けがす",
-    "romaji": "kegasu",
-    "meanings": [
-      "to disgrace",
-      "to dishonour"
-    ],
-    "level": "N1",
-    "pos": [
-      "v5s",
-      "vt"
-    ],
-    "jmdict_id": 1178960,
-    "examples": [
-      {
-        "ja": "あんな行動は彼の体面を汚すものだ。",
-        "en": "Such behavior is beneath his dignity.",
-        "tatoeba_id": 229550
-      },
-      {
-        "ja": "その本を汚さないように扱ってくれるなら、貸してあげるよ。",
-        "en": "You may borrow this book as long as you keep it clean.",
-        "tatoeba_id": 206646
-      }
-    ]
-  },
-  {
     "id": "d3c748f3ba",
     "word": "汚らわしい",
     "reading": "けがらわしい",
@@ -22063,22 +20988,6 @@
         "tatoeba_id": 74559
       }
     ]
-  },
-  {
-    "id": "21def84f2c",
-    "word": "汚れる",
-    "reading": "けがれる",
-    "romaji": "kegareru",
-    "meanings": [
-      "to get dirty",
-      "to become dirty"
-    ],
-    "level": "N1",
-    "pos": [
-      "v1",
-      "vi"
-    ],
-    "jmdict_id": 1179000
   },
   {
     "id": "8e53bced4f",
@@ -22196,19 +21105,7 @@
     "pos": [
       "ctr"
     ],
-    "jmdict_id": 2836694,
-    "examples": [
-      {
-        "ja": "彼には傑出した音楽の才能がある。",
-        "en": "He has an outstanding talent for music.",
-        "tatoeba_id": 118884
-      },
-      {
-        "ja": "近代小説の中でこれが最高傑作だ。",
-        "en": "Among modern novels, this is the best.",
-        "tatoeba_id": 179798
-      }
-    ]
+    "jmdict_id": 2836694
   },
   {
     "id": "0023032732",
@@ -22607,9 +21504,9 @@
         "tatoeba_id": 223492
       },
       {
-        "ja": "げっぷがよく出ます。",
-        "en": "I burp a lot.",
-        "tatoeba_id": 225246
+        "ja": "月賦によって人々は昔よりたくさんのものを購入できる。",
+        "en": "By means of monthly payments, people can purchase more than in the past.",
+        "tatoeba_id": 175613
       }
     ]
   },
@@ -23218,34 +22115,6 @@
     ]
   },
   {
-    "id": "fd91682964",
-    "word": "現場",
-    "reading": "げんじょう",
-    "romaji": "genjou",
-    "meanings": [
-      "actual spot",
-      "scene",
-      "scene of the crime"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1263760,
-    "examples": [
-      {
-        "ja": "群衆が現場に群がった。",
-        "en": "A crowd gathered at the scene.",
-        "tatoeba_id": 176714
-      },
-      {
-        "ja": "負傷者が現場から運ばれて行った。",
-        "en": "The injured were removed from the scene.",
-        "tatoeba_id": 84270
-      }
-    ]
-  },
-  {
     "id": "ce5ab31b34",
     "word": "健全",
     "reading": "けんぜん",
@@ -23747,26 +22616,31 @@
     ]
   },
   {
-    "id": "1efab75e93",
-    "word": "巨",
+    "id": "56ffead6fe",
+    "word": "個",
     "reading": "こ",
     "romaji": "ko",
     "meanings": [
-      "big",
-      "large",
-      "great"
+      "article counter"
     ],
     "level": "N1",
+    "pos": [
+      "ctr"
+    ],
+    "jmdict_id": 1264740,
+    "other_readings": [
+      "か"
+    ],
     "examples": [
       {
-        "ja": "対外貿易は巨額の収入をもたらす。",
-        "en": "Foreign trade brings in a large income.",
-        "tatoeba_id": 137956
+        "ja": "この懐中電灯は２個の電池が必要だ。",
+        "en": "This flashlight needs two batteries.",
+        "tatoeba_id": 222655
       },
       {
-        "ja": "今年は巨人が優勝しないと思うよ。",
-        "en": "I don't think that the Giants will be the champions this year.",
-        "tatoeba_id": 171322
+        "ja": "彼女は手荷物を２個持っていった。",
+        "en": "She took two pieces of baggage with her.",
+        "tatoeba_id": 88825
       }
     ]
   },
@@ -23955,7 +22829,6 @@
     "reading": "こう",
     "romaji": "kou",
     "meanings": [
-      "10^38",
       "hundred undecillion (American)",
       "hundred sextillion (British)"
     ],
@@ -24020,14 +22893,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1956270,
-    "examples": [
-      {
-        "ja": "敵軍は首都の周囲を塹壕で固めていた。",
-        "en": "The enemy was entrenched all around the capital.",
-        "tatoeba_id": 125299
-      }
-    ]
+    "jmdict_id": 1956270
   },
   {
     "id": "be5a647260",
@@ -24878,19 +23744,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1282890,
-    "examples": [
-      {
-        "ja": "今夏の降水量は普通でなかった。",
-        "en": "This summer we had an unusual amount of rain.",
-        "tatoeba_id": 172523
-      },
-      {
-        "ja": "アメダスによればこの３日間で村の降水量は１２００ミリを超えた。",
-        "en": "According to AMeDAS, the amount of precipitation in the village has exceeded 1,200 mm in three days.",
-        "tatoeba_id": 1112465
-      }
-    ]
+    "jmdict_id": 1282890
   },
   {
     "id": "6c44a3132f",
@@ -24939,19 +23793,7 @@
       "vt",
       "adj-no"
     ],
-    "jmdict_id": 1284940,
-    "examples": [
-      {
-        "ja": "汚れに強い合成皮革を使用した２人掛けのソファです。",
-        "en": "This is a two-seater sofa using stain-resistant artificial leather.",
-        "tatoeba_id": 74919
-      },
-      {
-        "ja": "この心霊写真、よくできているけど、ただの合成写真だよ。",
-        "en": "This ghost photo is well made, but it's just a composite.",
-        "tatoeba_id": 1328063
-      }
-    ]
+    "jmdict_id": 1284940
   },
   {
     "id": "aa577197fc",
@@ -25292,19 +24134,7 @@
       "vt",
       "adj-no"
     ],
-    "jmdict_id": 1274450,
-    "examples": [
-      {
-        "ja": "トムは公認会計士なんですよね？",
-        "en": "Tom is a CPA, isn't he?",
-        "tatoeba_id": 12485609
-      },
-      {
-        "ja": "彼は公認会計士の団体を除籍になった。",
-        "en": "He was expelled from the CPA association.",
-        "tatoeba_id": 1015922
-      }
-    ]
+    "jmdict_id": 1274450
   },
   {
     "id": "95a0a7e61d",
@@ -25945,19 +24775,7 @@
       "n",
       "adj-no"
     ],
-    "jmdict_id": 1287170,
-    "examples": [
-      {
-        "ja": "彼は我が国有数の頭脳の一人だ。",
-        "en": "He is one of the best brains in our country.",
-        "tatoeba_id": 109159
-      },
-      {
-        "ja": "共産主義の下では、生産手段は国有化される。",
-        "en": "In communism, the means of production are owned by the state.",
-        "tatoeba_id": 180623
-      }
-    ]
+    "jmdict_id": 1287170
   },
   {
     "id": "503535b26b",
@@ -26006,7 +24824,8 @@
     "reading": "こげちゃ",
     "romaji": "kogecha",
     "meanings": [
-      "black tea"
+      "dark brown",
+      "umber"
     ],
     "level": "N1",
     "pos": [
@@ -26472,14 +25291,9 @@
     "jmdict_id": 1612690,
     "examples": [
       {
-        "ja": "お預けになる荷物はございますか。",
-        "en": "Do you have any bags to check?",
-        "tatoeba_id": 226538
-      },
-      {
-        "ja": "あの、私、残念ですが小用が御座いますので、この辺りで失礼致しますね。",
-        "en": "Ah, unfortunately there is a small matter I need to attend to so I'll take my leave now.",
-        "tatoeba_id": 75040
+        "ja": "ご協力ありがとうございます。",
+        "en": "Thank you for your cooperation.",
+        "tatoeba_id": 217181
       }
     ]
   },
@@ -26727,8 +25541,8 @@
     "jmdict_id": 2827352
   },
   {
-    "id": "a7ada88224",
-    "word": "火燵",
+    "id": "e642ca265e",
+    "word": "炬燵",
     "reading": "こたつ",
     "romaji": "kotatsu",
     "meanings": [
@@ -27092,14 +25906,14 @@
     "jmdict_id": 1328650,
     "examples": [
       {
-        "ja": "ロックは殊に若者に人気だ。",
-        "en": "Rock music is especially popular among young people.",
-        "tatoeba_id": 13715808
+        "ja": "彼の最新作は趣を異にする。",
+        "en": "His latest work belongs to a different category.",
+        "tatoeba_id": 117314
       },
       {
-        "ja": "彼等は細かい差異に気がつかなかった。",
-        "en": "They did not notice minute differences.",
-        "tatoeba_id": 86014
+        "ja": "君と意見を異にするので私には心苦しい。",
+        "en": "It pains me to disagree with your opinion.",
+        "tatoeba_id": 178762
       }
     ]
   },
@@ -27411,8 +26225,8 @@
     ]
   },
   {
-    "id": "aa60c3ef51",
-    "word": "篭る",
+    "id": "8f4523a0a1",
+    "word": "籠もる",
     "reading": "こもる",
     "romaji": "komoru",
     "meanings": [
@@ -27517,14 +26331,14 @@
     "jmdict_id": 1557950,
     "examples": [
       {
-        "ja": "昭和１０年は西暦１９３５年です。",
-        "en": "The 10th year of Showa is 1935 in the Western calendar.",
-        "tatoeba_id": 531350
-      },
-      {
         "ja": "マヤ暦には、19の月があります。",
         "en": "The Mayan calendar has 19 months.",
         "tatoeba_id": 11870680
+      },
+      {
+        "ja": "ユリウス暦で、今日は何月何日？",
+        "en": "What day is it today on the Julian calendar?",
+        "tatoeba_id": 11870739
       }
     ]
   },
@@ -27947,28 +26761,6 @@
     ]
   },
   {
-    "id": "f197257033",
-    "word": "佐",
-    "reading": "さ",
-    "romaji": "sa",
-    "meanings": [
-      "help"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "でもさ、母を連れて行かなくてはいけないんだ。",
-        "en": "But, I have to take my mother.",
-        "tatoeba_id": 202099
-      },
-      {
-        "ja": "ベストをつくしたら後はくよくよ考えないことさ。",
-        "en": "Do your best and don't worry.",
-        "tatoeba_id": 196834
-      }
-    ]
-  },
-  {
     "id": "c78ec3cd4b",
     "word": "差異",
     "reading": "さい",
@@ -28029,7 +26821,8 @@
     "reading": "さい",
     "romaji": "sai",
     "meanings": [
-      "#NAME?"
+      "... years old",
+      "age (of) ..."
     ],
     "level": "N1",
     "pos": [
@@ -28211,9 +27004,9 @@
         "tatoeba_id": 10217016
       },
       {
-        "ja": "採掘場が爆発した時、中には誰もいなかった。",
-        "en": "There was no one in the mine when it blew up.",
-        "tatoeba_id": 170311
+        "ja": "鉄のツルハシかそれ以上のものがないと、ダイヤモンドの採掘はできません。",
+        "en": "You can't mine diamonds without an iron pickaxe or better.",
+        "tatoeba_id": 10061606
       }
     ]
   },
@@ -28327,14 +27120,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1296810,
-    "examples": [
-      {
-        "ja": "地方の道路整備のための財源確保が必要です。",
-        "en": "It is necessary to secure financing for local road maintenance.",
-        "tatoeba_id": 75879
-      }
-    ]
+    "jmdict_id": 1296810
   },
   {
     "id": "ee78c61579",
@@ -28661,14 +27447,14 @@
     "jmdict_id": 1294890,
     "examples": [
       {
-        "ja": "６世紀にアングロ・サクソン族はローマ文字を採用した。",
-        "en": "In the 6th century, the Anglo-Saxons adopted Roman characters.",
-        "tatoeba_id": 235022
-      },
-      {
         "ja": "都会の会社は有能な若者を採用しようと互いに張り合った。",
         "en": "City firms vied with each other to hire the brightest young staff.",
         "tatoeba_id": 124562
+      },
+      {
+        "ja": "彼はその仕事に志願し採用された。",
+        "en": "He applied for the job and got it.",
+        "tatoeba_id": 112849
       }
     ]
   },
@@ -28882,35 +27668,6 @@
     ]
   },
   {
-    "id": "fecd7fd189",
-    "word": "逆上る",
-    "reading": "さかのぼる",
-    "romaji": "sakanoboru",
-    "meanings": [
-      "to go back",
-      "to go upstream",
-      "to make retroactive"
-    ],
-    "level": "N1",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1397830,
-    "examples": [
-      {
-        "ja": "その教会は１１７３年までさかのぼる。",
-        "en": "The church dates back to 1173.",
-        "tatoeba_id": 211419
-      },
-      {
-        "ja": "鮭は川をさかのぼって砂に産卵する。",
-        "en": "Salmon go up the river and lay their eggs in the sand.",
-        "tatoeba_id": 169564
-      }
-    ]
-  },
-  {
     "id": "4ae5663b6a",
     "word": "盛る",
     "reading": "さかる",
@@ -28931,11 +27688,37 @@
         "ja": "お刺身を盛るお皿は、どれにする？",
         "en": "Which plate should I serve sashimi on?",
         "tatoeba_id": 10811008
+      }
+    ]
+  },
+  {
+    "id": "ae0f9d6aed",
+    "word": "下がる",
+    "reading": "さがる",
+    "romaji": "sagaru",
+    "meanings": [
+      "to hang down",
+      "to abate",
+      "to retire",
+      "to fall",
+      "to step back"
+    ],
+    "level": "N1",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1184160,
+    "examples": [
+      {
+        "ja": "ランプは天井から下がっていた。",
+        "en": "The lamp hung from the ceiling.",
+        "tatoeba_id": 192547
       },
       {
-        "ja": "その消防夫は勇敢にも燃え盛る家から赤ん坊を救った。",
-        "en": "The brave fireman rescued a boy from the burning house.",
-        "tatoeba_id": 209006
+        "ja": "昨日は気温が零下５度に下がった。",
+        "en": "The temperature fell five degrees centigrade below zero yesterday.",
+        "tatoeba_id": 169975
       }
     ]
   },
@@ -29123,19 +27906,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1298420,
-    "examples": [
-      {
-        "ja": "解決策が功を奏したのは試行錯誤の結果だった。",
-        "en": "Finding a solution that worked was a process of trial and error.",
-        "tatoeba_id": 185195
-      },
-      {
-        "ja": "試行錯誤の末、彼はふと正しい答えを思いついた。",
-        "en": "Through trial and error, he found the right answer by chance.",
-        "tatoeba_id": 151056
-      }
-    ]
+    "jmdict_id": 1298420
   },
   {
     "id": "ad558472a4",
@@ -29651,34 +28422,6 @@
     ]
   },
   {
-    "id": "bff4139f09",
-    "word": "早急",
-    "reading": "さっきゅう",
-    "romaji": "sakkyuu",
-    "meanings": [
-      "urgent"
-    ],
-    "level": "N1",
-    "pos": [
-      "adj-na",
-      "adj-no",
-      "n"
-    ],
-    "jmdict_id": 1581270,
-    "examples": [
-      {
-        "ja": "この問題は早急に手を打つ必要がある。",
-        "en": "Something must be done immediately to deal with this problem.",
-        "tatoeba_id": 219368
-      },
-      {
-        "ja": "この件について早急に調べてください。",
-        "en": "Please look into this matter as soon as you can.",
-        "tatoeba_id": 222153
-      }
-    ]
-  },
-  {
     "id": "42a1f92fce",
     "word": "殺人",
     "reading": "さつじん",
@@ -29783,14 +28526,14 @@
     "jmdict_id": 1005200,
     "examples": [
       {
-        "ja": "彼は教室をさっと抜け出した。",
-        "en": "He slipped out of the classroom.",
-        "tatoeba_id": 108323
+        "ja": "編集者は原稿にさっと目を通した。",
+        "en": "The editor glanced over the manuscript.",
+        "tatoeba_id": 83361
       },
       {
-        "ja": "すばらしい景色がさっと目の前に現れた。",
-        "en": "A glorious sight burst on our view.",
-        "tatoeba_id": 214565
+        "ja": "次郎は服にさっとブラシをかけた。",
+        "en": "Jiro gave his suit a quick brush.",
+        "tatoeba_id": 150182
       }
     ]
   },
@@ -29882,8 +28625,8 @@
     "jmdict_id": 1638190
   },
   {
-    "id": "601df0dc81",
-    "word": "左程",
+    "id": "2726e030a9",
+    "word": "然程",
     "reading": "さほど",
     "romaji": "sahodo",
     "meanings": [
@@ -29968,28 +28711,6 @@
     ]
   },
   {
-    "id": "34d511e885",
-    "word": "三味線",
-    "reading": "さみせん",
-    "romaji": "samisen",
-    "meanings": [
-      "three-stringed Japanese guitar",
-      "shamisen"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1579450,
-    "examples": [
-      {
-        "ja": "彼女は三味線による新しいジャズの演奏法を始めた。",
-        "en": "She originated a new way of playing jazz on the shamisen.",
-        "tatoeba_id": 89842
-      }
-    ]
-  },
-  {
     "id": "1aaa4f2c34",
     "word": "侍",
     "reading": "さむらい",
@@ -30070,8 +28791,8 @@
     ]
   },
   {
-    "id": "94587a95bf",
-    "word": "拐う",
+    "id": "6eaf31b290",
+    "word": "攫う",
     "reading": "さらう",
     "romaji": "sarau",
     "meanings": [
@@ -30304,35 +29025,6 @@
     ]
   },
   {
-    "id": "692c27d2ea",
-    "word": "桟橋",
-    "reading": "さんきょう",
-    "romaji": "sankyou",
-    "meanings": [
-      "wharf",
-      "bridge",
-      "jetty",
-      "pier"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1303650,
-    "examples": [
-      {
-        "ja": "昔ここには桟橋があったんだ。",
-        "en": "There used to be a pier here.",
-        "tatoeba_id": 9187894
-      },
-      {
-        "ja": "コンクリート桟橋なのですが、途中何カ所か崩壊しています。",
-        "en": "It's a concrete bridge, but several places along its length have collapsed.",
-        "tatoeba_id": 504002
-      }
-    ]
-  },
-  {
     "id": "5a574aee6b",
     "word": "残金",
     "reading": "ざんきん",
@@ -30373,11 +29065,6 @@
         "ja": "女性は産後すぐに亡くなった。",
         "en": "The woman died shortly after giving birth.",
         "tatoeba_id": 8717157
-      },
-      {
-        "ja": "出産後でも、授乳期間中のお酒はダメですよ。",
-        "en": "Even after delivery, you can't drink alcohol when you are breastfeeding.",
-        "tatoeba_id": 1048341
       }
     ]
   },
@@ -30545,6 +29232,38 @@
     ]
   },
   {
+    "id": "6114f36b6b",
+    "word": "桟橋",
+    "reading": "さんばし",
+    "romaji": "sanbashi",
+    "meanings": [
+      "wharf",
+      "bridge",
+      "jetty",
+      "pier"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1303650,
+    "other_readings": [
+      "さんきょう"
+    ],
+    "examples": [
+      {
+        "ja": "昔ここには桟橋があったんだ。",
+        "en": "There used to be a pier here.",
+        "tatoeba_id": 9187894
+      },
+      {
+        "ja": "コンクリート桟橋なのですが、途中何カ所か崩壊しています。",
+        "en": "It's a concrete bridge, but several places along its length have collapsed.",
+        "tatoeba_id": 504002
+      }
+    ]
+  },
+  {
     "id": "6c40f292f8",
     "word": "賛美",
     "reading": "さんび",
@@ -30673,35 +29392,6 @@
         "ja": "あの山脈の名前は何と言いますか。",
         "en": "What's the name of the mountain range?",
         "tatoeba_id": 230991
-      }
-    ]
-  },
-  {
-    "id": "bfdd7bd17d",
-    "word": "し",
-    "reading": "し",
-    "romaji": "shi",
-    "meanings": [
-      "10^24 (kanji is JIS X 0212 kuten 4906)",
-      "septillion (American)",
-      "quadrillion (British)"
-    ],
-    "level": "N1",
-    "pos": [
-      "prt",
-      "conj"
-    ],
-    "jmdict_id": 2086640,
-    "examples": [
-      {
-        "ja": "彼は勤勉でもないし利口でもない。",
-        "en": "He is neither diligent nor clever.",
-        "tatoeba_id": 108282
-      },
-      {
-        "ja": "それは作りやすいし、しかも安い。",
-        "en": "It's easy to make and it's cheap.",
-        "tatoeba_id": 205185
       }
     ]
   },
@@ -31009,19 +29699,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1313110,
-    "examples": [
-      {
-        "ja": "彼女は少ししか科学の知識がない。",
-        "en": "She has little knowledge of science.",
-        "tatoeba_id": 88686
-      },
-      {
-        "ja": "試験まで、たった一週間しか残っていない。",
-        "en": "There is only a week left before the examination.",
-        "tatoeba_id": 151074
-      }
-    ]
+    "jmdict_id": 1313110
   },
   {
     "id": "69d6bca427",
@@ -31319,14 +29997,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1316980,
-    "examples": [
-      {
-        "ja": "その陶磁器は特別な棚に陳列されていた。",
-        "en": "The china was displayed in a special cabinet.",
-        "tatoeba_id": 207452
-      }
-    ]
+    "jmdict_id": 1316980
   },
   {
     "id": "ba9a20ea9f",
@@ -31407,9 +30078,9 @@
     "jmdict_id": 1594160,
     "examples": [
       {
-        "ja": "私はそのしきたりをよく知っている。",
-        "en": "I am acquainted with the custom.",
-        "tatoeba_id": 160376
+        "ja": "彼はそのしきたりをよく知っている。",
+        "en": "He is acquainted with the custom.",
+        "tatoeba_id": 113178
       },
       {
         "ja": "コーヒー休みは米国のしきたりである。",
@@ -31417,24 +30088,6 @@
         "tatoeba_id": 224846
       }
     ]
-  },
-  {
-    "id": "83edb0709e",
-    "word": "施行",
-    "reading": "しぎょう",
-    "romaji": "shigyou",
-    "meanings": [
-      "execution",
-      "enforcing",
-      "carrying out"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "jmdict_id": 1579510
   },
   {
     "id": "ae6a0942f1",
@@ -31463,29 +30116,6 @@
         "ja": "父はこの事業を４０年前に始めた。",
         "en": "Father established his business 40 years ago.",
         "tatoeba_id": 84729
-      }
-    ]
-  },
-  {
-    "id": "7cb81727f5",
-    "word": "地形",
-    "reading": "じぎょう",
-    "romaji": "jigyou",
-    "meanings": [
-      "terrain",
-      "geographical features",
-      "topography"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1421030,
-    "examples": [
-      {
-        "ja": "ヘリコプターの運転席からなら、その地の素晴らしい地形を見渡すのは容易い。",
-        "en": "It's easy to see the area's majestic topography from the cockpit of a helicopter.",
-        "tatoeba_id": 4213301
       }
     ]
   },
@@ -31775,6 +30405,27 @@
     ]
   },
   {
+    "id": "5dea6ed2ff",
+    "word": "施行",
+    "reading": "しこう",
+    "romaji": "shikou",
+    "meanings": [
+      "execution",
+      "enforcing",
+      "carrying out"
+    ],
+    "level": "N1",
+    "pos": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "jmdict_id": 1579510,
+    "other_readings": [
+      "しぎょう"
+    ]
+  },
+  {
     "id": "9f66f67f0f",
     "word": "嗜好",
     "reading": "しこう",
@@ -31793,14 +30444,9 @@
     "jmdict_id": 1565500,
     "examples": [
       {
-        "ja": "ジョージはとても話し好きだ。",
-        "en": "George is quite talkative.",
-        "tatoeba_id": 215657
-      },
-      {
-        "ja": "君のことが少し好きだったよ。",
-        "en": "I used to have a little crush on you.",
-        "tatoeba_id": 8603393
+        "ja": "コーヒーは酸味のないものの方が父の嗜好に合うようだ。",
+        "en": "Coffee without acidity seems to suit my father's taste better.",
+        "tatoeba_id": 1202808
       }
     ]
   },
@@ -32065,19 +30711,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1317860,
-    "examples": [
-      {
-        "ja": "スペインから帰国する人全員に14日間の自主隔離を義務付けた。",
-        "en": "People returning from Spain are required to self-quarantine for 14 days.",
-        "tatoeba_id": 8980965
-      },
-      {
-        "ja": "靖国神社参拝に関しては閣僚の自主的な判断に任せられている。",
-        "en": "The question of worshipping at the Yasukuni Shrine is left to the independent judgement of Cabinet ministers.",
-        "tatoeba_id": 75686
-      }
-    ]
+    "jmdict_id": 1317860
   },
   {
     "id": "99dd4adc73",
@@ -32367,11 +31001,6 @@
     ],
     "jmdict_id": 1315810,
     "examples": [
-      {
-        "ja": "彼は持続可能な開発の専門家です。",
-        "en": "He is a specialist in sustainable development.",
-        "tatoeba_id": 6971782
-      },
       {
         "ja": "自転車は都会の環境を破壊することなく資源利用を持続することのできる道具である。",
         "en": "Bicycles are tools for urban sustainability.",
@@ -32899,7 +31528,19 @@
       "v1",
       "vt"
     ],
-    "jmdict_id": 1305350
+    "jmdict_id": 1305350,
+    "examples": [
+      {
+        "ja": "犬をしつけるのは、容易ではない。",
+        "en": "It is not easy to train dogs.",
+        "tatoeba_id": 175232
+      },
+      {
+        "ja": "彼は子供をしつけるのに厳格だった。",
+        "en": "He was strict in disciplining his children.",
+        "tatoeba_id": 106534
+      }
+    ]
   },
   {
     "id": "e2cd3d1a33",
@@ -33048,14 +31689,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1320080,
-    "examples": [
-      {
-        "ja": "ニジェールでは50万人もの子供たちが未だ栄養失調に直面している。",
-        "en": "Half a million children still face malnutrition in Niger.",
-        "tatoeba_id": 5132
-      }
-    ]
+    "jmdict_id": 1320080
   },
   {
     "id": "4cd81e6ad4",
@@ -33510,19 +32144,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1306680,
-    "examples": [
-      {
-        "ja": "司法書士を訪ねてみてください。",
-        "en": "Try paying the scrivener a visit.",
-        "tatoeba_id": 10951025
-      },
-      {
-        "ja": "彼は司法試験に合格し、法律事務所を創設した。",
-        "en": "He passed the law examination and set up a law office.",
-        "tatoeba_id": 106589
-      }
-    ]
+    "jmdict_id": 1306680
   },
   {
     "id": "f5c71c5eae",
@@ -33863,19 +32485,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1323050,
-    "examples": [
-      {
-        "ja": "彼は面会謝絶だ。",
-        "en": "He sees no company.",
-        "tatoeba_id": 99554
-      },
-      {
-        "ja": "細菌などから隔離するため、面会謝絶となっています。",
-        "en": "In order to isolate him from bacteria, and such, he is not allowed visitors.",
-        "tatoeba_id": 74255
-      }
-    ]
+    "jmdict_id": 1323050
   },
   {
     "id": "5884d0807c",
@@ -33923,6 +32533,31 @@
         "ja": "彼は話を和らげるために若干の冗談を必要とする。",
         "en": "He needs a few jokes to lighten up his talk.",
         "tatoeba_id": 98845
+      }
+    ]
+  },
+  {
+    "id": "e02b1d0bdc",
+    "word": "三味線",
+    "reading": "しゃみせん",
+    "romaji": "shamisen",
+    "meanings": [
+      "three-stringed Japanese guitar",
+      "shamisen"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1579450,
+    "other_readings": [
+      "さみせん"
+    ],
+    "examples": [
+      {
+        "ja": "彼女は三味線による新しいジャズの演奏法を始めた。",
+        "en": "She originated a new way of playing jazz on the shamisen.",
+        "tatoeba_id": 89842
       }
     ]
   },
@@ -34156,7 +32791,7 @@
     ],
     "level": "N1",
     "pos": [
-      "n"
+      "ctr"
     ],
     "jmdict_id": 1331020,
     "examples": [
@@ -34186,19 +32821,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1333240,
-    "examples": [
-      {
-        "ja": "彼らは群衆の中にトムを見つけた。",
-        "en": "They found Tom in the crowd.",
-        "tatoeba_id": 97291
-      },
-      {
-        "ja": "彼は聴衆に静かな口調で演説した。",
-        "en": "He addressed the audience in a soft tone.",
-        "tatoeba_id": 102081
-      }
-    ]
+    "jmdict_id": 1333240
   },
   {
     "id": "66ac33159b",
@@ -34215,14 +32838,7 @@
       "vt",
       "adj-no"
     ],
-    "jmdict_id": 1311390,
-    "examples": [
-      {
-        "ja": "彼はわれわれの私有地に不法侵入している、無断で通っている。",
-        "en": "He is trespassing on our private property.",
-        "tatoeba_id": 110238
-      }
-    ]
+    "jmdict_id": 1311390
   },
   {
     "id": "3a37cfc263",
@@ -34293,19 +32909,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1331950,
-    "examples": [
-      {
-        "ja": "私は修学旅行を大変楽しみにしている。",
-        "en": "I am looking forward very much to the school excursion.",
-        "tatoeba_id": 156047
-      },
-      {
-        "ja": "修学旅行行ったんだよね？どうだった？",
-        "en": "You went on the school trip, didn't you? How was it?",
-        "tatoeba_id": 1619853
-      }
-    ]
+    "jmdict_id": 1331950
   },
   {
     "id": "36e8d19bfd",
@@ -34320,19 +32924,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1331090,
-    "examples": [
-      {
-        "ja": "元素周期表に詳しかったりする？",
-        "en": "Are you familiar with the periodic table of chemical elements?",
-        "tatoeba_id": 11845627
-      },
-      {
-        "ja": "月経周期は約４週間です。",
-        "en": "My menstrual cycle is about every four weeks.",
-        "tatoeba_id": 175620
-      }
-    ]
+    "jmdict_id": 1331090
   },
   {
     "id": "5dab2cd493",
@@ -34377,11 +32969,6 @@
         "ja": "僕も学生の時はよく就業をサボったよ。",
         "en": "When I was a student, I also often cut classes.",
         "tatoeba_id": 13715791
-      },
-      {
-        "ja": "もう就業時間です。仕事にとりかかりましょう。",
-        "en": "It's time to work now. Let's get down to business.",
-        "tatoeba_id": 194170
       }
     ]
   },
@@ -34406,9 +32993,6 @@
       "vi"
     ],
     "jmdict_id": 1579800,
-    "other_forms": [
-      "修行"
-    ],
     "examples": [
       {
         "ja": "只今、僕は旅立ちの日に向けて修業中です。",
@@ -34674,31 +33258,6 @@
     ]
   },
   {
-    "id": "0b513dac8f",
-    "word": "執着",
-    "reading": "しゅうじゃく",
-    "romaji": "shuujaku",
-    "meanings": [
-      "attachment",
-      "adhesion",
-      "tenacity"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "jmdict_id": 1594740,
-    "examples": [
-      {
-        "ja": "彼は弁護士になれるという希望に執着していた。",
-        "en": "He clung to the hope that he could be a lawyer.",
-        "tatoeba_id": 100102
-      }
-    ]
-  },
-  {
     "id": "9510e4a8e0",
     "word": "収集",
     "reading": "しゅうしゅう",
@@ -34783,6 +33342,34 @@
     ]
   },
   {
+    "id": "27fa290805",
+    "word": "執着",
+    "reading": "しゅうちゃく",
+    "romaji": "shuuchaku",
+    "meanings": [
+      "attachment",
+      "adhesion",
+      "tenacity"
+    ],
+    "level": "N1",
+    "pos": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "jmdict_id": 1594740,
+    "other_readings": [
+      "しゅうじゃく"
+    ],
+    "examples": [
+      {
+        "ja": "彼は弁護士になれるという希望に執着していた。",
+        "en": "He clung to the hope that he could be a lawyer.",
+        "tatoeba_id": 100102
+      }
+    ]
+  },
+  {
     "id": "c08a9ce069",
     "word": "柔軟",
     "reading": "じゅうなん",
@@ -34835,34 +33422,6 @@
         "ja": "この文は重複したため削除されました。",
         "en": "This sentence has been deleted because it was a duplicate.",
         "tatoeba_id": 10025725
-      }
-    ]
-  },
-  {
-    "id": "e69bb01230",
-    "word": "重宝",
-    "reading": "じゅうほう",
-    "romaji": "juuhou",
-    "meanings": [
-      "priceless treasure",
-      "convenience",
-      "usefulness"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1579990,
-    "examples": [
-      {
-        "ja": "車は持っていると重宝なものだ。",
-        "en": "A car is a handy thing to own.",
-        "tatoeba_id": 148994
-      },
-      {
-        "ja": "このガイドブックは海外旅行に持っていくと重宝する。",
-        "en": "This guidebook is handy to take on a trip abroad.",
-        "tatoeba_id": 223914
       }
     ]
   },
@@ -35023,14 +33582,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1325180,
-    "examples": [
-      {
-        "ja": "彼の文章はとても主観的だ。",
-        "en": "His writing is very subjective.",
-        "tatoeba_id": 116191
-      }
-    ]
+    "jmdict_id": 1325180
   },
   {
     "id": "cd7c2b10e4",
@@ -35075,19 +33627,7 @@
       "vt",
       "adj-no"
     ],
-    "jmdict_id": 1337410,
-    "examples": [
-      {
-        "ja": "戦勝を祝う祝賀会が開かれた。",
-        "en": "Ceremonies were held to celebrate victories.",
-        "tatoeba_id": 141317
-      },
-      {
-        "ja": "その祝賀会で、彼は自分の親戚に私を紹介した。",
-        "en": "He introduced me to his relatives at the reception.",
-        "tatoeba_id": 209423
-      }
-    ]
+    "jmdict_id": 1337410
   },
   {
     "id": "f5d1e73974",
@@ -35655,19 +34195,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1325980,
-    "examples": [
-      {
-        "ja": "彼はその政党の主導権をにぎった。",
-        "en": "He assumed the leadership of the political party.",
-        "tatoeba_id": 112595
-      },
-      {
-        "ja": "市当局は公害訴訟で主導権をとった。",
-        "en": "The city took the initiative in the pollution suit.",
-        "tatoeba_id": 168316
-      }
-    ]
+    "jmdict_id": 1325980
   },
   {
     "id": "4f38fa0c68",
@@ -35969,14 +34497,14 @@
     "jmdict_id": 1346570,
     "examples": [
       {
-        "ja": "彼は父からその商売を引き継いだ。",
-        "en": "He took over the business from his father.",
-        "tatoeba_id": 100415
+        "ja": "あの店では台所用品を商っている。",
+        "en": "At this shop, they deal in kitchen utensils.",
+        "tatoeba_id": 230548
       },
       {
-        "ja": "彼は商用でニューヨークへ行った。",
-        "en": "He went to New York on business.",
-        "tatoeba_id": 104181
+        "ja": "彼はあの店で野菜を商いしています。",
+        "en": "He deals in vegetables at that shop.",
+        "tatoeba_id": 114888
       }
     ]
   },
@@ -36014,34 +34542,6 @@
       "n"
     ],
     "jmdict_id": 1351820
-  },
-  {
-    "id": "13d33fd5f0",
-    "word": "背負う",
-    "reading": "しょう",
-    "romaji": "shou",
-    "meanings": [
-      "to be burdened with",
-      "to carry on back or shoulder"
-    ],
-    "level": "N1",
-    "pos": [
-      "v5u",
-      "vt"
-    ],
-    "jmdict_id": 1472860,
-    "examples": [
-      {
-        "ja": "彼女は背中にリュックサックを背おっている。",
-        "en": "She is carrying a backpack on her back.",
-        "tatoeba_id": 87557
-      },
-      {
-        "ja": "私はその重たい袋を背負って運んだ。",
-        "en": "I carried the heavy bag on my back.",
-        "tatoeba_id": 160045
-      }
-    ]
   },
   {
     "id": "ed2023474e",
@@ -36113,19 +34613,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1156390,
-    "examples": [
-      {
-        "ja": "彼は大尉以上の者を全員招集した。",
-        "en": "He called together everyone who was a captain and above.",
-        "tatoeba_id": 102469
-      },
-      {
-        "ja": "大尉は軍曹よりも階級が上だ。",
-        "en": "A captain is above a sergeant.",
-        "tatoeba_id": 137687
-      }
-    ]
+    "jmdict_id": 1156390
   },
   {
     "id": "ed26af448e",
@@ -36197,14 +34685,14 @@
     "jmdict_id": 1356690,
     "examples": [
       {
-        "ja": "本状の持参人は友人の鈴木君です。",
-        "en": "The bearer of this letter is my friend Suzuki.",
-        "tatoeba_id": 74112
+        "ja": "水を加えてペースト状になるまでかき回しなさい。",
+        "en": "Add water and stir to a paste.",
+        "tatoeba_id": 143709
       },
       {
-        "ja": "両国は今、平和な状態にあります。",
-        "en": "Both countries are now at peace.",
-        "tatoeba_id": 78102
+        "ja": "チーズは細くスライスするか小さくキューブ状にカットします。",
+        "en": "Cut the cheese into thin slices or into little cubes.",
+        "tatoeba_id": 11582507
       }
     ]
   },
@@ -36214,7 +34702,7 @@
     "reading": "じょう",
     "romaji": "jou",
     "meanings": [
-      "#NAME?"
+      "tatami mat (esp. as a measure of room size, either 1.82 sqm or 1.54 sqm)"
     ],
     "level": "N1",
     "pos": [
@@ -36290,45 +34778,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1355720,
-    "examples": [
-      {
-        "ja": "ここは企業城下町です。",
-        "en": "This is a company town.",
-        "tatoeba_id": 3594921
-      },
-      {
-        "ja": "彼は農夫に身をやつして城下町に潜入した。",
-        "en": "Disguising himself as a peasant, he crept into the castle town.",
-        "tatoeba_id": 75769
-      }
-    ]
-  },
-  {
-    "id": "530d672795",
-    "word": "乗客",
-    "reading": "じょうかく",
-    "romaji": "joukaku",
-    "meanings": [
-      "passenger"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1580490,
-    "examples": [
-      {
-        "ja": "乗客はどちらの側にも４人すわっていた。",
-        "en": "The passengers sat four aside.",
-        "tatoeba_id": 146154
-      },
-      {
-        "ja": "乗客は今電車に乗り込んで下さい。",
-        "en": "Passengers should board the train now.",
-        "tatoeba_id": 146149
-      }
-    ]
+    "jmdict_id": 1355720
   },
   {
     "id": "4c7f08ecc1",
@@ -36353,11 +34803,6 @@
         "ja": "一番下の背景レイヤーを消去します。",
         "en": "Remove the lower-most background layer.",
         "tatoeba_id": 370043
-      },
-      {
-        "ja": "「なんで私？」「消去法で仕方がなかったから」",
-        "en": "\"Why me?\" \"Because, by process of elimination, there was no other choice.\"",
-        "tatoeba_id": 1594271
       }
     ]
   },
@@ -36472,31 +34917,6 @@
         "ja": "弁護士は、新しい証拠を提出した。",
         "en": "The lawyer brought up new evidence.",
         "tatoeba_id": 83276
-      }
-    ]
-  },
-  {
-    "id": "d49ecddb9f",
-    "word": "消耗",
-    "reading": "しょうこう",
-    "romaji": "shoukou",
-    "meanings": [
-      "exhaustion",
-      "consumption"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "vs",
-      "vt",
-      "vi"
-    ],
-    "jmdict_id": 1580310,
-    "examples": [
-      {
-        "ja": "その男の子の世話で彼女は非常に精力を消耗する。",
-        "en": "Taking care of the boy is a great drain on her energies.",
-        "tatoeba_id": 208165
       }
     ]
   },
@@ -37469,34 +35889,6 @@
     ]
   },
   {
-    "id": "3bf0984f46",
-    "word": "所々",
-    "reading": "しょしょ",
-    "romaji": "shosho",
-    "meanings": [
-      "here and there",
-      "some parts (of something)"
-    ],
-    "level": "N1",
-    "pos": [
-      "adv",
-      "n"
-    ],
-    "jmdict_id": 1598730,
-    "examples": [
-      {
-        "ja": "その本は所々非常にすばらしい。",
-        "en": "Parts of the book are quite good.",
-        "tatoeba_id": 206668
-      },
-      {
-        "ja": "その習慣は今なお日本の所々で行われている。",
-        "en": "The practice still prevails locally in parts of Japan.",
-        "tatoeba_id": 209447
-      }
-    ]
-  },
-  {
     "id": "c261df67ce",
     "word": "徐々",
     "reading": "じょじょ",
@@ -37857,19 +36249,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1343590,
-    "examples": [
-      {
-        "ja": "彼女は庶務課に所属している。",
-        "en": "She is attached to the general affairs section.",
-        "tatoeba_id": 88736
-      },
-      {
-        "ja": "どんなに焦っても庶務的な仕事がどんどん溜まってきて追いつかない。",
-        "en": "No matter how much I rush it, miscellaneous work keeps piling up and I can't catch up with it.",
-        "tatoeba_id": 542195
-      }
-    ]
+    "jmdict_id": 1343590
   },
   {
     "id": "1357fa159f",
@@ -38207,19 +36587,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1442480,
-    "examples": [
-      {
-        "ja": "宮殿には国王と王妃が住んでいる。",
-        "en": "In the palace live the king and the queen.",
-        "tatoeba_id": 182612
-      },
-      {
-        "ja": "パンテオンはローマの神殿でした。",
-        "en": "The Pantheon was a Roman temple.",
-        "tatoeba_id": 12700985
-      }
-    ]
+    "jmdict_id": 1442480
   },
   {
     "id": "ab248f91f9",
@@ -38293,14 +36661,7 @@
     "pos": [
       "adj-no"
     ],
-    "jmdict_id": 1361750,
-    "examples": [
-      {
-        "ja": "大本教は日本の新興宗教の一つに数えられる。",
-        "en": "Oomoto can be included among the new religions of Japan.",
-        "tatoeba_id": 1471003
-      }
-    ]
+    "jmdict_id": 1361750
   },
   {
     "id": "5b0f6d5ab1",
@@ -38976,36 +37337,6 @@
     "jmdict_id": 1359500
   },
   {
-    "id": "9e4e45fcdc",
-    "word": "審判",
-    "reading": "しんばん",
-    "romaji": "shinban",
-    "meanings": [
-      "refereeing",
-      "trial",
-      "judgement",
-      "umpire",
-      "referee"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1360410,
-    "examples": [
-      {
-        "ja": "大衆の注意は彼の審判に向けられた。",
-        "en": "The public interest was directed at his judgement.",
-        "tatoeba_id": 137511
-      },
-      {
-        "ja": "彼一人だけ余る、だから審判させよう。",
-        "en": "He's an odd man; so we'll have him referee.",
-        "tatoeba_id": 95758
-      }
-    ]
-  },
-  {
     "id": "6de88050b9",
     "word": "神秘",
     "reading": "しんぴ",
@@ -39087,33 +37418,6 @@
         "ja": "米国の人民は独立のために戦った。",
         "en": "The people of America fought for their independence.",
         "tatoeba_id": 83499
-      }
-    ]
-  },
-  {
-    "id": "40355a2e06",
-    "word": "人目",
-    "reading": "じんもく",
-    "romaji": "jinmoku",
-    "meanings": [
-      "glimpse",
-      "public gaze"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1580760,
-    "examples": [
-      {
-        "ja": "その家は高い塀で人目から遮られている。",
-        "en": "The house is screened from view with a high fence.",
-        "tatoeba_id": 212088
-      },
-      {
-        "ja": "意外に人目を気にするタイプだ。",
-        "en": "Surprisingly, he is the type that worries about being in the public eye.",
-        "tatoeba_id": 191069
       }
     ]
   },
@@ -39227,31 +37531,6 @@
     ]
   },
   {
-    "id": "4a3722a536",
-    "word": "水気",
-    "reading": "すいき",
-    "romaji": "suiki",
-    "meanings": [
-      "moisture",
-      "dampness",
-      "vapor",
-      "dropsy",
-      "edema"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1371390,
-    "examples": [
-      {
-        "ja": "お風呂から上がって脱衣所に入る時は、タオルでしっかり水気を拭き取りましょう。",
-        "en": "When you get out of the bath, dry yourself off before going into the dressing room.",
-        "tatoeba_id": 9681803
-      }
-    ]
-  },
-  {
     "id": "76883dba8d",
     "word": "水源",
     "reading": "すいげん",
@@ -39339,19 +37618,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1370790,
-    "examples": [
-      {
-        "ja": "彼は吹奏楽団に所属しています。",
-        "en": "He belongs to the brass band.",
-        "tatoeba_id": 103506
-      },
-      {
-        "ja": "吹奏楽隊が通りを行進している。",
-        "en": "A brass band is marching along the street.",
-        "tatoeba_id": 143848
-      }
-    ]
+    "jmdict_id": 1370790
   },
   {
     "id": "44a1e074f7",
@@ -39566,38 +37833,6 @@
         "ja": "１０時過ぎには電話をしないで下さい。",
         "en": "Don't call me up after ten o'clock.",
         "tatoeba_id": 236041
-      }
-    ]
-  },
-  {
-    "id": "c72db70cb5",
-    "word": "直ぐ",
-    "reading": "すぐ",
-    "romaji": "sugu",
-    "meanings": [
-      "immediately",
-      "soon",
-      "easily",
-      "right (near)",
-      "honest",
-      "upright"
-    ],
-    "level": "N1",
-    "pos": [
-      "adv",
-      "n"
-    ],
-    "jmdict_id": 1430610,
-    "examples": [
-      {
-        "ja": "彼は警官を見るとすぐ、逃げた。",
-        "en": "As soon as he saw a policeman, he ran away.",
-        "tatoeba_id": 107950
-      },
-      {
-        "ja": "彼は仕事が終わるとすぐ一直線にパブへ向かう。",
-        "en": "As soon as work is over, he makes a beeline for the pub.",
-        "tatoeba_id": 106668
       }
     ]
   },
@@ -40014,9 +38249,9 @@
     ]
   },
   {
-    "id": "a6a69ee298",
+    "id": "d4f22b4480",
     "word": "ずばり",
-    "reading": "ズバリ",
+    "reading": "ずばり",
     "romaji": "zubari",
     "meanings": [
       "decisively",
@@ -40304,46 +38539,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1657910,
-    "examples": [
-      {
-        "ja": "私達は招待状を５０通刷りました。",
-        "en": "We ran off 50 copies of the invitation.",
-        "tatoeba_id": 151468
-      },
-      {
-        "ja": "印刷の誤りがたくさん見つかった。",
-        "en": "Many typographical errors were found.",
-        "tatoeba_id": 190002
-      }
-    ]
-  },
-  {
-    "id": "29501552dd",
-    "word": "剃る",
-    "reading": "する",
-    "romaji": "suru",
-    "meanings": [
-      "to shave"
-    ],
-    "level": "N1",
-    "pos": [
-      "v5r",
-      "vt"
-    ],
-    "jmdict_id": 1581900,
-    "examples": [
-      {
-        "ja": "お父さんがバスルームでひげを剃っている。",
-        "en": "Dad is shaving in the bathroom.",
-        "tatoeba_id": 226759
-      },
-      {
-        "ja": "出かける前にヒゲを剃らなくては。",
-        "en": "I've got to shave before leaving.",
-        "tatoeba_id": 147792
-      }
-    ]
+    "jmdict_id": 1657910
   },
   {
     "id": "5abd8e3509",
@@ -40612,14 +38808,7 @@
       "adj-na",
       "n"
     ],
-    "jmdict_id": 1376850,
-    "examples": [
-      {
-        "ja": "正規表現で空白はどのように表されるのでしょうか？",
-        "en": "How is whitespace represented in regular expressions?",
-        "tatoeba_id": 75956
-      }
-    ]
+    "jmdict_id": 1376850
   },
   {
     "id": "9b4e449cc9",
@@ -41808,14 +39997,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1374510,
-    "examples": [
-      {
-        "ja": "バス通学と積極的差別是正措置などが論争の多い話題だった。",
-        "en": "School busing and taking a proactive stance against discrimination were hotly debated topics.",
-        "tatoeba_id": 77225
-      }
-    ]
+    "jmdict_id": 1374510
   },
   {
     "id": "bec9e3995a",
@@ -41916,19 +40098,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1384980,
-    "examples": [
-      {
-        "ja": "半年前に帝王切開しました。",
-        "en": "I had a Caesarian section six months ago.",
-        "tatoeba_id": 121256
-      },
-      {
-        "ja": "帝王切開にしてください。",
-        "en": "I'd like to have a Caesarian operation.",
-        "tatoeba_id": 125532
-      }
-    ]
+    "jmdict_id": 1384980
   },
   {
     "id": "6155351877",
@@ -41944,19 +40114,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1074570,
-    "examples": [
-      {
-        "ja": "彼らは昨晩セックスしました。",
-        "en": "They made love last night.",
-        "tatoeba_id": 97095
-      },
-      {
-        "ja": "戦争するよりセックスしよう。",
-        "en": "Make love, not war.",
-        "tatoeba_id": 141294
-      }
-    ]
+    "jmdict_id": 1074570
   },
   {
     "id": "381b8e830c",
@@ -42083,14 +40241,7 @@
       "vt",
       "adj-no"
     ],
-    "jmdict_id": 1385960,
-    "examples": [
-      {
-        "ja": "彼は和洋折衷の家に住んでいる。",
-        "en": "He lives in a house built in a semi foreign style.",
-        "tatoeba_id": 98858
-      }
-    ]
+    "jmdict_id": 1385960
   },
   {
     "id": "675f38a4a5",
@@ -42229,9 +40380,9 @@
         "tatoeba_id": 160629
       },
       {
-        "ja": "彼は絶望のあまり、服毒自殺した。",
-        "en": "He lost hope and killed himself by taking poison.",
-        "tatoeba_id": 103076
+        "ja": "彼は健康上の問題で絶望していた。",
+        "en": "He was in despair over health problems.",
+        "tatoeba_id": 107735
       }
     ]
   },
@@ -42445,14 +40596,14 @@
     "jmdict_id": 1396490,
     "examples": [
       {
-        "ja": "すっかりお膳立てができている。",
-        "en": "It's all laid on.",
-        "tatoeba_id": 214671
+        "ja": "旅館は、上げ膳据え膳がうれしいね。",
+        "en": "At a Japanese-style inn, they take care of your every need, so you don't have to lift a finger.",
+        "tatoeba_id": 78195
       },
       {
-        "ja": "食卓を膳立てしてください。",
-        "en": "Please set the table.",
-        "tatoeba_id": 1487298
+        "ja": "彼女は膳の上のものを酔った手つきで掴み散らしました。",
+        "en": "She threw away everything that was on the small dining table in a drunken hand gesture.",
+        "tatoeba_id": 663809
       }
     ]
   },
@@ -42554,14 +40705,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1389660,
-    "examples": [
-      {
-        "ja": "三人の宣教師が人食い部族に殺され、食べられた。",
-        "en": "Three missionaries were killed and eaten by cannibals.",
-        "tatoeba_id": 1750799
-      }
-    ]
+    "jmdict_id": 1389660
   },
   {
     "id": "e3d5b8418e",
@@ -42654,19 +40798,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1390230,
-    "examples": [
-      {
-        "ja": "彼は戦災孤児をひきとって養女として育てています。",
-        "en": "He adopted a war orphan and is bringing her up as a foster daughter.",
-        "tatoeba_id": 74280
-      },
-      {
-        "ja": "彼は戦災孤児だ。",
-        "en": "He is a war orphan.",
-        "tatoeba_id": 103011
-      }
-    ]
+    "jmdict_id": 1390230
   },
   {
     "id": "2115059dfe",
@@ -42852,14 +40984,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1388150,
-    "examples": [
-      {
-        "ja": "先着順に並んでください。",
-        "en": "Please line up in order of arrival.",
-        "tatoeba_id": 141490
-      }
-    ]
+    "jmdict_id": 1388150
   },
   {
     "id": "b73454fdf2",
@@ -43319,14 +41444,9 @@
     "jmdict_id": 1440810,
     "examples": [
       {
-        "ja": "まもなく雨が降りそうだ。",
-        "en": "It is going to rain soon.",
-        "tatoeba_id": 195298
-      },
-      {
-        "ja": "彼女は疑わしそうに私を見つめた。",
-        "en": "She regarded me suspiciously.",
-        "tatoeba_id": 90557
+        "ja": "残念ながら、御要望にはそいかねます。",
+        "en": "I am sorry, but I cannot meet your requirement.",
+        "tatoeba_id": 169247
       }
     ]
   },
@@ -43434,6 +41554,37 @@
       "vt"
     ],
     "jmdict_id": 1398320
+  },
+  {
+    "id": "bcb48bd662",
+    "word": "早急",
+    "reading": "そうきゅう",
+    "romaji": "soukyuu",
+    "meanings": [
+      "urgent"
+    ],
+    "level": "N1",
+    "pos": [
+      "adj-na",
+      "adj-no",
+      "n"
+    ],
+    "jmdict_id": 1581270,
+    "other_readings": [
+      "さっきゅう"
+    ],
+    "examples": [
+      {
+        "ja": "この問題は早急に手を打つ必要がある。",
+        "en": "Something must be done immediately to deal with this problem.",
+        "tatoeba_id": 219368
+      },
+      {
+        "ja": "この件について早急に調べてください。",
+        "en": "Please look into this matter as soon as you can.",
+        "tatoeba_id": 222153
+      }
+    ]
   },
   {
     "id": "5e17635f80",
@@ -44368,35 +42519,6 @@
     ]
   },
   {
-    "id": "6e9b4bc52c",
-    "word": "率直",
-    "reading": "そっちょく",
-    "romaji": "sotchoku",
-    "meanings": [
-      "frankness",
-      "candour",
-      "openheartedness"
-    ],
-    "level": "N1",
-    "pos": [
-      "adj-na",
-      "n"
-    ],
-    "jmdict_id": 1596570,
-    "examples": [
-      {
-        "ja": "あなたの率直な意見が聞きたいのです。",
-        "en": "I would like to hear your honest opinion.",
-        "tatoeba_id": 232962
-      },
-      {
-        "ja": "率直に言えば、私は彼が嫌いです。",
-        "en": "Frankly speaking, I hate him.",
-        "tatoeba_id": 78304
-      }
-    ]
-  },
-  {
     "id": "3fb57d175d",
     "word": "外方",
     "reading": "そっぽ",
@@ -44408,7 +42530,19 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1204110
+    "jmdict_id": 1204110,
+    "examples": [
+      {
+        "ja": "彼は眉をひそめてそっぽをむいた。",
+        "en": "He frowned and turned away.",
+        "tatoeba_id": 100663
+      },
+      {
+        "ja": "彼と会った時なぜそっぽを向いたのか。",
+        "en": "Why did you turn away when you met him?",
+        "tatoeba_id": 119207
+      }
+    ]
   },
   {
     "id": "47d96ccdae",
@@ -44653,14 +42787,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1480110,
-    "examples": [
-      {
-        "ja": "イエス振反りて、その從ひ來たるを見て言ひ給ふ「何を求むるか」。",
-        "en": "Turning around, Jesus saw them following and asked, \"What do you want?\"",
-        "tatoeba_id": 1593018
-      }
-    ]
+    "jmdict_id": 1480110
   },
   {
     "id": "b2fea90627",
@@ -44851,14 +42978,14 @@
     "jmdict_id": 1076650,
     "examples": [
       {
-        "ja": "その品物を１ダースにつき３ドルで買う。",
-        "en": "I buy the goods at $3 a dozen.",
-        "tatoeba_id": 207047
-      },
-      {
         "ja": "鉛筆は１ダースいくらで売られる。",
         "en": "Pencils are sold by the dozen.",
         "tatoeba_id": 188625
+      },
+      {
+        "ja": "シュークリームを１ダース下さい。",
+        "en": "I want a dozen cream puffs.",
+        "tatoeba_id": 215729
       }
     ]
   },
@@ -44883,14 +43010,9 @@
     "jmdict_id": 1406940,
     "examples": [
       {
-        "ja": "何か他に食べたいものがありますか。",
-        "en": "Is there anything else you would like to eat?",
-        "tatoeba_id": 187924
-      },
-      {
-        "ja": "あなたの率直な意見が聞きたいのです。",
-        "en": "I would like to hear your honest opinion.",
-        "tatoeba_id": 232962
+        "ja": "ちょっと絵を描いただけで他意はありません。",
+        "en": "I was just drawing pictures, I had no further intention.",
+        "tatoeba_id": 412047
       }
     ]
   },
@@ -45867,19 +43989,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1410270,
-    "examples": [
-      {
-        "ja": "初対面の人と友達になるのって難しいね。",
-        "en": "Meeting new people and making new friends is hard.",
-        "tatoeba_id": 12047749
-      },
-      {
-        "ja": "初対面の人に会うのが怖い。",
-        "en": "Meeting new people is scary.",
-        "tatoeba_id": 12823353
-      }
-    ]
+    "jmdict_id": 1410270
   },
   {
     "id": "8d0e3e599c",
@@ -46559,19 +44669,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1551810,
-    "examples": [
-      {
-        "ja": "その少年は連立方程式を楽に解いた。",
-        "en": "The boy solved the simultaneous equation with ease.",
-        "tatoeba_id": 209016
-      },
-      {
-        "ja": "一立方メートルは千リットルにあたる。",
-        "en": "A cubic meter corresponds to 1000 liters.",
-        "tatoeba_id": 5154
-      }
-    ]
+    "jmdict_id": 1551810
   },
   {
     "id": "e39921582a",
@@ -46983,7 +45081,6 @@
     "reading": "たとえ",
     "romaji": "tatoe",
     "meanings": [
-      "example",
       "even if",
       "if",
       "though",
@@ -47066,32 +45163,6 @@
     ]
   },
   {
-    "id": "bc2f6cf3f2",
-    "word": "掌",
-    "reading": "たなごころ",
-    "romaji": "tanagokoro",
-    "meanings": [
-      "the palm"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1580300,
-    "examples": [
-      {
-        "ja": "彼の手のひらに硬貨を置く。",
-        "en": "Place a coin in the palm of his hand.",
-        "tatoeba_id": 117046
-      },
-      {
-        "ja": "彼は手のひらで一撃を与えた。",
-        "en": "He gave a blow with the flat of his hand.",
-        "tatoeba_id": 104495
-      }
-    ]
-  },
-  {
     "id": "a7273380c4",
     "word": "頼み",
     "reading": "たのみ",
@@ -47148,6 +45219,30 @@
         "ja": "彼女はだぶだぶの上着を着ている。",
         "en": "She's wearing a loose coat.",
         "tatoeba_id": 92147
+      }
+    ]
+  },
+  {
+    "id": "13cfbf92f0",
+    "word": "ダブる",
+    "reading": "ダブる",
+    "romaji": "daburu",
+    "meanings": [
+      "to coincide (fall on the same day)",
+      "to have two of something",
+      "to repeat a school year after failing"
+    ],
+    "level": "N1",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1077100,
+    "examples": [
+      {
+        "ja": "祭日が日曜にダブると月曜が休みになる。",
+        "en": "When a holiday falls on Sunday, we have an extra holiday on Monday.",
+        "tatoeba_id": 170291
       }
     ]
   },
@@ -47492,28 +45587,6 @@
     "jmdict_id": 1421580
   },
   {
-    "id": "9570b96998",
-    "word": "誰",
-    "reading": "たれ",
-    "romaji": "tare",
-    "meanings": [
-      "adjectival suffix for a person"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "あそこに立ってる女の人はだれですか。",
-        "en": "Who is the woman standing there?",
-        "tatoeba_id": 234401
-      },
-      {
-        "ja": "明日何が起こるか誰にわかるのか。",
-        "en": "Who knows what will happen tomorrow?",
-        "tatoeba_id": 80325
-      }
-    ]
-  },
-  {
     "id": "d3809a260e",
     "word": "垂れる",
     "reading": "たれる",
@@ -47621,14 +45694,14 @@
     "jmdict_id": 1891990,
     "examples": [
       {
-        "ja": "私たちは富士山の景観に感嘆した。",
-        "en": "We admired the view of Mt. Fuji.",
-        "tatoeba_id": 165174
+        "ja": "彼は親友の死を嘆き悲しんだ。",
+        "en": "He grieved at the death of his best friend.",
+        "tatoeba_id": 103623
       },
       {
-        "ja": "彼女は利口なのによく驚嘆する。",
-        "en": "Her cleverness often amazes me.",
-        "tatoeba_id": 86315
+        "ja": "彼は彼女の嘆きの種でした。",
+        "en": "He was the agent of her despair.",
+        "tatoeba_id": 100873
       }
     ]
   },
@@ -47657,25 +45730,13 @@
       "platform",
       "podium",
       "rostrum",
-      "(arch) mandala"
+      "(archaic) mandala"
     ],
     "level": "N1",
     "pos": [
       "n"
     ],
-    "jmdict_id": 1419320,
-    "examples": [
-      {
-        "ja": "彼は祭壇の上をあちこちに歩いた。",
-        "en": "He walked to and fro on the stage.",
-        "tatoeba_id": 106866
-      },
-      {
-        "ja": "土壇場で言葉が旨く言えなかった。",
-        "en": "Words failed me at the last minute.",
-        "tatoeba_id": 124497
-      }
-    ]
+    "jmdict_id": 1419320
   },
   {
     "id": "606b4ac32d",
@@ -48136,19 +46197,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1419530,
-    "examples": [
-      {
-        "ja": "ゴムのボールは弾力性があるから弾む。",
-        "en": "A rubber ball bounces because it is elastic.",
-        "tatoeba_id": 219086
-      },
-      {
-        "ja": "この材質は弾力性に欠ける。",
-        "en": "This material has no give.",
-        "tatoeba_id": 221897
-      }
-    ]
+    "jmdict_id": 1419530
   },
   {
     "id": "05bfb28645",
@@ -48326,6 +46375,11 @@
         "ja": "畜生！バーミセリがもうないんだよ！",
         "en": "Crap! We're out of vermicelli!",
         "tatoeba_id": 536735
+      },
+      {
+        "ja": "ちくしょう、どこの馬鹿野郎がこんな真夜中に電話してきやがるんだ。",
+        "en": "Holy crap, who's the asshole who dares call me in the middle of the night?!",
+        "tatoeba_id": 872696
       }
     ]
   },
@@ -48357,6 +46411,32 @@
         "ja": "彼には国際政治に関する情報の蓄積がある。",
         "en": "He has fund of information about world politics.",
         "tatoeba_id": 118860
+      }
+    ]
+  },
+  {
+    "id": "d5004218c7",
+    "word": "地形",
+    "reading": "ちけい",
+    "romaji": "chikei",
+    "meanings": [
+      "terrain",
+      "geographical features",
+      "topography"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1421030,
+    "other_readings": [
+      "じぎょう"
+    ],
+    "examples": [
+      {
+        "ja": "ヘリコプターの運転席からなら、その地の素晴らしい地形を見渡すのは容易い。",
+        "en": "It's easy to see the area's majestic topography from the cockpit of a helicopter.",
+        "tatoeba_id": 4213301
       }
     ]
   },
@@ -48411,33 +46491,6 @@
         "ja": "赤ちゃんがお乳を欲しがっています。",
         "en": "The baby is crying for milk.",
         "tatoeba_id": 142266
-      }
-    ]
-  },
-  {
-    "id": "2b041a6469",
-    "word": "父母",
-    "reading": "ちちはは",
-    "romaji": "chichihaha",
-    "meanings": [
-      "father and mother",
-      "parents"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1497690,
-    "examples": [
-      {
-        "ja": "ケンは父母がけんかしたときはいつも母の味方をする。",
-        "en": "Ken always stands up for his mom when his parents quarrel.",
-        "tatoeba_id": 225106
-      },
-      {
-        "ja": "私の父母は、そこに大きな農場を持っている。",
-        "en": "My father and mother have a big farm there.",
-        "tatoeba_id": 162760
       }
     ]
   },
@@ -48582,9 +46635,6 @@
       "ctr"
     ],
     "jmdict_id": 1597470,
-    "other_forms": [
-      "著"
-    ],
     "examples": [
       {
         "ja": "私たちは午後９時シカゴ着の予定だった。",
@@ -48844,34 +46894,6 @@
     ]
   },
   {
-    "id": "a5e804ce7d",
-    "word": "昼間",
-    "reading": "ちゅうかん",
-    "romaji": "chuukan",
-    "meanings": [
-      "daytime",
-      "during the day"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "adv"
-    ],
-    "jmdict_id": 1581710,
-    "examples": [
-      {
-        "ja": "太陽は昼間輝く。",
-        "en": "The sun shines during the day.",
-        "tatoeba_id": 138081
-      },
-      {
-        "ja": "彼が目を覚ました時は昼間だった。",
-        "en": "When he awoke it was day.",
-        "tatoeba_id": 119443
-      }
-    ]
-  },
-  {
     "id": "cbbf9a270d",
     "word": "中継",
     "reading": "ちゅうけい",
@@ -48889,14 +46911,9 @@
     "jmdict_id": 1424040,
     "examples": [
       {
-        "ja": "そのコンサートは生中継された。",
-        "en": "The concert was broadcast live.",
-        "tatoeba_id": 213080
-      },
-      {
-        "ja": "これは昭和座から舞台中継です。",
-        "en": "This is a direct broadcast from the Showa theater.",
-        "tatoeba_id": 218258
+        "ja": "テレビ中継された大阪での追跡劇の末、彼は逮捕された。",
+        "en": "He was arrested by police after a TV chase in Osaka.",
+        "tatoeba_id": 201927
       }
     ]
   },
@@ -48927,32 +46944,6 @@
         "ja": "彼女は私に良い忠告をしてくれた。",
         "en": "She gave me a piece of good advice.",
         "tatoeba_id": 89439
-      }
-    ]
-  },
-  {
-    "id": "f54af5ca22",
-    "word": "中指",
-    "reading": "ちゅうし",
-    "romaji": "chuushi",
-    "meanings": [
-      "middle finger"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1581690,
-    "examples": [
-      {
-        "ja": "トムは今日校長に中指を立てました。",
-        "en": "Tom gave the middle finger to the principal today.",
-        "tatoeba_id": 9595558
-      },
-      {
-        "ja": "中指が一番長いです。",
-        "en": "The middle finger is the longest.",
-        "tatoeba_id": 10627106
       }
     ]
   },
@@ -49143,60 +47134,6 @@
     ]
   },
   {
-    "id": "5ff326462a",
-    "word": "仲人",
-    "reading": "ちゅうにん",
-    "romaji": "chuunin",
-    "meanings": [
-      "go-between",
-      "matchmaker"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1425960,
-    "examples": [
-      {
-        "ja": "あの夫婦は私たちの仲人です。",
-        "en": "That couple is our go-between.",
-        "tatoeba_id": 13714060
-      },
-      {
-        "ja": "マラリアは蚊が媒介する疾病です。",
-        "en": "Malaria is a disease that mosquitoes carry.",
-        "tatoeba_id": 12484423
-      }
-    ]
-  },
-  {
-    "id": "7fb402975a",
-    "word": "昼飯",
-    "reading": "ちゅうはん",
-    "romaji": "chuuhan",
-    "meanings": [
-      "lunch",
-      "midday meal"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1426410,
-    "examples": [
-      {
-        "ja": "昼飯でもいっしょにどうですか。",
-        "en": "Why don't we have lunch together?",
-        "tatoeba_id": 126366
-      },
-      {
-        "ja": "早く始めれば昼飯までに終えられる。",
-        "en": "If we begin early, we can finish by lunch.",
-        "tatoeba_id": 140548
-      }
-    ]
-  },
-  {
     "id": "05d567554c",
     "word": "中立",
     "reading": "ちゅうりつ",
@@ -49264,19 +47201,7 @@
       "n",
       "n-suf"
     ],
-    "jmdict_id": 1427590,
-    "examples": [
-      {
-        "ja": "彼は官庁で相当な職についている。",
-        "en": "He has a good position in a government office.",
-        "tatoeba_id": 108777
-      },
-      {
-        "ja": "秋田県の県庁所在地は秋田市です。",
-        "en": "Akita Prefecture's capital is Akita City.",
-        "tatoeba_id": 10999274
-      }
-    ]
+    "jmdict_id": 1427590
   },
   {
     "id": "1a43d6fb73",
@@ -49591,6 +47516,37 @@
         "ja": "私は週末を長編小説を読んで過ごした。",
         "en": "I spent the weekend reading a long novel.",
         "tatoeba_id": 156021
+      }
+    ]
+  },
+  {
+    "id": "e33292ff3a",
+    "word": "重宝",
+    "reading": "ちょうほう",
+    "romaji": "chouhou",
+    "meanings": [
+      "priceless treasure",
+      "convenience",
+      "usefulness"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1579990,
+    "other_readings": [
+      "じゅうほう"
+    ],
+    "examples": [
+      {
+        "ja": "車は持っていると重宝なものだ。",
+        "en": "A car is a handy thing to own.",
+        "tatoeba_id": 148994
+      },
+      {
+        "ja": "このガイドブックは海外旅行に持っていくと重宝する。",
+        "en": "This guidebook is handy to take on a trip abroad.",
+        "tatoeba_id": 223914
       }
     ]
   },
@@ -50963,19 +48919,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1449590,
-    "examples": [
-      {
-        "ja": "事態は収拾に向かいつつある。",
-        "en": "The situation is gradually moving towards a resolution.",
-        "tatoeba_id": 7139981
-      },
-      {
-        "ja": "「春を待ちつつ」は漱石の小説だったね。",
-        "en": "\"Waiting for Spring\" is a novel by Soseki, isn't it?",
-        "tatoeba_id": 236268
-      }
-    ]
+    "jmdict_id": 1449590
   },
   {
     "id": "2564dfcfcb",
@@ -52156,33 +50100,6 @@
     ]
   },
   {
-    "id": "4d4c41c92e",
-    "word": "手数",
-    "reading": "てかず",
-    "romaji": "tekazu",
-    "meanings": [
-      "number of moves",
-      "trouble"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1327970,
-    "examples": [
-      {
-        "ja": "手数料は３パーセントかかります。",
-        "en": "We charge a commission of 3%.",
-        "tatoeba_id": 148531
-      },
-      {
-        "ja": "それには手数料がかかりますか。",
-        "en": "Is there a service charge for that?",
-        "tatoeba_id": 205656
-      }
-    ]
-  },
-  {
     "id": "3551552ed7",
     "word": "手軽",
     "reading": "てがる",
@@ -52502,6 +50419,36 @@
     ]
   },
   {
+    "id": "37cffd52d1",
+    "word": "手数",
+    "reading": "てすう",
+    "romaji": "tesuu",
+    "meanings": [
+      "number of moves",
+      "trouble"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1327970,
+    "other_readings": [
+      "てかず"
+    ],
+    "examples": [
+      {
+        "ja": "お手数かけてどうもすいません。",
+        "en": "I'm sorry to bother you.",
+        "tatoeba_id": 227068
+      },
+      {
+        "ja": "いろいろお手数をかけて申し訳ない。",
+        "en": "I'm sorry to give you all this trouble.",
+        "tatoeba_id": 228451
+      }
+    ]
+  },
+  {
     "id": "74d5bfd2bf",
     "word": "手近",
     "reading": "てぢか",
@@ -52585,7 +50532,7 @@
     "reading": "デッサン",
     "romaji": "dessan",
     "meanings": [
-      "(fr:) (n) rough sketch (fr: dessin)"
+      "rough sketch (fr: dessin)"
     ],
     "level": "N1",
     "pos": [
@@ -52650,6 +50597,32 @@
     ]
   },
   {
+    "id": "c3e581afc7",
+    "word": "鉄棒",
+    "reading": "てつぼう",
+    "romaji": "tetsubou",
+    "meanings": [
+      "iron rod",
+      "crowbar",
+      "horizontal bar (gymnastics)"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1438030,
+    "other_readings": [
+      "かなぼう"
+    ],
+    "examples": [
+      {
+        "ja": "体操競技の中では、鉄棒の大車輪が好きです。",
+        "en": "I like to see a gymnast do the giant swing on the high bar.",
+        "tatoeba_id": 237373
+      }
+    ]
+  },
+  {
     "id": "e1ea2bb61d",
     "word": "出直し",
     "reading": "でなおし",
@@ -52675,6 +50648,35 @@
         "ja": "あす出直します。",
         "en": "I'll be back tomorrow.",
         "tatoeba_id": 10911424
+      }
+    ]
+  },
+  {
+    "id": "8d4d7b12ab",
+    "word": "掌",
+    "reading": "てのひら",
+    "romaji": "tenohira",
+    "meanings": [
+      "the palm"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1580300,
+    "other_readings": [
+      "たなごころ"
+    ],
+    "examples": [
+      {
+        "ja": "彼の手のひらに硬貨を置く。",
+        "en": "Place a coin in the palm of his hand.",
+        "tatoeba_id": 117046
+      },
+      {
+        "ja": "彼は手のひらで一撃を与えた。",
+        "en": "He gave a blow with the flat of his hand.",
+        "tatoeba_id": 104495
       }
     ]
   },
@@ -52746,19 +50748,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1598410,
-    "examples": [
-      {
-        "ja": "彼女は園芸の手引書を読んでいた。",
-        "en": "She was reading a gardening manual.",
-        "tatoeba_id": 91005
-      },
-      {
-        "ja": "こういう手引書はもっと分かりやすく書くべきだ。",
-        "en": "Such manuals should be written in simpler language.",
-        "tatoeba_id": 225046
-      }
-    ]
+    "jmdict_id": 1598410
   },
   {
     "id": "1149c0fbcc",
@@ -53505,6 +51495,36 @@
     ]
   },
   {
+    "id": "1ecdf1e6a6",
+    "word": "天地",
+    "reading": "てんち",
+    "romaji": "tenchi",
+    "meanings": [
+      "heaven and earth",
+      "the universe",
+      "nature",
+      "top and bottom",
+      "realm",
+      "sphere",
+      "world"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1582090,
+    "other_readings": [
+      "あめつち"
+    ],
+    "examples": [
+      {
+        "ja": "この天地の間にはな、所謂哲学の思いも及ばぬ大事があるわい。",
+        "en": "There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.",
+        "tatoeba_id": 1649981
+      }
+    ]
+  },
+  {
     "id": "9f3db67bab",
     "word": "てんで",
     "reading": "てんで",
@@ -53642,7 +51662,7 @@
     "romaji": "to",
     "meanings": [
       "if (conjunction)",
-      "promoted pawn (shogi) (abbr)"
+      "promoted pawn (shogi) (abbreviation)"
     ],
     "level": "N1",
     "pos": [
@@ -53692,27 +51712,6 @@
     ]
   },
   {
-    "id": "ea26e093dd",
-    "word": "問屋",
-    "reading": "といや",
-    "romaji": "toiya",
-    "meanings": [
-      "wholesale store"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1584790,
-    "examples": [
-      {
-        "ja": "そうは問屋がおろさないぞ。",
-        "en": "You won't get it so easily.",
-        "tatoeba_id": 213815
-      }
-    ]
-  },
-  {
     "id": "991db5e590",
     "word": "棟",
     "reading": "とう",
@@ -53729,14 +51728,14 @@
     "jmdict_id": 1448340,
     "examples": [
       {
-        "ja": "病棟内では静かにお願いいたします。",
-        "en": "Please be quiet within the ward.",
-        "tatoeba_id": 2357069
-      },
-      {
         "ja": "３棟の家屋が全壊しました。",
         "en": "Three homes were completely destroyed.",
         "tatoeba_id": 11761198
+      },
+      {
+        "ja": "建物は２棟とも全焼した。",
+        "en": "Both buildings burned down.",
+        "tatoeba_id": 9832979
       }
     ]
   },
@@ -53746,8 +51745,7 @@
     "reading": "とう",
     "romaji": "tou",
     "meanings": [
-      "et cetera",
-      "etc.",
+      "et cetera, etc.",
       "and the like"
     ],
     "level": "N1",
@@ -53784,29 +51782,6 @@
         "ja": "この男は窃盗罪に問われた。",
         "en": "This man was charged with theft.",
         "tatoeba_id": 220626
-      }
-    ]
-  },
-  {
-    "id": "a7e12b4159",
-    "word": "働",
-    "reading": "どう",
-    "romaji": "dou",
-    "meanings": [
-      "work",
-      "labor"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "少しは働け。ダイエットになるぞ。",
-        "en": "Do a little work! You'll lose some weight.",
-        "tatoeba_id": 76014
-      },
-      {
-        "ja": "労働組合は経営陣と交渉している。",
-        "en": "The labor union is negotiating with the owners.",
-        "tatoeba_id": 77349
       }
     ]
   },
@@ -54052,19 +52027,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1452110,
-    "examples": [
-      {
-        "ja": "同級生は彼女のよさが解っていない。",
-        "en": "Her classmates do not appreciate her.",
-        "tatoeba_id": 123685
-      },
-      {
-        "ja": "私たちは当時は同級生だった。",
-        "en": "We were in the same class then.",
-        "tatoeba_id": 165396
-      }
-    ]
+    "jmdict_id": 1452110
   },
   {
     "id": "4c0cf6cbce",
@@ -54231,37 +52194,6 @@
         "ja": "彼は車にそのお金すべてを投資した。",
         "en": "He spent all of his money on a car.",
         "tatoeba_id": 104665
-      }
-    ]
-  },
-  {
-    "id": "63859010eb",
-    "word": "統治",
-    "reading": "とうじ",
-    "romaji": "touji",
-    "meanings": [
-      "rule",
-      "reign",
-      "government",
-      "governing"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "vs",
-      "vt"
-    ],
-    "jmdict_id": 1449790,
-    "examples": [
-      {
-        "ja": "かつてサルタンが今日のトルコを統治していた。",
-        "en": "Once the Sultan ruled over what today is Turkey.",
-        "tatoeba_id": 226342
-      },
-      {
-        "ja": "国会は日本の主要統治機関である。",
-        "en": "The Diet is the chief organ of government in Japan.",
-        "tatoeba_id": 173076
       }
     ]
   },
@@ -54511,6 +52443,40 @@
     ]
   },
   {
+    "id": "309beae024",
+    "word": "統治",
+    "reading": "とうち",
+    "romaji": "touchi",
+    "meanings": [
+      "rule",
+      "reign",
+      "government",
+      "governing"
+    ],
+    "level": "N1",
+    "pos": [
+      "n",
+      "vs",
+      "vt"
+    ],
+    "jmdict_id": 1449790,
+    "other_readings": [
+      "とうじ"
+    ],
+    "examples": [
+      {
+        "ja": "かつてサルタンが今日のトルコを統治していた。",
+        "en": "Once the Sultan ruled over what today is Turkey.",
+        "tatoeba_id": 226342
+      },
+      {
+        "ja": "国会は日本の主要統治機関である。",
+        "en": "The Diet is the chief organ of government in Japan.",
+        "tatoeba_id": 173076
+      }
+    ]
+  },
+  {
     "id": "96331e2c44",
     "word": "同調",
     "reading": "どうちょう",
@@ -54580,19 +52546,7 @@
     "pos": [
       "adj-na"
     ],
-    "jmdict_id": 1451440,
-    "examples": [
-      {
-        "ja": "ホールインワンは概して感動的だ。",
-        "en": "A hole in one is moving on the whole.",
-        "tatoeba_id": 196513
-      },
-      {
-        "ja": "「老人と海」はとても感動的な本だ。",
-        "en": "The Old Man and the Sea is a very exciting book.",
-        "tatoeba_id": 77308
-      }
-    ]
+    "jmdict_id": 1451440
   },
   {
     "id": "02783d9713",
@@ -55347,14 +53301,9 @@
     "jmdict_id": 1455800,
     "examples": [
       {
-        "ja": "ヒトラーは悪名高い独裁者の一人です。",
-        "en": "Hitler is one of the most notorious dictators.",
-        "tatoeba_id": 197484
-      },
-      {
-        "ja": "大衆は独裁者に反抗して反乱を起こした。",
-        "en": "The masses rose against the dictator.",
-        "tatoeba_id": 137507
+        "ja": "要するに、独裁とは「黙れ」ということ、民主主義とは「話し続けろ」ということである。",
+        "en": "Dictatorship can be summed up by \"shut up!\", democracy by \"keep talking\".",
+        "tatoeba_id": 882424
       }
     ]
   },
@@ -55497,19 +53446,7 @@
       "n",
       "vs"
     ],
-    "jmdict_id": 1455920,
-    "examples": [
-      {
-        "ja": "私は彼の独創力がとても重要だと考えた。",
-        "en": "I considered his originality of great importance.",
-        "tatoeba_id": 153811
-      },
-      {
-        "ja": "彼は独創力では誰より勝っている。",
-        "en": "He is above all others in originality.",
-        "tatoeba_id": 101607
-      }
-    ]
+    "jmdict_id": 1455920
   },
   {
     "id": "d7b013684f",
@@ -55557,19 +53494,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1455230,
-    "examples": [
-      {
-        "ja": "彼は特派員として海外に派遣された。",
-        "en": "He was sent abroad as a correspondent.",
-        "tatoeba_id": 101616
-      },
-      {
-        "ja": "その特派員はモスクワから記事を送った。",
-        "en": "The correspondent filed a report from Moscow.",
-        "tatoeba_id": 236896
-      }
-    ]
+    "jmdict_id": 1455230
   },
   {
     "id": "c21c8f79da",
@@ -55887,19 +53812,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1454780,
-    "examples": [
-      {
-        "ja": "特許権は重要な財産権である。",
-        "en": "A patent right is an important property right.",
-        "tatoeba_id": 123465
-      },
-      {
-        "ja": "ハンスさんが会社へ特許権を売りました。",
-        "en": "Hans sold the patent to a company.",
-        "tatoeba_id": 185232
-      }
-    ]
+    "jmdict_id": 1454780
   },
   {
     "id": "1927098b36",
@@ -57229,10 +55142,6 @@
       "adv"
     ],
     "jmdict_id": 1599150,
-    "other_forms": [
-      "取り分",
-      "副"
-    ],
     "examples": [
       {
         "ja": "とりわけ子供たちは愛情を必要とする。",
@@ -57348,9 +55257,38 @@
     "jmdict_id": 1008770,
     "examples": [
       {
-        "ja": "証人喚問はとんだ騒ぎになってしまいました。",
-        "en": "The confirmation hearings turned into a free-for-all.",
-        "tatoeba_id": 146328
+        "ja": "彼は非常に想像力にとんだ作家です。",
+        "en": "He is a very imaginative writer.",
+        "tatoeba_id": 100711
+      },
+      {
+        "ja": "お前もとんだとばっちりだったよな。",
+        "en": "You got involved in something bad, huh?",
+        "tatoeba_id": 1207588
+      }
+    ]
+  },
+  {
+    "id": "d67d98f36f",
+    "word": "問屋",
+    "reading": "とんや",
+    "romaji": "ton'ya",
+    "meanings": [
+      "wholesale store"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1584790,
+    "other_readings": [
+      "といや"
+    ],
+    "examples": [
+      {
+        "ja": "そうは問屋がおろさないぞ。",
+        "en": "You won't get it so easily.",
+        "tatoeba_id": 213815
       }
     ]
   },
@@ -57541,11 +55479,6 @@
         "ja": "彼は中国の内陸を旅行しました。",
         "en": "He traveled through inland China.",
         "tatoeba_id": 13714045
-      },
-      {
-        "ja": "私は、内陸部のなんということもない町に生まれた。",
-        "en": "I was born in the inland, in an unremarkable town.",
-        "tatoeba_id": 2142124
       }
     ]
   },
@@ -57745,6 +55678,31 @@
     ]
   },
   {
+    "id": "08c6648742",
+    "word": "仲人",
+    "reading": "なこうど",
+    "romaji": "nakoudo",
+    "meanings": [
+      "go-between",
+      "matchmaker"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1425960,
+    "other_readings": [
+      "ちゅうにん"
+    ],
+    "examples": [
+      {
+        "ja": "あの夫婦は私たちの仲人です。",
+        "en": "That couple is our go-between.",
+        "tatoeba_id": 13714060
+      }
+    ]
+  },
+  {
     "id": "c4f8f62a17",
     "word": "和やか",
     "reading": "なごやか",
@@ -57818,9 +55776,9 @@
         "tatoeba_id": 78197
       },
       {
-        "ja": "暴君の心は哀れみの情で和らいだ。",
-        "en": "The tyrant's heart melted with compassion.",
-        "tatoeba_id": 82518
+        "ja": "だれもがその囚人に情けをかけた。",
+        "en": "Everybody showed sympathy toward the prisoner.",
+        "tatoeba_id": 203137
       }
     ]
   },
@@ -58063,33 +56021,6 @@
     ]
   },
   {
-    "id": "03771f5fa1",
-    "word": "七日",
-    "reading": "なぬか",
-    "romaji": "nanuka",
-    "meanings": [
-      "seven days",
-      "the seventh day (of the month)"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1579630,
-    "examples": [
-      {
-        "ja": "１月７日付けのお手紙、ありがとうございました。",
-        "en": "Thank you very much for your letter of January 7th.",
-        "tatoeba_id": 235802
-      },
-      {
-        "ja": "５月７日１０時なら診察できます。",
-        "en": "The doctor can see you at ten on May seventh.",
-        "tatoeba_id": 235147
-      }
-    ]
-  },
-  {
     "id": "9cf8caaf7c",
     "word": "ナプキン",
     "reading": "ナプキン",
@@ -58235,36 +56166,6 @@
     ]
   },
   {
-    "id": "7a833b3b4a",
-    "word": "鈍る",
-    "reading": "なまる",
-    "romaji": "namaru",
-    "meanings": [
-      "to become less capable",
-      "to grow dull",
-      "to become blunt",
-      "to weaken"
-    ],
-    "level": "N1",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1582440,
-    "examples": [
-      {
-        "ja": "テレビは創造力を鈍らせる力がある。",
-        "en": "Television can dull our creative power.",
-        "tatoeba_id": 201979
-      },
-      {
-        "ja": "インフレ進行度は鈍っている。",
-        "en": "The rate of inflation is slowing down.",
-        "tatoeba_id": 228346
-      }
-    ]
-  },
-  {
     "id": "d39ee7b933",
     "word": "並み",
     "reading": "なみ",
@@ -58322,8 +56223,8 @@
     ]
   },
   {
-    "id": "edda10e505",
-    "word": "嘗める",
+    "id": "3917b83619",
+    "word": "舐める",
     "reading": "なめる",
     "romaji": "nameru",
     "meanings": [
@@ -58343,14 +56244,14 @@
     "jmdict_id": 1571320,
     "examples": [
       {
-        "ja": "私は長い間臥薪嘗胆の苦しみをなめた。",
-        "en": "I have struggled under extreme difficulties for a long time.",
-        "tatoeba_id": 155027
+        "ja": "ここのソースは舐めてみるとちょっと塩っぱい。",
+        "en": "If you taste this sauce you'll find it a bit salty.",
+        "tatoeba_id": 74117
       },
       {
-        "ja": "そのジャムをちょっとなめてみた。",
-        "en": "I had a lick at the jam.",
-        "tatoeba_id": 213049
+        "ja": "その子犬は彼女の頬を舐めた。",
+        "en": "The puppy licked her on the cheek.",
+        "tatoeba_id": 210102
       }
     ]
   },
@@ -58505,14 +56406,7 @@
     "pos": [
       "conj"
     ],
-    "jmdict_id": 1508350,
-    "examples": [
-      {
-        "ja": "彼はフランス語を一言も話せないが、その反面英語をネイティブ並に話す。",
-        "en": "He can't say one word of French, but then again he speaks English like a native.",
-        "tatoeba_id": 1169081
-      }
-    ]
+    "jmdict_id": 1508350
   },
   {
     "id": "3837730fa3",
@@ -58649,9 +56543,9 @@
         "tatoeba_id": 84824
       },
       {
-        "ja": "彼等は多くの苦難をたえしのんだ。",
-        "en": "They endured many difficulties.",
-        "tatoeba_id": 86002
+        "ja": "彼はそのなぞなぞを難なく解いた。",
+        "en": "He had no difficulty explaining the mystery.",
+        "tatoeba_id": 113158
       }
     ]
   },
@@ -58870,9 +56764,9 @@
         "tatoeba_id": 141150
       },
       {
-        "ja": "彼は私を彼の荷車に乗せてくれた。",
-        "en": "He gave me a lift in his cart.",
-        "tatoeba_id": 105530
+        "ja": "石油は東京港で荷降ろしされる。",
+        "en": "The oil is discharged at Tokyo port.",
+        "tatoeba_id": 142313
       }
     ]
   },
@@ -59149,6 +57043,38 @@
     ]
   },
   {
+    "id": "6465bd7862",
+    "word": "贋物",
+    "reading": "にせもの",
+    "romaji": "nisemono",
+    "meanings": [
+      "imitation",
+      "counterfeit",
+      "forgery",
+      "sham"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1577800,
+    "other_readings": [
+      "がんぶつ"
+    ],
+    "examples": [
+      {
+        "ja": "この本物の宝石とその偽物とを比較してみなさい。",
+        "en": "Compare this genuine jewel with that imitation.",
+        "tatoeba_id": 219476
+      },
+      {
+        "ja": "彼は本物と偽物を区別できない。",
+        "en": "He can't tell the real thing from the fake.",
+        "tatoeba_id": 81461
+      }
+    ]
+  },
+  {
     "id": "b91e19a03b",
     "word": "日夜",
     "reading": "にちや",
@@ -59257,31 +57183,35 @@
     ]
   },
   {
-    "id": "e857b87d0a",
-    "word": "二人",
-    "reading": "ににん",
-    "romaji": "ninin",
+    "id": "a5fb8ab81f",
+    "word": "鈍る",
+    "reading": "にぶる",
+    "romaji": "niburu",
     "meanings": [
-      "two persons",
-      "two people",
-      "pair",
-      "couple"
+      "to become less capable",
+      "to grow dull",
+      "to become blunt",
+      "to weaken"
     ],
     "level": "N1",
     "pos": [
-      "n"
+      "v5r",
+      "vi"
     ],
-    "jmdict_id": 1582670,
+    "jmdict_id": 1582440,
+    "other_readings": [
+      "なまる"
+    ],
     "examples": [
       {
-        "ja": "二人の男は刑務所から釈放された。",
-        "en": "The two men were released from jail.",
-        "tatoeba_id": 123087
+        "ja": "テレビは創造力を鈍らせる力がある。",
+        "en": "Television can dull our creative power.",
+        "tatoeba_id": 201979
       },
       {
-        "ja": "彼女は、２人のうちで若い方です。",
-        "en": "Of the two girls, she is the younger.",
-        "tatoeba_id": 93809
+        "ja": "インフレ進行度は鈍っている。",
+        "en": "The rate of inflation is slowing down.",
+        "tatoeba_id": 228346
       }
     ]
   },
@@ -61517,33 +59447,6 @@
     ]
   },
   {
-    "id": "02bc71bbf4",
-    "word": "墓地",
-    "reading": "はかち",
-    "romaji": "hakachi",
-    "meanings": [
-      "cemetery",
-      "graveyard"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1584040,
-    "examples": [
-      {
-        "ja": "彼はこの墓地に埋葬されている。",
-        "en": "He was buried in this graveyard.",
-        "tatoeba_id": 113711
-      },
-      {
-        "ja": "彼らは彼を教会の近くの墓地に埋葬した。",
-        "en": "They buried him in the graveyard by the church.",
-        "tatoeba_id": 96297
-      }
-    ]
-  },
-  {
     "id": "0d807d23a0",
     "word": "捗る",
     "reading": "はかどる",
@@ -61573,8 +59476,8 @@
     ]
   },
   {
-    "id": "670c391321",
-    "word": "果ない",
+    "id": "59c95b5d68",
+    "word": "儚い",
     "reading": "はかない",
     "romaji": "hakanai",
     "meanings": [
@@ -61817,19 +59720,7 @@
       "n",
       "adj-na"
     ],
-    "jmdict_id": 1475590,
-    "examples": [
-      {
-        "ja": "早くも、意志薄弱ぶりを発揮した。",
-        "en": "He's already shown his weak-willed nature.",
-        "tatoeba_id": 11005090
-      },
-      {
-        "ja": "こいつは意志薄弱な男です。",
-        "en": "He's a weak-willed man.",
-        "tatoeba_id": 422731
-      }
-    ]
+    "jmdict_id": 1475590
   },
   {
     "id": "10bd68b7e8",
@@ -62611,30 +60502,6 @@
     ]
   },
   {
-    "id": "f1bec30518",
-    "word": "伐",
-    "reading": "ばつ",
-    "romaji": "batsu",
-    "meanings": [
-      "strike",
-      "attack",
-      "punish"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "彼は木の伐採をしている。",
-        "en": "He fells trees.",
-        "tatoeba_id": 2430541
-      },
-      {
-        "ja": "マダガスカルの熱帯林の９０％以上が伐採されました。",
-        "en": "More than 90 percent of Madagascar's rainforests have been destroyed.",
-        "tatoeba_id": 10028866
-      }
-    ]
-  },
-  {
     "id": "e685744c25",
     "word": "発育",
     "reading": "はついく",
@@ -62788,23 +60655,6 @@
     ]
   },
   {
-    "id": "bb39a13b7a",
-    "word": "発足",
-    "reading": "はっそく",
-    "romaji": "hassoku",
-    "meanings": [
-      "starting",
-      "inauguration"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "jmdict_id": 1583130
-  },
-  {
     "id": "3089867b81",
     "word": "バット",
     "reading": "バット",
@@ -62917,9 +60767,9 @@
     ]
   },
   {
-    "id": "60ebd3475e",
+    "id": "b493e331ab",
     "word": "ばてる",
-    "reading": "バテる",
+    "reading": "ばてる",
     "romaji": "bateru",
     "meanings": [
       "to be exhausted",
@@ -63149,8 +60999,8 @@
     ]
   },
   {
-    "id": "50c9cd817b",
-    "word": "填まる",
+    "id": "5f261717b0",
+    "word": "嵌まる",
     "reading": "はまる",
     "romaji": "hamaru",
     "meanings": [
@@ -63174,11 +61024,6 @@
         "ja": "彼女は編み物にはまっている。",
         "en": "She is absorbed in knitting.",
         "tatoeba_id": 87586
-      },
-      {
-        "ja": "車がぬかるみにはまって動けなくなった。",
-        "en": "The car got stuck in the mud.",
-        "tatoeba_id": 149138
       }
     ]
   },
@@ -63243,36 +61088,6 @@
     ]
   },
   {
-    "id": "dc90c6a0fd",
-    "word": "流行",
-    "reading": "はやり",
-    "romaji": "hayari",
-    "meanings": [
-      "fashionable",
-      "fad",
-      "in vogue",
-      "prevailing"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "adj-no"
-    ],
-    "jmdict_id": 2834093,
-    "examples": [
-      {
-        "ja": "来年は帽子が流行してくるだろう。",
-        "en": "Hats should be popular next year.",
-        "tatoeba_id": 78577
-      },
-      {
-        "ja": "彼女はいつも流行の服を着ている。",
-        "en": "She always wears fashionable clothes.",
-        "tatoeba_id": 93208
-      }
-    ]
-  },
-  {
     "id": "505203967e",
     "word": "腹立ち",
     "reading": "はらだち",
@@ -63315,8 +61130,8 @@
     "jmdict_id": 1261150
   },
   {
-    "id": "2c852b77b4",
-    "word": "散蒔く",
+    "id": "af13ed2a6d",
+    "word": "ばら撒く",
     "reading": "ばらまく",
     "romaji": "baramaku",
     "meanings": [
@@ -63331,11 +61146,6 @@
     ],
     "jmdict_id": 1601320,
     "examples": [
-      {
-        "ja": "ベンは悪意から私の噂をばらまいた。",
-        "en": "Ben spread a rumor about me out of malice.",
-        "tatoeba_id": 196618
-      },
       {
         "ja": "彼女は金をばらまくのが好きだった。",
         "en": "She liked throwing her money about.",
@@ -63478,14 +61288,14 @@
     "jmdict_id": 1478440,
     "examples": [
       {
-        "ja": "彼女は学校では美人で評判だった。",
-        "en": "She was noted for her good looks at school.",
-        "tatoeba_id": 90716
+        "ja": "この駐車券に判を押して下さい。",
+        "en": "Can you validate this parking ticket?",
+        "tatoeba_id": 220553
       },
       {
-        "ja": "彼女はその事件を裁判ざたにした。",
-        "en": "She took the case to court.",
-        "tatoeba_id": 92448
+        "ja": "会ってみるまで本当に人柄は判らない。",
+        "en": "You do not really understand a man till you have met him.",
+        "tatoeba_id": 185448
       }
     ]
   },
@@ -63544,21 +61354,6 @@
         "tatoeba_id": 195825
       }
     ]
-  },
-  {
-    "id": "70d88e2ddb",
-    "word": "万",
-    "reading": "ばん",
-    "romaji": "ban",
-    "meanings": [
-      "many",
-      "all"
-    ],
-    "level": "N1",
-    "pos": [
-      "adv"
-    ],
-    "jmdict_id": 1525750
   },
   {
     "id": "8aea8207d5",
@@ -63663,9 +61458,7 @@
     ],
     "level": "N1",
     "pos": [
-      "n",
-      "vs",
-      "vi"
+      "n"
     ],
     "jmdict_id": 1480310,
     "examples": [
@@ -63687,7 +61480,7 @@
     "reading": "パンク",
     "romaji": "panku",
     "meanings": [
-      "(abbr) puncture",
+      "(abbreviation) puncture",
       "bursting",
       "punk"
     ],
@@ -64229,7 +62022,7 @@
     "id": "6a84853cf2",
     "word": "延いては",
     "reading": "ひいては",
-    "romaji": "hiiteha",
+    "romaji": "hiitewa",
     "meanings": [
       "not only...but also",
       "in addition to",
@@ -64239,7 +62032,14 @@
     "pos": [
       "adv"
     ],
-    "jmdict_id": 1010470
+    "jmdict_id": 1010470,
+    "examples": [
+      {
+        "ja": "テストでは辞書をひいてはいけません。",
+        "en": "Consulting a dictionary is not allowed during the exam.",
+        "tatoeba_id": 7976748
+      }
+    ]
   },
   {
     "id": "2879a950d7",
@@ -64856,33 +62656,6 @@
     ]
   },
   {
-    "id": "1dbb9e4688",
-    "word": "一向",
-    "reading": "ひたすら",
-    "romaji": "hitasura",
-    "meanings": [
-      "earnestly"
-    ],
-    "level": "N1",
-    "pos": [
-      "adv",
-      "adj-na"
-    ],
-    "jmdict_id": 1010530,
-    "examples": [
-      {
-        "ja": "彼はひたすら成功を望んで懸命に働く。",
-        "en": "He works hard because he is anxious to succeed.",
-        "tatoeba_id": 111172
-      },
-      {
-        "ja": "先ずは憧れの作家の文章の呼吸をつかむためにひたすら筆写、丸写しをする。",
-        "en": "First, in order to get a feel for your favourite author's work, transcribe and copy in full.",
-        "tatoeba_id": 74125
-      }
-    ]
-  },
-  {
     "id": "8e175c1a31",
     "word": "左利き",
     "reading": "ひだりきき",
@@ -65260,6 +63033,36 @@
         "ja": "雲間から一条の光が漏れてきた。",
         "en": "A beam of sunlight came through the clouds.",
         "tatoeba_id": 189359
+      }
+    ]
+  },
+  {
+    "id": "d3286be832",
+    "word": "人目",
+    "reading": "ひとめ",
+    "romaji": "hitome",
+    "meanings": [
+      "glimpse",
+      "public gaze"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1580760,
+    "other_readings": [
+      "じんもく"
+    ],
+    "examples": [
+      {
+        "ja": "その家は高い塀で人目から遮られている。",
+        "en": "The house is screened from view with a high fence.",
+        "tatoeba_id": 212088
+      },
+      {
+        "ja": "意外に人目を気にするタイプだ。",
+        "en": "Surprisingly, he is the type that worries about being in the public eye.",
+        "tatoeba_id": 191069
       }
     ]
   },
@@ -65707,9 +63510,9 @@
     ]
   },
   {
-    "id": "0b04388655",
+    "id": "3b112744fa",
     "word": "びり",
-    "reading": "ビリ",
+    "reading": "びり",
     "romaji": "biri",
     "meanings": [
       "last on the list",
@@ -65777,9 +63580,9 @@
         "tatoeba_id": 10932450
       },
       {
-        "ja": "それは化学肥料よりも安い。",
-        "en": "It is cheaper than chemical fertilizers.",
-        "tatoeba_id": 205322
+        "ja": "知識というものは肥料と同じで、広まってこそ良いのである。",
+        "en": "Knowledge is like manure, it's only good when spread.",
+        "tatoeba_id": 934602
       }
     ]
   },
@@ -65799,6 +63602,36 @@
       "adj-no"
     ],
     "jmdict_id": 1486200
+  },
+  {
+    "id": "6d94f7f103",
+    "word": "昼飯",
+    "reading": "ひるめし",
+    "romaji": "hirumeshi",
+    "meanings": [
+      "lunch",
+      "midday meal"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1426410,
+    "other_readings": [
+      "ちゅうはん"
+    ],
+    "examples": [
+      {
+        "ja": "昼飯でもいっしょにどうですか。",
+        "en": "Why don't we have lunch together?",
+        "tatoeba_id": 126366
+      },
+      {
+        "ja": "早く始めれば昼飯までに終えられる。",
+        "en": "If we begin early, we can finish by lunch.",
+        "tatoeba_id": 140548
+      }
+    ]
   },
   {
     "id": "14d90b82f3",
@@ -66750,19 +64583,7 @@
       "vt",
       "vi"
     ],
-    "jmdict_id": 1501320,
-    "examples": [
-      {
-        "ja": "トムは新しい複合機を買った。",
-        "en": "Tom bought a new multifunction printer.",
-        "tatoeba_id": 2672543
-      },
-      {
-        "ja": "研究者は頭脳の新しい受容器の複合体を識別する。",
-        "en": "Researchers Identify New Receptor Complex in Brain",
-        "tatoeba_id": 74368
-      }
-    ]
+    "jmdict_id": 1501320
   },
   {
     "id": "a45caec8b5",
@@ -67675,14 +65496,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1498200,
-    "examples": [
-      {
-        "ja": "今流行の、単身赴任族の淋しさを、ちょっぴり味わわせてもらったのも、有意義な体験だ。",
-        "en": "It was a meaningful experience for me to get a small taste of the loneliness people feel when they've made the now-popular decision to leave their families and work elsewhere.",
-        "tatoeba_id": 11021374
-      }
-    ]
+    "jmdict_id": 1498200
   },
   {
     "id": "946014cf8a",
@@ -67738,8 +65552,8 @@
     ]
   },
   {
-    "id": "ceb6b38fcb",
-    "word": "不便",
+    "id": "2e2b2bb861",
+    "word": "不憫",
     "reading": "ふびん",
     "romaji": "fubin",
     "meanings": [
@@ -67801,14 +65615,7 @@
       "adj-no",
       "n"
     ],
-    "jmdict_id": 1602820,
-    "examples": [
-      {
-        "ja": "それには絶対的で普遍的な意味はない。",
-        "en": "It has no absolute and universal significance.",
-        "tatoeba_id": 205653
-      }
-    ]
+    "jmdict_id": 1602820
   },
   {
     "id": "772d057f4c",
@@ -68394,11 +66201,6 @@
     "jmdict_id": 1503580,
     "examples": [
       {
-        "ja": "私は毎朝３０分散歩をすることにしている。",
-        "en": "I make it a rule to take a walk for half an hour every morning.",
-        "tatoeba_id": 152753
-      },
-      {
         "ja": "その会社はいろいろな国に投資を分散しているね。",
         "en": "The company spreads their investment into a variety of countries.",
         "tatoeba_id": 13714055
@@ -68671,14 +66473,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1504310,
-    "examples": [
-      {
-        "ja": "充分母乳を飲んでくれません。",
-        "en": "She doesn't drink enough breast milk.",
-        "tatoeba_id": 148073
-      }
-    ]
+    "jmdict_id": 1504310
   },
   {
     "id": "253ca04e94",
@@ -68943,19 +66738,7 @@
       "adj-no",
       "n"
     ],
-    "jmdict_id": 1507420,
-    "examples": [
-      {
-        "ja": "平常通り営業いたします。",
-        "en": "Business as usual.",
-        "tatoeba_id": 83556
-      },
-      {
-        "ja": "社屋や従業員に被害はなく、平常通り営業している。",
-        "en": "There was no damage to the office, or workers, and we're in business as usual.",
-        "tatoeba_id": 74233
-      }
-    ]
+    "jmdict_id": 1507420
   },
   {
     "id": "680cb55781",
@@ -69044,9 +66827,9 @@
     ]
   },
   {
-    "id": "e39c735edc",
+    "id": "e596a0fd8b",
     "word": "ぺこぺこ",
-    "reading": "ペコペコ",
+    "reading": "ぺこぺこ",
     "romaji": "pekopeko",
     "meanings": [
       "fawn",
@@ -69186,14 +66969,14 @@
     "jmdict_id": 1510310,
     "examples": [
       {
-        "ja": "彼はジャズに偏見を持っている。",
-        "en": "He has a prejudice against jazz.",
-        "tatoeba_id": 113540
+        "ja": "ハンバーガーばかり食べていると、栄養が偏るよ。",
+        "en": "Your diet is going to be really unbalanced if all you eat is hamburgers.",
+        "tatoeba_id": 197745
       },
       {
-        "ja": "彼はキリスト教に偏見を抱いている。",
-        "en": "He's biased against Christianity.",
-        "tatoeba_id": 113967
+        "ja": "この問題についてマスゴミは偏った報道ばかりしている気がする。",
+        "en": "Concerning this issue, I feel that the trash media only report biased information.",
+        "tatoeba_id": 402450
       }
     ]
   },
@@ -69585,14 +67368,14 @@
     "jmdict_id": 1514780,
     "examples": [
       {
-        "ja": "美穂さんはピアノを弾きます。",
-        "en": "Miho plays the piano.",
-        "tatoeba_id": 85527
+        "ja": "話の接ぎ穂がなくて困った。",
+        "en": "He found it very hard to keep the conversation going.",
+        "tatoeba_id": 75383
       },
       {
-        "ja": "実るほど頭の下がる稲穂かな。",
-        "en": "The boughs that bear most hang lowest.",
-        "tatoeba_id": 149427
+        "ja": "果樹栽培者がリンゴの接ぎ穂を台木に接ぎ木しました。",
+        "en": "The orchardist grafted an apple bud onto the rootstock.",
+        "tatoeba_id": 75382
       }
     ]
   },
@@ -69617,14 +67400,9 @@
     "jmdict_id": 1513290,
     "examples": [
       {
-        "ja": "しげみちゃんを保育園に迎えに行ってもらえる？",
-        "en": "Could you please pick Shigemi up for me at the day-care center?",
-        "tatoeba_id": 216184
-      },
-      {
-        "ja": "一番下の子は毎日午前中を保育園ですごしました。",
-        "en": "The youngest child spent every morning at a nursery.",
-        "tatoeba_id": 190122
+        "ja": "保育ママは１名から３名までのお子さんを保育しています。",
+        "en": "The childminder cares for between one and three children.",
+        "tatoeba_id": 483736
       }
     ]
   },
@@ -69674,51 +67452,6 @@
         "ja": "彼はポイントを生徒に充分わからせた。",
         "en": "He drove a point home to his pupils.",
         "tatoeba_id": 110992
-      }
-    ]
-  },
-  {
-    "id": "b33431e926",
-    "word": "倣",
-    "reading": "ほう",
-    "romaji": "hou",
-    "meanings": [
-      "imitate",
-      "follow",
-      "emulate"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "全ての子供には、尊敬し模倣する人が必要だ。",
-        "en": "Every child needs someone to look up to and copy.",
-        "tatoeba_id": 140868
-      },
-      {
-        "ja": "特別な技能を必要とする分野を除けば、彼らは彼のスタイルをあらゆる点で模倣した。",
-        "en": "They have imitated his style in all areas except those that require special skill.",
-        "tatoeba_id": 123456
-      }
-    ]
-  },
-  {
-    "id": "0c53206fd9",
-    "word": "卯",
-    "reading": "ぼう",
-    "romaji": "bou",
-    "meanings": [
-      "fourth sign of Chinese zodiac (The Hare, 5am-7am, east, February)"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1576460,
-    "examples": [
-      {
-        "ja": "来年は卯年です。",
-        "en": "Next year is the year of the rabbit.",
-        "tatoeba_id": 684616
       }
     ]
   },
@@ -70628,14 +68361,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1518350,
-    "examples": [
-      {
-        "ja": "ゲーム機の国内市場は飽和状態で、大きなヒットは期待できない。",
-        "en": "Being that the domestic game market is saturated, one can't hope for a big hit.",
-        "tatoeba_id": 1619989
-      }
-    ]
+    "jmdict_id": 1518350
   },
   {
     "id": "d1ca85869d",
@@ -71269,6 +68995,36 @@
     ]
   },
   {
+    "id": "d5c389a11d",
+    "word": "墓地",
+    "reading": "ぼち",
+    "romaji": "bochi",
+    "meanings": [
+      "cemetery",
+      "graveyard"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1584040,
+    "other_readings": [
+      "はかち"
+    ],
+    "examples": [
+      {
+        "ja": "彼はこの墓地に埋葬されている。",
+        "en": "He was buried in this graveyard.",
+        "tatoeba_id": 113711
+      },
+      {
+        "ja": "彼らは彼を教会の近くの墓地に埋葬した。",
+        "en": "They buried him in the graveyard by the church.",
+        "tatoeba_id": 96297
+      }
+    ]
+  },
+  {
     "id": "10d587dd95",
     "word": "発作",
     "reading": "ほっさ",
@@ -71321,6 +69077,26 @@
         "en": "If you leave your textbooks at school during the break, they'll get confiscated.",
         "tatoeba_id": 76240
       }
+    ]
+  },
+  {
+    "id": "5dd2205042",
+    "word": "発足",
+    "reading": "ほっそく",
+    "romaji": "hossoku",
+    "meanings": [
+      "starting",
+      "inauguration"
+    ],
+    "level": "N1",
+    "pos": [
+      "n",
+      "vs",
+      "vi"
+    ],
+    "jmdict_id": 1583130,
+    "other_readings": [
+      "はっそく"
     ]
   },
   {
@@ -71477,34 +69253,6 @@
     ]
   },
   {
-    "id": "25040123a2",
-    "word": "辺り",
-    "reading": "ほとり",
-    "romaji": "hotori",
-    "meanings": [
-      "(in the) neighbourhood",
-      "vicinity",
-      "nearby"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 2842190,
-    "examples": [
-      {
-        "ja": "パリはセーヌ川のほとりにあり、美しい都市です。",
-        "en": "Paris, which is on the Seine, is a beautiful city.",
-        "tatoeba_id": 197841
-      },
-      {
-        "ja": "我々はその湖のほとりのホテルに泊まった。",
-        "en": "We stayed at a hotel by the lake.",
-        "tatoeba_id": 186060
-      }
-    ]
-  },
-  {
     "id": "ce141a5e31",
     "word": "保母",
     "reading": "ほぼ",
@@ -71580,19 +69328,7 @@
       "vs",
       "vi"
     ],
-    "jmdict_id": 1514000,
-    "examples": [
-      {
-        "ja": "彼らは去年の夏は山地の保養地へ行った。",
-        "en": "They went to a resort in the mountains last summer.",
-        "tatoeba_id": 97342
-      },
-      {
-        "ja": "軽井沢保養地でくつろぎの一日をお過ごし下さい。",
-        "en": "Enjoy the experience of a relaxing day at Karuizawa.",
-        "tatoeba_id": 176047
-      }
-    ]
+    "jmdict_id": 1514000
   },
   {
     "id": "d31295f643",
@@ -71723,19 +69459,7 @@
       "n",
       "adj-f"
     ],
-    "jmdict_id": 1522310,
-    "examples": [
-      {
-        "ja": "彼の料理はフランス仕込みの本格派だ。",
-        "en": "His cooking is of the classic French style that he studied in France.",
-        "tatoeba_id": 75791
-      },
-      {
-        "ja": "こっちは、本格的に吹雪いてるよ。",
-        "en": "We've got a real blizzard here.",
-        "tatoeba_id": 10092013
-      }
-    ]
+    "jmdict_id": 1522310
   },
   {
     "id": "2dc4fc382a",
@@ -72021,14 +69745,14 @@
     "jmdict_id": 1523240,
     "examples": [
       {
-        "ja": "僕の本名はトム・ジャクソンです。",
-        "en": "My real name is Tom Jackson.",
-        "tatoeba_id": 8814844
-      },
-      {
         "ja": "それって、彼女の本名じゃないよ。",
         "en": "That isn't her real name.",
         "tatoeba_id": 12593077
+      },
+      {
+        "ja": "ガリレオ・ガリレイって本名？",
+        "en": "Galileo Galilei's real name?",
+        "tatoeba_id": 3256381
       }
     ]
   },
@@ -72400,14 +70124,9 @@
     "jmdict_id": 1524850,
     "examples": [
       {
-        "ja": "銃声のせいで鼓膜が破れた。",
-        "en": "My eardrums burst because of the gunshot.",
-        "tatoeba_id": 9952224
-      },
-      {
-        "ja": "よく結膜炎を起こします。",
-        "en": "I often get conjunctivitis.",
-        "tatoeba_id": 192784
+        "ja": "冷たい牛乳は好きだけど、温めた牛乳はあまり好きじゃない。あの白い膜と匂いが苦手なんだ。",
+        "en": "I like cold milk, but not hot milk. The white membrane and the smell that develops bother me.",
+        "tatoeba_id": 1143553
       }
     ]
   },
@@ -72439,10 +70158,10 @@
     ]
   },
   {
-    "id": "4dac24d54a",
+    "id": "9d2c461a37",
     "word": "真心",
-    "reading": "まこころ",
-    "romaji": "makokoro",
+    "reading": "まごころ",
+    "romaji": "magokoro",
     "meanings": [
       "sincerity",
       "devotion"
@@ -72453,6 +70172,9 @@
       "adj-no"
     ],
     "jmdict_id": 1363970,
+    "other_readings": [
+      "まこころ"
+    ],
     "examples": [
       {
         "ja": "彼女は彼に真心こめて感謝しました。",
@@ -72475,19 +70197,7 @@
       "v5k",
       "vi"
     ],
-    "jmdict_id": 1012100,
-    "examples": [
-      {
-        "ja": "私を見て、彼女はまごついた。",
-        "en": "Seeing me, she was embarrassed.",
-        "tatoeba_id": 152142
-      },
-      {
-        "ja": "彼はすっかりまごついてしまった。",
-        "en": "He was utterly perplexed.",
-        "tatoeba_id": 113393
-      }
-    ]
+    "jmdict_id": 1012100
   },
   {
     "id": "ef7ac8431d",
@@ -72544,9 +70254,9 @@
         "tatoeba_id": 126698
       },
       {
-        "ja": "食事はじつにおいしかったですね。",
-        "en": "The meal was great, wasn't it?",
-        "tatoeba_id": 145839
+        "ja": "ご親切誠にありがとうございます。",
+        "en": "Thank you for your kindness.",
+        "tatoeba_id": 217095
       }
     ]
   },
@@ -72820,11 +70530,6 @@
     "jmdict_id": 1267460,
     "examples": [
       {
-        "ja": "あの男の人、内股で歩いているよ。",
-        "en": "That guy is walking pigeon-toed.",
-        "tatoeba_id": 230606
-      },
-      {
         "ja": "自転車の乗り過ぎで股が痛いです。",
         "en": "My crotch hurts from riding the bicycle too much.",
         "tatoeba_id": 13715816
@@ -72832,8 +70537,8 @@
     ]
   },
   {
-    "id": "adf7dc735d",
-    "word": "跨がる",
+    "id": "b29a4ed96a",
+    "word": "跨る",
     "reading": "またがる",
     "romaji": "matagaru",
     "meanings": [
@@ -72848,14 +70553,9 @@
     "jmdict_id": 1603970,
     "examples": [
       {
-        "ja": "馬の背にまたがり野山を走り回った。",
-        "en": "I rode all over the countryside on horseback.",
-        "tatoeba_id": 121628
-      },
-      {
-        "ja": "台風の被害は数県にまたがっていた。",
-        "en": "The damage of the typhoon spread over several prefectures.",
-        "tatoeba_id": 137789
+        "ja": "最後の試験は来月にまたがるだろう。",
+        "en": "The final exams will probably carry over into next month.",
+        "tatoeba_id": 170560
       }
     ]
   },
@@ -73153,10 +70853,10 @@
     ]
   },
   {
-    "id": "c4efff4845",
+    "id": "d8bd0de451",
     "word": "免れる",
-    "reading": "まぬかれる",
-    "romaji": "manukareru",
+    "reading": "まぬがれる",
+    "romaji": "manugareru",
     "meanings": [
       "to escape from",
       "to be rescued from",
@@ -73172,6 +70872,9 @@
       "vt"
     ],
     "jmdict_id": 1584670,
+    "other_readings": [
+      "まぬかれる"
+    ],
     "examples": [
       {
         "ja": "われわれはかろうじて事故を免れた。",
@@ -73295,19 +70998,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1226280,
-    "examples": [
-      {
-        "ja": "陸と水で地球の表面は出来ている。",
-        "en": "Land and water make up the earth's surface.",
-        "tatoeba_id": 78321
-      },
-      {
-        "ja": "野球部のマネージャーは３人です。",
-        "en": "The manager of the baseball department is 3 people.",
-        "tatoeba_id": 79618
-      }
-    ]
+    "jmdict_id": 1226280
   },
   {
     "id": "3bc1b71a60",
@@ -73329,11 +71020,6 @@
         "ja": "彼女は１課を丸ごと暗記することで満点を取った。",
         "en": "She got full marks by memorizing the whole lesson.",
         "tatoeba_id": 93622
-      },
-      {
-        "ja": "「好色と倒錯の違いとは？」「好色なら羽を使うが、倒錯なら鶏をまるごと使う」",
-        "en": "\"What's the difference between erotic and kinky?\" \"Erotic is when you use a feather and kinky is when you use a whole chicken.\"",
-        "tatoeba_id": 76995
       }
     ]
   },
@@ -73523,7 +71209,7 @@
     "reading": "み",
     "romaji": "mi",
     "meanings": [
-      "(num) three"
+      "three"
     ],
     "level": "N1",
     "pos": [
@@ -73711,28 +71397,6 @@
     ]
   },
   {
-    "id": "ce617a4b13",
-    "word": "三日月",
-    "reading": "みかずき",
-    "romaji": "mikazuki",
-    "meanings": [
-      "new moon",
-      "crescent moon"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1301340,
-    "examples": [
-      {
-        "ja": "足で三日月を踏んでいる。",
-        "en": "I am stepping on the crescent moon with my feet.",
-        "tatoeba_id": 8289896
-      }
-    ]
-  },
-  {
     "id": "63607fd708",
     "word": "見方",
     "reading": "みかた",
@@ -73911,6 +71575,34 @@
     ]
   },
   {
+    "id": "434fc61861",
+    "word": "水気",
+    "reading": "みずけ",
+    "romaji": "mizuke",
+    "meanings": [
+      "moisture",
+      "dampness",
+      "vapor",
+      "dropsy",
+      "edema"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1371390,
+    "other_readings": [
+      "すいき"
+    ],
+    "examples": [
+      {
+        "ja": "お風呂から上がって脱衣所に入る時は、タオルでしっかり水気を拭き取りましょう。",
+        "en": "When you get out of the bath, dry yourself off before going into the dressing room.",
+        "tatoeba_id": 9681803
+      }
+    ]
+  },
+  {
     "id": "2606862998",
     "word": "ミスプリント",
     "reading": "ミスプリント",
@@ -73952,14 +71644,14 @@
     "jmdict_id": 1259180,
     "examples": [
       {
-        "ja": "非常にみすぼらしく見える。",
-        "en": "He looks very down-at-the-heels.",
-        "tatoeba_id": 85773
+        "ja": "トム、みすぼらしい服を着てたわ。",
+        "en": "Tom was wearing shabby clothes.",
+        "tatoeba_id": 9943144
       },
       {
-        "ja": "どうやら、そのみすぼらしいアパートは空き家のようだ。",
-        "en": "Apparently that shabby flat is vacant.",
-        "tatoeba_id": 201136
+        "ja": "彼女はみすぼらしい小さいおうちを見ましたが急いで通り過ぎてしまいませんでした。",
+        "en": "She saw the shabby little house, but she didn't hurry by.",
+        "tatoeba_id": 91430
       }
     ]
   },
@@ -74291,19 +71983,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1528320,
-    "examples": [
-      {
-        "ja": "日本は人口密度が高い国である。",
-        "en": "Japan has a high population density.",
-        "tatoeba_id": 122450
-      },
-      {
-        "ja": "英国の南東区は人口密度が高い。",
-        "en": "The South East region of England is densely populated.",
-        "tatoeba_id": 189005
-      }
-    ]
+    "jmdict_id": 1528320
   },
   {
     "id": "567666993e",
@@ -74668,19 +72348,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1528790,
-    "examples": [
-      {
-        "ja": "民主主義は政治形態の一つである。",
-        "en": "Democracy is one form of government.",
-        "tatoeba_id": 81020
-      },
-      {
-        "ja": "自由諸国の基盤は民主主義である。",
-        "en": "The foundation of free nations is democracy.",
-        "tatoeba_id": 149680
-      }
-    ]
+    "jmdict_id": 1528790
   },
   {
     "id": "83127f9e88",
@@ -74748,32 +72416,6 @@
         "ja": "その国にはいくつかの民族がある。",
         "en": "There are several peoples in the country.",
         "tatoeba_id": 210648
-      }
-    ]
-  },
-  {
-    "id": "b1d7070952",
-    "word": "六",
-    "reading": "む",
-    "romaji": "mu",
-    "meanings": [
-      "(num) six"
-    ],
-    "level": "N1",
-    "pos": [
-      "num"
-    ],
-    "jmdict_id": 1585310,
-    "examples": [
-      {
-        "ja": "私は毎朝六時に起きます。",
-        "en": "I get up at six every morning.",
-        "tatoeba_id": 152733
-      },
-      {
-        "ja": "私は六年間英語を勉強している。",
-        "en": "I have been studying English for six years now.",
-        "tatoeba_id": 152247
       }
     ]
   },
@@ -74929,19 +72571,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1531160,
-    "examples": [
-      {
-        "ja": "彼の娘婿は完全に病気から回復した。",
-        "en": "His son-in-law completely recovered from his illness.",
-        "tatoeba_id": 116058
-      },
-      {
-        "ja": "彼の娘婿は海外の支店に転勤になった。",
-        "en": "His son-in-law was transferred to an overseas branch.",
-        "tatoeba_id": 116059
-      }
-    ]
+    "jmdict_id": 1531160
   },
   {
     "id": "8c2103a006",
@@ -75069,14 +72699,14 @@
     "jmdict_id": 1254610,
     "examples": [
       {
-        "ja": "こんな結び方ではほどけちゃうよ。",
-        "en": "This knot will not hold.",
-        "tatoeba_id": 217367
+        "ja": "彼の努力が好成績に結びついた。",
+        "en": "His efforts led to good results.",
+        "tatoeba_id": 116455
       },
       {
-        "ja": "トムは靴ひもの結び方を知らない。",
-        "en": "Tom doesn't know how to tie his shoelaces.",
-        "tatoeba_id": 2411687
+        "ja": "対等の条件で契約を結びたいと思った。",
+        "en": "They wanted to negotiate the contract on equal terms.",
+        "tatoeba_id": 137952
       }
     ]
   },
@@ -75428,7 +73058,19 @@
     "pos": [
       "adv"
     ],
-    "jmdict_id": 1529590
+    "jmdict_id": 1529590,
+    "examples": [
+      {
+        "ja": "私はむやみに人と約束はしない。",
+        "en": "I don't make a promise to someone without taking it seriously.",
+        "tatoeba_id": 1335130
+      },
+      {
+        "ja": "いったん職業を決めたらむやみに変えてはいけない。",
+        "en": "Once you decide to enter a profession, you can't change your mind on a whim.",
+        "tatoeba_id": 1335128
+      }
+    ]
   },
   {
     "id": "b43cf88b29",
@@ -75575,6 +73217,38 @@
         "ja": "戦艦ビスマルク号を海のもくずとするには、何発もの魚雷を命中させなければならなかった。",
         "en": "It took many torpedo hits to send the battleship Bismarck to Davy Jones's locker.",
         "tatoeba_id": 141336
+      }
+    ]
+  },
+  {
+    "id": "41432923e5",
+    "word": "明白",
+    "reading": "めいはく",
+    "romaji": "meihaku",
+    "meanings": [
+      "obvious",
+      "overt",
+      "plainly",
+      "frankly"
+    ],
+    "level": "N1",
+    "pos": [
+      "adj-na"
+    ],
+    "jmdict_id": 1000220,
+    "other_readings": [
+      "あからさま"
+    ],
+    "examples": [
+      {
+        "ja": "何をしなければならないかは明白です。",
+        "en": "It is clear what must be done.",
+        "tatoeba_id": 187608
+      },
+      {
+        "ja": "彼は過ちをあからさまに白状した。",
+        "en": "He openly confessed his faults.",
+        "tatoeba_id": 118664
       }
     ]
   },
@@ -76559,11 +74233,6 @@
     "jmdict_id": 1533660,
     "examples": [
       {
-        "ja": "現状の打開策を暗中模索している。",
-        "en": "We are groping for a way out of the present situation.",
-        "tatoeba_id": 174852
-      },
-      {
         "ja": "より簡単な解決策を模索している。",
         "en": "I'm looking for a simpler solution.",
         "tatoeba_id": 8642526
@@ -76601,7 +74270,7 @@
     "id": "b81e9f6d15",
     "word": "若しくは",
     "reading": "もしくは",
-    "romaji": "moshikuha",
+    "romaji": "moshikuwa",
     "meanings": [
       "or",
       "otherwise"
@@ -76642,14 +74311,14 @@
     "jmdict_id": 1573190,
     "examples": [
       {
-        "ja": "彼は私たちに悲しい知らせをもたらした。",
-        "en": "He brought us sad news.",
-        "tatoeba_id": 106315
+        "ja": "富は幸福をもたらすとは限らない。",
+        "en": "Wealth does not always bring us happiness.",
+        "tatoeba_id": 84953
       },
       {
-        "ja": "多くのものが中国から日本にもたらされた。",
-        "en": "Many things were brought to Japan from China.",
-        "tatoeba_id": 138448
+        "ja": "対外貿易は巨額の収入をもたらす。",
+        "en": "Foreign trade brings in a large income.",
+        "tatoeba_id": 137956
       }
     ]
   },
@@ -76739,9 +74408,9 @@
         "tatoeba_id": 876647
       },
       {
-        "ja": "毒を以て毒を制す。",
-        "en": "Diamond cuts diamond.",
-        "tatoeba_id": 123437
+        "ja": "どうしてもって時以外は、タクシーは使わないんだ。",
+        "en": "I don't use taxis unless it's absolutely necessary.",
+        "tatoeba_id": 11122292
       }
     ]
   },
@@ -77258,33 +74927,6 @@
         "ja": "彼女は試験で四問目をぬかしてしまった。",
         "en": "She left out the fourth question on the examination.",
         "tatoeba_id": 89221
-      },
-      {
-        "ja": "ねえ蓮、お姉さんが手をつないであげようか？キミは毎年すぐにはぐれちゃうもんね。",
-        "en": "By the way, Ren. Should I take your hand? Every year you wander off.",
-        "tatoeba_id": 75614
-      }
-    ]
-  },
-  {
-    "id": "3227fec522",
-    "word": "哉",
-    "reading": "や",
-    "romaji": "ya",
-    "meanings": [
-      "question mark"
-    ],
-    "level": "N1",
-    "examples": [
-      {
-        "ja": "これじゃあ、僕は一生結婚なんて出来やしないや。",
-        "en": "I guess I'm never going to get married.",
-        "tatoeba_id": 218796
-      },
-      {
-        "ja": "朝立ちやしょんべんまでの命かな。",
-        "en": "A morning erection: Will it last only until I take a leak?",
-        "tatoeba_id": 75869
       }
     ]
   },
@@ -77340,36 +74982,6 @@
         "ja": "私達は野外でパーティーをした。",
         "en": "We had a party in the open.",
         "tatoeba_id": 151255
-      }
-    ]
-  },
-  {
-    "id": "3786ee6351",
-    "word": "夜行",
-    "reading": "やぎょう",
-    "romaji": "yagyou",
-    "meanings": [
-      "walking around at night",
-      "night train",
-      "night travel"
-    ],
-    "level": "N1",
-    "pos": [
-      "n",
-      "vs",
-      "vi"
-    ],
-    "jmdict_id": 1584820,
-    "examples": [
-      {
-        "ja": "夜行ったことは昼現れる。",
-        "en": "What is done by night appears by day.",
-        "tatoeba_id": 79688
-      },
-      {
-        "ja": "彼女の誕生パーティーは明日の夜行われます。",
-        "en": "Her birthday party will be given next evening.",
-        "tatoeba_id": 94141
       }
     ]
   },
@@ -77466,14 +75078,14 @@
     "jmdict_id": 1538030,
     "examples": [
       {
-        "ja": "これが町役場です。",
+        "ja": "ここが役場です。",
         "en": "This is the Town Hall.",
-        "tatoeba_id": 10079805
+        "tatoeba_id": 10079803
       },
       {
-        "ja": "当事者が公証役場に行く場合、下記のものが必要になります。",
-        "en": "When one goes to the notary public's office, the following are required.",
-        "tatoeba_id": 74308
+        "ja": "その役場は１８９５年から１８９７年にかけて建てられました。",
+        "en": "The town hall was built between 1895 and 1897.",
+        "tatoeba_id": 10079807
       }
     ]
   },
@@ -77493,14 +75105,14 @@
     "jmdict_id": 1539020,
     "examples": [
       {
-        "ja": "僕は君ほど優秀じゃないようです。",
-        "en": "I guess I'm not as smart as you.",
-        "tatoeba_id": 81928
-      },
-      {
         "ja": "父は母のことを優しく抱きしめた。",
         "en": "Father embraced Mother lovingly.",
         "tatoeba_id": 84373
+      },
+      {
+        "ja": "彼女は姉に優るとも劣らぬ美人だ。",
+        "en": "She is not less beautiful than her sister.",
+        "tatoeba_id": 89796
       }
     ]
   },
@@ -78176,14 +75788,9 @@
     "jmdict_id": 1541180,
     "examples": [
       {
-        "ja": "彼女は有機化学を専攻している。",
-        "en": "She majors in organic chemistry.",
-        "tatoeba_id": 86421
-      },
-      {
-        "ja": "人間は複雑な有機体だ。",
-        "en": "Man is a complex organism.",
-        "tatoeba_id": 144250
+        "ja": "有機キウイです。どうぞご自由にお採り下さい。",
+        "en": "Organic kiwi fruit. Feel free to help yourself.",
+        "tatoeba_id": 3358045
       }
     ]
   },
@@ -78578,6 +76185,44 @@
         "ja": "彼女は色仕掛けで男を誘惑する。",
         "en": "She knows how to use her good looks to get what she wants out of men.",
         "tatoeba_id": 88617
+      }
+    ]
+  },
+  {
+    "id": "46b8b4d1cc",
+    "word": "歪む",
+    "reading": "ゆがむ",
+    "romaji": "yugamu",
+    "meanings": [
+      "to warp",
+      "to swerve",
+      "to deflect",
+      "to be crooked",
+      "to be distorted",
+      "to be bent",
+      "to incline",
+      "to slant",
+      "to be perverted"
+    ],
+    "level": "N1",
+    "pos": [
+      "v5m",
+      "vi"
+    ],
+    "jmdict_id": 1585360,
+    "other_readings": [
+      "いがむ"
+    ],
+    "examples": [
+      {
+        "ja": "苦痛で彼の顔が歪んでいる。",
+        "en": "His face is distorted by pain.",
+        "tatoeba_id": 179525
+      },
+      {
+        "ja": "彼の顔は苦痛でいがんだ。",
+        "en": "His face was twisted with pain.",
+        "tatoeba_id": 117839
       }
     ]
   },
@@ -79644,9 +77289,14 @@
     "jmdict_id": 1605970,
     "examples": [
       {
-        "ja": "よって流通するマネーが減り、物価上昇は鎮静化する。",
-        "en": "Thus money in circulation drops, and price escalation quietens down.",
-        "tatoeba_id": 74343
+        "ja": "「帰ろ」「マックよってかない？」",
+        "en": "\"Let's head back.\" \"Shall we drop by McDonald's?\"",
+        "tatoeba_id": 75070
+      },
+      {
+        "ja": "暴動は彼の扇動によって起こった。",
+        "en": "He instigated the riot.",
+        "tatoeba_id": 82509
       }
     ]
   },
@@ -79669,19 +77319,16 @@
       "adj-na"
     ],
     "jmdict_id": 2830551,
-    "other_forms": [
-      "余程"
-    ],
     "examples": [
       {
-        "ja": "彼はその話がよほど面白かったようだ。",
-        "en": "It seems that he was very much amused by the story.",
-        "tatoeba_id": 112290
+        "ja": "よっぽどの自信なんだなぁ。",
+        "en": "You have considerable confidence.",
+        "tatoeba_id": 11029500
       },
       {
-        "ja": "あいつがガッツポーズするなんて、よっぽど嬉しかったんだろうな。",
-        "en": "It must have been something really big for him to strike a triumphant pose like that.",
-        "tatoeba_id": 234683
+        "ja": "掃除って下手な筋トレよりよっぽど筋力つくよね。",
+        "en": "Sweeping is better than poorly-done weight training for strengthening your muscles.",
+        "tatoeba_id": 7005388
       }
     ]
   },
@@ -80286,19 +77933,7 @@
       "n",
       "adj-no"
     ],
-    "jmdict_id": 1551740,
-    "examples": [
-      {
-        "ja": "連続立体交差事業は線路により分断された町を1つにします。",
-        "en": "The continuous railroad grade separation projects will unite the towns divided by railroads.",
-        "tatoeba_id": 9671655
-      },
-      {
-        "ja": "我々はその問題を立体的に調査した。",
-        "en": "We investigated the matter from all angles.",
-        "tatoeba_id": 186029
-      }
-    ]
+    "jmdict_id": 1551740
   },
   {
     "id": "a46a045f8b",
@@ -80316,19 +77951,7 @@
       "vt",
       "vi"
     ],
-    "jmdict_id": 1551840,
-    "examples": [
-      {
-        "ja": "政府は立法権を持っている。",
-        "en": "The government has the power of legislation.",
-        "tatoeba_id": 143064
-      },
-      {
-        "ja": "その州の立法者は時代遅れの法律を廃止した。",
-        "en": "The legislators of that state did away with outdated laws.",
-        "tatoeba_id": 209454
-      }
-    ]
+    "jmdict_id": 1551840
   },
   {
     "id": "93039ef052",
@@ -80427,14 +78050,14 @@
     "jmdict_id": 1552090,
     "examples": [
       {
-        "ja": "流感の予防ワクチンの注射をした。",
-        "en": "I was vaccinated against the flu.",
-        "tatoeba_id": 78256
+        "ja": "彼女は涙を流しながら答えました。",
+        "en": "She answered with tears.",
+        "tatoeba_id": 86230
       },
       {
-        "ja": "流感で彼はゴルフが出来なかった。",
-        "en": "The flu prevented him from playing golf.",
-        "tatoeba_id": 78257
+        "ja": "彼女はその話を聞いて涙を流した。",
+        "en": "She shed tears while listening to the story.",
+        "tatoeba_id": 92262
       }
     ]
   },
@@ -80482,19 +78105,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1553290,
-    "examples": [
-      {
-        "ja": "聴衆は彼のスピーチに魅了された。",
-        "en": "The audience were fascinated by his speech.",
-        "tatoeba_id": 126046
-      },
-      {
-        "ja": "５日たてば仕事が完了するだろう。",
-        "en": "We should be able to complete the work in five days.",
-        "tatoeba_id": 235117
-      }
-    ]
+    "jmdict_id": 1553290
   },
   {
     "id": "a434acf5bd",
@@ -80616,19 +78227,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1553520,
-    "examples": [
-      {
-        "ja": "両極端は一致する。",
-        "en": "Extremes meet.",
-        "tatoeba_id": 78109
-      },
-      {
-        "ja": "むろん、この両極端の間に多くのバリエーションがある。",
-        "en": "Obviously there are many variations between these two extremes.",
-        "tatoeba_id": 74402
-      }
-    ]
+    "jmdict_id": 1553520
   },
   {
     "id": "e6b6167d98",
@@ -81114,19 +78713,7 @@
       "vs",
       "vt"
     ],
-    "jmdict_id": 1557100,
-    "examples": [
-      {
-        "ja": "冷蔵庫に何か飲み物がありますか。",
-        "en": "Is there anything to drink in the refrigerator?",
-        "tatoeba_id": 77644
-      },
-      {
-        "ja": "ピンクの冷蔵庫を見たことがない。",
-        "en": "I've never seen a pink fridge.",
-        "tatoeba_id": 7981382
-      }
-    ]
+    "jmdict_id": 1557100
   },
   {
     "id": "47aa9c6d11",
@@ -81406,34 +78993,6 @@
     ]
   },
   {
-    "id": "9ce9b28ef9",
-    "word": "連中",
-    "reading": "れんじゅう",
-    "romaji": "renjuu",
-    "meanings": [
-      "colleagues",
-      "company",
-      "a lot"
-    ],
-    "level": "N1",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 1559700,
-    "examples": [
-      {
-        "ja": "あの連中には近づいてはいけないよ。",
-        "en": "You must steer clear of that gang.",
-        "tatoeba_id": 230420
-      },
-      {
-        "ja": "彼らはそんなに悪い連中ではない。",
-        "en": "They aren't such a bad lot.",
-        "tatoeba_id": 97814
-      }
-    ]
-  },
-  {
     "id": "dfe344f4e2",
     "word": "連帯",
     "reading": "れんたい",
@@ -81484,6 +79043,37 @@
         "ja": "レンタカーの予約もお願いします。",
         "en": "I would also like to rent a car.",
         "tatoeba_id": 192316
+      }
+    ]
+  },
+  {
+    "id": "04743e6a41",
+    "word": "連中",
+    "reading": "れんちゅう",
+    "romaji": "renchuu",
+    "meanings": [
+      "colleagues",
+      "company",
+      "a lot"
+    ],
+    "level": "N1",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1559700,
+    "other_readings": [
+      "れんじゅう"
+    ],
+    "examples": [
+      {
+        "ja": "あの連中には近づいてはいけないよ。",
+        "en": "You must steer clear of that gang.",
+        "tatoeba_id": 230420
+      },
+      {
+        "ja": "彼らはそんなに悪い連中ではない。",
+        "en": "They aren't such a bad lot.",
+        "tatoeba_id": 97814
       }
     ]
   },

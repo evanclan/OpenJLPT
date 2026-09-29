@@ -52,10 +52,10 @@
     ]
   },
   {
-    "id": "83922c4a92",
+    "id": "c3c3ac9f48",
     "word": "あいさつする",
-    "reading": "あいさつ",
-    "romaji": "aisatsu",
+    "reading": "あいさつする",
+    "romaji": "aisatsusuru",
     "meanings": [
       "to greet"
     ],
@@ -77,9 +77,6 @@
         "en": "I've come to say goodbye.",
         "tatoeba_id": 226674
       }
-    ],
-    "other_forms": [
-      "挨拶"
     ]
   },
   {
@@ -148,6 +145,9 @@
       "n"
     ],
     "jmdict_id": 1383260,
+    "other_forms": [
+      "赤ちゃん"
+    ],
     "examples": [
       {
         "ja": "その赤ちゃんは歯が生えはじめている。",
@@ -159,39 +159,6 @@
         "en": "Is this baby a he or a she?",
         "tatoeba_id": 220868
       }
-    ],
-    "other_forms": [
-      "赤ちゃん"
-    ]
-  },
-  {
-    "id": "6abad0565b",
-    "word": "上る",
-    "reading": "あがる",
-    "romaji": "agaru",
-    "meanings": [
-      "to rise"
-    ],
-    "level": "N4",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1352290,
-    "examples": [
-      {
-        "ja": "明日それをいただきに上がります。",
-        "en": "I will call for it tomorrow.",
-        "tatoeba_id": 80598
-      },
-      {
-        "ja": "車のバッテリーが上がってるよ。",
-        "en": "The car battery is dead.",
-        "tatoeba_id": 149063
-      }
-    ],
-    "other_forms": [
-      "上がる"
     ]
   },
   {
@@ -207,6 +174,9 @@
       "n"
     ],
     "jmdict_id": 1383310,
+    "other_forms": [
+      "あかんぼう"
+    ],
     "examples": [
       {
         "ja": "うちの赤ん坊は口をきくようになってきました。",
@@ -218,9 +188,6 @@
         "en": "The baby is not capable of walking yet.",
         "tatoeba_id": 142193
       }
-    ],
-    "other_forms": [
-      "あかんぼう"
     ]
   },
   {
@@ -345,14 +312,14 @@
     "jmdict_id": 1015840,
     "examples": [
       {
-        "ja": "アジアにはたくさんの民族がいる。",
-        "en": "There are many people in Asia.",
-        "tatoeba_id": 234484
-      },
-      {
         "ja": "ヨーロッパはアジアより人口が少ない。",
         "en": "Europe has a smaller population than Asia.",
         "tatoeba_id": 192848
+      },
+      {
+        "ja": "日本は東アジアにあります。",
+        "en": "Japan is in eastern Asia.",
+        "tatoeba_id": 122411
       }
     ]
   },
@@ -407,36 +374,6 @@
         "en": "Life is not all fun and games.",
         "tatoeba_id": 143985
       }
-    ]
-  },
-  {
-    "id": "9c8f528572",
-    "word": "集る",
-    "reading": "あつまる",
-    "romaji": "atsumaru",
-    "meanings": [
-      "to gather"
-    ],
-    "level": "N4",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1333550,
-    "examples": [
-      {
-        "ja": "私達は先生の前に集まった。",
-        "en": "We gathered around the teacher.",
-        "tatoeba_id": 151443
-      },
-      {
-        "ja": "通りに人がたくさん集まっている。",
-        "en": "There is a crowd of people on the street.",
-        "tatoeba_id": 125642
-      }
-    ],
-    "other_forms": [
-      "集まる"
     ]
   },
   {
@@ -533,14 +470,14 @@
     "jmdict_id": 1149830,
     "examples": [
       {
-        "ja": "アメリカでは英語を話します。",
-        "en": "They speak English in America.",
-        "tatoeba_id": 230259
-      },
-      {
         "ja": "父は、アメリカへ行ってしまった。",
         "en": "My father has gone to America.",
         "tatoeba_id": 84793
+      },
+      {
+        "ja": "私は去年の秋にアメリカにいった。",
+        "en": "I went to America last fall.",
+        "tatoeba_id": 157652
       }
     ]
   },
@@ -895,6 +832,9 @@
       "vt"
     ],
     "jmdict_id": 1195140,
+    "other_forms": [
+      "苛める"
+    ],
     "examples": [
       {
         "ja": "彼はよく友人をいじめたものだ。",
@@ -906,9 +846,6 @@
         "en": "I felt bad about picking on him.",
         "tatoeba_id": 153660
       }
-    ],
-    "other_forms": [
-      "苛める"
     ]
   },
   {
@@ -1007,6 +944,9 @@
       "vt"
     ],
     "jmdict_id": 1587290,
+    "other_forms": [
+      "頂く"
+    ],
     "examples": [
       {
         "ja": "明日それをいただきに上がります。",
@@ -1018,9 +958,6 @@
         "en": "I'd like you to come at nine.",
         "tatoeba_id": 179544
       }
-    ],
-    "other_forms": [
-      "頂く"
     ]
   },
   {
@@ -1228,19 +1165,7 @@
       "v5aru",
       "vi"
     ],
-    "jmdict_id": 1000940,
-    "examples": [
-      {
-        "ja": "来週はうちへいらしゃいませんか。",
-        "en": "Won't you come and see me next week?",
-        "tatoeba_id": 78640
-      },
-      {
-        "ja": "夕食に家へいらっしゃいませんか。",
-        "en": "Would you like to come over to our house for dinner?",
-        "tatoeba_id": 79110
-      }
-    ]
+    "jmdict_id": 1000940
   },
   {
     "id": "833af5347e",
@@ -1284,6 +1209,9 @@
       "vt"
     ],
     "jmdict_id": 1305700,
+    "other_forms": [
+      "伺う"
+    ],
     "examples": [
       {
         "ja": "体重をおうかがいしてもよろしいですか。",
@@ -1295,9 +1223,6 @@
         "en": "On account of illness, I couldn't call on you today.",
         "tatoeba_id": 85264
       }
-    ],
-    "other_forms": [
-      "伺う"
     ]
   },
   {
@@ -1397,6 +1322,9 @@
       "adj-no"
     ],
     "jmdict_id": 1172400,
+    "other_forms": [
+      "嘘"
+    ],
     "examples": [
       {
         "ja": "うそを言ってはいけないよ。",
@@ -1408,9 +1336,6 @@
         "en": "That's a blessed lie.",
         "tatoeba_id": 213974
       }
-    ],
-    "other_forms": [
-      "嘘"
     ]
   },
   {
@@ -1427,6 +1352,9 @@
       "adv"
     ],
     "jmdict_id": 1457730,
+    "other_forms": [
+      "内"
+    ],
     "examples": [
       {
         "ja": "教会は私の家とあなたの家の中にあります。",
@@ -1438,9 +1366,6 @@
         "en": "Won't you come and see me next week?",
         "tatoeba_id": 78640
       }
-    ],
-    "other_forms": [
-      "内"
     ]
   },
   {
@@ -1589,6 +1514,9 @@
       "adj-i"
     ],
     "jmdict_id": 1310460,
+    "other_forms": [
+      "甘い"
+    ],
     "examples": [
       {
         "ja": "それはあまりにもうますぎる話だ。",
@@ -1600,9 +1528,6 @@
         "en": "She's very good at tennis, but she's not much of a swimmer.",
         "tatoeba_id": 92065
       }
-    ],
-    "other_forms": [
-      "甘い"
     ]
   },
   {
@@ -1670,6 +1595,9 @@
       "adj-i"
     ],
     "jmdict_id": 1219510,
+    "other_forms": [
+      "嬉しい"
+    ],
     "examples": [
       {
         "ja": "あなたに再会できてうれしい。",
@@ -1681,9 +1609,6 @@
         "en": "I am glad to hear the news.",
         "tatoeba_id": 159965
       }
-    ],
-    "other_forms": [
-      "嬉しい"
     ]
   },
   {
@@ -1919,6 +1844,9 @@
       "v5r"
     ],
     "jmdict_id": 1001180,
+    "other_forms": [
+      "お出でになる"
+    ],
     "examples": [
       {
         "ja": "いつ旅行においでになりますか。",
@@ -1930,9 +1858,6 @@
         "en": "Don't bother coming in this rain.",
         "tatoeba_id": 222939
       }
-    ],
-    "other_forms": [
-      "お出でになる"
     ]
   },
   {
@@ -2000,6 +1925,9 @@
       "n"
     ],
     "jmdict_id": 1001640,
+    "other_forms": [
+      "お陰"
+    ],
     "examples": [
       {
         "ja": "私が今日あるのは両親のおかげである。",
@@ -2011,9 +1939,6 @@
         "en": "My mother has made me what I am today.",
         "tatoeba_id": 163620
       }
-    ],
-    "other_forms": [
-      "お蔭"
     ]
   },
   {
@@ -2029,6 +1954,9 @@
       "adj-i"
     ],
     "jmdict_id": 1190860,
+    "other_forms": [
+      "可笑しい"
+    ],
     "examples": [
       {
         "ja": "君のジョークは何度聞いてもおかしい。",
@@ -2040,9 +1968,35 @@
         "en": "Jim acted very strangely all day.",
         "tatoeba_id": 216028
       }
+    ]
+  },
+  {
+    "id": "a58874b751",
+    "word": "お金持ち",
+    "reading": "おかねもち",
+    "romaji": "okanemochi",
+    "meanings": [
+      "rich man"
     ],
-    "other_forms": [
-      "可笑しい"
+    "level": "N4",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 2429350,
+    "other_readings": [
+      "かねもち"
+    ],
+    "examples": [
+      {
+        "ja": "どうしたらお金持ちになれるのかしら？",
+        "en": "How can I become rich?",
+        "tatoeba_id": 201588
+      },
+      {
+        "ja": "叔母は非常なお金持ちだからといって、それだけ幸せというわけではない。",
+        "en": "My aunt is none the happier for her great wealth.",
+        "tatoeba_id": 227567
+      }
     ]
   },
   {
@@ -2191,6 +2145,9 @@
       "vt"
     ],
     "jmdict_id": 1223660,
+    "other_forms": [
+      "起こす"
+    ],
     "examples": [
       {
         "ja": "わたしたちはその木を起こした。",
@@ -2202,9 +2159,6 @@
         "en": "This is hardly the time to start a new enterprise.",
         "tatoeba_id": 201106
       }
-    ],
-    "other_forms": [
-      "起こす"
     ]
   },
   {
@@ -2341,8 +2295,8 @@
     ]
   },
   {
-    "id": "0dab021a23",
-    "word": "落る",
+    "id": "981ee66f59",
+    "word": "落ちる",
     "reading": "おちる",
     "romaji": "ochiru",
     "meanings": [
@@ -2365,9 +2319,6 @@
         "en": "The server was down.",
         "tatoeba_id": 2298216
       }
-    ],
-    "other_forms": [
-      "落ちる"
     ]
   },
   {
@@ -2384,20 +2335,20 @@
       "vt"
     ],
     "jmdict_id": 1238840,
+    "other_forms": [
+      "仰る"
+    ],
     "examples": [
       {
-        "ja": "ここではどんどん意見をおっしゃってかまいません。",
-        "en": "You can speak out freely here.",
-        "tatoeba_id": 224623
+        "ja": "全くおっしゃる通りです。",
+        "en": "You are absolutely right.",
+        "tatoeba_id": 2912698
       },
       {
-        "ja": "お名前は何とおっしゃいましたか。",
-        "en": "What was your name?",
-        "tatoeba_id": 226567
+        "ja": "あなたがメールでおっしゃることは全て正当です。価格を除いては。",
+        "en": "Everything you said in your mail is just right - except the price.",
+        "tatoeba_id": 232385
       }
-    ],
-    "other_forms": [
-      "仰っしゃる"
     ]
   },
   {
@@ -2494,6 +2445,9 @@
       "vt"
     ],
     "jmdict_id": 1589260,
+    "other_forms": [
+      "落とす"
+    ],
     "examples": [
       {
         "ja": "日本語のソフトを落とすコツ・いいサイトありませんか？",
@@ -2505,9 +2459,6 @@
         "en": "Mayuko has dropped the ball.",
         "tatoeba_id": 195214
       }
-    ],
-    "other_forms": [
-      "落とす"
     ]
   },
   {
@@ -2737,6 +2688,9 @@
       "n"
     ],
     "jmdict_id": 1217070,
+    "other_forms": [
+      "玩具"
+    ],
     "examples": [
       {
         "ja": "あのおもちゃは木で作られている。",
@@ -2748,9 +2702,6 @@
         "en": "Gather your toys together.",
         "tatoeba_id": 227491
       }
-    ],
-    "other_forms": [
-      "玩具"
     ]
   },
   {
@@ -2792,6 +2743,9 @@
       "n"
     ],
     "jmdict_id": 1365040,
+    "other_forms": [
+      "おや"
+    ],
     "examples": [
       {
         "ja": "私たちは親をあてにしてはいけない。",
@@ -2803,9 +2757,6 @@
         "en": "You mustn't tell that to your parents.",
         "tatoeba_id": 213114
       }
-    ],
-    "other_forms": [
-      "おや"
     ]
   },
   {
@@ -2965,9 +2916,6 @@
         "en": "March 15 will be my last day of school.",
         "tatoeba_id": 235337
       }
-    ],
-    "other_forms": [
-      "終"
     ]
   },
   {
@@ -3301,19 +3249,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1040060,
-    "examples": [
-      {
-        "ja": "もうガスは消した？",
-        "en": "Have you turned off the gas yet?",
-        "tatoeba_id": 194488
-      },
-      {
-        "ja": "ガスの火を大きくしてください。",
-        "en": "Please turn up the gas.",
-        "tatoeba_id": 226407
-      }
-    ]
+    "jmdict_id": 1040060
   },
   {
     "id": "b3c360789e",
@@ -3380,10 +3316,6 @@
       "adj-i"
     ],
     "jmdict_id": 1257110,
-    "other_forms": [
-      "硬い",
-      "固い"
-    ],
     "examples": [
       {
         "ja": "ダイヤモンドは本来堅いものだ。",
@@ -3516,6 +3448,9 @@
       "n"
     ],
     "jmdict_id": 1590480,
+    "other_forms": [
+      "格好"
+    ],
     "examples": [
       {
         "ja": "とても見られたかっこうじゃないよ。",
@@ -3527,9 +3462,6 @@
         "en": "The young man is a handsome figure.",
         "tatoeba_id": 230839
       }
-    ],
-    "other_forms": [
-      "格好"
     ]
   },
   {
@@ -3612,35 +3544,6 @@
     ]
   },
   {
-    "id": "ebe3a41086",
-    "word": "お金持ち",
-    "reading": "かねもち",
-    "romaji": "kanemochi",
-    "meanings": [
-      "rich man"
-    ],
-    "level": "N4",
-    "pos": [
-      "n"
-    ],
-    "jmdict_id": 2429350,
-    "other_readings": [
-      "おかねもち"
-    ],
-    "examples": [
-      {
-        "ja": "どうしたらお金持ちになれるのかしら？",
-        "en": "How can I become rich?",
-        "tatoeba_id": 201588
-      },
-      {
-        "ja": "叔母は非常なお金持ちだからといって、それだけ幸せというわけではない。",
-        "en": "My aunt is none the happier for her great wealth.",
-        "tatoeba_id": 227567
-      }
-    ]
-  },
-  {
     "id": "be3dacfc93",
     "word": "彼女",
     "reading": "かのじょ",
@@ -3707,6 +3610,9 @@
       "vi"
     ],
     "jmdict_id": 1279680,
+    "other_forms": [
+      "構う"
+    ],
     "examples": [
       {
         "ja": "どうか私にかまわないでください。",
@@ -3718,9 +3624,6 @@
         "en": "I don't mind getting up at six.",
         "tatoeba_id": 235055
       }
-    ],
-    "other_forms": [
-      "構う"
     ]
   },
   {
@@ -3819,14 +3722,14 @@
     "jmdict_id": 1040380,
     "examples": [
       {
-        "ja": "テーブルの上にガラスのコップがある。",
-        "en": "There is a glass on the table.",
-        "tatoeba_id": 202406
-      },
-      {
         "ja": "ビールびんはガラスでできている。",
         "en": "Beer bottles are made of glass.",
         "tatoeba_id": 197661
+      },
+      {
+        "ja": "フロントガラスがカチカチだった。",
+        "en": "There was ice on my windscreen.",
+        "tatoeba_id": 11588434
       }
     ]
   },
@@ -3870,6 +3773,9 @@
       "pn"
     ],
     "jmdict_id": 1483090,
+    "other_forms": [
+      "彼等"
+    ],
     "examples": [
       {
         "ja": "彼らは明日パーティーを開きます。",
@@ -3881,9 +3787,6 @@
         "en": "Five years have passed since they came to Japan.",
         "tatoeba_id": 96425
       }
-    ],
-    "other_forms": [
-      "彼等"
     ]
   },
   {
@@ -4305,18 +4208,15 @@
     "jmdict_id": 1003430,
     "examples": [
       {
-        "ja": "でもよー、オラのおとうさんは良い気しねーよ、きっと。",
-        "en": "But I don't think Dad would like me to.",
-        "tatoeba_id": 202091
-      },
-      {
         "ja": "きっと今日テストがあるでしょう。",
         "en": "I bet we'll have a test today.",
         "tatoeba_id": 226018
+      },
+      {
+        "ja": "きっと別のやり方もあるはずだよ。",
+        "en": "There has to be another way to do this.",
+        "tatoeba_id": 2746980
       }
-    ],
-    "other_forms": [
-      "屹度"
     ]
   },
   {
@@ -4398,8 +4298,8 @@
     ]
   },
   {
-    "id": "2fe3ce8b73",
-    "word": "決る",
+    "id": "e4e7e09df0",
+    "word": "決まる",
     "reading": "きまる",
     "romaji": "kimaru",
     "meanings": [
@@ -4422,9 +4322,6 @@
         "en": "Have you decided on a name for your new baby?",
         "tatoeba_id": 142259
       }
-    ],
-    "other_forms": [
-      "決まる"
     ]
   },
   {
@@ -4870,6 +4767,9 @@
       "vt"
     ],
     "jmdict_id": 1184280,
+    "other_forms": [
+      "下さる"
+    ],
     "examples": [
       {
         "ja": "もう一度言ってくださいますか。",
@@ -4881,9 +4781,37 @@
         "en": "Thank you for coming.",
         "tatoeba_id": 78725
       }
+    ]
+  },
+  {
+    "id": "608037bdca",
+    "word": "下る",
+    "reading": "くだる",
+    "romaji": "kudaru",
+    "meanings": [
+      "to get down",
+      "to descend"
     ],
-    "other_forms": [
-      "下さる"
+    "level": "N4",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1184450,
+    "other_readings": [
+      "さがる"
+    ],
+    "examples": [
+      {
+        "ja": "山を下ったところに学校がある。",
+        "en": "There is a school down the mountain.",
+        "tatoeba_id": 169405
+      },
+      {
+        "ja": "私たちは小さなボートで川を下った。",
+        "en": "We went down the river in a small boat.",
+        "tatoeba_id": 165625
+      }
     ]
   },
   {
@@ -4981,18 +4909,15 @@
     "jmdict_id": 1269130,
     "examples": [
       {
-        "ja": "友達がはがきをくれるように私に頼んだ。",
-        "en": "A friend of mine asked me to send her a postcard.",
-        "tatoeba_id": 79331
+        "ja": "何をやってみせてくれるのかしら？",
+        "en": "I wonder what they have in store for us under the big top?",
+        "tatoeba_id": 187580
       },
       {
-        "ja": "時間通りに行かなければならないから、明日は待たさないでくれよ。",
-        "en": "We have to be there on time, so don't stand me up tomorrow!",
-        "tatoeba_id": 150527
+        "ja": "あなたのアルバムを見せてくれる？",
+        "en": "Will you show me your album?",
+        "tatoeba_id": 233642
       }
-    ],
-    "other_forms": [
-      "呉れる"
     ]
   },
   {
@@ -5185,10 +5110,10 @@
     ]
   },
   {
-    "id": "3d6fc0de1f",
+    "id": "8fb005254a",
     "word": "けがする",
-    "reading": "けが",
-    "romaji": "kega",
+    "reading": "けがする",
+    "romaji": "kegasuru",
     "meanings": [
       "to injure"
     ],
@@ -5202,18 +5127,10 @@
     "jmdict_id": 1200220,
     "examples": [
       {
-        "ja": "ラグビーをしているとき、彼はけがをした。",
-        "en": "Playing rugby, he got injured.",
-        "tatoeba_id": 192640
-      },
-      {
-        "ja": "「あいたたたー」「ケガないか？」",
-        "en": "\"Ow-ow-ouch.\" \"Are you alright?\"",
-        "tatoeba_id": 75029
+        "ja": "特定の食べ物を食べた後に、胸やけがするのですか？",
+        "en": "Do you get heartburn after eating certain foods?",
+        "tatoeba_id": 9858909
       }
-    ],
-    "other_forms": [
-      "怪我"
     ]
   },
   {
@@ -5383,10 +5300,10 @@
     ]
   },
   {
-    "id": "d52f5f19ea",
+    "id": "063c94089d",
     "word": "けんかする",
-    "reading": "けんか",
-    "romaji": "kenka",
+    "reading": "けんかする",
+    "romaji": "kenkasuru",
     "meanings": [
       "to quarrel"
     ],
@@ -5408,9 +5325,6 @@
         "en": "Two men were fighting on the street.",
         "tatoeba_id": 123092
       }
-    ],
-    "other_forms": [
-      "喧嘩"
     ]
   },
   {
@@ -5535,19 +5449,7 @@
     "pos": [
       "adv"
     ],
-    "jmdict_id": 1004310,
-    "examples": [
-      {
-        "ja": "こうするほかに手はなかったんだ。",
-        "en": "What else could I have done?",
-        "tatoeba_id": 224996
-      },
-      {
-        "ja": "事の起こりはこうなんです。",
-        "en": "This is how it happened.",
-        "tatoeba_id": 150910
-      }
-    ]
+    "jmdict_id": 1004310
   },
   {
     "id": "aa95e437a0",
@@ -5982,6 +5884,9 @@
       "n"
     ],
     "jmdict_id": 1449530,
+    "other_forms": [
+      "答え"
+    ],
     "examples": [
       {
         "ja": "答えはインクで書かなくてはならない。",
@@ -5993,9 +5898,6 @@
         "en": "Where does the answer lie?",
         "tatoeba_id": 123939
       }
-    ],
-    "other_forms": [
-      "答え"
     ]
   },
   {
@@ -6011,6 +5913,10 @@
       "n"
     ],
     "jmdict_id": 1593590,
+    "other_forms": [
+      "御馳走",
+      "ご馳走"
+    ],
     "examples": [
       {
         "ja": "なんとすばらしいごちそうでしょう。",
@@ -6022,10 +5928,6 @@
         "en": "We thoroughly enjoyed the delicious meal.",
         "tatoeba_id": 224202
       }
-    ],
-    "other_forms": [
-      "御馳走",
-      "ご馳走"
     ]
   },
   {
@@ -6042,6 +5944,9 @@
       "n"
     ],
     "jmdict_id": 1313580,
+    "other_forms": [
+      "事"
+    ],
     "examples": [
       {
         "ja": "問題はお金がないということです。",
@@ -6053,9 +5958,6 @@
         "en": "The same applies to my class.",
         "tatoeba_id": 123699
       }
-    ],
-    "other_forms": [
-      "事"
     ]
   },
   {
@@ -6099,6 +6001,9 @@
       "adv"
     ],
     "jmdict_id": 1004690,
+    "other_forms": [
+      "この間"
+    ],
     "examples": [
       {
         "ja": "この間きみはそう言ったよね。",
@@ -6110,9 +6015,6 @@
         "en": "In the last typhoon, the wind blew at over 200 kilometers per hour!",
         "tatoeba_id": 222567
       }
-    ],
-    "other_forms": [
-      "この間"
     ]
   },
   {
@@ -6130,20 +6032,20 @@
       "n"
     ],
     "jmdict_id": 1004710,
+    "other_forms": [
+      "この頃"
+    ],
     "examples": [
-      {
-        "ja": "このごろ少しも見ないです。",
-        "en": "I have seen nothing of him lately.",
-        "tatoeba_id": 223741
-      },
       {
         "ja": "このごろは読書する時間が少しはある。",
         "en": "I have a little time for reading these days.",
         "tatoeba_id": 223744
+      },
+      {
+        "ja": "このごろ少しも見ないです。",
+        "en": "I have seen nothing of him lately.",
+        "tatoeba_id": 223741
       }
-    ],
-    "other_forms": [
-      "この頃"
     ]
   },
   {
@@ -6174,9 +6076,9 @@
     ]
   },
   {
-    "id": "75b68bdc17",
+    "id": "bdab237e0d",
     "word": "ごみ",
-    "reading": "ゴミ",
+    "reading": "ごみ",
     "romaji": "gomi",
     "meanings": [
       "rubbish"
@@ -6186,6 +6088,9 @@
       "n"
     ],
     "jmdict_id": 1369900,
+    "other_forms": [
+      "ゴミ"
+    ],
     "examples": [
       {
         "ja": "毎週月曜日にゴミを集めにきます。",
@@ -6197,11 +6102,6 @@
         "en": "The garbage is giving off a terrible smell.",
         "tatoeba_id": 213105
       }
-    ],
-    "other_forms": [
-      "塵",
-      "ゴミ",
-      "塵芥"
     ]
   },
   {
@@ -6299,9 +6199,9 @@
     "jmdict_id": 1004790,
     "examples": [
       {
-        "ja": "これからは決してうそをつきません。",
-        "en": "I will never tell a lie from now on.",
-        "tatoeba_id": 218970
+        "ja": "これから言うことに答えなさい。",
+        "en": "Answer me this.",
+        "tatoeba_id": 218958
       },
       {
         "ja": "これからも人生を楽しんでください。",
@@ -6640,37 +6540,6 @@
     ]
   },
   {
-    "id": "676daad71a",
-    "word": "下る",
-    "reading": "さがる",
-    "romaji": "sagaru",
-    "meanings": [
-      "to get down",
-      "to descend"
-    ],
-    "level": "N4",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1184160,
-    "examples": [
-      {
-        "ja": "ロープから下がっていなさい。",
-        "en": "Stand back from the rope.",
-        "tatoeba_id": 192281
-      },
-      {
-        "ja": "ランプは天井から下がっていた。",
-        "en": "The lamp hung from the ceiling.",
-        "tatoeba_id": 192547
-      }
-    ],
-    "other_forms": [
-      "下がる"
-    ]
-  },
-  {
     "id": "c70caf0317",
     "word": "盛ん",
     "reading": "さかん",
@@ -6769,14 +6638,14 @@
     "jmdict_id": 1005180,
     "examples": [
       {
-        "ja": "いいからさっき盗ったモノを、カバンの中から出しなさい。",
-        "en": "Never mind that, just take out what you've just nicked from your bag.",
-        "tatoeba_id": 74015
-      },
-      {
         "ja": "さっきなぜかマイクが入らなかった。",
         "en": "For some reason the microphone didn't work earlier.",
         "tatoeba_id": 75173
+      },
+      {
+        "ja": "さっき電話が鳴ってたよね？",
+        "en": "The telephone was just ringing, wasn't it?",
+        "tatoeba_id": 216791
       }
     ]
   },
@@ -6807,8 +6676,8 @@
     ]
   },
   {
-    "id": "a06ffb0362",
-    "word": "さ来月",
+    "id": "22a8ff8a88",
+    "word": "再来月",
     "reading": "さらいげつ",
     "romaji": "saraigetsu",
     "meanings": [
@@ -6826,14 +6695,11 @@
         "en": "The month after next is December.",
         "tatoeba_id": 170805
       }
-    ],
-    "other_forms": [
-      "再来月"
     ]
   },
   {
-    "id": "166bec4f83",
-    "word": "さ来週",
+    "id": "a6678a1d99",
+    "word": "再来週",
     "reading": "さらいしゅう",
     "romaji": "saraishuu",
     "meanings": [
@@ -6851,9 +6717,6 @@
         "en": "How about two weeks from Thursday?",
         "tatoeba_id": 170804
       }
-    ],
-    "other_forms": [
-      "再来週"
     ]
   },
   {
@@ -7350,18 +7213,15 @@
     "jmdict_id": 1594400,
     "examples": [
       {
-        "ja": "君にはもっとしっかり仕事をしてもらいたい。",
-        "en": "I want you to work harder.",
-        "tatoeba_id": 178641
-      },
-      {
         "ja": "ラケットをしっかりにぎりなさい。",
         "en": "Hold the racket tight.",
         "tatoeba_id": 192637
+      },
+      {
+        "ja": "この木にしっかりつかまりなさい。",
+        "en": "Hold fast to this tree.",
+        "tatoeba_id": 219456
       }
-    ],
-    "other_forms": [
-      "確り"
     ]
   },
   {
@@ -7454,6 +7314,9 @@
       "adv"
     ],
     "jmdict_id": 1304420,
+    "other_forms": [
+      "暫く"
+    ],
     "examples": [
       {
         "ja": "ここしばらく彼にまるで会わない。",
@@ -7465,9 +7328,6 @@
         "en": "Please don't interrupt me for a while.",
         "tatoeba_id": 201673
       }
-    ],
-    "other_forms": [
-      "暫く"
     ]
   },
   {
@@ -7618,6 +7478,9 @@
       "vt"
     ],
     "jmdict_id": 1323500,
+    "other_forms": [
+      "邪魔"
+    ],
     "examples": [
       {
         "ja": "その車がじゃまです。動かしてください。",
@@ -7629,9 +7492,6 @@
         "en": "Please put the chair away. It is in the way.",
         "tatoeba_id": 229097
       }
-    ],
-    "other_forms": [
-      "邪魔"
     ]
   },
   {
@@ -8404,6 +8264,9 @@
       "adv-to"
     ],
     "jmdict_id": 1372800,
+    "other_forms": [
+      "随分"
+    ],
     "examples": [
       {
         "ja": "私たちはもうずいぶん長くここにいます。",
@@ -8415,9 +8278,6 @@
         "en": "It's a very slow business.",
         "tatoeba_id": 205500
       }
-    ],
-    "other_forms": [
-      "随分"
     ]
   },
   {
@@ -8540,6 +8400,9 @@
       "vi"
     ],
     "jmdict_id": 1586265,
+    "other_forms": [
+      "空く"
+    ],
     "examples": [
       {
         "ja": "どの車両がすいていますか。",
@@ -8551,9 +8414,6 @@
         "en": "We aren't very hungry yet.",
         "tatoeba_id": 151707
       }
-    ],
-    "other_forms": [
-      "空く"
     ]
   },
   {
@@ -8590,6 +8450,9 @@
       "adj-i"
     ],
     "jmdict_id": 1374550,
+    "other_forms": [
+      "すごい"
+    ],
     "examples": [
       {
         "ja": "凄い明かりが野球場にあたっていた。",
@@ -8601,9 +8464,6 @@
         "en": "Madonna's concert drew a large audience.",
         "tatoeba_id": 195335
       }
-    ],
-    "other_forms": [
-      "すごい"
     ]
   },
   {
@@ -8808,18 +8668,15 @@
     "jmdict_id": 1397300,
     "examples": [
       {
-        "ja": "その日は実にすばらしい日だった。",
-        "en": "It was a really beautiful day.",
-        "tatoeba_id": 207334
-      },
-      {
         "ja": "なんてすばらしい家族なんだろう。",
         "en": "What a wonderful family.",
         "tatoeba_id": 198928
+      },
+      {
+        "ja": "すばらしいアイデアがうかんだよ。",
+        "en": "I've got a splendid idea.",
+        "tatoeba_id": 214570
       }
-    ],
-    "other_forms": [
-      "素晴らしい"
     ]
   },
   {
@@ -8917,22 +8774,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1567450,
-    "examples": [
-      {
-        "ja": "すりは人ごみの中に消えた。",
-        "en": "The pickpocket disappeared into the crowd.",
-        "tatoeba_id": 214107
-      },
-      {
-        "ja": "私の兄は電車の中でスリにあった。",
-        "en": "My brother had his pocket picked in the train.",
-        "tatoeba_id": 163785
-      }
-    ],
-    "other_forms": [
-      "掏摸"
-    ]
+    "jmdict_id": 1567450
   },
   {
     "id": "416c1b3679",
@@ -9188,6 +9030,9 @@
       "adv"
     ],
     "jmdict_id": 1374530,
+    "other_forms": [
+      "是非"
+    ],
     "examples": [
       {
         "ja": "ぜひパーティーにおいでください。",
@@ -9199,9 +9044,6 @@
         "en": "I demand to know what's going on here.",
         "tatoeba_id": 188019
       }
-    ],
-    "other_forms": [
-      "是非"
     ]
   },
   {
@@ -9272,6 +9114,9 @@
       "adv"
     ],
     "jmdict_id": 1395620,
+    "other_forms": [
+      "全然"
+    ],
     "examples": [
       {
         "ja": "私はビールはぜんぜん飲みません。",
@@ -9283,9 +9128,6 @@
         "en": "The plan was altogether spoiled by the rain.",
         "tatoeba_id": 176432
       }
-    ],
-    "other_forms": [
-      "全然"
     ]
   },
   {
@@ -9548,18 +9390,15 @@
     "jmdict_id": 1007000,
     "examples": [
       {
-        "ja": "それで、その金はどこから出るんだよ？",
-        "en": "And where is the money coming from?",
-        "tatoeba_id": 205786
+        "ja": "それでは音楽をお楽しみください。",
+        "en": "Now let me entertain you with music.",
+        "tatoeba_id": 205764
       },
       {
-        "ja": "試験に通ったよ。それで、特待生になるんだ。",
-        "en": "I passed the examination, and I'm going to be an honor student.",
-        "tatoeba_id": 151105
+        "ja": "それで何をしようとしているの？",
+        "en": "And what are we going to do?",
+        "tatoeba_id": 5113
       }
-    ],
-    "other_forms": [
-      "其れで"
     ]
   },
   {
@@ -9577,18 +9416,15 @@
     "jmdict_id": 1007040,
     "examples": [
       {
-        "ja": "それに、みんなに仲間もできるしね。",
-        "en": "And, we get each other's company to boot.",
-        "tatoeba_id": 205709
+        "ja": "私はそれについてはよく知らない。",
+        "en": "I am not certain about that.",
+        "tatoeba_id": 159761
       },
       {
-        "ja": "それにもっと水をたしなさい。",
-        "en": "Add more water to it.",
-        "tatoeba_id": 205647
+        "ja": "もう一度それにトライしてみたら。",
+        "en": "Why don't you give it another try?",
+        "tatoeba_id": 194328
       }
-    ],
-    "other_forms": [
-      "其れに"
     ]
   },
   {
@@ -9604,6 +9440,9 @@
       "adv"
     ],
     "jmdict_id": 1007060,
+    "other_forms": [
+      "其れ程"
+    ],
     "examples": [
       {
         "ja": "いや、それほど混んでなかったよ。",
@@ -9615,9 +9454,6 @@
         "en": "My family is not very large.",
         "tatoeba_id": 163934
       }
-    ],
-    "other_forms": [
-      "其れ程"
     ]
   },
   {
@@ -9824,6 +9660,9 @@
       "n"
     ],
     "jmdict_id": 1414580,
+    "other_forms": [
+      "大抵"
+    ],
     "examples": [
       {
         "ja": "夜はたいていの人が寝る時である。",
@@ -9835,9 +9674,6 @@
         "en": "At night, we usually go bowling.",
         "tatoeba_id": 79710
       }
-    ],
-    "other_forms": [
-      "大抵"
     ]
   },
   {
@@ -9970,6 +9806,36 @@
         "ja": "だから家の中にいたほうがいいよ。",
         "en": "So we'd better stay home.",
         "tatoeba_id": 203824
+      }
+    ]
+  },
+  {
+    "id": "8c98c01eff",
+    "word": "集る",
+    "reading": "たかる",
+    "romaji": "takaru",
+    "meanings": [
+      "to gather"
+    ],
+    "level": "N4",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1333570,
+    "other_readings": [
+      "あつまる"
+    ],
+    "examples": [
+      {
+        "ja": "その男はいつも私に金をたかる。",
+        "en": "The man always cadges money from me.",
+        "tatoeba_id": 208110
+      },
+      {
+        "ja": "ケーキにはアリがいっぱいたかっていた。",
+        "en": "The cake was alive with ants.",
+        "tatoeba_id": 225322
       }
     ]
   },
@@ -10266,8 +10132,8 @@
     ]
   },
   {
-    "id": "df6476fabd",
-    "word": "楽む",
+    "id": "9f86b83cad",
+    "word": "楽しむ",
     "reading": "たのしむ",
     "romaji": "tanoshimu",
     "meanings": [
@@ -10290,9 +10156,6 @@
         "en": "All the boys enjoyed skiing.",
         "tatoeba_id": 146622
       }
-    ],
-    "other_forms": [
-      "楽しむ"
     ]
   },
   {
@@ -10308,6 +10171,9 @@
       "adv"
     ],
     "jmdict_id": 1634500,
+    "other_forms": [
+      "偶に"
+    ],
     "examples": [
       {
         "ja": "たまには会いに来て下さい。",
@@ -10319,9 +10185,6 @@
         "en": "I have a friend to correspond with now and then.",
         "tatoeba_id": 164670
       }
-    ],
-    "other_forms": [
-      "偶に"
     ]
   },
   {
@@ -10365,6 +10228,9 @@
       "n"
     ],
     "jmdict_id": 1409110,
+    "other_forms": [
+      "駄目"
+    ],
     "examples": [
       {
         "ja": "もうだめだ。",
@@ -10376,9 +10242,6 @@
         "en": "My coat has finally worn out.",
         "tatoeba_id": 164203
       }
-    ],
-    "other_forms": [
-      "駄目"
     ]
   },
   {
@@ -10490,10 +10353,10 @@
     ]
   },
   {
-    "id": "37403d4948",
+    "id": "83a456da88",
     "word": "チェックする",
-    "reading": "チェック",
-    "romaji": "chekku",
+    "reading": "チェックする",
+    "romaji": "chekkusuru",
     "meanings": [
       "to check"
     ],
@@ -10505,14 +10368,14 @@
     "jmdict_id": 1077550,
     "examples": [
       {
-        "ja": "エンジンをチェックしましたか。",
-        "en": "Have you checked the engine?",
-        "tatoeba_id": 227860
-      },
-      {
         "ja": "私は仕事を一つ終えるごとにリストの上でチェックする。",
         "en": "I check off each task on my list as soon as I complete it.",
         "tatoeba_id": 156620
+      },
+      {
+        "ja": "ヤニーは、Facebookをチェックすることにした。",
+        "en": "Yanni decided to check Facebook.",
+        "tatoeba_id": 9238000
       }
     ]
   },
@@ -10558,18 +10421,15 @@
     "jmdict_id": 1007560,
     "examples": [
       {
-        "ja": "ちっとも気にしていない。",
-        "en": "I am not the least bit worried.",
-        "tatoeba_id": 202987
+        "ja": "今はちっともうれしくない。",
+        "en": "I'm not in the least bit happy now.",
+        "tatoeba_id": 172674
       },
       {
-        "ja": "最近エリザベスにちっともあってない。",
-        "en": "I have not seen anything of Elizabeth lately.",
-        "tatoeba_id": 170722
+        "ja": "しゃっくりがちっとも止まらないんだよ。",
+        "en": "My hiccups won't stop at all.",
+        "tatoeba_id": 1057273
       }
-    ],
-    "other_forms": [
-      "些とも"
     ]
   },
   {
@@ -10773,6 +10633,9 @@
       "n"
     ],
     "jmdict_id": 1255430,
+    "other_forms": [
+      "月"
+    ],
     "examples": [
       {
         "ja": "月に１度は家に手紙を書くべきだ。",
@@ -10784,9 +10647,6 @@
         "en": "It won't be long before we can travel to the moon.",
         "tatoeba_id": 195286
       }
-    ],
-    "other_forms": [
-      "月"
     ]
   },
   {
@@ -11006,6 +10866,9 @@
       "n"
     ],
     "jmdict_id": 1382980,
+    "other_forms": [
+      "積もり"
+    ],
     "examples": [
       {
         "ja": "私は来年留学するつもりです。",
@@ -11017,9 +10880,6 @@
         "en": "I plan to stay at home all day tomorrow.",
         "tatoeba_id": 80461
       }
-    ],
-    "other_forms": [
-      "積もり"
     ]
   },
   {
@@ -11172,6 +11032,9 @@
       "adj-no"
     ],
     "jmdict_id": 1340460,
+    "other_forms": [
+      "出来るだけ"
+    ],
     "examples": [
       {
         "ja": "できるだけ多くの本を読みなさい。",
@@ -11183,9 +11046,6 @@
         "en": "Please speak as slowly as possible.",
         "tatoeba_id": 147685
       }
-    ],
-    "other_forms": [
-      "出来るだけ"
     ]
   },
   {
@@ -11465,14 +11325,14 @@
     "jmdict_id": 1621470,
     "examples": [
       {
-        "ja": "私は京都に着くとすぐ病気になった。",
-        "en": "I had no sooner arrived in Kyoto than I fell ill.",
-        "tatoeba_id": 157629
+        "ja": "「都庁舎でもらえますよ」と係員が付け加えた。",
+        "en": "\"You can get it at the Metropolitan Government Office,\" the clerk added.",
+        "tatoeba_id": 236216
       },
       {
-        "ja": "いつか京都へ行きたいと思っている。",
-        "en": "Some day next month I plan to go to Kyoto.",
-        "tatoeba_id": 228993
+        "ja": "都庁舎に行き、そこでまた列の中で待った。",
+        "en": "The woman left and went to the courthouse, where she waited in line again.",
+        "tatoeba_id": 124528
       }
     ]
   },
@@ -11519,9 +11379,9 @@
     "jmdict_id": 1449890,
     "examples": [
       {
-        "ja": "とうとう、良い考えが浮かんだ。",
-        "en": "At last a good idea struck me.",
-        "tatoeba_id": 201240
+        "ja": "とうとう夏がやって来たみたいだ。",
+        "en": "It seems like summer is finally here.",
+        "tatoeba_id": 1107237
       },
       {
         "ja": "トムはとうとうタバコをやめた。",
@@ -11680,6 +11540,9 @@
       "n"
     ],
     "jmdict_id": 1349410,
+    "other_forms": [
+      "床屋"
+    ],
     "examples": [
       {
         "ja": "おや、床屋へ行ってきたのだね。",
@@ -11691,9 +11554,6 @@
         "en": "I intend to go to the barbershop.",
         "tatoeba_id": 155835
       }
-    ],
-    "other_forms": [
-      "床屋"
     ]
   },
   {
@@ -12008,6 +11868,9 @@
       "adj-na"
     ],
     "jmdict_id": 1599420,
+    "other_forms": [
+      "なかなか"
+    ],
     "examples": [
       {
         "ja": "試験中はなかなか大変だった。",
@@ -12019,9 +11882,6 @@
         "en": "Ann was long coming.",
         "tatoeba_id": 229495
       }
-    ],
-    "other_forms": [
-      "なかなか"
     ]
   },
   {
@@ -12149,18 +12009,15 @@
     "jmdict_id": 1157090,
     "examples": [
       {
-        "ja": "ステーキの焼き方はどうなさいますか。",
-        "en": "How would you like your steak?",
-        "tatoeba_id": 214623
+        "ja": "そうなさるのもごもっともです。",
+        "en": "You have every right to do that.",
+        "tatoeba_id": 3563138
       },
       {
-        "ja": "どうぞごゆっくりなさって下さい。",
-        "en": "Please make yourself at home.",
-        "tatoeba_id": 201333
+        "ja": "このお金をどうしようとなさるのですか。",
+        "en": "What are you going to do with this money?",
+        "tatoeba_id": 223947
       }
-    ],
-    "other_forms": [
-      "為さる"
     ]
   },
   {
@@ -12203,6 +12060,9 @@
       "adv"
     ],
     "jmdict_id": 1375620,
+    "other_forms": [
+      "成るべく"
+    ],
     "examples": [
       {
         "ja": "なるべく安いほうがいいです。",
@@ -12214,9 +12074,6 @@
         "en": "Could you speak as slowly as possible?",
         "tatoeba_id": 199062
       }
-    ],
-    "other_forms": [
-      "成るべく"
     ]
   },
   {
@@ -12235,14 +12092,9 @@
     "jmdict_id": 1375820,
     "examples": [
       {
-        "ja": "なるほど、これがニューヨークか。",
-        "en": "So this is New York.",
-        "tatoeba_id": 199052
-      },
-      {
-        "ja": "なるほどこの車は小さいが力強い。",
-        "en": "Indeed this car is small, but it is powerful.",
-        "tatoeba_id": 199053
+        "ja": "ああ、なるほど！",
+        "en": "Ah, gotcha!",
+        "tatoeba_id": 9611877
       }
     ]
   },
@@ -12286,6 +12138,9 @@
       "n"
     ],
     "jmdict_id": 1599760,
+    "other_forms": [
+      "匂い"
+    ],
     "examples": [
       {
         "ja": "あの花はにおいが強いな。",
@@ -12297,9 +12152,6 @@
         "en": "The smell penetrated through the whole school.",
         "tatoeba_id": 212852
       }
-    ],
-    "other_forms": [
-      "匂い"
     ]
   },
   {
@@ -12581,6 +12433,9 @@
       "vi"
     ],
     "jmdict_id": 1467620,
+    "other_forms": [
+      "濡れる"
+    ],
     "examples": [
       {
         "ja": "木のおかげで雨にぬれずにすんだ。",
@@ -12592,9 +12447,6 @@
         "en": "I was caught in a shower and got drenched to the skin.",
         "tatoeba_id": 79035
       }
-    ],
-    "other_forms": [
-      "濡れる"
     ]
   },
   {
@@ -12610,6 +12462,9 @@
       "n"
     ],
     "jmdict_id": 1600160,
+    "other_forms": [
+      "値段"
+    ],
     "examples": [
       {
         "ja": "このラジオの値段はいくらですか。",
@@ -12621,9 +12476,6 @@
         "en": "The price was absurdly high.",
         "tatoeba_id": 127118
       }
-    ],
-    "other_forms": [
-      "値段"
     ]
   },
   {
@@ -12666,6 +12518,9 @@
       "n"
     ],
     "jmdict_id": 1467910,
+    "other_forms": [
+      "熱心"
+    ],
     "examples": [
       {
         "ja": "熱心にそのニュースを聞いていた。",
@@ -12677,9 +12532,6 @@
         "en": "I am an eager student of magic.",
         "tatoeba_id": 196312
       }
-    ],
-    "other_forms": [
-      "熱心"
     ]
   },
   {
@@ -12805,6 +12657,9 @@
       "n"
     ],
     "jmdict_id": 1600280,
+    "other_forms": [
+      "喉"
+    ],
     "examples": [
       {
         "ja": "今日起きたら喉がいがらっぽかったです。",
@@ -12816,9 +12671,36 @@
         "en": "I'm wheezing.",
         "tatoeba_id": 198569
       }
+    ]
+  },
+  {
+    "id": "4a3152836b",
+    "word": "上る",
+    "reading": "のぼる",
+    "romaji": "noboru",
+    "meanings": [
+      "to rise"
     ],
-    "other_forms": [
-      "喉"
+    "level": "N4",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1352570,
+    "other_readings": [
+      "あがる"
+    ],
+    "examples": [
+      {
+        "ja": "あなたは、上れませんよ。",
+        "en": "You cannot climb!",
+        "tatoeba_id": 232915
+      },
+      {
+        "ja": "損失は１００万ドル以上にのぼる。",
+        "en": "The loss adds up to more than one million dollars.",
+        "tatoeba_id": 139276
+      }
     ]
   },
   {
@@ -12894,9 +12776,9 @@
         "tatoeba_id": 224180
       },
       {
-        "ja": "ヘレンの言葉で私は急に力づいた。",
-        "en": "Helen's words suddenly filled me with new energy.",
-        "tatoeba_id": 76446
+        "ja": "多くの木は冬になると葉がなくなる。",
+        "en": "Many trees are bare in winter.",
+        "tatoeba_id": 138295
       }
     ]
   },
@@ -13127,6 +13009,9 @@
       "aux"
     ],
     "jmdict_id": 1476430,
+    "other_forms": [
+      "筈"
+    ],
     "examples": [
       {
         "ja": "明日の今ごろはパリにいるはずだ。",
@@ -13138,9 +13023,6 @@
         "en": "Tom should be here any minute.",
         "tatoeba_id": 199940
       }
-    ],
-    "other_forms": [
-      "筈"
     ]
   },
   {
@@ -13625,9 +13507,6 @@
         "en": "Jane went to the bank to take out some money.",
         "tatoeba_id": 216508
       }
-    ],
-    "other_forms": [
-      "引出す"
     ]
   },
   {
@@ -13643,6 +13522,9 @@
       "n"
     ],
     "jmdict_id": 1601810,
+    "other_forms": [
+      "髭"
+    ],
     "examples": [
       {
         "ja": "お父さんがバスルームでひげを剃っている。",
@@ -13654,9 +13536,6 @@
         "en": "The manager of this store is growing a beard.",
         "tatoeba_id": 220430
       }
-    ],
-    "other_forms": [
-      "髭"
     ]
   },
   {
@@ -13700,6 +13579,9 @@
       "n"
     ],
     "jmdict_id": 1227370,
+    "other_forms": [
+      "久し振り"
+    ],
     "examples": [
       {
         "ja": "彼女から久しぶりに電話があった。",
@@ -13711,9 +13593,6 @@
         "en": "It's been ages since I saw you last.",
         "tatoeba_id": 137274
       }
-    ],
-    "other_forms": [
-      "久し振り"
     ]
   },
   {
@@ -13769,10 +13648,10 @@
     ]
   },
   {
-    "id": "1af4626d8f",
+    "id": "ab4a88a2c0",
     "word": "びっくりする",
-    "reading": "びっくり",
-    "romaji": "bikkuri",
+    "reading": "びっくりする",
+    "romaji": "bikkurisuru",
     "meanings": [
       "to be surprised"
     ],
@@ -13785,19 +13664,15 @@
     "jmdict_id": 1226360,
     "examples": [
       {
-        "ja": "私はそのニュースにびっくりした。",
-        "en": "I was taken aback by the news.",
-        "tatoeba_id": 160354
+        "ja": "私がそんなことしたら、あなたびっくりするでしょ？",
+        "en": "You'd be surprised if I did that, wouldn't you?",
+        "tatoeba_id": 10557868
       },
       {
-        "ja": "何が起こったか聞いてびっくりした。",
-        "en": "I was astonished to hear what had happened.",
-        "tatoeba_id": 188022
+        "ja": "トムはびっくりするくらいに絵が下手だ。",
+        "en": "Tom is incredibly bad at drawing.",
+        "tatoeba_id": 2741234
       }
-    ],
-    "other_forms": [
-      "びっくり",
-      "吃驚"
     ]
   },
   {
@@ -13866,6 +13741,9 @@
       "adj-i"
     ],
     "jmdict_id": 1602060,
+    "other_forms": [
+      "酷い"
+    ],
     "examples": [
       {
         "ja": "この薬はひどい味がする。",
@@ -13877,9 +13755,6 @@
         "en": "I'm very tired from work.",
         "tatoeba_id": 156638
       }
-    ],
-    "other_forms": [
-      "酷い"
     ]
   },
   {
@@ -14024,14 +13899,14 @@
     "jmdict_id": 1108180,
     "examples": [
       {
-        "ja": "この手紙を日本までファックスしてください。",
-        "en": "I'd like to fax this to Japan.",
-        "tatoeba_id": 221308
+        "ja": "ＦＡＸで地図を送っていただけませんか。",
+        "en": "Could you send me a map by facsimile?",
+        "tatoeba_id": 234850
       },
       {
-        "ja": "それを私にファックスしてください。",
-        "en": "Please send it to me by fax.",
-        "tatoeba_id": 204583
+        "ja": "昔ならいざ知らず、今はＦＡＸも、メールもある。",
+        "en": "I don't know about the past, but now we have faxes and emails.",
+        "tatoeba_id": 75944
       }
     ]
   },
@@ -14177,7 +14052,9 @@
     "romaji": "futsuu",
     "meanings": [
       "usually",
-      "or a train that stops at every station"
+      "normally",
+      "ordinary",
+      "local train (stopping at every station)"
     ],
     "level": "N4",
     "pos": [
@@ -14746,6 +14623,9 @@
       "adv"
     ],
     "jmdict_id": 1436510,
+    "other_forms": [
+      "程"
+    ],
     "examples": [
       {
         "ja": "スージーほど上手にピアノをひけるとよいのだが。",
@@ -14757,9 +14637,6 @@
         "en": "There is a village about three kilometers up the river from here.",
         "tatoeba_id": 224804
       }
-    ],
-    "other_forms": [
-      "程"
     ]
   },
   {
@@ -14775,6 +14652,9 @@
       "adv"
     ],
     "jmdict_id": 1522050,
+    "other_forms": [
+      "殆ど"
+    ],
     "examples": [
       {
         "ja": "ケイトは中国語をほとんど話せない。",
@@ -14786,9 +14666,6 @@
         "en": "I was hardly prepared.",
         "tatoeba_id": 78867
       }
-    ],
-    "other_forms": [
-      "殆ど"
     ]
   },
   {
@@ -14805,6 +14682,9 @@
       "vt"
     ],
     "jmdict_id": 1603550,
+    "other_forms": [
+      "褒める"
+    ],
     "examples": [
       {
         "ja": "ヘレンはみんなにほめられて顔を赤くした。",
@@ -14816,9 +14696,6 @@
         "en": "Were you praised by the teacher?",
         "tatoeba_id": 231786
       }
-    ],
-    "other_forms": [
-      "褒める"
     ]
   },
   {
@@ -14920,18 +14797,15 @@
     "jmdict_id": 1364360,
     "examples": [
       {
-        "ja": "サムは仕事に関してまじめです。",
-        "en": "Sam is serious about his work.",
-        "tatoeba_id": 216718
-      },
-      {
         "ja": "私のボーイフレンドはまじめに見えます。",
         "en": "My boyfriend seems serious.",
         "tatoeba_id": 164109
+      },
+      {
+        "ja": "トムは勉強にまじめでない。",
+        "en": "Tom is not serious about his studies.",
+        "tatoeba_id": 199811
       }
-    ],
-    "other_forms": [
-      "真面目"
     ]
   },
   {
@@ -14947,6 +14821,9 @@
       "adv"
     ],
     "jmdict_id": 1387240,
+    "other_forms": [
+      "先ず"
+    ],
     "examples": [
       {
         "ja": "バリウムをまず一口飲んでください。",
@@ -14958,16 +14835,13 @@
         "en": "Please let me speak first.",
         "tatoeba_id": 195599
       }
-    ],
-    "other_forms": [
-      "先ず"
     ]
   },
   {
     "id": "0fa3edce9b",
     "word": "または",
     "reading": "または",
-    "romaji": "mataha",
+    "romaji": "matawa",
     "meanings": [
       "or",
       "otherwise"
@@ -14977,6 +14851,9 @@
       "conj"
     ],
     "jmdict_id": 1524990,
+    "other_forms": [
+      "又は"
+    ],
     "examples": [
       {
         "ja": "紅茶またはコーヒーはいかが？",
@@ -14988,9 +14865,6 @@
         "en": "The buffet or the cafeteria is in Car 9.",
         "tatoeba_id": 197448
       }
-    ],
-    "other_forms": [
-      "又は"
     ]
   },
   {
@@ -15139,9 +15013,6 @@
       "n"
     ],
     "jmdict_id": 1604350,
-    "other_forms": [
-      "真中"
-    ],
     "examples": [
       {
         "ja": "トラックが道の真ん中に止まっていた。",
@@ -15254,9 +15125,6 @@
         "en": "You can find the same thing anywhere.",
         "tatoeba_id": 123691
       }
-    ],
-    "other_forms": [
-      "見付かる"
     ]
   },
   {
@@ -15273,6 +15141,9 @@
       "vt"
     ],
     "jmdict_id": 1604570,
+    "other_forms": [
+      "見付ける"
+    ],
     "examples": [
       {
         "ja": "ぼくはこの本を古本屋で見つけた。",
@@ -15284,9 +15155,6 @@
         "en": "I've found something amazing!",
         "tatoeba_id": 75128
       }
-    ],
-    "other_forms": [
-      "見付ける"
     ]
   },
   {
@@ -15357,6 +15225,9 @@
       "vi"
     ],
     "jmdict_id": 1604800,
+    "other_forms": [
+      "向う"
+    ],
     "examples": [
       {
         "ja": "あなたは何処へ向かっているのですか。",
@@ -15368,9 +15239,6 @@
         "en": "In the fall, many birds head for the south.",
         "tatoeba_id": 148212
       }
-    ],
-    "other_forms": [
-      "向う"
     ]
   },
   {
@@ -15659,14 +15527,14 @@
     "jmdict_id": 2015610,
     "examples": [
       {
-        "ja": "もうすぐ雨が降りそうだ。",
-        "en": "It is going to rain very soon.",
-        "tatoeba_id": 194440
-      },
-      {
         "ja": "明るくなってきた。もうすぐ朝だ。",
         "en": "It's getting light. Morning is coming.",
         "tatoeba_id": 80708
+      },
+      {
+        "ja": "この車はもうすぐスクラップだ。",
+        "en": "This car will soon have to go for scrap.",
+        "tatoeba_id": 76735
       }
     ]
   },
@@ -15682,22 +15550,7 @@
     "pos": [
       "adv"
     ],
-    "jmdict_id": 1012500,
-    "examples": [
-      {
-        "ja": "もし百万ドルあれば、どうしますか。",
-        "en": "What would you do if you had a million dollars?",
-        "tatoeba_id": 193464
-      },
-      {
-        "ja": "もし電話がなったら出てくれますか。",
-        "en": "If the telephone rings, can you answer it?",
-        "tatoeba_id": 193542
-      }
-    ],
-    "other_forms": [
-      "若し"
-    ]
+    "jmdict_id": 1012500
   },
   {
     "id": "a695a20c52",
@@ -15712,6 +15565,9 @@
       "adv"
     ],
     "jmdict_id": 1535780,
+    "other_forms": [
+      "勿論"
+    ],
     "examples": [
       {
         "ja": "「ご一緒してもいいですか」「もちろんです」",
@@ -15723,9 +15579,6 @@
         "en": "Of course, there were concerts in the town.",
         "tatoeba_id": 193363
       }
-    ],
-    "other_forms": [
-      "勿論"
     ]
   },
   {
@@ -15741,6 +15594,10 @@
       "adv"
     ],
     "jmdict_id": 1293700,
+    "other_forms": [
+      "最も",
+      "尤も"
+    ],
     "examples": [
       {
         "ja": "ケンは三人のなかでもっとも速く走ります。",
@@ -15752,10 +15609,6 @@
         "en": "It's natural that Yoko should say a thing like that.",
         "tatoeba_id": 78889
       }
-    ],
-    "other_forms": [
-      "最も",
-      "尤も"
     ]
   },
   {
@@ -15825,6 +15678,9 @@
       "vt"
     ],
     "jmdict_id": 1535910,
+    "other_forms": [
+      "貰う"
+    ],
     "examples": [
       {
         "ja": "あさって彼にここへ来てもらうつもりです。",
@@ -15836,9 +15692,6 @@
         "en": "I had a new suit made.",
         "tatoeba_id": 145487
       }
-    ],
-    "other_forms": [
-      "貰う"
     ]
   },
   {
@@ -16046,14 +15899,14 @@
     "jmdict_id": 1012800,
     "examples": [
       {
-        "ja": "やっと期末試験が終わった。",
-        "en": "At last, the end-of-term exams are over.",
-        "tatoeba_id": 193072
+        "ja": "こ、こら！ナニやっとるかぁぁ！！",
+        "en": "H-Hey! What're you up to!!",
+        "tatoeba_id": 74701
       },
       {
-        "ja": "娘はやっと１５歳です。",
-        "en": "My daughter is barely fifteen.",
-        "tatoeba_id": 80836
+        "ja": "今朝になってやっと雨がやんだ。",
+        "en": "It was not till this morning that it stopped raining.",
+        "tatoeba_id": 172307
       }
     ]
   },
@@ -16076,14 +15929,14 @@
     ],
     "examples": [
       {
-        "ja": "男の子はやはり男の子。",
-        "en": "Boys will be boys.",
-        "tatoeba_id": 127241
+        "ja": "やっぱり何とかやってのけたね。",
+        "en": "You managed it after all.",
+        "tatoeba_id": 193053
       },
       {
-        "ja": "それでもそれはやはり本当だ。",
-        "en": "It is none the less true.",
-        "tatoeba_id": 205747
+        "ja": "やっぱりしんどいものだろうな。",
+        "en": "This must be annoying!",
+        "tatoeba_id": 1619673
       }
     ]
   },
@@ -16588,6 +16441,9 @@
       "adj-i"
     ],
     "jmdict_id": 1224880,
+    "other_forms": [
+      "宜しい"
+    ],
     "examples": [
       {
         "ja": "あなたに頼んでもよろしいですか。",
@@ -16599,9 +16455,6 @@
         "en": "May I speak to you a minute?",
         "tatoeba_id": 146869
       }
-    ],
-    "other_forms": [
-      "宜しい"
     ]
   },
   {
