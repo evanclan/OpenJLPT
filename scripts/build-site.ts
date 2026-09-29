@@ -94,6 +94,54 @@ const plural = (n: number, w: string) => `${n.toLocaleString('en-US')} ${w}${n =
  * Furigana: align the kana reading to the kanji runs of the word
  * (食べる + たべる → 食[た]べる). Falls back to the plain word when ambiguous.
  */
+// Per-kanji furigana: 勉強 べんきょう → 勉(べん)強(きょう), when the kanji's own readings split
+// the reading in exactly one way. Otherwise (jukujikun such as 今日, or kanji outside the
+// dataset) the reading stays over the whole run.
+const VOICED: Record<string, string> = { か: 'が', き: 'ぎ', く: 'ぐ', け: 'げ', こ: 'ご', さ: 'ざ', し: 'じ', す: 'ず', せ: 'ぜ', そ: 'ぞ', た: 'だ', ち: 'ぢ', つ: 'づ', て: 'で', と: 'ど', は: 'ば', ひ: 'び', ふ: 'ぶ', へ: 'べ', ほ: 'ぼ' };
+const SEMI: Record<string, string> = { は: 'ぱ', ひ: 'ぴ', ふ: 'ぷ', へ: 'ぺ', ほ: 'ぽ' };
+const kanjiSounds = new Map<string, Set<string>>();
+function soundsOf(ch: string): Set<string> {
+  let out = kanjiSounds.get(ch);
+  if (out) return out;
+  out = new Set();
+  const k = kanjiByChar.get(ch);
+  const base = k ? [...k.onyomi, ...k.kunyomi].map((r) => toHira(r.split('.')[0].replace(/-/g, ''))).filter(Boolean) : [];
+  for (const r of base) {
+    out.add(r);
+    const [first, rest] = [r[0], r.slice(1)];
+    if (VOICED[first]) out.add(VOICED[first] + rest); // rendaku: 本棚 ほんだな
+    if (SEMI[first]) out.add(SEMI[first] + rest); // 一本 いっぽん
+    if (/[つちくき]$/.test(r) && r.length > 1) out.add(r.slice(0, -1) + 'っ'); // 学校 がっこう
+  }
+  kanjiSounds.set(ch, out);
+  return out;
+}
+
+/** Split one kanji run's reading between its kanji, or return undefined if that isn't certain. */
+function splitRun(run: string, rt: string): string[] | undefined {
+  const chars = [...run];
+  if (chars.length < 2) return undefined;
+  const found: string[][] = [];
+  const walk = (i: number, rest: string, acc: string[]) => {
+    if (found.length > 1) return;
+    if (i === chars.length) {
+      if (rest === '') found.push(acc);
+      return;
+    }
+    const sounds = chars[i] === '々' && i > 0 ? soundsOf(chars[i - 1]) : soundsOf(chars[i]);
+    for (const s of sounds) if (rest.startsWith(s)) walk(i + 1, rest.slice(s.length), [...acc, s]);
+  };
+  walk(0, rt, []);
+  return found.length === 1 ? found[0] : undefined;
+}
+
+/** <ruby> for a kanji run, one per kanji where the split is certain. */
+function rubyRun(run: string, rt: string): string {
+  const parts = splitRun(run, rt);
+  if (!parts) return `<ruby>${esc(run)}<rt>${esc(rt)}</rt></ruby>`;
+  return [...run].map((ch, i) => `<ruby>${esc(ch)}<rt>${esc(parts[i])}</rt></ruby>`).join('');
+}
+
 export function furigana(word: string, reading: string): string {
   const parts = word.match(/[㐀-䶿一-鿿豈-﫿々ヶ〆]+|[^㐀-䶿一-鿿豈-﫿々ヶ〆]+/g);
   if (!parts || parts.every((p) => !isKanjiChar(p[0]))) return esc(word);
@@ -101,7 +149,7 @@ export function furigana(word: string, reading: string): string {
   const m = toHira(reading).match(new RegExp(`^${pattern}$`));
   if (!m) return esc(word);
   return parts
-    .map((p, i) => (isKanjiChar(p[0]) ? `<ruby>${esc(p)}<rt>${esc(m[i + 1])}</rt></ruby>` : esc(p)))
+    .map((p, i) => (isKanjiChar(p[0]) ? rubyRun(p, m[i + 1]) : esc(p)))
     .join('');
 }
 
@@ -209,7 +257,7 @@ const rubyHtml = (furigana: string) =>
     .split(/(\{[^|{}]+\|[^|{}]+\})/)
     .map((part) => {
       const m = part.match(/^\{([^|{}]+)\|([^|{}]+)\}$/);
-      return m ? `<ruby>${esc(m[1])}<rt>${esc(m[2])}</rt></ruby>` : esc(part);
+      return m ? rubyRun(m[1], m[2]) : esc(part);
     })
     .join('');
 

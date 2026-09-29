@@ -27,8 +27,8 @@ A big data-quality release: every word is verified against JMdict, grammar grows
 - **Anki decks** (per level and complete) and a **Yomitan** JLPT-level dictionary.
 - `sources/waller/`: a verbatim snapshot of the upstream level lists, for reproducible builds.
 - `sources/corrections/vocab.json`: reviewed fixes for individual source cards.
-- **Furigana on example sentences** (`examples[].furigana`, in `{漢字|かんじ}` notation) for nine
-  in ten sentences, shown on the website, in flashcards and in the Anki decks; `toRubyHtml()` /
+- **Furigana on example sentences** (`examples[].furigana`, in `{漢字|かんじ}` notation) for about
+  four in five sentences (and all grammar examples), shown on the website, in flashcards and in the Anki decks; `toRubyHtml()` /
   `to_ruby_html()` render it as HTML ruby.
 - 172 jōyō kanji missing from Waller's pre-2010 lists (誰, 頃, even 分), marked `supplementary`.
 - `sources/ids.lock.json` freezes every word's ID, so fixes to a spelling or reading never change it.

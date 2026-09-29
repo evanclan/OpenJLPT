@@ -39,8 +39,8 @@ example sentences, and unclear licensing. OpenJLPT fixes the data and makes it e
   of speech and a JMdict ID and catches wrong readings. [Hundreds of source errors are fixed](#how-the-data-is-built),
   each backed by a unit test.
 - **Real example sentences, with furigana.** Tatoeba sentences for <!-- counts:examples -->93%<!-- /counts:examples --> of words are matched by
-  *dictionary form*, so 読む finds 読んでいる. Short, checked sentences come first, and nine in ten
-  carry readings over every kanji.
+  *dictionary form*, so 読む finds 読んでいる. Short, checked sentences come first, and about four in
+  five carry readings over every kanji.
 - **526 grammar points.** Original, reviewed explanations with formation rules, 2–3 examples each,
   and notes on easily confused patterns.
 - **Ready for your stack.** JSON, CSV, SQLite with full-text search, Anki, Yomitan, npm, PyPI, a CLI,

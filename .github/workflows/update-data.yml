@@ -54,7 +54,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data sources
+          git add data sources README.md README.ja.md
           if git diff --cached --quiet; then
             echo "Dataset unchanged."
           else
@@ -77,6 +77,8 @@ jobs:
           add-paths: |
             data
             sources
+            README.md
+            README.ja.md
 
       - name: Run CI on the refresh PR
         if: env.ON_DEFAULT_BRANCH == 'true' && steps.pr.outputs.pull-request-number != ''
