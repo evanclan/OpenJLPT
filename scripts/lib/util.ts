@@ -44,7 +44,9 @@ export function readAnkiFacts(path: string): Record<string, string>[] {
     }
     const facts = new Map<string, Record<string, string>>();
     const rows = db
-      .prepare('SELECT CAST(factId AS TEXT) factId, CAST(fieldModelId AS TEXT) fieldModelId, value FROM fields')
+      .prepare(
+        'SELECT CAST(factId AS TEXT) factId, CAST(fieldModelId AS TEXT) fieldModelId, value FROM fields ORDER BY factId, ordinal',
+      )
       .all() as any[];
     for (const r of rows) {
       const name = models.get(r.fieldModelId);

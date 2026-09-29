@@ -54,6 +54,7 @@
     "build:pkg": "tsc -p tsconfig.build.json"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^22.10.0",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
