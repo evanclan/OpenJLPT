@@ -154,6 +154,20 @@
     "notes": "Used with transitive verbs, and the object usually takes が. It implies someone did it on purpose, unlike 〜ている with intransitive verbs (窓が開いている)."
   },
   {
+    "pattern": "〜とき",
+    "romaji": "toki",
+    "level": "N4",
+    "meaning": "when; at the time when",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / Noun + の + とき",
+    "examples": [
+      {"ja": "子どものとき、よく川で泳ぎました。", "en": "When I was a child, I often swam in the river."},
+      {"ja": "日本へ行くとき、新しいかばんを買いました。", "en": "I bought a new bag before my trip to Japan."},
+      {"ja": "日本へ行ったとき、友達にお土産を買いました。", "en": "When I went to Japan, I bought souvenirs for my friends there."}
+    ],
+    "tags": ["time", "sequence"],
+    "notes": "The verb's tense shows the order: 行くとき means before or on the way (the going isn't finished yet); 行ったとき means after arriving. Often written 時 in kanji."
+  },
+  {
     "pattern": "〜間 / 〜間に",
     "reading": "〜あいだ / 〜あいだに",
     "romaji": "aida / aida ni",
@@ -333,7 +347,7 @@
     "formation": "Verb-dict / Verb-nai + ことになる",
     "examples": [
       {"ja": "来年の春から、名古屋の店で働くことになりました。", "en": "It's been decided that I'll work at the Nagoya store from next spring."},
-      {"ja": "今度の日曜日、クラスのみんなでバーベキューをすることになった。", "en": "We've decided the whole class will have a barbecue this Sunday."},
+      {"ja": "今度の日曜日、クラスのみんなでバーベキューをすることになった。", "en": "It's been settled that the whole class will have a barbecue this Sunday."},
       {"ja": "友達の結婚式で、私がスピーチをすることになりました。", "en": "It turns out I'll be giving a speech at my friend's wedding."}
     ],
     "tags": ["decision", "result"],
@@ -416,7 +430,7 @@
     "meaning": "let's (casual); I'll (volitional form)",
     "formation": "Verb-dict (Group 1: final u → o) + う / Verb-stem + よう (Group 2)",
     "examples": [
-      {"ja": "疲れたね。少し休もう。", "en": "We're tired, huh? Let's take a short break."},
+      {"ja": "疲れたね。少し休もう。", "en": "That was tiring, huh? Let's take a short break."},
       {"ja": "週末、一緒に映画を見ようよ。", "en": "Let's watch a movie together this weekend."},
       {"ja": "よし、今日から毎日日記を書こう。", "en": "Right, starting today I'll write in my diary every day."}
     ],
@@ -781,7 +795,7 @@
     "meaning": "can't be; there's no way that",
     "formation": "Verb-plain / i-Adj + はずがない / na-Adj + な + はずがない / Noun + の + はずがない",
     "examples": [
-      {"ja": "あんなにまじめな人がうそをつくはずがない。", "en": "There's no way someone that honest would lie."},
+      {"ja": "あんなにまじめな人がうそをつくはずがない。", "en": "There's no way someone that earnest would lie."},
       {"ja": "今日は日曜日だから、銀行が開いているはずがない。", "en": "It's Sunday, so the bank can't be open."},
       {"ja": "かぎはちゃんとかけたから、ドアが開いているはずがない。", "en": "I definitely locked it, so there's no way the door is open."}
     ],
@@ -1233,7 +1247,7 @@
     "meaning": "etc.; and so on; such as",
     "formation": "Noun + など",
     "examples": [
-      {"ja": "机の上に本やノートなどがあります。", "en": "There are books, notebooks and so on on the desk."},
+      {"ja": "机の上に本やノートなどがあります。", "en": "On the desk there are books, notebooks and so on."},
       {"ja": "夏休みに京都や奈良などに行きました。", "en": "During summer vacation I went to places like Kyoto and Nara."},
       {"ja": "お茶など、いかがですか。", "en": "Would you care for some tea or something?"}
     ],

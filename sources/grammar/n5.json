@@ -188,7 +188,7 @@
     "meaning": "and (giving some examples out of more); ... and so on",
     "formation": "Noun + や + Noun",
     "examples": [
-      {"ja": "机の上に本や雑誌があります。", "en": "There are books, magazines and so on on the desk."},
+      {"ja": "机の上に本や雑誌があります。", "en": "On the desk there are books, magazines and so on."},
       {"ja": "スーパーで肉や野菜を買いました。", "en": "I bought meat, vegetables and other things at the supermarket."}
     ],
     "tags": ["particle", "example"],

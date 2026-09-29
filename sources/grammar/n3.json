@@ -980,6 +980,21 @@
     "notes": "Asks for or gives advice (〜ばいいですか = 'what should I do?'). 〜ばいいのに = 'I wish'. 〜たらいい is a near-synonym; 〜ほうがいい sounds more insistent."
   },
   {
+    "pattern": "〜場合（は）",
+    "reading": "〜ばあい（は）",
+    "romaji": "baai wa",
+    "level": "N3",
+    "meaning": "in the case of; if; in the event that",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / Noun + の + 場合（は）",
+    "examples": [
+      {"ja": "雨の場合は、試合は中止になります。", "en": "In case of rain, the game will be canceled."},
+      {"ja": "カードをなくした場合は、すぐに銀行に連絡してください。", "en": "If you lose your card, contact the bank immediately."},
+      {"ja": "予約の時間に遅れる場合は、お電話でお知らせください。", "en": "If you are going to be late for your appointment, please let us know by phone."}
+    ],
+    "tags": ["condition", "formal"],
+    "notes": "Typical of instructions, rules and announcements about possible situations. Unlike 〜たら, it is not used to narrate a one-off past event."
+  },
+  {
     "pattern": "〜とすれば / 〜としたら",
     "romaji": "to sureba / to shitara",
     "level": "N3",

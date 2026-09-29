@@ -585,7 +585,7 @@
     "examples": [
       {"ja": "お降りの際は、お忘れ物のないようご注意ください。", "en": "When getting off, please make sure you don't leave anything behind."},
       {"ja": "以前京都を訪れた際に、この寺にも立ち寄った。", "en": "When I visited Kyoto before, I also stopped by this temple."},
-      {"ja": "パスポートを申請する際には、写真が二枚必要です。", "en": "When you apply for a passport, you need two photos."}
+      {"ja": "パスポートを申請する際には、写真と本人確認書類が必要です。", "en": "When you apply for a passport, you need a photo and proof of identity."}
     ],
     "tags": ["time", "formal"],
     "notes": "A formal version of 〜とき, common in announcements and instructions. Unlike 〜に際して, it's fine for everyday occasions."
