@@ -1,25 +1,36 @@
 {
   "name": "openjlpt",
-  "version": "0.2.0",
-  "description": "Open, correctly-licensed JLPT N5–N1 dataset (vocabulary + kanji) with JSON, CSV, and a prebuilt SQLite database.",
+  "version": "0.3.0",
+  "description": "Open, correctly-licensed JLPT N5–N1 dataset — 7,800+ words, 2,200 kanji and 500+ grammar points with example sentences, as JSON, CSV and SQLite, plus a typed loader and CLI.",
   "keywords": [
-    "jlpt",
+    "anki",
+    "cli",
+    "dataset",
+    "dictionary",
+    "flashcards",
+    "grammar",
     "japanese",
     "japanese-language",
+    "japanese-vocabulary",
+    "jlpt",
+    "jlpt-n1",
+    "jlpt-n5",
+    "jmdict",
     "kanji",
-    "vocabulary",
-    "n5",
-    "n4",
-    "n3",
-    "n2",
-    "n1",
-    "dataset",
+    "kanjidic",
     "language-learning",
-    "flashcards",
-    "anki",
-    "sqlite"
+    "n1",
+    "n2",
+    "n3",
+    "n4",
+    "n5",
+    "nihongo",
+    "sqlite",
+    "tatoeba",
+    "vocabulary"
   ],
   "license": "CC-BY-SA-4.0",
+  "author": "Evan Clan (https://github.com/evanclan)",
   "homepage": "https://github.com/evanclan/OpenJLPT#readme",
   "repository": {
     "type": "git",
@@ -28,16 +39,25 @@
   "bugs": {
     "url": "https://github.com/evanclan/OpenJLPT/issues"
   },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/evanclan"
+  },
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
+  "bin": {
+    "openjlpt": "dist/cli.js"
+  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
     },
-    "./data/*": "./data/*"
+    "./data/*": "./data/*",
+    "./schema/*": "./schema/*",
+    "./package.json": "./package.json"
   },
   "files": [
     "dist",
@@ -46,12 +66,18 @@
     "schema",
     "NOTICE.md"
   ],
+  "sideEffects": false,
   "scripts": {
     "fetch": "tsx scripts/fetch-sources.ts",
-    "build:data": "tsx scripts/build-vocab.ts && tsx scripts/build-kanji.ts && tsx scripts/build-grammar.ts && tsx scripts/build-sqlite.ts",
+    "build:data": "tsx scripts/build-vocab.ts && tsx scripts/build-kanji.ts && tsx scripts/build-grammar.ts && tsx scripts/build-sqlite.ts && tsx scripts/build-meta.ts",
+    "build:grammar": "tsx scripts/build-grammar.ts && tsx scripts/build-sqlite.ts && tsx scripts/build-meta.ts",
     "build": "npm run fetch && npm run build:data && npm run validate",
     "validate": "tsx scripts/validate.ts",
-    "build:pkg": "tsc -p tsconfig.build.json"
+    "build:pkg": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "tsx --test tests/ts/*.test.ts",
+    "prepare": "npm run build:pkg",
+    "prepublishOnly": "npm run validate && npm test"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
@@ -64,6 +90,6 @@
     "typescript": "^5.7.2"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=18"
   }
 }

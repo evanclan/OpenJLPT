@@ -1,52 +1,176 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://openjlpt.dev/schema/grammar.schema.json",
+  "$id": "https://github.com/evanclan/OpenJLPT/blob/main/schema/grammar.schema.json",
   "title": "OpenJLPT Grammar Entry",
   "description": "A single JLPT grammar point at a given level.",
   "type": "object",
-  "required": ["pattern", "level", "meaning"],
+  "required": [
+    "id",
+    "pattern",
+    "romaji",
+    "level",
+    "meaning",
+    "formation",
+    "examples",
+    "tags"
+  ],
   "additionalProperties": false,
   "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable identifier, a slug of `romaji` (e.g. te-mo-ii)."
+    },
     "pattern": {
       "type": "string",
       "minLength": 1,
-      "description": "Grammar pattern (e.g. 〜てもいい)."
+      "description": "Grammar pattern as learners see it (e.g. 〜てもいい). A full-width parenthesised note disambiguates patterns with several meanings."
+    },
+    "reading": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The pattern in kana, present when `pattern` contains kanji."
+    },
+    "romaji": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Modified Hepburn romanization (particles as pronounced: は → wa)."
     },
     "level": {
       "type": "string",
-      "enum": ["N5", "N4", "N3", "N2", "N1"],
+      "enum": [
+        "N5",
+        "N4",
+        "N3",
+        "N2",
+        "N1"
+      ],
       "description": "JLPT level (current N5–N1 system)."
     },
     "meaning": {
       "type": "string",
       "minLength": 1,
-      "description": "Concise English meaning or usage."
+      "description": "Concise English meaning(s), separated by '; '."
     },
     "formation": {
       "type": "string",
-      "description": "How the pattern is formed (e.g. Verb-te + もいい)."
+      "minLength": 1,
+      "description": "How the pattern attaches, e.g. 'Verb-te + もいい'. Tokens: Verb-dict, Verb-stem (masu-stem), Verb-te, Verb-ta, Verb-nai, Verb-nai stem, Verb-ba, Verb-volitional, Verb-plain, i-Adj, i-Adj stem, i-Adj-ku, na-Adj, Noun, Sentence."
     },
     "examples": {
       "type": "array",
-      "description": "Optional example sentences.",
+      "minItems": 1,
+      "description": "Original example sentences (CC BY-SA 4.0).",
       "items": {
         "type": "object",
-        "required": ["ja", "en"],
+        "required": [
+          "ja",
+          "en"
+        ],
         "additionalProperties": false,
         "properties": {
-          "ja": { "type": "string", "minLength": 1, "description": "Japanese sentence." },
-          "en": { "type": "string", "minLength": 1, "description": "English translation." }
+          "ja": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Japanese sentence."
+          },
+          "en": {
+            "type": "string",
+            "minLength": 1,
+            "description": "English translation."
+          },
+          "tatoeba_id": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Tatoeba ID of the Japanese sentence — https://tatoeba.org/sentences/show/<id> (Tatoeba examples only)."
+          }
         }
       }
     },
     "tags": {
       "type": "array",
-      "description": "Optional topic tags (e.g. permission, conditional, formal).",
-      "items": { "type": "string", "minLength": 1 }
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "particle",
+          "copula",
+          "conjugation",
+          "tense",
+          "negation",
+          "politeness",
+          "request",
+          "permission",
+          "prohibition",
+          "obligation",
+          "necessity",
+          "desire",
+          "ability",
+          "possibility",
+          "conjecture",
+          "hearsay",
+          "appearance",
+          "comparison",
+          "condition",
+          "concession",
+          "contrast",
+          "reason",
+          "purpose",
+          "result",
+          "time",
+          "sequence",
+          "simultaneity",
+          "change",
+          "decision",
+          "experience",
+          "giving-receiving",
+          "honorific",
+          "humble",
+          "casual",
+          "formal",
+          "written",
+          "emphasis",
+          "limitation",
+          "addition",
+          "example",
+          "quotation",
+          "question",
+          "suggestion",
+          "advice",
+          "intention",
+          "attempt",
+          "tendency",
+          "degree",
+          "manner",
+          "state",
+          "completion",
+          "regret",
+          "surprise",
+          "criticism",
+          "emotion",
+          "standpoint",
+          "topic",
+          "relation",
+          "means",
+          "range",
+          "exclusion",
+          "invitation",
+          "command",
+          "voice",
+          "nominalization",
+          "demonstrative",
+          "quantity",
+          "exclamation",
+          "recollection",
+          "wish"
+        ]
+      },
+      "description": "Topic tags from a controlled vocabulary."
     },
     "notes": {
       "type": "string",
-      "description": "Optional usage notes or caveats."
+      "description": "Usage notes: nuance, register, or how it differs from similar patterns."
     }
   }
 }

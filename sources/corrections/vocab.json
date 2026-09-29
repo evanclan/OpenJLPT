@@ -1,0 +1,20 @@
+[
+  {"level": "N5", "front": "伯父/叔父", "why": "Headword says uncle but the reading and glosses are for grandfather (N5 lists おじいさん).", "set": {"word": "お祖父さん", "reading": "おじいさん", "other_forms": ["お爺さん"]}},
+  {"level": "N5", "front": "より、ほう", "why": "Card lists two comparison words with a placeholder gloss.", "set": {"word": "より", "reading": "より", "other_forms": [], "meanings": ["than", "(used for comparison)"]}},
+  {"level": "N4", "front": "真中", "why": "Rare spelling of 真ん中 (the reading matches, the common spelling is 真ん中).", "set": {"word": "真ん中", "other_forms": ["真中"]}},
+  {"level": "N3", "front": "とん", "why": "Loanword written in hiragana; the reading field holds a truncated note.", "set": {"word": "トン", "reading": "トン"}},
+  {"level": "N3", "front": "賛成", "why": "Reading field is mojibake in the N3 deck.", "set": {"reading": "さんせい"}},
+  {"level": "N2", "front": "おげんきで", "why": "Empty gloss.", "set": {"meanings": ["take care", "stay well (said when parting)"]}},
+  {"level": "N2", "front": "ごぞんじですか", "why": "Empty gloss.", "set": {"meanings": ["do you know? (honorific)"]}},
+  {"level": "N2", "front": "いっていらっしゃい", "why": "Empty gloss.", "set": {"meanings": ["see you later", "take care (said to someone leaving home)"]}},
+  {"level": "N2", "front": "あひら", "why": "Not a word; empty gloss.", "drop": true},
+  {"level": "N2", "front": "滑れる", "why": "Headword/reading mismatch (ずれる is 擦れる/ずれる 'to slip out of place'); empty gloss.", "set": {"word": "ずれる", "reading": "ずれる", "meanings": ["to slide", "to slip off", "to deviate", "to be out of alignment"]}},
+  {"level": "N1", "front": "徐々", "why": "Wrong reading (そろそろ is a different word).", "set": {"reading": "じょじょ"}},
+  {"level": "N1", "front": "一筋", "why": "Typo in reading.", "set": {"reading": "ひとすじ"}},
+  {"level": "N1", "front": "各々", "why": "Wrong reading (それぞれ is 其れ其れ).", "set": {"reading": "おのおの"}},
+  {"level": "N1", "front": "愛憎", "why": "Reading/gloss belong to 愛憎 (あいぞう), not あいにく (生憎).", "set": {"reading": "あいぞう", "meanings": ["love and hate", "likes and dislikes"]}},
+  {"level": "N1", "front": "伝言", "why": "Rare reading つてごと; the common word is でんごん.", "set": {"reading": "でんごん", "meanings": ["message", "verbal message", "word (from someone)"]}},
+  {"level": "N1", "front": "下品", "why": "Reading かひん is archaic; 下品 is げひん 'vulgar'.", "set": {"reading": "げひん", "meanings": ["vulgar", "indecent", "coarse", "crude"]}},
+  {"level": "N1", "front": "伊井", "why": "Not a word (garbled entry for いい / 伊).", "drop": true},
+  {"level": "N1", "front": "厭やらしい", "why": "Non-standard spelling of 嫌らしい.", "set": {"word": "嫌らしい", "other_forms": ["厭らしい"]}}
+]

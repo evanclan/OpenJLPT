@@ -1,12 +1,12 @@
 [project]
 name = "openjlpt"
-version = "0.2.0"
-description = "Open, correctly-licensed JLPT N5–N1 dataset loader for Python"
+version = "0.3.0"
+description = "Open JLPT N5–N1 dataset for Python — 7,800+ words, 2,200 kanji, 500+ grammar points with example sentences, plus SQLite and a CLI"
 readme = "README.md"
 license = "CC-BY-SA-4.0"
 requires-python = ">=3.9"
 authors = [
-  { name = "Evan Clan", email = "evan@example.com" },
+  { name = "Evan Clan" },
 ]
 keywords = [
   "jlpt",
@@ -24,9 +24,16 @@ keywords = [
   "flashcards",
   "anki",
   "sqlite",
+  "grammar",
+  "jmdict",
+  "kanjidic",
+  "tatoeba",
+  "nihongo",
+  "dictionary",
 ]
 classifiers = [
-  "Development Status :: 3 - Alpha",
+  "Development Status :: 4 - Beta",
+  "Environment :: Console",
   "Intended Audience :: Developers",
   "Intended Audience :: Education",
   "Programming Language :: Python :: 3",
@@ -35,7 +42,10 @@ classifiers = [
   "Programming Language :: Python :: 3.11",
   "Programming Language :: Python :: 3.12",
   "Programming Language :: Python :: 3.13",
+  "Natural Language :: Japanese",
+  "Natural Language :: English",
   "Topic :: Education",
+  "Topic :: Text Processing :: Linguistic",
   "Topic :: Software Development :: Libraries :: Python Modules",
   "Typing :: Typed",
 ]
@@ -45,10 +55,14 @@ dependencies = []
 [project.optional-dependencies]
 test = ["pytest>=7"]
 
+[project.scripts]
+openjlpt = "openjlpt.__main__:main"
+
 [project.urls]
 Homepage = "https://github.com/evanclan/OpenJLPT"
 Repository = "https://github.com/evanclan/OpenJLPT"
 Issues = "https://github.com/evanclan/OpenJLPT/issues"
+Changelog = "https://github.com/evanclan/OpenJLPT/blob/main/CHANGELOG.md"
 
 [build-system]
 requires = ["setuptools>=77.0"]

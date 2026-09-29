@@ -2,37 +2,33 @@ from __future__ import annotations
 
 import os
 import sqlite3
-from typing import Any, List, Optional
+from typing import Any, List, Optional, Sequence
 
-
-def _data_root() -> str:
-    """Locate the data directory (development root or bundled wheel)."""
-    here = os.path.dirname(os.path.abspath(__file__))
-    candidates = [
-        os.path.join(here, "..", "data"),  # development / editable install
-        os.path.join(here, "data"),         # wheel / bundled
-    ]
-    for candidate in candidates:
-        if os.path.isdir(candidate):
-            return candidate
-    raise FileNotFoundError("OpenJLPT data directory not found")
-
-
-_DB_PATH = os.path.join(_data_root(), "openjlpt.sqlite")
+from ._data import data_root
 
 
 def db_path() -> str:
     """Return the absolute path to the bundled SQLite database."""
-    return os.path.abspath(_DB_PATH)
+    return os.path.join(data_root(), "openjlpt.sqlite")
 
 
 def connect() -> sqlite3.Connection:
-    """Open a connection to the bundled SQLite database."""
-    return sqlite3.connect(db_path())
+    """Open a read-only connection to the bundled SQLite database.
+
+    Rows are :class:`sqlite3.Row`, so columns can be read by name. Array columns
+    (``meanings``, ``pos``, ``examples``, …) hold JSON text. The ``vocab_fts``
+    table is an FTS5 full-text index over word, reading, romaji and meanings.
+    """
+    uri = "file:" + db_path().replace(os.sep, "/") + "?mode=ro"
+    conn = sqlite3.connect(uri, uri=True)
+    conn.row_factory = sqlite3.Row
+    return conn
 
 
-def query(sql: str, params: Optional[tuple[Any, ...]] = None) -> List[tuple[Any, ...]]:
-    """Run a read-only query and return all rows."""
-    with connect() as conn:
-        conn.row_factory = sqlite3.Row
-        return conn.execute(sql, params or ()).fetchall()
+def query(sql: str, params: Optional[Sequence[Any]] = None) -> List[sqlite3.Row]:
+    """Run a read-only query against the bundled database and return all rows."""
+    conn = connect()
+    try:
+        return conn.execute(sql, tuple(params or ())).fetchall()
+    finally:
+        conn.close()

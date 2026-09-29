@@ -1,12 +1,24 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://openjlpt.dev/schema/vocab.schema.json",
+  "$id": "https://github.com/evanclan/OpenJLPT/blob/main/schema/vocab.schema.json",
   "title": "OpenJLPT Vocabulary Entry",
   "description": "A single JLPT vocabulary item at a given level.",
   "type": "object",
-  "required": ["word", "reading", "meanings", "level"],
+  "required": [
+    "id",
+    "word",
+    "reading",
+    "romaji",
+    "meanings",
+    "level"
+  ],
   "additionalProperties": false,
   "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{10}$",
+      "description": "Stable identifier: first 10 hex digits of SHA-1(word + U+0000 + reading). Survives re-ordering and level changes; use it to key user progress."
+    },
     "word": {
       "type": "string",
       "minLength": 1,
@@ -14,29 +26,90 @@
     },
     "reading": {
       "type": "string",
-      "description": "Kana reading. May be empty when the word is already kana-only."
+      "pattern": "^[\\u3041-\\u3096\\u309d\\u309e\\u30a1-\\u30fa\\u30fc\\u30fd\\u30fe]+$",
+      "description": "Kana reading. For kana-only words this equals `word`."
+    },
+    "romaji": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Modified Hepburn romanization of `reading` (lowercase, no macrons: とうきょう → toukyou)."
     },
     "meanings": {
       "type": "array",
       "minItems": 1,
-      "items": { "type": "string", "minLength": 1 },
-      "description": "English glosses."
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "English glosses, most important first."
     },
     "level": {
       "type": "string",
-      "enum": ["N5", "N4", "N3", "N2", "N1"],
+      "enum": [
+        "N5",
+        "N4",
+        "N3",
+        "N2",
+        "N1"
+      ],
       "description": "JLPT level (current N5–N1 system)."
+    },
+    "pos": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Part-of-speech codes from JMdict for the sense that matches `meanings` (e.g. n, v1, v5k, vt, adj-i, adj-na, adv, vs). See data/json/meta.json for descriptions."
+    },
+    "jmdict_id": {
+      "type": "integer",
+      "minimum": 1000000,
+      "description": "JMdict entry sequence number (ent_seq) — links to the full dictionary entry."
+    },
+    "other_forms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "description": "Other accepted spellings (e.g. いい → よい; あさって → 明後日)."
+    },
+    "other_readings": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[\\u3041-\\u3096\\u309d\\u309e\\u30a1-\\u30fa\\u30fc\\u30fd\\u30fe]+$"
+      },
+      "description": "Other accepted readings (e.g. 四 し → よん)."
     },
     "examples": {
       "type": "array",
-      "description": "Optional example sentences from Tatoeba (CC BY 2.0 FR).",
+      "description": "Up to two example sentences from Tatoeba (CC BY 2.0 FR).",
       "items": {
         "type": "object",
-        "required": ["ja", "en"],
+        "required": [
+          "ja",
+          "en"
+        ],
         "additionalProperties": false,
         "properties": {
-          "ja": { "type": "string", "minLength": 1, "description": "Japanese sentence." },
-          "en": { "type": "string", "minLength": 1, "description": "English translation." }
+          "ja": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Japanese sentence."
+          },
+          "en": {
+            "type": "string",
+            "minLength": 1,
+            "description": "English translation."
+          },
+          "tatoeba_id": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Tatoeba ID of the Japanese sentence — https://tatoeba.org/sentences/show/<id> (Tatoeba examples only)."
+          }
         }
       }
     }
