@@ -5,6 +5,7 @@ c3c3ac9f48,あいさつする,あいさつする,aisatsusuru,to greet,N4,n; vs; 
 d1a343e501,間,あいだ,aida,a space,N4,n,1215230,,二人の間がしっくり行かない。,They don't get along together.
 54e1f7a772,合う,あう,au,to match,N4,v5u; vi,1284430,,このチョッキは前が合わない。,This waistcoat won't meet at the front.
 2a6a55be8d,あかちゃん,あかちゃん,akachan,infant,N4,n,1383260,赤ちゃん,その赤ちゃんは歯が生えはじめている。,The baby is cutting his teeth.
+4a3152836b,上がる,あがる,agaru,to rise,N4,v5r; vi,1352290,,明日それをいただきに上がります。,I will call for it tomorrow.
 e877021bf4,赤ん坊,あかんぼう,akanbou,baby,N4,n,1383310,あかんぼう,うちの赤ん坊は口をきくようになってきました。,Our baby is learning to speak.
 91f0d5ac9e,空く,あく,aku,to open; to become empty,N4,v5k; vi,1586270,,いつも何曜日なら空いていますか？,What day are you usually free?
 628b6b8e9d,アクセサリー,アクセサリー,akusesarii,accessory,N4,n,1015220,,この服にはどんなアクセサリーを付けるの？,What sort of jewelry are you going to wear with this dress?
@@ -13,6 +14,7 @@ f935952fed,浅い,あさい,asai,shallow; superficial,N4,adj-i,1390800,,この�
 97bdb63259,アジア,アジア,ajia,Asia,N4,n,1015840,,ヨーロッパはアジアより人口が少ない。,Europe has a smaller population than Asia.
 4c3461199c,明日,あす,asu,tomorrow,N4,n; adv,1584660,,あしたは一日中ひまです。,I'll be free all day tomorrow.
 7fe5e36942,遊び,あそび,asobi,play,N4,n,1542070,,今度の旅行は仕事じゃなくて遊びです。,"Our next trip is for pleasure, not for work."
+8c98c01eff,集まる,あつまる,atsumaru,to gather,N4,v5r; vi,1333550,,私達は先生の前に集まった。,We gathered around the teacher.
 b00801af22,集める,あつめる,atsumeru,to collect something,N4,v1; vt,1333560,,毎週月曜日にゴミを集めにきます。,They collect our garbage every Monday.
 c1fb180c70,アナウンサー,アナウンサー,anaunsaa,announcer,N4,n,1017330,,アナウンサーは早口が出来る。,The announcer can talk rapidly.
 0fa879c73d,アフリカ,アフリカ,afurika,Africa,N4,n,1929050,,私はいつの日かアフリカに行きたい。,I want to go to Africa someday.
@@ -177,7 +179,6 @@ a70d257a61,空気,くうき,kuuki,air; atmosphere,N4,n,1245470,,山の中では�
 0f74a8f3a4,空港,くうこう,kuukou,airport,N4,n,1245570,,どの空港から出発しますか。,Which airport do I leave from?
 b5b90cb965,草,くさ,kusa,grass,N4,n,1401910,,月には草が生えて無い。,There is no grass on the moon.
 b8da4537a2,くださる,くださる,kudasaru,(respectful) to give,N4,v5aru; vt,1184280,下さる,もう一度言ってくださいますか。,"Could you repeat that, please?"
-608037bdca,下る,くだる,kudaru,to get down; to descend,N4,v5r; vi,1184450,,山を下ったところに学校がある。,There is a school down the mountain.
 78c6412e35,首,くび,kubi,neck,N4,n,1592270,,あなたの首は風前のともし火だ。,Your job hangs by a thread.
 7db3da6e1b,雲,くも,kumo,cloud,N4,n,1173100,,雲がだんだん黒くなっています。,The clouds are getting darker.
 5bfe1d2c25,比べる,くらべる,kuraberu,to compare,N4,v1; vt,1483540,,ロンドンはパリに比べると大きい。,"London is large, compared with Paris."
@@ -242,6 +243,7 @@ c54201ce25,最後,さいご,saigo,last; end,N4,n,1293810,,最後の試験は来�
 f5c169269f,最初,さいしょ,saisho,beginning; first,N4,adj-no; n; adv,1293990,,その考えは最初のうちはばかげているように思えた。,The idea seemed absurd at first.
 856f1c8216,坂,さか,saka,slope; hill,N4,n,1297110,,ジョンは坂をスキーで上りました。,John skied up the slope.
 0f4440571e,探す,さがす,sagasu,to look for,N4,v5s; vt,1593670,,私は貸間を探しているところです。,I'm looking for a room for rent.
+608037bdca,下がる,さがる,sagaru,to get down; to descend,N4,v5r; vi,1184160,,ロープから下がっていなさい。,Stand back from the rope.
 c70caf0317,盛ん,さかん,sakan,popularity; prosperous,N4,adj-na,1379750,,日本では英語教育が盛んである。,English education flourishes in Japan.
 92226ca7db,下げる,さげる,sageru,to hang; to lower; to move back,N4,v1; vt,1184170,,ラジオの音を下げてくれませんか。,Could you turn down the radio?
 4d497f75cf,差し上げる,さしあげる,sashiageru,(polite) to give,N4,v1; vt,1291270,,飲み物を差し上げましょうか。,May I offer you a drink?
@@ -364,7 +366,6 @@ b442490fff,大分,だいぶ,daibu,greatly,N4,adv,1414920,,だいぶ痛みがな�
 14d52a91d3,台風,たいふう,taifuu,typhoon,N4,n,1596780,,台風のため学校が休みになった。,We had no school on account of the typhoon.
 23afff6d4b,倒れる,たおれる,taoreru,to break down,N4,v1; vi,1445790,,彼は横にばったり倒れた。,He fell flat on the floor.
 ced135c81e,だから,だから,dakara,so; therefore,N4,conj,1007310,,１日中テニスをしていたのだから。,He was playing tennis all day.
-8c98c01eff,集る,たかる,takaru,to gather,N4,v5r; vi,1333570,,その男はいつも私に金をたかる。,The man always cadges money from me.
 2b610cb1a7,確か,たしか,tashika,definite,N4,adj-na,1596930,,彼が間違っているのは確かです。,It is certain that he is wrong.
 12d94456b3,足す,たす,tasu,to add a number,N4,v5s; vt,1404700,,６０にするためには１７に何を足せばよいの。,What do you have to add to 17 to get 60?
 d73148e8d0,尋ねる,たずねる,tazuneru,to ask,N4,v1; vt,1369940,,私の父はいつ出発するのか尋ねた。,My father asked when to start.
@@ -470,7 +471,6 @@ ac5fa7fe3b,眠い,ねむい,nemui,sleepy,N4,adj-i,1529330,,テレビを見てい
 3575e37548,眠る,ねむる,nemuru,to sleep,N4,v5r; vi,1529390,,彼は今地下に眠っている。,He is dead and buried now.
 d7f56d8d34,残る,のこる,nokoru,to remain,N4,v5r; vi,1304510,,もう３ページ残っている。,I have three more pages to go.
 6a3d0e7070,のど,のど,nodo,throat,N4,n,1600280,喉,今日起きたら喉がいがらっぽかったです。,"When I got up today, my throat felt a little sore."
-4a3152836b,上る,のぼる,noboru,to rise,N4,v5r; vi,1352570,,あなたは、上れませんよ。,You cannot climb!
 0114521256,乗り換える,のりかえる,norikaeru,to change between buses or trains,N4,v1; vt,1600470,,東京駅で列車を乗り換えなさい。,Change trains at Tokyo Station.
 0787fd5472,乗り物,のりもの,norimono,vehicle,N4,n,1600530,,乗り物は子供向けである。,Rides in the cars are for kids.
 254439ebbe,葉,は,ha,leaf,N4,n,1546550,,こちらには大きなハスの葉があります。,We have very big lotus leaves.

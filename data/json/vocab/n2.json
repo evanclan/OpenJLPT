@@ -289,7 +289,7 @@
   },
   {
     "id": "a542a76c28",
-    "word": "飽くまで",
+    "word": "あくまで",
     "reading": "あくまで",
     "romaji": "akumade",
     "meanings": [
@@ -304,14 +304,14 @@
     "jmdict_id": 1518320,
     "examples": [
       {
-        "ja": "わが党はこれに飽くまで反対します。",
-        "en": "Our party will resist to the bitter end.",
-        "tatoeba_id": 82614
+        "ja": "彼はその計画にあくまで反対した。",
+        "en": "He opposed the plan to the last.",
+        "tatoeba_id": 112971
       },
       {
-        "ja": "彼はそうなっても飽くまで落胆しなかった。",
-        "en": "Even then he did not allow himself to be discouraged.",
-        "tatoeba_id": 113265
+        "ja": "席があくまでしばらく待つしかない。",
+        "en": "We can do nothing but wait for a while until the seats are available.",
+        "tatoeba_id": 142473
       }
     ]
   },
@@ -4336,7 +4336,7 @@
   },
   {
     "id": "1495560853",
-    "word": "大凡",
+    "word": "おおよそ",
     "reading": "おおよそ",
     "romaji": "ooyoso",
     "meanings": [
@@ -6536,35 +6536,6 @@
         "ja": "部屋を代えてほしいのですが。",
         "en": "I'd like to change my room.",
         "tatoeba_id": 237337
-      }
-    ]
-  },
-  {
-    "id": "259d5a49a9",
-    "word": "反る",
-    "reading": "かえる",
-    "romaji": "kaeru",
-    "meanings": [
-      "to return",
-      "to come back",
-      "to go back"
-    ],
-    "level": "N2",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1512150,
-    "examples": [
-      {
-        "ja": "のろいはのろい主に返る。",
-        "en": "Curses, like chickens, come home to roost.",
-        "tatoeba_id": 198548
-      },
-      {
-        "ja": "洗濯物はもう洗濯屋から返ってきてますか。",
-        "en": "Has the wash come back yet?",
-        "tatoeba_id": 141205
       }
     ]
   },
@@ -11165,6 +11136,34 @@
     ]
   },
   {
+    "id": "921ddcb04e",
+    "word": "下る",
+    "reading": "くだる",
+    "romaji": "kudaru",
+    "meanings": [
+      "to get down",
+      "to descend"
+    ],
+    "level": "N2",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1184450,
+    "examples": [
+      {
+        "ja": "山を下ったところに学校がある。",
+        "en": "There is a school down the mountain.",
+        "tatoeba_id": 169405
+      },
+      {
+        "ja": "白いボートが流れを下っていった。",
+        "en": "The white boat went down the stream.",
+        "tatoeba_id": 121434
+      }
+    ]
+  },
+  {
     "id": "720253f6e8",
     "word": "唇",
     "reading": "くちびる",
@@ -15657,6 +15656,9 @@
       "vi"
     ],
     "jmdict_id": 1397830,
+    "other_forms": [
+      "さかのぼる"
+    ],
     "examples": [
       {
         "ja": "その教会は１１７３年までさかのぼる。",
@@ -22611,7 +22613,7 @@
   },
   {
     "id": "94fac8560c",
-    "word": "狡い",
+    "word": "ずるい",
     "reading": "ずるい",
     "romaji": "zurui",
     "meanings": [
@@ -22625,9 +22627,9 @@
     "jmdict_id": 1569240,
     "examples": [
       {
-        "ja": "狐は他のどんな動物よりもずるいということだ。",
-        "en": "It is said that the fox is more cunning than any other animal.",
-        "tatoeba_id": 174467
+        "ja": "ずるいとか、思わないの？",
+        "en": "Do you not think that's unfair?",
+        "tatoeba_id": 11910235
       },
       {
         "ja": "彼は賢いがずるい。",
@@ -24951,6 +24953,23 @@
     ]
   },
   {
+    "id": "259d5a49a9",
+    "word": "反る",
+    "reading": "そる",
+    "romaji": "soru",
+    "meanings": [
+      "to warp",
+      "to be warped",
+      "to curve"
+    ],
+    "level": "N2",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1480170
+  },
+  {
     "id": "033919f239",
     "word": "それなのに",
     "reading": "それなのに",
@@ -26031,33 +26050,6 @@
         "ja": "私は危ないところを助かりました。",
         "en": "I had a narrow escape.",
         "tatoeba_id": 157774
-      }
-    ]
-  },
-  {
-    "id": "7c1c73155b",
-    "word": "只",
-    "reading": "ただ",
-    "romaji": "tada",
-    "meanings": [
-      "free of charge",
-      "mere",
-      "sole",
-      "only",
-      "usual",
-      "common"
-    ],
-    "level": "N2",
-    "pos": [
-      "adj-no",
-      "n"
-    ],
-    "jmdict_id": 1538900,
-    "examples": [
-      {
-        "ja": "かれは空威張りしてる、ただの香具師です。",
-        "en": "He's just a bluffing charlatan.",
-        "tatoeba_id": 143599
       }
     ]
   },
@@ -34113,6 +34105,35 @@
     ]
   },
   {
+    "id": "ca7d4e8426",
+    "word": "上る",
+    "reading": "のぼる",
+    "romaji": "noboru",
+    "meanings": [
+      "to ascend",
+      "to go up",
+      "to climb"
+    ],
+    "level": "N2",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1352570,
+    "examples": [
+      {
+        "ja": "損失は１００万ドル以上にのぼる。",
+        "en": "The loss adds up to more than one million dollars.",
+        "tatoeba_id": 139276
+      },
+      {
+        "ja": "彼らは川を舟をこいで上った。",
+        "en": "They rowed up the river.",
+        "tatoeba_id": 96685
+      }
+    ]
+  },
+  {
     "id": "8098fd19b1",
     "word": "糊",
     "reading": "のり",
@@ -34450,7 +34471,7 @@
   },
   {
     "id": "61ed75f466",
-    "word": "剥がす",
+    "word": "はがす",
     "reading": "はがす",
     "romaji": "hagasu",
     "meanings": [
@@ -34464,6 +34485,9 @@
       "vt"
     ],
     "jmdict_id": 1600670,
+    "other_forms": [
+      "剥がす"
+    ],
     "examples": [
       {
         "ja": "彼女は窓からステッカーを引き剥がした。",
@@ -34471,9 +34495,9 @@
         "tatoeba_id": 88179
       },
       {
-        "ja": "まず、バリを剥がしてください。",
-        "en": "First, remove the burrs.",
-        "tatoeba_id": 373362
+        "ja": "その警官は家から看板をはがした。",
+        "en": "The policeman tore the signboard from the house.",
+        "tatoeba_id": 211200
       }
     ]
   },
@@ -41594,7 +41618,7 @@
   },
   {
     "id": "270c29cab7",
-    "word": "纏める",
+    "word": "まとめる",
     "reading": "まとめる",
     "romaji": "matomeru",
     "meanings": [
@@ -41610,14 +41634,14 @@
     "jmdict_id": 1440930,
     "examples": [
       {
-        "ja": "データはまだまとめていません。",
-        "en": "The data hasn't been compiled yet.",
-        "tatoeba_id": 202437
+        "ja": "クラスをまとめるのが君の役目だ。",
+        "en": "It is your responsibility to bring the class together.",
+        "tatoeba_id": 1619958
       },
       {
-        "ja": "彼は日本の民話を教科書用に纏めた。",
-        "en": "He compiled a Japanese folklore anthology for use in schools.",
-        "tatoeba_id": 101464
+        "ja": "今こそ一気に取引をまとめるときだ。",
+        "en": "Now is the time to clinch the deal.",
+        "tatoeba_id": 172860
       }
     ]
   },
@@ -45523,7 +45547,7 @@
   },
   {
     "id": "84096d1b94",
-    "word": "漸く",
+    "word": "ようやく",
     "reading": "ようやく",
     "romaji": "youyaku",
     "meanings": [
@@ -45538,14 +45562,14 @@
     "jmdict_id": 1394600,
     "examples": [
       {
-        "ja": "「そっか」ウィリーはようやく納得した。",
-        "en": "\"Well, OK,\" Willie finally agreed.",
-        "tatoeba_id": 236543
+        "ja": "彼はようやく試してみることにした。",
+        "en": "He finally decided to try.",
+        "tatoeba_id": 2147314
       },
       {
-        "ja": "９時２０分の電車にようやく間に合った。",
-        "en": "I barely made the 9:20 train.",
-        "tatoeba_id": 506577
+        "ja": "ようやく夜が明けて長い夜が終わった。",
+        "en": "Finally dawn broke; the long night had ended.",
+        "tatoeba_id": 74120
       }
     ]
   },
@@ -45930,7 +45954,7 @@
   },
   {
     "id": "7b53295093",
-    "word": "因る",
+    "word": "よる",
     "reading": "よる",
     "romaji": "yoru",
     "meanings": [
@@ -45941,19 +45965,7 @@
       "v5r",
       "vi"
     ],
-    "jmdict_id": 1168660,
-    "examples": [
-      {
-        "ja": "造られたもので、この方によらずできたものは一つもない。",
-        "en": "Without him nothing was made that has been made.",
-        "tatoeba_id": 140216
-      },
-      {
-        "ja": "この理由により、著者に関する信憑性は、資料の信憑性に拠っているのである。",
-        "en": "For this reason, the credibility of the book's authors rests on the credibility of their sources.",
-        "tatoeba_id": 219209
-      }
-    ]
+    "jmdict_id": 1168660
   },
   {
     "id": "2c59eb6f09",

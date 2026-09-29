@@ -69,6 +69,7 @@ cb29ccdd2a,意味,いみ,imi,meaning,N5,n; vs; vt,1156800,,その語にはいく
 12047d019b,妹,いもうと,imouto,(humble) younger sister,N5,n,1524590,,あのかわいい少女は私の妹です。,That pretty girl is my sister.
 eda751e069,嫌,いや,iya,unpleasant,N5,adj-na,1587610,,毎日うっとうしくていやですね。,Don't you just hate this weather?
 1ff0529d03,入口,いりぐち,iriguchi,entrance,N5,n,1582820,,１台の車が入り口に止まった。,A car stopped at the entrance.
+9438889173,いる,いる,iru,to be; to have (used for people and animals),N5,aux-v; v1,1577980,,,
 7a84208708,要る,いる,iru,to need,N5,v5r; vi,1546640,,今のところお金はいらない。,I don't need money at present.
 6d824d5110,入れる,いれる,ireru,to put in,N5,v1; vt,1465610,,それは引き出しに入れておきました。,I put it in the drawer.
 523266ea6f,色,いろ,iro,colour,N5,n,1357600,,カメレオンはどんな色にでもなれる。,The chameleon can take on any color.
@@ -133,7 +134,6 @@ cdfb776826,重い,おもい,omoi,heavy,N5,adj-i,1335750,,トムはジャック�
 2568873ebd,おもしろい,おもしろい,omoshiroi,interesting,N5,adj-i,1533580,面白い,スケートはとてもおもしろかった。,We had a lot of fun skating.
 3c5bb8f223,泳ぐ,およぐ,oyogu,to swim,N5,v5g; vi,1174340,,トムはすぐに泳げるようになるよ。,Tom will be able to swim soon.
 ae00442122,降りる,おりる,oriru,to get off; to descend,N5,v1; vi,1589500,,ここで降りましょう。,Let's get off here.
-9438889173,居る,おる,oru,to be; to have (used for people and animals),N5,aux-v; v5r,1577985,,すっかり食べ終わってはいない。,I haven't quite finished eating.
 d7960dc78d,終る,おわる,owaru,to finish,N5,v5r; vi,1589600,終わる,そのコンサートは十時に終わった。,The concert came to an end at ten o'clock.
 cdea017272,音楽,おんがく,ongaku,music,N5,n,1183720,,あの音楽は彼の気にさわる。,That music gets on his nerves.
 980a922ad3,女,おんな,onna,woman,N5,n; n-pref,1344930,,人は男か女のどちらかである。,A person is either male or female.
@@ -432,7 +432,7 @@ de5a452667,図書館,としょかん,toshokan,library,N5,n,1370420,,図書館の
 5480c153dc,どちら,どちら,dochira,which of two,N5,pn,1189360,,二つのうちでどちらが高いですか。,Which is the more expensive of the two?
 e8a4843059,どっち,どっち,dotchi,which,N5,pn,1189360,,この本とあの本とどっちがやさしい？,"Which is easier to read, this book or that one?"
 a3679ee665,とても,とても,totemo,very,N5,adv,1008630,,それらはとても大きなりんごです。,They are very big apples.
-10fb2e55c0,どなた,どなた,donata,who,N5,pn,1189370,何方,「どなたですか」「お母さんよ」,"""Who is it?"" ""It's your mother."""
+10fb2e55c0,どなた,どなた,donata,who,N5,pn,1189370,,「どなたですか」「お母さんよ」,"""Who is it?"" ""It's your mother."""
 c597c353cb,隣,となり,tonari,next door to,N5,n; adj-no,1555830,,あのビルのとなりです。,It's next to that building.
 cd4b8c6381,どの,どの,dono,which,N5,adj-pn,1920240,,,
 397b682fa7,飛ぶ,とぶ,tobu,to fly; to hop,N5,v5b; vi,1429700,,ヒューズが飛んだ。,A fuse has blown.

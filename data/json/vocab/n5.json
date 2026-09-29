@@ -1858,6 +1858,22 @@
     ]
   },
   {
+    "id": "9438889173",
+    "word": "いる",
+    "reading": "いる",
+    "romaji": "iru",
+    "meanings": [
+      "to be",
+      "to have (used for people and animals)"
+    ],
+    "level": "N5",
+    "pos": [
+      "aux-v",
+      "v1"
+    ],
+    "jmdict_id": 1577980
+  },
+  {
     "id": "7a84208708",
     "word": "要る",
     "reading": "いる",
@@ -3590,37 +3606,6 @@
         "ja": "その年とった男はバスを降りた。",
         "en": "The old man got off the bus.",
         "tatoeba_id": 207299
-      }
-    ]
-  },
-  {
-    "id": "9438889173",
-    "word": "居る",
-    "reading": "おる",
-    "romaji": "oru",
-    "meanings": [
-      "to be",
-      "to have (used for people and animals)"
-    ],
-    "level": "N5",
-    "pos": [
-      "aux-v",
-      "v5r"
-    ],
-    "jmdict_id": 1577985,
-    "other_readings": [
-      "いる"
-    ],
-    "examples": [
-      {
-        "ja": "すっかり食べ終わってはいない。",
-        "en": "I haven't quite finished eating.",
-        "tatoeba_id": 214668
-      },
-      {
-        "ja": "おかげで元気にしております。",
-        "en": "They're all fine, thank you.",
-        "tatoeba_id": 227760
       }
     ]
   },
@@ -11523,9 +11508,6 @@
       "pn"
     ],
     "jmdict_id": 1189370,
-    "other_forms": [
-      "何方"
-    ],
     "examples": [
       {
         "ja": "「どなたですか」「お母さんよ」",

@@ -202,6 +202,7 @@ e931649d18,おまえ,おまえ,omae,(familiar) you (sing); presence (of a high p
 009c03bfe9,泳ぎ,およぎ,oyogi,swimming,N3,n,1613570,,このごろは子供は学校で泳ぎを習う。,Children learn to swim in school today.
 ed0978af53,およそ,およそ,oyoso,about; roughly; as a rule; approximately,N3,adv,1523450,凡そ,およそどれくらいの価値がありますか。,What's their approximate worth?
 0b4ca53eb6,及ぼす,およぼす,oyobosu,to exert; to cause; to exercise,N3,v5s; vt,1228180,,あなたに被害を及ぼそうなどとは夢にも思いませんでした。,Little did I dream of doing you any harm.
+cf3cbde2a8,居る,おる,oru,to be (animate); to be; to exist,N3,v5r; vi,1577985,,おかげで元気にしております。,"They're all fine, thank you."
 23538b01de,降ろす,おろす,orosu,to take down; to launch; to drop,N3,v5s; vt,1589580,,あの信号の手前で降ろしてください。,Please let me off on this side of that traffic light.
 0ce645af89,恩,おん,on,favour; obligation; debt of gratitude,N3,n,1183090,,お前は恩を仇で返したな。,You bit the hand that fed you.
 26e15c1ade,音,おん,on,sound; note,N3,n; n-suf,2859161,,音の出る辞書はもはや夢でない。,A talking dictionary is no longer a fantasy.
@@ -239,7 +240,6 @@ b3f81ac90b,輝く,かがやく,kagayaku,to shine; to glitter; to sparkle,N3,v5k;
 24d66ba82b,係,かかり,kakari,official; duty; person in charge,N3,n,1589840,係り,今、誰か係りの者を差し向けます。,I'll send someone up to help you now.
 60e92a64ac,罹る,かかる,kakaru,to suffer from,N3,v5r; vi,1609500,,私はかつて大病にかかったことがあった。,Once I had a very bad disease.
 382bde5adf,限る,かぎる,kagiru,to restrict; to limit; to confine,N3,v5r; vt,1264640,,金持ちが必ずしも幸福とは限らない。,The rich are not always happy.
-778765a79e,角,かく,kaku,horn,N3,n; n-suf,1206100,,３角形のすべての角の和は１８０度に等しい。,The sum of all the angles in a triangle equals 180 degrees.
 f06c0b68a6,家具,かぐ,kagu,furniture,N3,n,1191870,,部屋には家具がない。,The room was bare of furniture.
 a0748eb71f,学,がく,gaku,learning; scholarship; erudition; knowledge,N3,n,1955900,,少年老い易く学成り難し。,"Art is long, time is fleeting."
 27db6f596b,額,がく,gaku,(picture) frame; framed picture,N3,n,1207500,,この額は税込みです。,This amount includes tax.
@@ -840,7 +840,7 @@ aa2fbac408,既に,すでに,sudeni,already; too late,N3,adv,1220310,,私はも�
 1dbd5b263b,全て,すべて,subete,all; the whole; entirely; in general; wholly,N3,adv,1595730,,人間は全て平等である。,All men are equal.
 e957aa6df9,済ませる,すませる,sumaseru,to be finished,N3,v1; vt,1295040,,私はまだ朝食を済ませていません。,I have not finished breakfast yet.
 5ddec3e77f,鋭い,するどい,surudoi,pointed; sharp,N3,adj-i,1174890,,ここに鋭い痛みがあります。,I have a sharp pain here.
-42d77d4da9,所為,せい,sei,cause; reason; fault,N3,n,1610040,,あなたの頭痛は過労のせいだ。,Your headache comes from overwork.
+42d77d4da9,せい,せい,sei,cause; reason; fault,N3,n,1610040,,,
 cde24ec2dd,性,せい,sei,sex; gender,N3,n,1375260,,習い性となる。,Habit is second nature.
 735842741b,正,せい,sei,(logical) true; regular,N3,n; adj-no,1376590,,彼の言ったことは全て正しかった。,All what he said was right.
 e7e5bb3758,背,せい,sei,height; stature,N3,n,1472650,,,
@@ -967,7 +967,7 @@ bf35e6a2e6,宅,たく,taku,house; home; husband,N3,n; n-suf,1415750,,ワシン�
 cb944daeac,確かめる,たしかめる,tashikameru,to ascertain,N3,v1; vt,1205780,,窓が閉まっているか確かめとけ。,See that the window is closed.
 63e2832ca0,多少,たしょう,tashou,more or less; somewhat; a little; some,N3,adv; adj-no,1407810,,今朝は空気が多少冷たい。,The air feels somewhat cold this morning.
 76cae35411,助ける,たすける,tasukeru,to help; to save; to rescue,N3,v1; vt,1344410,,私は老婦人が通りを渡るのを助けた。,I helped an old woman across the street.
-3e80832e23,唯,ただ,tada,free of charge; mere; sole; only; usual; common,N3,adj-no; n,1538900,ただ,私はその切符をただで手にいれた。,I got the ticket for nothing.
+3e80832e23,ただ,ただ,tada,free of charge; mere; sole; only; usual; common,N3,adj-no; n,1538900,,,
 900eaa8fd0,戦い,たたかい,tatakai,battle; fight; struggle; conflict,N3,n,1596950,,戦いは人間の獣性をよびおこす。,War arouses the animal in man.
 ff035a2a04,戦う,たたかう,tatakau,to fight; to battle; to combat,N3,v5u; vi,1596960,,おまえも決して戦う拳を忘れるな。,Never lose your fighting fists.
 44d064efd7,叩く,たたく,tataku,to strike; to clap; to dust; to beat,N3,v5k; vt,1416170,,口答えしたら父は私を叩いた。,My father beat me answering him back.
@@ -989,7 +989,7 @@ a7ca4ae607,束,たば,taba,handbreadth; bundle,N3,n; n-suf; ctr,1404450,,彼は�
 5ac33a4880,玉,たま,tama,ball; sphere; coin,N3,n,1240530,,ニッケルは５セント玉です。,A nickel is a five-cent coin.
 9cac7f9475,偶,たま,tama,occasional; rare; infrequent,N3,adj-no; adj-na; n,2068840,,友理子はたまの逢瀬を心行くまで楽しんでしまいました。,Yuriko thoroughly enjoyed her occasional secret meetings with her lover.
 42fbc7ed06,弾,たま,tama,bullet; shot; shell,N3,n,1240530,,弾が彼の頬をかすめた。,The bullet grazed his cheek.
-086ada9b06,偶々,たまたま,tamatama,casually; unexpectedly; accidentally; by chance,N3,adv,1597180,,通りを歩いていたとき、私はたまたま旧友に出会った。,"Walking along the street, I happened to meet my old friend."
+086ada9b06,たまたま,たまたま,tamatama,casually; unexpectedly; accidentally; by chance,N3,adv,1597180,,私達はたまたま同じ列車に乗った。,We happened to take the same train.
 2b5e5351b0,たまらない,たまらない,tamaranai,intolerable; unbearable; unendurable,N3,exp; adj-i,1211340,堪らない,あのカメラが欲しくてたまらない。,I'm dying for that camera.
 bce12bb5a5,黙る,だまる,damaru,to be silent,N3,v5r; vi,1534930,,もうこれ以上、黙ってられないわ。,I can no longer remain silent.
 a913d4b1f6,試し,ためし,tameshi,trial; test,N3,n,1312250,,私は試しにその山に登ってみた。,I tried climbing the mountain.
@@ -1070,6 +1070,7 @@ b30b244443,勤め,つとめ,tsutome,service; duty; business; responsibility; tas
 b30544a54e,務め,つとめ,tsutome,service; duty; Buddhist religious services,N3,n,1240810,,勉強するのは学生の務め。,It's a student's business to study.
 e629f70aca,繋ぐ,つなぐ,tsunagu,to tie; to fasten; to connect; to transfer (phone call),N3,v5g; vt,1251900,,スミスさんにつないで下さい。,Please connect me with Mr Smith.
 43f9074428,常に,つねに,tsuneni,always; constantly,N3,adv,1355970,,常に疲労感があります。,I always have a tired feeling.
+778765a79e,角,つの,tsuno,horn,N3,n,1206120,,カタツムリがすっと角を出した。,The snail shot out its horns.
 526a0047ad,翼,つばさ,tsubasa,wings,N3,n,1547530,,それは翼の全長が約４インチある。,It has a wingspan of about four inches.
 9a7106c569,つまり,つまり,tsumari,in short; in brief; in other words,N3,adv,1610430,詰まり,つまり彼女は下手な踊り子だ。,"That is, she is a poor dancer."
 fc43373a26,罪,つみ,tsumi,crime; fault; indiscretion,N3,n; adj-na; adj-no,1296680,,ビルはその罪を犯していなかった。,Bill did not commit the crime.
@@ -1197,7 +1198,7 @@ de314c95de,なぜなら,なぜなら,nazenara,because,N3,conj,1009410,何故な�
 08f3d1eb54,何か,なにか,nanika,something,N3,pn,1188270,,ここまでのところで何か落としていることはありませんか。,Have I missed anything so far?
 5efa5daa2b,なにも,なにも,nanimo,nothing,N3,exp,1188490,何も,過ちのない者は何も作り出せない。,He who makes no mistakes makes nothing.
 9ede43e44c,鍋,なべ,nabe,saucepan; pot,N3,n,1459720,,ここに手のないナベがある。,Here is a pan without handles.
-04f80af544,生,なま,nama,draft (beer); raw; unprocessed,N3,n,1378450,,死は生の正反対である。,Death is the antithesis of life.
+04f80af544,生,なま,nama,draft (beer); raw; unprocessed,N3,n,1378450,,ゴムをすると確かに性感が落ちるので、出来れば生でしたいです。,"The sensitivity certainly drops if I use a condom, so if possible I'd like to do it bareback."
 6e5fe06358,怠ける,なまける,namakeru,to be idle; to neglect,N3,v1; vi,1410660,,彼は勉強を怠けている。,He is lazy in his study.
 cae492d243,波,なみ,nami,wave,N3,n,1470970,,船は波のなすがままになっている。,The ship is at the mercy of the waves.
 037925a6d6,涙,なみだ,namida,tear,N3,n,1555930,,２粒の涙が彼女のほおを流れ落ちた。,Two tears fell down her cheeks.

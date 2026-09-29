@@ -7,9 +7,9 @@
     "vocab": {
       "N5": 674,
       "N4": 630,
-      "N3": 1657,
-      "N2": 1777,
-      "N1": 3071,
+      "N3": 1658,
+      "N2": 1778,
+      "N1": 3069,
       "total": 7809
     },
     "kanji": {
@@ -29,7 +29,7 @@
       "total": 526
     }
   },
-  "vocab_with_examples": 7231,
+  "vocab_with_examples": 7224,
   "sources": {
     "waller": {
       "url": "https://www.tanos.co.uk/jlpt/",

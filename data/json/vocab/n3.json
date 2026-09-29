@@ -5673,6 +5673,35 @@
     ]
   },
   {
+    "id": "cf3cbde2a8",
+    "word": "居る",
+    "reading": "おる",
+    "romaji": "oru",
+    "meanings": [
+      "to be (animate)",
+      "to be",
+      "to exist"
+    ],
+    "level": "N3",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1577985,
+    "examples": [
+      {
+        "ja": "おかげで元気にしております。",
+        "en": "They're all fine, thank you.",
+        "tatoeba_id": 227760
+      },
+      {
+        "ja": "良い御返事をお待ちしております。",
+        "en": "I am looking forward to receiving your favorable answer.",
+        "tatoeba_id": 77883
+      }
+    ]
+  },
+  {
     "id": "23538b01de",
     "word": "降ろす",
     "reading": "おろす",
@@ -6707,36 +6736,6 @@
         "ja": "暑い日は冷たいビールに限る。",
         "en": "There is nothing like cold beer on a hot day.",
         "tatoeba_id": 147466
-      }
-    ]
-  },
-  {
-    "id": "778765a79e",
-    "word": "角",
-    "reading": "かく",
-    "romaji": "kaku",
-    "meanings": [
-      "horn"
-    ],
-    "level": "N3",
-    "pos": [
-      "n",
-      "n-suf"
-    ],
-    "jmdict_id": 1206100,
-    "other_readings": [
-      "すみ"
-    ],
-    "examples": [
-      {
-        "ja": "３角形のすべての角の和は１８０度に等しい。",
-        "en": "The sum of all the angles in a triangle equals 180 degrees.",
-        "tatoeba_id": 235339
-      },
-      {
-        "ja": "フロントローラーのスラスト角は２度、多分レース時にはもう少し角度を強める予定です。",
-        "en": "The front-roller thrust angle is 2 degrees, probably there were plans to strengthen that angle a little when racing.",
-        "tatoeba_id": 76452
       }
     ]
   },
@@ -11858,9 +11857,6 @@
       "vt"
     ],
     "jmdict_id": 1184320,
-    "other_readings": [
-      "おろす"
-    ],
     "examples": [
       {
         "ja": "問題は誰が決定を下すかということだ。",
@@ -23505,7 +23501,7 @@
   },
   {
     "id": "42d77d4da9",
-    "word": "所為",
+    "word": "せい",
     "reading": "せい",
     "romaji": "sei",
     "meanings": [
@@ -23517,19 +23513,7 @@
     "pos": [
       "n"
     ],
-    "jmdict_id": 1610040,
-    "examples": [
-      {
-        "ja": "あなたの頭痛は過労のせいだ。",
-        "en": "Your headache comes from overwork.",
-        "tatoeba_id": 233064
-      },
-      {
-        "ja": "それは実際君の所為である。",
-        "en": "It is in fact your fault.",
-        "tatoeba_id": 205095
-      }
-    ]
+    "jmdict_id": 1610040
   },
   {
     "id": "cde24ec2dd",
@@ -27091,7 +27075,7 @@
   },
   {
     "id": "3e80832e23",
-    "word": "唯",
+    "word": "ただ",
     "reading": "ただ",
     "romaji": "tada",
     "meanings": [
@@ -27107,22 +27091,7 @@
       "adj-no",
       "n"
     ],
-    "jmdict_id": 1538900,
-    "other_forms": [
-      "ただ"
-    ],
-    "examples": [
-      {
-        "ja": "私はその切符をただで手にいれた。",
-        "en": "I got the ticket for nothing.",
-        "tatoeba_id": 159998
-      },
-      {
-        "ja": "君はただ皿を洗いさえすればいい。",
-        "en": "All you have to do is wash the dishes.",
-        "tatoeba_id": 177669
-      }
-    ]
+    "jmdict_id": 1538900
   },
   {
     "id": "900eaa8fd0",
@@ -27725,7 +27694,7 @@
   },
   {
     "id": "086ada9b06",
-    "word": "偶々",
+    "word": "たまたま",
     "reading": "たまたま",
     "romaji": "tamatama",
     "meanings": [
@@ -27741,14 +27710,14 @@
     "jmdict_id": 1597180,
     "examples": [
       {
-        "ja": "通りを歩いていたとき、私はたまたま旧友に出会った。",
-        "en": "Walking along the street, I happened to meet my old friend.",
-        "tatoeba_id": 125599
-      },
-      {
         "ja": "私達はたまたま同じ列車に乗った。",
         "en": "We happened to take the same train.",
         "tatoeba_id": 151746
+      },
+      {
+        "ja": "私達はたまたま駅で出会ったんだ。",
+        "en": "We happened to meet at the station.",
+        "tatoeba_id": 151748
       }
     ]
   },
@@ -29436,9 +29405,6 @@
       "n"
     ],
     "jmdict_id": 1369910,
-    "other_readings": [
-      "ごみ"
-    ],
     "examples": [
       {
         "ja": "１年が過ぎ、彼の死体は塵と化した。",
@@ -30023,6 +29989,32 @@
         "ja": "法が常に公平であるとは限らない。",
         "en": "The law is not always fair.",
         "tatoeba_id": 82699
+      }
+    ]
+  },
+  {
+    "id": "778765a79e",
+    "word": "角",
+    "reading": "つの",
+    "romaji": "tsuno",
+    "meanings": [
+      "horn"
+    ],
+    "level": "N3",
+    "pos": [
+      "n"
+    ],
+    "jmdict_id": 1206120,
+    "examples": [
+      {
+        "ja": "カタツムリがすっと角を出した。",
+        "en": "The snail shot out its horns.",
+        "tatoeba_id": 76795
+      },
+      {
+        "ja": "水牛は大きな角をもっている。",
+        "en": "Buffaloes have big horns.",
+        "tatoeba_id": 143675
       }
     ]
   },
@@ -33583,19 +33575,16 @@
       "n"
     ],
     "jmdict_id": 1378450,
-    "other_readings": [
-      "せい"
-    ],
     "examples": [
-      {
-        "ja": "死は生の正反対である。",
-        "en": "Death is the antithesis of life.",
-        "tatoeba_id": 168150
-      },
       {
         "ja": "ゴムをすると確かに性感が落ちるので、出来れば生でしたいです。",
         "en": "The sensitivity certainly drops if I use a condom, so if possible I'd like to do it bareback.",
         "tatoeba_id": 74282
+      },
+      {
+        "ja": "日本ではしばしば魚を生で食べる。",
+        "en": "We often eat fish raw in Japan.",
+        "tatoeba_id": 122796
       }
     ]
   },
@@ -34786,19 +34775,11 @@
       "n"
     ],
     "jmdict_id": 1260330,
-    "other_readings": [
-      "けん"
-    ],
     "examples": [
       {
         "ja": "彼女は鳥かごを軒からつるした。",
         "en": "She hung the cage from the eaves.",
         "tatoeba_id": 87835
-      },
-      {
-        "ja": "１０軒の家がその火事で焼失した。",
-        "en": "The fire burned down ten houses.",
-        "tatoeba_id": 236061
       }
     ]
   },
@@ -34995,9 +34976,6 @@
       "adj-no"
     ],
     "jmdict_id": 1269330,
-    "other_readings": [
-      "うしろ"
-    ],
     "examples": [
       {
         "ja": "晴れ後曇りでした。",
@@ -39287,9 +39265,6 @@
       "n-suf"
     ],
     "jmdict_id": 1502860,
-    "other_readings": [
-      "ぶ"
-    ],
     "examples": [
       {
         "ja": "このビールはアルコール分が５％だ。",
@@ -41972,9 +41947,6 @@
       "n"
     ],
     "jmdict_id": 1956960,
-    "other_readings": [
-      "ぶ"
-    ],
     "examples": [
       {
         "ja": "無から有は生じない。",

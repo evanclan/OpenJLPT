@@ -162,6 +162,33 @@
     ]
   },
   {
+    "id": "4a3152836b",
+    "word": "上がる",
+    "reading": "あがる",
+    "romaji": "agaru",
+    "meanings": [
+      "to rise"
+    ],
+    "level": "N4",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1352290,
+    "examples": [
+      {
+        "ja": "明日それをいただきに上がります。",
+        "en": "I will call for it tomorrow.",
+        "tatoeba_id": 80598
+      },
+      {
+        "ja": "車のバッテリーが上がってるよ。",
+        "en": "The car battery is dead.",
+        "tatoeba_id": 149063
+      }
+    ]
+  },
+  {
     "id": "e877021bf4",
     "word": "赤ん坊",
     "reading": "あかんぼう",
@@ -373,6 +400,33 @@
         "ja": "人生は楽しみや遊びばかりでない。",
         "en": "Life is not all fun and games.",
         "tatoeba_id": 143985
+      }
+    ]
+  },
+  {
+    "id": "8c98c01eff",
+    "word": "集まる",
+    "reading": "あつまる",
+    "romaji": "atsumaru",
+    "meanings": [
+      "to gather"
+    ],
+    "level": "N4",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1333550,
+    "examples": [
+      {
+        "ja": "私達は先生の前に集まった。",
+        "en": "We gathered around the teacher.",
+        "tatoeba_id": 151443
+      },
+      {
+        "ja": "通りに人がたくさん集まっている。",
+        "en": "There is a crowd of people on the street.",
+        "tatoeba_id": 125642
       }
     ]
   },
@@ -4784,37 +4838,6 @@
     ]
   },
   {
-    "id": "608037bdca",
-    "word": "下る",
-    "reading": "くだる",
-    "romaji": "kudaru",
-    "meanings": [
-      "to get down",
-      "to descend"
-    ],
-    "level": "N4",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1184450,
-    "other_readings": [
-      "さがる"
-    ],
-    "examples": [
-      {
-        "ja": "山を下ったところに学校がある。",
-        "en": "There is a school down the mountain.",
-        "tatoeba_id": 169405
-      },
-      {
-        "ja": "私たちは小さなボートで川を下った。",
-        "en": "We went down the river in a small boat.",
-        "tatoeba_id": 165625
-      }
-    ]
-  },
-  {
     "id": "78c6412e35",
     "word": "首",
     "reading": "くび",
@@ -6536,6 +6559,34 @@
         "ja": "私はそれを探さなければならない。",
         "en": "I have to find it.",
         "tatoeba_id": 162327
+      }
+    ]
+  },
+  {
+    "id": "608037bdca",
+    "word": "下がる",
+    "reading": "さがる",
+    "romaji": "sagaru",
+    "meanings": [
+      "to get down",
+      "to descend"
+    ],
+    "level": "N4",
+    "pos": [
+      "v5r",
+      "vi"
+    ],
+    "jmdict_id": 1184160,
+    "examples": [
+      {
+        "ja": "ロープから下がっていなさい。",
+        "en": "Stand back from the rope.",
+        "tatoeba_id": 192281
+      },
+      {
+        "ja": "ランプは天井から下がっていた。",
+        "en": "The lamp hung from the ceiling.",
+        "tatoeba_id": 192547
       }
     ]
   },
@@ -9810,36 +9861,6 @@
     ]
   },
   {
-    "id": "8c98c01eff",
-    "word": "集る",
-    "reading": "たかる",
-    "romaji": "takaru",
-    "meanings": [
-      "to gather"
-    ],
-    "level": "N4",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1333570,
-    "other_readings": [
-      "あつまる"
-    ],
-    "examples": [
-      {
-        "ja": "その男はいつも私に金をたかる。",
-        "en": "The man always cadges money from me.",
-        "tatoeba_id": 208110
-      },
-      {
-        "ja": "ケーキにはアリがいっぱいたかっていた。",
-        "en": "The cake was alive with ants.",
-        "tatoeba_id": 225322
-      }
-    ]
-  },
-  {
     "id": "2b610cb1a7",
     "word": "確か",
     "reading": "たしか",
@@ -12670,36 +12691,6 @@
         "ja": "のどがゼーゼー言います。",
         "en": "I'm wheezing.",
         "tatoeba_id": 198569
-      }
-    ]
-  },
-  {
-    "id": "4a3152836b",
-    "word": "上る",
-    "reading": "のぼる",
-    "romaji": "noboru",
-    "meanings": [
-      "to rise"
-    ],
-    "level": "N4",
-    "pos": [
-      "v5r",
-      "vi"
-    ],
-    "jmdict_id": 1352570,
-    "other_readings": [
-      "あがる"
-    ],
-    "examples": [
-      {
-        "ja": "あなたは、上れませんよ。",
-        "en": "You cannot climb!",
-        "tatoeba_id": 232915
-      },
-      {
-        "ja": "損失は１００万ドル以上にのぼる。",
-        "en": "The loss adds up to more than one million dollars.",
-        "tatoeba_id": 139276
       }
     ]
   },

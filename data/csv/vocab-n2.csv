@@ -9,7 +9,7 @@ b286c3e278,明き,あき,aki,room; time to spare; emptiness,N2,n,1609010,,字と
 4bbc998853,あきれる,あきれる,akireru,to be amazed; to be shocked,N2,v1; vi,1515580,呆れる,君の厚かましいのには呆れたよ。,I am amazed at your audacity.
 f4f844d9b9,アクセント,アクセント,akusento,accent,N2,n,1015310,,Australiaという語のアクセントはどこですか。,"Where do you place the stress in the word ""Australia""?"
 4f70e78ef3,あくび,あくび,akubi,yawn,N2,n; vs; vi,1254010,,あの先生の講義はあくびが出る。,His lectures are terribly boring.
-a542a76c28,飽くまで,あくまで,akumade,to the end; to the last; stubbornly,N2,adv,1518320,,わが党はこれに飽くまで反対します。,Our party will resist to the bitter end.
+a542a76c28,あくまで,あくまで,akumade,to the end; to the last; stubbornly,N2,adv,1518320,,彼はその計画にあくまで反対した。,He opposed the plan to the last.
 817ab81f5e,明け方,あけがた,akegata,dawn,N2,n; adv,1532300,,その事故は明け方に起こった。,The accident occurred at dawn.
 8c256fc677,挙げる,あげる,ageru,to raise; to fly,N2,v1; vt,2864818,,質問があれば右手を挙げて下さい。,"If you have a question, please raise your right hand."
 d4d89391b7,揚げる,あげる,ageru,to lift; to fry,N2,v1; vt,2864817,,彼女は魚をサラダ油で揚げた。,She fried fish in salad oil.
@@ -160,7 +160,7 @@ a1b5b4da89,おおざっぱ,おおざっぱ,oozappa,rough (not precise); broad; s
 395598d52e,大通り,おおどおり,oodoori,main street,N2,n,1414570,,私は大通りをずっと一人で歩いた。,I walked along the main street.
 ec98265fb1,オートメーション,オートメーション,ootomeeshon,automation,N2,n,1032180,,生産性はオートメーションの徹底によって向上する。,Production improves by becoming more automatic.
 3675b2a9f8,オーバーコート,オーバーコート,oobaakooto,overcoat,N2,n,1032880,,とても寒かったのにもかかわらず、その子供はオーバーコートを身につけていなかった。,The child had no overcoat on although it was very cold.
-1495560853,大凡,おおよそ,ooyoso,about; roughly; as a rule; approximately,N2,adv,1415050,,彼女のおおよその年齢しか知らない。,We can only know her approximate age.
+1495560853,おおよそ,おおよそ,ooyoso,about; roughly; as a rule; approximately,N2,adv,1415050,,彼女のおおよその年齢しか知らない。,We can only know her approximate age.
 829f937932,お帰り,おかえり,okaeri,return; welcome,N2,n,1612780,,あなたのお帰りを一日千秋の思いでお待ちしています。,I can hardly wait till I see you.
 24727f461e,おかけください,おかけください,okakekudasai,please sit down; please have a seat,N2,exp,2411600,,いいえ、はじめに９番におかけ下さい。,"No, please dial nine first."
 a3e381631c,おかげさまで,おかげさまで,okagesamade,Thanks to god; thanks to you,N2,exp,1270220,お蔭様で,おかげさまで助かりました。,Thank you very much for your help.
@@ -242,7 +242,6 @@ f764b1251d,開放,かいほう,kaihou,open; throw open; liberalization,N2,n; vs;
 06d008d266,帰す,かえす,kaesu,to send back,N2,v5s; vt,1221240,,けがを治療してもらったトラは、村人たちの手で無事、保護区に帰された。,"The tiger, having had its wounds treated, was returned by the villagers to the animal sanctuary without incident."
 8d3e656e69,却って,かえって,kaette,on the contrary; rather; all the more; instead,N2,adv,1226610,,高望みをするとかえって損をする。,You may go farther and fare worse.
 8355396ec5,代える,かえる,kaeru,to exchange; to interchange; to substitute; to replace,N2,v1; vt,1589780,,真の友情は千金にも代え難い。,True friendship is priceless.
-259d5a49a9,反る,かえる,kaeru,to return; to come back; to go back,N2,v5r; vi,1512150,,のろいはのろい主に返る。,"Curses, like chickens, come home to roost."
 091ea3ec5a,家屋,かおく,kaoku,house; building,N2,n,1191780,,この前の嵐で数軒の家屋が被害を受けた。,Several houses were damaged in the last storm.
 72d8fe6720,係わる,かかわる,kakawaru,to concern oneself in; to have to do with; to affect; to influence; to stick to (opinions),N2,v5r; vi,1589880,,これは我が校の名誉にかかわる問題だ。,The problem affects the prestige of our school.
 b662f10494,書留,かきとめ,kakitome,writing down; putting on record; recording; making a note of; registration (of mail),N2,n,1589960,,この小包を書留にしたいのですが。,I'd like to have this parcel registered.
@@ -416,6 +415,7 @@ d9f84d61b1,苦心,くしん,kushin,pain; trouble,N2,n; vs; vi,1244530,,苦心の
 9b6426d781,砕ける,くだける,kudakeru,to break; to be broken,N2,v1; vi,1295190,,波は岩に勢いよく当たって砕けた。,The waves dashed against the rocks.
 fd88b60e26,くたびれる,くたびれる,kutabireru,to get tired; to wear out,N2,v1; vi,1003810,,,
 57d3c312c5,くだらない,くだらない,kudaranai,good-for-nothing; stupid; trivial; worthless,N2,adj-i,1184360,下らない,くだらない話はもうたくさんだ。,We have had enough of empty words.
+921ddcb04e,下る,くだる,kudaru,to get down; to descend,N2,v5r; vi,1184450,,山を下ったところに学校がある。,There is a school down the mountain.
 720253f6e8,唇,くちびる,kuchibiru,lips,N2,n,1359940,,冬は唇があれます。,"In winter, our lips get chapped."
 bb9e4b1560,口紅,くちべに,kuchibeni,lipstick,N2,n; adj-no,1276110,,ブライアンはケイトのために口紅を買った。,Brian bought a lipstick for Kate.
 2b59b00503,くっつく,くっつく,kuttsuku,to adhere to; to keep close to,N2,v5k; vi,1003860,くっ付く,ぬれた衣装が彼女の体にくっついていた。,Wet clothes clung to her body.
@@ -586,7 +586,7 @@ b79565a0c1,採点,さいてん,saiten,marking; grading; looking over,N2,n; vs; v
 c55bcca116,逆さ,さかさ,sakasa,reverse; inversion; upside down,N2,adj-no; adj-na; n,1226970,,彼はボールペンを逆さに持った。,He held a ball-point by the wrong end.
 6ed672fd0b,逆さま,さかさま,sakasama,inversion; upside down,N2,adj-na; adj-no; n,1593650,,その絵は逆さまにかかっている。,The picture is hung upside down.
 c3429126c5,捜す,さがす,sagasu,to search; to seek; to look for,N2,v5s; vt,1593670,,警察は行方不明の少年を捜した。,The police searched for the lost boy.
-8f250cbe55,遡る,さかのぼる,sakanoboru,to go back; to go upstream; to make retroactive,N2,v5r; vi,1397830,,その教会は１１７３年までさかのぼる。,The church dates back to 1173.
+8f250cbe55,遡る,さかのぼる,sakanoboru,to go back; to go upstream; to make retroactive,N2,v5r; vi,1397830,さかのぼる,その教会は１１７３年までさかのぼる。,The church dates back to 1173.
 bb828438c9,酒場,さかば,sakaba,bar; bar-room,N2,n,1329110,,彼はその酒場で歯医者に成りすましていた。,He posed as a dentist at that bar.
 eee75b5abd,さきおととい,さきおととい,sakiototoi,two days before yesterday,N2,n; adv,1576030,一昨昨日,,
 9ceb4a9826,先程,さきほど,sakihodo,some time ago,N2,n; adv,1388170,,つい先ほど君のお父さんに会いました。,I met your father just now.
@@ -852,7 +852,7 @@ aac375dbab,清む,すむ,sumu,"to become clear (water, air, etc.); to become tra
 c55109ac27,ずらす,ずらす,zurasu,to put off; to delay,N2,v5s; vt,1006420,,ちょっと椅子をずらしてくれない？,Could you move the chair a bit?
 40e9454453,ずらり,ずらり,zurari,in a row; in a line,N2,adv-to; adv,2008600,,玄関に靴がずらりと並んでいたな。,Shoes were lined up in the doorway.
 f3d6da3eed,刷る,する,suru,to print,N2,v5r; vt,1298670,,私達は招待状を５０通刷りました。,We ran off 50 copies of the invitation.
-94fac8560c,狡い,ずるい,zurui,sly; cunning,N2,adj-i,1569240,,狐は他のどんな動物よりもずるいということだ。,It is said that the fox is more cunning than any other animal.
+94fac8560c,ずるい,ずるい,zurui,sly; cunning,N2,adj-i,1569240,,ずるいとか、思わないの？,Do you not think that's unfair?
 10cea4e1dc,すれちがう,すれちがう,surechigau,to pass by one another; to disagree,N2,v5u; vi,1595920,すれ違う,きのう銀座でロバートとすれ違ったよ。,Yesterday I nearly ran into Robert in Ginza.
 67d18b4d8e,ずれる,ずれる,zureru,to slide; to slip off; to deviate; to be out of alignment,N2,v1; vi,1006460,,ピントがズレている。,That's a little out of focus.
 afeacab67a,寸法,すんぽう,sunpou,measurement; size; dimension,N2,n,1373810,,あなたの寸法を計るのを許して下さい。,Please allow me to measure you.
@@ -941,6 +941,7 @@ d11bb9a972,そのため,そのため,sonotame,hence; for that reason,N2,exp,1006
 84fe109bdf,そのほか,そのほか,sonohoka,otherwise,N2,exp; n; adj-no,1006900,その外,私はその他の計画を思い付かない。,I can't think of any other plan.
 5f30ae15e7,蕎麦,そば,soba,soba (buckwheat noodles),N2,n,1238460,,そばはそば粉から、うどんやきしめんは普通の小麦粉からできてるの。,"Soba is made of buckwheat flour, and udon and kishimen are made of plain wheat flour."
 31df50f399,剃る,そる,soru,to shave,N2,v5r; vt,1581900,,お父さんがバスルームでひげを剃っている。,Dad is shaving in the bathroom.
+259d5a49a9,反る,そる,soru,to warp; to be warped; to curve,N2,v5r; vi,1480170,,,
 033919f239,それなのに,それなのに,sorenanoni,and yet; despite this; but even so; but even then,N2,conj,2055520,,彼は帰ってくると約束した。それなのに帰ってこなかった。,He promised to return and yet he didn't.
 a29550babf,逸れる,それる,soreru,to stray (turn) from subject; to get lost; to go astray,N2,v1; vi,1576360,,本題からそれないようにしましょう。,Let's not deviate from the subject.
 1e7604b6ba,揃う,そろう,sorou,to become complete; to be equal; to be all present; to gather,N2,v5u; vi,1406110,,この手袋は両方がそろっていない。,Their gloves are not in pairs.
@@ -982,7 +983,6 @@ c507f2dcab,耕す,たがやす,tagayasu,to till; to plow; to cultivate,N2,v5s; v
 9530f79308,蓄える,たくわえる,takuwaeru,to store; to lay in stock,N2,v1; vt,1596860,,干し草を納屋に蓄えた。,We stored the hay in the barn.
 36867e1153,竹,たけ,take,bamboo; middle (of a three-tier ranking system),N2,n,1422230,,林に竹が目立つ。,Bamboo stands out in the woods.
 9cae12b7c2,助かる,たすかる,tasukaru,to be saved; to be rescued; to survive; to be helpful,N2,v5r; vi,1344380,,もう助からないものと観念した。,I gave up all hope of survival.
-7c1c73155b,只,ただ,tada,free of charge; mere; sole; only; usual; common,N2,adj-no; n,1538900,,かれは空威張りしてる、ただの香具師です。,He's just a bluffing charlatan.
 a9b5d114ca,但し,ただし,tadashi,but; however; provided that,N2,conj,1416190,,ただし、列をつくって並ばなくてはならないが・・・。,"However, you have to queue..."
 bb017f90d6,畳む,たたむ,tatamu,to fold (clothes),N2,v5m; vt,1356780,,彼女はハンカチをきちんと畳んだ。,She folded her handkerchief neatly.
 3c101a9435,立ち止まる,たちどまる,tachidomaru,to stop; to halt; to stand still,N2,v5r; vi,1551350,,彼は立ち止まってポスターをのぞき込んだ。,He paused to look at the poster.
@@ -1282,6 +1282,7 @@ c49779952e,覗く,のぞく,nozoku,to peep in; to look in; to peek in; to stick 
 f7a5a8fcab,延ばす,のばす,nobasu,to lengthen; to stretch; to reach out; to grow (beard),N2,v5s; vt,1600290,,その仕事を明日まで延ばすな。,Don't put off the work till tomorrow.
 3eb9301644,延びる,のびる,nobiru,to be prolonged,N2,v1; vi,1358870,,道路はここから北へ延びている。,The road goes north from here.
 bb2a3aed5d,上り,のぼり,nobori,up-train (going to Tokyo); ascent,N2,n,1352510,,道はここからゆるやかな上りだ。,The road ascends gently here.
+ca7d4e8426,上る,のぼる,noboru,to ascend; to go up; to climb,N2,v5r; vi,1352570,,損失は１００万ドル以上にのぼる。,The loss adds up to more than one million dollars.
 8098fd19b1,糊,のり,nori,paste; starch,N2,n,1267400,,彼はメモをドアに糊で貼った。,He pasted the notice on the door.
 c10303493a,乗換,のりかえ,norikae,"transfer (trains, buses, etc.)",N2,n; vs; vi,1600460,乗り換え,途中で乗り換えが必要ですか。,Is it necessary to change trains along the way?
 fddd03dc5c,載る,のる,noru,to appear (in print); to be recorded,N2,v5r; vi,2649690,,朝日新聞にはそのニュースは載っていない。,The Asahi Shimbun did not carry that news.
@@ -1294,7 +1295,7 @@ c0da086fcb,売店,ばいてん,baiten,shop; stand,N2,n,1474040,,アイスクリ�
 192231173e,売買,ばいばい,baibai,trade; buying and selling,N2,n; vs; vt,1474050,,彼は革製品の売買をしている。,He buys and sells leather goods.
 c9e8c0c717,這う,はう,hau,to creep; to crawl,N2,v5u; vi,1474200,,赤ちゃんは部屋に這ってきた。,The baby crept into the room.
 0d38dcb15b,生える,はえる,haeru,to grow; to spring up; to cut (teeth),N2,v1; vi,1378490,,この子は今歯が生えかけているところです。,This child is teething now.
-61ed75f466,剥がす,はがす,hagasu,to tear off; to peel off; to rip off,N2,v5s; vt,1600670,,彼女は窓からステッカーを引き剥がした。,She tore away the stickers from the window.
+61ed75f466,はがす,はがす,hagasu,to tear off; to peel off; to rip off,N2,v5s; vt,1600670,剥がす,彼女は窓からステッカーを引き剥がした。,She tore away the stickers from the window.
 1d12a649ce,ばからしい,ばからしい,bakarashii,absurd,N2,adj-i,1612910,馬鹿らしい,彼女は馬鹿らしい質問をされていらいらした。,She got rattled by the stupid question.
 9d9cfcda72,秤,はかり,hakari,scales; weighing machine,N2,n,1474220,,このはかりであなたの荷物を量っていいですよ。,You can weigh your baggage in this balance.
 ae280779f0,測る,はかる,hakaru,to measure; to weigh; to survey,N2,v5r; vt,1600650,,われわれはその川の深さを測った。,We measured the depth of the river.
@@ -1561,7 +1562,7 @@ ec0dc25400,真っ暗,まっくら,makkura,total darkness; shortsightedness; pitc
 a8392b4138,祭る,まつる,matsuru,to deify; to enshrine,N2,v5r; vt,1295250,,この記念碑は祖国に命を捧げた兵士を祭っている。,This monument is dedicated to the soldiers who gave their lives to their country.
 8c71b2d8dc,窓口,まどぐち,madoguchi,ticket window,N2,n,1401420,,トラベラーズチェックを現金に替えてくれるのはこの窓口ですか。,Is this the right window for cashing travelers' checks?
 929b330442,纏まる,まとまる,matomaru,to be collected; to be settled; to be in order,N2,v5r; vi,1611640,,よし、これで取引はまとまった。,All right. It's a deal.
-270c29cab7,纏める,まとめる,matomeru,to put in order; to collect; to bring to a conclusion,N2,v1; vt,1440930,,データはまだまとめていません。,The data hasn't been compiled yet.
+270c29cab7,まとめる,まとめる,matomeru,to put in order; to collect; to bring to a conclusion,N2,v1; vt,1440930,,クラスをまとめるのが君の役目だ。,It is your responsibility to bring the class together.
 d786baf9ce,真似る,まねる,maneru,to mimic; to imitate,N2,v1; vt,1363760,,オウムは人の声を真似ることができる。,A parrot can mimic a person's voice.
 3b1a3c27ee,まぶしい,まぶしい,mabushii,dazzling; radiant,N2,adj-i,1569790,眩しい,太陽がまぶしい。,My eyes are dazzled by the sun.
 5cf71aab8a,まぶた,まぶた,mabuta,eyelids,N2,n,1569920,瞼,彼は眠くて瞼が重かった。,His eyes were heavy with sleep.
@@ -1709,7 +1710,7 @@ f26561e17b,要旨,ようし,youshi,gist; essentials; summary; fundamentals,N2,n,
 40481ab25c,洋品店,ようひんてん,youhinten,shop which handles Western-style apparel and accessories,N2,n,1794470,,,
 f9ea0cc185,養分,ようぶん,youbun,nourishment; nutrient,N2,n,1662130,,,
 4977d2381f,羊毛,ようもう,youmou,wool,N2,n; adj-no,1546530,,オーストラリアは多くの羊毛を輸出している。,Australia exports a lot of wool.
-84096d1b94,漸く,ようやく,youyaku,gradually; finally; hardly,N2,adv,1394600,,「そっか」ウィリーはようやく納得した。,"""Well, OK,"" Willie finally agreed."
+84096d1b94,ようやく,ようやく,youyaku,gradually; finally; hardly,N2,adv,1394600,,彼はようやく試してみることにした。,He finally decided to try.
 ba3c545884,要領,ようりょう,youryou,point; gist; essentials; outline,N2,n,1546850,,この報告書は要領をえていない。,This report isn't to the point.
 b7af843a7d,欲張り,よくばり,yokubari,avarice; covetousness; greed,N2,n; adj-na,1547390,,持てば持つほど、欲張りになる。,"The more you have, the more you want."
 a941e4dd4a,余計,よけい,yokei,too much; unnecessary; abundance; surplus; excess; superfluity,N2,adj-na,1544090,,こんな余計な機能なんでつけたんだろう。,What did they add this needless function for?
@@ -1723,7 +1724,7 @@ a0b0016c62,酔っ払い,よっぱらい,yopparai,drunkard,N2,n,1372660,,酔っ�
 9784a67500,呼び掛ける,よびかける,yobikakeru,to call out to; to accost; to address (crowd); to appeal,N2,v1; vt,1266280,,警官はすりに対する注意を呼びかけた。,The policeman called attention to the problem of pickpockets.
 8c5d29346f,呼び出す,よびだす,yobidasu,to summon; to call (e.g. phone),N2,v5s; vt,1266350,,どうぞ彼を電話口に呼び出してください。,Please call him to the telephone.
 369ccb3349,蘇る,よみがえる,yomigaeru,to be resurrected; to be revived; to be resuscitated; to be rehabilitated,N2,v5r; vi,1606020,,春の雨が花に生気をよみがえらせた。,A spring rain revived the flower.
-7b53295093,因る,よる,yoru,to come from,N2,v5r; vi,1168660,,造られたもので、この方によらずできたものは一つもない。,Without him nothing was made that has been made.
+7b53295093,よる,よる,yoru,to come from,N2,v5r; vi,1168660,,,
 2c59eb6f09,来日,らいにち,rainichi,arrival in Japan; coming to Japan; visit to Japan,N2,n; vs; vi,1548200,,ボブがいつ来日したか分からない。,I don't know when Bob came to Japan.
 568a6ac1e7,落第,らくだい,rakudai,failure; dropping out of a class,N2,n; vs; vi,1548810,,彼はいつも遊んでいたため落第した。,He failed by playing all the time.
 84946c82e2,ラッシュアワー,ラッシュアワー,rasshuawaa,rush hour,N2,n,1139190,,ラッシュアワーの交通渋滞にあった。,I was caught in the rush hour.
