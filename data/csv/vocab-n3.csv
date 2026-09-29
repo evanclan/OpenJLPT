@@ -15,11 +15,11 @@ b32e523015,明らか,あきらか,akiraka,obvious; evident; clear,N3,adj-na,1532
 2d5b06d1fa,飽きる,あきる,akiru,to get tired of; to lose interest in; to have enough,N3,v1; suf; vi,1586250,,息子はハンバーガーにあきています。,My son is tired of hamburgers.
 6312892cc5,握手,あくしゅ,akushu,handshake,N3,n; vs; vi,1152730,,彼は友人と握手した。,He shook hands with his friend.
 6bec104564,悪魔,あくま,akuma,devil; demon; evil spirit,N3,n,1152510,,悪魔がやってくるかもしれないよ。,The Devil may come.
-5b9f9fdc86,明ける,あける,akeru,to dawn; to become daylight,N3,v1; vi,1202450,,次の土曜日の午後は空けておいてください。,Please leave next Saturday afternoon free.
+5b9f9fdc86,明ける,あける,akeru,to dawn; to become daylight,N3,v1; vi,1202450,,夜が明ける。,Day breaks.
 9092a33de5,預ける,あずける,azukeru,to give into custody; to entrust; to deposit,N3,v1; vt,1544990,,銀行にそのお金を預けてください。,Please deposit the money in a bank.
 7d653ddf51,汗,あせ,ase,sweat; perspiration,N3,n,1213060,,額の汗をふきなさい。,Wipe the sweat from your brow.
 264ec34f18,与える,あたえる,ataeru,to give; to present; to award,N3,v1; vt,1544730,,彼は娘にたくさんのお金を与えた。,He gave his daughter quite a lot of money.
-a0ea038f9b,辺り,あたり,atari,vicinity; nearby,N3,n; n-suf; adv,1512080,,彼の家は４番街のあたりにある。,His house is somewhere about Fourth Street.
+a0ea038f9b,辺り,あたり,atari,vicinity; nearby,N3,n; n-suf; adv,1512080,,昔この辺りにホテルがあったんだ。,There used to be a hotel about here.
 0c74b17f50,当たる,あたる,ataru,to be hit; to be successful; to be equivalent to,N3,v5r; vi,1448810,,不思議な話だが、彼の予言は当たった。,"Strange to say, his prediction has come true."
 66c159592d,あちこち,あちこち,achikochi,here and there,N3,pn; adv; vs,1612620,彼方此方,本が部屋のあちこちに散らばっていた。,There were books lying about the room.
 e8c795d3e8,あっ,あっ,a,Ah!; Oh!,N3,int,2394370,,,
@@ -31,7 +31,7 @@ bd36844c24,当てる,あてる,ateru,to hit; to apply a patch,N3,v1; vt,1448860,
 064aac92d9,油,あぶら,abura,oil,N3,n,1538590,,私の服は油で汚れていた。,My clothes were dirty with oil.
 8399cefa4f,誤り,あやまり,ayamari,error,N3,n,1271290,,私の誤りは彼の怒りを招いた。,My mistake incurred his anger.
 c461dcc42b,粗,あら,ara,defect; flaw; blemish; weak point,N3,n,1586730,,あら、アンジェラと呼んでください。,"Oh, please call me Angela."
-6c564bf1bd,嵐,あらし,arashi,storm; tempest,N3,n,1549340,,あらしは２日間吹きまくった。,The storm blew for two days.
+6c564bf1bd,嵐,あらし,arashi,storm; tempest,N3,n,1549340,,この風は嵐の印だ。,This wind is a sign of a storm.
 69209e023f,新た,あらた,arata,new; fresh; novel,N3,adj-na,1361510,,明日はまた新たな日がやってくる。,Tomorrow is another day.
 50edc9f158,あらゆる,あらゆる,arayuru,all; every,N3,adj-pn,1586780,凡ゆる,あらゆるものに限界がある。,There is a limit to everything.
 94e6dfb59c,現す,あらわす,arawasu,to show; to indicate; to display,N3,v5s; vt,1263490,,＆のマークはａｎｄの文字を表す。,"The sign ""&"" stands for ""and""."
@@ -44,7 +44,7 @@ b7185fc1f0,或,ある,aru,a certain...; some...,N3,adj-pn,1586840,或る,ある�
 13fdb782fe,アルバム,アルバム,arubamu,album,N3,n,1019450,,彼は私にアルバムを見せてくれた。,He showed me his photograph album.
 f1869f9942,泡,あわ,awa,bubble; foam; froth; head on beer,N3,n,1517510,,くだける波が泡を作った。,The breaking waves formed foam.
 458adfb568,合わせる,あわせる,awaseru,to join together; to be opposite; to face; to unite,N3,v1; vt,1284480,,あなたの計画を私に合わせなさい。,Your plan must fit in with mine.
-e9d213fb20,哀れ,あわれ,aware,helpless; pity; sorrow; grief,N3,n,1150110,,彼は神にあわれな少女を助けてくださいと祈った。,He prayed to God to help the poor girl.
+e9d213fb20,哀れ,あわれ,aware,helpless; pity; sorrow; grief,N3,n,1150110,,彼女は哀れを誘う有様だった。,She was in a piteous state.
 55bea4f5f3,案,あん,an,plan; suffix meaning draft,N3,n; n-suf,1154770,,彼の友達はみんな彼の案を支持した。,All his friends backed his plan.
 1e8e1ca3dc,暗記,あんき,anki,memorization; learning by heart,N3,n; vs; vt,1586910,,彼はその会話を暗記しようとした。,He tried to memorize the conversation.
 7a5bf31b8a,安定,あんてい,antei,stability; equilibrium,N3,n; vs; vi,1154120,,今日の政治状況はそれほど安定していない。,The current political situation is not very stable.
@@ -85,22 +85,22 @@ cfaaf0ad82,一度に,いちどに,ichidoni,all at once,N3,adv,1609210,,一度に
 f0b3458a80,一種,いっしゅ,isshu,a species; a kind; a variety,N3,n,1163170,,記事の論調は一種の悲観論だった。,The article's tone was one of pessimism.
 fc1d99931b,一瞬,いっしゅん,isshun,a moment; an instant,N3,n; adv,1163340,,それは私にとってはらはらする一瞬だった。,It was a nervous moment for me.
 e21a9f62b7,一生,いっしょう,isshou,whole life; a lifetime; all through life,N3,n; adj-no; adv,1576200,,あなたは、一生勉強しなければならない。,You must study your whole life.
-78ee271a60,一層,いっそう,issou,much more; still more; all the more,N3,adv,1164340,,今まで以上にいっそう勉強に励みなさい。,You should study even more than before.
-9a184ecb80,一体,いったい,ittai,one object; one body; what on earth?; really?; generally,N3,adv,1164510,,いったいなぜ彼を駅に連れて行ったの？,Why on earth did you take him to the station?
+78ee271a60,一層,いっそう,issou,much more; still more; all the more,N3,adv,1164340,,君が一緒だったおかげで休日がいっそう楽しめた。,I enjoyed the holiday all the better for being with you.
+9a184ecb80,一体,いったい,ittai,one object; one body; what on earth?; really?; generally,N3,adv,1164510,,一体どこで彼に会ったんだ。,Where on earth did you meet him?
 10f3cfd7c0,一致,いっち,itchi,coincidence; agreement; conformity,N3,n; vs; vi,1164740,,彼は言葉と行動が一致していない。,His actions do not correspond with his words.
 8b9b33028c,いつでも,いつでも,itsudemo,(at) any time; always; at all times; never (neg),N3,adv,1577130,何時でも,私はいつでも喜んでお手伝いします。,I am always ready to help you.
 b65151eaec,一般,いっぱん,ippan,general; liberal; universal; ordinary; average,N3,adj-no; n,1165790,,その理論はまだ一般に認められていない。,The theory is not accepted yet.
 25664c20f9,一方,いっぽう,ippou,on the other hand; meanwhile; only; simple; in turn,N3,conj,1166510,,一方は赤で、また一方は白である。,One is red and the other is white.
 ff86f2105c,いつまでも,いつまでも,itsumademo,forever; for good; eternally; as long as one likes; indefinitely,N3,adv,1188880,何時までも,私はいつまでも彼の名を覚えている。,I still bear his name in mind.
 3fec9b37a7,移動,いどう,idou,removal; migration; movement,N3,n; vs; vt; vi,1158400,,彼らはあちこちへと移動してきます。,They move from place to place.
-3485a5b479,従兄弟,いとこ,itoko,cousin (male),N3,n,1335290,,私はいとこから１０００円借りた。,"I borrowed 1,000 yen from my cousin."
+3485a5b479,従兄弟,いとこ,itoko,cousin (male),N3,n,1335290,,彼は私の兄ではなくて、いとこである。,He isn't my brother. He's my cousin.
 f034b79d36,稲,いね,ine,rice-plant,N3,n,1167820,,稲は雨の多い地域で作られる。,Rice is grown in rainy regions.
 19f535bb08,居眠り,いねむり,inemuri,dozing; nodding off,N3,n; vs; vi,1231890,,授業中に居眠りすることは許しません。,I do not allow sleeping in class.
 c84ab5b83d,命,いのち,inochi,command; decree; life; destiny,N3,n,1531940,,その犬は少女の命を救った。,The dog saved the girl's life.
 dc23b8e07b,違反,いはん,ihan,violation (of law); transgression; infringement; breach,N3,n; vs; vi,1158950,,それはルール違反です。,It's against the rules.
 fcdd7c0d87,衣服,いふく,ifuku,clothes,N3,n,1158810,,彼らは衣服をほとんど着用しない。,They wear very little clothing.
 da1e1e97a8,居間,いま,ima,living room (western style),N3,n,1231720,,彼らは居間でお茶を飲んでいます。,They are having tea in the living room.
-207f712b62,今に,いまに,imani,before long; even now,N3,adv,1288940,,いまに誰も相手にしてくれなくなるよ。,Soon nobody will have anything to do with you.
+207f712b62,今に,いまに,imani,before long; even now,N3,adv,1288940,,彼は今にひとかどの人物になるよ。,I'm sure he's going to be somebody someday.
 8e8763b3a8,今にも,いまにも,imanimo,at any time; soon,N3,adv,1288950,,トムは今にもここに来るはずです。,Tom should be here any minute.
 15d4ea5f82,否,いや,iya,no; the noes,N3,int,2857380,,「今日の新聞にいいニュース何かある？」「いや、特にないね」,"""Any good news in today's paper?"" ""No, nothing in particular."""
 b96dc58373,以来,いらい,irai,since; henceforth,N3,n-suf,1155210,,１９８８年以来トムに会っていません。,I haven't seen Tom since 1988.
@@ -111,7 +111,7 @@ b96dc58373,以来,いらい,irai,since; henceforth,N3,n-suf,1155210,,１９８�
 35b6339af7,岩,いわ,iwa,rock; crag,N3,n,1217270,,この岩は何に似ていますか。,What does this rock look like?
 474dad1005,祝い,いわい,iwai,celebration; festival,N3,n,1337370,,私は彼の卒業祝いに電報を打った。,I wired him a message of congratulation on his graduation.
 0b8faff812,祝う,いわう,iwau,to congratulate; to celebrate,N3,v5u; vt,1337390,,今年タイ航空は５０周年記念を祝います。,Thai Air celebrates its 50th anniversary this year.
-54d52e6958,言わば,いわば,iwaba,so to speak,N3,adv,1264380,,その画家は、いわば永遠の少年だ。,The artist is eternally a boy.
+54d52e6958,言わば,いわば,iwaba,so to speak,N3,adv,1264380,,この犬は言わばうちの家族の一員だ。,"This dog is, so to speak, a member of our family."
 92270be892,いわゆる,いわゆる,iwayuru,the so-called; so to speak,N3,adj-pn,1343150,所謂,これがいわゆる「天ぷら」というものです。,"This is what we call ""tempura""."
 753c588c58,インク,インク,inku,ink,N3,n,1022210,,あなたの名前はインクで書かなければならない。,You must write your name in ink.
 c943d4f77a,印刷,いんさつ,insatsu,printing,N3,n; vs; vt,1168190,,そのニュースは急いで印刷された。,The news was rushed into print.
@@ -130,9 +130,9 @@ c06233b95e,牛,うし,ushi,cattle; cow,N3,n,1231490,,彼は市場に出す牛を
 2594292c24,宇宙,うちゅう,uchuu,universe; cosmos; space,N3,n,1171300,,宇宙には限りはない。,There is no limit to the universe.
 215cb207d4,撃つ,うつ,utsu,to attack; to defeat; to destroy,N3,v5t; vt,1478010,,,
 2d11008b0c,移す,うつす,utsusu,to remove; to transfer; to infect,N3,v5s; vt,1158160,,知っていることと行動に移すことは別だ。,"To know is one thing, and to do is another."
-e729fb355f,訴える,うったえる,uttaeru,to sue (a person); to resort to; to appeal to,N3,v1; vt,1397720,,彼はぬすみでうったえられた。,He was accused of theft.
+e729fb355f,訴える,うったえる,uttaeru,to sue (a person); to resort to; to appeal to,N3,v1; vt,1397720,,その中年の男は暴行のかどで訴えられた。,The middle aged man was charged with assault.
 5e53fbc57d,うなる,うなる,unaru,to groan; to moan,N3,v5r; vi,1565300,唸る,その犬は小さな男の子に向かって唸った。,The dog growled at a little boy.
-92871301e1,奪う,うばう,ubau,to snatch away,N3,v5u; vt,1416340,,台風が多くの生命をうばった。,The typhoon claimed many lives.
+92871301e1,奪う,うばう,ubau,to snatch away,N3,v5u; vt,1416340,,その男が私の財布を奪った。,The man robbed me of my purse.
 a8a4d2c95f,馬,うま,uma,horse; promoted bishop (shogi),N3,n,1471560,,馬に乗ることができますか？,Can you ride a horse?
 1af1b6c3ed,生まれ,うまれ,umare,birth; birth-place,N3,n,1609350,,私は生まれも育ちも東京だ。,I was born and raised in Tokyo.
 8320d2162f,梅,うめ,ume,plum; plum-tree; lowest (of a three-tier ranking system),N3,n,1473460,,梅の花は今週が見頃です。,The plum blossoms are at their best this week.
@@ -144,12 +144,12 @@ ed41514a67,売れる,うれる,ureru,to be sold,N3,v1; vi,1473960,,彼の新し�
 2306950c03,柄,え,e,handle; grip,N3,n,1508290,,え、そうですとも。,"Yes, that is most certainly so."
 881624f8c3,永遠,えいえん,eien,eternity; perpetuity; immortality; permanence,N3,n; adj-no; adj-na,1174070,,その画家は、いわば永遠の少年だ。,The artist is eternally a boy.
 c1aeb94b13,永久,えいきゅう,eikyuu,eternity; perpetuity; immortality,N3,n; adj-na; adj-no,1576520,,彼は永久に日本を離れた。,He left Japan for good.
-ef5af5c903,影響,えいきょう,eikyou,influence; effect,N3,n; vs; vi,1173660,,彼らはあなたのアドバイスを聞き入れないだろう。,Your advice will have no effect on them.
+ef5af5c903,影響,えいきょう,eikyou,influence; effect,N3,n; vs; vi,1173660,,このデザインには中国の影響がみられる。,This design shows Chinese influence.
 b43c2524a1,営業,えいぎょう,eigyou,business; trade; management,N3,n; vs; vt,1173430,,営業の者と話をしてみました。,I talked with our sales people.
 c9a230646c,衛星,えいせい,eisei,satellite,N3,n,1174760,,衛星は今軌道に乗っている。,The satellite is now in orbit.
 8d4e493846,栄養,えいよう,eiyou,nutrition; nourishment,N3,n,1173990,,この魚は安くてしかも栄養がある。,This fish is inexpensive but nourishing.
 c74bb9a118,笑顔,えがお,egao,smiling face,N3,n,1351400,,彼女の笑顔が感謝の気持ちを表した。,Her smile expressed her thanks.
-a359eccfaf,描く,えがく,egaku,to draw; to paint; to sketch; to depict; to describe,N3,v5k; vt,1583460,,その絵はピカソによってかかれた。,The picture was painted by Picasso.
+a359eccfaf,描く,えがく,egaku,to draw; to paint; to sketch; to depict; to describe,N3,v5k; vt,1583460,,やっと絵を描き終えた。,"Finally, I finished a painting."
 35c17c9820,餌,えさ,esa,feed; bait,N3,n,1173340,,犬に毎日えさをあげてください。,Please feed the dog every day.
 e06f642257,エネルギー,エネルギー,enerugii,energy (de: Energie),N3,n,1029430,,熱はエネルギーの一種である。,Heat is a form of energy.
 8c4965a193,得る,える,eru,to get; to gain; to win,N3,v1; vt,1588760,,１０チームが賞を得ようと争った。,Ten teams competed for the prize.
@@ -160,7 +160,7 @@ cc5a9c3372,援助,えんじょ,enjo,assistance; aid; support,N3,n; vs; vt,117666
 bea34c67cd,エンジン,エンジン,enjin,engine,N3,n,1030950,,そのエンジンは蒸気で動く。,The engine is driven by steam.
 33abea1364,演説,えんぜつ,enzetsu,speech; address,N3,n; vs; vi,1176960,,彼女たちの演説はすばらしかった。,Her speech was excellent.
 ec9c550d48,演奏,えんそう,ensou,musical performance,N3,n; vs; vt,1607520,,演奏は終わりかけていた。,The performance was almost over.
-9c851c43f7,御,お,o,honourable,N3,pref,2826528,,お、タエ、このチーズいけるよ。,"Oh, Tae, this cheese is a winner!"
+9c851c43f7,御,お,o,honourable,N3,pref,2826528,,果物を御自由に取ってお食べください。,Please help yourself to the fruit.
 5dfe972116,老い,おい,oi,old age; old person; the old; the aged,N3,n,1643510,,少年老い易く学成り難し。,"Art is long, time is fleeting."
 6d74c09476,追い付く,おいつく,oitsuku,to overtake; to catch up (with),N3,v5k; vi,1588810,,トムに追いつくために走らなければならなかった。,I had to run to catch up with Tom.
 e0e4e819c0,王,おう,ou,king; ruler; sovereign; monarch,N3,n; n-suf,1629200,,彼らは王の殺害をたくらんでいる。,They are plotting to kill the king.
@@ -171,7 +171,7 @@ a2eee93db1,追う,おう,ou,to chase; to run after,N3,v5u; vt,1432410,,今日は
 d41f9ccc20,横断,おうだん,oudan,crossing,N3,n; vs; vi,1180900,,彼はヨットで太平洋を横断した。,He crossed the Pacific Ocean in a sailboat.
 4f56ad3962,終える,おえる,oeru,to finish,N3,v1; vt,1332760,,その仕事をもう終えましたか。,Are you through with the work?
 3f4f5fb76e,大いに,おおいに,ooini,very; much; greatly,N3,adv,1412880,,私は彼を大いに尊敬しています。,I have a great regard for him.
-cc4511a68f,覆う,おおう,oou,to cover; to hide; to conceal; to wrap; to disguise,N3,v5u; vt,1588840,,山の頂上は新雪でおおわれている。,The summit of the mountain is covered with fresh snow.
+cc4511a68f,覆う,おおう,oou,to cover; to hide; to conceal; to wrap; to disguise,N3,v5u; vt,1588840,,机はほこりで覆われている。,The desk is covered with dust.
 b4340dadc2,オーバー,オーバー,oobaa,overcoat; over,N3,n,1032390,,あなたはオーバーなしですますつもりですか。,Do you mean to do without an overcoat?
 8cb1bad29a,大家,おおや,ooya,rich family; distinguished family,N3,n,1413140,,その大家は以前は暮らし向きがよかったそうだ。,They say the landlord used to be well off.
 e2608de7eb,丘,おか,oka,hill; height; knoll; rising ground,N3,n,1588920,,その丘は見晴らしがよい。,The hill commands a fine view.
@@ -203,20 +203,20 @@ e931649d18,おまえ,おまえ,omae,(fam) you (sing); presence (of a high person
 7942f6b1d6,思わず,おもわず,omowazu,unintentional; spontaneous,N3,adv,1309460,,彼は思わず笑った。,He laughed in spite of himself.
 009c03bfe9,泳ぎ,およぎ,oyogi,swimming,N3,n,1613570,,このごろは子供は学校で泳ぎを習う。,Children learn to swim in school today.
 ed0978af53,およそ,およそ,oyoso,about; roughly; as a rule; approximately,N3,adv,1523450,凡そ,およそどれくらいの価値がありますか。,What's their approximate worth?
-0b4ca53eb6,及ぼす,およぼす,oyobosu,to exert; to cause; to exercise,N3,v5s; vt,1228180,,彼らはあなたのアドバイスを聞き入れないだろう。,Your advice will have no effect on them.
+0b4ca53eb6,及ぼす,およぼす,oyobosu,to exert; to cause; to exercise,N3,v5s; vt,1228180,,あなたに被害を及ぼそうなどとは夢にも思いませんでした。,Little did I dream of doing you any harm.
 9438889173,居る,おる,oru,to be (animate); to be; to exist,N3,v5r; vi,1577985,,おかげで元気にしております。,"They're all fine, thank you."
 8b7b4e5162,下す,おろす,orosu,to lower; to let go down,N3,v5s; vt,1589580,,銀行で１０万下ろしてください。,Please draw a hundred thousand yen from the bank.
-23538b01de,降ろす,おろす,orosu,to take down; to launch; to drop,N3,v5s; vt,1589580,,銀行で１０万下ろしてください。,Please draw a hundred thousand yen from the bank.
+23538b01de,降ろす,おろす,orosu,to take down; to launch; to drop,N3,v5s; vt,1589580,,あの信号の手前で降ろしてください。,Please let me off on this side of that traffic light.
 0ce645af89,恩,おん,on,favour; obligation; debt of gratitude,N3,n,1183090,,お前は恩を仇で返したな。,You bit the hand that fed you.
 26e15c1ade,音,おん,on,sound; note,N3,n; n-suf,2859161,,音の出る辞書はもはや夢でない。,A talking dictionary is no longer a fantasy.
 d171dfcac5,温暖,おんだん,ondan,warmth,N3,adj-na; n,1183480,,島の天候はとても温暖です。,The island has a mild climate.
 3767dad3d1,温度,おんど,ondo,temperature,N3,n,1183510,,物質は温度によって形を変える。,Matter changes its form according to temperature.
-1ad5c766ea,可,か,ka,passable,N3,n; n-suf,1190710,,そうするなと警告したではないか。,"I warned you not to do so, didn't I?"
-dd3e8e77f0,課,か,ka,counter for chapters (of a book),N3,ctr,1195710,,そうするなと警告したではないか。,"I warned you not to do so, didn't I?"
+1ad5c766ea,可,か,ka,passable,N3,n; n-suf,1190710,,この試験は辞書持ち込み可です。,You can use a dictionary for this exam.
+dd3e8e77f0,課,か,ka,counter for chapters (of a book),N3,ctr,1195710,,１０課から始めましょう。,Let's start with Lesson Ten.
 a80b19470d,カー,カー,kaa,car,N3,n,1036170,,あいつはカーマニアだから、車のことならなんでも知ってるよ。,He's a car nut. Ask him anything.
 c139bcdcb4,カード,カード,kaado,card; curd,N3,n,1036400,,,
-53e1ba680a,会,かい,kai,meeting; assembly; party; association; club,N3,n; n-suf,1198170,,ケンさん、君は本気かい。,"Are you on the level, Ken?"
-d630014a3f,回,かい,kai,counter for occurrences,N3,ctr,1199330,,ケンさん、君は本気かい。,"Are you on the level, Ken?"
+53e1ba680a,会,かい,kai,meeting; assembly; party; association; club,N3,n; n-suf,1198170,,この会の名称はＥ．Ｓ．Ｓ．とする。,This association shall be called the E.S.S.
+d630014a3f,回,かい,kai,counter for occurrences,N3,ctr,1199330,,彼女は週に１回その市場へ行った。,She went to the market once a week.
 43db81a024,害,がい,gai,injury; harm; evil influence; damage,N3,n,1204330,,ワインは本来害にならない。,Wine is not harmful in itself.
 b4863250e1,会員,かいいん,kaiin,member; the membership,N3,n,1198230,,会員は５人に減った。,The number of members decreased to five.
 7f3020dd7b,絵画,かいが,kaiga,picture,N3,n,1202300,,その絵画を見たらおもしろかった。,I found the picture interesting.
@@ -232,11 +232,11 @@ cd41ab95cf,改善,かいぜん,kaizen,betterment; improvement,N3,n; vs; vt; vi,1
 b550808b0f,快適,かいてき,kaiteki,pleasant; agreeable; comfortable,N3,adj-na; n,1200120,,私達は新居で快適に暮らしています。,We are comfortable in our new house.
 3af04ce9d1,回復,かいふく,kaifuku,recovery (from illness); improvement; rehabilitation; restoration,N3,n; vs; vt; vi,1199720,,回復はほとんど不可能だった。,Recovery was almost impossible.
 fc5f82cc4d,飼う,かう,kau,to keep; to raise; to feed,N3,v5u; vt,1312970,,ナンシーは犬を飼いたがっていますか。,Does Nancy want to have a dog?
-2f3ce71d72,換える,かえる,kaeru,to exchange; to interchange; to substitute; to replace,N3,v1; vt,1589780,,お花の水を替えましょう。,Shall I change the water for the flowers?
+2f3ce71d72,換える,かえる,kaeru,to exchange; to interchange; to substitute; to replace,N3,v1; vt,1589780,,銀行に行けばその５０ドルの小切手を現金に換えてくれる。,The bank will cash your fifty dollar check.
 33a3172689,替える,かえる,kaeru,to exchange; to interchange; to substitute; to replace,N3,v1; vt,1589780,,お花の水を替えましょう。,Shall I change the water for the flowers?
 533668820b,香り,かおり,kaori,aroma; fragrance; scent; smell,N3,n,1589820,,そのバラはよい香りを発散した。,The roses gave off a nice smell.
 e904c4fcb0,画家,がか,gaka,painter; artist,N3,n,1197120,,その画家は、いわば永遠の少年だ。,The artist is eternally a boy.
-f6d4ab33ef,抱える,かかえる,kakaeru,to hold or carry under or in the arms,N3,v1; vt,1516310,,あわてて荷物をかかえて家に帰ってみたら。,You should grab your bag and hurry home.
+f6d4ab33ef,抱える,かかえる,kakaeru,to hold or carry under or in the arms,N3,v1; vt,1516310,,彼は両手に大きな箱を抱えていた。,He had a big box in his arms.
 5164cf437e,価格,かかく,kakaku,price; value; cost,N3,n,1189500,,彼は価格変更のビラをはり出した。,He put up a notice about the change in price.
 a2838ec535,化学,かがく,kagaku,chemistry,N3,n,1186760,,貴方は、化学を勉強しますか。,Do you study chemistry?
 b3f81ac90b,輝く,かがやく,kagayaku,to shine; to glitter; to sparkle,N3,v5k; vi,1224020,,空には太陽が輝いています。,The sun is shining in the sky.
@@ -261,7 +261,7 @@ b5afc90a96,欠ける,かける,kakeru,to be lacking,N3,v1; vi,1253920,,メアリ
 04e1e7a756,加減,かげん,kagen,addition and subtraction; allowance for,N3,n; vs; vt,1190080,,お肉の焼き加減は、いかがなさいますか？,How would you like your steak cooked?
 0384482e1f,過去,かこ,kako,the past; bygone days; the previous,N3,n; adv; adj-no,1196030,,私はいつまでも過去にこだわらないようにと心がけている。,I try not to dwell on the past.
 ef51ee87ac,籠,かご,kago,basket; cage,N3,n,1590200,,そのかごはリンゴでいっぱいだった。,The basket was full of apples.
-01be08cd64,囲む,かこむ,kakomu,to surround; to encircle,N3,v5m; vt,1155980,,彼は子供達にかこまれてそこに座っていた。,He sat there surrounded by his children.
+01be08cd64,囲む,かこむ,kakomu,to surround; to encircle,N3,v5m; vt,1155980,,彼は生徒達に囲まれて座っていた。,He was sitting surrounded by the students.
 222231aefb,火災,かさい,kasai,conflagration; fire,N3,n,1193880,,火災の理由は何か。,What caused the fire?
 8c7a0c5f8b,菓子,かし,kashi,pastry,N3,n,1195670,,この菓子を自由にお取り下さい。,Please help yourself to these cakes.
 a88999f659,貸し,かし,kashi,loan; lending,N3,n,1411110,,でも、これで１つ貸しだね。,But you're going to owe me one.
@@ -269,11 +269,11 @@ a88999f659,貸し,かし,kashi,loan; lending,N3,n,1411110,,でも、これで１
 d26324d28a,賢い,かしこい,kashikoi,wise; clever; smart,N3,adj-i,1260260,,あなたは何と賢い生徒なのでしょう。,What a clever student you are!
 f554d2951b,歌手,かしゅ,kashu,singer,N3,n,1193290,,その歌手は若者たちのアイドルだ。,That singer is a teenage idol.
 44d7586ff3,数,かず,kazu,number; figure,N3,n,1580820,,旅行者の数が近年大きく増加した。,The number of tourists has increased greatly in recent years.
-d45fe050fc,稼ぐ,かせぐ,kasegu,to earn income; to labor,N3,v5g; vt,1194450,,金をかせぐことが彼の生きがいだ。,Making money is his religion.
+d45fe050fc,稼ぐ,かせぐ,kasegu,to earn income; to labor,N3,v5g; vt,1194450,,私は一日に100ユーロ稼ぎます。,I make 100 euros per day.
 c3b808e41e,数える,かぞえる,kazoeru,to count,N3,v1; vt,1372900,,あの子は２０まで数えられる。,That child can count to twenty.
 1d48dc95a3,型,かた,kata,mold; model; style; shape; data-type,N3,n; n-suf,1250090,,その像は型に入れられて作られた。,The statue was cast in a mold.
 d0f1d715ac,肩,かた,kata,shoulder,N3,n,1258950,,肩が痛い。,I have a pain in the shoulder.
-cae9ac1779,硬い,かたい,katai,"solid; hard (esp. metal, stone); unpolished writing",N3,adj-i,1257110,,このふたは固くて取れないよ。,This lid is too tight for me to open.
+cae9ac1779,硬い,かたい,katai,"solid; hard (esp. metal, stone); unpolished writing",N3,adj-i,1257110,,卵は硬くゆでてください。,Boil the eggs hard.
 d9627ee0f6,方々,かたがた,katagata,persons; this and that; here and there; everywhere,N3,n,1584100,,あの人たちが昨日あなたが会った方々ですか。,Are those the people you saw yesterday?
 26c040c009,刀,かたな,katana,sword; saber; knife; engraving tool,N3,n,1446420,,この刀には不思議ないわれがある。,This sword has a strange history.
 c34db201ec,語る,かたる,kataru,to talk; to tell; to recite,N3,v5r; vt,1270990,,行動は言葉よりも声高く語る。,Actions speak louder than words.
@@ -292,7 +292,7 @@ f7eb9ecbff,必ずしも,かならずしも,kanarazushimo,(not) always; (not) nec
 6bf6a2e393,可能,かのう,kanou,possible; practicable; feasible,N3,adj-na; n,1191060,,男の子へのしつけは可能である。,Boys can be trained to behave.
 562f63004e,株,かぶ,kabu,share; stock; stump (of tree),N3,n; ctr,1208920,,学生間では彼の株が急に上がった。,His stock with the students has soared.
 11ae7695a1,被る,かぶる,kaburu,to suffer,N3,v5r; vt,1484330,,その機械はほこりをかぶっていた。,The machine was coated with dust.
-f55f2622af,我慢,がまん,gaman,patience; endurance; perseverance,N3,n; vs; vt; vi,1196970,,彼は熱さにがまんできなかった。,He couldn't bear the heat.
+f55f2622af,我慢,がまん,gaman,patience; endurance; perseverance,N3,n; vs; vt; vi,1196970,,この寒さは我慢出来ないな。,I can't put up with this cold.
 ed26fceabd,神,かみ,kami,god,N3,n,1364440,,人間は神ほど万能ではない。,Man is not as almighty as God.
 1e21784548,雷,かみなり,kaminari,thunder,N3,n,1585060,,子供達は雷におびえた。,The thunder scared the children.
 1156b71b99,髪の毛,かみのけ,kaminoke,hair (head),N3,exp; n,1477960,,どこで髪の毛を切ったの。,Where did you get your hair cut?
@@ -301,7 +301,7 @@ ed26fceabd,神,かみ,kami,god,N3,n,1364440,,人間は神ほど万能ではな�
 5929a15e3a,火曜,かよう,kayou,(abbr) Tuesday,N3,n,1194280,,火曜の朝までにすべて終えなければならないのです。,We must finish everything before Tuesday morning.
 8ce4616a78,空,から,kara,sky,N3,n; adj-no,1245280,,ほとんど空なのでガソリンを入れなくてはなりません。,"I need to put some gas in the car, as it's almost empty."
 2bbdd79021,刈る,かる,karu,to cut (hair); to mow (grass); to harvest,N3,v5r; vt,1209540,,彼らはジャックの髪の刈り方をひやかした。,They made fun of Jack's haircut.
-5c1b91aae6,河,かわ,kawa,river; stream,N3,n,1390020,,この川はあの川の３倍長い。,This river is three times longer than that one.
+5c1b91aae6,河,かわ,kawa,river; stream,N3,n,1390020,,この河はニューオリンズまで続いている。,This river flows all the way to New Orleans.
 3fcbb04d16,革,かわ,kawa,leather,N3,n,1483805,,くつは革でつくられている。,The shoes are made of leather.
 39baa3eb87,皮,かわ,kawa,skin; hide; leather; fur; pelt; bark; shell,N3,n,1483800,,動物の皮は毛でおおわれている。,The skin of animals is covered with hair.
 9ace958be5,かわいそう,かわいそう,kawaisou,poor; pitiable; pathetic,N3,adj-na; n,1590740,可哀想,私は何匹かのかわいそうな猫が追い出されるのを見た。,I saw some poor cats kicked out.
@@ -363,7 +363,7 @@ a4e6e6b186,きちんと,きちんと,kichinto,precisely; accurately,N3,adv; vs,1
 371182f1b5,寄付,きふ,kifu,contribution; donation,N3,n; vs; vt,1591400,,彼女は赤十字に寄付した。,She contributed to the Red Cross.
 1ce18444af,希望,きぼう,kibou,hope; wish; aspiration,N3,n; vs; vt,1219910,,これが彼のたった一つの希望であった。,This was his one and only hope.
 8de918380d,基本,きほん,kihon,foundation; basis; standard,N3,n; adj-no,1219190,,この基本単語は必ず暗記しなさい。,Don't fail to learn these basic words by heart.
-be0db681fa,決まり,きまり,kimari,settlement; conclusion; regulation; rule,N3,n; adj-no,1609660,,毎日のきまり仕事にはつくづく飽きた。,I am quite tired of daily routine.
+be0db681fa,決まり,きまり,kimari,settlement; conclusion; regulation; rule,N3,n; adj-no,1609660,,学校の決まりは守らないといけないぞ。,You must follow school rules.
 49b6490720,気味,きみ,kimi,-like; -looking; -looked,N3,n,1222640,,その事件には何となく気味の悪いところがあった。,There was something weird about the incident.
 14a3436b7e,奇妙,きみょう,kimyou,strange; queer; curious,N3,adj-na; n,1219490,,これはとても奇妙な手紙です。,This is a very strange letter.
 a7b7b6282f,義務,ぎむ,gimu,duty; obligation; responsibility,N3,n,1225900,,このような義務があるなんて知らなかった。,I never knew about such a duty.
@@ -419,7 +419,7 @@ ba23b13843,金曜,きんよう,kin'you,(abbr) Friday,N3,n,1243310,,彼は月曜�
 44bc159936,句,く,ku,sentence,N3,n; n-suf,1243940,,彼はその句の文字どおりの意味を説明した。,He explained the literal meaning of the phrase.
 291125be1d,食う,くう,kuu,(male) (vulg) to eat,N3,v5u; vt,1592100,,この事業は金を食う。,This job eats money.
 6f97791279,偶然,ぐうぜん,guuzen,(by) chance; unexpectedly; suddenly,N3,adv,1246270,,私は、偶然旧友に会った。,I met an old friend by chance.
-def0fe1435,臭い,くさい,kusai,odour; scent; smell; stench,N3,adj-i,1333150,,彼の言うことはくさい。,I doubt the truth of his statement.
+def0fe1435,臭い,くさい,kusai,odour; scent; smell; stench,N3,adj-i,1333150,,あいつが臭い。,He looks suspicious.
 23dbfc6d80,鎖,くさり,kusari,chain,N3,n,1291730,,ジョージはその犬に鎖をつけた。,George put a chain on the dog.
 af84cff990,腐る,くさる,kusaru,to rot; to go bad,N3,v5r; vi,1497800,,これらのオレンジは腐っている。,These oranges have gone bad.
 0c7a901471,癖,くせ,kuse,a habit (often a bad habit); peculiarity,N3,n,1509350,,その子は悪い癖が直った。,He was cured of his bad habits.
@@ -432,7 +432,7 @@ e67cf76c90,ぐっすり,ぐっすり,gussuri,sound asleep; fast asleep,N3,adv; a
 3fa8d2f8ed,組,くみ,kumi,class; group; team; set,N3,n; n-suf; ctr,1397450,,もうひと組の観光客が到着した。,Another lot of tourists arrived.
 c6607d94a5,組合,くみあい,kumiai,association; union,N3,n,1397620,,組合はデモに参加しましたか。,Did the union participate in the demonstration?
 0a25321a53,組む,くむ,kumu,to put together,N3,v5m; vt; vi,1397590,,私は彼らが腕を組んで歩いているのを見た。,I saw them walking arm in arm.
-39eebded13,位,くらい,kurai,grade; rank; about,N3,n,1155400,,せめて日常会話ができるくらいになりたい。,"At the very least, I'd like to be able to have everyday conversations."
+39eebded13,位,くらい,kurai,grade; rank; about,N3,n,1155400,,５８１４を千の位に四捨五入すれば何になりますか。,What is 5814 rounded to the nearest thousand?
 94d9c6d53a,暮らし,くらし,kurashi,living; livelihood; subsistence; circumstances,N3,n; n-suf,1514930,,もっと良い暮らしができますように。,May God show us a better life!
 42d188d98e,クラシック,クラシック,kurashikku,classic(s),N3,adj-na,1044020,,クラシックはありません。,I don't have any classical music.
 1d220e4cd9,暮らす,くらす,kurasu,to live; to get along,N3,v5s; vi,1514940,,１日１ドルでアメリカで暮らしていけると思いますか。,Do you think you can live on a dollar a day in America?
@@ -505,7 +505,7 @@ a99283c8e3,見当,けんとう,kentou,be found; aim; estimate; guess; approx,N3,
 5df242e3b0,憲法,けんぽう,kenpou,constitution,N3,n,1257590,,私は日本が憲法を守るのを望む。,I hope that Japan will abide by its Constitution.
 ffb1d0e3d2,権利,けんり,kenri,right; privilege,N3,n,1258200,,あなたにはそこに行く権利がない。,You have no right to go there.
 c5b127def2,語,ご,go,language; word,N3,n; n-suf; ctr,1270910,,メキシコではなに語を話すのですか。,What is the language spoken in Mexico?
-a9c92c47c3,濃い,こい,koi,"thick (as of color, liquid); dense; strong",N3,adj-i,1469890,,このスープはまったくこくがない。,This soup has no substance.
+a9c92c47c3,濃い,こい,koi,"thick (as of color, liquid); dense; strong",N3,adj-i,1469890,,血は水よりも濃し。,Blood is thicker than water.
 d53bd6b878,恋,こい,koi,love; tender passion,N3,n,1558670,,それは片思いの恋だった。,It was a one-sided love affair.
 8b106a5072,恋人,こいびと,koibito,lover; sweetheart,N3,n,1558920,,私は恋人を「ダーリン」と呼びます。,I call my sweetheart darling.
 75cd952e9c,幸運,こううん,kouun,good luck; fortune,N3,n; adj-na,1592930,,私達は幸運に小躍りして喜んだ。,We exulted at our good fortune.
@@ -567,7 +567,7 @@ a1093c8201,小麦,こむぎ,komugi,wheat,N3,n,1348630,,この小麦は粉にさ�
 4a11eb5fb4,ごめんなさい,ごめんなさい,gomennasai,I beg your pardon; excuse me,N3,exp,1270680,御免なさい,お話し中、ごめんなさい。,Excuse me for interrupting you.
 050f3bbfac,小屋,こや,koya,hut; cabin; shed; (animal) pen,N3,n,1347830,,遠くに小屋が見えた。,I saw a cottage in the distance.
 e731b88993,これら,これら,korera,these,N3,pn,1004830,此れ等,これらのクッキーは星の形をしている。,These cookies are star-shaped.
-7fa019fe1b,頃,ころ,koro,time; about; toward; approximately (time),N3,n; adv; n-suf,1579080,,あなたは結婚してもよいころだ。,It's about time you got married.
+7fa019fe1b,頃,ころ,koro,time; about; toward; approximately (time),N3,n; adv; n-suf,1579080,,ここへは手紙は正午頃配達される。,Letters are delivered here about noon.
 659d86e5e4,殺す,ころす,korosu,to kill,N3,v5s; vt,1299030,,おまえはオレを殺そうとしている。,You are trying to kill me.
 9c146d3363,転ぶ,ころぶ,korobu,to fall down; to fall over,N3,v5b; vi,1582130,,転んで手首を痛めました。,I fell down and hurt my wrist.
 37bb355b59,今回,こんかい,konkai,now; this time; lately,N3,n; adv,1289070,,今回はしくじれないぞ。,You cannot fail this time.
@@ -580,7 +580,7 @@ a873a6e522,困難,こんなん,konnan,difficulty; distress,N3,n; adj-na,1289620,
 5044be2999,コンピューター,コンピューター,konpyuutaa,computer,N3,n,1053350,,洋子はコンピューターを買えない。,Yoko is unable to buy a computer.
 0896967865,婚約,こんやく,kon'yaku,engagement; betrothal,N3,n; vs; vi; adj-no,1289710,,とうとう私の姉は婚約した。,"Finally, my sister got engaged."
 e7facf3a10,混乱,こんらん,konran,disorder; chaos; confusion; mayhem,N3,n; vs; vi,1290560,,国会は混乱のうちに散会した。,The Diet broke up in confusion.
-b5d6202e3f,差,さ,sa,difference; variation,N3,n; n-suf,1291070,,でもさ、母を連れて行かなくてはいけないんだ。,"But, I have to take my mother."
+b5d6202e3f,差,さ,sa,difference; variation,N3,n; n-suf,1291070,,彼の馬は３馬身の差で勝った。,His horse won by three lengths.
 6a8da0f21f,サービス,サービス,saabisu,service; support system; goods or services without charge,N3,n; vs; vi,1055000,,あの店はサービスが良い。,That store gives good service.
 9ff6bba172,際,さい,sai,on the occasion of; circumstances,N3,n,1296300,,火事の際は１１９番に電話してください。,"In the case of fire, dial 119."
 67399eea20,最高,さいこう,saikou,highest; supreme; the most,N3,adj-no; adj-na; n,1293850,,彼は現存する最高の芸術家である。,He is the greatest living artist.
@@ -600,9 +600,9 @@ bca3bdc725,作業,さぎょう,sagyou,work; operation; manufacturing; fatigue du
 f6255aa5c5,昨,さく,saku,last (year); yesterday,N3,pref,1298200,,彼は昨シーズンで野球をやめました。,He stopped playing baseball last season.
 26a429509f,作品,さくひん,sakuhin,work; opus; performance; production,N3,n,1297910,,これは母の作品の一つです。,It is something my mother made.
 9eb3e2a34e,作物,さくもつ,sakumotsu,produce (e.g. agricultural); crops,N3,n,1297950,,日本の主要作物は米である。,The main crop of Japan is rice.
-b66409ed87,桜,さくら,sakura,cherry blossom; cherry tree,N3,n,1593710,,さくらは満開だった。,The cherry trees were in flower.
+b66409ed87,桜,さくら,sakura,cherry blossom; cherry tree,N3,n,1593710,,私たちは春桜の花の下を通学した。,We went to school under the cherry blossoms in spring.
 7650278af2,酒,さけ,sake,alcohol; sake,N3,n,1329010,,僕は酒も煙草もやらないんだ。,I neither drink nor smoke.
-af53cba50b,叫ぶ,さけぶ,sakebu,to shout; to cry,N3,v5b; vi,1235910,,「助けて、助けて」、と彼女はさけんだ。,"""Help, help,"" she cried."
+af53cba50b,叫ぶ,さけぶ,sakebu,to shout; to cry,N3,v5b; vi,1235910,,彼女は子供たちに静かにと叫んだ。,She yelled at the children to be quiet.
 5f052e8594,避ける,さける,sakeru,to avoid (physical contact ); to ward off; to avert,N3,v1; vt,1583260,,あなたはいやな経験を避けるかもしれない。,You might avoid an unpleasant experience.
 9923ca40cb,支える,ささえる,sasaeru,to be blocked; to choke; to be obstructed,N3,v1; vt,1310090,,なんとかそこで支えよ。入市を許すな。,Hold them there! Don't let them into the city!
 30cf0aaae2,指す,さす,sasu,to point; to put up umbrella; to play,N3,v5s; vt,1309670,,＆という記号は、ａｎｄを指す。,The sign '&' stands for 'and'.
@@ -617,27 +617,27 @@ e4e0df7a25,さっぱり,さっぱり,sappari,feeling refreshed; feeling relieved
 66c155bf9f,砂漠,さばく,sabaku,desert,N3,n,1593800,,サハラは広大な砂漠です。,The Sahara is a vast desert.
 e79255ce69,差別,さべつ,sabetsu,discrimination; distinction; differentiation,N3,n; vs; vt,1291410,,その週間は差別とは関係がなかった。,That week had nothing to do with discrimination.
 a663b5a2f5,作法,さほう,sahou,manners; etiquette; propriety,N3,n,1297980,,彼らは君の悪い作法に腹をたてている。,They are angry at your ill manners.
-9fc5f5ca7f,様々,さまざま,samazama,varied; various,N3,adj-na; n,1593830,,私はさまざまな困難を経験した。,I went through a lot of trouble.
+9fc5f5ca7f,様々,さまざま,samazama,varied; various,N3,adj-na; n,1593830,,庭には様々な花が咲き乱れていた。,The garden was a riot of color.
 cc270e7f06,覚ます,さます,samasu,to awaken,N3,v5s; vt,1206060,,その物音が私を眠りから覚まさせた。,The noise awoke me from my sleep.
-9e9186ae73,覚める,さめる,sameru,to wake; to wake up,N3,v1; vi,1206070,,その叫び声で私は眠りからさめた。,The cry roused me from my sleep.
+9e9186ae73,覚める,さめる,sameru,to wake; to wake up,N3,v1; vi,1206070,,その音で彼女は眠りから覚めた。,The sound roused her from sleep.
 ec257ddb78,左右,さゆう,sayuu,left and right; influence; control; domination,N3,n; vs; vt,1290810,,彼は怒って首を左右に振った。,He gave an angry shake of his head.
-947efd8771,皿,さら,sara,plate; dish,N3,n,1299680,,彼女はちょうどさらを洗い終わりました。,She has just finished washing dishes.
-e32542ef92,更に,さらに,sarani,furthermore; again; after all; more and more; moreover,N3,adv; conj,1279310,,これでさらに困ったことになるだろう。,This will add to our troubles.
-0a2e1c93de,猿,さる,saru,monkey,N3,n,1177390,,何匹かのサルが木に登っているのを見た。,I saw some monkeys climbing the tree.
+947efd8771,皿,さら,sara,plate; dish,N3,n,1299680,,彼女はテーブルの上に皿を置いた。,She set the tray down on the table.
+e32542ef92,更に,さらに,sarani,furthermore; again; after all; more and more; moreover,N3,adv; conj,1279310,,彼らは更に３マイル遠くへ歩いた。,They walked three miles farther.
+0a2e1c93de,猿,さる,saru,monkey,N3,n,1177390,,あれはさる年に因んだ猿の絵です。,That's a picture of a monkey associated with the Year of the Monkey.
 8190d9ad28,去る,さる,saru,to leave; to go away,N3,v5r; vi,1231650,,古き良き時代は去って、二度ともどってこない。,"The good old days have gone, never to return."
 813ca3b6fc,騒ぎ,さわぎ,sawagi,uproar; disturbance,N3,n; n-suf,1403020,,この騒ぎはどうしたの。,What is all this bother about?
 ce2ba9fec2,参加,さんか,sanka,participation,N3,n; vs; vi,1302090,,あなたは競技に参加しましたか。,Did you take part in the game?
 731e27d6bb,参考,さんこう,sankou,reference; consultation,N3,n,1302280,,参考のためにカタログをお送りください。,Please send me a catalogue for review.
 575f9c66e6,賛成,さんせい,sansei,approval; agreement; support; favour,N3,n; vs; vi; adj-no,1304200,,私たちの計画に賛成してくれますか。,Are you agreeable to our plan?
 f4b9298167,酸素,さんそ,sanso,oxygen,N3,n,1304350,,酸素が無ければ生きられない。,You can't live without oxygen.
-9ba2a9c365,氏,し,shi,family name; lineage; birth,N3,suf,2101130,,彼は勤勉でもないし利口でもない。,He is neither diligent nor clever.
-f263ebe6ea,詩,し,shi,poem; verse of poetry,N3,n,1929950,,彼は勤勉でもないし利口でもない。,He is neither diligent nor clever.
+9ba2a9c365,氏,し,shi,family name; lineage; birth,N3,suf,2101130,,亡くなったスミス氏は医者でした。,The late Mr Smith was a doctor.
+f263ebe6ea,詩,し,shi,poem; verse of poetry,N3,n,1929950,,この詩は誰が書いたのですか。,By whom was this poem written?
 7e7306e3ec,幸せ,しあわせ,shiawase,happiness; good fortune; luck; blessing,N3,n; adj-na,1594060,,金持ちが幸せとは限らない。,The rich are not always happy.
 7108cb5a35,ジーンズ,ジーンズ,jiinzu,jeans,N3,n,1064120,,私は日曜日はたいていジーンズをはいている。,I usually wear jeans on Sunday.
 7da22b4d75,ジェット機,ジェットき,jettoki,jet aeroplane,N3,n,1064250,,彼女の息子はジェット機のパイロットです。,Her son is a jet pilot.
 8b180f444a,直に,じかに,jikani,immediately; readily; directly,N3,adv,1430690,,あなたとじかに会ってじっくり話したいことがあるのです。,"I have something to talk over with you, face to face."
 55b369ffb6,しかも,しかも,shikamo,moreover; furthermore; nevertheless; and yet,N3,conj,1506050,而も,彼はそれをした、しかも彼女のいる前で。,"He did it, and in her presence."
-9b941bc52f,叱る,しかる,shikaru,to scold,N3,v5r; vt,1319580,,あなたは先生にしかられましたか。,Were you scolded by your teacher?
+9b941bc52f,叱る,しかる,shikaru,to scold,N3,v5r; vt,1319580,,ママに叱られますよ。,You'll catch it from Mummy.
 69417b0273,式,しき,shiki,equation; formula; ceremony,N3,n,1319060,,彼は事故でその式に出席できなかった。,An accident prohibited his attending the ceremony.
 29899828b1,時期,じき,jiki,time; season; period,N3,n; adv,1316040,,１年のこの時期は天候がよく変わる。,The weather changes very often at this time of year.
 0894c700f3,直,じき,jiki,earnestly; immediately; exactly,N3,adj-na; adv; n,1581790,,彼女はじきよくなるだろう。,She will get well soon.
@@ -659,7 +659,7 @@ b7517a4f00,思想,しそう,shisou,thought; idea,N3,n,1309560,,彼には思想�
 6a521aa0cd,舌,した,shita,tongue,N3,n,1387010,,コーヒーは舌が焼けるほど熱かった。,The coffee was so hot that I nearly burned my tongue.
 a8dbeaa8a0,次第,しだい,shidai,order; precedence; circumstances; immediate(ly),N3,n,1316680,,空港に着き次第、電話します。,I'll phone you as soon as I get to the airport.
 372efcc496,事態,じたい,jitai,situation; present state of affairs,N3,n,1595240,,事態はかなり切迫している。,The matter is really pressing.
-658adc9590,従う,したがう,shitagau,to abide (by the rules); to obey; to follow; to accompany,N3,v5u; vi,1335210,,彼にしたがうより他に仕方がない。,I cannot do otherwise than obey him.
+658adc9590,従う,したがう,shitagau,to abide (by the rules); to obey; to follow; to accompany,N3,v5u; vi,1335210,,本能に従うと道を誤ることが多い。,Instinct is often a poor guide.
 7d18731cba,したがって,したがって,shitagatte,therefore; consequently; in accordance with,N3,conj,1335230,従って,君は能力にしたがって上達する。,You will progress in proportion to your abilities.
 65b4a1f58b,親しい,したしい,shitashii,intimate; close (e.g. friend),N3,adj-i,1365050,,犬は人間の最も親しい友達である。,Dogs are man's closest friends.
 50e11fed01,質,しつ,shitsu,quality; nature (of person),N3,n,1320640,,お茶の質は下がりつつある。,The quality of tea is going down.
@@ -690,9 +690,9 @@ e0d7c68759,しまう,しまう,shimau,to finish; to close; to do something compl
 3963aabbaa,しまった,しまった,shimatta,Damn it!,N3,int,1005600,,しまった、ガットが切れた。,"Oh, no. I broke a string in my racket."
 7ef7ecde78,自慢,じまん,jiman,pride; boast,N3,n; vs; vt; adj-no,1318680,,われわれは体力を自慢した。,We took pride in our strength.
 99dc3e9d67,事務,じむ,jimu,business; office work,N3,n,1314270,,退職する前に彼は事務を渡した。,"Before he retired, he had handed over charge of his office."
-bab0ffb17a,示す,しめす,shimesu,to denote; to show; to point out; to indicate,N3,v5s; vt,1317110,,何もかも彼の有罪をしめしている。,Everything points to his guilt.
+bab0ffb17a,示す,しめす,shimesu,to denote; to show; to point out; to indicate,N3,v5s; vt,1317110,,その子は何の恐怖も示さなかった。,That boy showed no fear.
 f797ab74cc,占める,しめる,shimeru,to comprise; to account for; to make up (of); to hold; to occupy,N3,v1; vt,1389460,,ギャンブルで味を占めるとなかなか止められない。,"Once you get the taste for gambling, it's hard to give it up."
-b341907305,霜,しも,shimo,frost,N3,n,1402930,,今しも太陽が沈もうとしている。,The sun is about to sink.
+b341907305,霜,しも,shimo,frost,N3,n,1402930,,今朝、地面は霜で覆われていた。,The ground was covered with frost this morning.
 823b048f98,じゃあ,じゃあ,jaa,well; well then,N3,conj,1005900,,「安いですね。じゃあ10ヤードください」小娘が答えた。,"""That's cheap. I'll take ten yards,"" the girl answered."
 0bd00cd76e,借金,しゃっきん,shakkin,debt; loan; liabilities,N3,n; vs; vt,1323940,,君は借金を払うべきだ。,You should pay your debts.
 6b76d0e68b,しゃべる,しゃべる,shaberu,to talk; to chat; to chatter,N3,v5r; vt; vi,1427510,喋る,つい彼が病気だということをしゃべってしまった。,I've just let slip that he is sick.
@@ -715,7 +715,7 @@ f427f2ab2d,集中,しゅうちゅう,shuuchuu,concentration; focusing the mind,N
 a1ee5baecb,収入,しゅうにゅう,shuunyuu,income; receipts; revenue,N3,n,1330790,,収入以上の生活をするな。,Do not live above your income.
 7c391cdd2b,住民,じゅうみん,juumin,citizens; inhabitants; residents; population,N3,n,1334210,,住民の半数以上はその計画に反対だ。,More than half the residents are opposed to the plan.
 bc3d5a165c,重要,じゅうよう,juuyou,important; momentous; essential; principal; major,N3,adj-na,1336820,,その結び目を守るのは重要なことだ。,Maintaining that tie is important.
-5c2888fc48,修理,しゅうり,shuuri,repairing; mending,N3,n; vs; vt,1332400,,さびつかせるよりもすり切らしたほうがいい。,Better wear out than rust out.
+5c2888fc48,修理,しゅうり,shuuri,repairing; mending,N3,n; vs; vt,1332400,,その車は修理する価値がない。,The car isn't worth repairing.
 0bbc9772e0,主義,しゅぎ,shugi,doctrine; rule; principle,N3,n,1325260,,それは私の主義に反する。,That runs against my principles.
 1cc7aa8d65,宿泊,しゅくはく,shukuhaku,lodging,N3,n; vs; vi,1337300,,６人宿泊させて欲しい。,We need accommodation for six.
 2272beabcd,手術,しゅじゅつ,shujutsu,surgical operation,N3,n; vs; vt,1327790,,手術をしなければなりません。,You have to have an operation.
@@ -829,7 +829,7 @@ b250983bb5,姿,すがた,sugata,figure; shape; appearance,N3,n,1307710,,和服�
 5569286656,少しも,すこしも,sukoshimo,anything of; not one bit,N3,adv,1348900,,コックさんは少しもかけていない。,The cook hasn't put any on it.
 ea15f9f78a,過ごす,すごす,sugosu,to pass; to spend; to go through; to tide over,N3,v5s; vt,1196000,,いいクリスマスを過ごしましたか。,Did you have a nice Christmas?
 ef97fe9600,筋,すじ,suji,muscle; string; line,N3,n,1241750,,私は去年、それを別の筋から聞いた。,I heard about it from another source last year.
-5a0ee38ab2,勧める,すすめる,susumeru,to recommend; to advise; to encourage; to offer (wine),N3,v1; vt,1595680,,トムは彼らにその小説を薦めた。,Tom recommended the novel to them.
+5a0ee38ab2,勧める,すすめる,susumeru,to recommend; to advise; to encourage; to offer (wine),N3,v1; vt,1595680,,父は私にピアノを習うように勧めた。,My father encouraged me to study the piano.
 0cc06624f2,進める,すすめる,susumeru,to advance; to promote; to hasten,N3,v1; vt,1365990,,その計画は進められている。,The project is underway.
 7b89bdd9ec,スター,スター,sutaa,star,N3,n,1069210,,スターの野球選手はよくサインを求められる。,Star baseball players are often asked for autographs.
 d6b975f68f,スタイル,スタイル,sutairu,style,N3,n,1069520,,ダンスはスタイルをよくするのにいい。,Dancing is good for the figure.
@@ -837,11 +837,11 @@ d6b975f68f,スタイル,スタイル,sutairu,style,N3,n,1069520,,ダンスはス
 e28c9da90d,頭痛,ずつう,zutsuu,headache,N3,n,1450890,,今日は少し頭痛がする。,I have a slight headache today.
 2125719689,ずっと,ずっと,zutto,consecutively; throughout; a lot,N3,adv,1006380,,この時計はあれよりもずっと高価だ。,This clock is far more expensive than that.
 87de9628a1,すてき,すてき,suteki,lovely; dreamy; beautiful; great,N3,adj-na,1397350,素敵,彼らはすてきな家を持っている。,They have a nice house.
-aa2fbac408,既に,すでに,sudeni,already; too late,N3,adv,1220310,,バス停に着いた時、バスはすでに出ていた。,The bus had already left when I got to the bus stop.
+aa2fbac408,既に,すでに,sudeni,already; too late,N3,adv,1220310,,私はもう既に朝食を済ませました。,I've already eaten breakfast.
 4c256eea03,すなわち,すなわち,sunawachi,that is; namely; i.e.,N3,conj,1404100,即ち,すなわち彼はそれをしたくないのだ。,"In other words, he doesn't want to do it."
 92387d38a4,スピーチ,スピーチ,supiichi,speech,N3,n,1072260,,私たちは彼にスピーチを頼んだ。,We called on him for a speech.
-1dbd5b263b,全て,すべて,subete,all; the whole; entirely; in general; wholly,N3,adv,1595730,,あなたの計画をすべて話してください。,Tell me all about your plan.
-e957aa6df9,済ませる,すませる,sumaseru,to be finished,N3,v1; vt,1295040,,私は宿題をすませてからテレビを見た。,"Having done my homework, I watched television."
+1dbd5b263b,全て,すべて,subete,all; the whole; entirely; in general; wholly,N3,adv,1595730,,人間は全て平等である。,All men are equal.
+e957aa6df9,済ませる,すませる,sumaseru,to be finished,N3,v1; vt,1295040,,私はまだ朝食を済ませていません。,I have not finished breakfast yet.
 ee806059fa,角,すみ,sumi,horn,N3,n; n-suf,1246440,,隅にいた男の人が夫に話しかけた。,The man in the corner addressed himself to the husband.
 feae64eac4,すみません,すみません,sumimasen,sorry; excuse me,N3,exp; int,1295060,済みません,すみません、この席あいていますか。,"Excuse me, is this seat taken?"
 5ddec3e77f,鋭い,するどい,surudoi,pointed; sharp,N3,adj-i,1174890,,ここに鋭い痛みがあります。,I have a sharp pain here.
@@ -903,7 +903,7 @@ a17498ab62,選択,せんたく,sentaku,selection; choice,N3,n; vs; vt,1392290,,�
 3836c2c8bd,象,ぞう,zou,elephant,N3,n,1351830,,その象は動物園に連れてこられた。,The elephant was brought to the zoo.
 f01cb21b79,騒音,そうおん,souon,noise,N3,n,1403060,,彼女は騒音にかまわず話しつづけた。,She carried on talking in spite of the loud noise.
 5b8ad938b3,増加,ぞうか,zouka,increase; addition,N3,n; vs; vt; vi,1403160,,犯罪率は着実に増加している。,The crime rate is rising steadily.
-cb48e3fc15,操作,そうさ,sousa,operation; management; processing,N3,n; vs; vt,1400050,,そうさなんでも好きなものでいいんだ。,"Yes, you can celebrate anything you want."
+cb48e3fc15,操作,そうさ,sousa,operation; management; processing,N3,n; vs; vt,1400050,,このコンピューターの操作は難しい。,Operating this computer is tricky.
 8597a13b30,想像,そうぞう,souzou,imagination; guess,N3,n; vs; vt,1399610,,あなたには想像もつかない、でしょ？,"You can't imagine it, can you?"
 e9efbc296d,相続,そうぞく,souzoku,succession; inheritance,N3,n; vs; vt,1401090,,ジョンは莫大な財産を相続した。,John inherited a large fortune.
 6b23ed610d,装置,そうち,souchi,equipment; installation; apparatus,N3,n; vs; vt,1402360,,みんな、その装置にとても感心した。,Everyone was really impressed with that machine.
@@ -917,8 +917,8 @@ fb77f8ffbb,注ぐ,そそぐ,sosogu,to pour (into); to irrigate; to pay; to fill;
 e62a18d68e,育つ,そだつ,sodatsu,to raise (child); to be brought up; to grow (up),N3,v5t; vi,1160540,,子供は放っておいても育つものだ。,Children will grow even if you leave them alone.
 1bc27bd981,そっくり,そっくり,sokkuri,all; altogether; entirely; be just like; the splitting image of,N3,adv,1006790,,あなたはお母さんにそっくりね。,You look just like your mother.
 5cf06f835b,そっと,そっと,sotto,face of the earth,N3,adv,1006810,,彼女は子供をそっと寝かせた。,She laid the child down gently.
-02ebf395f2,袖,そで,sode,sleeve,N3,n,1406000,,私は彼のそでをつかんだ。,I held his sleeve.
-0d7bfd0602,備える,そなえる,sonaeru,to furnish; to provide for; to equip; to install,N3,v1; vt,1244960,,不時にそなえなくてはいけない。,You should be prepared for emergencies.
+02ebf395f2,袖,そで,sode,sleeve,N3,n,1406000,,父は袖に長い裂け目を作った。,Father made a long tear in his sleeve.
+0d7bfd0602,備える,そなえる,sonaeru,to furnish; to provide for; to equip; to install,N3,v1; vt,1244960,,このビルは非常階段を備えている。,The building is equipped with emergency stairs.
 5315a22cf3,そのうち,そのうち,sonouchi,eventually; sooner or later; of the previously mentioned,N3,exp; adv,1006930,その内,そのうち一緒に仕事ができるといいなと思っています。,Hope we can work together soon.
 4f496dbfd2,そのまま,そのまま,sonomama,without change; as it is (i.e. now),N3,adv; adj-no; n,1406030,其の儘,ドアをそのままにしておいてはいけません。,The door must not be left open.
 20f327da61,ソファー,ソファー,sofaa,sofa; couch,N3,n,1075480,,少年はソファーに横になっていた。,The boy lay on the sofa.
@@ -934,7 +934,7 @@ b1170de661,存在,そんざい,sonzai,existence; being,N3,n; vs; vi,1406150,,神
 9429f093fb,尊重,そんちょう,sonchou,respect; esteem; regard,N3,n; vs; vt,1406460,,私は君の判断を尊重する。,I defer to your judgement.
 7adaa6336c,他,た,ta,other (esp. places and things),N3,adv; n; adj-no,1949190,,彼女は彼を他の誰かとまちがえた。,She mixed him up with someone else.
 3fdcce9a17,田,た,ta,rice field,N3,n,1442730,,チューたろうは田中さんの犬です。,Chewtarou is Mrs Tanaka's dog.
-1935a3f544,対,たい,tai,pair; couple; set,N3,n,1409800,,私は彼女を知らないしまた知りたいとも思わない。,I don't know her and I don't think I want to.
+1935a3f544,対,たい,tai,pair; couple; set,N3,n,1409800,,試合は6対6で引き分けに終わった。,The match ended in a 6-6 draw.
 20915b1f87,台,だい,dai,stand; rack; table; support,N3,n; n-suf,1412560,,この台の上に花瓶を置いてはいけません。,Please don't place a vase on this stand.
 4bf6db45d0,大,だい,dai,large; big; great; huge,N3,pref; adj-na; n,2082450,,彼女はハーバード大に入学した。,She was accepted at Harvard.
 6cb86b20fc,題,だい,dai,title; subject; theme; topic,N3,n,1415470,,「友情」という題で作文を書きなさい。,"Write an essay on ""Friendship""."
@@ -946,7 +946,7 @@ caac295eb2,代金,だいきん,daikin,price; payment; cost; charge,N3,n,1411790,
 1e518ce28e,退屈,たいくつ,taikutsu,tedium; boredom,N3,adj-na; n,1596750,,カクテルパーティーは退屈なときもある。,Cocktail parties can be boring.
 1c0621ee0d,滞在,たいざい,taizai,stay; sojourn,N3,n; vs; vi,1410930,,いまおじの家に滞在しています。,I'm now staying at my uncle's.
 38bf87fc8a,大使,たいし,taishi,ambassador,N3,n; adj-no,1413880,,彼女の大望は大使になることです。,Her ambition is to become an ambassador.
-9f6e77d1fe,大した,たいした,taishita,considerable; great; important; significant; a big deal,N3,adj-pn,1412960,,それはたいした問題ではない。,That is not much of a problem.
+9f6e77d1fe,大した,たいした,taishita,considerable; great; important; significant; a big deal,N3,adj-pn,1412960,,彼は大した人物にはなれないわね。,He'll never amount to much.
 5171ce1b55,対象,たいしょう,taishou,"target; object (of worship, study, etc); subject (of taxation, etc)",N3,n; adj-no,1410120,,この本は子供を対象とした本です。,It's a book for children.
 999ca0b1df,大臣,だいじん,daijin,cabinet minister,N3,n,1414160,,大臣は来週メキシコ訪問の予定です。,The minister is to visit Mexico next week.
 486445bd56,対する,たいする,taisuru,to face; to confront; to oppose,N3,vs-s,1610160,,原子力事故に対して最大限の努力を尽くしております。,We are making all efforts possible to deal with the nuclear crisis.
@@ -976,11 +976,11 @@ cb944daeac,確かめる,たしかめる,tashikameru,to ascertain,N3,v1; vt,12057
 3e80832e23,唯,ただ,tada,free of charge; mere; sole; only; usual; common,N3,adj-no; n,1538900,ただ,私はその切符をただで手にいれた。,I got the ticket for nothing.
 900eaa8fd0,戦い,たたかい,tatakai,battle; fight; struggle; conflict,N3,n,1596950,,戦いは人間の獣性をよびおこす。,War arouses the animal in man.
 ff035a2a04,戦う,たたかう,tatakau,to fight; to battle; to combat,N3,v5u; vi,1596960,,おまえも決して戦う拳を忘れるな。,Never lose your fighting fists.
-44d064efd7,叩く,たたく,tataku,to strike; to clap; to dust; to beat,N3,v5k; vt,1416170,,彼女はドラムたたくことができる。,She can play the drum.
-60eed96a97,直ちに,ただちに,tadachini,at once; immediately; directly; in person,N3,adv,1430670,,電話が鳴ったらただちに出なさい。,"When the telephone rings, you must answer right away."
+44d064efd7,叩く,たたく,tataku,to strike; to clap; to dust; to beat,N3,v5k; vt,1416170,,口答えしたら父は私を叩いた。,My father beat me answering him back.
+60eed96a97,直ちに,ただちに,tadachini,at once; immediately; directly; in person,N3,adv,1430670,,君は直ちに医者に行く必要がある。,It is necessary for you to see a doctor at once.
 700d08f6e3,立ち上がる,たちあがる,tachiagaru,to stand up,N3,v5r; vi,1551370,,突然若い女性が立ち上がった。,"Suddenly, a young woman stood up."
 a10dbb12a8,立場,たちば,tachiba,standpoint; position; situation,N3,n,1551710,,お答えできる立場にありません。,I'm not in a position to answer.
-2b046f0f90,経つ,たつ,tatsu,to pass; to lapse,N3,v5t; vi,1251100,,時がどんどんたってゆく。,Time is going by very quickly.
+2b046f0f90,経つ,たつ,tatsu,to pass; to lapse,N3,v5t; vi,1251100,,彼女がここへ来てから１年が経つ。,A year has passed since she came here.
 356b9404ce,達する,たっする,tassuru,to reach; to get to,N3,vs-s; vt,1416230,,水は彼の腰の所まで達した。,The water came up to his waist.
 01558111d1,だって,だって,datte,but; because; even; also; too,N3,prt,2643970,,子供にだってそんな事は分かるよ。,Even children can understand it.
 05f3c84284,たっぷり,たっぷり,tappuri,full; in plenty; ample,N3,adv,1007240,,まだ時間はたっぷりある。,We still have plenty of time left.
@@ -988,13 +988,13 @@ f1ff353185,たとえ,たとえ,tatoe,simile; metaphor; allegory,N3,n,1597120,例
 c8170be9cc,谷,たに,tani,valley,N3,n,1581590,,谷は彼の呼び声でこだました。,The valley echoed with his call.
 b3c2007820,他人,たにん,tanin,another person; unrelated person; outsider; stranger,N3,n,1581400,,彼女はもっと他人の言うことを聞くべきだ。,She should listen more to other people.
 0167b18f74,種,たね,tane,seed; material; cause; source,N3,n,1328820,,そんなことをすれば笑いものの種なるよ。,"If you do that, you're going to subject yourself to ridicule."
-a7ca4ae607,束,たば,taba,handbreadth; bundle,N3,n; n-suf; ctr,1404450,,新聞をたばにするのを手伝ってくれ。,Help me bind the papers into bundles.
+a7ca4ae607,束,たば,taba,handbreadth; bundle,N3,n; n-suf; ctr,1404450,,彼は古い手紙を束にした。,He bound old letters into a bundle.
 4087e49c73,度,たび,tabi,counter for occurrences,N3,n; n-suf; ctr,1445150,,彼は東京へ来るたび私を訪ねてきた。,He visited me every time he came up to Tokyo.
 07757ea0b3,旅,たび,tabi,travel; trip; journey,N3,n,1553120,,旅はよりよい教育法の一つである。,Travel is one of the better forms of education.
 192b09d71f,たびたび,たびたび,tabitabi,often; repeatedly; frequently,N3,adv,1597160,度々,私はたびたび彼から手紙をもらう。,I often get a letter from him.
 5ac33a4880,玉,たま,tama,ball; sphere; coin,N3,n,1240530,,ニッケルは５セント玉です。,A nickel is a five-cent coin.
 9cac7f9475,偶,たま,tama,even number; couple; man and wife; friend,N3,adj-no; adj-na; n,2068840,,友理子はたまの逢瀬を心行くまで楽しんでしまいました。,Yuriko thoroughly enjoyed her occasional secret meetings with her lover.
-42fbc7ed06,弾,たま,tama,bullet; shot; shell,N3,n,1240530,,ニッケルは５セント玉です。,A nickel is a five-cent coin.
+42fbc7ed06,弾,たま,tama,bullet; shot; shell,N3,n,1240530,,弾が彼の頬をかすめた。,The bullet grazed his cheek.
 086ada9b06,偶々,たまたま,tamatama,casually; unexpectedly; accidentally; by chance,N3,adv,1597180,,通りを歩いていたとき、私はたまたま旧友に出会った。,"Walking along the street, I happened to meet my old friend."
 2b5e5351b0,たまらない,たまらない,tamaranai,intolerable; unbearable; unendurable,N3,exp; adj-i,1211340,堪らない,あのカメラが欲しくてたまらない。,I'm dying for that camera.
 bce12bb5a5,黙る,だまる,damaru,to be silent,N3,v5r; vi,1534930,,もうこれ以上、黙ってられないわ。,I can no longer remain silent.
@@ -1002,7 +1002,7 @@ a913d4b1f6,試し,ためし,tameshi,trial; test,N3,n,1312250,,私は試しにそ
 9b1f1d7515,試す,ためす,tamesu,to attempt; to test,N3,v5s; vt,1312260,,もう一度試したが失敗しただけだった。,"I tried it again, only to fail."
 a733c62080,便り,たより,tayori,news; tidings; information; correspondence; letter,N3,n; n-suf; vs; vt,1512410,,それ以来、彼からは何の便りもありません。,I have never heard from him since.
 593919cd0f,頼る,たよる,tayoru,to rely on; to have recourse to; to depend on,N3,v5r; vi; vt,1597200,,あまり人に頼ってはいけない。,Don't rely too much on others.
-7f7ef4abe8,誰か,だれか,dareka,someone; somebody,N3,pn,1416840,,だれかこのドアを開けてください。,"Somebody, open this door, please."
+7f7ef4abe8,誰か,だれか,dareka,someone; somebody,N3,pn,1416840,,「誰か車の中にいるのですか」「トムがいます」,"""Who is in the car?"" ""Tom is."""
 a22c0d6a0e,段,だん,dan,step; stair; flight of steps; grade; rank; level,N3,n; ctr,1633690,,彼は階段を一度に三段ずつかけあがった。,He jumped up the steps three at a time.
 938fc7e369,単位,たんい,tan'i,unit; denomination; credit (in school),N3,n,1417040,,この科目は何単位ですか。,How many credits is this course?
 b91001d17a,単語,たんご,tango,word; vocabulary; (usually) single-character word,N3,n,1417330,,これらの単語を一つずつ覚えなさい。,"Learn these words, one by one."
@@ -1055,34 +1055,34 @@ d19e1e7cb4,頂上,ちょうじょう,choujou,top; summit; peak,N3,n; adj-no,1430
 2e1e017ee0,貯金,ちょきん,chokin,(bank) savings,N3,n; vs; vt,1427170,,彼女はお金をたくさん貯金している。,She put aside a lot of money.
 d6e26a0b9f,直接,ちょくせつ,chokusetsu,direct; immediate; personal; firsthand,N3,adj-na; n; adj-no; adv,1431110,,彼女に直接言ったらどうですか。,Why don't you tell her directly?
 5441f9df9d,著者,ちょしゃ,chosha,author; writer,N3,n,1427110,,この本の著者は誰ですか。,Who is the author of this book?
-2e1b2d5c37,遂に,ついに,tsuini,finally; at last,N3,adv,1372630,,母はついに私達の計画に賛成した。,My mother finally approved of our plan.
+2e1b2d5c37,遂に,ついに,tsuini,finally; at last,N3,adv,1372630,,彼はついにその仕事をやり遂げた。,He finally accomplished the work.
 a1d4ed495c,通過,つうか,tsuuka,passage through; passing,N3,n; vs; vi,1433070,,通過する車に気をつけなさい。,Watch out for passing cars.
 6082d893b1,通学,つうがく,tsuugaku,commuting to school,N3,n; vs; vi,1433090,,いつもバス通学です。,I usually go to school by bus.
 048a8dade7,通行,つうこう,tsuukou,passage; passing,N3,n; vs; vi,1433180,,ここは大型車の通行は禁止されている。,There is no passage for big vehicles here.
 855d156059,通じる,つうじる,tsuujiru,to run to; to lead to; to communicate; to understand,N3,v1; vi,1432880,,彼女は電話が通じるとすぐ話し始めた。,She started talking as soon as she got through.
 f144cdb49c,通信,つうしん,tsuushin,correspondence; communication; news; signal,N3,n; vs; vt; vi,1433330,,彼は、無電で通信を送った。,He sent a message by wireless.
-2ddd05a675,捕まる,つかまる,tsukamaru,to be caught; to be arrested,N3,v5r; vi,1514110,,私は彼の手にしっかりとつかまった。,I held fast to his hand.
+2ddd05a675,捕まる,つかまる,tsukamaru,to be caught; to be arrested,N3,v5r; vi,1514110,,ロープにしっかり捕まりなさい。,Hold on to the rope.
 331fc42604,掴む,つかむ,tsukamu,to seize; to catch; to grasp,N3,v5m; vt,1433650,,だれかが私の腕をつかんだ。,Somebody caught me by the arm.
 e6e567643f,疲れ,つかれ,tsukare,tiredness; fatigue,N3,n,1483730,,彼女はいくぶん疲れを感じていた。,She was feeling kind of tired.
-7044f13335,付き合い,つきあい,tsukiai,association; socializing; fellowship,N3,n,1495640,,彼とは仕事の上だけのつきあいだ。,He's just a business associate.
+7044f13335,付き合い,つきあい,tsukiai,association; socializing; fellowship,N3,n,1495640,,彼は知事と長年の付き合いです。,He is the governor's longtime companion.
 9edfc06f0c,次々,つぎつぎ,tsugitsugi,in succession; one by one,N3,adv; adv-to; n,1597850,,彼らは次々と出発した。,They started one after another.
-d5a89e32c4,就く,つく,tsuku,"to settle in (place); to take (seat, position); to study (under teacher)",N3,v5k; vi,1331530,,私たちは家路についた。,We set out for home.
-af699ddbb2,付ける,つける,tsukeru,to attach; to join; to add; to append,N3,v1; vt,1495770,,私の木は少し花をつけたが実はならなかった。,My tree had a few blossoms but no fruit.
+d5a89e32c4,就く,つく,tsuku,"to settle in (place); to take (seat, position); to study (under teacher)",N3,v5k; vi,1331530,,友人の好意で職に就くことができた。,I was able to get a job through the good offices of my friend.
+af699ddbb2,付ける,つける,tsukeru,to attach; to join; to add; to append,N3,v1; vt,1495770,,彼女は昔、日記を付けていたが今はつけていない。,"She used to keep a diary, but she no longer does."
 8d3ff79d95,土,つち,tsuchi,earth; soil,N3,n,1445270,,種の上に少し土をかぶせなさい。,Cover the seeds with a little earth.
 a6ec708ec6,続き,つづき,tsuzuki,sequel; continuation,N3,n,1894690,,日照り続きでその池は干上がった。,The pond dried up in hot weather.
 c327a33164,包み,つつみ,tsutsumi,bundle; package; parcel; bale,N3,n,1515340,,行商人は大きな包みを背負って運んだ。,The peddler carried a big bundle on his back.
 b30b244443,勤め,つとめ,tsutome,service; duty; business; responsibility; task; Buddhist religious services,N3,n,1240810,,お勤めはどちらですか。,Who do you work for?
-b30544a54e,務め,つとめ,tsutome,service; duty; Buddhist religious services,N3,n,1240810,,お勤めはどちらですか。,Who do you work for?
+b30544a54e,務め,つとめ,tsutome,service; duty; Buddhist religious services,N3,n,1240810,,勉強するのは学生の務め。,It's a student's business to study.
 e629f70aca,繋ぐ,つなぐ,tsunagu,to tie; to fasten; to connect; to transfer (phone call),N3,v5g; vt,1251900,,スミスさんにつないで下さい。,Please connect me with Mr Smith.
 43f9074428,常に,つねに,tsuneni,always; constantly,N3,adv,1355970,,常に疲労感があります。,I always have a tired feeling.
-526a0047ad,翼,つばさ,tsubasa,wings,N3,n,1547530,,つばさはとても速い電車だ。,The Tsubasa is a very fast train.
+526a0047ad,翼,つばさ,tsubasa,wings,N3,n,1547530,,それは翼の全長が約４インチある。,It has a wingspan of about four inches.
 9a7106c569,つまり,つまり,tsumari,in short; in brief; in other words,N3,adv,1610430,詰まり,つまり彼女は下手な踊り子だ。,"That is, she is a poor dancer."
 fc43373a26,罪,つみ,tsumi,crime; fault; indiscretion,N3,n; adj-na; adj-no,1296680,,ビルはその罪を犯していなかった。,Bill did not commit the crime.
-236e0b11a0,詰める,つめる,tsumeru,to pack; to shorten; to work out (details),N3,v1; vt,1226510,,このブラウスをつめていただけますか。,"Could I have this blouse taken in, please?"
+236e0b11a0,詰める,つめる,tsumeru,to pack; to shorten; to work out (details),N3,v1; vt,1226510,,この穴を何かで詰めなくては。,We've got to fill this hole with something.
 d870dff504,積もる,つもる,tsumoru,to pile up,N3,v5r; vi,1382990,,雪が１．５メートル積もっていた。,The snow lay one and a half meters deep.
 33f0992c39,梅雨,つゆ,tsuyu,rainy season; rain during the rainy season,N3,n,1582960,,天気予報によれば、まもなく梅雨に入るそうだ。,"According to the weather forecast, the rainy season will set in before long."
-1213823fa2,辛い,つらい,tsurai,painful; heart-breaking,N3,adj-i,1365860,,彼らは彼につらい仕事を押し付けた。,They wished a hard job on him.
-8d0f952e4c,釣,つり,tsuri,fishing; angling,N3,n,1434040,釣り,つりは要らんよ。,Keep the change!
+1213823fa2,辛い,つらい,tsurai,painful; heart-breaking,N3,adj-i,1365860,,一生で一番辛い経験といえるでしょう。,That might be the most painful experience in my life.
+8d0f952e4c,釣,つり,tsuri,fishing; angling,N3,n,1434040,釣り,あなたは釣りに行きたがっている。,You are dying to go fishing.
 7433983c57,連れ,つれ,tsure,companion; company,N3,n,1559260,,駅までお連れいたしましょう。,I'll show you to the station.
 c2946190ea,で,で,de,outflow; coming (going) out; graduate (of),N3,n; n-suf,1896380,,彼女の母はケネディ家の出だった。,Her mother was a Kennedy.
 56092bf6de,出会い,であい,deai,meeting; rendezvous; encounter,N3,n,1338400,,私たちの出会いはまったくの偶然でした。,Our meeting was quite accidental.
@@ -1138,7 +1138,7 @@ f6da4441b7,道路,どうろ,douro,road; highway,N3,n,1454290,,その崖は道路
 c1ddd6b914,通り過ぎる,とおりすぎる,toorisugiru,to pass; to pass through,N3,v1; vi,1432980,,私はその暗い道を通り過ぎた。,I passed over the dark street.
 bba3ad9899,都会,とかい,tokai,city,N3,n; adj-no,1444970,,あの人達は都会の生活にあこがれている。,They are longing for city life.
 ff30b33097,時,とき,toki,time; hour; occasion; moment,N3,n,1315840,,１２才の時彼は声変わりした。,His voice broke when he was twelve.
-a14ba106bc,解く,とく,toku,to unfasten,N3,v5k; vt,1198890,,窓が閉まっているか確かめとけ。,See that the window is closed.
+a14ba106bc,解く,とく,toku,to unfasten,N3,v5k; vt,1198890,,彼は重責を解かれた。,He was relieved of his heavy responsibility.
 9ed2e741fa,毒,どく,doku,poison; toxicant,N3,n,1455500,,この魚は毒がない。,This fish is free from poison.
 f57860a6ca,得意,とくい,tokui,pride; triumph; prosperity,N3,n; adj-na; adj-no,1454510,,あなたは数学が得意ですか。,Are you good at mathematics?
 d45a4669a3,読書,どくしょ,dokusho,reading,N3,n; vs; vi,1456420,,母はメガネなしでは読書できない。,My mother can't read without glasses.
@@ -1176,7 +1176,7 @@ e4e30dab43,トランプ,トランプ,toranpu,playing cards (lit: trump),N3,n,108
 142fcb9705,取り上げる,とりあげる,toriageru,to take up; to pick up; to disqualify; to confiscate; to deprive,N3,v1; vt,1326800,,全新聞がその事件を大きく取り上げた。,All the papers featured the case.
 15f5aaa2cc,努力,どりょく,doryoku,great effort; exertion; endeavour; effort,N3,n; vs; vi,1445130,,彼はその問題を解こうと努力した。,He exerted himself to solve the problem.
 e8e0e10e57,ドレス,ドレス,doresu,dress,N3,n,1089280,,あのドレスは彼女によく似合う。,That dress really becomes her.
-58c5df73fd,取れる,とれる,toreru,to come off; to be taken off; to be removed,N3,v1; vi,1326990,,しびれがとれるまで食事はしないでください。,Don't eat till the numbness wears off.
+58c5df73fd,取れる,とれる,toreru,to come off; to be taken off; to be removed,N3,v1; vi,1326990,,オリーブの実から油が取れます。,Oil is extracted from olives.
 145a15c354,泥,どろ,doro,mud,N3,n,1436900,,母さんは彼の靴から泥を落とした。,Mother removed mud from his shoes.
 6556dc10d1,トン,トン,ton,ton,N3,n,1457320,,この橋は重さ１０トンしか支えられません。,This bridge bears only ten tons.
 43bc725de0,とんでもない,とんでもない,tondemonai,unexpected; offensive; What a thing to say!; No way!,N3,int,1008790,,「君はそれを終えたか」「とんでもない、始めたばかりだ」,"""Have you finished it?"" ""On the contrary, I've just begun."""
@@ -1191,10 +1191,10 @@ cd33b27e9a,仲,なか,naka,relation; relationship,N3,n,1425710,,私は彼とは�
 5564da9929,半ば,なかば,nakaba,middle; half; semi; halfway; partly,N3,n; n-suf,1478780,,彼女は４０代半ばで再婚した。,She married again in her mid-forties.
 124f4d078f,仲間,なかま,nakama,company; fellow; colleague; associate,N3,n,1425790,,田中さんは父のつり仲間の一人だ。,Mr. Tanaka is one of my father's fishing companions.
 c3a05b3d90,眺め,ながめ,nagame,scene; view; prospect; outlook,N3,n,1610960,,眺めのよい部屋をお願いします。,I'd like a room with a good view.
-402b531dd3,眺める,ながめる,nagameru,to view; to gaze at,N3,v1; vt,1428830,,私たちはその絵をながめていた。,We were looking at the picture.
+402b531dd3,眺める,ながめる,nagameru,to view; to gaze at,N3,v1; vt,1428830,,何時間も海を眺めた。,I gazed at the sea for hours.
 a588d2a3e0,流れ,ながれ,nagare,stream; current,N3,n,1552130,,流れは池に注いでいる。,The stream falls into the pond.
 b7b23bf678,流れる,ながれる,nagareru,to stream; to flow; to run (ink); to be washed away,N3,v1; vi,1552140,,セーヌ川はパリを流れている。,The Seine flows through Paris.
-28631b73ea,無し,なし,nashi,without,N3,n; n-suf,1529560,,君なしの生活なんて考えられない。,I can't think of life without you.
+28631b73ea,無し,なし,nashi,without,N3,n; n-suf,1529560,,ようやくその男と貸し借り無しになった。,I am finally quits with the man.
 de314c95de,なぜなら,なぜなら,nazenara,because,N3,conj,1009410,何故なら,なぜなら新聞記者だったからです。,Because I was a newspaper reporter.
 10b368ca88,謎,なぞ,nazo,riddle; puzzle; enigma,N3,n,1459690,,このなぞの答えを考えつきますか。,Can you guess this riddle?
 8b63615acb,納得,なっとく,nattoku,consent; assent; understanding,N3,n; vs; vt; vi,1470080,,「そっか」ウィリーはようやく納得した。,"""Well, OK,"" Willie finally agreed."
@@ -1202,14 +1202,14 @@ de314c95de,なぜなら,なぜなら,nazenara,because,N3,conj,1009410,何故な�
 08f3d1eb54,何か,なにか,nanika,something,N3,pn,1188270,,ここまでのところで何か落としていることはありませんか。,Have I missed anything so far?
 5efa5daa2b,なにも,なにも,nanimo,nothing,N3,exp,1188490,何も,過ちのない者は何も作り出せない。,He who makes no mistakes makes nothing.
 9ede43e44c,鍋,なべ,nabe,saucepan; pot,N3,n,1459720,,ここに手のないナベがある。,Here is a pan without handles.
-6e5fe06358,怠ける,なまける,namakeru,to be idle; to neglect,N3,v1; vi,1410660,,なまけて時を過ごしてはならない。,You must not idle away.
+6e5fe06358,怠ける,なまける,namakeru,to be idle; to neglect,N3,v1; vi,1410660,,彼は勉強を怠けている。,He is lazy in his study.
 cae492d243,波,なみ,nami,wave,N3,n,1470970,,船は波のなすがままになっている。,The ship is at the mercy of the waves.
 037925a6d6,涙,なみだ,namida,tear,N3,n,1555930,,２粒の涙が彼女のほおを流れ落ちた。,Two tears fell down her cheeks.
 7f56822dfc,悩む,なやむ,nayamu,to be worried; to be troubled,N3,v5m; vi,1469870,,悩んでも何の利益にもならない。,There is no profit in worrying.
 0989459c37,縄,なわ,nawa,rope; hemp,N3,n,1459830,,彼は縄で木に縛り付けられた。,He was tied to the tree with a rope.
-2d389db4db,何で,なんで,nande,Why?; What for?,N3,adv,1611020,,ここになんで来たの？,How did you come here?
+2d389db4db,何で,なんで,nande,Why?; What for?,N3,adv,1611020,,何で彼女はそんなことをしたのか。,What made her do so?
 9ebc3edd19,何でも,なんでも,nandemo,by all means; everything,N3,exp,1611030,,この犬は何でもほとんど食べます。,This dog eats almost anything.
-39dd361425,何とか,なんとか,nantoka,somehow; anyhow; one way or another,N3,adv; vs,1188420,,なんとかその機械を動かした。,He managed to run the machine.
+39dd361425,何とか,なんとか,nantoka,somehow; anyhow; one way or another,N3,adv; vs,1188420,,急げば何とか間に合うと思います。,I think we'll make it if we hurry.
 395b9a867b,似合う,にあう,niau,to suit; to match; to become; to be like,N3,v5u; vi,1314680,,あのドレスは彼女によく似合う。,That dress really becomes her.
 b01e686ddf,苦手,にがて,nigate,poor (at); weak (in); dislike (of),N3,adj-na; n,1244470,,私は数学は苦手だ。,I am out of my element in math.
 d0ffc4ad62,握る,にぎる,nigiru,to grasp; to seize; to mould sushi,N3,v5r; vt,1152720,,彼らが眠っている間私がハンドルを握った。,I took the wheel while he slept.
@@ -1227,7 +1227,7 @@ d40e2575e0,抜く,ぬく,nuku,to extract; to omit; to surpass; to draw out; to u
 8af7987ba6,抜ける,ぬける,nukeru,to come out; to fall out; to be omitted,N3,v1; vi,1478200,,歯が１本抜けた。,One of my teeth came out.
 04380e6c35,布,ぬの,nuno,cloth,N3,n,1496840,,この布は値段の割に品質が良い。,This cloth is good in quality for its price.
 20b5089feb,ね,ね,ne,value; price; cost; worth; merit,N3,n,2836242,値,彼はその絵にたいへん高い値をつけた。,He put the painting at a very high price.
-e7a5df28c0,根,ね,ne,root,N3,n,1290020,,ねぇ、お願い。,"Oh, have a heart."
+e7a5df28c0,根,ね,ne,root,N3,n,1290020,,彼らは皆、根は善良な男たちなのだ。,They are all good men at heart.
 4d7cbebb57,願い,ねがい,negai,desire; wish; request,N3,n,1217900,,市長は私達の願いを聞き入れてくれた。,The mayor granted our request.
 7846a5b95f,願う,ねがう,negau,to desire; to wish; to request,N3,v5u; vt,1217950,,彼は私の許しを願った。,He asked my pardon.
 38191588bb,鼠,ねずみ,nezumi,mouse; rat; dark gray; slate color,N3,n,1397840,,猫がいなくなるとネズミたちが遊びだす。,"When the cat is away, the mice will play."
@@ -1251,15 +1251,15 @@ a5cf314cf9,残す,のこす,nokosu,"to leave (behind, over); to bequeath; to sav
 8d2c6575c2,望み,のぞみ,nozomi,wish; desire; (a) hope,N3,n,1519620,,あなたの望みが実現するといいですね。,I hope your wish will come true.
 767cb5e2e6,望む,のぞむ,nozomu,to desire; to wish for; to see; to command (a view of),N3,v5m; vt,1519630,,全国民が平和を望んでいる。,The whole nation wants peace.
 4850008747,ノック,ノック,nokku,knock; fungo (baseball),N3,n; vs; vt,1093920,,入る前にドアをノックして下さい。,Please knock on the door before you enter.
-ad88f57a3e,伸ばす,のばす,nobasu,to lengthen; to stretch; to reach out; to grow (beard),N3,v5s; vt,1600290,,その仕事を明日まで延ばすな。,Don't put off the work till tomorrow.
-d5c6b153f1,伸びる,のびる,nobiru,"to stretch; to extend; to make progress; to grow (beard, body height)",N3,v1; vi,1358870,,会議は来週までのびた。,The meeting has been put off until next week.
+ad88f57a3e,伸ばす,のばす,nobasu,to lengthen; to stretch; to reach out; to grow (beard),N3,v5s; vt,1600290,,あつかましいその子は私のひざの上に両足を伸ばした。,The impudent child extended her legs across my lap.
+d5c6b153f1,伸びる,のびる,nobiru,"to stretch; to extend; to make progress; to grow (beard, body height)",N3,v1; vi,1358870,,消費は心持ち伸びる程度でしょう。,Spending will grow only a touch faster.
 703453c2a3,述べる,のべる,noberu,to state; to express; to mention,N3,v1; vt,1340820,,私は客に別れのあいさつを述べた。,I bade farewell to the guests.
 9df259e377,昇る,のぼる,noboru,to arise; to ascend; to go up,N3,v5r; vi,1352570,,そのとき太陽がのぼるところだった。,The sun was coming up then.
 2af9a4e3e2,のんびり,のんびり,nonbiri,carefree; at leisure,N3,adv; adv-to,1010050,,日曜日はのんびりしています。,We always take it easy on Sundays.
 ca4cbf878d,場,ば,ba,place; field (physics),N3,n,1355790,,このネクタイはこのような場にふさわしくありません。,This tie is not suitable for a situation like this.
 08f58c3770,はあ,はあ,haa,yes; indeed; well,N3,int,2069620,,・・・はぁ、どう状況を受け止めればいいのかしら。,"... Aaah, just how am I supposed to cope with this I wonder?"
 2add5a6bbc,パーセント,パーセント,paasento,percent,N3,n,1100610,,現金払いには１０パーセント割引いたします。,We give a 10% discount for cash.
-9a9e81c6ea,灰,はい,hai,ash,N3,n,1201860,,「もしもし、ブラウンさんですか」「はい、そうです」,"""Hello, is this Mrs. Brown?"" ""Yes, this is Mrs. Brown."""
+9a9e81c6ea,灰,はい,hai,ash,N3,n,1201860,,すべては燃えて灰となった。,Everything was burnt to ashes.
 f59cd43bb0,バイオリン,バイオリン,baiorin,violin,N3,n,1097740,,彼女はバイオリンが大変上手です。,She plays the violin very well.
 34eebaa289,ハイキング,ハイキング,haikingu,hiking,N3,n; vs; vt; vi,1095040,,ハイキングは中止にしたほうがいいわね。,We had better cancel the hike.
 c4a32b9e77,配達,はいたつ,haitatsu,delivery; distribution,N3,n; vs; vt,1473140,,どれくらいで配達してもらえますか。,How soon can they be delivered?
@@ -1269,7 +1269,7 @@ b937b60491,パイロット,パイロット,pairotto,pilot,N3,n,1101260,,私の�
 2ebc49d99b,墓,はか,haka,grave; tomb,N3,n,1514840,,私は彼の墓を立ち去り難かった。,I hesitated to leave his grave.
 9d6bea343d,馬鹿,ばか,baka,fool; idiot; trivial matter; folly,N3,n,1601260,,なんという馬鹿なことだろう。,What a piece of folly!
 5b445da9d8,博士,はかせ,hakase,doctorate; PhD,N3,n; n-suf,1474620,,彼は心理学博士の学位を持っている。,He has a doctor's degree in psychology.
-6b741662df,計る,はかる,hakaru,to measure; to weigh; to survey,N3,v5r; vt,1600650,,私達は、その川の深さをはかった。,We measured the depth of the river.
+6b741662df,計る,はかる,hakaru,to measure; to weigh; to survey,N3,v5r; vt,1600650,,彼はマラソンで彼女のタイムを計った。,He timed her in the marathon race.
 ee21222664,吐く,はく,haku,to breathe; to tell (lies); to vomit; to disgorge,N3,v5k; vt,2646460,,,
 00612a587a,拍手,はくしゅ,hakushu,clapping hands; applause,N3,n; vs; vi,1474820,,その公演は万雷の拍手を受けた。,The performance was received with applause.
 978071c13d,莫大,ばくだい,bakudai,enormous; vast,N3,adj-na,1476060,,ジョンは莫大な財産を相続した。,John inherited a large fortune.
@@ -1301,7 +1301,7 @@ d9d15cf734,発明,はつめい,hatsumei,invention,N3,n; vs; vt,1477910,,エジ�
 cc409e931a,話し合う,はなしあう,hanashiau,to discuss; to talk together,N3,v5u; vt,1562310,,ここでその問題について話し合いましょう。,Let's discuss the matter here.
 aa0b4f216c,放す,はなす,hanasu,to separate; to set free,N3,v5s; vt,1516460,,その犬はボールを放そうとしなかった。,The dog wouldn't let go of the ball.
 156957f2ed,離す,はなす,hanasu,to part; divide; separate,N3,v5s; vt,1550830,,すみません。いま手が離せないんです。,"I'm sorry, I'm busy right now."
-0024055e8e,離れる,はなれる,hanareru,to be separated from; to leave; to go away; to be a long way off,N3,v1; vi,1550840,,彼はずっとはなれたところにあかりを見た。,He saw a light far away.
+0024055e8e,離れる,はなれる,hanareru,to be separated from; to leave; to go away; to be a long way off,N3,v1; vi,1550840,,彼女に愛着があって離れられない。,I am attached to her.
 a101c852f4,羽,はね,hane,counter for birds; counter for rabbits,N3,n,1171680,羽根,羽に深い傷を負った小鳥を見つけました。,I found a bird whose wing was severely damaged.
 3fe84c43ef,幅,はば,haba,width; breadth,N3,n,1500880,,この川の幅が１マイルある。,This river is one mile across.
 0caca661c5,母親,ははおや,hahaoya,mother,N3,n,1515120,,その女の子は彼女の母親と似ている。,The girl resembles her mother.
@@ -1310,7 +1310,7 @@ f7a2ae495f,場面,ばめん,bamen,scene; setting (e.g. of novel),N3,n,1355910,,�
 3d1e878581,原,はら,hara,field; plain; prairie; tundra; moor; wilderness,N3,n,1261140,,私達がよく野球をして遊んだ原は今すっかり家が建て込んでしまった。,The field where we used to play ball is now all built up.
 676b358d1e,腹,はら,hara,abdomen; belly; stomach,N3,n,1501110,,あの人は口と腹が反対だ。,He says one thing and means another.
 3e3a15d22b,針,はり,hari,needle; hand (e.g. clock),N3,n,1366210,,変な魚が針にかかっている。,A strange fish is on the hook.
-c5af695d0b,張る,はる,haru,to stick; to paste,N3,v5r; vt,1427900,,あなたの願書に最近の写真を貼りなさい。,Attach a recent photograph to your application form.
+c5af695d0b,張る,はる,haru,to stick; to paste,N3,v5r; vt,1427900,,問題はどこにテントを張るかだった。,The problem was where to set up the tent.
 cb012edb7f,バン,バン,ban,bun; van (caravan); VAN (value-added network),N3,n,1100090,,,
 7018224dfa,番,ばん,ban,number (in a series),N3,n; n-suf,2022640,,私の自宅の電話番号は市外局番が２０１で１２３ー４５６７番です。,"My home phone number is, area code two-oh-one, one-two-three, four-five-six-seven."
 01dda94e77,範囲,はんい,han'i,extent; scope; sphere; range,N3,n,1481890,,それらの範囲や形は不明確である。,Their scope and shape is unclear.
@@ -1346,7 +1346,7 @@ d7032c88c5,批判,ひはん,hihan,criticism; judgement; comment,N3,n; vs; vt,148
 6997e916e3,批評,ひひょう,hihyou,criticism; review; commentary,N3,n; vs; vt,1483440,,先生は学生たちの作文を批評した。,The teacher criticized his students' compositions.
 c3d0c7fa43,秘密,ひみつ,himitsu,secret; secrecy,N3,n; adj-na; adj-no,1484150,,私は彼女に取り入ってうまく秘密を聞き出した。,I charmed a secret out of her.
 233a387b5d,微妙,びみょう,bimyou,delicate; subtle,N3,adj-na; n,1486170,,その２つの絵には微妙な違いがある。,There are subtle differences between the two pictures.
-dee0d769c7,紐,ひも,himo,string; cord; pimp,N3,n,1487970,,何かこのひもを切るものを貸して下さい。,Lend me something with which to cut the string.
+dee0d769c7,紐,ひも,himo,string; cord; pimp,N3,n,1487970,,ほら、靴の紐がほどけているよ。,"Look, your shoelaces have come undone."
 ae29f467bd,表,ひょう,hyou,table (e.g. Tab 1); chart; list,N3,n; n-suf,1489350,,この表から食べたいものを選べます。,You may choose what to eat from this list.
 d684a35bd1,費用,ひよう,hiyou,cost; expense,N3,n,1484620,,諸設備の費用は払っていただきます。,You have to pay for utilities.
 38664919d1,秒,びょう,byou,second (60th min),N3,n,1490430,,私の時計は１日に５秒進みます。,My watch gains five seconds a day.
@@ -1357,7 +1357,7 @@ e53de06680,評価,ひょうか,hyouka,valuation; estimation; assessment; evaluat
 32b3f86071,評判,ひょうばん,hyouban,fame; reputation; popularity; arrant,N3,n; adj-no,1490070,,スキャンダルで会社の評判が落ちた。,The scandal hurt the company's reputation.
 82a95bb809,表面,ひょうめん,hyoumen,surface; outside; face; appearance,N3,n; adj-no,1489880,,突然の風で池の表面が波立った。,A sudden wind agitated the surface of the pond.
 05550395ae,広がる,ひろがる,hirogaru,to spread (out); to extend; to stretch; to reach to; to get around,N3,v5r; vi,1602360,,うわさは四方八方に広がった。,The rumor spread far and wide.
-1ea7451e69,瓶,びん,bin,bottle,N3,n,1491120,,私はサラダオイルを１びん買った。,I bought a bottle of salad oil.
+1ea7451e69,瓶,びん,bin,bottle,N3,n,1491120,,使用する前に瓶を振ってください。,Shake the bottle before using.
 526233614e,便,びん,bin,way; means,N3,n; n-suf,1512360,,東京行きは一日に何便ありますか。,How many flights to Tokyo do you offer a day?
 18ce3e646d,ピン,ピン,pin,pin,N3,n,1107060,,,
 41e221bc4d,不,ふ,fu,un; non; negative prefix,N3,pref,1922780,,要するに、彼が不注意だったのだ。,"In brief, he was careless."
@@ -1384,9 +1384,9 @@ a2dd9b9c3f,防ぐ,ふせぐ,fusegu,to defend (against); to protect; to prevent,N
 070cf68b21,不足,ふそく,fusoku,insufficiency; shortage; deficiency; lack; dearth,N3,n; vs; vi; adj-na,1493700,,私達は商品の不足を心配している。,We are concerned about the shortage of the commodities.
 2e83a59cd5,舞台,ぶたい,butai,stage (theatre),N3,n,1499150,,その物語の舞台は明治末期の日本である。,The setting of the story is Japan in the late Meiji period.
 3303a98af1,双子,ふたご,futago,twins; a twin,N3,n,1398750,,その双子は全くよく似ている。,The twins are very much alike.
-02a74abcd0,再び,ふたたび,futatabi,again; once more; a second time,N3,adv,1292300,,１度や２度の失敗はだれにでもある。,Everybody fails once or twice.
+02a74abcd0,再び,ふたたび,futatabi,again; once more; a second time,N3,adv,1292300,,そのようなことが再び起こりうるだろうか。,Can such a thing happen again?
 38272461d1,普段,ふだん,fudan,usually; habitually; ordinarily; always,N3,n; adv,1497180,,私は普段バスで通学しています。,I usually go to school by bus.
-7f83598742,縁,ふち,fuchi,a means; e.g. of living,N3,n,1177500,,私たちはがけのふちに立った。,We stood on the brink of a cliff.
+7f83598742,縁,ふち,fuchi,a means; e.g. of living,N3,n,1177500,,彼らは水瓶を縁まで一杯にした。,They filled the jug to the brim.
 08fb4b13c1,打つ,ぶつ,butsu,to hit; to strike,N3,v5t; vt,1408815,,ぶたれて耳鳴りがした。,My ears were ringing from being beaten.
 94b721726e,物価,ぶっか,bukka,prices of commodities; prices (in general),N3,n,1502430,,物価はまもなく下がるはずだ。,Prices ought to come down soon.
 aee461222c,物質,ぶっしつ,busshitsu,material; substance,N3,n,1502560,,その物質は酸で処理しなければならない。,The substance must be treated with acid.
@@ -1400,10 +1400,10 @@ aee461222c,物質,ぶっしつ,busshitsu,material; substance,N3,n,1502560,,そ�
 3fecda87cd,プラス,プラス,purasu,plus,N3,n; vs; vt; conj; pref; suf,1115630,,こうしたら君のプラスになる。,"If you do that, it will help you."
 e351a6f3de,プラン,プラン,puran,plan,N3,n,1115900,,このプランはみんなに満足がいくものです。,This plan is acceptable to all.
 133caaa87a,不利,ふり,furi,disadvantage; handicap; unfavorable; drawback,N3,n; adj-na,1495220,,背が高くないことは不利ではない。,Not being tall isn't a disadvantage.
-f63274b0b2,振る,ふる,furu,to wave; to shake; to swing; to sprinkle; to cast (actor); to allocate (work),N3,v5r; vt,1361330,,子犬がしっぽをふってついてきた。,A puppy followed me wagging its tail.
+f63274b0b2,振る,ふる,furu,to wave; to shake; to swing; to sprinkle; to cast (actor); to allocate (work),N3,v5r; vt,1361330,,私は頭を数回振った。,I shook my head a few times.
 29031b2ba5,震える,ふるえる,furueru,to shiver; to shake; to quake,N3,v1; vi,1366310,,少年は物音に震えた。,The boy quivered at the sound.
 24fa33d1a4,ブレーキ,ブレーキ,bureeki,a brake,N3,n,1114640,,彼は急にブレーキに足をかけた。,He put his foot on the brake suddenly.
-42ce4a629d,触れる,ふれる,fureru,"to touch; to be touched; to touch on a subject; to feel; to violate (law, copyright, etc.); to perceive",N3,v1; vi,1357990,,彼の手紙はその事件にそれとなくふれている。,His letter alludes to the event.
+42ce4a629d,触れる,ふれる,fureru,"to touch; to be touched; to touch on a subject; to feel; to violate (law, copyright, etc.); to perceive",N3,v1; vi,1357990,,何かが足に触れるのを感じた。,I felt something touch my feet.
 9cb4c24f0c,プロ,プロ,puro,professional,N3,n; adj-no,1117030,,あなたはプロだが私はアマチュアだ。,"You are a professional, but I am an amateur."
 39b0ac16ca,文,ぶん,bun,sentence,N3,n,1505090,,文は武に勝る。,The pen is mightier than the sword.
 a12218e8ea,雰囲気,ふんいき,fun'iki,atmosphere (e.g. musical); mood; ambience,N3,n,1505070,,このレストランの雰囲気が好き。,I like the atmosphere of this restaurant.
@@ -1432,7 +1432,7 @@ cd34099f98,宝石,ほうせき,houseki,gem; jewel,N3,n,1516220,,彼は宝石を�
 f5a2f8eace,豊富,ほうふ,houfu,abundance; wealth; plenty; bounty,N3,adj-na; n,1518180,,その国は石油が豊富である。,Oil is abundant in that country.
 edba4848b0,方法,ほうほう,houhou,method; manner; way; means; technique,N3,n,1517090,,これが、私が英語を勉強した方法だ。,This is how I learned English.
 9ae027f872,訪問,ほうもん,houmon,call; visit,N3,n; vs; vt; adj-no,1518120,,私はあなたを訪問するつもりだったができなかった。,I meant to have called on you.
-98d2fa2ac3,吠える,ほえる,hoeru,to bark; to bay; to howl; to bellow; to roar; to cry,N3,v1; vi,1603420,,彼のほえるのはかむのよりひどい。,His bark is worse than his bite.
+98d2fa2ac3,吠える,ほえる,hoeru,to bark; to bay; to howl; to bellow; to roar; to cry,N3,v1; vi,1603420,,犬が郵便屋さんに吠えた。,The dog barked at the mailman.
 00b4506e25,ボーイ,ボーイ,booi,boy,N3,n,1123230,,ボーイさん、コーヒー３つください。,"Waiter, three coffees, please."
 b86c6df29f,ボート,ボート,booto,rowing boat,N3,n,1123440,,橋の上流に私はボートを見た。,I saw a boat above the bridge.
 e11ef6d7e3,ホーム,ホーム,hoomu,platform; home,N3,n,1121740,,,
@@ -1447,7 +1447,7 @@ bd7dce62ae,骨,ほね,hone,bone,N3,n,1288550,,骨の折れる仕事をしてく�
 2afa66abdb,炎,ほのお,honoo,flame,N3,n,1177070,,その少女は炎を見て悲鳴を上げた。,The girl screamed when she saw the flames.
 867e9165fc,頬,ほほ,hoho,cheek (of face),N3,n,1584160,,涙が彼女の頬を伝って流れた。,Tears trickled down her cheeks.
 fa769c0e9b,ほぼ,ほぼ,hobo,almost; roughly; approximately,N3,adv,1551940,,「ほぼ４ポンドだよ」とボブが言う。,"""Nearly four pounds,"" says Bob."
-702cecd159,微笑む,ほほえむ,hohoemu,to smile,N3,v5m; vi,1486030,,彼は私のことがわかってほほえんだ。,He gave me a smile of recognition.
+702cecd159,微笑む,ほほえむ,hohoemu,to smile,N3,v5m; vi,1486030,,私は赤ちゃんを見ると微笑まずにはいられない。,I cannot help smiling at babies.
 1151601f8e,濠,ほり,hori,moat,N3,n,1522060,,敵軍は首都の周囲を塹壕で固めていた。,The enemy was entrenched all around the capital.
 ea3346c863,本当,ほんと,honto,truth; reality,N3,n; adj-no; adj-na,1523060,,その悪い知らせは残念ながら本当だ。,The bad news is unfortunately true.
 3f544e7ada,本人,ほんにん,honnin,the person himself,N3,n,1522750,,あなた本人が彼女に話さなければならない。,You must talk to her in person.
@@ -1472,15 +1472,15 @@ f91eb72b15,街,まち,machi,town; street; road,N3,n,1603990,,町が一面すっ�
 bcc0ebf62f,間違い,まちがい,machigai,mistake,N3,n,1215320,,この本は間違いだらけだ。,This book is full of mistakes.
 3f423a01da,松,まつ,matsu,pine tree; highest (of a three-tier ranking system),N3,n,1349860,,このバスは、松山市駅行きですね。,"This bus goes to the Matsuyama station, right?"
 ec9831dc0c,真っ赤,まっか,makka,deep red; flushed (of face),N3,adj-na; n,1363250,,そいつは真っ赤なうそだ。,That's a blessed lie.
-2eb5b8f659,全く,まったく,mattaku,really; truly; entirely; completely,N3,adv; adj-no,1394800,,「彼女はきれいだね」「まったくだ」,"""She is lovely."" ""So she is."""
+2eb5b8f659,全く,まったく,mattaku,really; truly; entirely; completely,N3,adv; adj-no,1394800,,彼女は料理のことは全く知らない。,She is quite ignorant of cooking.
 c53570cabd,祭,まつり,matsuri,festival; feast,N3,n,1604130,,その祭りはつまらないどころではありませんでした。,The festival was far from dull.
 8208cbb873,学ぶ,まなぶ,manabu,to study (in depth); to learn; to take lessons in,N3,v5b; vt,1206530,,いくつになっても学ぶことはある。,One is never too old to learn.
-59b359ba79,真似,まね,mane,mimicry; imitation; behavior; pretense,N3,n; vs; vt; vi,1363740,,その少年は馬鹿なまねをした。,The boy made a fool of himself.
+59b359ba79,真似,まね,mane,mimicry; imitation; behavior; pretense,N3,n; vs; vt; vi,1363740,,この鳥は人の声を真似できるんだ。,This bird can imitate the human voice.
 19edd800f0,招く,まねく,maneku,to invite,N3,v5k; vt,1349590,,私の誤りは彼の怒りを招いた。,My mistake incurred his anger.
 3efa32e22e,ママ,ママ,mama,Mama,N3,n,1129240,,台所でママのお手伝いをしたの。,I helped Mommy in the kitchen.
 4f949d1f9d,豆,まめ,mame,beans; peas,N3,n,1450030,,チョコレートはココアの豆から作られる。,Chocolate is made from cocoa beans.
 b517bb8180,守る,まもる,mamoru,to protect; to obey; to guard; to abide (by the rules),N3,v5r; vt,1327120,,いったん約束したのであれば、守らなければならない。,"Once you have made a promise, you must keep it."
-070c3ea238,丸,まる,maru,circle; full (month); perfection; purity; suffix for ship names,N3,suf,1216250,,１０００円かそこらで買えますよ。,You can buy it for a thousand yen or so.
+070c3ea238,丸,まる,maru,circle; full (month); perfection; purity; suffix for ship names,N3,suf,1216250,,今日から丸１日お願いします。,For a full day from today please.
 b556900c26,まるで,まるで,marude,quite; entirely; completely,N3,adv,1216280,丸で,まるで夢を見ているようだよ。,I feel as if I were dreaming.
 c3d0f24680,回す,まわす,mawasu,to turn; to revolve,N3,v5s; vt,1199350,,トムさん，モーターを回してください。,"Please start up the motor, Tom."
 59d7b934c6,回り,まわり,mawari,circumference; surroundings; circulation,N3,n,2800530,,私たちは先生の回りに集まった。,We grouped ourselves round our teacher.
@@ -1499,7 +1499,7 @@ e086a9e024,認める,みとめる,mitomeru,to recognize; to appreciate; to appro
 8fb52e4502,土産,みやげ,miyage,present; souvenir,N3,n,1445360,,これは友人への土産です。,These are gifts for my friends.
 c4956951f6,都,みやこ,miyako,capital,N3,n,1444950,,ロンドンはもはや霧の都ではない。,London is no longer a city of fog.
 3b5d6e485c,妙,みょう,myou,strange; unusual,N3,adj-na; n,1528490,,彼は生徒を教える事に妙をえている。,He is skillful in teaching pupils.
-1938fb6bcb,明後日,みょうごにち,myougonichi,day after tomorrow,N3,n; adv,1584640,,あさって彼にここへ来てもらうつもりです。,I will have him come here the day after tomorrow.
+1938fb6bcb,明後日,みょうごにち,myougonichi,day after tomorrow,N3,n; adv,1584640,,明後日雨が降れば、私は家にいます。,If it rains the day after tomorrow I'll be inside.
 246fc4acb8,未来,みらい,mirai,"future (life, tense)",N3,n,1528060,,あなたの未来に乾杯！,To your future!
 dcdfb791b5,魅力,みりょく,miryoku,charm; fascination; glamour,N3,n,1528150,,彼女の魅力はうまく表現できない。,Her charm is beyond description.
 f3143300d0,ミルク,ミルク,miruku,milk,N3,n,1131990,,このコップをミルクで満たした。,I filled this glass with milk.
@@ -1541,7 +1541,7 @@ b8f720cf6d,燃える,もえる,moeru,to burn,N3,v1; vi,1469570,,火がぼんぼ�
 1210c0bf0b,持ち上げる,もちあげる,mochiageru,to raise; to lift up; to flatter,N3,v1; vt,1315610,,この石は重すぎて持ち上げられない。,This stone is too heavy to lift.
 20bdc60bd0,用いる,もちいる,mochiiru,to use; to make use of,N3,v1; vt,1546210,,この語は今では用いられない。,That word has fallen out of use.
 0f4b2590f6,基,もと,moto,basis,N3,n,1260670,,その事務員は過労がもとで死んだ。,The clerk died from overwork.
-f5b7534060,元,もと,moto,origin; original; former,N3,n,1260670,,その事務員は過労がもとで死んだ。,The clerk died from overwork.
+f5b7534060,元,もと,moto,origin; original; former,N3,n,1260670,,やってしまったことは元に戻らない。,What is done cannot be undone.
 aa6e296421,素,もと,moto,prime,N3,n,1260670,,その事務員は過労がもとで死んだ。,The clerk died from overwork.
 b1ba670b85,戻す,もどす,modosu,to restore; to put back; to return,N3,v5s; vt,1535850,,その本を棚に戻しておきなさい。,Put the book back on the shelf.
 725adb9c35,基づく,もとづく,motozuku,to be grounded on; to be based on; to be due to; to originate from,N3,v5k; vi,1605270,,彼らの争いは誤解に基づくものだ。,The dispute between them is due to a misunderstanding.
@@ -1563,7 +1563,7 @@ abfa120074,約,やく,yaku,approximately; about; some,N3,adv,1538100,,その値�
 b9a7186462,雇う,やとう,yatou,to employ; to hire,N3,v5u; vt,1605570,,あの店は８人の店員を雇っている。,That store employs eight clerks.
 edba3a49e1,屋根,やね,yane,roof,N3,n,1182700,,彼は屋根の雪を取り除いた。,He cleared the roof of snow.
 aa391c76da,破る,やぶる,yaburu,to tear; to violate; to defeat; to smash; to destroy,N3,v5r; vt,1471200,,約束を破らないでよ。,Don't go back on your promise.
-22cc737e03,辞める,やめる,yameru,to retire,N3,v1; vt,1318950,,彼はやめるほか仕方がない。,He has no choice but to resign.
+22cc737e03,辞める,やめる,yameru,to retire,N3,v1; vt,1318950,,彼は首相を辞めざるを得なかった。,He was forced to resign as prime minister.
 586d4c294b,やや,やや,yaya,a little; partially; somewhat; a short time; a while,N3,adv; adj-f,1570120,稍,中古車にしてはこの値段はやや高い。,The price is kind of high for a used car.
 ea7b6990d3,唯一,ゆいいつ,yuiitsu,only; sole; unique,N3,adj-no; n; adv,1538920,,初めの一歩が唯一の難関。,The first step is the hardest.
 0f54df5fc1,言う,ゆう,yuu,to say,N3,v5u; vt,1587040,,この動物は日本語で何と言いますか。,What do you call this animal in Japanese?
@@ -1580,14 +1580,14 @@ ea7b6990d3,唯一,ゆいいつ,yuiitsu,only; sole; unique,N3,adj-no; n; adv,1538
 18a3f78106,有利,ゆうり,yuuri,advantageous; better; profitable; lucrative,N3,adj-na; n,1605720,,品物が少ないときには売り手が有利だ。,"When goods are scarce, sellers have the advantage."
 5489cdb398,床,ゆか,yuka,floor,N3,n,1349380,,床の上に何がありますか。,Is there anything on the floor?
 999ee69ee6,愉快,ゆかい,yukai,pleasant; happy,N3,adj-na; n,1538560,,あなたは昨日愉快に過ごしましたか。,Did you enjoy yourself yesterday?
-33f792ec39,譲る,ゆずる,yuzuru,to turn over; to assign; to hand over,N3,v5r; vt,1357030,,彼は老婦人に席をゆずった。,He offered his seat to an old woman.
+33f792ec39,譲る,ゆずる,yuzuru,to turn over; to assign; to hand over,N3,v5r; vt,1357030,,私はこの点については一歩も譲れません。,I will not give an inch on this point.
 952c7983d6,豊か,ゆたか,yutaka,abundant; wealthy; plentiful; rich,N3,adj-na; suf,1518130,,若いころに心を豊かにすべきだ。,You should enrich your mind when young.
 50842f69c2,許す,ゆるす,yurusu,to permit; to allow; to approve,N3,v5s; vt,1232870,,ＤＮＡのサンプルを貯える事は許されるべきではない。,It shouldn't be permitted to store samples of DNA.
-a384024715,夜,よ,yo,evening; night,N3,n; adv,1536350,,１０００円かそこらで買えますよ。,You can buy it for a thousand yen or so.
+a384024715,夜,よ,yo,evening; night,N3,n; adv,1536350,,夜はたいていの人が寝る時である。,Night is when most people go to bed.
 b434efd06b,夜明け,よあけ,yoake,dawn; daybreak,N3,n,1537150,,私は、突然夜明け前に起こされた。,I was woken up suddenly at dawn.
 ae7eaba50f,よい,よい,yoi,good; nice; pleasant; ok,N3,adj-i,1605820,良い; 好い,私にはよい友達が数人いる。,I have several good friends.
 72fe9b634b,酔う,よう,you,to get drunk; to become intoxicated,N3,v5u; vi,1372650,,まるで酔っているようだ。,She looks as if she were drunk.
-bcab821414,様,よう,you,way; manner; kind,N3,n-suf; n,1605840,,ケンは人懐っこい人であるようだ。,Ken appears a friendly person.
+bcab821414,様,よう,you,way; manner; kind,N3,n-suf; n,1605840,,彼はそれについて知っている様だ。,It seems that he knows about it.
 120086e720,容易,ようい,youi,easy; simple; plain,N3,adj-na; n,1545350,,ココの知能指数を調べるのは容易ではない。,Testing Koko's IQ is not easy.
 e96372be15,陽気,ようき,youki,season; weather; cheerfulness,N3,n,1546990,,ナンシーはとても陽気でかわいらしい性格だ。,Nancy has a very lively and sweet temperament.
 7b812f29c4,要求,ようきゅう,youkyuu,request; demand; requisition,N3,n; vs; vt,1546680,,要求されたものは全て送りました。,Everything that was asked for has now been sent.
@@ -1645,17 +1645,17 @@ cd42c9314f,ロケット,ロケット,roketto,locket; rocket,N3,n,1147220,,,
 6fcfd8b60b,論じる,ろんじる,ronjiru,to argue; to discuss; to debate,N3,v1; vt,1561620,,その問題を自由に論じた。,We discussed the problem freely.
 3a7b01e5d4,論争,ろんそう,ronsou,controversy; dispute,N3,n; vs; vi,1561760,,彼は論争すべきことを投げ与えてくるだろう。,He will cast me a bone to pick.
 60bb4e1af0,論文,ろんぶん,ronbun,thesis; essay; treatise; paper,N3,n,1561840,,彼はその問題について論文を書いた。,He wrote a paper on the subject.
-3f77054caf,輪,わ,wa,ring; hoop; circle,N3,n,1555710,,あなたの髪は長いわね。,What long hair you've got!
+3f77054caf,輪,わ,wa,ring; hoop; circle,N3,n,1555710,,そう言えば小さすぎるわよ、その指輪。,"Now that I think of it, it's too small - that ring."
 06d663e37a,ワイン,ワイン,wain,wine,N3,n,1148850,,あのおいしいワインをなぜ飲まないんだい。,Why not try that delicious wine?
 b1861d938a,わがまま,わがまま,wagamama,selfishness; egoism; wilfulness; disobedience; whim,N3,adj-na; n,1197020,我がまま,彼女は彼のわがままを許さなかった。,She didn't tolerate his selfishness.
 31f9300fb0,別れ,わかれ,wakare,parting; separation; farewell,N3,n,1509490,,会うは別れの始め。,To meet is to part.
-037c2ecb86,脇,わき,waki,side,N3,n,1562530,,車のわきの男の子をごらんなさい。,Look at the boy beside the car.
-1b8be0151e,分ける,わける,wakeru,to divide; to separate,N3,v1; vt,1503000,,母は子供たちに金をわけてやった。,The mother divided the money among her children.
+037c2ecb86,脇,わき,waki,side,N3,n,1562530,,彼がブリーフケースを脇に抱えてやってくるのが見えた。,I saw him coming with his briefcase under his arm.
+1b8be0151e,分ける,わける,wakeru,to divide; to separate,N3,v1; vt,1503000,,ケーキをあなた方２人で分けなさい。,Divide the cake between you two.
 b778777901,わざと,わざと,wazato,on purpose,N3,adv,1410760,態と,そのピエロはわざと転んだ。,The clown fell down on purpose.
 b87cfb16ef,僅か,わずか,wazuka,only; merely; a little; small quantity,N3,adj-na; adj-no,1240750,,夏休みまであとわずか一週間だ。,The summer vacation is only a week away.
 e7eeb8eff1,話題,わだい,wadai,topic; subject,N3,n,1562400,,その話題は話し合う価値がある。,The topic is worth discussing.
 40312166c1,笑い,わらい,warai,laugh; laughter; smile,N3,n,1351280,,ぎこちない笑いをした店員が答えた。,The smirking male clerk replied.
 733619e0ef,割る,わる,waru,to divide; to cut; to break; to halve,N3,v5r; vt,1208000,,マイケルは皿を割ってしまった。,Michael broke the dishes.
 b440e7ed66,悪口,わるくち,warukuchi,abuse; insult; slander; evil speaking,N3,n,1575730,,,
-3fc07b1856,我々,われわれ,wareware,we,N3,pn,1607050,,われわれは約束を守るべきである。,We should keep our promise.
+3fc07b1856,我々,われわれ,wareware,we,N3,pn,1607050,,しかし我々は彼なしで続行した。,But we carried on without him.
 ef9bb7868b,湾,わん,wan,bay; gulf; inlet,N3,n; n-suf,1562800,,川は山から下って湾に注いでいる。,The river descends from the mountains to the bay below.

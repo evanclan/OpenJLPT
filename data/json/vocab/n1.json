@@ -16,14 +16,14 @@
     "jmdict_id": 1565440,
     "examples": [
       {
+        "ja": "ああ、もしかして名前を呼ばれるのが恥ずかしいって？",
+        "en": "Ah, could it be you're embarrassed to be called by your first name?",
+        "tatoeba_id": 76927
+      },
+      {
         "ja": "ああ飛行機が離陸する。",
         "en": "Look! There's a plane taking off.",
         "tatoeba_id": 234697
-      },
-      {
-        "ja": "ああ、また失敗した。",
-        "en": "Ah, I've failed again!",
-        "tatoeba_id": 234708
       }
     ]
   },
@@ -210,9 +210,9 @@
         "tatoeba_id": 234525
       },
       {
-        "ja": "彼女はあえて試験の結果を聞いた。",
-        "en": "She dared to ask for the results of the exams.",
-        "tatoeba_id": 93471
+        "ja": "私は危険を犯して敢えてソニーの株を５００株買った。",
+        "en": "I went out on a limb and bought 500 shares of Sony stock.",
+        "tatoeba_id": 157773
       }
     ]
   },
@@ -575,14 +575,14 @@
     "jmdict_id": 1151230,
     "examples": [
       {
-        "ja": "いかなる善意の考えもそれ自体はあくでありうる。",
-        "en": "Any virtuous idea can be vicious in itself.",
-        "tatoeba_id": 229286
-      },
-      {
         "ja": "彼は人種差別を悪だと決めつけた。",
         "en": "He condemned racial discrimination as evil.",
         "tatoeba_id": 103552
+      },
+      {
+        "ja": "競争それ自体は善でも悪でもない。",
+        "en": "Competition is neither good nor evil in itself.",
+        "tatoeba_id": 181522
       }
     ]
   },
@@ -707,9 +707,9 @@
         "tatoeba_id": 154036
       },
       {
-        "ja": "彼はあごの下にナプキンをはさみ込んだ。",
-        "en": "He tucked the napkin under his chin.",
-        "tatoeba_id": 114974
+        "ja": "彼女は私の顎をひっぱたいた。",
+        "en": "She slapped me on the chin.",
+        "tatoeba_id": 89409
       }
     ]
   },
@@ -731,14 +731,14 @@
     "jmdict_id": 1453800,
     "examples": [
       {
+        "ja": "同時通訳が彼女の憧れだ。",
+        "en": "Her dream is to become a simultaneous interpreter.",
+        "tatoeba_id": 123676
+      },
+      {
         "ja": "彼は彼女の恵まれた才能にあこがれを抱いた。",
         "en": "He longed for her talented skills.",
         "tatoeba_id": 100924
-      },
-      {
-        "ja": "彼女は兄にあこがれを抱いている。",
-        "en": "She adores her elder brother.",
-        "tatoeba_id": 90338
       }
     ]
   },
@@ -849,14 +849,14 @@
     "jmdict_id": 1225420,
     "examples": [
       {
-        "ja": "私をあざむこうとしてもむだです。",
-        "en": "It is no use trying to deceive me.",
-        "tatoeba_id": 152176
-      },
-      {
         "ja": "彼は他人を欺くようなことはしない。",
         "en": "He is above deceiving others.",
         "tatoeba_id": 102606
+      },
+      {
+        "ja": "私をあざむこうとしてもむだです。",
+        "en": "It is no use trying to deceive me.",
+        "tatoeba_id": 152176
       }
     ]
   },
@@ -972,14 +972,14 @@
     "jmdict_id": 1350780,
     "examples": [
       {
-        "ja": "彼は新しい仕事を始めようとあせっていた。",
-        "en": "He was in a hurry to begin the new job.",
-        "tatoeba_id": 103806
-      },
-      {
         "ja": "彼は遅れを取り戻そうと焦っている。",
         "en": "He's desperately trying to make up for the delay.",
         "tatoeba_id": 102186
+      },
+      {
+        "ja": "売り上げを伸ばそうと焦らなくてもいい。",
+        "en": "Don't worry about making lots of sales.",
+        "tatoeba_id": 121477
       }
     ]
   },
@@ -1057,14 +1057,14 @@
     "jmdict_id": 1311125,
     "examples": [
       {
-        "ja": "この人、あたしをどなりつけるんですよ！",
-        "en": "This man's shouting at me!",
-        "tatoeba_id": 221008
-      },
-      {
         "ja": "彼女は私の子供の世話をしてくれる。",
         "en": "She takes care of my children.",
         "tatoeba_id": 89373
+      },
+      {
+        "ja": "私は彼の具合がよいのだと信じていた。",
+        "en": "I believed him to be in good health.",
+        "tatoeba_id": 101198
       }
     ]
   },
@@ -1393,14 +1393,14 @@
     "jmdict_id": 1448820,
     "examples": [
       {
+        "ja": "その手紙は私宛に来た。",
+        "en": "The letter is for me.",
+        "tatoeba_id": 209496
+      },
+      {
         "ja": "あの人達の助力はあてにできないよ。",
         "en": "You can't count on their help.",
         "tatoeba_id": 230696
-      },
-      {
-        "ja": "ここにあなたあての手紙が何通かあります。",
-        "en": "Here are some letters for you.",
-        "tatoeba_id": 224512
       }
     ]
   },
@@ -1423,14 +1423,14 @@
     "jmdict_id": 1448820,
     "examples": [
       {
-        "ja": "あの人達の助力はあてにできないよ。",
-        "en": "You can't count on their help.",
-        "tatoeba_id": 230696
+        "ja": "彼の約束は少しも当てにできない。",
+        "en": "His promise cannot be counted on at all.",
+        "tatoeba_id": 115968
       },
       {
-        "ja": "ここにあなたあての手紙が何通かあります。",
-        "en": "Here are some letters for you.",
-        "tatoeba_id": 224512
+        "ja": "その時計は正確で当てにできる。",
+        "en": "The clock is accurate and reliable.",
+        "tatoeba_id": 209721
       }
     ]
   },
@@ -1750,14 +1750,14 @@
     "jmdict_id": 1534380,
     "examples": [
       {
-        "ja": "あみでせみを捕まえた。",
-        "en": "We captured cicadas with a net.",
-        "tatoeba_id": 230285
-      },
-      {
         "ja": "網にかかったものは何でも魚だ。",
         "en": "All's fish that comes to the net.",
         "tatoeba_id": 80154
+      },
+      {
+        "ja": "彼女は網を張らないで綱渡りに挑んだ。",
+        "en": "She dared to walk the tightrope without a net.",
+        "tatoeba_id": 86538
       }
     ]
   },
@@ -2029,14 +2029,14 @@
     "jmdict_id": 1542860,
     "examples": [
       {
-        "ja": "私たちはあらかじめスナックを用意しておいた。",
-        "en": "We prepared snacks beforehand.",
-        "tatoeba_id": 166624
+        "ja": "休暇の計画を予め立てている。",
+        "en": "We are making advance plans for our holidays.",
+        "tatoeba_id": 75268
       },
       {
-        "ja": "あらかじめ計画をお知らせください。",
-        "en": "Please let me know the schedule beforehand.",
-        "tatoeba_id": 230071
+        "ja": "予め断りますが、今日のブログは面白くないよ～。",
+        "en": "Just to warn you in advance, today's blog is no fun.",
+        "tatoeba_id": 75677
       }
     ]
   },
@@ -2646,14 +2646,14 @@
     "jmdict_id": 1277440,
     "examples": [
       {
-        "ja": "いいかげんに仕事をするな。",
-        "en": "Don't do the job just any old way.",
-        "tatoeba_id": 229411
+        "ja": "この静かな生活にはいい加減飽きてしまった。",
+        "en": "I'm about tired of this quiet life.",
+        "tatoeba_id": 220895
       },
       {
-        "ja": "いいかげんな話はやめろ。",
-        "en": "Don't give me that!",
-        "tatoeba_id": 229413
+        "ja": "彼はいい加減な返事で言い逃れた。",
+        "en": "He put me off with a vague answer.",
+        "tatoeba_id": 119119
       }
     ]
   },
@@ -2775,14 +2775,14 @@
     "jmdict_id": 1587070,
     "examples": [
       {
-        "ja": "彼はわずかな収入を精一杯活かした。",
-        "en": "He made the best of his small income.",
-        "tatoeba_id": 110252
-      },
-      {
         "ja": "心停止の患者を応急処置で生かした。",
         "en": "We used emergency measures to revive the cardiac arrest patient.",
         "tatoeba_id": 393806
+      },
+      {
+        "ja": "自分も生き、他人も生かせ。",
+        "en": "Live and let live.",
+        "tatoeba_id": 149745
       }
     ]
   },
@@ -2819,14 +2819,14 @@
     "jmdict_id": 1466970,
     "examples": [
       {
+        "ja": "何を話すかは、いかに話すかより重要である。",
+        "en": "What you're talking about is more important than how you say it.",
+        "tatoeba_id": 187534
+      },
+      {
         "ja": "私は教育がいかに重要であるかを痛感しました。",
         "en": "It was brought home to me how important education is.",
         "tatoeba_id": 157609
-      },
-      {
-        "ja": "環境汚染にいかに取り組むかは深刻な問題である。",
-        "en": "How to deal with environmental pollution is a serious matter.",
-        "tatoeba_id": 183893
       }
     ]
   },
@@ -3668,14 +3668,14 @@
     "jmdict_id": 1311850,
     "examples": [
       {
-        "ja": "私がいたって彼がいうこと聞く訳ないじゃない。",
-        "en": "He never hears what I'm trying to say.",
-        "tatoeba_id": 168060
-      },
-      {
         "ja": "私は至って健康で、風邪ひとつひきません。",
         "en": "I am quite healthy and have had no cold.",
         "tatoeba_id": 156471
+      },
+      {
+        "ja": "私がいたって彼がいうこと聞く訳ないじゃない。",
+        "en": "He never hears what I'm trying to say.",
+        "tatoeba_id": 168060
       }
     ]
   },
@@ -3702,9 +3702,9 @@
         "tatoeba_id": 114408
       },
       {
-        "ja": "傷むのを防ぐために、遠海で捕獲した魚は直ちに冷却される。",
-        "en": "To avoid spoiling, fish caught far out at sea are immediately cooled or even frozen.",
-        "tatoeba_id": 147206
+        "ja": "その療法は少し痛むのでしょうか。",
+        "en": "Will the therapy cause me any pain?",
+        "tatoeba_id": 206213
       }
     ]
   },
@@ -3730,14 +3730,14 @@
     "jmdict_id": 1432720,
     "examples": [
       {
-        "ja": "彼は氷の上で転んで脚を傷めた。",
-        "en": "He fell down on the ice and hurt his leg.",
-        "tatoeba_id": 100617
-      },
-      {
         "ja": "転んで手首を痛めました。",
         "en": "I fell down and hurt my wrist.",
         "tatoeba_id": 124958
+      },
+      {
+        "ja": "彼は読書のしすぎで目を痛めた。",
+        "en": "He strained his eyes by reading too much.",
+        "tatoeba_id": 101585
       }
     ]
   },
@@ -4024,14 +4024,14 @@
     "jmdict_id": 1576150,
     "examples": [
       {
-        "ja": "彼はひとりになると即座にその手紙を開いた。",
-        "en": "The moment that he was alone he opened the letter.",
-        "tatoeba_id": 111122
-      },
-      {
         "ja": "私は一人の弟がいます。",
         "en": "I have one brother.",
         "tatoeba_id": 158458
+      },
+      {
+        "ja": "彼等は委員会に女性を一人加えた。",
+        "en": "They added a woman to the committee.",
+        "tatoeba_id": 86019
       }
     ]
   },
@@ -4329,14 +4329,14 @@
     "jmdict_id": 1164170,
     "examples": [
       {
-        "ja": "それは他のいっさいに勝っている。",
-        "en": "It is paramount to all the others.",
-        "tatoeba_id": 205011
-      },
-      {
         "ja": "彼は私に食べ物を一切くれなかった。",
         "en": "He didn't give me anything to eat.",
         "tatoeba_id": 106034
+      },
+      {
+        "ja": "彼は一切の論議に耳を貸さなかった。",
+        "en": "He was deaf to all arguments.",
+        "tatoeba_id": 109915
       }
     ]
   },
@@ -4769,14 +4769,14 @@
     "jmdict_id": 1527110,
     "examples": [
       {
-        "ja": "私はまだその問題が解けない。",
-        "en": "I haven't been able to solve the problem yet.",
-        "tatoeba_id": 158891
+        "ja": "その島にはまだ未開の種族がいる。",
+        "en": "There are still some savage tribes on that island.",
+        "tatoeba_id": 207507
       },
       {
-        "ja": "情報がないより悪い知らせでもあるほうがまだましだ。",
-        "en": "Bad news is preferable to an absence of information.",
-        "tatoeba_id": 146050
+        "ja": "未だパリに行ったことがありません。",
+        "en": "I have never been to Paris.",
+        "tatoeba_id": 81061
       }
     ]
   },
@@ -5741,9 +5741,9 @@
         "tatoeba_id": 193757
       },
       {
-        "ja": "彼女は私をうそつきだと非難した。",
-        "en": "She accused me of being a liar.",
-        "tatoeba_id": 89292
+        "ja": "彼らは彼に嘘つきの汚名を着せた。",
+        "en": "They branded him as a liar.",
+        "tatoeba_id": 96365
       }
     ]
   },
@@ -5980,9 +5980,9 @@
         "tatoeba_id": 81316
       },
       {
-        "ja": "いつもうっとうしい感じがするのです。",
-        "en": "I always feel gloomy.",
-        "tatoeba_id": 228769
+        "ja": "ベタベタするんじゃねえよっ！鬱陶しい！",
+        "en": "Get off me you little pest!",
+        "tatoeba_id": 76448
       }
     ]
   },
@@ -6143,14 +6143,14 @@
     "jmdict_id": 1317730,
     "examples": [
       {
-        "ja": "彼はうぬぼれが強過ぎるのでだれからも嫌われる。",
-        "en": "He is so full of conceit that everybody dislikes him.",
-        "tatoeba_id": 114309
-      },
-      {
         "ja": "誰でも大なり小なり自惚れはある。",
         "en": "Everyone is more or less conceited.",
         "tatoeba_id": 136793
+      },
+      {
+        "ja": "彼女はいつも鏡で自分の姿を見ている、何といううぬぼれだ。",
+        "en": "She's always looking at herself in the mirror - What vanity.",
+        "tatoeba_id": 93298
       }
     ]
   },
@@ -6229,14 +6229,14 @@
     "jmdict_id": 1588410,
     "examples": [
       {
-        "ja": "その貸付金は、８分の利益を生む。",
-        "en": "The loan bears an 8% interest.",
-        "tatoeba_id": 208276
-      },
-      {
         "ja": "年明けに子供が産まれる予定です♪",
         "en": "I'm expecting a baby in the new year!",
         "tatoeba_id": 74933
+      },
+      {
+        "ja": "彼女の猫、また四匹も産んだんだ。",
+        "en": "Her cat had another four kittens.",
+        "tatoeba_id": 94101
       }
     ]
   },
@@ -6772,14 +6772,14 @@
     "jmdict_id": 1198160,
     "examples": [
       {
+        "ja": "陸上競技会は大雨のため中止になった。",
+        "en": "The track meet was called off on account of the heavy rain.",
+        "tatoeba_id": 206241
+      },
+      {
         "ja": "え、そうですとも。",
         "en": "Yes, that is most certainly so.",
         "tatoeba_id": 74886
-      },
-      {
-        "ja": "え、出かける前に、しっかりかぎをかけたんですね。",
-        "en": "Really? I had locked it up before I went out.",
-        "tatoeba_id": 228049
       }
     ]
   },
@@ -7102,14 +7102,14 @@
     "jmdict_id": 1588750,
     "examples": [
       {
-        "ja": "彼のえりのサイズはいくつですか。",
-        "en": "What size of collar does he take?",
-        "tatoeba_id": 118398
-      },
-      {
         "ja": "見知らぬ男が私の襟をつかんだ。",
         "en": "A strange man caught me by the collar.",
         "tatoeba_id": 175123
+      },
+      {
+        "ja": "彼女はそのメダルをピンで襟にとめた。",
+        "en": "She fastened the medal on the lapel with a pin.",
+        "tatoeba_id": 92566
       }
     ]
   },
@@ -7596,14 +7596,14 @@
     "jmdict_id": 1485770,
     "examples": [
       {
-        "ja": "お、タエ、このチーズいけるよ。",
-        "en": "Oh, Tae, this cheese is a winner!",
-        "tatoeba_id": 76834
-      },
-      {
         "ja": "雄のくじゃくは尾の羽毛が色彩豊かである。",
         "en": "The male peacock has colorful tail feathers.",
         "tatoeba_id": 79151
+      },
+      {
+        "ja": "犬はその魚を骨も尾も全部食べた。",
+        "en": "The dog ate the fish, bones, tail and all.",
+        "tatoeba_id": 175302
       }
     ]
   },
@@ -7627,9 +7627,9 @@
         "tatoeba_id": 164280
       },
       {
-        "ja": "おい、おっさん！何やってんだよ！",
-        "en": "Hey, pops! What are you doing!",
-        "tatoeba_id": 76831
+        "ja": "彼は私の息子ではなく、甥である。",
+        "en": "He is not my son, but my nephew.",
+        "tatoeba_id": 105753
       }
     ]
   },
@@ -8007,14 +8007,14 @@
     "jmdict_id": 1588890,
     "examples": [
       {
-        "ja": "その老人はおおげさに言う傾向がある。",
-        "en": "The old man tends to exaggerate.",
-        "tatoeba_id": 206154
-      },
-      {
         "ja": "彼は何でも大げさに言う傾向がある。",
         "en": "He has a tendency toward exaggeration.",
         "tatoeba_id": 109432
+      },
+      {
+        "ja": "あなたは問題を大袈裟に考えている。",
+        "en": "You are exaggerating the problem.",
+        "tatoeba_id": 231523
       }
     ]
   },
@@ -8232,9 +8232,9 @@
         "tatoeba_id": 150096
       },
       {
-        "ja": "彼女は秘密をあかしてくれなかった。",
-        "en": "She did not let me into her secret.",
-        "tatoeba_id": 87142
+        "ja": "憲法を侵してはならない。",
+        "en": "We must not violate the Constitution.",
+        "tatoeba_id": 175386
       }
     ]
   },
@@ -8468,14 +8468,14 @@
     "jmdict_id": 1316820,
     "examples": [
       {
-        "ja": "嵐がしだいにおさまってきた。",
-        "en": "The storm has gradually abated.",
-        "tatoeba_id": 78468
+        "ja": "痛みはやがて治まってくるでしょう。",
+        "en": "The pain will go away by and by.",
+        "tatoeba_id": 125675
       },
       {
-        "ja": "その薬のおかげで彼の腹痛はおさまった。",
-        "en": "The medicine relieved him of his stomach-ache.",
-        "tatoeba_id": 206316
+        "ja": "この薬を飲めば腹痛は治まりますよ。",
+        "en": "This medicine will cure you of your stomach-ache.",
+        "tatoeba_id": 219242
       }
     ]
   },
@@ -8804,14 +8804,14 @@
     "jmdict_id": 1236660,
     "examples": [
       {
-        "ja": "私たちは命を失うおそれがあった。",
-        "en": "We were in danger of losing our lives.",
-        "tatoeba_id": 165100
+        "ja": "おまけに、事故の恐れがより大きい。",
+        "en": "Also, there is a greater risk of accidents.",
+        "tatoeba_id": 227508
       },
       {
-        "ja": "この小屋は倒壊のおそれがある。",
-        "en": "This hut is in danger of falling down.",
-        "tatoeba_id": 221181
+        "ja": "小さな子供達の生活は恐れに満ちている。",
+        "en": "The lives of little children are full of fears.",
+        "tatoeba_id": 147002
       }
     ]
   },
@@ -8836,14 +8836,14 @@
     "jmdict_id": 1236680,
     "examples": [
       {
-        "ja": "彼の才能にはおそれいったよ。",
-        "en": "I admire his talent.",
-        "tatoeba_id": 117287
-      },
-      {
         "ja": "立て板に水の如きプレゼンテーション、おそれ入りました。",
         "en": "Your presentation was so smooth and fluent - what can I say?",
         "tatoeba_id": 78275
+      },
+      {
+        "ja": "間髪を入れず、迅速かつ的確な応対、畏れ入ります。",
+        "en": "Such an accurate, lightning-quick reply. What can I say?",
+        "tatoeba_id": 183700
       }
     ]
   },
@@ -8984,14 +8984,14 @@
     "jmdict_id": 1182940,
     "examples": [
       {
-        "ja": "彼女の着物と帯の取り合わせはおつだね。",
-        "en": "Her kimono and obi combination is smart, isn't it?",
-        "tatoeba_id": 75758
-      },
-      {
         "ja": "甲の損は乙の得。",
         "en": "One man's gain is another man's loss.",
         "tatoeba_id": 173523
+      },
+      {
+        "ja": "彼女の着物と帯の取り合わせはおつだね。",
+        "en": "Her kimono and obi combination is smart, isn't it?",
+        "tatoeba_id": 75758
       }
     ]
   },
@@ -9239,9 +9239,9 @@
         "tatoeba_id": 89432
       },
       {
-        "ja": "お伴したいものです。",
-        "en": "I would like to go with you.",
-        "tatoeba_id": 226772
+        "ja": "私は喜んであなたのお供をします。",
+        "en": "I am ready to follow you.",
+        "tatoeba_id": 157767
       }
     ]
   },
@@ -9452,14 +9452,14 @@
     "jmdict_id": 1410430,
     "examples": [
       {
-        "ja": "私は重大使命をおびている。",
-        "en": "I am charged with an important mission.",
-        "tatoeba_id": 156009
+        "ja": "その問題は新しい性格を帯び始めた。",
+        "en": "The question began to assume a new character.",
+        "tatoeba_id": 206407
       },
       {
-        "ja": "この歌は哀調をおびている。",
-        "en": "This song sounds sad.",
-        "tatoeba_id": 222779
+        "ja": "彼は極秘の使命を帯びていた。",
+        "en": "He was charged with a secret mission.",
+        "tatoeba_id": 108287
       }
     ]
   },
@@ -9485,9 +9485,9 @@
         "tatoeba_id": 201041
       },
       {
-        "ja": "彼に一度会ったおぼえがあります。",
-        "en": "I remember seeing him once.",
-        "tatoeba_id": 154202
+        "ja": "彼女には何処かで会った覚えがある。",
+        "en": "I remember meeting her somewhere.",
+        "tatoeba_id": 94975
       }
     ]
   },
@@ -9677,14 +9677,14 @@
     "jmdict_id": 1498190,
     "examples": [
       {
-        "ja": "決心がつきかねたので、私は感情のおもむくままに行動した。",
-        "en": "I couldn't decide what to do, so I just followed my heart.",
-        "tatoeba_id": 175907
-      },
-      {
         "ja": "しばしば、彼女は自ら赴かねばならなかった。",
         "en": "More often than not, she had to go in person.",
         "tatoeba_id": 193208
+      },
+      {
+        "ja": "決心がつきかねたので、私は感情のおもむくままに行動した。",
+        "en": "I couldn't decide what to do, so I just followed my heart.",
+        "tatoeba_id": 175907
       }
     ]
   },
@@ -9779,14 +9779,14 @@
     "jmdict_id": 1228140,
     "examples": [
       {
-        "ja": "このような犯罪は罰金および投獄又はそのいずれかで罰せられる。",
-        "en": "Such an offence is punished by a fine and/or imprisonment.",
-        "tatoeba_id": 223083
+        "ja": "全ての商品及びレストランで割引が効くわけではありません。",
+        "en": "The discount can't be used for all goods or at all restaurants.",
+        "tatoeba_id": 75918
       },
       {
-        "ja": "私は妹と性格および習慣が大きく異なる。",
-        "en": "I am widely different from my little sister in character and habits.",
-        "tatoeba_id": 152776
+        "ja": "現代の情報及び交通網のおかげで世界はますます小さくなっている。",
+        "en": "Because of modern communication and transportation systems, the world is getting smaller.",
+        "tatoeba_id": 174845
       }
     ]
   },
@@ -9869,9 +9869,9 @@
         "tatoeba_id": 207445
       },
       {
-        "ja": "ライオンはオリから出ようともがいた。",
-        "en": "The lion struggled to get out of his cage.",
-        "tatoeba_id": 192683
+        "ja": "檻に入れられた虎は盛んに尾を振った。",
+        "en": "The caged tiger lashed its tail.",
+        "tatoeba_id": 77092
       }
     ]
   },
@@ -9986,9 +9986,9 @@
         "tatoeba_id": 227533
       },
       {
-        "ja": "オレを非難するのはお門違いだ。",
-        "en": "You're barking up the wrong tree.",
-        "tatoeba_id": 227439
+        "ja": "忘れずに俺も頭数に入れてくれよ。",
+        "en": "Don't forget to count me in.",
+        "tatoeba_id": 82574
       }
     ]
   },
@@ -10141,14 +10141,14 @@
     "jmdict_id": 1192680,
     "examples": [
       {
-        "ja": "そうするなと警告したではないか。",
-        "en": "I warned you not to do so, didn't I?",
-        "tatoeba_id": 213870
+        "ja": "今学期はどんな教科を選択しますか。",
+        "en": "What are you going to take this semester?",
+        "tatoeba_id": 172484
       },
       {
-        "ja": "お茶かコーヒーでもいかがですか。",
-        "en": "Would you like tea or coffee?",
-        "tatoeba_id": 226878
+        "ja": "学校ではどんな科目を勉強しますか。",
+        "en": "What subjects do you study at school?",
+        "tatoeba_id": 184483
       }
     ]
   },
@@ -10167,14 +10167,14 @@
     "jmdict_id": 2220320,
     "examples": [
       {
+        "ja": "この鶏は週に何個卵を産みますか。",
+        "en": "How many eggs does this hen lay each week?",
+        "tatoeba_id": 222187
+      },
+      {
         "ja": "そうするなと警告したではないか。",
         "en": "I warned you not to do so, didn't I?",
         "tatoeba_id": 213870
-      },
-      {
-        "ja": "お茶かコーヒーでもいかがですか。",
-        "en": "Would you like tea or coffee?",
-        "tatoeba_id": 226878
       }
     ]
   },
@@ -10222,14 +10222,14 @@
     "jmdict_id": 1184480,
     "examples": [
       {
-        "ja": "ケンさん、君は本気かい。",
-        "en": "Are you on the level, Ken?",
-        "tatoeba_id": 225199
-      },
-      {
         "ja": "彼は組んだ下位候補者が悪かったので落選しました。",
         "en": "He was dropped because of his running mate.",
         "tatoeba_id": 102884
+      },
+      {
+        "ja": "下調べはしたかい。会議は２日後だよ。",
+        "en": "Did you do your homework? The meeting is only two days away.",
+        "tatoeba_id": 188214
       }
     ]
   },
@@ -11524,9 +11524,9 @@
         "tatoeba_id": 191224
       },
       {
-        "ja": "彼は旗をかかげた。",
-        "en": "He put up a flag.",
-        "tatoeba_id": 108612
+        "ja": "その船はアメリカ国旗を掲げていた。",
+        "en": "The ship was flying the American flag.",
+        "tatoeba_id": 208449
       }
     ]
   },
@@ -11545,14 +11545,14 @@
     "jmdict_id": 1573310,
     "examples": [
       {
-        "ja": "ハイヒールのかかとが折れたとき、ストッキングがほつれた。",
-        "en": "She got a run in her stocking when she broke the heel of her shoe.",
-        "tatoeba_id": 198332
-      },
-      {
         "ja": "長時間歩くと踵にたこができる。",
         "en": "If you walk a lot, you will develop calluses on your heel.",
         "tatoeba_id": 125874
+      },
+      {
+        "ja": "ハイヒールのかかとが折れたとき、ストッキングがほつれた。",
+        "en": "She got a run in her stocking when she broke the heel of her shoe.",
+        "tatoeba_id": 198332
       }
     ]
   },
@@ -12262,9 +12262,9 @@
         "tatoeba_id": 185267
       },
       {
-        "ja": "長い付き合いにかけは禁物。",
-        "en": "Short accounts make long friends.",
-        "tatoeba_id": 125925
+        "ja": "賭け率２対１でレッズが勝つだろう。",
+        "en": "The odds are two-to-one that the Reds win.",
+        "tatoeba_id": 124587
       }
     ]
   },
@@ -12288,9 +12288,9 @@
         "tatoeba_id": 211693
       },
       {
-        "ja": "私たちはがけのふちに立った。",
-        "en": "We stood on the brink of a cliff.",
-        "tatoeba_id": 166571
+        "ja": "彼らは、崖のてっぺんまで登った。",
+        "en": "They climbed to the top of a cliff.",
+        "tatoeba_id": 98351
       }
     ]
   },
@@ -12451,9 +12451,9 @@
         "tatoeba_id": 159914
       },
       {
-        "ja": "彼が来ないことに５ドルかけよう。",
-        "en": "I bet five dollars that he will not come.",
-        "tatoeba_id": 119391
+        "ja": "僕ならその馬に賭けたりはしない。",
+        "en": "I wouldn't bet on that horse if I were you.",
+        "tatoeba_id": 82381
       }
     ]
   },
@@ -12565,9 +12565,9 @@
         "tatoeba_id": 220184
       },
       {
-        "ja": "これはかさばるから宅配便で送ろう。",
-        "en": "This is bulky, so I'll send it by home delivery.",
-        "tatoeba_id": 218628
+        "ja": "箱のまま持ってくると嵩張るから、袋に入れ替えて持ってきたんだ。",
+        "en": "The box was too big and awkward, so I put these in a bag and brought them.",
+        "tatoeba_id": 121372
       }
     ]
   },
@@ -12695,14 +12695,14 @@
     "jmdict_id": 1590290,
     "examples": [
       {
+        "ja": "私はかすかに微笑んだ。",
+        "en": "I smiled faintly.",
+        "tatoeba_id": 161206
+      },
+      {
         "ja": "すぐそばでかすかな音がした。",
         "en": "I heard a faint sound nearby.",
         "tatoeba_id": 214974
-      },
-      {
-        "ja": "川の向こうにかすかな明りが見えた。",
-        "en": "We saw a dim light beyond the river.",
-        "tatoeba_id": 141378
       }
     ]
   },
@@ -13244,14 +13244,14 @@
     "jmdict_id": 1590440,
     "examples": [
       {
-        "ja": "メアリーは読書をしており、１匹の猫がかたわらで眠っていた。",
-        "en": "Mary was reading, with a cat sleeping beside her.",
-        "tatoeba_id": 194725
-      },
-      {
         "ja": "彼は読書をし、その傍らで妻が手袋を編んでいた。",
         "en": "He sat reading, with his wife knitting a pair of gloves beside him.",
         "tatoeba_id": 101583
+      },
+      {
+        "ja": "メアリーは読書をしており、１匹の猫がかたわらで眠っていた。",
+        "en": "Mary was reading, with a cat sleeping beside her.",
+        "tatoeba_id": 194725
       }
     ]
   },
@@ -13434,9 +13434,9 @@
         "tatoeba_id": 114137
       },
       {
-        "ja": "彼はがっくりとなりひざをついた。",
-        "en": "He collapsed to his knees.",
-        "tatoeba_id": 114138
+        "ja": "その知らせを聞いて彼はがっくりと肩を落とした。",
+        "en": "His shoulders sagged when he heard the news.",
+        "tatoeba_id": 207916
       }
     ]
   },
@@ -13741,9 +13741,9 @@
         "tatoeba_id": 193462
       },
       {
-        "ja": "彼はとうとう望みがかなった。",
-        "en": "He finally got his wish.",
-        "tatoeba_id": 111717
+        "ja": "あなたの望みがみんな叶いますように。",
+        "en": "May all your wishes come true!",
+        "tatoeba_id": 233024
       }
     ]
   },
@@ -13763,14 +13763,14 @@
     "jmdict_id": 1208880,
     "examples": [
       {
-        "ja": "母は私の望むものは何でも言わなくてもかなえてくれる。",
-        "en": "My mother anticipates all my desires.",
-        "tatoeba_id": 82938
+        "ja": "彼らは彼の要求を叶えた。",
+        "en": "They granted his request.",
+        "tatoeba_id": 96328
       },
       {
-        "ja": "彼は期待がかなえられずがっかりした。",
-        "en": "He was disappointed that things didn't turn out as he'd hoped.",
-        "tatoeba_id": 108609
+        "ja": "夢を叶えるためにはある程度の犠牲・努力・苦労は覚悟している。",
+        "en": "I've steeled myself to face a certain amount of sacrifice, effort and hardship if that's what it takes to fulfill my dream.",
+        "tatoeba_id": 80951
       }
     ]
   },
@@ -13790,14 +13790,14 @@
     "jmdict_id": 1779760,
     "examples": [
       {
-        "ja": "ジェーンはかなづち同然泳げない。",
-        "en": "Jane swims like a brick.",
-        "tatoeba_id": 216505
-      },
-      {
         "ja": "彼女は金づちで鏡を粉々にしました。",
         "en": "She shattered the mirror with a hammer.",
         "tatoeba_id": 7015341
+      },
+      {
+        "ja": "ジェーンはかなづち同然泳げない。",
+        "en": "Jane swims like a brick.",
+        "tatoeba_id": 216505
       }
     ]
   },
@@ -14136,9 +14136,9 @@
         "tatoeba_id": 113531
       },
       {
-        "ja": "彼はジャマイカに新居を構えた。",
-        "en": "He set up a new home in Jamaica.",
-        "tatoeba_id": 113530
+        "ja": "彼は大通りに店を構えている。",
+        "en": "He has a store on the main road.",
+        "tatoeba_id": 102375
       }
     ]
   },
@@ -14558,14 +14558,14 @@
     "jmdict_id": 1365870,
     "examples": [
       {
-        "ja": "われわれはかろうじて事故を免れた。",
-        "en": "We narrowly missed the accident.",
-        "tatoeba_id": 191690
+        "ja": "際どいところを辛うじて助かった。",
+        "en": "I had a close shave.",
+        "tatoeba_id": 170240
       },
       {
-        "ja": "私はかろうじて汽車に間に合った。",
-        "en": "I barely caught the train.",
-        "tatoeba_id": 161156
+        "ja": "彼女は涙を辛うじておさえた。",
+        "en": "She restrained tears with difficulty.",
+        "tatoeba_id": 86237
       }
     ]
   },
@@ -14634,14 +14634,14 @@
     "jmdict_id": 1590830,
     "examples": [
       {
-        "ja": "二人はかわるがわる試みた。",
-        "en": "The two tried one after the other.",
-        "tatoeba_id": 123077
-      },
-      {
         "ja": "私たちは代わる代わる馬の世話をした。",
         "en": "We took care of our horses by turns.",
         "tatoeba_id": 165467
+      },
+      {
+        "ja": "私たちは代わる代わる寝た。",
+        "en": "We slept by turns.",
+        "tatoeba_id": 165468
       }
     ]
   },
@@ -14766,9 +14766,9 @@
         "tatoeba_id": 225676
       },
       {
-        "ja": "彼らはガン調査に従事している。",
-        "en": "They are engaged in cancer research.",
-        "tatoeba_id": 98113
+        "ja": "叔父の死因は癌だったそうです。",
+        "en": "I hear my uncle died of cancer.",
+        "tatoeba_id": 147929
       }
     ]
   },
@@ -17311,9 +17311,9 @@
         "tatoeba_id": 227260
       },
       {
-        "ja": "彼女は仕事が非常にきちょうめんだ。",
-        "en": "She is very exact in her job.",
-        "tatoeba_id": 89828
+        "ja": "彼は几帳面な男だな。",
+        "en": "He is a methodical person.",
+        "tatoeba_id": 98822
       }
     ]
   },
@@ -19236,9 +19236,9 @@
         "tatoeba_id": 163849
       },
       {
-        "ja": "僕の郷里の町は海に接している。",
-        "en": "My hometown is adjacent to the ocean.",
-        "tatoeba_id": 82233
+        "ja": "彼は郷里の両親によく電話しますか。",
+        "en": "Does he often call his parents at home?",
+        "tatoeba_id": 108306
       }
     ]
   },
@@ -20628,14 +20628,14 @@
     "jmdict_id": 1245170,
     "examples": [
       {
-        "ja": "君のいつものぐちにはうんざりだ。",
-        "en": "I'm tired of your everlasting grumbles.",
-        "tatoeba_id": 178566
-      },
-      {
         "ja": "一日中、愚痴をこぼしてばかりいる。",
         "en": "He does nothing but complain all day long.",
         "tatoeba_id": 109889
+      },
+      {
+        "ja": "妻はいつも愚痴ばかりこぼしている。",
+        "en": "My wife is always complaining about something.",
+        "tatoeba_id": 170356
       }
     ]
   },
@@ -20967,9 +20967,9 @@
         "tatoeba_id": 77644
       },
       {
-        "ja": "兵庫県の人口はどれぐらいですか。",
-        "en": "What is the population of Hyogo prefecture?",
-        "tatoeba_id": 83620
+        "ja": "蔵書に書き込みをしないで下さい。",
+        "en": "Please do not write in this library book.",
+        "tatoeba_id": 963653
       }
     ]
   },
@@ -22668,9 +22668,9 @@
         "tatoeba_id": 219078
       },
       {
-        "ja": "彼女は彼を思い切りけとばした。",
-        "en": "She gave him a good kick.",
-        "tatoeba_id": 87202
+        "ja": "彼はちょっと立ち止まって小石を蹴飛ばした。",
+        "en": "He stopped a moment to kick a rock.",
+        "tatoeba_id": 111918
       }
     ]
   },
@@ -23322,9 +23322,9 @@
         "tatoeba_id": 223254
       },
       {
-        "ja": "このフィルムを現像して下さい。",
-        "en": "Please develop this film.",
-        "tatoeba_id": 223253
+        "ja": "この写真をどう思う、今日現像したのだ。",
+        "en": "How do you like these photos? I had them developed today.",
+        "tatoeba_id": 221459
       }
     ]
   },
@@ -23577,9 +23577,9 @@
         "tatoeba_id": 96673
       },
       {
-        "ja": "私たちは船長の命令を厳密に実行した。",
-        "en": "We carried out the captain's order to the letter.",
-        "tatoeba_id": 165520
+        "ja": "厳密な科学的観点からは、歴史は科学とはいえない。",
+        "en": "From a strictly scientific point of view, history cannot be called a science.",
+        "tatoeba_id": 174975
       }
     ]
   },
@@ -23827,14 +23827,14 @@
     "jmdict_id": 1307770,
     "examples": [
       {
+        "ja": "彼は４歳と１歳の２児の父親だ。",
+        "en": "He has two children, aged 4 and 1.",
+        "tatoeba_id": 115102
+      },
+      {
         "ja": "彼はきっすいのロンドン子です。",
         "en": "He's a genuine Londoner.",
         "tatoeba_id": 114048
-      },
-      {
-        "ja": "その子は母親に甘えた。",
-        "en": "The child played the baby to his mother.",
-        "tatoeba_id": 210178
       }
     ]
   },
@@ -23859,9 +23859,9 @@
         "tatoeba_id": 77883
       },
       {
-        "ja": "良いご返事をお待ちしております。",
-        "en": "I'm looking forward to receiving your favorable answer.",
-        "tatoeba_id": 77897
+        "ja": "御依頼により本をお送りしました。",
+        "en": "We sent you the book at your request.",
+        "tatoeba_id": 174279
       }
     ]
   },
@@ -25775,14 +25775,14 @@
     "jmdict_id": 1400530,
     "examples": [
       {
-        "ja": "彼は、自転車を一生懸命こいだ。",
-        "en": "He was pumping the pedals of the bicycle hard.",
-        "tatoeba_id": 115499
-      },
-      {
         "ja": "彼らは池でボートを漕いでいる。",
         "en": "They are rowing a boat on the pond.",
         "tatoeba_id": 96565
+      },
+      {
+        "ja": "彼は、自転車を一生懸命こいだ。",
+        "en": "He was pumping the pedals of the bicycle hard.",
+        "tatoeba_id": 115499
       }
     ]
   },
@@ -26477,9 +26477,9 @@
         "tatoeba_id": 226538
       },
       {
-        "ja": "クリスマスおめでとうございます。",
-        "en": "I wish you a Merry Christmas.",
-        "tatoeba_id": 225482
+        "ja": "あの、私、残念ですが小用が御座いますので、この辺りで失礼致しますね。",
+        "en": "Ah, unfortunately there is a small matter I need to attend to so I'll take my leave now.",
+        "tatoeba_id": 75040
       }
     ]
   },
@@ -26858,9 +26858,9 @@
         "tatoeba_id": 113826
       },
       {
-        "ja": "あの喜劇役者は大変こっけいだ。",
-        "en": "That comedian is very funny.",
-        "tatoeba_id": 231104
+        "ja": "彼の気取った話し方がとても滑稽におもえた。",
+        "en": "His affected manner of speaking seemed very absurd to me.",
+        "tatoeba_id": 117807
       }
     ]
   },
@@ -27092,14 +27092,14 @@
     "jmdict_id": 1328650,
     "examples": [
       {
+        "ja": "ロックは殊に若者に人気だ。",
+        "en": "Rock music is especially popular among young people.",
+        "tatoeba_id": 13715808
+      },
+      {
         "ja": "彼等は細かい差異に気がつかなかった。",
         "en": "They did not notice minute differences.",
         "tatoeba_id": 86014
-      },
-      {
-        "ja": "彼の最新作は趣を異にする。",
-        "en": "His latest work belongs to a different category.",
-        "tatoeba_id": 117314
       }
     ]
   },
@@ -27145,14 +27145,14 @@
     "jmdict_id": 1593360,
     "examples": [
       {
-        "ja": "彼らは箱をこなごなに打ち壊した。",
-        "en": "They knocked the box to pieces.",
-        "tatoeba_id": 96394
-      },
-      {
         "ja": "花びんは粉々になった。",
         "en": "The vase broke into fragments.",
         "tatoeba_id": 186605
+      },
+      {
+        "ja": "その爆発で真空管は粉々になった。",
+        "en": "The tube was shattered by the explosion.",
+        "tatoeba_id": 207234
       }
     ]
   },
@@ -27544,14 +27544,14 @@
     "jmdict_id": 1270770,
     "examples": [
       {
-        "ja": "ほらごらんなさい。長くなかったでしょ。",
-        "en": "There! That wasn't long, was it?",
-        "tatoeba_id": 195954
-      },
-      {
         "ja": "受付で聞いてご覧なさい。",
         "en": "Please ask at the information desk.",
         "tatoeba_id": 148364
+      },
+      {
+        "ja": "さて皆さん、その絵をご覧なさい。",
+        "en": "Now, look at the picture, every one.",
+        "tatoeba_id": 216760
       }
     ]
   },
@@ -28690,14 +28690,14 @@
     "jmdict_id": 1323290,
     "examples": [
       {
-        "ja": "この大木で光がすっかりさえぎられている。",
-        "en": "The light is completely blocked out by the big tree.",
-        "tatoeba_id": 220659
-      },
-      {
         "ja": "彼女は手で目から日差しを遮った。",
         "en": "She used her hand to screen the sunlight from her eyes.",
         "tatoeba_id": 88840
+      },
+      {
+        "ja": "大きな柱が湖水の眺めを遮っている。",
+        "en": "A large pillar obstructs the view of the lake.",
+        "tatoeba_id": 137705
       }
     ]
   },
@@ -28724,9 +28724,9 @@
         "tatoeba_id": 179475
       },
       {
-        "ja": "小鳥たちが森の中でさえずっていた。",
-        "en": "The birds were singing in the forest.",
-        "tatoeba_id": 146917
+        "ja": "小鳥が木立の中で囀っている。",
+        "en": "Birds are singing in the trees.",
+        "tatoeba_id": 146919
       }
     ]
   },
@@ -28749,14 +28749,14 @@
     "jmdict_id": 1297050,
     "examples": [
       {
-        "ja": "満月が空にさえている。",
-        "en": "A full moon is shining bright in the sky.",
-        "tatoeba_id": 81081
-      },
-      {
         "ja": "昨日ゆっくり休んだ分、今日は頭が冴えている。",
         "en": "I feel smart today, to a degree that is in proportion to the amount of good rest I had yesterday.",
         "tatoeba_id": 76120
+      },
+      {
+        "ja": "満月が空にさえている。",
+        "en": "A full moon is shining bright in the sky.",
+        "tatoeba_id": 81081
       }
     ]
   },
@@ -29047,9 +29047,9 @@
         "tatoeba_id": 146566
       },
       {
-        "ja": "彼は馬をさくにつないでいた。",
-        "en": "He was tying his horse to the fence.",
-        "tatoeba_id": 101306
+        "ja": "庭は柵で小道と仕切られている。",
+        "en": "The garden is railed off from the path.",
+        "tatoeba_id": 125488
       }
     ]
   },
@@ -29263,9 +29263,9 @@
         "tatoeba_id": 100169
       },
       {
-        "ja": "彼は科学の研究に一生をささげた。",
-        "en": "He devoted his life to the study of science.",
-        "tatoeba_id": 236791
+        "ja": "彼女は物理学の研究に一生を捧げた。",
+        "en": "She gave her entire life to the study of physics.",
+        "tatoeba_id": 86827
       }
     ]
   },
@@ -29961,9 +29961,9 @@
         "tatoeba_id": 90986
       },
       {
-        "ja": "このざまはどうしたんだ。",
-        "en": "How did you get into this mess?",
-        "tatoeba_id": 8966075
+        "ja": "フラフラと歩き回る様は、あまりにデンジャラスだ。",
+        "en": "The way she dizzily moves around is far too dangerous.",
+        "tatoeba_id": 76459
       }
     ]
   },
@@ -30119,14 +30119,14 @@
     "jmdict_id": 1352050,
     "examples": [
       {
-        "ja": "トムの話し方は私の癇にさわる。",
-        "en": "Tom's way of speaking gets on my nerves.",
-        "tatoeba_id": 200143
-      },
-      {
         "ja": "彼女の行動は本当に私の神経に障った。",
         "en": "Her behavior really got on my nerves.",
         "tatoeba_id": 94409
+      },
+      {
+        "ja": "さくらの話し方って、私の神経に障るんだけど。",
+        "en": "Sakura's way of speaking gets on my nerves.",
+        "tatoeba_id": 216841
       }
     ]
   },
@@ -30171,14 +30171,14 @@
     "jmdict_id": 1304260,
     "examples": [
       {
-        "ja": "おつりはいらないよ、運転士さん。",
-        "en": "Keep the change, driver.",
-        "tatoeba_id": 227626
+        "ja": "その物質は酸で処理しなければならない。",
+        "en": "The substance must be treated with acid.",
+        "tatoeba_id": 206886
       },
       {
-        "ja": "美和子さん、こちらケニーさんです。",
-        "en": "Miwako, I want you to meet Kenny.",
-        "tatoeba_id": 85523
+        "ja": "酸は金属を含むものに作用する。",
+        "en": "Acid acts on things which contain metal.",
+        "tatoeba_id": 169308
       }
     ]
   },
@@ -31012,14 +31012,14 @@
     "jmdict_id": 1313110,
     "examples": [
       {
+        "ja": "彼女は少ししか科学の知識がない。",
+        "en": "She has little knowledge of science.",
+        "tatoeba_id": 88686
+      },
+      {
         "ja": "試験まで、たった一週間しか残っていない。",
         "en": "There is only a week left before the examination.",
         "tatoeba_id": 151074
-      },
-      {
-        "ja": "コアラはオーストラリアにしか見られない。",
-        "en": "Koalas can only be seen in Australia.",
-        "tatoeba_id": 225089
       }
     ]
   },
@@ -31236,14 +31236,14 @@
     "jmdict_id": 1506000,
     "examples": [
       {
+        "ja": "しかしながら、彼の言葉は全然信用されなかった。",
+        "en": "His words, however, were not believed at all.",
+        "tatoeba_id": 216254
+      },
+      {
         "ja": "お金はほとんどない。しかしながら、私はあなたといれば幸せだ。",
         "en": "I have little money. However, I feel happy with you.",
         "tatoeba_id": 227248
-      },
-      {
-        "ja": "しかしながら、品物の数が誤っていました。",
-        "en": "However, the quantity was not correct.",
-        "tatoeba_id": 216253
       }
     ]
   },
@@ -31412,9 +31412,9 @@
         "tatoeba_id": 160376
       },
       {
-        "ja": "彼はそのしきたりをよく知っている。",
-        "en": "He is acquainted with the custom.",
-        "tatoeba_id": 113178
+        "ja": "コーヒー休みは米国のしきたりである。",
+        "en": "The coffee break is an American institution.",
+        "tatoeba_id": 224846
       }
     ]
   },
@@ -32474,9 +32474,9 @@
         "tatoeba_id": 146699
       },
       {
-        "ja": "彼女は両親をとても慕っている。",
-        "en": "She is deeply attached to her parents.",
-        "tatoeba_id": 86276
+        "ja": "彼は祖父を慕い尊敬している。",
+        "en": "He adores his grandfather.",
+        "tatoeba_id": 102898
       }
     ]
   },
@@ -32653,11 +32653,6 @@
         "ja": "車を下取りに出して新車を買った。",
         "en": "I traded in my car for a new one.",
         "tatoeba_id": 148958
-      },
-      {
-        "ja": "私は古い車を下取りに出して新車を買った。",
-        "en": "I traded in my old car for a new one.",
-        "tatoeba_id": 157233
       }
     ]
   },
@@ -33080,14 +33075,14 @@
     "jmdict_id": 1320280,
     "examples": [
       {
-        "ja": "彼女はしっとのかたまりであった。",
-        "en": "She was a bundle of jealousy.",
-        "tatoeba_id": 92811
-      },
-      {
         "ja": "すこし嫉妬深く感じたように思う。",
         "en": "I suppose I felt a little jealous.",
         "tatoeba_id": 214708
+      },
+      {
+        "ja": "彼女はしっとのかたまりであった。",
+        "en": "She was a bundle of jealousy.",
+        "tatoeba_id": 92811
       }
     ]
   },
@@ -33523,9 +33518,9 @@
         "tatoeba_id": 10951025
       },
       {
-        "ja": "司法書士に尋ねてみてください。",
-        "en": "Try asking a judicial scrivener.",
-        "tatoeba_id": 10951026
+        "ja": "彼は司法試験に合格し、法律事務所を創設した。",
+        "en": "He passed the law examination and set up a law office.",
+        "tatoeba_id": 106589
       }
     ]
   },
@@ -33604,14 +33599,14 @@
     "jmdict_id": 1594530,
     "examples": [
       {
-        "ja": "本日の営業は終了いたしました。",
-        "en": "Business has finished for today.",
-        "tatoeba_id": 2680367
+        "ja": "客がいなかったので店を早仕舞いにした。",
+        "en": "There were no customers, so we closed the shop earlier.",
+        "tatoeba_id": 1643763
       },
       {
-        "ja": "会議はもう終了いたしました。",
-        "en": "The conference is already over, sir.",
-        "tatoeba_id": 185367
+        "ja": "話はこれでお仕舞いです。",
+        "en": "This is the end of the talk.",
+        "tatoeba_id": 13715825
       }
     ]
   },
@@ -34027,9 +34022,9 @@
         "tatoeba_id": 177768
       },
       {
-        "ja": "彼女しゃれた格好してるね。",
-        "en": "She's smartly dressed.",
-        "tatoeba_id": 95145
+        "ja": "洒落たお帽子をお召しになっていらっしゃいますね。",
+        "en": "That's a stylish hat you are wearing.",
+        "tatoeba_id": 75647
       }
     ]
   },
@@ -34758,11 +34753,6 @@
         "ja": "名詞を修飾するものは、形容詞または形容詞相当語句です。",
         "en": "Things that modify nouns are adjectives or equivalent to adjectives.",
         "tatoeba_id": 10109643
-      },
-      {
-        "ja": "名詞を修飾するもの（形容詞、または形容詞相当語句）。",
-        "en": "Things that modify nouns (adjective, or adjectival equivalent).",
-        "tatoeba_id": 75098
       }
     ]
   },
@@ -38087,9 +38077,9 @@
         "tatoeba_id": 219957
       },
       {
-        "ja": "心配で彼の顔はしわが現れてきた。",
-        "en": "Anxiety lined his face.",
-        "tatoeba_id": 145530
+        "ja": "彼女は額に皺を寄せた。",
+        "en": "She wrinkled her brows.",
+        "tatoeba_id": 90679
       }
     ]
   },
@@ -39605,9 +39595,9 @@
         "tatoeba_id": 107950
       },
       {
-        "ja": "すぐわかるところにあるよ。",
-        "en": "It's in plain sight.",
-        "tatoeba_id": 214924
+        "ja": "彼は仕事が終わるとすぐ一直線にパブへ向かう。",
+        "en": "As soon as work is over, he makes a beeline for the pub.",
+        "tatoeba_id": 106668
       }
     ]
   },
@@ -40017,9 +40007,9 @@
         "tatoeba_id": 102889
       },
       {
-        "ja": "悪い知らせはすばやく伝わる。",
-        "en": "Bad news travels fast.",
-        "tatoeba_id": 191463
+        "ja": "そのクモは素早い反撃をする。",
+        "en": "The spider responds with a swift attack.",
+        "tatoeba_id": 213257
       }
     ]
   },
@@ -40097,14 +40087,14 @@
     "jmdict_id": 1006410,
     "examples": [
       {
-        "ja": "彼女は全身ずぶぬれだった。",
-        "en": "She was soaked from head to foot.",
-        "tatoeba_id": 88212
+        "ja": "強い雨のため私はずぶ濡れになった。",
+        "en": "I was drenched to the skin because of the heavy rain.",
+        "tatoeba_id": 180542
       },
       {
-        "ja": "船上の荷物はずぶぬれになった。",
-        "en": "The freight on the ship got soaked.",
-        "tatoeba_id": 141078
+        "ja": "彼女は夕立に遭い、ずぶ濡れになった。",
+        "en": "She was caught in a shower and got wet to the skin.",
+        "tatoeba_id": 91330
       }
     ]
   },
@@ -40344,14 +40334,14 @@
     "jmdict_id": 1581900,
     "examples": [
       {
-        "ja": "彼は毎朝電気カミソリで顔をそる。",
-        "en": "He shaves with an electric razor every morning.",
-        "tatoeba_id": 99813
-      },
-      {
         "ja": "お父さんがバスルームでひげを剃っている。",
         "en": "Dad is shaving in the bathroom.",
         "tatoeba_id": 226759
+      },
+      {
+        "ja": "出かける前にヒゲを剃らなくては。",
+        "en": "I've got to shave before leaving.",
+        "tatoeba_id": 147792
       }
     ]
   },
@@ -40628,11 +40618,6 @@
         "ja": "正規表現で空白はどのように表されるのでしょうか？",
         "en": "How is whitespace represented in regular expressions?",
         "tatoeba_id": 75956
-      },
-      {
-        "ja": "正規表現でヌルはどのように表されるのでしょうか？",
-        "en": "How is Null expressed as a regular expression?",
-        "tatoeba_id": 2351670
       }
     ]
   },
@@ -41356,9 +41341,9 @@
         "tatoeba_id": 233002
       },
       {
-        "ja": "彼はいつ成年に達したのですか。",
-        "en": "When did he come of age?",
-        "tatoeba_id": 114430
+        "ja": "彼はまだ成年に達していない。",
+        "en": "He hasn't come of age yet.",
+        "tatoeba_id": 110818
       }
     ]
   },
@@ -43254,9 +43239,9 @@
         "tatoeba_id": 165529
       },
       {
-        "ja": "まもなく雨が降りそうだ。",
-        "en": "It is going to rain soon.",
-        "tatoeba_id": 195298
+        "ja": "通りに沿って桜が植えられている。",
+        "en": "Cherry trees are planted along the street.",
+        "tatoeba_id": 125644
       }
     ]
   },
@@ -43281,9 +43266,9 @@
         "tatoeba_id": 208376
       },
       {
-        "ja": "まもなく雨が降りそうだ。",
-        "en": "It is going to rain soon.",
-        "tatoeba_id": 195298
+        "ja": "その僧は子供達の遊びに仲間入りした。",
+        "en": "The priest participated in the children's games.",
+        "tatoeba_id": 236877
       }
     ]
   },
@@ -43310,9 +43295,9 @@
         "tatoeba_id": 140310
       },
       {
-        "ja": "まもなく雨が降りそうだ。",
-        "en": "It is going to rain soon.",
-        "tatoeba_id": 195298
+        "ja": "旅行の総費用を計算してくれますか。",
+        "en": "Can you work out the total cost of the trip?",
+        "tatoeba_id": 78161
       }
     ]
   },
@@ -43585,14 +43570,14 @@
     "jmdict_id": 1399660,
     "examples": [
       {
-        "ja": "そうさなんでも好きなものでいいんだ。",
-        "en": "Yes, you can celebrate anything you want.",
-        "tatoeba_id": 213898
-      },
-      {
         "ja": "警察は事件の捜査をした。",
         "en": "The police looked into that incident.",
         "tatoeba_id": 176173
+      },
+      {
+        "ja": "捜査を立ち消えにしてほしくない。",
+        "en": "I don't want the investigation to burn out.",
+        "tatoeba_id": 140589
       }
     ]
   },
@@ -44371,14 +44356,14 @@
     "jmdict_id": 1596550,
     "examples": [
       {
-        "ja": "彼女はいつも僕にそっけない。",
-        "en": "She's always short with me.",
-        "tatoeba_id": 93219
-      },
-      {
         "ja": "彼女は彼を素っ気なくあしらった。",
         "en": "She turned up her nose at him.",
         "tatoeba_id": 87197
+      },
+      {
+        "ja": "彼女は私の申し出を素っ気なく断った。",
+        "en": "She gave a flat refusal to my offer.",
+        "tatoeba_id": 89352
       }
     ]
   },
@@ -44510,9 +44495,9 @@
         "tatoeba_id": 206776
       },
       {
-        "ja": "富士山は雲の上にそびえていた。",
-        "en": "Mt. Fuji was above the clouds.",
-        "tatoeba_id": 84938
+        "ja": "その山は平原の上高くそびえている。",
+        "en": "The mountain rises above the plain.",
+        "tatoeba_id": 210440
       }
     ]
   },
@@ -44586,14 +44571,14 @@
     "jmdict_id": 1472680,
     "examples": [
       {
-        "ja": "それは私の期待にそむいた。",
-        "en": "It fell short of my expectation.",
-        "tatoeba_id": 205132
-      },
-      {
         "ja": "彼は親の意に背いて歌手になった。",
         "en": "He became a singer against his parents wishes.",
         "tatoeba_id": 103684
+      },
+      {
+        "ja": "彼の行為は法律に背いている。",
+        "en": "His action is against the law.",
+        "tatoeba_id": 117390
       }
     ]
   },
@@ -44705,14 +44690,14 @@
     "jmdict_id": 1406080,
     "examples": [
       {
-        "ja": "それゆえここにとどまらざるを得ないだろう。",
-        "en": "Hence, I shall have to stay here.",
-        "tatoeba_id": 204782
-      },
-      {
         "ja": "彼は病気になった。それ故外国行きをあきらめた。",
         "en": "He fell ill, and therefore he gave up going abroad.",
         "tatoeba_id": 100563
+      },
+      {
+        "ja": "それゆえここにとどまらざるを得ないだろう。",
+        "en": "Hence, I shall have to stay here.",
+        "tatoeba_id": 204782
       }
     ]
   },
@@ -44898,14 +44883,14 @@
     "jmdict_id": 1406940,
     "examples": [
       {
-        "ja": "私は彼女を知らないしまた知りたいとも思わない。",
-        "en": "I don't know her and I don't think I want to.",
-        "tatoeba_id": 153172
+        "ja": "何か他に食べたいものがありますか。",
+        "en": "Is there anything else you would like to eat?",
+        "tatoeba_id": 187924
       },
       {
-        "ja": "容疑者は逮捕を免れたいと思った。",
-        "en": "The suspect wanted to avoid being arrested.",
-        "tatoeba_id": 78897
+        "ja": "あなたの率直な意見が聞きたいのです。",
+        "en": "I would like to hear your honest opinion.",
+        "tatoeba_id": 232962
       }
     ]
   },
@@ -44924,14 +44909,14 @@
     "jmdict_id": 1415260,
     "examples": [
       {
-        "ja": "その仕事に応募したらどうだい。",
-        "en": "Why not apply for that job?",
-        "tatoeba_id": 210417
-      },
-      {
         "ja": "まず第１にこの仕事を終えなくてはいけない。",
         "en": "I must finish this work first.",
         "tatoeba_id": 195585
+      },
+      {
+        "ja": "日本はいわば彼の第２の故郷です。",
+        "en": "Japan is, as it were, his second home.",
+        "tatoeba_id": 122518
       }
     ]
   },
@@ -45006,14 +44991,14 @@
     "jmdict_id": 1413230,
     "examples": [
       {
+        "ja": "私の仕事は大概片付いた。",
+        "en": "My work is almost finished.",
+        "tatoeba_id": 163575
+      },
+      {
         "ja": "彼は夜にはたいがい家にいる。",
         "en": "He is generally at home in the evening.",
         "tatoeba_id": 99473
-      },
-      {
-        "ja": "ディナーはたいがいコーヒーで終わる。",
-        "en": "Coffee finishes most dinners.",
-        "tatoeba_id": 202470
       }
     ]
   },
@@ -46296,14 +46281,14 @@
     "jmdict_id": 1573650,
     "examples": [
       {
+        "ja": "彼女は逞しく逆境に耐えた。",
+        "en": "She bore her misfortunes with a brave spirit.",
+        "tatoeba_id": 86175
+      },
+      {
         "ja": "彼は想像力のたくましい少年であった。",
         "en": "He used to be an imaginative boy.",
         "tatoeba_id": 102874
-      },
-      {
-        "ja": "骨格たくましい体格なので彼は柔道家でとおっている。",
-        "en": "With his muscular constitution he passes for a judoist.",
-        "tatoeba_id": 172954
       }
     ]
   },
@@ -46328,9 +46313,9 @@
         "tatoeba_id": 115360
       },
       {
-        "ja": "彼はとてもたくみに提案をした。",
-        "en": "He made his suggestion very tactfully.",
-        "tatoeba_id": 111620
+        "ja": "巧みな経営で事業は成功した。",
+        "en": "Skillful management made a success of the business.",
+        "tatoeba_id": 173714
       }
     ]
   },
@@ -46635,14 +46620,14 @@
     "jmdict_id": 1597030,
     "examples": [
       {
-        "ja": "私たちは彼らとは関係を断っている。",
-        "en": "We have broken off relations with them.",
-        "tatoeba_id": 165261
+        "ja": "彼は１８年間働いた会社と関係を絶った。",
+        "en": "He dissociated himself from the firm he had worked for for eighteen years.",
+        "tatoeba_id": 115280
       },
       {
-        "ja": "彼らは食料の供給を断たれた。",
-        "en": "They were cut off from food supplies.",
-        "tatoeba_id": 96815
+        "ja": "あの国は近隣諸国との外交関係を絶った。",
+        "en": "That country broke off diplomatic relations with the neighboring countries.",
+        "tatoeba_id": 231022
       }
     ]
   },
@@ -46667,9 +46652,9 @@
         "tatoeba_id": 91607
       },
       {
-        "ja": "彼はとても年をとっているけれどたっしゃだ。",
-        "en": "Although he is very old, he is strong.",
-        "tatoeba_id": 111531
+        "ja": "彼は水泳が達者でテニスもうまい。",
+        "en": "He is a good swimmer and also plays tennis well.",
+        "tatoeba_id": 103492
       }
     ]
   },
@@ -46751,9 +46736,9 @@
         "tatoeba_id": 229475
       },
       {
-        "ja": "彼は望んでいた目標を達成した。",
-        "en": "He achieved his desired goal.",
-        "tatoeba_id": 99989
+        "ja": "彼は必ずその計画を達成するだろう。",
+        "en": "He will never fail to carry out the project.",
+        "tatoeba_id": 100647
       }
     ]
   },
@@ -47069,14 +47054,14 @@
     "jmdict_id": 1416690,
     "examples": [
       {
+        "ja": "森の中の小道を辿っていくのは楽しいことだ。",
+        "en": "It's fun to follow the path through the woods.",
+        "tatoeba_id": 145078
+      },
+      {
         "ja": "彼の人気は下降線をたどっている。",
         "en": "His popularity is falling.",
         "tatoeba_id": 116787
-      },
-      {
-        "ja": "猟師は熊の足跡をたどった。",
-        "en": "The hunter followed the bear's tracks.",
-        "tatoeba_id": 77902
       }
     ]
   },
@@ -47124,14 +47109,14 @@
     "jmdict_id": 1610270,
     "examples": [
       {
-        "ja": "ちょっとおたのみがあるんですが。",
-        "en": "Would you do something for me?",
-        "tatoeba_id": 202856
-      },
-      {
         "ja": "きっぱりと彼の頼みを断りなさい。",
         "en": "Turn him down once for all.",
         "tatoeba_id": 225984
+      },
+      {
+        "ja": "彼は忙しいからと私の頼みを断った。",
+        "en": "He declined my request, saying that he was busy.",
+        "tatoeba_id": 100006
       }
     ]
   },
@@ -47378,14 +47363,14 @@
     "jmdict_id": 1545360,
     "examples": [
       {
-        "ja": "彼はたやすく彼女の家を探すことが出来た。",
-        "en": "He could find her house easily.",
-        "tatoeba_id": 111988
+        "ja": "君が問題を解く容易さには驚くぜ。",
+        "en": "I'm amazed by the ease with which you solve the problem.",
+        "tatoeba_id": 178855
       },
       {
-        "ja": "彼は問題をいともたやすく解いた。",
-        "en": "He solved the problem with great ease.",
-        "tatoeba_id": 99486
+        "ja": "言うのはた易いが、行うのは難しい。",
+        "en": "Easier said than done.",
+        "tatoeba_id": 174786
       }
     ]
   },
@@ -47522,9 +47507,9 @@
         "tatoeba_id": 234401
       },
       {
-        "ja": "むこうで泳いでいる少年はだれか。",
-        "en": "Who is the boy that is swimming over there?",
-        "tatoeba_id": 194898
+        "ja": "明日何が起こるか誰にわかるのか。",
+        "en": "Who knows what will happen tomorrow?",
+        "tatoeba_id": 80325
       }
     ]
   },
@@ -47554,14 +47539,14 @@
     "jmdict_id": 1370870,
     "examples": [
       {
-        "ja": "彼の左目に髪がたれていた。",
-        "en": "A wisp of hair fell over his left eye.",
-        "tatoeba_id": 117325
-      },
-      {
         "ja": "濡れたタオルから滴が垂れている。",
         "en": "Water is dripping from the wet towel.",
         "tatoeba_id": 198656
+      },
+      {
+        "ja": "彼の服からしずくが垂れていた。",
+        "en": "His clothes were dripping.",
+        "tatoeba_id": 116201
       }
     ]
   },
@@ -47929,9 +47914,9 @@
         "tatoeba_id": 92952
       },
       {
-        "ja": "これは全部の中でだんぜん最高だ。",
-        "en": "This is by far the best of all.",
-        "tatoeba_id": 218227
+        "ja": "私は魚よりも肉の方が断然いい。",
+        "en": "I prefer meat to fish any day.",
+        "tatoeba_id": 157639
       }
     ]
   },
@@ -48607,9 +48592,9 @@
         "tatoeba_id": 165840
       },
       {
-        "ja": "階層問題に対する、消費社会論の著である。",
-        "en": "It is a literary work confronting the class problem of a consumer society.",
-        "tatoeba_id": 76277
+        "ja": "彼はレースで１着だった。",
+        "en": "He took the first place in the race.",
+        "tatoeba_id": 110332
       }
     ]
   },
@@ -49173,14 +49158,14 @@
     "jmdict_id": 1425960,
     "examples": [
       {
+        "ja": "あの夫婦は私たちの仲人です。",
+        "en": "That couple is our go-between.",
+        "tatoeba_id": 13714060
+      },
+      {
         "ja": "マラリアは蚊が媒介する疾病です。",
         "en": "Malaria is a disease that mosquitoes carry.",
         "tatoeba_id": 12484423
-      },
-      {
-        "ja": "不純な飲料水は病気の媒体となりうる。",
-        "en": "Impure drinking water can be a carrier of diseases.",
-        "tatoeba_id": 85075
       }
     ]
   },
@@ -49420,9 +49405,9 @@
         "tatoeba_id": 210278
       },
       {
-        "ja": "そのこの聴覚は、鋭い。",
-        "en": "The child has a keen sense of hearing.",
-        "tatoeba_id": 213107
+        "ja": "犬の聴覚の敏感さを人間と比べると、はるかに上だ。",
+        "en": "The hearing acuity of dogs is superior by far to that of humans.",
+        "tatoeba_id": 74594
       }
     ]
   },
@@ -50355,9 +50340,9 @@
         "tatoeba_id": 146033
       },
       {
-        "ja": "彼はつえで体を支えた。",
-        "en": "He supported himself with a stick.",
-        "tatoeba_id": 111885
+        "ja": "「転ばぬ先の杖」はことわざである。",
+        "en": "\"A stitch in time saves nine\" is a proverb.",
+        "tatoeba_id": 236223
       }
     ]
   },
@@ -50530,9 +50515,9 @@
         "tatoeba_id": 234759
       },
       {
-        "ja": "彼女は家具つきで家を貸している。",
-        "en": "She has let her house furnished.",
-        "tatoeba_id": 90858
+        "ja": "浴室付きの二人部屋をお願いします。",
+        "en": "We'd like a room for two with a bath.",
+        "tatoeba_id": 78755
       }
     ]
   },
@@ -50606,14 +50591,14 @@
     "jmdict_id": 1370070,
     "examples": [
       {
-        "ja": "私たちの悩みはつきない。",
-        "en": "There is no end to our troubles.",
-        "tatoeba_id": 166833
-      },
-      {
         "ja": "探検隊の糧食はすぐ尽きてしまった。",
         "en": "The expedition's supplies soon gave out.",
         "tatoeba_id": 127379
+      },
+      {
+        "ja": "奴の悪運が尽きるのも時間の問題だ。",
+        "en": "It's just a matter of time before his outrageous and undeserved good luck comes to an end.",
+        "tatoeba_id": 191431
       }
     ]
   },
@@ -50693,14 +50678,14 @@
     "jmdict_id": 1385340,
     "examples": [
       {
-        "ja": "医者は彼の折れた足をついだ。",
-        "en": "The doctor set his broken leg.",
-        "tatoeba_id": 190767
-      },
-      {
         "ja": "枝が伸び、実が成ることを想定して接ぐ場所を選びましょう。",
         "en": "Select the graft point after imagining how the branches will extend and fruit grow.",
         "tatoeba_id": 76096
+      },
+      {
+        "ja": "医者は彼の折れた足をついだ。",
+        "en": "The doctor set his broken leg.",
+        "tatoeba_id": 190767
       }
     ]
   },
@@ -50723,14 +50708,14 @@
     "jmdict_id": 1370090,
     "examples": [
       {
-        "ja": "トロール漁船は沿岸の魚をとりつくしました。",
-        "en": "Fishing trawlers have fished out all the local waters.",
-        "tatoeba_id": 199625
-      },
-      {
         "ja": "彼は全力を尽くして彼女を救った。",
         "en": "He did his best to rescue her.",
         "tatoeba_id": 102904
+      },
+      {
+        "ja": "大事なのは全力を尽くすか否かだ。",
+        "en": "What matters is whether you do your best or not.",
+        "tatoeba_id": 137523
       }
     ]
   },
@@ -50750,14 +50735,14 @@
     "jmdict_id": 1297250,
     "examples": [
       {
+        "ja": "芝刈り機が簡素な作りの荷車に積んである。",
+        "en": "Some lawn equipment is loaded into the jerry-built cart.",
+        "tatoeba_id": 149279
+      },
+      {
         "ja": "彼女の顔のつくりの中で目が一番いい。",
         "en": "Her eyes are her best feature.",
         "tatoeba_id": 94568
-      },
-      {
-        "ja": "あの家はレンガ造りだ。",
-        "en": "That house is built of bricks.",
-        "tatoeba_id": 231175
       }
     ]
   },
@@ -50778,14 +50763,14 @@
     "jmdict_id": 1297250,
     "examples": [
       {
-        "ja": "彼女の顔のつくりの中で目が一番いい。",
-        "en": "Her eyes are her best feature.",
-        "tatoeba_id": 94568
-      },
-      {
         "ja": "あの家はレンガ造りだ。",
         "en": "That house is built of bricks.",
         "tatoeba_id": 231175
+      },
+      {
+        "ja": "その煙突はレンガの造りだ。",
+        "en": "The chimney is made of brick.",
+        "tatoeba_id": 212193
       }
     ]
   },
@@ -50813,14 +50798,14 @@
     "jmdict_id": 1597890,
     "examples": [
       {
-        "ja": "例外は作るべきではないと思います。",
-        "en": "I insist that exceptions not be made.",
-        "tatoeba_id": 77679
+        "ja": "そして世はこの方によって造られた。",
+        "en": "And the world was made through him.",
+        "tatoeba_id": 143466
       },
       {
-        "ja": "どこへ行っても、彼は必ず友達を作る。",
-        "en": "Wherever he may go, he is sure to make friends.",
-        "tatoeba_id": 200881
+        "ja": "山を掘り抜いてトンネルが造られた。",
+        "en": "A tunnel has been bored through the mountain.",
+        "tatoeba_id": 169403
       }
     ]
   },
@@ -50852,9 +50837,9 @@
         "tatoeba_id": 188726
       },
       {
-        "ja": "母にこのセーターをつくろってもらった。",
-        "en": "I had my mother mend this sweater.",
-        "tatoeba_id": 83138
+        "ja": "世間体を繕う心配をするより他にやることがある。",
+        "en": "We have other things to do than worry about keeping up appearances.",
+        "tatoeba_id": 143351
       }
     ]
   },
@@ -51013,14 +50998,14 @@
     "jmdict_id": 1456895,
     "examples": [
       {
+        "ja": "やぶを突いて蛇をだすな。",
+        "en": "Let sleeping dogs lie.",
+        "tatoeba_id": 193047
+      },
+      {
         "ja": "藪をつついてヘビを出す。",
         "en": "It's not good to wake a sleeping snake.",
         "tatoeba_id": 77078
-      },
-      {
-        "ja": "彼は私をつついて先に行けと合図した。",
-        "en": "He nudged me to go ahead.",
-        "tatoeba_id": 105606
       }
     ]
   },
@@ -51090,14 +51075,14 @@
     "jmdict_id": 1240800,
     "examples": [
       {
-        "ja": "その救助投手でエースの代わりはとても務まらなかった。",
-        "en": "The relief pitcher was no substitute for the ace.",
-        "tatoeba_id": 211446
-      },
-      {
         "ja": "彼はとてもその仕事が勤まらなかった。",
         "en": "He fell lamentably short of his duty.",
         "tatoeba_id": 111621
+      },
+      {
+        "ja": "その救助投手でエースの代わりはとても務まらなかった。",
+        "en": "The relief pitcher was no substitute for the ace.",
+        "tatoeba_id": 211446
       }
     ]
   },
@@ -51242,14 +51227,14 @@
     "jmdict_id": 1408410,
     "examples": [
       {
-        "ja": "つばをはいた罰金は５ポンドです。",
-        "en": "The penalty for spitting is five pounds.",
-        "tatoeba_id": 202565
-      },
-      {
         "ja": "吐いた唾は飲めぬ。",
         "en": "A word, once out, flies everywhere.",
         "tatoeba_id": 124617
+      },
+      {
+        "ja": "彼の唾の吐き方が我慢できない。",
+        "en": "I can't put up with the way he spits.",
+        "tatoeba_id": 116595
       }
     ]
   },
@@ -51331,9 +51316,9 @@
         "tatoeba_id": 218146
       },
       {
-        "ja": "つぼにたくさん砂糖が入っていますか。",
-        "en": "Is there much sugar in the jar?",
-        "tatoeba_id": 202558
+        "ja": "彼は、粘土で優雅な壷を形作った。",
+        "en": "He fashioned an elegant pot out of clay.",
+        "tatoeba_id": 115407
       }
     ]
   },
@@ -51358,9 +51343,9 @@
         "tatoeba_id": 197898
       },
       {
-        "ja": "つぼみがだんだん色づいてきた。",
-        "en": "The buds are beginning to show signs of color.",
-        "tatoeba_id": 202556
+        "ja": "バラの花は満開よりも蕾の方が甘美である。",
+        "en": "A rose is sweeter in the bud than full blown.",
+        "tatoeba_id": 197893
       }
     ]
   },
@@ -51806,9 +51791,9 @@
         "tatoeba_id": 100172
       },
       {
-        "ja": "ヒラリさんは塀にはしごをかけた。",
-        "en": "Hillary rested the ladder against the wall.",
-        "tatoeba_id": 83578
+        "ja": "彼は塀に梯子を掛けた。",
+        "en": "He placed the ladder against the fence.",
+        "tatoeba_id": 100180
       }
     ]
   },
@@ -54795,9 +54780,9 @@
         "tatoeba_id": 124026
       },
       {
-        "ja": "当人がいないところで悪口を言うべきではない。",
-        "en": "It is the place where there is no person in question, and you shouldn't say abuse.",
-        "tatoeba_id": 124027
+        "ja": "当人の終始変わらない努力が最後にものを言うのである。",
+        "en": "It is your constant efforts that count most in the end.",
+        "tatoeba_id": 124025
       }
     ]
   },
@@ -55191,14 +55176,14 @@
     "jmdict_id": 1565100,
     "examples": [
       {
-        "ja": "守衛にとがめられた。",
-        "en": "I was challenged by a gatekeeper.",
-        "tatoeba_id": 148668
-      },
-      {
         "ja": "先生は彼女が間違ったことを咎めた。",
         "en": "The teacher blamed her for the mistake.",
         "tatoeba_id": 141507
+      },
+      {
+        "ja": "守衛にとがめられた。",
+        "en": "I was challenged by a gatekeeper.",
+        "tatoeba_id": 148668
       }
     ]
   },
@@ -55222,9 +55207,9 @@
         "tatoeba_id": 156422
       },
       {
-        "ja": "彼女とはときおり美容院で会います。",
-        "en": "I meet her on occasion at a beauty shop.",
-        "tatoeba_id": 95115
+        "ja": "彼は時折腕時計をちらりと見た。",
+        "en": "He glanced at his wristwatch now and then.",
+        "tatoeba_id": 105270
       }
     ]
   },
@@ -55275,14 +55260,14 @@
     "jmdict_id": 1386420,
     "examples": [
       {
-        "ja": "窓が閉まっているか確かめとけ。",
-        "en": "See that the window is closed.",
-        "tatoeba_id": 140400
+        "ja": "彼は私達に健康の重要性を説いた。",
+        "en": "He preached to us about the importance of good health.",
+        "tatoeba_id": 105506
       },
       {
-        "ja": "木曜日、君のためにあけとくから。",
-        "en": "I'll keep Thursday open for you.",
-        "tatoeba_id": 80052
+        "ja": "彼を説きさとして非を認めた。",
+        "en": "I convinced him of his fault.",
+        "tatoeba_id": 95842
       }
     ]
   },
@@ -55307,14 +55292,14 @@
     "jmdict_id": 1598700,
     "examples": [
       {
-        "ja": "彼女はいつも人に対してやいばをといでいます。",
-        "en": "She always has some axe to grind.",
-        "tatoeba_id": 93250
-      },
-      {
         "ja": "彼はナイフを研いでいました。",
         "en": "He was sharpening a knife.",
         "tatoeba_id": 111443
+      },
+      {
+        "ja": "猫が柱でつめを研いでいた。",
+        "en": "A cat was sharpening its claws against a post.",
+        "tatoeba_id": 121991
       }
     ]
   },
@@ -55637,9 +55622,9 @@
         "tatoeba_id": 221745
       },
       {
-        "ja": "彼の言葉にはとげがあった。",
-        "en": "There was a bite in his remark.",
-        "tatoeba_id": 117525
+        "ja": "私は指にとげを刺した。",
+        "en": "I ran a splinter into my finger.",
+        "tatoeba_id": 156519
       }
     ]
   },
@@ -55878,14 +55863,14 @@
     "jmdict_id": 1444900,
     "examples": [
       {
-        "ja": "その飛行機からの通信が突然とだえた。",
-        "en": "All communication with that airplane was suddenly cut off.",
-        "tatoeba_id": 207115
-      },
-      {
         "ja": "大雪で交通が途絶えた。",
         "en": "The traffic was interrupted by the heavy snow.",
         "tatoeba_id": 137433
+      },
+      {
+        "ja": "その飛行機からの通信が突然とだえた。",
+        "en": "All communication with that airplane was suddenly cut off.",
+        "tatoeba_id": 207115
       }
     ]
   },
@@ -56122,14 +56107,14 @@
     "jmdict_id": 1410920,
     "examples": [
       {
+        "ja": "支払いを滞る原因となるような問題があるのですが。",
+        "en": "I have run into a problem that is causing the delay of my payment.",
+        "tatoeba_id": 168193
+      },
+      {
         "ja": "あなたの部屋代は一月とどこおっています。",
         "en": "You're a month behind in your rent.",
         "tatoeba_id": 233036
-      },
-      {
-        "ja": "私はローンの支払いが少しとどこおっていた。",
-        "en": "I was a little behind in my loan payments.",
-        "tatoeba_id": 158594
       }
     ]
   },
@@ -56237,14 +56222,14 @@
     "jmdict_id": 1598820,
     "examples": [
       {
-        "ja": "彼の勇気は歴史に名をとどめた。",
-        "en": "His courage went down in history.",
-        "tatoeba_id": 115947
-      },
-      {
         "ja": "虎は死して皮を留め、人は死して名を残す。",
         "en": "A great man will be remembered for his achievements.",
         "tatoeba_id": 174463
+      },
+      {
+        "ja": "彼の勇気は歴史に名をとどめた。",
+        "en": "His courage went down in history.",
+        "tatoeba_id": 115947
       }
     ]
   },
@@ -56785,9 +56770,9 @@
         "tatoeba_id": 199704
       },
       {
-        "ja": "とりあえず、応急処置をしておきます。",
-        "en": "First of all, I'll apply first aid.",
-        "tatoeba_id": 199703
+        "ja": "運転手は答えた。「まぁ、とりあえず運転免許でも取りたいと思います」",
+        "en": "\"Well, I guess I'm going to get a driver's license,\" he answered.",
+        "tatoeba_id": 189433
       }
     ]
   },
@@ -57126,14 +57111,14 @@
     "jmdict_id": 1326610,
     "examples": [
       {
-        "ja": "繊維産業をとりまく状況は変化した。",
-        "en": "Circumstances surrounding the textile industry have changed.",
-        "tatoeba_id": 141187
-      },
-      {
         "ja": "老年は死に取り巻かれている島である。",
         "en": "Old age is an island surrounded by death.",
         "tatoeba_id": 77258
+      },
+      {
+        "ja": "音楽は空気のように我々の生活を取り巻いている。",
+        "en": "Music surrounds our lives like air.",
+        "tatoeba_id": 188277
       }
     ]
   },
@@ -57175,9 +57160,9 @@
         "tatoeba_id": 166736
       },
       {
-        "ja": "彼女からその本をとりもどしたい。",
-        "en": "I want to get the book back from her.",
-        "tatoeba_id": 95555
+        "ja": "彼は速く走って遅れを取り戻した。",
+        "en": "He made up for lost time by running fast.",
+        "tatoeba_id": 102673
       }
     ]
   },
@@ -57606,14 +57591,14 @@
     "jmdict_id": 1349320,
     "examples": [
       {
-        "ja": "彼には欠点があるからなおさら好きだ。",
-        "en": "I like him all the better for his faults.",
-        "tatoeba_id": 118874
-      },
-      {
         "ja": "期待していたので、尚更がっかりした。",
         "en": "I was all the more disappointed because of my expectations.",
         "tatoeba_id": 159718
+      },
+      {
+        "ja": "彼には欠点があるからなおさら好きだ。",
+        "en": "I like him all the better for his faults.",
+        "tatoeba_id": 118874
       }
     ]
   },
@@ -57666,9 +57651,9 @@
         "tatoeba_id": 215240
       },
       {
-        "ja": "彼らはながながと昔話をした。",
-        "en": "They had a long chat about the old days.",
-        "tatoeba_id": 97740
+        "ja": "先生は時間を守ることの大切さについて長々と述べた。",
+        "en": "Our teacher dwelt on the importance of punctuality.",
+        "tatoeba_id": 141569
       }
     ]
   },
@@ -58303,9 +58288,9 @@
         "tatoeba_id": 218099
       },
       {
-        "ja": "世間一般のホテルなみにいえば良い昼食会だった。",
-        "en": "It was a good luncheon, as hotels go.",
-        "tatoeba_id": 143352
+        "ja": "彼は学生並みから言えば勤勉です。",
+        "en": "He is a diligent student, as students go.",
+        "tatoeba_id": 108823
       }
     ]
   },
@@ -58325,14 +58310,14 @@
     "jmdict_id": 1208560,
     "examples": [
       {
-        "ja": "海は穏やかに、そしてなめらかに見える。",
-        "en": "The sea looks calm and smooth.",
-        "tatoeba_id": 185097
+        "ja": "このテーブルの表面は滑らかだ。",
+        "en": "This table has a smooth surface.",
+        "tatoeba_id": 223540
       },
       {
-        "ja": "この絹は触ってなめらかな感じだ。",
-        "en": "This silk feels smooth.",
-        "tatoeba_id": 222085
+        "ja": "この布は滑らかな手触りです。",
+        "en": "This cloth feels smooth.",
+        "tatoeba_id": 220081
       }
     ]
   },
@@ -58358,14 +58343,14 @@
     "jmdict_id": 1571320,
     "examples": [
       {
+        "ja": "私は長い間臥薪嘗胆の苦しみをなめた。",
+        "en": "I have struggled under extreme difficulties for a long time.",
+        "tatoeba_id": 155027
+      },
+      {
         "ja": "そのジャムをちょっとなめてみた。",
         "en": "I had a lick at the jam.",
         "tatoeba_id": 213049
-      },
-      {
-        "ja": "ここのソースは舐めてみるとちょっと塩っぱい。",
-        "en": "If you taste this sauce you'll find it a bit salty.",
-        "tatoeba_id": 74117
       }
     ]
   },
@@ -58474,9 +58459,9 @@
         "tatoeba_id": 111117
       },
       {
-        "ja": "このライオンはよく飼い馴らされている。",
-        "en": "This lion is very tame.",
-        "tatoeba_id": 223039
+        "ja": "新しい靴を履き慣らしている。",
+        "en": "I'm breaking in my new shoes.",
+        "tatoeba_id": 145427
       }
     ]
   },
@@ -58497,14 +58482,14 @@
     "jmdict_id": 1212650,
     "examples": [
       {
-        "ja": "彼はピューマを慣らすのに大いに骨を折った。",
-        "en": "He took great pains in taming a puma.",
-        "tatoeba_id": 111117
-      },
-      {
         "ja": "このライオンはよく飼い馴らされている。",
         "en": "This lion is very tame.",
         "tatoeba_id": 223039
+      },
+      {
+        "ja": "彼はピューマを慣らすのに大いに骨を折った。",
+        "en": "He took great pains in taming a puma.",
+        "tatoeba_id": 111117
       }
     ]
   },
@@ -58742,14 +58727,14 @@
     "jmdict_id": 1188350,
     "examples": [
       {
-        "ja": "なんだかすごく辛いの。",
-        "en": "Somehow it's been a rough day.",
-        "tatoeba_id": 198955
-      },
-      {
         "ja": "彼のねらいが何だかわかってきた。",
         "en": "I began to see what he was getting at.",
         "tatoeba_id": 118273
+      },
+      {
+        "ja": "お前、何だかボーっとしてるよ。",
+        "en": "You're out of it.",
+        "tatoeba_id": 226988
       }
     ]
   },
@@ -58796,14 +58781,14 @@
     "jmdict_id": 1188370,
     "examples": [
       {
-        "ja": "彼はなんて大食らいなんだろう。",
-        "en": "What a big eater he is!",
-        "tatoeba_id": 111388
+        "ja": "彼女は何ておしゃべりなんだろう。",
+        "en": "How she talks!",
+        "tatoeba_id": 90932
       },
       {
-        "ja": "変わってるだなんてそんな馬鹿な。",
-        "en": "Strange, my foot!",
-        "tatoeba_id": 83379
+        "ja": "彼女はあなたに何てささやいたの。",
+        "en": "What did she whisper to you?",
+        "tatoeba_id": 93444
       }
     ]
   },
@@ -58885,9 +58870,9 @@
         "tatoeba_id": 141150
       },
       {
-        "ja": "私は一日に100ユーロ稼ぎます。",
-        "en": "I make 100 euros per day.",
-        "tatoeba_id": 4726
+        "ja": "彼は私を彼の荷車に乗せてくれた。",
+        "en": "He gave me a lift in his cart.",
+        "tatoeba_id": 105530
       }
     ]
   },
@@ -58992,14 +58977,14 @@
     "jmdict_id": 1403390,
     "examples": [
       {
-        "ja": "かわいさ余って憎さ百倍。",
-        "en": "The greatest hate springs from the greatest love.",
-        "tatoeba_id": 226121
-      },
-      {
         "ja": "一度悪い評判が立ったらどうにもならぬ。",
         "en": "Give a dog a bad name and hang him.",
         "tatoeba_id": 190307
+      },
+      {
+        "ja": "今日は少し体調が悪いの。",
+        "en": "I feel a little bad today.",
+        "tatoeba_id": 171577
       }
     ]
   },
@@ -59241,9 +59226,9 @@
         "tatoeba_id": 10953875
       },
       {
-        "ja": "この部屋は日当たりが良くない。",
-        "en": "This room doesn't get much sunshine.",
-        "tatoeba_id": 219979
+        "ja": "彼らは日当たりのよい家に住んでいる。",
+        "en": "They live in a sunny house.",
+        "tatoeba_id": 96430
       }
     ]
   },
@@ -59766,14 +59751,14 @@
     "jmdict_id": 2859162,
     "examples": [
       {
-        "ja": "ねぇ、お願い。",
-        "en": "Oh, have a heart.",
-        "tatoeba_id": 198647
+        "ja": "音は静まり次第に消えて行った。",
+        "en": "The music gradually died away.",
+        "tatoeba_id": 188314
       },
       {
-        "ja": "これは兄です。かっこいいですね。",
-        "en": "This is my brother. Handsome, isn't he?",
-        "tatoeba_id": 74148
+        "ja": "音の出る辞書はもはや夢でない。",
+        "en": "A talking dictionary is no longer a fantasy.",
+        "tatoeba_id": 188319
       }
     ]
   },
@@ -59872,9 +59857,9 @@
         "tatoeba_id": 89720
       },
       {
-        "ja": "ブランデーを、カシのたるにねかせる。",
-        "en": "Age brandy in oak casks.",
-        "tatoeba_id": 196951
+        "ja": "子供を寝かせてもらえますか。",
+        "en": "Can you put the children to bed?",
+        "tatoeba_id": 168477
       }
     ]
   },
@@ -59941,14 +59926,14 @@
     "jmdict_id": 2863070,
     "examples": [
       {
-        "ja": "猫が居ないとネズミが遊びまわる。",
-        "en": "When the cat's away, the mice do play.",
-        "tatoeba_id": 121997
+        "ja": "鼠は沈みかかった船を見捨てる。",
+        "en": "Rats desert a sinking ship.",
+        "tatoeba_id": 140605
       },
       {
-        "ja": "そのネズミはトムに棒で殺された。",
-        "en": "The rat was killed by Tom with a stick.",
-        "tatoeba_id": 212775
+        "ja": "この鼠は私の猫に殺されました。",
+        "en": "This mouse was killed by my cat.",
+        "tatoeba_id": 220718
       }
     ]
   },
@@ -59974,9 +59959,9 @@
         "tatoeba_id": 108045
       },
       {
-        "ja": "他人の成功をねたんではならない。",
-        "en": "You must not be jealous of others' success.",
-        "tatoeba_id": 138497
+        "ja": "彼女は隣の人の幸運を妬んでいた。",
+        "en": "She was jealous of her neighbor's good fortune.",
+        "tatoeba_id": 86246
       }
     ]
   },
@@ -60604,14 +60589,14 @@
     "jmdict_id": 1450440,
     "examples": [
       {
-        "ja": "人間は死をのがれられない。",
-        "en": "Man is unable to escape death.",
-        "tatoeba_id": 144279
-      },
-      {
         "ja": "責任から逃れようことはできない。",
         "en": "You can't back out of your responsibilities.",
         "tatoeba_id": 142297
+      },
+      {
+        "ja": "この定めから逃れないといけない。",
+        "en": "I need to escape from this decree.",
+        "tatoeba_id": 220462
       }
     ]
   },
@@ -60753,9 +60738,9 @@
         "tatoeba_id": 92824
       },
       {
-        "ja": "彼らは彼女を口汚なくののしった。",
-        "en": "They used abusive language to her.",
-        "tatoeba_id": 96256
+        "ja": "彼女は面と向かって夫を罵った。",
+        "en": "She called her husband names to his face.",
+        "tatoeba_id": 86547
       }
     ]
   },
@@ -60867,9 +60852,9 @@
         "tatoeba_id": 164140
       },
       {
-        "ja": "ムーリエルは２０歳になりました。",
-        "en": "Muiriel is 20 now.",
-        "tatoeba_id": 4707
+        "ja": "このナイフは刃が鋭く、よく切れる。",
+        "en": "This knife has a fine edge and cuts well.",
+        "tatoeba_id": 223426
       }
     ]
   },
@@ -60978,9 +60963,9 @@
         "tatoeba_id": 182843
       },
       {
-        "ja": "はいどうぞ、君が飛行機の中で読む雑誌です。",
-        "en": "Here's a magazine for you to read in the plane.",
-        "tatoeba_id": 198338
+        "ja": "喫煙はあなたの肺をボロボロにする。",
+        "en": "Smoking does damage your lungs.",
+        "tatoeba_id": 182831
       }
     ]
   },
@@ -61693,14 +61678,14 @@
     "jmdict_id": 1600660,
     "examples": [
       {
-        "ja": "私はいろいろな機会を利用して英語の上達をはかった。",
-        "en": "I made use of every opportunity to improve my English.",
-        "tatoeba_id": 161337
-      },
-      {
         "ja": "その会社は市場を拡大するために最近の製品の多角化を図った。",
         "en": "The firm has recently diversified its products so as to extend its market.",
         "tatoeba_id": 211804
+      },
+      {
+        "ja": "彼らと協力して世界平和を図る。",
+        "en": "I am working with them towards world peace.",
+        "tatoeba_id": 98653
       }
     ]
   },
@@ -61786,11 +61771,6 @@
         "ja": "少年は木の皮を剥いだ。",
         "en": "The boy stripped a tree of the bark.",
         "tatoeba_id": 146512
-      },
-      {
-        "ja": "彼らは木の皮を剥いだ。",
-        "en": "They stripped the tree of its bark.",
-        "tatoeba_id": 96099
       }
     ]
   },
@@ -62067,9 +62047,9 @@
         "tatoeba_id": 83481
       },
       {
-        "ja": "雨に当たってペンキがはげている。",
-        "en": "The paint is peeling off the weather-beaten wall.",
-        "tatoeba_id": 189614
+        "ja": "ペンキが剥げてるよ。",
+        "en": "The paint is off.",
+        "tatoeba_id": 196640
       }
     ]
   },
@@ -62199,14 +62179,14 @@
     "jmdict_id": 1342540,
     "examples": [
       {
-        "ja": "旅行の初めの二日間は雨降りだった。",
-        "en": "The first two days of my trip were rainy.",
-        "tatoeba_id": 162444
-      },
-      {
         "ja": "会うは別れの始め。",
         "en": "To meet is to part.",
         "tatoeba_id": 185457
+      },
+      {
+        "ja": "先生は授業の始めに出席をとった。",
+        "en": "Our teacher called the roll at the beginning of the class.",
+        "tatoeba_id": 141567
       }
     ]
   },
@@ -62353,14 +62333,14 @@
     "jmdict_id": 1559200,
     "examples": [
       {
-        "ja": "こちらには大きなハスの葉があります。",
-        "en": "We have very big lotus leaves.",
-        "tatoeba_id": 224180
-      },
-      {
         "ja": "蓮の花はなんとも言えない芳香をはなっていた。",
         "en": "The lotus blossoms diffused an inexpressibly pleasant scent.",
         "tatoeba_id": 77421
+      },
+      {
+        "ja": "こちらには大きなハスの葉があります。",
+        "en": "We have very big lotus leaves.",
+        "tatoeba_id": 224180
       }
     ]
   },
@@ -62386,14 +62366,14 @@
     "jmdict_id": 1419400,
     "examples": [
       {
-        "ja": "ボールははずんで塀を飛び越えた。",
-        "en": "The ball bounced over the wall.",
-        "tatoeba_id": 196483
-      },
-      {
         "ja": "彼の胸は期待に弾んだ。",
         "en": "His heart bounded with expectation.",
         "tatoeba_id": 117764
+      },
+      {
+        "ja": "ゴムのボールは弾力性があるから弾む。",
+        "en": "A rubber ball bounces because it is elastic.",
+        "tatoeba_id": 219086
       }
     ]
   },
@@ -62904,9 +62884,9 @@
         "tatoeba_id": 143436
       },
       {
-        "ja": "口論のはて取っ組み合いを始めた。",
-        "en": "The quarrel ended in their coming to blows.",
-        "tatoeba_id": 173883
+        "ja": "言葉は宇宙の果てへと飛び出していく。",
+        "en": "Words travel across the universe.",
+        "tatoeba_id": 174689
       }
     ]
   },
@@ -63256,9 +63236,9 @@
         "tatoeba_id": 206320
       },
       {
-        "ja": "我々はふだんより足を速めて歩いた。",
-        "en": "We walked more quickly than usual.",
-        "tatoeba_id": 186002
+        "ja": "先生は試験の日取りを早めた。",
+        "en": "Our teacher advanced the date of the exam.",
+        "tatoeba_id": 141570
       }
     ]
   },
@@ -63281,14 +63261,14 @@
     "jmdict_id": 2834093,
     "examples": [
       {
-        "ja": "これが最近はやりの服ですか。",
-        "en": "Is this dress the latest fashion?",
-        "tatoeba_id": 218921
-      },
-      {
         "ja": "来年は帽子が流行してくるだろう。",
         "en": "Hats should be popular next year.",
         "tatoeba_id": 78577
+      },
+      {
+        "ja": "彼女はいつも流行の服を着ている。",
+        "en": "She always wears fashionable clothes.",
+        "tatoeba_id": 93208
       }
     ]
   },
@@ -63416,9 +63396,9 @@
         "tatoeba_id": 163678
       },
       {
-        "ja": "はるか遠方に稲妻が走るのが見えた。",
-        "en": "I saw a flash of lightning far in the distance.",
-        "tatoeba_id": 197822
+        "ja": "この世界は、あなたたちの住む世界から遥か３億光年離れた位置にあります。",
+        "en": "This world is a distant three hundred million light years away from the world where you live.",
+        "tatoeba_id": 504501
       }
     ]
   },
@@ -63469,14 +63449,14 @@
     "jmdict_id": 1328910,
     "examples": [
       {
+        "ja": "腫れるかもしれませんが気にしないでください。",
+        "en": "You may have swelling, but don't worry about it.",
+        "tatoeba_id": 197796
+      },
+      {
         "ja": "歯茎がはれています。",
         "en": "My gums are swollen.",
         "tatoeba_id": 150937
-      },
-      {
-        "ja": "小指がはれました。",
-        "en": "My little finger is swollen.",
-        "tatoeba_id": 146961
       }
     ]
   },
@@ -64158,9 +64138,9 @@
         "tatoeba_id": 141401
       },
       {
-        "ja": "大雨のため川がはんらんした。",
-        "en": "The heavy rains caused the river to flood.",
-        "tatoeba_id": 137665
+        "ja": "街には奇妙な外国語が氾濫していた。",
+        "en": "The town was flooded with strange foreign languages.",
+        "tatoeba_id": 184650
       }
     ]
   },
@@ -64315,14 +64295,14 @@
     "jmdict_id": 1279060,
     "examples": [
       {
-        "ja": "あなたは喫煙をひかえるべきです。",
-        "en": "You should refrain from smoking.",
-        "tatoeba_id": 232135
-      },
-      {
         "ja": "彼女は入試を控えて神経質になっていた。",
         "en": "She was nervous before the entrance exam.",
         "tatoeba_id": 87606
+      },
+      {
+        "ja": "先生は生徒たちにそれらの単語をノートに控えておくよう指示した。",
+        "en": "The teacher told the pupils to write those words down in their notebooks.",
+        "tatoeba_id": 141556
       }
     ]
   },
@@ -64549,14 +64529,14 @@
     "jmdict_id": 1168960,
     "examples": [
       {
-        "ja": "彼は戦災孤児をひきとって養女として育てています。",
-        "en": "He adopted a war orphan and is bringing her up as a foster daughter.",
-        "tatoeba_id": 74280
-      },
-      {
         "ja": "私は苦情を言ったが、店ではこのセーターを引き取るのを拒んだ。",
         "en": "I complained, but they refused to take this sweater back.",
         "tatoeba_id": 157541
+      },
+      {
+        "ja": "問題は子供の引き取り権だった。",
+        "en": "But custody of the children was a problem.",
+        "tatoeba_id": 79828
       }
     ]
   },
@@ -64952,9 +64932,9 @@
         "tatoeba_id": 126318
       },
       {
-        "ja": "猫はじゅうたんをひっかき始めた。",
-        "en": "The cat started to scratch the carpet.",
-        "tatoeba_id": 121973
+        "ja": "猫が窓を引っかいているのが聞こえる。",
+        "en": "I can hear a cat scratching at the window.",
+        "tatoeba_id": 121992
       }
     ]
   },
@@ -65166,11 +65146,6 @@
         "ja": "美貌は皮一重。",
         "en": "Beauty is but skin deep.",
         "tatoeba_id": 85526
-      },
-      {
-        "ja": "美は皮一重。",
-        "en": "Beauty is only skin deep.",
-        "tatoeba_id": 85553
       }
     ]
   },
@@ -65359,14 +65334,14 @@
     "jmdict_id": 1464050,
     "examples": [
       {
-        "ja": "その子供は、ひなたで横になって眠っていた。",
-        "en": "He was lying asleep in the sun.",
-        "tatoeba_id": 210149
-      },
-      {
         "ja": "日向にあまり長くいてはいけません。",
         "en": "Don't stay in the sun too long.",
         "tatoeba_id": 122875
+      },
+      {
+        "ja": "氷は日なたで溶けてしまった。",
+        "en": "The ice has melted in the sun.",
+        "tatoeba_id": 85384
       }
     ]
   },
@@ -65447,11 +65422,6 @@
         "ja": "その日、日の丸の旗がはためいていた。",
         "en": "On that day, Japanese flags were flying.",
         "tatoeba_id": 207360
-      },
-      {
-        "ja": "日の丸がはためいていた。",
-        "en": "Japanese flags were flying.",
-        "tatoeba_id": 122914
       }
     ]
   },
@@ -65551,14 +65521,14 @@
     "jmdict_id": 1556760,
     "examples": [
       {
-        "ja": "彼らはジャックの髪の刈り方をひやかした。",
-        "en": "They made fun of Jack's haircut.",
-        "tatoeba_id": 98045
-      },
-      {
         "ja": "人前で彼を冷やかすなんて君は意地悪だ。",
         "en": "It is mean of you to ridicule him in public.",
         "tatoeba_id": 143944
+      },
+      {
+        "ja": "彼らはジャックの髪の刈り方をひやかした。",
+        "en": "They made fun of Jack's haircut.",
+        "tatoeba_id": 98045
       }
     ]
   },
@@ -66098,9 +66068,9 @@
         "tatoeba_id": 183135
       },
       {
-        "ja": "汽車はバスよりひんぱんに来ます。",
-        "en": "Locomotives come more often than buses do.",
-        "tatoeba_id": 506526
+        "ja": "できるだけ頻繁に辞書を引きなさい。",
+        "en": "Refer to the dictionary as often as possible.",
+        "tatoeba_id": 202291
       }
     ]
   },
@@ -66928,14 +66898,14 @@
     "jmdict_id": 1561010,
     "examples": [
       {
-        "ja": "気苦労で彼は急にふけた。",
-        "en": "Care aged him quickly.",
-        "tatoeba_id": 183215
-      },
-      {
         "ja": "彼は老けて見えるが、まだ２０代だ。",
         "en": "He looks old, but he is still in his twenties.",
         "tatoeba_id": 111101
+      },
+      {
+        "ja": "彼は年の割には老けて見える。",
+        "en": "He looks old for his age.",
+        "tatoeba_id": 101367
       }
     ]
   },
@@ -67086,14 +67056,14 @@
     "jmdict_id": 1400850,
     "examples": [
       {
-        "ja": "君にふさわしいはずはないのだから。",
-        "en": "He couldn't be good for you.",
-        "tatoeba_id": 178644
+        "ja": "そのような行為は紳士に相応しくない。",
+        "en": "Such conduct does not become a gentleman.",
+        "tatoeba_id": 212518
       },
       {
-        "ja": "彼こそその地位にふさわしい人だ。",
-        "en": "He is the right man for the post.",
-        "tatoeba_id": 119303
+        "ja": "応募者にふさわしい職務遂行能力があるか？",
+        "en": "Does the applicant have suitable abilities to carry out the job?",
+        "tatoeba_id": 75576
       }
     ]
   },
@@ -67144,9 +67114,9 @@
         "tatoeba_id": 112770
       },
       {
-        "ja": "彼女はその自動車事故で負傷した。",
-        "en": "She was injured in the car accident.",
-        "tatoeba_id": 92435
+        "ja": "その戦闘で多くの兵士が負傷した。",
+        "en": "Many soldiers were wounded in the battle.",
+        "tatoeba_id": 208465
       }
     ]
   },
@@ -68035,14 +68005,14 @@
     "jmdict_id": 1361130,
     "examples": [
       {
-        "ja": "人のふり見て我がふり直せ。",
-        "en": "Learn wisdom from the faults of others.",
-        "tatoeba_id": 144634
+        "ja": "彼はここではよそ者の振りをする。",
+        "en": "He pretends that he's a stranger here.",
+        "tatoeba_id": 113843
       },
       {
-        "ja": "私は彼の言っている事がわからないふりをした。",
-        "en": "I affected not to understand what he was saying.",
-        "tatoeba_id": 153930
+        "ja": "私の犬はよく寝た振りをする。",
+        "en": "My dog often pretends to be asleep.",
+        "tatoeba_id": 163742
       }
     ]
   },
@@ -70297,9 +70267,9 @@
         "tatoeba_id": 100770
       },
       {
-        "ja": "そのニュースを聞いて彼はぼうぜんとした。",
-        "en": "The news paralyzed him.",
-        "tatoeba_id": 212795
+        "ja": "子供は幽霊を見ているかのように私をぼう然と見つめた。",
+        "en": "The child gaped at me as though he were seeing a ghost.",
+        "tatoeba_id": 168497
       }
     ]
   },
@@ -70494,14 +70464,14 @@
     "jmdict_id": 1518050,
     "examples": [
       {
-        "ja": "この動物は単にほうびが欲しいから、活動しているのにすぎないのだ。",
-        "en": "This animal is just working for rewards.",
-        "tatoeba_id": 220316
-      },
-      {
         "ja": "自然界には褒美もなければ罰もない。",
         "en": "In nature there are neither rewards nor punishments.",
         "tatoeba_id": 150093
+      },
+      {
+        "ja": "彼女は彼を責めるどころか、彼に褒美をあげた。",
+        "en": "Far from blaming him, she gave him a reward.",
+        "tatoeba_id": 87199
       }
     ]
   },
@@ -71068,9 +71038,9 @@
         "tatoeba_id": 94683
       },
       {
-        "ja": "つぼみがほころび始めた。",
-        "en": "The buds began to open.",
-        "tatoeba_id": 202555
+        "ja": "おまえのジーンズの綻びを彼女に繕ってもらいなさい。",
+        "en": "Ask her if she'll sew up the hole in your jeans.",
+        "tatoeba_id": 227541
       }
     ]
   },
@@ -71919,9 +71889,9 @@
         "tatoeba_id": 225465
       },
       {
-        "ja": "何だ、まだほんの子供じゃないか。",
-        "en": "Say, he is no more than a kid.",
-        "tatoeba_id": 187859
+        "ja": "彼女は日本語の授業をほんの数時間しか受けられなかった。",
+        "en": "She could only take Japanese lessons for a few hours.",
+        "tatoeba_id": 87625
       }
     ]
   },
@@ -72091,14 +72061,14 @@
     "jmdict_id": 1524610,
     "examples": [
       {
-        "ja": "私達は金持ちではあるまいし。",
-        "en": "It isn't as if we were rich.",
-        "tatoeba_id": 151590
+        "ja": "このページのコピーを３枚とってください。",
+        "en": "Please make three copies of this page.",
+        "tatoeba_id": 223221
       },
       {
-        "ja": "彼は怒りを見せまいとした。",
-        "en": "He tried to hold back his anger.",
-        "tatoeba_id": 101811
+        "ja": "用紙は３枚重ねて出してください。",
+        "en": "Hand in the three sheets of paper together.",
+        "tatoeba_id": 78860
       }
     ]
   },
@@ -72286,9 +72256,9 @@
         "tatoeba_id": 104335
       },
       {
-        "ja": "その少女は祖母の世話にまかされた。",
-        "en": "The little girl was left in her grandmother's care.",
-        "tatoeba_id": 209176
+        "ja": "私は大切な仕事を任された。",
+        "en": "I was charged with an important task.",
+        "tatoeba_id": 155186
       }
     ]
   },
@@ -72337,14 +72307,14 @@
     "jmdict_id": 1562510,
     "examples": [
       {
+        "ja": "新しい事業は何人かの事業家によって資金を賄われた。",
+        "en": "The new venture was financed by a group of entrepreneurs.",
+        "tatoeba_id": 145392
+      },
+      {
         "ja": "彼のプロジェクトは助成金でまかなわれていた。",
         "en": "His project was funded by grants.",
         "tatoeba_id": 118249
-      },
-      {
-        "ja": "父親は家族の生活をまかなう。",
-        "en": "A father provides for his family.",
-        "tatoeba_id": 84300
       }
     ]
   },
@@ -72408,9 +72378,9 @@
         "tatoeba_id": 163392
       },
       {
-        "ja": "彼の話で彼女の悲しみはまぎれた。",
-        "en": "His talk distracted her from grief.",
-        "tatoeba_id": 115812
+        "ja": "忙しさに紛れて、ごぶさたしておりました。",
+        "en": "I was too busy to write you.",
+        "tatoeba_id": 82520
       }
     ]
   },
@@ -72631,9 +72601,9 @@
         "tatoeba_id": 143609
       },
       {
-        "ja": "彼女は姉に優るとも劣らぬ美人だ。",
-        "en": "She is not less beautiful than her sister.",
-        "tatoeba_id": 89796
+        "ja": "よき言葉より、よき行いの方が勝る。",
+        "en": "Well done is better than well said.",
+        "tatoeba_id": 77844
       }
     ]
   },
@@ -72685,14 +72655,14 @@
     "jmdict_id": 1271660,
     "examples": [
       {
-        "ja": "その詩は韻文に散文をまじえている。",
-        "en": "That poem mixes prose with poetry.",
-        "tatoeba_id": 210069
-      },
-      {
         "ja": "彼女はジェスチャーを交えて話した。",
         "en": "She accompanied her words with gestures.",
         "tatoeba_id": 88483
+      },
+      {
+        "ja": "その詩は韻文に散文をまじえている。",
+        "en": "That poem mixes prose with poetry.",
+        "tatoeba_id": 210069
       }
     ]
   },
@@ -73411,14 +73381,14 @@
     "jmdict_id": 1604260,
     "examples": [
       {
-        "ja": "家畜はみんなまるまるしている。",
-        "en": "Their cattle are all fat.",
-        "tatoeba_id": 186920
-      },
-      {
         "ja": "明日で丸々１週間雨が降り続く事になっているでしょう。",
         "en": "It will have been raining a whole week tomorrow.",
         "tatoeba_id": 80591
+      },
+      {
+        "ja": "家畜はみんなまるまるしている。",
+        "en": "Their cattle are all fat.",
+        "tatoeba_id": 186920
       }
     ]
   },
@@ -73527,9 +73497,9 @@
         "tatoeba_id": 207638
       },
       {
-        "ja": "その店は劇場の真ん前にあります。",
-        "en": "The store is just across from the theater.",
-        "tatoeba_id": 207630
+        "ja": "郵便局は銀行のちょうど真ん前だよ。",
+        "en": "The post office is just across from the bank.",
+        "tatoeba_id": 79169
       }
     ]
   },
@@ -73982,14 +73952,14 @@
     "jmdict_id": 1259180,
     "examples": [
       {
-        "ja": "どうやら、そのみすぼらしいアパートは空き家のようだ。",
-        "en": "Apparently that shabby flat is vacant.",
-        "tatoeba_id": 201136
-      },
-      {
         "ja": "非常にみすぼらしく見える。",
         "en": "He looks very down-at-the-heels.",
         "tatoeba_id": 85773
+      },
+      {
+        "ja": "どうやら、そのみすぼらしいアパートは空き家のようだ。",
+        "en": "Apparently that shabby flat is vacant.",
+        "tatoeba_id": 201136
       }
     ]
   },
@@ -75246,9 +75216,9 @@
         "tatoeba_id": 198917
       },
       {
-        "ja": "お金をむだ使いしないほうがいい。",
-        "en": "You had better not waste your money.",
-        "tatoeba_id": 227229
+        "ja": "彼は妻の無駄遣いに渋い顔をする。",
+        "en": "He frowns on his wife's wasting money.",
+        "tatoeba_id": 106888
       }
     ]
   },
@@ -75328,14 +75298,14 @@
     "jmdict_id": 1530670,
     "examples": [
       {
-        "ja": "君がそれをたった一人でやろうなんてむちゃだ。",
-        "en": "You are mad to try to do it all alone.",
-        "tatoeba_id": 179144
-      },
-      {
         "ja": "冬にその山に登るなんて彼は無茶だ。",
         "en": "He'd be crazy to climb the mountain in winter.",
         "tatoeba_id": 124381
+      },
+      {
+        "ja": "無茶しなければよかった。",
+        "en": "I shouldn't have overdone it.",
+        "tatoeba_id": 80898
       }
     ]
   },
@@ -75390,9 +75360,9 @@
         "tatoeba_id": 117172
       },
       {
-        "ja": "彼は多くの日々をむなしく過ごさなければならなかった。",
-        "en": "He had to spend many barren days.",
-        "tatoeba_id": 102578
+        "ja": "医者の努力も空しく、その男はまもなく死んでしまいました。",
+        "en": "All the doctor's efforts were in vain and the man soon died.",
+        "tatoeba_id": 190866
       }
     ]
   },
@@ -75534,14 +75504,14 @@
     "jmdict_id": 1531080,
     "examples": [
       {
-        "ja": "むろん信用していいとも。君にヨタ情報を教えたことが一度でもあったかい。",
-        "en": "Of course you can trust me. Have I ever given you a bum steer before?",
-        "tatoeba_id": 194884
+        "ja": "彼は英語は無論のこと、フランス語も話します。",
+        "en": "He speaks French, not to speak of English.",
+        "tatoeba_id": 109686
       },
       {
-        "ja": "むろん、この両極端の間に多くのバリエーションがある。",
-        "en": "Obviously there are many variations between these two extremes.",
-        "tatoeba_id": 74402
+        "ja": "彼はフランス語を話せる、ましてや英語は無論のことだ。",
+        "en": "He can speak French, and obviously English.",
+        "tatoeba_id": 111046
       }
     ]
   },
@@ -76241,9 +76211,9 @@
         "tatoeba_id": 229240
       },
       {
-        "ja": "英国は多くの植民地を設けた。",
-        "en": "England established many colonies.",
-        "tatoeba_id": 188999
+        "ja": "ホールは仕切りを設ける前は千人収容できた。",
+        "en": "The hall could seat a thousand people before it was partitioned.",
+        "tatoeba_id": 196471
       }
     ]
   },
@@ -76540,11 +76510,6 @@
         "ja": "私は自分の目論見を漏らさないように用心した。",
         "en": "I was wary of showing my intention.",
         "tatoeba_id": 156203
-      },
-      {
-        "ja": "私は自分のもくろみをもらさないように用心した。",
-        "en": "I was wary of showing my intentions.",
-        "tatoeba_id": 156281
       }
     ]
   },
@@ -76798,14 +76763,14 @@
     "jmdict_id": 1389740,
     "examples": [
       {
+        "ja": "政治に対する私の関心は専ら学問上のものです。",
+        "en": "My interest in politics is strictly academic.",
+        "tatoeba_id": 143203
+      },
+      {
         "ja": "その特権はもっぱらご婦人だけに限られている。",
         "en": "The privilege is reserved exclusively for women.",
         "tatoeba_id": 207411
-      },
-      {
-        "ja": "私の成功はもっぱら幸運の賜物だ。",
-        "en": "My success was largely due to luck.",
-        "tatoeba_id": 163232
       }
     ]
   },
@@ -77128,14 +77093,14 @@
     "jmdict_id": 1605320,
     "examples": [
       {
-        "ja": "彼女は秘密をもらした。",
-        "en": "She let the secret out.",
-        "tatoeba_id": 87141
-      },
-      {
         "ja": "彼は仕事が終わったとき、ため息を漏らした。",
         "en": "He let out a sigh when the job was finished.",
         "tatoeba_id": 106669
+      },
+      {
+        "ja": "彼は自分の真意を漏らしてしまった。",
+        "en": "He gave away his real intention.",
+        "tatoeba_id": 104902
       }
     ]
   },
@@ -77338,14 +77303,14 @@
     "jmdict_id": 1537760,
     "examples": [
       {
-        "ja": "これじゃあ、僕は一生結婚なんて出来やしないや。",
-        "en": "I guess I'm never going to get married.",
-        "tatoeba_id": 218796
+        "ja": "彼はその兵士をねらって矢を放った。",
+        "en": "He shot an arrow at the soldier.",
+        "tatoeba_id": 112412
       },
       {
-        "ja": "朝立ちやしょんべんまでの命かな。",
-        "en": "A morning erection: Will it last only until I take a leak?",
-        "tatoeba_id": 75869
+        "ja": "インディアンは弓と矢で戦った。",
+        "en": "The Indians fought with bows and arrows.",
+        "tatoeba_id": 228381
       }
     ]
   },
@@ -77659,14 +77624,14 @@
     "jmdict_id": 1156990,
     "examples": [
       {
-        "ja": "彼は人の名前を忘れやすい。",
-        "en": "He is apt to forget people's name.",
-        "tatoeba_id": 103577
-      },
-      {
         "ja": "言うは易く行うは難し。",
         "en": "It's easier said than done.",
         "tatoeba_id": 1266263
+      },
+      {
+        "ja": "少年老い易く学成り難し。",
+        "en": "Art is long, time is fleeting.",
+        "tatoeba_id": 146487
       }
     ]
   },
@@ -77887,9 +77852,9 @@
         "tatoeba_id": 191233
       },
       {
-        "ja": "君はそれをヤミで買ったのか。",
-        "en": "Did you buy it on the black market?",
-        "tatoeba_id": 177699
+        "ja": "彼女は闇にまぎれて逃げとおせた。",
+        "en": "She managed to run away under cover of darkness.",
+        "tatoeba_id": 91216
       }
     ]
   },
@@ -77915,9 +77880,9 @@
         "tatoeba_id": 87827
       },
       {
-        "ja": "彼女は心臓を病んでいる。",
-        "en": "She is troubled with heart disease.",
-        "tatoeba_id": 88583
+        "ja": "実を言うと、その未亡人は胃ガンを病んでいた。",
+        "en": "To tell the truth, the widow suffered from stomach cancer.",
+        "tatoeba_id": 149415
       }
     ]
   },
@@ -77999,9 +77964,9 @@
         "tatoeba_id": 162343
       },
       {
-        "ja": "彼は計画どおり仕事をやりとげた。",
-        "en": "He accomplished the work as planned.",
-        "tatoeba_id": 107966
+        "ja": "彼はついにその仕事をやり遂げた。",
+        "en": "He finally accomplished the work.",
+        "tatoeba_id": 111908
       }
     ]
   },
@@ -78635,14 +78600,14 @@
     "jmdict_id": 1545600,
     "examples": [
       {
-        "ja": "地震が突然、建物をゆさぶった。",
-        "en": "The earthquake suddenly shook the buildings.",
-        "tatoeba_id": 126902
-      },
-      {
         "ja": "強い円が経済を揺さぶっている。",
         "en": "A strong yen is shaking the economy.",
         "tatoeba_id": 180541
+      },
+      {
+        "ja": "地震が突然、建物をゆさぶった。",
+        "en": "The earthquake suddenly shook the buildings.",
+        "tatoeba_id": 126902
       }
     ]
   },
@@ -78894,14 +78859,14 @@
     "jmdict_id": 1605810,
     "examples": [
       {
-        "ja": "１０００円かそこらで買えますよ。",
-        "en": "You can buy it for a thousand yen or so.",
-        "tatoeba_id": 236122
-      },
-      {
         "ja": "新聞は世の動向を左右する。",
         "en": "Newspapers influence the current of time.",
         "tatoeba_id": 145130
+      },
+      {
+        "ja": "光が世にやって来た。",
+        "en": "Light has come into the world.",
+        "tatoeba_id": 174089
       }
     ]
   },
@@ -79565,14 +79530,14 @@
     "jmdict_id": 1581170,
     "examples": [
       {
-        "ja": "この女の子はまだ小さくてもののよしあしがわからない。",
-        "en": "The girl is not old enough to be responsible.",
-        "tatoeba_id": 221195
-      },
-      {
         "ja": "彼女には事の善し悪しがわからない。",
         "en": "She can't tell the good from the bad.",
         "tatoeba_id": 94943
+      },
+      {
+        "ja": "彼は馬の善し悪しを見る目は確かだ。",
+        "en": "He is a good judge of horses.",
+        "tatoeba_id": 101307
       }
     ]
   },
@@ -81923,14 +81888,14 @@
     "jmdict_id": 1561920,
     "examples": [
       {
-        "ja": "あなたの髪は長いわね。",
-        "en": "What long hair you've got!",
-        "tatoeba_id": 233053
-      },
-      {
         "ja": "３角形のすべての角の和は１８０度に等しい。",
         "en": "The sum of all the angles in a triangle equals 180 degrees.",
         "tatoeba_id": 235339
+      },
+      {
+        "ja": "スポーツではチームの和が成功には欠かせません。",
+        "en": "In sport, team harmony is vital to success.",
+        "tatoeba_id": 214351
       }
     ]
   },
@@ -82124,14 +82089,14 @@
     "jmdict_id": 1562670,
     "examples": [
       {
-        "ja": "遅れたことをおわび申しあげます。",
-        "en": "I must apologize for the delay.",
-        "tatoeba_id": 126724
-      },
-      {
         "ja": "どうしてあなたにお詫びする理由があるのですか。",
         "en": "Why should I apologize to you?",
         "tatoeba_id": 201575
+      },
+      {
+        "ja": "先日のことをお詫びしたいと思います。",
+        "en": "I want to apologize for the other day.",
+        "tatoeba_id": 141473
       }
     ]
   },
@@ -82199,9 +82164,9 @@
         "tatoeba_id": 231220
       },
       {
-        "ja": "わらの男でも金の女の値打ちがある。",
-        "en": "A man of straw is worth a woman of gold.",
-        "tatoeba_id": 191753
+        "ja": "彼はどんな藁をもつかむだろう。",
+        "en": "He'll clutch at any straw.",
+        "tatoeba_id": 111447
       }
     ]
   },

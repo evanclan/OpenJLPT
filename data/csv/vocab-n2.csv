@@ -2,17 +2,17 @@ id,word,reading,romaji,meanings,level,pos,jmdict_id,other_forms,example_ja,examp
 42c4654587,あいかわらず,あいかわらず,aikawarazu,as ever; as usual; the same,N2,adv; adj-no,1401310,相変わらず,君は相変わらず健康そうに見える。,You look as healthy as ever.
 79169045a2,アイデア,アイデア,aidea,idea,N2,n,1014210,アイディア,アイディアが足りないということはない。,There is no shortage of ideas.
 08e45ae028,あいまい,あいまい,aimai,vague; ambiguous,N2,adj-na; n,1567920,曖昧,彼は私にあいまいな返事をした。,He gave me a vague answer.
-5b1dbc60e6,遭う,あう,au,to meet; to encounter (undesirable nuance),N2,v5u; vi,1198180,,前に彼にあったのを覚えている。,I remember seeing him before.
+5b1dbc60e6,遭う,あう,au,to meet; to encounter (undesirable nuance),N2,v5u; vi,1198180,,駅へ行く途中でにわか雨に遭った。,I was caught in a shower on my way to the station.
 5c46e379a2,扇ぐ,あおぐ,aogu,to fan; to flap,N2,v5g; vt,1609000,,彼はあおいで火をおこした。,He fanned the fire into flame.
 f24da46d2e,青白い,あおじろい,aojiroi,pale; pallid,N2,adj-i,1381760,,彼女はいつも青白い顔をしている。,She always looks pale.
 b286c3e278,明き,あき,aki,room; time to spare; emptiness,N2,n,1609010,,字と字の間の空きをもっと広くしなさい。,Leave more space between characters.
 4bbc998853,あきれる,あきれる,akireru,to be amazed; to be shocked,N2,v1; vi,1515580,呆れる,君の厚かましいのには呆れたよ。,I am amazed at your audacity.
 f4f844d9b9,アクセント,アクセント,akusento,accent,N2,n,1015310,,Australiaという語のアクセントはどこですか。,"Where do you place the stress in the word ""Australia""?"
 4f70e78ef3,あくび,あくび,akubi,yawn,N2,n; vs; vi,1254010,,あの先生の講義はあくびが出る。,His lectures are terribly boring.
-a542a76c28,飽くまで,あくまで,akumade,to the end; to the last; stubbornly,N2,adv,1518320,,君はあくまで意地を張るのだね。,"You're never going to give in, are you?"
+a542a76c28,飽くまで,あくまで,akumade,to the end; to the last; stubbornly,N2,adv,1518320,,わが党はこれに飽くまで反対します。,Our party will resist to the bitter end.
 817ab81f5e,明け方,あけがた,akegata,dawn,N2,n; adv,1532300,,その事故は明け方に起こった。,The accident occurred at dawn.
-8c256fc677,挙げる,あげる,ageru,to raise; to fly,N2,v1; vt,2864818,,彼は科学者として名声をあげた。,He won eminence as a scientist.
-d4d89391b7,揚げる,あげる,ageru,to lift; to fry,N2,v1; vt,2864817,,花火が四方八方であげられた。,The fireworks were set off on all sides.
+8c256fc677,挙げる,あげる,ageru,to raise; to fly,N2,v1; vt,2864818,,質問があれば右手を挙げて下さい。,"If you have a question, please raise your right hand."
+d4d89391b7,揚げる,あげる,ageru,to lift; to fry,N2,v1; vt,2864817,,彼女は魚をサラダ油で揚げた。,She fried fish in salad oil.
 36c77eda04,憧れる,あこがれる,akogareru,to long for; to yearn after; to admire,N2,v1; vi,1453810,,あの人達は都会の生活にあこがれている。,They are longing for city life.
 c6ff7af051,足跡,あしあと,ashiato,footprints,N2,n,1581330,,足跡が床に残っていた。,Footprints were left on the floor.
 e62d8e80cc,味わう,あじわう,ajiwau,to taste; to savor; to relish,N2,v5u; vt,1527010,,あのテーマパークでスリルを味わった。,We had a thrilling time at the theme park.
@@ -21,7 +21,7 @@ eafba17b69,預かる,あずかる,azukaru,to keep in custody; to receive on depo
 a7a7a09d5d,暖める,あたためる,atatameru,to warm; to heat,N2,v1; vt,1586440,,ミルクを温めてくれませんか。,"Will you warm the milk, please?"
 ac69e2e6fa,あたりまえ,あたりまえ,atarimae,usual; common; ordinary,N2,adj-no; adj-na; n,1448800,当たり前,この問題はあたりまえのやり方では解決しない。,You cannot solve this problem in an ordinary way.
 18818a506e,あちらこちら,あちらこちら,achirakochira,here and there,N2,pn; adv; vs,1612620,,本が部屋のあちこちに散らばっていた。,There were books lying about the room.
-a059581841,厚かましい,あつかましい,atsukamashii,impudent; shameless; brazen,N2,adj-i,1275330,,そう言うことは彼はあつかましい奴だ。,It is impudent of him to say so.
+a059581841,厚かましい,あつかましい,atsukamashii,impudent; shameless; brazen,N2,adj-i,1275330,,彼は厚かましくも助けを求めてきた。,He had the cheek to ask me to help him.
 869960843c,圧縮,あっしゅく,asshuku,compression; condensation; pressure,N2,n; vs; vt,1153080,,その気体は圧縮されてボンベに詰め込まれた。,The gas was compressed into a gas cylinder.
 d3825b176d,宛名,あてな,atena,address; direction,N2,n,1586520,,この手紙は宛名が違っている。,This letter is wrongly addressed.
 83df753526,あてはまる,あてはまる,atehamaru,to be applicable; to come under (a category); to fulfill,N2,v5r; vi,1448930,当てはまる,この規則は１年生には当てはまらない。,This rule doesn't apply to first-year students.
@@ -44,7 +44,7 @@ c171dadc4a,荒い,あらい,arai,rough; rude; wild,N2,adj-i,1281450,,僕のボ�
 ba30b2fc1e,改めて,あらためて,aratamete,another time; again; over again; anew; formally,N2,adv,1200740,,改めて言う事はない。,I have nothing particular to say.
 554088a0dc,改める,あらためる,aratameru,to change; to alter; to reform; to revise,N2,v1; vt,1200750,,どうして考えを改めたのですか。,What made you change your mind?
 173f8d3f42,著す,あらわす,arawasu,to write; to publish,N2,v5s; vt,1427080,,有名作家はまたベストセラー書を著した。,The famous author created another best-selling book.
-89034be6d9,有難い,ありがたい,arigatai,grateful; thankful; welcome; appreciated; evoking gratitude,N2,adj-i,1541560,,どんなインプットでもいただければありがたいです。,Any input would be appreciated!
+89034be6d9,有難い,ありがたい,arigatai,grateful; thankful; welcome; appreciated; evoking gratitude,N2,adj-i,1541560,,お手伝いいただければたいへん有り難いと思います。,I'd be very grateful if you'd help me.
 8c1e168b75,あれこれ,あれこれ,arekore,one thing or another; this and that; this or that,N2,adv; pn,1612650,彼此,もうかれこれ１０時です。,It is almost ten o'clock.
 4fcdca6105,あわただしい,あわただしい,awatadashii,busy; hurried; confused; flurried,N2,adj-i,1278810,慌ただしい,飛行機の辺りで人の動きがあわただしかった。,There was much activity around the plane.
 dedd8df548,あわてる,あわてる,awateru,to become confused,N2,v1; vi,1278830,慌てる,その質問で彼はすっかりあわてた。,The question threw him off his balance.
@@ -70,7 +70,7 @@ ca1d593e5e,いちいち,いちいち,ichiichi,one by one; separately,N2,n; adv,1
 28ba375980,一段と,いちだんと,ichidanto,greater; more; further; still more,N2,,,,冬は暗くなるのが一段と早くなる。,It becomes dark much earlier in winter.
 9299dcd9c4,一流,いちりゅう,ichiryuu,first class; top grade; foremost; top-notch,N2,adj-no; n,1167270,,こんな一流選手が相手では勝ち目がない。,We have no chance against those top players.
 a86f29464a,佚,いつ,itsu,be lost; peace; hide; mistake; beautiful; in turn,N2,n,1585390,,,
-b3b5dbb9e3,一昨日,いっさくじつ,issakujitsu,day before yesterday,N2,n; adv,1576050,,彼はおとといアメリカに向かった。,He left for America the day before yesterday.
+b3b5dbb9e3,一昨日,いっさくじつ,issakujitsu,day before yesterday,N2,n; adv,1576050,,一昨日、彼らはそこを出発した。,They left there the day before yesterday.
 84ce1b3469,一昨年,いっさくねん,issakunen,year before last,N2,n; adv,1576060,,彼女は、一昨年よりもはるかに暮らし向きがよい。,She's far better off than she was the year before last.
 b1205d9b83,一斉,いっせい,issei,simultaneous; all at once,N2,adv; n,1164040,,みんなで一斉に水に飛び込んだんだ。,We all jumped into the water at the same time.
 e2c0c40491,一旦,いったん,ittan,once; for a moment; one morning; temporarily,N2,adv,1164650,,いったんしたことは元どおりにならない。,What is done cannot be undone.
@@ -115,7 +115,7 @@ a4847f22e0,承る,うけたまわる,uketamawaru,(hum) to hear; to be told; to k
 10adbed302,うどん,うどん,udon,noodles (Japanese),N2,n,1574470,饂飩,そばはそば粉から、うどんやきしめんは普通の小麦粉からできてるの。,"Soba is made of buckwheat flour, and udon and kishimen are made of plain wheat flour."
 27a6e0b315,有無,うむ,umu,yes or no; existence; flag indicator (comp); presence or absence marker,N2,n,1541610,,排卵の有無を調べる方法はありますか？,Is there some way to check for ovulation?
 04779b98e7,埋める,うめる,umeru,"to bury; to fill up; to fill (a seat, a vacant position)",N2,v1; vt,1524500,,犬はよく骨を地面に埋める。,Dogs often bury bones.
-d95334bf4d,敬う,うやまう,uyamau,to show respect; to honour,N2,v5u; vt,1250700,,私たちは祖先をうやまうべきだ。,We should worship our ancestors.
+d95334bf4d,敬う,うやまう,uyamau,to show respect; to honour,N2,v5u; vt,1250700,,両親は私に老人を敬うように言った。,My parents told me that we should respect the elderly.
 27cd0cb3fc,裏返す,うらがえす,uragaesu,to turn inside out; to turn (something) over,N2,v5s; vt,1550630,,彼はシャツを裏返しに着ていた。,He had his shirt on inside out.
 01cfbc11d9,裏口,うらぐち,uraguchi,backdoor; rear entrance,N2,n,1550270,,彼は裏口入学した。,He bought his way into college.
 5ba9e0b071,占う,うらなう,uranau,to forecast; to predict,N2,v5u; vt,1389430,,私は運勢を占ってもらった。,I had my fortune told.
@@ -167,7 +167,7 @@ ec98265fb1,オートメーション,オートメーション,ootomeeshon,automat
 a3e381631c,おかげさまで,おかげさまで,okagesamade,Thanks to god; thanks to you,N2,exp,1270220,お蔭様で,おかげさまで助かりました。,Thank you very much for your help.
 286e536eba,おかず,おかず,okazu,side dish; accompaniment for rice dishes,N2,n,1588930,お菜,今晩のおかずはもう決めてあります。,I've decided what to cook for dinner.
 0a5c26a710,拝む,おがむ,ogamu,to worship; to beg; to make a supplication,N2,v5m; vt,1472230,,その不届きな野郎の顔を、拝ませてもらうか。,Let's have a gander at this insolent man.
-f8a8923c36,お代わり,おかわり,okawari,second helping; another cup,N2,n; vs; vt,1612800,,コーヒーのおかわりはいかがですか。,Would you like another cup of coffee?
+f8a8923c36,お代わり,おかわり,okawari,second helping; another cup,N2,n; vs; vt,1612800,,ライスとキャベツをお代わりお願いします。,Can I have seconds on rice and cabbage?
 2fa74b3912,補う,おぎなう,oginau,to compensate for,N2,v5u; vt,1514460,,あなたの食事にはビタミンを補うほうがよい。,You had better supplement your diet with vitamins.
 64ed42247a,おきのどくに,おきのどくに,okinodokuni,my sympathies; that's too bad; my condolences,N2,exp,2167510,,お姉さんのことはたいへんお気の毒に思います。,I feel very sorry for your sister.
 df8ac0dd2f,屋外,おくがい,okugai,outdoors,N2,n; adj-no,1182680,,彼らは屋外スポーツに熱心である。,They are keen on outdoor sports.
@@ -177,12 +177,12 @@ ca8c4f4dbf,怠る,おこたる,okotaru,to neglect; to be off guard; to be feelin
 adc42eab65,押える,おさえる,osaeru,to stop; to restrain; to seize; to repress; to suppress; to press down,N2,v1; vt,1589080,押さえる,警察はその強盗の首を押さえた。,The police seized the robber by the neck.
 b1173f76cf,おさきに,おさきに,osakini,before; ahead; previously,N2,adv,1002280,お先に,どうぞ、お先に！,Go ahead!
 758801b3ed,治める,おさめる,osameru,to govern; to manage; to subdue,N2,v1; vt,1316830,,王は自分の王国を公正に治めた。,The king ruled his kingdom justly.
-1be15a39e4,納める,おさめる,osameru,to obtain; to reap; to pay; to supply; to accept,N2,v1; vt,1589090,,彼が仲裁してその場は丸く収めた。,He intervened and settled the matter peacefully for the time being.
+1be15a39e4,納める,おさめる,osameru,to obtain; to reap; to pay; to supply; to accept,N2,v1; vt,1589090,,資産家は高額の所得税を納めなければならない。,A man of wealth has to pay a lot of income tax.
 4a0fdf436f,惜しい,おしい,oshii,regrettable; disappointing; precious,N2,adj-i,1382280,,これはまだ捨てるには惜しい。,This is still too good to be thrown away.
 c364c3f779,御辞儀,おじぎ,ojigi,bow,N2,n; vs; vi,1002030,,どの子も先生にお辞儀した。,Every child bowed to the teacher.
-ea45ce4bc8,叔父さん,おじさん,ojisan,middle-aged gentleman; uncle,N2,n,2261490,,彼女のおじさんは有名な医者です。,Her uncle is a famous doctor.
-b6e9e55b54,小父さん,おじさん,ojisan,middle-aged gentleman; uncle,N2,n,2261490,,彼女のおじさんは有名な医者です。,Her uncle is a famous doctor.
-997f2be694,伯父さん,おじさん,ojisan,middle-aged gentleman; uncle,N2,n,2261490,,彼女のおじさんは有名な医者です。,Her uncle is a famous doctor.
+ea45ce4bc8,叔父さん,おじさん,ojisan,middle-aged gentleman; uncle,N2,n,2261490,,あなたの叔父さんと話し合いたい。,I want to talk with your uncle.
+b6e9e55b54,小父さん,おじさん,ojisan,middle-aged gentleman; uncle,N2,n,2261490,,あなたの叔父さんと話し合いたい。,I want to talk with your uncle.
+997f2be694,伯父さん,おじさん,ojisan,middle-aged gentleman; uncle,N2,n,2261490,,あなたの叔父さんと話し合いたい。,I want to talk with your uncle.
 547660574d,おじゃまします,おじゃまします,ojamashimasu,Excuse me for disturbing you,N2,exp,1002050,お邪魔します,お邪魔します。,"Hello, sorry for any trouble."
 2b78635457,おしゃれ,おしゃれ,oshare,smartly dressed; someone smartly dressed; fashion-conscious,N2,adj-na,1002770,お洒落,彼女はオシャレだ。,She's fashionable.
 acbef70f9e,教わる,おそわる,osowaru,to be taught,N2,v5r; vt,1236940,,あなたが教わった事は間違っている。,What you were taught is wrong.
@@ -195,7 +195,7 @@ acbef70f9e,教わる,おそわる,osowaru,to be taught,N2,v5r; vt,1236940,,あ�
 69338b8c5a,おとなしい,おとなしい,otonashii,obedient; docile; quiet,N2,adj-i,1414190,大人しい,牛は大きくて、おとなしく見えました。,The cows looked big and docile.
 2f1d00b80b,驚かす,おどろかす,odorokasu,to surprise; to frighten; to create a stir,N2,v5s; vt,1238650,,その靴の値段の高さには驚かされた。,I was surprised at how expensive the shoes were.
 531def37b8,おねがいします,おねがいします,onegaishimasu,please,N2,exp,1001720,お願いします,フライトの再確認をお願いします。,"Flight reconfirmation, please."
-121e30ca31,各々,おのおの,onoono,each; every; either; respectively; severally,N2,n; adv,2826190,各,おのおのの建物には名前がある。,Each building has a name.
+121e30ca31,各々,おのおの,onoono,each; every; either; respectively; severally,N2,n; adv,2826190,各,各々の乗客には荷物二つの制限がある。,There is a limit of two pieces of luggage for each passenger.
 ab742a2e6a,叔母さん,おばさん,obasan,aunt; middle-aged lady,N2,n,2261500,,叔母さんを訪ねた時はすごいごちそうだったね。,What a feast we had when we visited my aunt!
 36bff8d879,おはよう,おはよう,ohayou,(abbr) Good morning,N2,int,1612820,お早う,おはよう。ご飯をよそっても良いかしら？,Morning. Shall I dish up?
 078ffcd02a,お参り,おまいり,omairi,worship; shrine visit,N2,n; vs; vi,1001950,,元旦には近所の神社にお参りする人が多い。,"On New Year's Day, many people visit neighborhood shrines."
@@ -219,7 +219,7 @@ cbf87a9c47,温室,おんしつ,onshitsu,greenhouse,N2,n,1183390,,私は温室で
 df1a94a798,温帯,おんたい,ontai,temperate zone,N2,n,1183470,,我々のところの気候は温帯性です。,Our country's climate is temperate.
 5510e3f22f,御中,おんちゅう,onchuu,and Company; Messrs.,N2,n-suf,1270530,,御中元や御歳暮の習慣はなかなかすたれない。,The gift-giving custom dies hard.
 834b59c61e,女の人,おんなのひと,onnanohito,woman,N2,exp; n,1344980,,今、女の人が１人入っていきましたよ。,A woman is going into it now.
-b5cc2a03d3,蚊,か,ka,mosquito,N2,n,1196540,,そうするなと警告したではないか。,"I warned you not to do so, didn't I?"
+b5cc2a03d3,蚊,か,ka,mosquito,N2,n,1196540,,蚊にたくさん刺されました。,I got a lot of mosquito bites.
 c73ccb263c,カーブ,カーブ,kaabu,curve; curve ball (baseball),N2,n; vs; vi,1036560,,,
 623af5309f,貝,かい,kai,shell; shellfish,N2,n,1203100,,私が手にしてるのは貝の化石です。,What I have in my hand is a fossil seashell.
 ea6553448c,開会,かいかい,kaikai,opening of a meeting,N2,n; vs; vt; vi,1202560,,国会は午後二時に開会されました。,The Diet session convened at 2pm.
@@ -244,15 +244,15 @@ f764b1251d,開放,かいほう,kaihou,open; throw open; liberalization,N2,n; vs;
 9d3f3397da,概論,がいろん,gairon,intro; outline; general remarks,N2,n; vs; vt,1204520,,,
 06d008d266,帰す,かえす,kaesu,to send back,N2,v5s; vt,1221240,,けがを治療してもらったトラは、村人たちの手で無事、保護区に帰された。,"The tiger, having had its wounds treated, was returned by the villagers to the animal sanctuary without incident."
 8d3e656e69,却って,かえって,kaette,on the contrary; rather; all the more; instead,N2,adv,1226610,,高望みをするとかえって損をする。,You may go farther and fare worse.
-8355396ec5,代える,かえる,kaeru,to exchange; to interchange; to substitute; to replace,N2,v1; vt,1589780,,お花の水を替えましょう。,Shall I change the water for the flowers?
+8355396ec5,代える,かえる,kaeru,to exchange; to interchange; to substitute; to replace,N2,v1; vt,1589780,,真の友情は千金にも代え難い。,True friendship is priceless.
 259d5a49a9,反る,かえる,kaeru,to warp; to be warped; to curve,N2,v5r; vi,1512150,,のろいはのろい主に返る。,"Curses, like chickens, come home to roost."
 091ea3ec5a,家屋,かおく,kaoku,house; building,N2,n,1191780,,この前の嵐で数軒の家屋が被害を受けた。,Several houses were damaged in the last storm.
 72d8fe6720,係わる,かかわる,kakawaru,to concern oneself in; to have to do with; to affect; to influence; to stick to (opinions),N2,v5r; vi,1589880,,これは我が校の名誉にかかわる問題だ。,The problem affects the prestige of our school.
-b662f10494,書留,かきとめ,kakitome,writing down; putting on record; recording; making a note of; registration (of mail),N2,n,1589960,,君の新しい電話番号を手帳にかきとめさせてくれ。,Let me put down your new phone number in my notebook.
+b662f10494,書留,かきとめ,kakitome,writing down; putting on record; recording; making a note of; registration (of mail),N2,n,1589960,,この小包を書留にしたいのですが。,I'd like to have this parcel registered.
 1b81bc4fc4,書取,かきとり,kakitori,dictation,N2,n,1589970,書き取り,今日は漢字の書き取りがある。,We have a kanji dictation test today.
 66c46c763c,垣根,かきね,kakine,hedge,N2,n,1204800,,よい垣根はよい隣人をつくる。,Good fences make good neighbors.
 38ac1ca047,掻く,かく,kaku,to scratch; to perspire,N2,v5k; vt,1399970,,先生の言葉でメアリーは冷や汗をかいた。,The teacher's words put Mary in a cold sweat.
-76bbbdeee5,嗅ぐ,かぐ,kagu,to sniff; to smell,N2,v5g; vt,1565480,,犬は見知らぬ人の匂いをかいだ。,The dog sniffed at the stranger.
+76bbbdeee5,嗅ぐ,かぐ,kagu,to sniff; to smell,N2,v5g; vt,1565480,,その犬は地面をくんくん嗅いだ。,The dog sniffed the ground.
 a68be1b427,架空,かくう,kakuu,aerial; overhead; fiction; fanciful,N2,adj-f,1193130,,このドラマの登場人物はすべて架空のものです。,All the characters in this drama are fictitious.
 9e70421c16,各自,かくじ,kakuji,individual; each,N2,n; adv,1205010,,そのチームの選手は各自めいめいのバットを持っている。,Each player on the team has his own bat.
 3d9d16c9d1,拡充,かくじゅう,kakujuu,expansion,N2,n; vs; vt,1205190,,教育施設を拡充する金をもっと多くと望んでいる。,People want more money to expand educational institutions.
@@ -307,7 +307,7 @@ bc5751f35d,活字,かつじ,katsuji,printing type,N2,n,1208300,,この大きな�
 22e1dcbc77,仮定,かてい,katei,assumption; supposition; hypothesis,N2,n; vs; vt,1187870,,彼女がここにいると仮定してみよう。,Let's suppose that she is here.
 f865797384,課程,かてい,katei,course; curriculum,N2,n,1195850,,その大学の課程は自然科学と社会科学から成り立っている。,That university's curriculum covers natural science and social science.
 4e4af58c4d,過程,かてい,katei,process,N2,n,1196270,,その過程を彼に説明した。,I explained the process to him.
-5a7dba68c7,仮名,かな,kana,alias; pseudonym; pen name,N2,n,1590540,,ラジオをとめてくれないかなぁ。,I wish they would turn off the radio.
+5a7dba68c7,仮名,かな,kana,alias; pseudonym; pen name,N2,n,1590540,,だ、ダメかな？下の名前で呼んじゃ。,I-Is that OK? Calling you by your first name...
 e1483430fd,仮名遣い,かなづかい,kanazukai,kana orthography; syllabary spelling,N2,n,1188100,,祖父は古い仮名遣いで書くことがあるの。,My grandfather sometimes writes in the old kana orthography.
 b7fdaa59f1,鐘,かね,kane,bell; chime,N2,n,1352030,,鐘の合図で彼らは食事をした。,The bell chimed them to meals.
 65bbe081e9,加熱,かねつ,kanetsu,heating,N2,n; vs; vt,1190470,,水は充分に加熱すると沸騰する。,Water will boil if heated enough.
@@ -323,7 +323,7 @@ b21d464467,剃刀,かみそり,kamisori,razor,N2,n,1435180,,,
 9cb6ca65c9,貨物,かもつ,kamotsu,cargo; freight,N2,n,1195890,,その航空会社は貨物のみを扱っている。,That aircraft company deals in freight only.
 bbd1639a14,かゆい,かゆい,kayui,itchy; itching,N2,adj-i,1569570,痒い,頭皮がかゆいのです。,My scalp is very itchy.
 a6be7f8124,歌謡,かよう,kayou,song; ballad,N2,n,1193450,,最近は老若男女が歌えるような歌謡曲を耳にすることもなくなった。,Nowadays you no longer hear popular songs that can be sung by men and women of all ages.
-1d5c12f6ef,殻,から,kara,shell; husk; hull; chaff,N2,n,1205740,,よく振ってから使用してください。,Shake before using.
+1d5c12f6ef,殻,から,kara,shell; husk; hull; chaff,N2,n,1205740,,飲み物はヤシの実の殻に入れてあった。,The drinks were served in coconut shells.
 5f2087a06a,カラー,カラー,karaa,collar; color; colour,N2,n,1038500,,,
 8a365cb6af,からかう,からかう,karakau,to ridicule; to tease; to banter with; to make fun of,N2,v5u; vt,1567650,揶揄う,新入生をからかってはいけません。,Don't make fun of the new student!
 b49d7bfd2b,空っぽ,からっぽ,karappo,empty; vacant; hollow,N2,adj-no; adj-na; n,1245380,,町のどの家も空っぽだった。,All the houses in town were empty.
@@ -331,11 +331,11 @@ b49d7bfd2b,空っぽ,からっぽ,karappo,empty; vacant; hollow,N2,adj-no; adj-n
 1220fb871d,枯れる,かれる,kareru,to wither; to die (plant); to be blasted (plant),N2,v1; vi,1267220,,その花は水がないために枯れた。,The flower died for lack of water.
 80c3be3aaf,カロリー,カロリー,karorii,calorie,N2,n,1039300,,カロリーの高い食物は私の健康にはよくない。,Rich foods don't agree with my health.
 53ec040c72,かわいがる,かわいがる,kawaigaru,to love; to be affectionate,N2,v5r; vt,1190730,可愛がる,ケンは１人息子なので、父親は一層可愛がった。,Ken's father loved Ken all the more because he was his only son.
-496afac866,乾かす,かわかす,kawakasu,"to dry (clothes, etc.); to desiccate",N2,v5s; vt,1209630,,太陽が地面をからからにかわかした。,The sun has dried up the ground.
+496afac866,乾かす,かわかす,kawakasu,"to dry (clothes, etc.); to desiccate",N2,v5s; vt,1209630,,彼女は皿を洗い、それから乾かした。,She washed the dishes and she dried them.
 0f1848395f,渇く,かわく,kawaku,to be thirsty,N2,v5k; vi,1208520,,お腹が空いたし、のども渇いた。,I'm hungry and thirsty.
 4dc356b41b,為替,かわせ,kawase,money order; exchange,N2,n,1157330,,この為替を作るのに銀行の手数料が５０ドルかかった。,Arranging this money order cost $50 in bank fees and commissions.
 ff8407332d,瓦,かわら,kawara,roof tile,N2,n,1209580,,,
-6efc625581,代る,かわる,kawaru,to take the place of; to relieve; to be substituted for,N2,v5r; vi,1590820,代わる,その会社は、経営者が３回替わっている。,The company has changed hands three times.
+6efc625581,代る,かわる,kawaru,to take the place of; to relieve; to be substituted for,N2,v5r; vi,1590820,代わる,ビルが数軒の家に代わってできた。,The building replaced several houses.
 1974a3d703,間隔,かんかく,kankaku,space; interval; SPC,N2,n,1215380,,バスは１５分間隔で運転されている。,There is a bus every fifteen minutes.
 907c41fbcf,換気,かんき,kanki,ventilation,N2,n; vs; vi,1212780,,窓を開けて換気をしましょう。,Let's open a window to get some fresh air.
 3eceb34971,感激,かんげき,kangeki,deep emotion; impression; inspiration,N2,n; vs; vi,1212360,,彼の言葉で彼女は感激のあまり涙ぐんだ。,His words moved her to tears.
@@ -356,7 +356,7 @@ a7ccd8db86,観念,かんねん,kannen,idea; notion; conception; sense (e.g. of d
 5d643a1ea8,乾杯,かんぱい,kanpai,toast (drink),N2,n; vs; vi,1590950,,今夜の主賓に乾杯しよう。,Let's toast the guest of honor!
 8af1f36bd4,看板,かんばん,kanban,sign; signboard; doorplate; poster,N2,n,1213990,,日光で看板の文字があせた。,The sun had faded the lettering on the sign.
 770fa07e45,看病,かんびょう,kanbyou,nursing (a patient),N2,n; vs; vt,1214030,,医者は病気の老人を看病して夜を明かした。,The doctor sat up all night with the sick old man.
-0221781ce9,冠,かんむり,kanmuri,crown; diadem; first; best,N2,n,1577620,,絵の中の少女は黄金ではなくて花のかんむりをかぶっています。,The girl in the picture is wearing a crown not of gold but of flowers.
+0221781ce9,冠,かんむり,kanmuri,crown; diadem; first; best,N2,n,1577620,,先生は生徒の作った花の冠をかぶった。,The teacher put on a crown of flowers made by her pupils.
 ef3eb33c32,漢和,かんわ,kanwa,Chinese Character-Japanese (e.g. dictionary),N2,n,1213260,,漢和辞典で漢字の意味を調べたの。,I looked up the meaning of a kanji in a Sino-Japanese dictionary.
 af5bfb11d1,気圧,きあつ,kiatsu,atmospheric pressure,N2,n,1221880,,飛行機でお酒飲むと、気圧のせいか酔いやすい。,Maybe it's the low air pressure that means you get drunk more easily on planes.
 e0f08f770f,器械,きかい,kikai,instrument,N2,n,1220810,,僕は今日この機械を試験するつもりです。,I am going to put this machine to the test today.
@@ -411,12 +411,12 @@ d986b84f53,区切る,くぎる,kugiru,to punctuate; to cut off; to mark off; to 
 802fd00672,くしゃみ,くしゃみ,kushami,sneeze,N2,n; vs; vi,1003710,嚏,彼のくしゃみで私たちの会話が中断した。,Our conversation was interrupted by his sneezes.
 186847c962,苦情,くじょう,kujou,complaint; troubles; objection,N2,n,1244520,,私はあなたの苦情について書いている。,I am writing in relation to your complaint.
 d9f84d61b1,苦心,くしん,kushin,pain; trouble,N2,n; vs; vi,1244530,,苦心の甲斐があった。,That was well worth the trouble.
-973d4dd61b,屑,くず,kuzu,waste; scrap,N2,n,1246510,,それはくずだ。捨てなさい。,It's junk. Throw it away.
-5eec3c9c1f,崩す,くずす,kuzusu,to destroy; to pull down; to make change (money),N2,v5s; vt,1516260,,１０００円札をくずしていただけませんか。,"Could you break a 1,000 yen note?"
+973d4dd61b,屑,くず,kuzu,waste; scrap,N2,n,1246510,,ラップは屑だ。,Rap is crap.
+5eec3c9c1f,崩す,くずす,kuzusu,to destroy; to pull down; to make change (money),N2,v5s; vt,1516260,,一万円札、崩してくれますか。,"Can you break a 10,000 yen bill?"
 1575a46d86,薬指,くすりゆび,kusuriyubi,ring finger,N2,n,1538250,,彼女は左手の薬指にダイヤの指輪をはめていた。,She wore a diamond ring on her left third finger.
-2a2443272f,崩れる,くずれる,kuzureru,to collapse; to crumble,N2,v1; vi,1516270,,来週天気がくずれることはないでしょう。,I do not believe the weather will change for the worse next week.
+2a2443272f,崩れる,くずれる,kuzureru,to collapse; to crumble,N2,v1; vi,1516270,,本の山は今にも崩れそうに見える。,Those books look as if they're going to topple over any minute.
 38dd9ee24e,砕く,くだく,kudaku,to break; to smash,N2,v5k; vt,1295170,,ピックは硬い地表を砕くために用いられる長い取っ手の道具だ。,A pick is a long handled tool used for breaking up hard ground surfaces.
-9b6426d781,砕ける,くだける,kudakeru,to break; to be broken,N2,v1; vi,1295190,,波は岩にぶつかってくだけている。,Waves are breaking against the rocks.
+9b6426d781,砕ける,くだける,kudakeru,to break; to be broken,N2,v1; vi,1295190,,波は岩に勢いよく当たって砕けた。,The waves dashed against the rocks.
 fd88b60e26,くたびれる,くたびれる,kutabireru,to get tired; to wear out,N2,v1; vi,1003810,草臥れる,私は仕事でひどくくたびれている。,I'm very tired from work.
 57d3c312c5,くだらない,くだらない,kudaranai,good-for-nothing; stupid; trivial; worthless,N2,adj-i,1184360,下らない,くだらない話はもうたくさんだ。,We have had enough of empty words.
 608037bdca,下る,くだる,kudaru,to get down; to descend,N2,v5r; vi,1184450,,山を下ったところに学校がある。,There is a school down the mountain.
@@ -488,7 +488,7 @@ a866de7476,県庁,けんちょう,kenchou,prefectural office,N2,n,1258880,,秋�
 1a5423f529,原料,げんりょう,genryou,raw materials,N2,n,1262490,,日本はいろんな原料に乏しい。,Japan is lacking in raw materials.
 f3da3248a8,碁,ご,go,Go (board game of capturing territory),N2,n,1270870,,碁を打つことが一番の気晴らしだ。,Playing go is my favorite pastime.
 dfc07c6de7,恋しい,こいしい,koishii,dear; beloved; darling; yearned for,N2,adj-i,1558760,,あなたはアメリカで日本料理が恋しくなるでしょう。,You will miss Japanese food in the United States.
-0de78822bd,請う,こう,kou,to ask; to request,N2,v5u-s; vt,1592920,,お腹をすかせている人がいればその人達のために食べ物を乞うた。,"When she saw that the people were hungry, she begged for food for them."
+0de78822bd,請う,こう,kou,to ask; to request,N2,v5u-s; vt,1592920,,どうして謝って彼の許しを請わないんだ。,Why not apologize and ask for his pardon?
 378728fc18,工員,こういん,kouin,factory worker,N2,n,1277980,,彼は新しい工員を採用した。,He hired some new workers.
 0e34bf193f,強引,ごういん,gouin,overbearing; coercive; pushy; forcible; high-handed,N2,adj-na; n,1236170,,うちの一番腕利きの交渉者はいつも強引に有利な取り引きをする。,Our best negotiators always drive a hard bargain.
 463042fbd6,公害,こうがい,kougai,public nuisance; pollution,N2,n,1273420,,この地域に公害はない。,This district is free from environmental pollution.
@@ -545,13 +545,13 @@ fa520c5357,腰掛け,こしかけ,koshikake,seat; bench,N2,n,1288370,,君が座�
 36794aa72e,五十音,ごじゅうおん,gojuuon,the Japanese syllabary,N2,n,1268300,,氏名は五十音順です。,The names are in Japanese alphabetical order.
 32fc7863a8,胡椒,こしょう,koshou,pepper,N2,n,1267600,,コショウを入れすぎたね。,You put far too much pepper in it.
 afac132e5b,こしらえる,こしらえる,koshiraeru,to make; to manufacture,N2,v1; vt,1567390,拵える,彼は遅刻の口実をこしらえた。,He invented an excuse for being late.
-fa011c8770,超す,こす,kosu,to cross; to pass; to tide over,N2,v5s; vt,1175300,,船は今夜赤道を越すだろう。,The ship will cross the equator tonight.
+fa011c8770,超す,こす,kosu,to cross; to pass; to tide over,N2,v5s; vt,1175300,,私の年収は５００万円を超している。,My annual income exceeds five million yen.
 0a81eafbf4,擦る,こする,kosuru,to rub; to chafe; to file; to frost (glass); to strike (match),N2,v5r; vt,1298910,,石けんを付けてごしごしこすれば汚れが落ちます。,"Rub briskly with soap, and the stain will soon wash off."
 feb110fb03,ごぞんじですか,ごぞんじですか,gozonjidesuka,do you know? (honorific),N2,,,,この辺はよくごぞんじですか。,Do you know this part of the city very well?
 1652de8d6b,個体,こたい,kotai,an individual,N2,n; adj-no,1264980,,個体発生は系統発生を繰り返す。,Ontogeny recapitulates phylogeny.
 a9191729e3,ごちそうさま,ごちそうさま,gochisousama,feast,N2,int,1270520,ご馳走さま,コーヒー、ごちそうさまでした。,Thank you for the coffee.
 e874aef53b,こちらこそ,こちらこそ,kochirakoso,it is I who should say so,N2,exp,1004510,,こちらこそ、よろしくお願いします。,Nice to meet you too.
-6a80a317f3,小遣い,こづかい,kozukai,personal expenses; pocket money; spending money; incidental expenses; allowance,N2,n,1348030,,あなたは時には妹さんにおこづかいをあげますか。,Do you sometimes give your sister money?
+6a80a317f3,小遣い,こづかい,kozukai,personal expenses; pocket money; spending money; incidental expenses; allowance,N2,n,1348030,,つまらないものに小遣いを使うな。,Don't waste your allowance on useless things.
 eedac601c6,コック,コック,kokku,cook (nl:); tap; spigot; faucet; cock,N2,n,1050310,,,
 9bc707785c,こっそり,こっそり,kossori,stealthily; secretly,N2,adv; adv-to,1004520,,彼はそのことを私にこっそり話してくれた。,He told me about it in private.
 6c5c091b7a,古典,こてん,koten,old book; classics; classic,N2,n,1265860,,古典の文学書を読むことは価値のあることです。,It is worthwhile reading classical works of literature.
@@ -559,7 +559,7 @@ eedac601c6,コック,コック,kokku,cook (nl:); tap; spigot; faucet; cock,N2,n,
 720b3135c3,言付ける,ことづける,kotozukeru,to send word; to send a message,N2,v1; vt,1593330,,,
 941786efa7,言葉遣い,ことばづかい,kotobazukai,speech; expression; wording,N2,n,1264560,,言葉遣いにはいつも気をつけるべきです。,You should always be careful in your speech.
 694809c6ed,こないだ,こないだ,konaida,the other day; lately; recently,N2,n; adv,1004610,,こないだ、カメラをなくしてしまった。,I lost my camera the other day.
-5f1431a28b,御無沙汰,ごぶさた,gobusata,not writing or contacting for a while,N2,n; vs; vi,1270650,ご無沙汰,長いことごぶさたしました。,I have been silent for a long time.
+5f1431a28b,御無沙汰,ごぶさた,gobusata,not writing or contacting for a while,N2,n; vs; vi,1270650,ご無沙汰,２年間のご無沙汰でした。,Two years have passed since I last met you.
 27ea53a472,こぼす,こぼす,kobosu,to spill,N2,v5s; vt,1557640,零す,私はコーヒーをじゅうたんにこぼしてしまった。,I spilled my coffee on the carpet.
 b308f089ad,こぼれる,こぼれる,koboreru,to overflow; to spill,N2,v1; vi,1557650,零れる,コーヒーがこぼれましたよ。,You've spilt your coffee.
 f65e7b378c,ゴム,ゴム,gomu,gum; rubber; eraser,N2,n,1054570,,タイヤはゴムと路面の摩擦によってすり減る。,Tires wear down because of friction between the rubber and the road surface.
@@ -603,14 +603,14 @@ f1577088c4,索引,さくいん,sakuin,index; indices,N2,n,1298320,,その本に�
 8de1df895d,作成,さくせい,sakusei,frame; draw up; make; producing,N2,n; vs; vt,1297760,,その老人は遺言を作成した。,The old man made out his will.
 227c952efd,作製,さくせい,sakusei,manufacture,N2,n; vs; vt,1297790,,合鍵の作製には2日ほどかかります。,It takes about two days to make a duplicate key.
 753724063a,探る,さぐる,saguru,to search; to look for; to sound out,N2,v5r; vt,1418260,,遠まわしに彼の意見を探った。,I sounded him out about his views.
-2c6792879b,囁く,ささやく,sasayaku,to whisper; to murmur,N2,v5k; vi,1565670,,一人の教授がささやいた。,One of his colleagues whispered.
+2c6792879b,囁く,ささやく,sasayaku,to whisper; to murmur,N2,v5k; vi,1565670,,彼は私の耳元でその答えを囁いた。,He whispered the answer in my ear.
 d69e3e87d9,刺さる,ささる,sasaru,to stick; to be stuck,N2,v5r; vi,1306390,,釘が車のタイヤに刺さった。,A nail punctured the tire.
 4d2dd03405,匙,さじ,saji,spoon,N2,n,1585630,,私たちはさじでスープを飲む。,We eat soup with a spoon.
 e2a183a75a,座敷,ざしき,zashiki,tatami room,N2,n,1291990,,,
 6b29a1b6dd,差し支え,さしつかえ,sashitsukae,hindrance; impediment,N2,n,1593780,,その家は理想的とはいえないが、まぁさしつかえはない。,"The house is not ideal, but it's all right."
 d8abd4b789,差し引き,さしひき,sashihiki,deduction; subtraction; balance; ebb and flow; rise and fall,N2,n; vs; vi,1291090,,,
 2360f93615,刺身,さしみ,sashimi,sliced raw fish,N2,n,1306570,,刺し身は好きではないのでしょう。,"You don't like sashimi, do you?"
-4219eb63bc,刺す,さす,sasu,to pierce; to stab; to prick; to thrust,N2,v5s; vt,1306470,,アリスは頭に花をさしています。,Alice has a flower in her hair.
+4219eb63bc,刺す,さす,sasu,to pierce; to stab; to prick; to thrust,N2,v5s; vt,1306470,,蚊にたくさん刺されました。,I got a lot of mosquito bites.
 d63d5219aa,射す,さす,sasu,to shine; to strike,N2,v5s; vi,1322170,,雲間が開け光が射した。,The clouds opened and the sun shone through.
 c1a75af4f3,挿す,さす,sasu,to insert; to put in; to graft; to wear in belt,N2,v5s; vt,1399830,,彼はボタンの穴に花を挿した。,He stuck a flower in his buttonhole.
 815d723df8,注す,さす,sasu,to pour (drink); to serve (drinks),N2,v5s; vt,1609820,,車輪には油を注したばかりだ。,I've just oiled the wheels.
@@ -618,7 +618,7 @@ c1a75af4f3,挿す,さす,sasu,to insert; to put in; to graft; to wear in belt,N2
 dc86ca1da3,撮影,さつえい,satsuei,photographing,N2,n; vs; vt,1298800,,私は写真撮影に興味を持っている。,I have an interest in photography.
 5c180d80bf,雑音,ざつおん,zatsuon,"noise (jarring, grating)",N2,n,1299280,,ラジオに雑音が入る。,The radio is disturbed by noises.
 d49f6c4d95,さっさと,さっさと,sassato,quickly,N2,adv,1005190,,さっさと宿題をしなさい。,Do your homework without delay.
-256e7a9058,早速,さっそく,sassoku,at once; immediately; without delay; promptly,N2,adv,1400300,,さっそく仕事にとりかかりましょう。,I will set about my task at once.
+256e7a9058,早速,さっそく,sassoku,at once; immediately; without delay; promptly,N2,adv,1400300,,彼女はベストセラーの小説を早速読んだ。,She lost no time in reading a best-selling novel.
 313b301ef7,錆,さび,sabi,rust (colour),N2,n,1593820,錆び,この車は錆に強い。,This car is resistant to rust.
 bf85d1b239,錆びる,さびる,sabiru,to rust; to become rusty,N2,v1; vi,1299640,,雨の中に放置しておくと自転車はさびるでしょう。,A bicycle will rust if you leave it in the rain.
 e9c84791a6,座布団,ざぶとん,zabuton,cushion (Japanese),N2,n,1291980,,この座布団を干して下さい。,Please air the zabuton.
@@ -650,7 +650,7 @@ f4192e4cee,四角い,しかくい,shikakui,square,N2,adj-i,1307100,,必要なの
 270226074a,四季,しき,shiki,four seasons,N2,n,1307130,,四季のうちで春が一番好きだ。,Spring is my favourite of the four seasons.
 b1a974f767,敷地,しきち,shikichi,site,N2,n,1497060,,その敷地は軍事上の目的で利用されている。,The site is used for military purposes.
 c24130db77,至急,しきゅう,shikyuu,urgent; pressing,N2,adj-no; n,1311900,,彼女は私に至急電報を打ってきた。,She sent me an urgent telegram.
-ce730cb8b5,敷く,しく,shiku,to spread out; to lay out,N2,v5k; vt,1497020,,全市に夜間外出禁止令が布かれた。,A curfew was imposed on the city.
+ce730cb8b5,敷く,しく,shiku,to spread out; to lay out,N2,v5k; vt,1497020,,机のしたにカーペットを敷いた。,I put down a rug under my desk.
 5ebf9b904d,茂る,しげる,shigeru,to grow thick; to luxuriate; to be luxurious,N2,v5r; vi,1533740,,丘には低い木がたくさん茂っている。,Lots of low trees grow on the hill.
 e0669895cc,持参,じさん,jisan,bringing; taking; carrying,N2,n; vs; vt,1315790,,ほとんどの観光客がカメラを持参している。,Almost every tourist carries a camera with him.
 ac638ea3f7,磁石,じしゃく,jishaku,magnet,N2,n; adj-no,1317080,,キートンはハトの頭に磁石を取り付けた。,Keeton put magnets on the heads of his pigeons.
@@ -662,7 +662,7 @@ b4e52ce195,静まる,しずまる,shizumaru,to quieten down; to calm down; to su
 1e621f5ba1,自然科学,しぜんかがく,shizenkagaku,natural science,N2,n,1318110,,その大学の課程は自然科学と社会科学から成り立っている。,That university's curriculum covers natural science and social science.
 b3c318ace7,時速,じそく,jisoku,speed (per hour),N2,n,1316290,,この車は時速６０キロで走っている。,This car is going 60km an hour.
 2f2bfb723b,子孫,しそん,shison,descendants; posterity; offspring,N2,n,1307990,,子孫にきれいな、緑の地球を残したい。,We want to leave our descendants a clean and green earth.
-4976326eba,死体,したい,shitai,corpse,N2,n,1310920,,そこでお会いしたかったのですが。,I had hoped to meet you there.
+4976326eba,死体,したい,shitai,corpse,N2,n,1310920,,警官たちはその死体を運び去った。,The policemen carried away the body.
 ffb5797b88,下書き,したがき,shitagaki,rough copy; draft,N2,n; vs,1185370,,私はスピーチの下書きを書いています。,I am writing a draft of the speech.
 b55d2ba080,下町,したまち,shitamachi,Shitamachi; lower parts of town,N2,n,1185940,,彼女は下町で生まれ育った。,She was born and brought up on the backstreets.
 2d029a03cd,自治,じち,jichi,self-government; autonomy,N2,n,1317810,,その教師は学生自治委員会の決定を支持した。,The teacher affirmed the decision of the student council.
@@ -687,7 +687,7 @@ ba4823a59d,私鉄,してつ,shitetsu,private railway,N2,n,1311340,,,
 fea2ab6e2e,しびれる,しびれる,shibireru,"to become numb; to go to sleep (i.e., a limb)",N2,v1; vi,1569620,痺れる,右手がしびれます。,My right hand is numb.
 994a31701f,紙幣,しへい,shihei,paper money; notes; bills,N2,n,1311600,,５ポンド紙幣をお持ちですか。,Do you have a five-pound note?
 ff3e20c269,しぼむ,しぼむ,shibomu,to wither; to fade (away); to shrivel; to wilt,N2,v5m; vi,1427460,萎む,花は切られるとすぐにしぼむ。,Flowers soon fade when they have been cut.
-74cbfdc674,絞る,しぼる,shiboru,to press; to wring; to squeeze,N2,v5r; vt,1594520,,もう少し脳みそをしぼって考えろ。,Rack your brains a little harder.
+74cbfdc674,絞る,しぼる,shiboru,to press; to wring; to squeeze,N2,v5r; vt,1594520,,要点を絞って、決定を下しましょう。,Let's get down to brass tacks and make a decision.
 79c90f4402,縞,しま,shima,stripe,N2,n; n-suf; adj-no,1321670,,あのグリーンの縞のシャツ、今洗濯してるん？,Is that green striped shirt in the wash?
 6ab0c13e92,地味,じみ,jimi,plain; simple,N2,adj-na; n,1421490,,彼女は地味な色を好む。,She favors quiet colors.
 1f52678a32,しみじみ,しみじみ,shimijimi,keenly; deeply; heartily,N2,adv; adv-to,1005610,泌み泌み,その悲しい話は彼女にしみじみと感じられた。,The sad story came home to her.
@@ -708,7 +708,7 @@ d1d2e93a7e,しゃっくり,しゃっくり,shakkuri,hiccough; hiccup,N2,n; vs; v
 0c96de4f87,シャッター,シャッター,shattaa,shutter,N2,n,1061440,,シャッターを押してくれますか。,Could you press this button?
 842986809c,しゃぶる,しゃぶる,shaburu,to suck; to chew,N2,v5r; vt,1005670,,あんなやつを信用したら骨までしゃぶられちゃうぞ。,"If you trust such a fellow, you'll lose everything you have."
 2e60fca00c,車輪,しゃりん,sharin,(car) wheel,N2,n,1323280,,一輪車は車輪がひとつしかありません。,A unicycle has only one wheel.
-f28cffe595,洒落,しゃれ,share,joke; pun; witticism,N2,n,1568640,,私たちはその教授が昔から言っているしゃれにうんざりしている。,We are tired of the professor's old joke.
+f28cffe595,洒落,しゃれ,share,joke; pun; witticism,N2,n,1568640,,非常にうまい洒落だったので、満場爆笑した。,It was such a nice joke that everybody burst out laughing.
 840d4d6a90,じゃんけん,じゃんけん,janken,rock-scissors-paper game,N2,n; vs; vi,1005970,じゃん拳,「じゃんけんね」「ぐー」「ちょ・・パー」「後出しかよ！」,"""Rock-paper-scissors, OK?"" ""Rock."" ""Sciss... paper."" ""You cheated!"""
 e7815da48e,集会,しゅうかい,shuukai,meeting; assembly,N2,n; vs; vi,1333600,,集会は７時に解散した。,The meeting broke up at seven.
 af4ec56b6b,住居,じゅうきょ,juukyo,dwelling; house; residence; address,N2,n; vs; vi,2841455,,彼はジャマイカに住居を構えた。,He took up residence in Jamaica.
@@ -789,7 +789,7 @@ eddf7e2d4e,書道,しょどう,shodou,calligraphy,N2,n,1344130,,書道を習う�
 8dfe67b16a,私立,しりつ,shiritsu,private (establishment),N2,n; adj-no,1311420,,私立の学校はどういう感じですか。,How is it in a private school?
 3adb9ea016,資料,しりょう,shiryou,materials; data,N2,n,1312820,,新しい資料をお送りください。,Please send us more information.
 9b34e5636e,汁,しる,shiru,juice; sap; soup; broth,N2,n; n-suf,1335520,,彼女は御茶にレモンの汁をたらした。,She dropped lemon juice into her tea.
-607a46e623,素人,しろうと,shirouto,amateur; novice,N2,n,1397270,,あのシロウト歌手は文句なくタレントショーで一位となった。,The amateur singer won first in the talent show hands down.
+607a46e623,素人,しろうと,shirouto,amateur; novice,N2,n,1397270,,法律用語の大半は素人にはわかりにくい。,Much legal language is obscure to a layman.
 05fd834bdb,芯,しん,shin,core; heart; wick; marrow,N2,n,1595120,,シャーペンの芯２・３本もらえるかな。,Could you lend me a few mechanical pencil leads?
 817a8e8089,新幹線,しんかんせん,shinkansen,bullet train (very high speed); shinkansen,N2,n,1361590,,新しい新幹線の速いこと！,How fast the new Shinkansen goes!
 a210fab631,真空,しんくう,shinkuu,vacuum; hollow; empty,N2,n,1363600,,その実験には真空が必要だ。,For that experiment they need a complete vacuum.
@@ -887,7 +887,7 @@ b872b4bcb0,成立,せいりつ,seiritsu,coming into existence; arrangements; est
 9714cc8a70,西暦,せいれき,seireki,Christian Era; anno domini (A.D.),N2,n,1381140,,昭和１０年は西暦１９３５年です。,The 10th year of Showa is 1935 in the Western calendar.
 5e3dfc6ff1,背負う,せおう,seou,to be burdened with; to carry on back or shoulder,N2,v5u; vt,1472860,,彼女は背中にリュックサックを背おっている。,She is carrying a backpack on her back.
 191d9697e6,赤道,せきどう,sekidou,equator,N2,n,1383560,,船は今夜赤道を越すだろう。,The ship will cross the equator tonight.
-e482b08f7b,折角,せっかく,sekkaku,with trouble; at great pains; long-awaited,N2,adv; n,1596090,,せっかくの苦労もあだになった。,All my pains went for nothing.
+e482b08f7b,折角,せっかく,sekkaku,with trouble; at great pains; long-awaited,N2,adv; n,1596090,,せっかく骨を折ったのに、彼は失敗した。,He has failed after all his labors.
 c4861afd31,接近,せっきん,sekkin,getting closer; drawing nearer; approaching,N2,n; vs; vi,1385370,,飛行機はニューヨークに接近している。,The plane is approaching New York.
 018b71a3e2,石鹸,せっけん,sekken,soap,N2,n,1382590,,ひげをそる前に石けんをつける。,I lather my face before shaving.
 dbfcfa67f5,接する,せっする,sessuru,to come in contact with; to connect; to attend; to receive,N2,vs-s; vi,1385350,,もっと思いやりをもって接してやらないといけませんよ。,You must treat them with more consideration.
@@ -895,7 +895,7 @@ dbfcfa67f5,接する,せっする,sessuru,to come in contact with; to connect; t
 50810e22cf,接続,せつぞく,setsuzoku,connection; union; join; link; changing trains,N2,n; vs; vt; vi,1385480,,インターネットの接続が遮断された。,My internet connection was cut off.
 c6c6f28738,瀬戸物,せともの,setomono,earthenware; crockery; china,N2,n,1374400,,その店は瀬戸物を使っている。,The store carries earthenware.
 44ac40ea81,ぜひとも,ぜひとも,zehitomo,by all means (with sense of not taking no for an answer),N2,adv,1610700,是非とも,あなたの迅速な返事が是非とも必要です。,Your prompt reply is urgently required.
-102e6b2f3d,迫る,せまる,semaru,to draw near; to press,N2,v5r; vi,1475720,,試験がすぐ間近にせまっている。,The examination is close at hand.
+102e6b2f3d,迫る,せまる,semaru,to draw near; to press,N2,v5r; vi,1475720,,彼はしつこく退職を迫られました。,He was hounded into quitting.
 a6db149a73,ゼミ,ゼミ,zemi,seminar,N2,n,1075160,,,
 5b1670aea6,せめて,せめて,semete,offense; method of attack,N2,n,1675160,,せめて日常会話ができるくらいになりたい。,"At the very least, I'd like to be able to have everyday conversations."
 6f7f0e1422,攻める,せめる,semeru,to attack; to assault,N2,v1; vt,1279130,,彼は私にその問題をいかに攻めるべきかについて教えてくれた。,He enlightened me on how I should attack the subject.
@@ -934,7 +934,7 @@ acbd523fe5,送別,そうべつ,soubetsu,farewell; send-off,N2,n; vs; vt; adj-no,
 b65f34f69e,総理大臣,そうりだいじん,souridaijin,Prime Minister,N2,n,1401820,,総理大臣が辞任した。,The Prime Minister has resigned.
 1f4b2dd59b,送料,そうりょう,souryou,postage; carriage,N2,n,1402870,,もしも無料でなければ、カタログの価格と日本までの送料をお教えください。,"If they are not free, please let me know how much the catalogue and the postage to Japan are."
 b5a34bdf96,属する,ぞくする,zokusuru,to belong to; to come under; to be affiliated with; to be subject to,N2,vs-s; vi,1405710,,彼女はテニス部に属している。,She belongs to the tennis club.
-ba0d84c5de,続々,ぞくぞく,zokuzoku,successively; one after another,N2,adv; adv-to,1596730,,きみもゾクゾクきてるかい？,Is this getting you going too?
+ba0d84c5de,続々,ぞくぞく,zokuzoku,successively; one after another,N2,adv; adv-to,1596730,,劇場から続々と人が出てきた。,A stream of people came out of the theater.
 50254cf4e0,速達,そくたつ,sokutatsu,express; special delivery,N2,n; vs; vt,1405030,,これを速達で出してください。,Send this by special delivery.
 2712ebe7c9,測定,そくてい,sokutei,measurement,N2,n; vs; vt,1404570,,測定においては正確さは欠かせないものである。,Precision in measurement is a necessity.
 ccd2c2a8bf,測量,そくりょう,sokuryou,measurement; surveying,N2,n; vs; vt,1404590,,英国の測量法では４クオートは１ガロンだ。,"In the imperial measurement system, four quarts equals one gallon."
@@ -943,17 +943,17 @@ ccd2c2a8bf,測量,そくりょう,sokuryou,measurement; surveying,N2,n; vs; vt,1
 5c5886d7ab,祖先,そせん,sosen,ancestor,N2,n,1396820,,私たちは祖先をうやまうべきだ。,We should worship our ancestors.
 832c092cc8,そそっかしい,そそっかしい,sosokkashii,careless; thoughtless,N2,adj-i,1006740,,バスに傘を忘れるとは彼女はそそっかしい。,It was careless of her to leave her umbrella in the bus.
 f2cbcc25f2,卒直,そっちょく,sotchoku,frankness; candour; openheartedness,N2,adj-na; n,1596570,,あなたの率直な意見が聞きたいのです。,I would like to hear your honest opinion.
-02e4e25353,具える,そなえる,sonaeru,to be furnished with,N2,v1; vt,1244960,,このビルは非常階段を備えている。,The building is equipped with emergency stairs.
+02e4e25353,具える,そなえる,sonaeru,to be furnished with,N2,v1; vt,1244960,,彼女は部屋に美しい家具を備えた。,She furnished the room with beautiful furniture.
 ee82459309,そのうえ,そのうえ,sonoue,in addition; furthermore,N2,conj; n; adv,1006880,その上,その上さらに５ドル払った。,I paid five dollars in addition.
 35ac47806f,そのころ,そのころ,sonokoro,at that time; in those days; at that moment; then,N2,exp; n; adj-no,2547920,,そのころ彼はいつも飲んでばかりいた。,He was always drinking in those days.
 d11bb9a972,そのため,そのため,sonotame,hence; for that reason,N2,exp,1006850,その為,そのため、派遣労働者は劣悪な労働条件の下で働いている。,"For that reason, temporary workers are working under inferior conditions."
 84fe109bdf,そのほか,そのほか,sonohoka,otherwise,N2,exp; n; adj-no,1006900,その外,私はその他の計画を思い付かない。,I can't think of any other plan.
-5f30ae15e7,蕎麦,そば,soba,soba (buckwheat noodles),N2,n,1238460,,長野にいる友人を訪問した際、おいしいそばをごちそうになった。,"When I visited my friend in Nagano, I was treated to delicious soba."
-31df50f399,剃る,そる,soru,to shave,N2,v5r; vt,1581900,,彼は毎朝電気カミソリで顔をそる。,He shaves with an electric razor every morning.
+5f30ae15e7,蕎麦,そば,soba,soba (buckwheat noodles),N2,n,1238460,,そばはそば粉から、うどんやきしめんは普通の小麦粉からできてるの。,"Soba is made of buckwheat flour, and udon and kishimen are made of plain wheat flour."
+31df50f399,剃る,そる,soru,to shave,N2,v5r; vt,1581900,,お父さんがバスルームでひげを剃っている。,Dad is shaving in the bathroom.
 033919f239,それなのに,それなのに,sorenanoni,and yet; despite this; but even so; but even then,N2,conj,2055520,,彼は帰ってくると約束した。それなのに帰ってこなかった。,He promised to return and yet he didn't.
 a29550babf,逸れる,それる,soreru,to stray (turn) from subject; to get lost; to go astray,N2,v1; vi,1576360,,本題からそれないようにしましょう。,Let's not deviate from the subject.
 1e7604b6ba,揃う,そろう,sorou,to become complete; to be equal; to be all present; to gather,N2,v5u; vi,1406110,,この手袋は両方がそろっていない。,Their gloves are not in pairs.
-b64bdd0f95,揃える,そろえる,soroeru,to put things in order; to arrange; to make uniform; to get something ready,N2,v1; vt,1406120,,生徒たちは声をそろえて読み始めた。,The pupils began to read all together.
+b64bdd0f95,揃える,そろえる,soroeru,to put things in order; to arrange; to make uniform; to get something ready,N2,v1; vt,1406120,,パーティーには食べ物や飲物が豊富に揃えて有った。,There was food and drink in abundance at the party.
 fa1efb5872,算盤,そろばん,soroban,abacus,N2,n,1596700,,算盤とは日本のアバカスのことだ。,"A ""soroban"" is a type of Japanese abacus."
 562d25e8d9,存じる,ぞんじる,zonjiru,(hum) to know,N2,v1; vt,1406140,,いっこうに存じません。,I know nothing about it.
 70d89907ac,存ずる,ぞんずる,zonzuru,to know; to be aware (of); to be acquainted (with),N2,vz; vt,1983710,,こちらが考えられるデザインとなります。ご検討いただきたく存じます。,We have submitted these possible designs for your consideration.
@@ -963,16 +963,16 @@ eda767b81b,タイア,タイア,taia,tire; tyre,N2,n,1076120,,,
 1d147ab185,大学院,だいがくいん,daigakuin,graduate school,N2,n,1413250,,大学院に進学するつもりです。,I'm planning to go to graduate school.
 68ab7ff29a,大工,だいく,daiku,carpenter,N2,n,1413690,,私のおじいちゃんは大工です。,My grandfather is a carpenter.
 0632807791,体系,たいけい,taikei,system; organization,N2,n; n-suf,1409390,,彼らはその体系を大変な思索と労力を費やして仕上げた。,They worked out the system with much thought and labor.
-9490de4029,太鼓,たいこ,taiko,drum; tambourine,N2,n; adj-no,1408280,,子供はたいこをたたくのが好きです。,Children like to beat drums.
+9490de4029,太鼓,たいこ,taiko,drum; tambourine,N2,n; adj-no,1408280,,彼らは太鼓をずっとたたき続けた。,They had been thumping the drum all along.
 8ed647d742,対策,たいさく,taisaku,counter-plan; counter-measure,N2,n,1410050,,これは有効な犯罪防止対策だ。,This is an effective remedy for crime.
-415ca8e1aa,大して,たいして,taishite,(not so) much; (not) very,N2,adv,1412970,,この仕事はたいして骨が折れない。,The work doesn't need much effort.
+415ca8e1aa,大して,たいして,taishite,(not so) much; (not) very,N2,adv,1412970,,彼は大して妻の話し相手にはならない。,He is not much of a companion for his wife.
 89b4c07147,対照,たいしょう,taishou,contrast; antithesis; comparison,N2,n; vs; vt,1410080,,赤は青と美しい対照をなす。,Red contrasts well with blue.
 dbb7b4bbd4,大小,だいしょう,daishou,size,N2,n,1414110,,道路上の大小の石に気をつけなさい。,Watch out for big and small stones on the road!
 f3ca36a754,体制,たいせい,taisei,order; system; structure; set-up; organization,N2,n,1409550,,共産主義はソ連で実践された体制である。,Communism is the system practiced in the Soviet Union.
 69eff96c44,体積,たいせき,taiseki,capacity; volume,N2,n,1409560,,体積が大きいからといって常に重量も重いとは限らない。,Great bulk does not always mean great weight.
 56cd51f84a,体操,たいそう,taisou,gymnastics; physical exercises; calisthenics,N2,n; vs; vi,1409580,,朝食前にいつも体操をします。,I always take some exercise before breakfast.
-807a25ac9e,大層,たいそう,taisou,very much; exaggerated; very fine,N2,adv,1414380,,これはたいそう快適な暖炉ですね。,This is a very nice fireplace.
-c76123f3f7,大分,だいぶん,daibun,considerably; greatly; a lot,N2,adv,1414920,,そこまでだいぶ道のりがあります。,You have to walk a long way to get there.
+807a25ac9e,大層,たいそう,taisou,very much; exaggerated; very fine,N2,adv,1414380,,ロシア語は大層学びにくい。,Russian is very difficult to learn.
+c76123f3f7,大分,だいぶん,daibun,considerably; greatly; a lot,N2,adv,1414920,,よく眠ったらだいぶ気分がよくなった。,"After sleeping well, I felt much better."
 ab6b624e3b,大木,たいぼく,taiboku,large tree,N2,n,1415090,,昔そこにはスギの大木があった。,There used to be a large cedar tree there.
 c1abd3cd68,題名,だいめい,daimei,title,N2,n,1415490,,その小説は聖書から題名をとっている。,The novel takes its title from the Bible.
 6c0f869b21,代名詞,だいめいし,daimeishi,pronoun,N2,n,1412340,,「クレオパトラ」は美人の代名詞になっている。,The name Cleopatra has become a byword for a beautiful woman.
@@ -988,19 +988,19 @@ c507f2dcab,耕す,たがやす,tagayasu,to till; to plow; to cultivate,N2,v5s; v
 27e7e5471c,滝,たき,taki,waterfall,N2,n,1415520,,雨が滝のように降ってきた。,Down came the rain in torrents.
 6133bbcb0c,炊く,たく,taku,to boil; to cook,N2,v5k; vt,1596830,,ご飯の上手なたき方を知っていますか。,Do you know how to cook rice well?
 991f3cdf5d,焚く,たく,taku,to burn; to kindle; to build a fire,N2,v5k; vt,1596840,,とても寒かったので火をたいた。,It was so cold that we made a fire.
-9530f79308,蓄える,たくわえる,takuwaeru,to store; to lay in stock,N2,v1; vt,1596860,,万一に備えてお金をたくわえる。,I am saving money to prepare for the worst.
+9530f79308,蓄える,たくわえる,takuwaeru,to store; to lay in stock,N2,v1; vt,1596860,,干し草を納屋に蓄えた。,We stored the hay in the barn.
 36867e1153,竹,たけ,take,bamboo; middle (of a three-tier ranking system),N2,n,1422230,,林に竹が目立つ。,Bamboo stands out in the woods.
 9cae12b7c2,助かる,たすかる,tasukaru,to be saved; to be rescued; to survive; to be helpful,N2,v5r; vi,1344380,,もう助からないものと観念した。,I gave up all hope of survival.
 7c1c73155b,只,ただ,tada,free of charge; mere; sole; only; usual; common,N2,adj-no; n,1538900,,私はその切符をただで手にいれた。,I got the ticket for nothing.
 a9b5d114ca,但し,ただし,tadashi,but; however; provided that,N2,conj,1416190,,ただし、列をつくって並ばなくてはならないが・・・。,"However, you have to queue..."
-bb017f90d6,畳む,たたむ,tatamu,to fold (clothes),N2,v5m; vt,1356780,,彼は商売をたたんで引退した。,He sold his business and retired.
+bb017f90d6,畳む,たたむ,tatamu,to fold (clothes),N2,v5m; vt,1356780,,彼女はハンカチをきちんと畳んだ。,She folded her handkerchief neatly.
 3c101a9435,立ち止まる,たちどまる,tachidomaru,to stop; to halt; to stand still,N2,v5r; vi,1551350,,彼は立ち止まってポスターをのぞき込んだ。,He paused to look at the poster.
 5e124cf29c,たちまち,たちまち,tachimachi,at once; in a moment; suddenly; all at once,N2,adv,1288480,忽ち,切符はたちまち売り切れた。,The tickets were sold out in a moment.
-29a6468ef2,建つ,たつ,tatsu,to erect; to be erected; to be built,N2,v5t; vi,1597045,,その２軒の家は背中向かいにたっている。,The two houses stand back to back.
+29a6468ef2,建つ,たつ,tatsu,to erect; to be erected; to be built,N2,v5t; vi,1597045,,その建物は川のそばに建っていた。,The building stood beside the river.
 58cee80fde,発つ,たつ,tatsu,"to depart (on a plane, train, etc.)",N2,v5t; vi,2857436,,来週ヨーロッパに発つ予定です。,I'm planning to leave for Europe next week.
 76ae08f0ef,脱線,だっせん,dassen,derailment; digression,N2,n; vs; vi,1416560,,脱線がどんどんエスカレートしていく。,The digression is escalating more and more.
 70608882d5,妥当,だとう,datou,valid; proper; right; appropriate,N2,adj-na; n; vs; vi,1408540,,彼女の選曲が妥当だったとは思わない。,I do not consider her choice of music a happy one.
-8801305851,例える,たとえる,tatoeru,to compare; to liken; to speak figuratively; to illustrate; to use a simile,N2,v1; vt,1597130,,その詩人は死を眠りにたとえた。,The poet compared death to sleep.
+8801305851,例える,たとえる,tatoeru,to compare; to liken; to speak figuratively; to illustrate; to use a simile,N2,v1; vt,1597130,,人生はしばしば航海に例えられる。,Life is often compared to a voyage.
 d153412251,頼もしい,たのもしい,tanomoshii,reliable; trustworthy; hopeful; promising,N2,adj-i,1548380,,彼は頼もしい男だ。,He is a man to be depended on.
 a0ca1d13fa,足袋,たび,tabi,tabi; Japanese socks (with split toe),N2,n,1404920,,着物に足袋は欠かせません。,"In a kimono, tabi can't be absent."
 311803e490,ダブル,ダブル,daburu,double,N2,n; adj-no,1077110,ダブる,ダブルのバスつきの部屋がいいです。,I'd like a double with a bath.
@@ -1009,7 +1009,7 @@ b74458a2d2,溜まる,たまる,tamaru,to collect; to gather; to save,N2,v5r; vi,
 34b4191f3c,ダム,ダム,damu,dumb,N2,n,1077140,,大雨のためにダムが決壊した。,The dam burst owing to the heavy rain.
 802a1fbd95,溜息,ためいき,tameiki,a sigh,N2,n,1597190,,彼は安心してホッとため息をもらした。,He gave a sigh of relief.
 f3cdef1455,ためらう,ためらう,tamerau,to hesitate,N2,v5u; vi,1573390,躊躇う,質問するのをためらわないでください。,Don't hesitate to ask questions.
-d938167f7c,溜める,ためる,tameru,to amass; to accumulate,N2,v1; vt,1552630,,私は仕事をたいぶためてしまった。,I still have a lot of work to do.
+d938167f7c,溜める,ためる,tameru,to amass; to accumulate,N2,v1; vt,1552630,,彼は海外旅行のため金を溜めている。,He is saving money for a trip abroad.
 69caece3b1,だらしない,だらしない,darashinai,slovenly; loose; a slut,N2,adj-i,1007500,,それ以来彼はだらしない生活をしてきた。,He has led a loose life since then.
 17c303f793,足る,たる,taru,to be sufficient; to be enough,N2,v5r; vi,1404750,,その計画には大いに飽き足らぬところがある。,The plan is far from satisfactory.
 881b8fe898,段階,だんかい,dankai,gradation; grade; stage,N2,n,1419950,,病気はまだ初期の段階です。,The disease is still in the primary stage.
@@ -1088,11 +1088,11 @@ f18348afba,付合う,つきあう,tsukiau,to associate with; to keep company wit
 258b38b002,突き当たり,つきあたり,tsukiatari,end (e.g. of street),N2,n,1456770,,次の通りのつきあたりに私達の家があります。,You'll find our house at the end of the next street.
 4223cee806,突き当たる,つきあたる,tsukiataru,to run into; to collide with,N2,v5r; vi,1456780,,急いだあまり私はだれか人に突き当たった。,In my hurry I bumped into someone.
 56319c8bb4,月日,つきひ,tsukihi,time; years; days,N2,n,1255780,,その二つの事件の間には何年もの月日が経っている。,Years intervene between the two incidents.
-c0a222a559,点く,つく,tsuku,to catch fire; (electricity) comes on,N2,v5k; vi,1441400,,木造建築物は火がつきやすい。,Wooden buildings catch fire easily.
+c0a222a559,点く,つく,tsuku,to catch fire; (electricity) comes on,N2,v5k; vi,1441400,,危険な時には赤ランプが点きます。,The red lamp lights up in case of danger.
 f6833a87fe,突く,つく,tsuku,to thrust; to strike; to poke,N2,v5k; vt,1456890,,テーブルにひじを突くのはやめなさい。,Stop resting your elbows on the table.
 d6a3f85dab,次ぐ,つぐ,tsugu,to rank next to; to come after,N2,v5g; vi,1316400,,きれい好きは敬神に次ぐ美徳。,Cleanliness is next to godliness.
 2d88041a40,浸ける,つける,tsukeru,to dip in; to soak,N2,v1; vt,1433680,,彼はスプーンをスープの中につけた。,He dipped his spoon into the soup.
-1122e34144,着ける,つける,tsukeru,to attach; to join; to add; to append,N2,v1; vt,1495770,,私の木は少し花をつけたが実はならなかった。,My tree had a few blossoms but no fruit.
+1122e34144,着ける,つける,tsukeru,to attach; to join; to add; to append,N2,v1; vt,1495770,,おまえの上着は私の勘定につけておきなさい。,Put your coat on my account.
 d18d4f69a0,伝わる,つたわる,tsutawaru,to be handed down; to be introduced; to be transmitted,N2,v5r; vi,1441900,,光は音よりはるかに早く伝わる。,Light travels much faster than sound.
 5622faf78b,突っ込む,つっこむ,tsukkomu,to plunge into; to go into deeply,N2,v5m; vi,1456940,,人の問題に鼻を突っ込むのはよしてくれよ。,Stop sticking your nose into other people's business.
 ad4ecf843d,努める,つとめる,tsutomeru,to serve; to fill a post; to serve under; to work (for),N2,v1; vi,1240820,,お手伝いさんたちは主人の命令を実行しようと努めた。,The servants tried to carry out their master's order.
@@ -1128,7 +1128,7 @@ fad44a92bf,出入り,でいり,deiri,in and out; coming and going; free associat
 2ce04e7c6c,手入れ,ていれ,teire,repairs; maintenance,N2,n; vs; vt,1328250,,本店は警察の手入れを受けた。,The main office was raided by the police.
 5a83b6e9ae,テーマ,テーマ,teema,theme; project; topic (de: Thema),N2,n,1078830,,卒論のテーマは決めましたか。,Have you decided on the subject of your thesis?
 f52c85beb6,出来上がり,できあがり,dekiagari,be finished; ready; made for; cut out,N2,n,1340600,,図面が出来上がりました。,The plans have been drawn up.
-1a5cce10d7,出来上がる,できあがる,dekiagaru,to be finished; to be ready; by definition; to be very drunk,N2,v5r; vi,1340610,,このドレスはいつ頃、できあがりますか。,How soon can you have this dress ready?
+1a5cce10d7,出来上がる,できあがる,dekiagaru,to be finished; to be ready; by definition; to be very drunk,N2,v5r; vi,1340610,,出発の準備はできあがっています。,I'm all set to start.
 04bfe8ab7f,的確,てきかく,tekikaku,precise; accurate,N2,adj-na; n,1437290,,この文章は作者の気持ちを的確に表現している。,This sentence states exactly how the writer feels.
 3ed7b4fc1a,適確,てきかく,tekikaku,precise; accurate,N2,adj-na; n,1437290,,この文章は作者の気持ちを的確に表現している。,This sentence states exactly how the writer feels.
 ad6b662376,手首,てくび,tekubi,wrist,N2,n,1327770,,転んで手首を痛めました。,I fell down and hurt my wrist.
@@ -1186,7 +1186,7 @@ ee816a1a14,通り掛かる,とおりかかる,toorikakaru,to happen to pass by,N
 834267e876,尖る,とがる,togaru,to taper to a point; to become sharp; to be sour; to look displeased,N2,v5r; vi,1389970,,この棒は先がとがっている。,This pole is sharp at the end.
 b71644b41b,どきどき,ドキドキ,dokidoki,throb; beat (fast),N2,vs,1009050,,彼は心臓がどきどき打っているのを感じた。,He felt his heart beating fast.
 2c15eec866,溶く,とく,toku,to dissolve (paint),N2,v5k; vt,1546050,,窓が閉まっているか確かめとけ。,See that the window is closed.
-79095736b4,退く,どく,doku,to retreat; to recede; to withdraw,N2,v5k; vi,1595080,,そこにいると邪魔なんだよね。どいてよ。,Move! You're in my way.
+79095736b4,退く,どく,doku,to retreat; to recede; to withdraw,N2,v5k; vi,1595080,,彼女が通れるように彼は横へ退いてあげた。,He stepped aside for her to pass.
 f7022d26f1,特殊,とくしゅ,tokushu,special; unique,N2,adj-na; adj-no; n,1454970,,特殊な才能を与えられた動物もいる。,Some animals are endowed with special gifts.
 277ec2a708,特色,とくしょく,tokushoku,characteristic; feature,N2,n,1455080,,日本には多くのはっきりとした特色がある。,Japan has many distinctive traits.
 3da2e90e4a,特長,とくちょう,tokuchou,forte; merit,N2,n,1455200,,燃料の節約がこの自動車の大きな特長だ。,Fuel economy is a big advantage of this car.
@@ -1202,10 +1202,10 @@ c14d253e1f,所々,ところどころ,tokorodokoro,here and there; some parts (of
 9b8ecc5c1f,とっくに,とっくに,tokkuni,long ago; already; a long time ago,N2,adv,1320570,疾っくに,もうとっくに寝る時間だ。,It is high time we went to bed.
 c1935c3827,どっと,どっと,dotto,suddenly,N2,adv,1009210,,学童たちはどっと笑った。,The pupils burst out laughing.
 49bd373b1e,整う,ととのう,totonou,to be prepared; to be in order; to be put in order; to be arranged,N2,v5u; vi,1598800,,あなたの出発の準備がすべて整うよう取り計らいます。,I will see to it that everything is ready for your departure.
-257afc27f7,留まる,とどまる,todomaru,to be fixed; to abide; to stay (in the one place),N2,v5r; vi,2657130,,ここにとどまっていても何の得もない。,There is no advantage in staying here.
+257afc27f7,留まる,とどまる,todomaru,to be fixed; to abide; to stay (in the one place),N2,v5r; vi,2657130,,行くも留まるもあなたの自由です。,You may go or stay at will.
 0bc51639bd,どなる,どなる,donaru,to shout; to yell,N2,v5r; vi,1445740,怒鳴る,泣いている子を怒鳴るな。火に油だから。,Don't shout at the crying child. It only adds fuel to the fire.
 a06ce5662f,飛び込む,とびこむ,tobikomu,to jump in; to leap in; to plunge into; to dive,N2,v5m; vi,1598890,,少年は水の中に飛び込んだ。,The boy jumped into the water.
-fd0dc5e667,跳ぶ,とぶ,tobu,to jump; to fly; to leap,N2,v5b; vi,1429700,,彼の話はいろいろなところへ飛ぶ。,He frequently jumps from one topic to another while he is talking.
+fd0dc5e667,跳ぶ,とぶ,tobu,to jump; to fly; to leap,N2,v5b; vi,1429700,,君はどのくらい高く跳べますか。,How high can you jump?
 48638e9518,泊める,とめる,tomeru,to give shelter to; to lodge,N2,v1; vt,1474860,,一晩泊めてあげよう。,I'll put you up for the night.
 21706ca86c,ともかく,ともかく,tomokaku,anyhow; anyway; somehow or other; generally speaking; in any case,N2,adv,1444010,兎も角,ともかく合格してうれしい。,I'm glad to have passed at all.
 c3e8a47129,捕える,とらえる,toraeru,to seize; to grasp; to capture; to arrest,N2,v1; vt,1598960,捕らえる,なんであれ物事の本体を捕らえる事が肝心だ。,"No matter what the problem is, it's essential to get at the heart of the matter."
@@ -1213,7 +1213,7 @@ c54bd0a598,取り入れる,とりいれる,toriireru,to harvest; to take in; to 
 64e102cee4,取り消す,とりけす,torikesu,to cancel,N2,v5s; vt,1326790,,ごめん、取り消すよ。,I'm sorry. I take back my words.
 ba14fcca73,取り出す,とりだす,toridasu,to take out; to produce; to pick out,N2,v5s; vt,1326770,,彼は千円札を財布から取り出した。,"He took out a 1,000-yen note from his wallet."
 616b7719e0,採る,とる,toru,"to adopt (measure, proposal); to pick (fruit)",N2,v5r; vt,1599160,,こ、こら！ナニやっとるかぁぁ！！,H-Hey! What're you up to!!
-c552523349,捕る,とる,toru,to take; to catch (fish); to capture,N2,v5r; vt,1514140,,こ、こら！ナニやっとるかぁぁ！！,H-Hey! What're you up to!!
+c552523349,捕る,とる,toru,to take; to catch (fish); to capture,N2,v5r; vt,1514140,,きのう魚を３匹捕った。,I caught three fish yesterday.
 1be45c0ac4,トレーニング,トレーニング,toreeningu,training,N2,n; vs; vi,1087100,,私は懸命にトレーニングして試合に備えた。,I prepared for the game by training hard.
 7a30ecc911,丼,どんぶり,donburi,porcelain bowl; bowl of rice with food on top,N2,n,1562970,,彼はご飯を丼で食べたよ。,He ate rice in a big bowl.
 2bbdfd22f6,内科,ないか,naika,internist clinic; internal medicine,N2,n,1457830,,内科はどこですか。,Where is the Internal Medicine Department?
@@ -1233,8 +1233,8 @@ a092c3382a,なぐる,なぐる,naguru,to strike; to hit,N2,v5r; vt,1181390,殴�
 49a74a09d2,為す,なす,nasu,to accomplish; to do,N2,v5s; vt,2861111,,なした約束は払ってない借りである。,A promise made is a debt unpaid.
 b9a3269966,謎謎,なぞなぞ,nazonazo,riddle; puzzle; enigma,N2,n,1599500,,彼はそのなぞなぞを難なく解いた。,He had no difficulty explaining the mystery.
 02e8eebee7,懐かしい,なつかしい,natsukashii,dear; desired; missed,N2,adj-i,1200490,,懐かしい１２小節のブルース。,There go the twelve bars blues.
-3a13a46214,撫でる,なでる,naderu,to brush gently; to stroke,N2,v1; vt,1498290,,そよ風が彼女の顔をなでた。,The breeze kissed her face.
-12db97070d,斜め,ななめ,naname,obliqueness,N2,adj-no; adj-na; n,1322400,,えらくご機嫌ななめね、けんか腰にならないで。,"Wow, you're really in a bad mood. Don't get scrappy."
+3a13a46214,撫でる,なでる,naderu,to brush gently; to stroke,N2,v1; vt,1498290,,母はため息をつきながら、高校一年生にもなった息子の頭をがしがしと撫でた。,"Mom sighed, and tousled the hair of her first-year high school son's head."
+12db97070d,斜め,ななめ,naname,obliqueness,N2,adj-no; adj-na; n,1322400,,彼は帽子を斜めにかぶっていた。,He wore his hat askew.
 f699a2ccb4,なにしろ,なにしろ,nanishiro,at any rate; anyhow; anyway; in any case,N2,adv,1188330,何しろ,なにしろ、独り者で。,I'm still single.
 a19d9e358c,何々,なになに,naninani,such and such; What?,N2,pn,1599580,,,
 4067523091,何分,なにぶん,nanibun,what minute?; how many minutes?,N2,n; adj-no,1189310,,なにぶんこんな辺ぴな村に住んでいるので、めったに客は来ない。,"Living as I do in a remote village, I seldom have visitors."
@@ -1263,7 +1263,7 @@ ca31449987,濁る,にごる,nigoru,to become muddy; to get impure,N2,v5r; vi,141
 fe5131f1d5,日用品,にちようひん,nichiyouhin,daily necessities,N2,n,1464910,,あのスーパーに行けば、たいていの日用品は間に合います。,"If you go to that supermarket, you can buy most things you use in your daily life."
 472d8ff678,日課,にっか,nikka,daily lesson; daily work; daily routine,N2,n,1463860,,朝食前に新聞を読むのが私の日課です。,My routine is to read the newspaper before breakfast.
 4b716aefb8,日程,にってい,nittei,agenda,N2,n,1464300,,あす雨の場合は別の日程を組まなくちゃ。,"In case it rains tomorrow, we should make another arrangement."
-9aeb7de3a0,鈍い,にぶい,nibui,dull (e.g. a knife); thickheaded; slow (opposite of fast); stupid,N2,adj-i,1582430,,確かに彼は少々にぶいが勤勉だ。,"Indeed he may be a little dull, but he is diligent."
+9aeb7de3a0,鈍い,にぶい,nibui,dull (e.g. a knife); thickheaded; slow (opposite of fast); stupid,N2,adj-i,1582430,,お兄さんと比べて、彼は運動神経が鈍い。,"Compared with his brother, he is a poor athlete."
 20b9b24497,入社,にゅうしゃ,nyuusha,entry to a company,N2,n; vs; vi,1466260,,彼は高校卒業直後に入社した。,He joined the company right after he got through high school.
 1bec520d49,女房,にょうぼう,nyoubou,wife,N2,n,1345420,,女房の手は店員さんより一回り小さい。,My wife's hands are slightly smaller than the shop assistant's.
 e062e45bac,睨む,にらむ,niramu,to glare at; to scowl at; to keep an eye on,N2,v5m; vt,1569880,,彼はにくらしげに彼女をにらんだ。,He stared at her with hatred.
@@ -1278,7 +1278,7 @@ ae08e25e3d,ネックレス,ネックレス,nekkuresu,necklace,N2,n,1093000,,そ�
 198574a71b,寝巻,ねまき,nemaki,sleep-wear; nightclothes; pyjamas; nightgown; nightdress,N2,n,1360040,,寝巻きのままで朝ごはんを食べた。,I had breakfast in pajamas.
 2d3eb89598,寝間着,ねまき,nemaki,sleep-wear; nightclothes; pyjamas; nightgown; nightdress,N2,n,1360040,,寝巻きのままで朝ごはんを食べた。,I had breakfast in pajamas.
 aadc90550f,狙い,ねらい,nerai,aim,N2,n,1396550,,彼女のねらいは教師になることである。,She aims to become a teacher.
-6690a4649b,狙う,ねらう,nerau,to aim at,N2,v5u; vt,1396590,,彼はその兵士をねらって矢を放った。,He shot an arrow at the soldier.
+6690a4649b,狙う,ねらう,nerau,to aim at,N2,v5u; vt,1396590,,彼はひそかにあなたの財産を狙っていますよ。,He has designs on your property.
 17b975bfa3,年度,ねんど,nendo,year; fiscal year; school year; term,N2,n; n-suf,1469050,,零細小売店などは新年度には利益を上げるでしょう。,Mom-and-pop stores will turn a profit in the new fiscal year.
 c11c243ec5,農産物,のうさんぶつ,nousanbutsu,agricultural produce,N2,n,1470710,,わが国の主な農産物は米である。,The chief crop of our country is rice.
 8801b17079,農村,のうそん,nouson,agricultural community; farm village; rural,N2,n,1470730,,トムはインドの農村事情に詳しい。,Tom is well-informed about the circumstances present within the Indian agricultural community.
@@ -1287,35 +1287,35 @@ f83c71668d,農薬,のうやく,nouyaku,agricultural chemicals,N2,n,1470780,,彼�
 64df1b8125,能率,のうりつ,nouritsu,efficiency,N2,n,1470330,,そうすれば能率が上がりますよ。,That makes for efficiency.
 611ba7e8a3,のこぎり,のこぎり,nokogiri,saw,N2,n,1232930,鋸,彼は丸太をのこぎりでひいて板にしている。,He is sawing a log into boards.
 7c2c754f5f,残らず,のこらず,nokorazu,all; entirely; completely; without exception,N2,adv,1611130,,彼は有り金を残らず奪われた。,He was robbed of all his money.
-b495f06d59,載せる,のせる,noseru,to place on (something); to take on board; to give a ride,N2,v1; vt,1600270,,車に乗せてください。,Give me a lift in your car.
+b495f06d59,載せる,のせる,noseru,to place on (something); to take on board; to give a ride,N2,v1; vt,1600270,,彼の演説の要約が新聞に載せられた。,A summary of his speech was printed in the newspaper.
 c49779952e,覗く,のぞく,nozoku,to peep in; to look in; to peek in; to stick out,N2,v5k; vi,1470840,,その箱をのぞいてはいけない。,Don't look into the box.
 f7a5a8fcab,延ばす,のばす,nobasu,to lengthen; to stretch; to reach out; to grow (beard),N2,v5s; vt,1600290,,その仕事を明日まで延ばすな。,Don't put off the work till tomorrow.
-3eb9301644,延びる,のびる,nobiru,to be prolonged,N2,v1; vi,1358870,,会議は来週までのびた。,The meeting has been put off until next week.
+3eb9301644,延びる,のびる,nobiru,to be prolonged,N2,v1; vi,1358870,,道路はここから北へ延びている。,The road goes north from here.
 bb2a3aed5d,上り,のぼり,nobori,up-train (going to Tokyo); ascent,N2,n,1352510,,道はここからゆるやかな上りだ。,The road ascends gently here.
 4a3152836b,上る,のぼる,noboru,to ascend; to go up; to climb,N2,v5r; vi,1352570,,損失は１００万ドル以上にのぼる。,The loss adds up to more than one million dollars.
-8098fd19b1,糊,のり,nori,paste; starch,N2,n,1267400,,こののりはプラスチックには付かない。,This glue does not adhere to plastic.
+8098fd19b1,糊,のり,nori,paste; starch,N2,n,1267400,,彼はメモをドアに糊で貼った。,He pasted the notice on the door.
 c10303493a,乗換,のりかえ,norikae,"transfer (trains, buses, etc.)",N2,n; vs; vi,1600460,乗り換え,途中で乗り換えが必要ですか。,Is it necessary to change trains along the way?
 fddd03dc5c,載る,のる,noru,to appear (in print); to be recorded,N2,v5r; vi,2649690,,朝日新聞にはそのニュースは載っていない。,The Asahi Shimbun did not carry that news.
 c90af3ed84,のろのろ,のろのろ,noronoro,slowly; sluggishly,N2,adv; adv-to; vs,1010040,,タクシーはカタツムリと同じくらいのろのろ進んでいるように思えた。,The taxi seemed to go as slowly as a snail.
-217b09bf11,呑気,のんき,nonki,carefree; optimistic; careless; reckless; heedless,N2,adj-na; n,1600560,,お前は当事者じゃないから、そんなのんきなこと言ってられるんだよ。,You wouldn't be so casual about it if you were directly involved.
+217b09bf11,呑気,のんき,nonki,carefree; optimistic; careless; reckless; heedless,N2,adj-na; n,1600560,,ジョン君は働きすぎだよ。座ってしばらくはのん気にかまえなさい。,"John, you're working too hard. Sit down and take it easy for a while."
 045301d878,灰色,はいいろ,haiiro,grey; gray; ashen,N2,n; adj-no,1201970,,私の父は青と灰色のネクタイを持っている。,My father has a blue and gray tie.
 d34cd59500,俳句,はいく,haiku,haiku poetry,N2,n,1471900,,これは芭蕉の非常に有名な俳句です。,This is a very famous haiku by Basho.
 c0da086fcb,売店,ばいてん,baiten,shop; stand,N2,n,1474040,,アイスクリーム売りが外の売店で客にアイスクリームを売っている。,The ice cream vendor is waiting on customers at his outdoor stand.
 85ac04c01c,バイバイ,ばいばい,baibai,"trade; buying and selling; trafficking (e.g. of humans, arms, drugs); dealing",N2,n; vs; vt,1474050,売買,彼は革製品の売買をしている。,He buys and sells leather goods.
-c9e8c0c717,這う,はう,hau,to creep; to crawl,N2,v5u; vi,1474200,,彼らは前方へはって進んでいった。,They crept forward.
+c9e8c0c717,這う,はう,hau,to creep; to crawl,N2,v5u; vi,1474200,,赤ちゃんは部屋に這ってきた。,The baby crept into the room.
 0d38dcb15b,生える,はえる,haeru,to grow; to spring up; to cut (teeth),N2,v1; vi,1378490,,この子は今歯が生えかけているところです。,This child is teething now.
 09b3c440c5,剥す,はがす,hagasu,to tear off; to peel off; to rip off,N2,v5s; vt,1600670,剥がす,彼女は窓からステッカーを引き剥がした。,She tore away the stickers from the window.
 1d12a649ce,ばからしい,ばからしい,bakarashii,absurd,N2,adj-i,1612910,馬鹿らしい,彼女は馬鹿らしい質問をされていらいらした。,She got rattled by the stupid question.
 9d9cfcda72,秤,はかり,hakari,scales; weighing machine,N2,n,1474220,,このはかりであなたの荷物を量っていいですよ。,You can weigh your baggage in this balance.
-ae280779f0,測る,はかる,hakaru,to measure; to weigh; to survey,N2,v5r; vt,1600650,,優れた教育の価値は金銭でははかれない。,The value of a good education cannot be measured in terms of money.
-854c82b3ff,量る,はかる,hakaru,to measure; to weigh; to survey,N2,v5r; vt,1600650,,優れた教育の価値は金銭でははかれない。,The value of a good education cannot be measured in terms of money.
+ae280779f0,測る,はかる,hakaru,to measure; to weigh; to survey,N2,v5r; vt,1600650,,われわれはその川の深さを測った。,We measured the depth of the river.
+854c82b3ff,量る,はかる,hakaru,to measure; to weigh; to survey,N2,v5r; vt,1600650,,彼は肉を切り刻んで重さを量った。,He cut up the meat and weighed it.
 116a3145bb,吐き気,はきけ,hakike,nausea; sickness in the stomach,N2,n,1444120,,なんだかめまいと吐き気がします。,I feel sort of dizzy and I feel like throwing up.
 d44c0e793f,はきはき,はきはき,hakihaki,lucidly,N2,adv-to; adv; vs,1010090,,はきはきと意見を言ってください。,Please state your opinion crisply and clearly.
 2d6bfb81d1,掃く,はく,haku,to sweep; to brush; to gather up,N2,v5k; vt,1399760,,お前は床を掃きさえすればよい。,You have only to sweep the floor.
 4937331a58,歯車,はぐるま,haguruma,gear; cog-wheel,N2,n,1313350,,歯車がかみ合っている。,The cog-wheels are in gear.
 3ac53ba33d,バケツ,バケツ,baketsu,bucket; pail,N2,n,1098340,,このバケツには穴が開いている。,There's a hole in this bucket.
 05d318e118,挟まる,はさまる,hasamaru,to get between; to be caught in,N2,v5r; vi,1236840,,女の子の指がドアにはさまった。,A little girl caught her fingers in the door.
-aeac8de8f8,挟む,はさむ,hasamu,to interpose; to hold between; to insert,N2,v5m; vt,1600740,,彼らはテーブルをはさんで向かい合った。,They confronted each other across the table.
+aeac8de8f8,挟む,はさむ,hasamu,to interpose; to hold between; to insert,N2,v5m; vt,1600740,,彼は耳に鉛筆を挟んだ。,He stuck his pencil behind his ear.
 07f4ebd73d,梯子,はしご,hashigo,ladder; stairs,N2,n,1436480,,彼は平衡を失ってはしごから落ちた。,He lost his balance and fell off the ladder.
 7e3cceed04,始めに,はじめに,hajimeni,to begin with; first of all,N2,exp,1307520,,いいえ、はじめに９番におかけ下さい。,"No, please dial nine first."
 9b9b6c1212,初めに,はじめに,hajimeni,first; firstly; first of all; to begin with,N2,exp,1307520,,いいえ、はじめに９番におかけ下さい。,"No, please dial nine first."
@@ -1346,7 +1346,7 @@ fb23ffb300,花嫁,はなよめ,hanayome,bride,N2,n,1194570,,花嫁はたいへ�
 4e8fe5911e,歯磨き,はみがき,hamigaki,dentifrice; toothpaste,N2,n,1601040,歯磨,歯磨きをしなさい。,Brush your teeth.
 303f49de4d,はめる,はめる,hameru,(col) to get in; to insert; to put on; to make love,N2,v1; vt,1566420,填める,オレ、うまくハメられた。,I was nicely framed.
 e8c3be43a1,早口,はやくち,hayakuchi,fast-talking,N2,n; adj-no,1400240,,アナウンサーは早口が出来る。,The announcer can talk rapidly.
-cf7ed4ab11,流行る,はやる,hayaru,to flourish; to thrive; to be popular; to come into fashion,N2,v5r; vi,1552310,,その年はペストがはやった。,The plague occurred that year.
+cf7ed4ab11,流行る,はやる,hayaru,to flourish; to thrive; to be popular; to come into fashion,N2,v5r; vi,1552310,,今インフルエンザが流行ってます。,There's a lot of flu going around now.
 c5ad6eaac8,払い込む,はらいこむ,haraikomu,to deposit; to pay in,N2,v5m; vt,1501580,,月に１万円づつ銀行に払い込んだ。,I put ten thousand yen into the bank every month.
 eecaaf06e0,払い戻す,はらいもどす,haraimodosu,to repay; to pay back,N2,v5s; vt,1501610,,サラは払い戻してもらう事を要求した。,Sarah demanded that she be given a refund.
 18a13a1812,バランス,バランス,baransu,balance,N2,n; vs; vi,1099690,,鞍馬は、力よりもバランス感覚が必要です。,The pommel horse requires more balance than strength.
@@ -1374,12 +1374,12 @@ cd7ac4a670,引算,ひきざん,hikizan,subtraction,N2,n; vs; vt,1601610,,足し�
 d19f56d467,引き止める,ひきとめる,hikitomeru,to detain; to check; to restrain,N2,v1; vt,1601750,,彼はぜひもう少しいるようにと私を引き留めた。,He pressed me to stay a little longer.
 37a4d0c9b3,卑怯,ひきょう,hikyou,cowardice; meanness; unfairness,N2,adj-na; n,1482710,,そんなふうに言うなんて卑怯だ。,It's mean of you to talk that way.
 5db5c58e1b,引分け,ひきわけ,hikiwake,a draw (in competition); tie game,N2,n,1169120,引き分け,野球の試合は引き分けに終わった。,The baseball game ended in a draw.
-1e1fc82b4a,陽射,ひざし,hizashi,sunlight; rays of the sun,N2,n,1601830,,彼は手で目から日差しをさえぎった。,He used his hand to screen the sunlight from his eyes.
+1e1fc82b4a,陽射,ひざし,hizashi,sunlight; rays of the sun,N2,n,1601830,,太陽の日差しに誘われて人々が外出した。,The sunshine tempted people out.
 33cd091e92,肘,ひじ,hiji,elbow,N2,n,1487380,,彼女は私の肘をちょっと押した。,She gave my elbow a little jog.
 47fca052ff,ピストル,ピストル,pisutoru,pistol,N2,n,1106660,,暴漢のピストルが発射された。,A ruffian's pistol went off.
 510fabace9,ビタミン,ビタミン,bitamin,vitamin,N2,n,1105160,,ビタミンが豊富にある野菜を食べた方がいい。,You should eat some vegetables rich in vitamins.
 63bf0178ca,ぴたり,ぴたり,pitari,tightly; closely,N2,adv; adv-to; vs,1010900,,彼らは息がぴたりと合っている。,They are a perfect match for each other.
-66735bcdd3,引っ掛かる,ひっかかる,hikkakaru,to be caught in; to be stuck in; to be cheated,N2,v5r; vi,1169350,,魚の骨がのどにひっかかりました。,I got a fish bone stuck in my throat.
+66735bcdd3,引っ掛かる,ひっかかる,hikkakaru,to be caught in; to be stuck in; to be cheated,N2,v5r; vi,1169350,,留め金がうまく引っかからない。,The hook doesn't catch.
 23b8c22f05,筆記,ひっき,hikki,(taking) notes; copying,N2,n; vs; vt,1487800,,この前の娘は口述内容を筆記するのも無理だった。速記なんて論外さ。,"That girl couldn't take things down in longhand, let alone shorthand."
 70eeaf387c,引っ繰り返す,ひっくりかえす,hikkurikaesu,to turn over; to overturn; to knock over; to upset; to turn inside out,N2,v5s; vt,1601870,,彼はテーブルをひっくり返した。,He turned the table upside down.
 057d2de390,引っ繰り返る,ひっくりかえる,hikkurikaeru,to be overturned; to be upset; to topple over; to be reversed,N2,v5r; vi,1169320,,彼は体の平衡を失って、ひっくり返った。,He lost his balance and fell down.
@@ -1402,7 +1402,7 @@ b23a427cf5,皮肉,ひにく,hiniku,cynicism; sarcasm,N2,n; adj-na; adj-no,148390
 6e42efe14d,日の入り,ひのいり,hinoiri,sunset,N2,n,1463800,,こんなに美しい日の入りを見たことがありますか。,Have you ever seen such a beautiful sunset?
 4f27080665,日の出,ひので,hinode,sunrise,N2,n,1463790,,なんと美しい日の出でしょう。,How beautiful a sunrise is!
 0948f5e8f0,響き,ひびき,hibiki,echo; sound; reverberation; noise,N2,n,1602130,,彼の声に多少怒りの響きがあった。,There was a suggestion of anger in his voice.
-1041182624,響く,ひびく,hibiku,to resound,N2,v5k; vi,1238610,,彼女の声は少し怒りのひびきがあった。,There was a trace of anger in her voice.
+1041182624,響く,ひびく,hibiku,to resound,N2,v5k; vi,1238610,,出席状況が最終の成績に響きます。,Your attendance will affect your final grade.
 ad69650418,皮膚,ひふ,hifu,skin,N2,n,1483920,,日光は皮膚に作用する。,The sunbeam acts upon the skin.
 30d9cc84d3,冷やす,ひやす,hiyasu,to cool; to refrigerate,N2,v5s; vt,1556770,,ワインをもっと冷やしたいんだ。,I want to chill the wine more.
 b16f84d958,ひゃっかじてん,ひゃっかじてん,hyakkajiten,encyclopedia,N2,n,1602190,百科事典; 百科辞典,この百科事典は、妻のものです。,This encyclopedia belongs to my wife.
@@ -1437,9 +1437,9 @@ da73d5aa2c,複写,ふくしゃ,fukusha,copy; duplicate,N2,n; vs; vt,1501390,,エ
 e5e24e47dc,複数,ふくすう,fukusuu,plural; multiple,N2,adj-no; n,1501400,,アジアの宗教から閃きを得て、彼は複数の素晴らしい彫刻を生み出した。,Asian religions inspire him to create splendid sculptures.
 c77f6491db,含める,ふくめる,fukumeru,to include; to instruct; to make one understand,N2,v1; vt,1216890,,私も含めて全員、バスに乗った。,"All of us, including me, rode the bus."
 20ea09ad5e,膨らます,ふくらます,fukuramasu,to swell; to expand; to inflate; to bulge,N2,v5s; vt,1519970,,イースト菌がパン生地を膨らます。,Yeast makes dough rise.
-b683e19feb,膨らむ,ふくらむ,fukuramu,to expand; to swell (out); to get big; to become inflated,N2,v5m; vi,1519990,,一陣の風をうけて帆がふくらんだ。,A gust of wind swelled the sails.
+b683e19feb,膨らむ,ふくらむ,fukuramu,to expand; to swell (out); to get big; to become inflated,N2,v5m; vi,1519990,,タイヤに空気を入れれば膨らむ。,"If you pump air into a tire, it expands."
 bc08ae4b7c,不潔,ふけつ,fuketsu,unclean; dirty; filthy; impure,N2,adj-na; n,1492160,,不潔は病気を生み出す。,Filth breeds illnesses.
-6f6047f88e,更ける,ふける,fukeru,to get late; to advance; to wear on,N2,v1; vi,1279290,,だいぶ夜もふけました。もうおいとませねばなりません。,It is getting rather late. I think I must be going now.
+6f6047f88e,更ける,ふける,fukeru,to get late; to advance; to wear on,N2,v1; vi,1279290,,夜が更けるにつれて寒くなった。,It became colder as the night wore on.
 67bcdaaad0,符号,ふごう,fugou,sign; mark; symbol,N2,n,1497710,,,
 7dda379104,夫妻,ふさい,fusai,man and wife; married couple,N2,n,1496520,,ジョーンズ夫妻は娘を愛している。,The Joneses love their daughter.
 41c9221a62,塞がる,ふさがる,fusagaru,to be plugged up; to be shut up,N2,v5r; vi,1602570,,道路は倒れた木で塞がっていた。,The road is blocked by fallen trees.
@@ -1461,7 +1461,7 @@ cd9f3a22c3,ぶつける,ぶつける,butsukeru,to knock; to run into; to nail on
 49e3670ca1,吹雪,ふぶき,fubuki,snow storm,N2,n,1370780,,吹雪はまる一週間荒れ狂った。,The snowstorm raged for a full week.
 92ef35557d,父母,ふぼ,fubo,father and mother; parents,N2,n,1497690,,ケンは父母がけんかしたときはいつも母の味方をする。,Ken always stands up for his mom when his parents quarrel.
 660ecbecc6,踏切,ふみきり,fumikiri,railway crossing; level crossing; starting line; scratch; crossover,N2,n,1602840,,警報機が鳴っているときは絶対に踏切を渡らないでください。,Don't cross the tracks when the alarm is ringing.
-1277bd1687,麓,ふもと,fumoto,the foot; the bottom; the base (of a mountain),N2,n,1611440,,彼女の家は山のふもとにあります。,Her house is at the foot of a mountain.
+1277bd1687,麓,ふもと,fumoto,the foot; the bottom; the base (of a mountain),N2,n,1611440,,山の麓に日が昇るが早いかただ一人山を登り始めた。,The sun had barely risen at the foot of the mountain when she set out alone up the slope.
 4d675291d9,殖やす,ふやす,fuyasu,to increase; to add to; to augment,N2,v5s; vt,1602880,,体力を増やすように努めなさい。,Try to build up your strength.
 bfff64ef30,増やす,ふやす,fuyasu,to increase; to add to; to augment,N2,v5s; vt,1602880,,体力を増やすように努めなさい。,Try to build up your strength.
 d3602e8ff5,フライパン,フライパン,furaipan,fry pan; frying pan,N2,n,1111160,,このフライパンのとっては持ちやすい。,The handle of this pan is easy to hold.
@@ -1473,7 +1473,7 @@ dcd3581fc6,ブラウス,ブラウス,burausu,blouse,N2,n,1113650,,そのブラ�
 d434669f71,フリー,フリー,furii,free,N2,adj-na; n,1111640,,明日フリーマーケットに行こうよ！,Let's go to the flea market tomorrow.
 e380a00f33,振り仮名,ふりがな,furigana,pronunciation key,N2,n,1361150,,振り仮名はどうやって付けますか？,How do I add furigana?
 a992ca5e44,プリント,プリント,purinto,print; handout,N2,n; vs; vt,1116300,,先生は生徒たちにプリントを配布した。,The teacher distributed the handouts to the students.
-5d0fdd4eb9,振舞う,ふるまう,furumau,to behave; to conduct oneself; to entertain (vt),N2,v5u; vi,1603090,,彼女は私に紅茶を１杯ふるまってくれた。,She treated me to a cup of tea.
+5d0fdd4eb9,振舞う,ふるまう,furumau,to behave; to conduct oneself; to entertain (vt),N2,v5u; vi,1603090,,学生であるならそのように振舞いなさい。,"If you are a student, behave as such."
 6de846a293,ブローチ,ブローチ,buroochi,brooch,N2,n,1114910,,,
 32a8b1d784,プログラム,プログラム,puroguramu,program,N2,n,1117080,,私は解読プログラムを持っていません。,I don't have a decryption program.
 2c104d9ef9,風呂敷,ふろしき,furoshiki,wrapping cloth; cloth wrapper,N2,n,1500150,,彼は風呂敷を十分に活用した。,He took full advantage of the wrapper.
@@ -1568,20 +1568,20 @@ a0ae194568,待合室,まちあいしつ,machiaishitsu,waiting room,N2,n,1410630,
 ec0dc25400,真っ暗,まっくら,makkura,total darkness; shortsightedness; pitch dark,N2,adj-na; n,1363190,,外は真っ暗だった。,It was pitch black outside.
 6b2058cefd,真っ黒,まっくろ,makkuro,pitch black,N2,adj-na; adj-no; n,1604050,,あーあ、トーストが真っ黒に焦げてしまっているよ。,"Oh, the toast is burned black."
 0813533938,真っ青,まっさお,massao,deep blue; ghastly pale,N2,adj-na; n,1604080,,これをきいたとたん、彼は真っ青になった。,"On hearing this, he turned pale."
-6df37ce93e,真っ先,まっさき,massaki,the head; the foremost; beginning,N2,n,1363260,,あすの朝まっさきにそれを片付けます。,I'll do that first thing in the morning.
+6df37ce93e,真っ先,まっさき,massaki,the head; the foremost; beginning,N2,n,1363260,,私は真っ先に母にそれを告げた。,I told it to my mother first and foremost.
 8e3e2ae5c5,真っ白,まっしろ,masshiro,pure white,N2,adj-na; adj-no; n,1580620,,見渡す限り、野原は真っ白だった。,The field was white as far as the eye could see.
 a8392b4138,祭る,まつる,matsuru,to deify; to enshrine,N2,v5r; vt,1295250,,この記念碑は祖国に命を捧げた兵士を祭っている。,This monument is dedicated to the soldiers who gave their lives to their country.
 8c71b2d8dc,窓口,まどぐち,madoguchi,ticket window,N2,n,1401420,,トラベラーズチェックを現金に替えてくれるのはこの窓口ですか。,Is this the right window for cashing travelers' checks?
 929b330442,纏まる,まとまる,matomaru,to be collected; to be settled; to be in order,N2,v5r; vi,1611640,,よし、これで取引はまとまった。,All right. It's a deal.
 270c29cab7,纏める,まとめる,matomeru,to put in order; to collect; to bring to a conclusion,N2,v1; vt,1440930,,データはまだまとめていません。,The data hasn't been compiled yet.
-d786baf9ce,真似る,まねる,maneru,to mimic; to imitate,N2,v1; vt,1363760,,オウムはしばしば人の言葉をまねる。,Parrots often imitate human speech.
+d786baf9ce,真似る,まねる,maneru,to mimic; to imitate,N2,v1; vt,1363760,,オウムは人の声を真似ることができる。,A parrot can mimic a person's voice.
 3b1a3c27ee,まぶしい,まぶしい,mabushii,dazzling; radiant,N2,adj-i,1569790,眩しい,太陽がまぶしい。,My eyes are dazzled by the sun.
 5cf71aab8a,まぶた,まぶた,mabuta,eyelids,N2,n,1569920,目蓋,彼は眠くて瞼が重かった。,His eyes were heavy with sleep.
 f49b31d33f,マフラー,マフラー,mafuraa,muffler; scarf,N2,n,1129210,,五次元のマフラーはよい音がする。,The 5ZIGEN exhaust makes a nice sound.
-ea4dcb2f93,間も無く,まもなく,mamonaku,soon; before long; in a short time,N2,adv,1215290,間もなく,まもなくお会いできることを楽しみにしています。,I am looking forward to seeing you soon.
+ea4dcb2f93,間も無く,まもなく,mamonaku,soon; before long; in a short time,N2,adv,1215290,間もなく,医者は間もなく戻ってくるだろう。,The doctor will be back before long.
 2a27b7f164,マラソン,マラソン,marason,marathon,N2,n,1129290,,,
-1a7c32fbcb,円い,まるい,marui,round; circular; spherical,N2,adj-i,1604230,,コロンブスは地球が丸いと信じていた。,Columbus believed that the earth was round.
-289f63372e,稀,まれ,mare,rare; seldom,N2,adj-na,1604280,,チャンスというものはいずれにしても、まれにしかない。,Chances come rarely in any case.
+1a7c32fbcb,円い,まるい,marui,round; circular; spherical,N2,adj-i,1604230,,その家は丸く見えるが完全円ではない。,"The house looks circular, but it isn't a complete circle."
+289f63372e,稀,まれ,mare,rare; seldom,N2,adj-na,1604280,,ピカソのような画家は稀だ。,Such painters as Picasso are rare.
 6dd058d65e,回り道,まわりみち,mawarimichi,detour,N2,n; vs,1199360,,彼らはぐるっと回り道をしてやってきた。,They came round about.
 eefbfe2afe,満員,まんいん,man'in,full house; no vacancy; sold out,N2,n; adj-no,1526720,,バスは満員だった。,The bus was filled to capacity.
 0d4a82941e,マンション,マンション,manshon,large apartment; apartment house,N2,n,1130040,,私のおじはマンションに住んでいる。,My uncle lives in an apartment.
@@ -1631,7 +1631,7 @@ f66b8d1678,命ずる,めいずる,meizuru,to command; to appoint,N2,vz; vt,15319
 c864ff58da,目上,めうえ,meue,superior(s); senior,N2,n,1535490,,目上の人には礼儀正しくしなければならない。,You must be polite to your elders.
 93c3df67fe,メーター,メーター,meetaa,meter (clock),N2,n,1132530,,メーターの数字を読んでください。,Read the meter.
 d9f7dc8efd,恵まれる,めぐまれる,megumareru,to be blessed with; to be rich in,N2,v1; vi,1611980,,私は健康に恵まれている。,I am blessed with good health.
-8966756fe1,巡る,めぐる,meguru,to go around,N2,v5r; vi,1342050,,春がまためぐってきた。,Spring has come around.
+8966756fe1,巡る,めぐる,meguru,to go around,N2,v5r; vi,1342050,,思想は世界中をアッという間に巡る。,Around the world thoughts shall fly in the twinkling of an eye.
 b6fbd99b21,目指す,めざす,mezasu,to aim at; to have an eye on,N2,v5s; vt,1535440,,教育はテストに合格することを目指すべきでない。,Education shouldn't be aimed at passing a test.
 6937ebd690,目覚し,めざまし,mezamashi,(abbr) alarm-clock,N2,n,1535340,,目覚しは５時３０分に鳴った。,The alarm went off at five-thirty.
 04428b9eb4,目下,めした,meshita,at present; now,N2,n,1535320,,目下の者をないがしろにするな。,Don't ignore your subordinates.
@@ -1647,13 +1647,13 @@ f05f6d0f42,免税,めんぜい,menzei,tax exemption; duty exemption,N2,n; vs; vt
 216a25fa32,面積,めんせき,menseki,area,N2,n,1533500,,この都市の面積はどれくらいか。,What is the area of this city?
 571cef47c2,面接,めんせつ,mensetsu,interview,N2,n; vs; vi,1533510,,ホームステイをするにはスポンサーの面接を受けなくてはならない。,In order to qualify for the homestay you must have an interview with the sponsors.
 62b886bb5d,面倒臭い,めんどうくさい,mendoukusai,bother to do; tiresome,N2,adj-i,1533560,,そこまで歩いて行くのはめんどうくさい。,It's too much trouble to walk there.
-cd0fa19df1,儲かる,もうかる,moukaru,to be profitable; to yield a profit,N2,v5r; vi,1534490,,何も賭けなければ、何ももうからない。,"Nothing ventured, nothing gained."
-665e84881e,儲ける,もうける,moukeru,"to get; to earn; to gain; to have (bear, beget) a child",N2,v1; vt,1534500,,彼女はどんどんお金をもうけている。,She's making money hand over fist.
+cd0fa19df1,儲かる,もうかる,moukaru,to be profitable; to yield a profit,N2,v5r; vi,1534490,,その仕事で少しはお金が儲かったかい。,Did you make any money out of that business?
+665e84881e,儲ける,もうける,moukeru,"to get; to earn; to gain; to have (bear, beget) a child",N2,v1; vt,1534500,,ここに先物取引で儲けた方いらっしゃいますか？,Has anybody here made a profit in futures trading?
 c4d0463a66,申し訳ない,もうしわけない,moushiwakenai,inexcusable,N2,exp; adj-i,1612040,,申し訳ないけど、できません。,"I'm sorry, but it's impossible."
 6fbd0014e7,モーター,モーター,mootaa,motor,N2,n,1134480,,そのボートは動力にモーターを使用している。,The boat uses a motor for the power.
 373d6e5184,木材,もくざい,mokuzai,lumber; timber; wood,N2,n,1534660,,この古い家は木材でできている。,This old house is made of wood.
 dc3a23af19,目次,もくじ,mokuji,table of contents,N2,n,1535460,,皆さんは目次を見てください。,"Please look at the table of contents, everyone."
-a603c7698c,潜る,もぐる,moguru,to drive; to pass through; to evade; to hide; to dive (into or under water); to go underground,N2,v5r; vi,1609715,,彼は水にもぐる前に何回か深呼吸をした。,He took some deep breaths before he dived.
+a603c7698c,潜る,もぐる,moguru,to drive; to pass through; to evade; to hide; to dive (into or under water); to go underground,N2,v5r; vi,1609715,,海に潜ったら耳抜きしてください。,"If you go underwater, hold your nose and blow to clear your ears."
 9f5b58ff5e,もしかしたら,もしかしたら,moshikashitara,perhaps; maybe; by some chance,N2,exp; adv,1012510,若しかしたら,もしかしたら彼は気が変わるかもしれない。,He might change his mind.
 1b67b6cb7e,もしかすると,もしかすると,moshikasuruto,perhaps; maybe; by some chance,N2,adv,1012530,若しかすると,もしかすると彼は明日来るかもしれない。,He might come tomorrow.
 32ffe9094a,もたれる,もたれる,motareru,to lean against; to lean on; to recline on; to lie heavy (on the stomach),N2,v1; vi,1564380,凭れる,彼は壁にもたれていた。,He was leaning against the wall.
@@ -1665,7 +1665,7 @@ cea0736426,モデル,モデル,moderu,model,N2,n,1135270,,彼女はモデルに�
 5e56475dc8,物置,ものおき,monooki,storage room,N2,n,1502690,物置き,物置に鍵をかけるのを忘れちゃった。,I forgot to lock the storeroom.
 cce9ade407,物語る,ものがたる,monogataru,to tell; to indicate,N2,v5r; vt,1502490,,この話はアメリカに起こっていることについて多くを物語っている。,This story says a lot about what has happened to America.
 32ae3dcc06,物差し,ものさし,monosashi,ruler; measure,N2,n,1502530,,ものさしでその棒の長さを測りなさい。,Measure the length of the stick with a ruler.
-6947f5d83b,物凄い,ものすごい,monosugoi,earth-shattering; staggering; to a very great extent,N2,adj-i,1502630,,ものすごい叫び声に彼はぞっとした。,The sound of an awful scream made him shudder.
+6947f5d83b,物凄い,ものすごい,monosugoi,earth-shattering; staggering; to a very great extent,N2,adj-i,1502630,,この植物の根には水がものすごく必要。,The roots of the plant are greedy for water.
 23425c2306,モノレール,モノレール,monoreeru,monorail,N2,n,1135680,,,
 a81e282d67,揉む,もむ,momu,to rub; to crumple (up); to wrinkle,N2,v5m; vt,1567610,,その結果の報道に満足して彼は手をもんでうれしがっていた。,He was rubbing his hands over the report of the result.
 620f3620f3,燃やす,もやす,moyasu,to burn,N2,v5s; vt,1582900,,このガラクタは火に燃やしなさい。,Burn this rubbish on the fire.
@@ -1681,7 +1681,7 @@ c34c2c465e,訳す,やくす,yakusu,to translate,N2,v5s; vt,1538350,,この文を
 7c38991890,役人,やくにん,yakunin,government official,N2,n,1538050,,あの役人たちは全然、財政のことはわかっていない。,Those officials don't understand finance at all.
 03d04bc918,薬品,やくひん,yakuhin,medicine(s); chemical(s),N2,n,1538280,,この薬品は日光に当てないようにしなさい。,Don't expose this chemical to direct sunlight.
 9183205d2c,役目,やくめ,yakume,duty; business,N2,n,1538080,,古い木箱がテーブルの役目をした。,An old wooden box served as table.
-ebea673dd1,火傷,やけど,yakedo,burn; scald,N2,n; vs; vi,1577310,,アイロンで手をやけどしました。,I burned my hand with an iron.
+ebea673dd1,火傷,やけど,yakedo,burn; scald,N2,n; vs; vi,1577310,,火ばさみで人差し指をやけどした。,I burned my forefinger on fire tongs.
 fc3802c19c,夜行,やこう,yakou,walking around at night; night train; night travel,N2,n; vs; vi,1584820,,夜行ったことは昼現れる。,What is done by night appears by day.
 ca5e766ec3,矢印,やじるし,yajirushi,directing arrow,N2,n,1537770,,矢印が進むべき方向を指示する。,The arrow indicates the way to go.
 75df3817ca,やたらに,やたら,yatara,randomly; recklessly; blindly,N2,adv; adv-to,1537780,,上役にやたらにぺこぺこするな。,Don't be subservient to your boss.
@@ -1779,8 +1779,8 @@ c11357e446,ロッカー,ロッカー,rokkaa,locker,N2,n,1147560,,,
 de8f13d5c6,和英,わえい,waei,Japanese-English,N2,n,1561970,,私は和英辞書が必要だ。,I need a Japanese-English dictionary.
 2670496738,分かれる,わかれる,wakareru,to branch off; to diverge from; to fork; to split; to dispense; to scatter; to divide into,N2,v1; vi,1606600,,その問題で上院議員の意見が分かれた。,The issue divided the senators.
 787560a4dd,若々しい,わかわかしい,wakawakashii,youthful; young,N2,adj-i,1606610,,彼は年をとっていてもまだ若々しい。,"He is old, but he's worn well."
-3b96c00a5b,湧く,わく,waku,to boil; to grow hot; to get excited; to gush forth,N2,v5k; vi,1606685,,肉にはウジがわいていた。,The meat was crawling with maggots.
-8decf51bfa,詫びる,わびる,wabiru,to apologize,N2,v1; vt,1606790,,支配人は出かけていたのをわびた。,The manager made an apology for having been out.
+3b96c00a5b,湧く,わく,waku,to boil; to grow hot; to get excited; to gush forth,N2,v5k; vi,1606685,,彼女の目には涙が湧きあふれていた。,Her eyes gushed with tears.
+8decf51bfa,詫びる,わびる,wabiru,to apologize,N2,v1; vt,1606790,,彼は彼女を怒らせたことを詫びた。,He apologized for having offended her.
 be99846d43,和服,わふく,wafuku,Japanese clothes,N2,n,1562190,,確かに彼女は和服を着ると美しく見える。,She certainly looks beautiful in a Japanese kimono.
 20f1c0d4bc,わりあいに,わりあいに,wariaini,comparatively,N2,adv,1612360,割合に,今から２５年後には、就業者２人につき退職者１人の割合になるだろう。,Twenty-five years from now there will be one retired person for each two working.
 4383ca8dd3,割算,わりざん,warizan,division (math),N2,n; vs; vt,1606880,割り算,何らかの数字をゼロで割り算すると未定義の解になる。,The result of dividing any number by zero is undefined.
