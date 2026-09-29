@@ -852,7 +852,6 @@
     "examples": [
       {
         "ja": "少年たちは２階でどたばた暴れていた。",
-        "furigana": "{少年|しょうねん}たちは２{階|かい}でどたばた{暴|あば}れていた。",
         "en": "The boys were banging about upstairs.",
         "tatoeba_id": 146626
       },
@@ -9451,16 +9450,16 @@
     "jmdict_id": 1215380,
     "examples": [
       {
-        "ja": "バスは１５分間隔で運転されている。",
-        "furigana": "バスは１５{分|ふん}{間隔|かんかく}で{運転|うんてん}されている。",
-        "en": "There is a bus every fifteen minutes.",
-        "tatoeba_id": 198138
-      },
-      {
         "ja": "彼が答える前に長い時間の間隔があった。",
         "furigana": "{彼|かれ}が{答|こた}える{前|#1392580}に{長|なが}い{時間|じかん}の{間隔|かんかく}があった。",
         "en": "There was a long interval before he replied.",
         "tatoeba_id": 119604
+      },
+      {
+        "ja": "小屋は５０メートルの間隔で建てられた。",
+        "furigana": "{小屋|こや}は５０メートルの{間隔|かんかく}で{建|た}てられた。",
+        "en": "The huts were built with a space of 50 meters in between.",
+        "tatoeba_id": 146983
       }
     ]
   },
@@ -12724,16 +12723,16 @@
     "jmdict_id": 1252490,
     "examples": [
       {
-        "ja": "５００人の警官が厳重な警備態勢おかれた。",
-        "furigana": "５００{人|にん}の{警官|けいかん}が{厳重|げんじゅう}な{警備|けいび}{態勢|たいせい}おかれた。",
-        "en": "500 policemen were put on strict alert.",
-        "tatoeba_id": 235186
-      },
-      {
         "ja": "たくさんの警官がホールを警備した。",
         "furigana": "たくさんの{警官|けいかん}がホールを{警備|けいび}した。",
         "en": "A lot of policemen guarded the hall.",
         "tatoeba_id": 203796
+      },
+      {
+        "ja": "爆破予告以来、空港の警備体制は強化された。",
+        "furigana": "{爆破予告|ばくはよこく}{以来|いらい}、{空港|くうこう}の{警備|けいび}{体制|たいせい}は{強化|きょうか}された。",
+        "en": "Security at the airport has been stepped up since the bomb scare.",
+        "tatoeba_id": 121387
       }
     ]
   },
@@ -13988,15 +13987,14 @@
     "examples": [
       {
         "ja": "２本の道が十文字に交差している。",
-        "furigana": "２{本|ほん}の{道|みち}が{十文字|じゅうもんじ}に{交差|こうさ}している。",
         "en": "The two roads cut across the street from us.",
         "tatoeba_id": 235393
       },
       {
-        "ja": "２本の通りは直角に交差している。",
-        "furigana": "２{本|ほん}の{通|とお}りは{直角|ちょっかく}に{交差|こうさ}している。",
-        "en": "The two streets intersect at right angles.",
-        "tatoeba_id": 235396
+        "ja": "その棒は交差しておかれた。",
+        "furigana": "その{棒|ぼう}は{交差|こうさ}しておかれた。",
+        "en": "The sticks were laid across each other.",
+        "tatoeba_id": 206723
       }
     ]
   },
@@ -19593,7 +19591,6 @@
     "examples": [
       {
         "ja": "私は車庫付きの家を借りた。",
-        "furigana": "{私|わたし}は{車庫|しゃこ}{付|つ}きの{家|いえ}を{借|か}りた。",
         "en": "I rented a house with a garage.",
         "tatoeba_id": 156122
       },
@@ -20310,7 +20307,6 @@
     "examples": [
       {
         "ja": "月の重力は地球の６分の１である。",
-        "furigana": "{月|つき}の{重力|じゅうりょく}は{地球|ちきゅう}の６{分|ぶん}の１である。",
         "en": "The gravity of the moon is one-sixth of that of the earth.",
         "tatoeba_id": 175650
       },
@@ -22087,16 +22083,15 @@
     "jmdict_id": 1595120,
     "examples": [
       {
-        "ja": "シャーペンの芯２・３本もらえるかな。",
-        "furigana": "シャーペンの{芯|しん}２・３{本|ほん}もらえるかな。",
-        "en": "Could you lend me a few mechanical pencil leads?",
-        "tatoeba_id": 215903
-      },
-      {
         "ja": "私は体の芯まで冷え切った。",
         "furigana": "{私|わたし}は{体|からだ}の{芯|しん}まで{冷|ひ}え{切|き}った。",
         "en": "I was frozen to the bone.",
         "tatoeba_id": 155253
+      },
+      {
+        "ja": "シャーペンの芯２・３本もらえるかな。",
+        "en": "Could you lend me a few mechanical pencil leads?",
+        "tatoeba_id": 215903
       }
     ]
   },
@@ -22360,16 +22355,16 @@
     "jmdict_id": 1359850,
     "examples": [
       {
-        "ja": "泥棒は２階から侵入したらしい。",
-        "furigana": "{泥棒|どろぼう}は２{階|かい}から{侵入|しんにゅう}したらしい。",
-        "en": "It seems that the burglar broke in through an upstairs window.",
-        "tatoeba_id": 125366
-      },
-      {
         "ja": "泥棒はその家に窓から侵入した。",
         "furigana": "{泥棒|どろぼう}はその{家|いえ}に{窓|まど}から{侵入|しんにゅう}した。",
         "en": "The burglar gained access to the house through a window.",
         "tatoeba_id": 199620
+      },
+      {
+        "ja": "どろぼうはこわれた窓から侵入した。",
+        "furigana": "どろぼうはこわれた{窓|まど}から{侵入|しんにゅう}した。",
+        "en": "The thief entered through a broken window.",
+        "tatoeba_id": 199621
       }
     ]
   },
@@ -29680,10 +29675,10 @@
         "tatoeba_id": 217834
       },
       {
-        "ja": "２本の通りは直角に交差している。",
-        "furigana": "２{本|ほん}の{通|とお}りは{直角|ちょっかく}に{交差|こうさ}している。",
-        "en": "The two streets intersect at right angles.",
-        "tatoeba_id": 235396
+        "ja": "その直線は直角に交わっている。",
+        "furigana": "その{直線|ちょくせん}は{直角|ちょっかく}に{交|まじ}わっている。",
+        "en": "The two lines cross each other at right angles.",
+        "tatoeba_id": 207752
       }
     ]
   },
@@ -31082,7 +31077,6 @@
     "examples": [
       {
         "ja": "このエレベーターの定員は１０人だ。",
-        "furigana": "このエレベーターの{定員|ていいん}は１０{人|ひと}だ。",
         "en": "This elevator's capacity is ten people.",
         "tatoeba_id": 223975
       }
@@ -33897,7 +33891,6 @@
     "examples": [
       {
         "ja": "きのう魚を３匹捕った。",
-        "furigana": "きのう{魚|さかな}を３{匹|ひき}{捕|と}った。",
         "en": "I caught three fish yesterday.",
         "tatoeba_id": 225958
       },
@@ -35356,7 +35349,6 @@
       },
       {
         "ja": "あの男鳴り物入りで入社したけど、実力のほど看板に偽りなしだったね。",
-        "furigana": "あの{男|おとこ}{鳴|な}り{物入|ものい}りで{入社|にゅうしゃ}したけど、{実力|じつりょく}のほど{看板|かんばん}に{偽|いつわ}りなしだったね。",
         "en": "He came on board this company with a lot of fanfare and he turns out to have the skill and talent to live up to it.",
         "tatoeba_id": 230583
       }
@@ -39401,10 +39393,10 @@
         "tatoeba_id": 220123
       },
       {
-        "ja": "来月、その百科事典の最新版がでる。",
-        "furigana": "{来月|らいげつ}、その{百科事典|ひゃっかじてん}の{最新|さいしん}{版|はん}がでる。",
-        "en": "An up-to-date edition of the encyclopedia will come out next month.",
-        "tatoeba_id": 78695
+        "ja": "彼はいわゆる歩く百科事典だ。",
+        "furigana": "{彼|かれ}はいわゆる{歩|ある}く{百科事典|ひゃっかじてん}だ。",
+        "en": "He is what is called a walking encyclopedia.",
+        "tatoeba_id": 114361
       }
     ]
   },
@@ -40577,7 +40569,6 @@
       },
       {
         "ja": "江戸時代、武士は刀を２本刺していた。",
-        "furigana": "{江戸時代|えどじだい}、{武士|ぶし}は{刀|かたな}を２{本|ほん}{刺|さ}していた。",
         "en": "A samurai in the Edo era carried two swords.",
         "tatoeba_id": 173555
       }
@@ -43783,10 +43774,10 @@
         "tatoeba_id": 102525
       },
       {
-        "ja": "待合室に５人の患者がいた。",
-        "furigana": "{待合室|まちあいしつ}に５{人|にん}の{患者|かんじゃ}がいた。",
-        "en": "There were five patients in the waiting room.",
-        "tatoeba_id": 137921
+        "ja": "彼は待合室を見回した。",
+        "furigana": "{彼|かれ}は{待合室|まちあいしつ}を{見回|みまわ}した。",
+        "en": "He looked around the waiting room.",
+        "tatoeba_id": 102523
       }
     ]
   },
@@ -45792,16 +45783,16 @@
     "jmdict_id": 1535340,
     "examples": [
       {
-        "ja": "目覚しは５時３０分に鳴った。",
-        "furigana": "{目覚|めざ}しは５{時|じ}３０{分|ふん}に{鳴|な}った。",
-        "en": "The alarm went off at five-thirty.",
-        "tatoeba_id": 79917
-      },
-      {
         "ja": "目覚ましを７時にセットしよう。",
         "furigana": "{目覚|めざ}ましを７{時|じ}にセットしよう。",
         "en": "I'll set the alarm for seven o'clock.",
         "tatoeba_id": 79909
+      },
+      {
+        "ja": "寝る前に目覚ましをセットしなさい。",
+        "furigana": "{寝|ね}る{前|#1392580}に{目覚|めざ}ましをセットしなさい。",
+        "en": "You've got to set the alarm clock before you go to bed.",
+        "tatoeba_id": 145640
       }
     ]
   },
@@ -47630,16 +47621,16 @@
     "jmdict_id": 1542820,
     "examples": [
       {
-        "ja": "５分も歩いた後、夕立に出会った。",
-        "furigana": "５{分|ふん}も{歩|ある}いた{後|あと}、{夕立|ゆうだち}に{出会|であ}った。",
-        "en": "We had already walked five minutes when we were caught in a shower.",
-        "tatoeba_id": 235096
-      },
-      {
         "ja": "夕立にあってびっしょりぬれた。",
         "furigana": "{夕立|ゆうだち}にあってびっしょりぬれた。",
         "en": "I was caught in a shower and got drenched to the skin.",
         "tatoeba_id": 79035
+      },
+      {
+        "ja": "私たちは夕立にあって、びしょ濡れになった。",
+        "furigana": "{私|わたし}たちは{夕立|ゆうだち}にあって、びしょ{濡|ぬ}れになった。",
+        "en": "We were drenched in the shower.",
+        "tatoeba_id": 165049
       }
     ]
   },
@@ -48274,10 +48265,10 @@
         "tatoeba_id": 236543
       },
       {
-        "ja": "９時２０分の電車にようやく間に合った。",
-        "furigana": "９{時|じ}２０{分|ふん}の{電車|でんしゃ}にようやく{間|ま}に{合|あ}った。",
-        "en": "I barely made the 9:20 train.",
-        "tatoeba_id": 506577
+        "ja": "ようやくすっかり終わった。",
+        "furigana": "ようやくすっかり{終|お}わった。",
+        "en": "It is finally all over.",
+        "tatoeba_id": 192874
       }
     ]
   },

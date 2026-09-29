@@ -623,16 +623,16 @@
     "jmdict_id": 1207560,
     "examples": [
       {
-        "ja": "私は彼のあごに１発食らわしてやった。",
-        "furigana": "{私|わたし}は{彼|かれ}のあごに１{発|はつ}{食|く}らわしてやった。",
-        "en": "I landed him a blow on the chin.",
-        "tatoeba_id": 154036
-      },
-      {
         "ja": "彼女は私の顎をひっぱたいた。",
         "furigana": "{彼女|かのじょ}は{私|わたし}の{顎|あご}をひっぱたいた。",
         "en": "She slapped me on the chin.",
         "tatoeba_id": 89409
+      },
+      {
+        "ja": "笑いすぎて、顎がはずれそうになった。",
+        "furigana": "{笑|わら}いすぎて、{顎|あご}がはずれそうになった。",
+        "en": "I was laughing so hard I nearly dislocated my jaw.",
+        "tatoeba_id": 146366
       }
     ]
   },
@@ -8581,7 +8581,6 @@
       },
       {
         "ja": "谷雄がそのパーティーに出席していた。",
-        "furigana": "{谷|たに}{雄|おす}がそのパーティーに{出席|しゅっせき}していた。",
         "en": "Mr Tani and his wife were present at that party.",
         "tatoeba_id": 137140
       }
@@ -10086,10 +10085,10 @@
         "tatoeba_id": 235834
       },
       {
-        "ja": "彼は駐車違反で５千円の罰金を科せられた。",
-        "furigana": "{彼|かれ}は{駐車違反|ちゅうしゃいはん}で５{千円|せんえん}の{罰金|ばっきん}を{科|か}せられた。",
-        "en": "They fined him 5,000 yen for illegal parking.",
-        "tatoeba_id": 102127
+        "ja": "裁判官は彼に重い罰金を科せるのだろうか。",
+        "furigana": "{裁判官|さいばんかん}は{彼|かれ}に{重|おも}い{罰金|ばっきん}を{科|か}せるのだろうか。",
+        "en": "Will the judge fine him heavily?",
+        "tatoeba_id": 170254
       }
     ]
   },
@@ -10169,7 +10168,6 @@
       },
       {
         "ja": "私の部屋は４階にあります。",
-        "furigana": "{私|わたし}の{部屋|へや}は４{階|かい}にあります。",
         "en": "My apartment is on the fourth floor.",
         "tatoeba_id": 236992
       }
@@ -13269,7 +13267,6 @@
       },
       {
         "ja": "メアリーは読書をしており、１匹の猫がかたわらで眠っていた。",
-        "furigana": "メアリーは{読書|どくしょ}をしており、１{匹|ひき}の{猫|ねこ}がかたわらで{眠|ねむ}っていた。",
         "en": "Mary was reading, with a cat sleeping beside her.",
         "tatoeba_id": 194725
       }
@@ -21055,7 +21052,6 @@
     "examples": [
       {
         "ja": "私の事務所はあのグレーの６階建てのビルの４階だ。",
-        "furigana": "{私|わたし}の{事務所|じむしょ}はあのグレーの６{階建|かいだ}てのビルの４{階|かい}だ。",
         "en": "My office is on the fourth floor of that gray six-story building.",
         "tatoeba_id": 163511
       }
@@ -22104,7 +22100,6 @@
     "examples": [
       {
         "ja": "その部屋のゲストは２０人いた。",
-        "furigana": "その{部屋|へや}のゲストは２０{人|にん}いた。",
         "en": "The guests in the room were twenty in number.",
         "tatoeba_id": 206978
       }
@@ -22404,7 +22399,6 @@
     "examples": [
       {
         "ja": "決勝まで残った走者は５人だった。",
-        "furigana": "{決勝|けっしょう}まで{残|のこ}った{走者|そうしゃ}は５{人|にん}だった。",
         "en": "Five runners reached the finals.",
         "tatoeba_id": 175914
       },
@@ -23146,7 +23140,6 @@
     "examples": [
       {
         "ja": "この本は原書の要約版です。",
-        "furigana": "この{本|ほん}は{原書|げんしょ}の{要約|ようやく}{版|はん}です。",
         "en": "This book is abridged from the original.",
         "tatoeba_id": 219643
       }
@@ -35143,7 +35136,6 @@
       },
       {
         "ja": "このホテルは５００人の客を収容できる。",
-        "furigana": "このホテルは５００{人|にん}の{客|きゃく}を{収容|しゅうよう}できる。",
         "en": "This hotel can accommodate 500 guests.",
         "tatoeba_id": 223155
       }
@@ -36188,7 +36180,6 @@
       },
       {
         "ja": "諸事実がこの仮説を実証している。",
-        "furigana": "{諸|しょ}{事実|じじつ}がこの{仮説|かせつ}を{実証|じっしょう}している。",
         "en": "The facts bear out this hypothesis.",
         "tatoeba_id": 147391
       }
@@ -38260,7 +38251,6 @@
       },
       {
         "ja": "消防隊は指令を受けてから５分以内で現場に来ていた。",
-        "furigana": "{消防隊|しょうぼうたい}は{指令|しれい}を{受|う}けてから５{分|ふん}{以内|いない}で{現場|げんば}に{来|き}ていた。",
         "en": "The fire brigade was on the scene within five minutes of receiving the call.",
         "tatoeba_id": 146389
       }
@@ -43291,7 +43281,6 @@
       },
       {
         "ja": "そう、専用浴室付きのシングルにしてください。",
-        "furigana": "そう、{専用|せんよう}{浴室|よくしつ}{付|つ}きのシングルにしてください。",
         "en": "Yes, I'd like a single room with a private bath, please.",
         "tatoeba_id": 213968
       }
@@ -45708,7 +45697,6 @@
     "examples": [
       {
         "ja": "５００人の警官が厳重な警備態勢おかれた。",
-        "furigana": "５００{人|にん}の{警官|けいかん}が{厳重|げんじゅう}な{警備|けいび}{態勢|たいせい}おかれた。",
         "en": "500 policemen were put on strict alert.",
         "tatoeba_id": 235186
       },
@@ -47163,16 +47151,16 @@
     "jmdict_id": 1007230,
     "examples": [
       {
-        "ja": "ここから歩いてたった１０分の距離です。",
-        "furigana": "ここから{歩|ある}いてたった１０{分|ふん}の{距離|きょり}です。",
-        "en": "It is no more than ten minutes' walk from here.",
-        "tatoeba_id": 224726
-      },
-      {
         "ja": "この人形はたった６０セントです。",
         "furigana": "この{人形|にんぎょう}はたった６０セントです。",
         "en": "This doll costs only sixty cents.",
         "tatoeba_id": 220996
+      },
+      {
+        "ja": "彼はたったの千円しか持っていない。",
+        "furigana": "{彼|かれ}はたったの{千円|せんえん}しか{持|も}っていない。",
+        "en": "He has no more than 1,000 yen.",
+        "tatoeba_id": 112029
       }
     ]
   },
@@ -50952,10 +50940,10 @@
         "tatoeba_id": 234759
       },
       {
-        "ja": "浴室付きの二人部屋をお願いします。",
-        "furigana": "{浴室|よくしつ}{付|つ}きの{二人|ふたり}{部屋|へや}をお{願|ねが}いします。",
-        "en": "We'd like a room for two with a bath.",
-        "tatoeba_id": 78755
+        "ja": "バス付きのシングルにしてください。",
+        "furigana": "バス{付|つ}きのシングルにしてください。",
+        "en": "A single room with bath, please.",
+        "tatoeba_id": 198037
       }
     ]
   },
@@ -62739,7 +62727,6 @@
       },
       {
         "ja": "予約を３泊から５泊に変更したい。",
-        "furigana": "{予約|よやく}を３{泊|はく}から５{泊|はく}に{変更|へんこう}したい。",
         "en": "I'd like to change my reservation for three to five nights.",
         "tatoeba_id": 78973
       }
@@ -63250,16 +63237,15 @@
     "jmdict_id": 1426480,
     "examples": [
       {
-        "ja": "この橋は１０本の柱で支えられている。",
-        "furigana": "この{橋|はし}は１０{本|ほん}の{柱|はしら}で{支|ささ}えられている。",
-        "en": "The bridge is supported by 10 posts.",
-        "tatoeba_id": 222336
-      },
-      {
         "ja": "海外向け食品の輸出は農業関連産業の柱の一つです。",
         "furigana": "{海外|かいがい}{向|む}け{食品|しょくひん}の{輸出|ゆしゅつ}は{農業|のうぎょう}{関連|かんれん}{産業|さんぎょう}の{柱|はしら}の{一|ひと}つです。",
         "en": "Overseas food exports are one of the mainstays of agribusiness.",
         "tatoeba_id": 185060
+      },
+      {
+        "ja": "この橋は１０本の柱で支えられている。",
+        "en": "The bridge is supported by 10 posts.",
+        "tatoeba_id": 222336
       }
     ]
   },
@@ -64520,15 +64506,14 @@
     "examples": [
       {
         "ja": "この辞書は簡約版だ。",
-        "furigana": "この{辞書|じしょ}は{簡約|かんやく}{版|はん}だ。",
         "en": "This dictionary is an abridged edition.",
         "tatoeba_id": 221513
       },
       {
-        "ja": "来月、その百科事典の最新版がでる。",
-        "furigana": "{来月|らいげつ}、その{百科事典|ひゃっかじてん}の{最新|さいしん}{版|はん}がでる。",
-        "en": "An up-to-date edition of the encyclopedia will come out next month.",
-        "tatoeba_id": 78695
+        "ja": "この本のペーパーバック版はありますか。",
+        "furigana": "この{本|ほん}のペーパーバック{版|はん}はありますか。",
+        "en": "Is there a paperback edition of this book?",
+        "tatoeba_id": 219756
       }
     ]
   },
@@ -65404,15 +65389,13 @@
     "examples": [
       {
         "ja": "私たちは１匹の犬と１匹の猫を飼っている。",
-        "furigana": "{私|わたし}たちは１{匹|ひき}の{犬|いぬ}と１{匹|ひき}の{猫|ねこ}を{飼|か}っている。",
         "en": "We own a dog and a cat.",
         "tatoeba_id": 166694
       },
       {
-        "ja": "犬１匹と、猫を２匹飼っています。",
-        "furigana": "{犬|いぬ}１{匹|ひき}と、{猫|ねこ}を２{匹|ひき}{飼|か}っています。",
-        "en": "I have a dog and two cats.",
-        "tatoeba_id": 157286
+        "ja": "彼女の猫、また四匹も産んだんだ。",
+        "en": "Her cat had another four kittens.",
+        "tatoeba_id": 94101
       }
     ]
   },
@@ -66739,7 +66722,6 @@
     "examples": [
       {
         "ja": "議案は１０票の小差で通過した。",
-        "furigana": "{議案|ぎあん}は１０{票|ひょう}の{小差|しょうさ}で{通過|つうか}した。",
         "en": "The bill passed by a small majority of 10 votes.",
         "tatoeba_id": 182905
       },
@@ -67899,7 +67881,6 @@
     "examples": [
       {
         "ja": "１３日の金曜日は不吉な日だと言われている。",
-        "furigana": "１３{日|にち}の{金曜日|きんようび}は{不吉|ふきつ}な{日|ひ}だと{言|い}われている。",
         "en": "It is said that Friday the 13th is an unlucky day.",
         "tatoeba_id": 235945
       },
@@ -68060,7 +68041,6 @@
     "examples": [
       {
         "ja": "覆面をした男達が旅客を襲って金を奪った。",
-        "furigana": "{覆面|ふくめん}をした{男|おとこ}{達|たち}が{旅客|りょかく}を{襲|おそ}って{金|かね}を{奪|うば}った。",
         "en": "Masked men held up the passengers and robbed them of their money.",
         "tatoeba_id": 83850
       }
@@ -69589,15 +69569,13 @@
     "examples": [
       {
         "ja": "１０時４０分から１１時まで休み時間です。",
-        "furigana": "１０{時|じ}４０{分|ふん}から１１{時|じ}まで{休|やす}み{時間|じかん}です。",
         "en": "We have a break from 10:40 to 11:00.",
         "tatoeba_id": 236056
       },
       {
-        "ja": "目覚し時計は１０分進んでいます。",
-        "furigana": "{目覚|めざま}し{時計|どけい}は１０{分|ふん}{進|すす}んでいます。",
-        "en": "The alarm clock is ten minutes fast.",
-        "tatoeba_id": 79913
+        "ja": "授業は八時三十分から始まるから。",
+        "en": "Class doesn't begin until eight-thirty.",
+        "tatoeba_id": 4936
       }
     ]
   },
@@ -75301,7 +75279,6 @@
     "examples": [
       {
         "ja": "その実験は未婚の男性１００人を対象に行われた。",
-        "furigana": "その{実験|じっけん}は{未婚|みこん}の{男性|だんせい}１００{人|にん}を{対象|たいしょう}に{行|おこな}われた。",
         "en": "The experiment was made on a hundred unmarried males.",
         "tatoeba_id": 209633
       },
@@ -76204,7 +76181,6 @@
     "examples": [
       {
         "ja": "あの民宿なら、素泊まり５千円だよ。",
-        "furigana": "あの{民宿|みんしゅく}なら、{素泊|すど}まり５{千円|せんえん}だよ。",
         "en": "That inn is 5,000 yen a night, meals excluded.",
         "tatoeba_id": 230446
       }
@@ -77442,10 +77418,10 @@
         "tatoeba_id": 226093
       },
       {
-        "ja": "雌豚の耳から絹の財布は作れない。",
-        "furigana": "{雌|めす}{豚|ぶた}の{耳|みみ}から{絹|きぬ}の{財布|さいふ}は{作|つく}れない。",
-        "en": "You cannot make a silk purse out of a sow's ear.",
-        "tatoeba_id": 150982
+        "ja": "ココは雌のゴリラである。",
+        "furigana": "ココは{雌|めす}のゴリラである。",
+        "en": "Koko is a female gorilla.",
+        "tatoeba_id": 224302
       }
     ]
   },
@@ -79531,7 +79507,6 @@
     "examples": [
       {
         "ja": "あの５人の関係は、ややこしい。",
-        "furigana": "あの５{人|にん}の{関係|かんけい}は、ややこしい。",
         "en": "The relationships among those five people are complicated.",
         "tatoeba_id": 231377
       },
@@ -80729,10 +80704,10 @@
         "tatoeba_id": 219948
       },
       {
-        "ja": "参加型の意思決定様式を奨励することが緊急課題である。",
-        "furigana": "{参加|さんか}{型|かた}の{意思決定|いしけってい}{様式|ようしき}を{奨励|しょうれい}することが{緊急|きんきゅう}{課題|かだい}である。",
-        "en": "It is imperative that we should encourage participatory forms of decision-making.",
-        "tatoeba_id": 169447
+        "ja": "大都市の魅力のひとつは、その建物の建築様式に見られる多様性にある。",
+        "furigana": "{大都市|だいとし}の{魅力|みりょく}のひとつは、その{建物|たてもの}の{建築|けんちく}{様式|ようしき}に{見|み}られる{多様性|たようせい}にある。",
+        "en": "Part of the charm of a big city lies in the variety of styles that can be seen in the architecture of its buildings.",
+        "tatoeba_id": 137376
       }
     ]
   },
@@ -81123,7 +81098,6 @@
     "examples": [
       {
         "ja": "浴室付きの二人部屋をお願いします。",
-        "furigana": "{浴室|よくしつ}{付|つ}きの{二人|ふたり}{部屋|へや}をお{願|ねが}いします。",
         "en": "We'd like a room for two with a bath.",
         "tatoeba_id": 78755
       },
@@ -82629,7 +82603,6 @@
     "examples": [
       {
         "ja": "覆面をした男達が旅客を襲って金を奪った。",
-        "furigana": "{覆面|ふくめん}をした{男|おとこ}{達|たち}が{旅客|りょかく}を{襲|おそ}って{金|かね}を{奪|うば}った。",
         "en": "Masked men held up the passengers and robbed them of their money.",
         "tatoeba_id": 83850
       },

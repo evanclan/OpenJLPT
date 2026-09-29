@@ -215,7 +215,7 @@ c139bcdcb4,カード,カード,kaado,card; curd,N3,n,1036400,,,
 53e1ba680a,会,かい,kai,meeting; assembly; party; association; club,N3,n; n-suf,1198170,,この会の名称はＥ．Ｓ．Ｓ．とする。,This association shall be called the E.S.S.
 d630014a3f,回,かい,kai,counter for occurrences,N3,ctr,1199330,,彼女は毎週１回映画を見に行く。,She goes to the movies once a week.
 43db81a024,害,がい,gai,injury; harm; evil influence; damage,N3,n,1204330,,ワインは本来害にならない。,Wine is not harmful in itself.
-b4863250e1,会員,かいいん,kaiin,member; the membership,N3,n,1198230,,会員は５人に減った。,The number of members decreased to five.
+b4863250e1,会員,かいいん,kaiin,member; the membership,N3,n,1198230,,非会員は50ドル増しとなります。,Non-members pay an additional 50 dollars.
 7f3020dd7b,絵画,かいが,kaiga,picture,N3,n,1202300,,その絵画を見たらおもしろかった。,I found the picture interesting.
 5d54acd27e,海外,かいがい,kaigai,foreign; abroad; overseas,N3,n; adj-no,1201260,,君はどれくらいよく海外に行きますか。,How often do you go abroad?
 45f44c2449,会計,かいけい,kaikei,account; finance; accountant,N3,n; adj-no; vs,1198430,,チェックアウトしたいので、会計をおねがいします。,I'd like to check out. Do you have my bill?
@@ -522,7 +522,7 @@ af7b17d479,貢献,こうけん,kouken,contribution; services,N3,n; vs; vi,128241
 a7c4dfbb71,広告,こうこく,koukoku,advertisement,N3,n; vs; vt,1278510,,その商品はテレビで広告された。,The goods were advertised on TV.
 a32b605031,交際,こうさい,kousai,company; friendship; association; society; acquaintance,N3,n; vs; vi,1271990,,その男は妻と交際し始めた。,The man took up with his wife.
 5de51daefa,後者,こうしゃ,kousha,the latter,N3,n,1269720,,このうち大事なのは後者の方です。,Of these it is the latter one that is important.
-009cdbf36f,構成,こうせい,kousei,organization; composition,N3,n; vs; vt,1279730,,この会議は１２人で構成されている。,The meeting had 12 attendees.
+009cdbf36f,構成,こうせい,kousei,organization; composition,N3,n; vs; vt,1279730,,この小説は三部構成だ。,This novel consists of three parts.
 903f33a220,高速,こうそく,kousoku,high speed; high gear,N3,adj-na; adj-no; n,1283700,,超高速がコンコルド機の特徴だ。,Great speed is a feature of the Concorde.
 ef340011e3,行動,こうどう,koudou,action; conduct; behaviour; mobilization,N3,n; vs; vi; adj-no,1282100,,私がこの行動の責任はすべて取る。,I take full responsibility for the action.
 a786043e89,強盗,ごうとう,goutou,robbery; burglary,N3,n,1236500,,父は強盗と取っ組み合いをした。,My father struggled with the robber.
@@ -772,7 +772,7 @@ b5647f7089,食物,しょくもつ,shokumotsu,food; foodstuff,N3,n,1358620,,私�
 c4b2e7a3a3,食料,しょくりょう,shokuryou,food,N3,n,1358670,,彼らはじゅうぶんな食料を手に入れられなかった。,They could not get enough food.
 49b450eac3,食糧,しょくりょう,shokuryou,provisions; rations,N3,n,1358690,,食糧が不足している。,Food has been in short supply.
 d83bc64e48,書斎,しょさい,shosai,study,N3,n,1344030,,このドアは書斎に通じている。,This door leads to the study.
-0596cdc023,女子,じょし,joshi,woman; girl,N3,n,1345140,,このクラスには１５人の男子と２８人の女子がいる。,This class consists of 15 boys and 28 girls.
+0596cdc023,女子,じょし,joshi,woman; girl,N3,n,1345140,,この学校は男子よりも女子が多い。,There are more girls than boys in this school.
 d64b87f0c2,助手,じょしゅ,joshu,helper; helpmeet; assistant; tutor,N3,n,1344650,,私は助手を探している。,I am looking for an assistant.
 107fb6f26b,徐々に,じょじょに,jojoni,slowly; little by little; gradually; steadily; quietly,N3,adv,1595480,,単語は徐々に増えますので、こまめにチェックしてください。,"The words covered are steadily increasing, so check frequently."
 cfd38a2853,署名,しょめい,shomei,signature,N3,n; vs; vi,1343640,,この手紙には署名がない。,This letter bears no signature.
@@ -1015,7 +1015,7 @@ ed560b721e,チーズ,チーズ,chiizu,cheese,N3,n,1077330,,ジョージは朝に
 7864a376ed,チーム,チーム,chiimu,team,N3,n,1077360,,彼はチームでダントツの好選手だ。,He is by far the best player on the team.
 4dc1084ef7,知恵,ちえ,chie,wisdom; wit; sagacity; sense; intelligence; advice,N3,n,1420530,,彼は知恵のある人だ。,He is a man of wisdom.
 79d117da8a,地下,ちか,chika,basement; underground,N3,n; adj-no,1420840,,彼は地下活動の疑いをかけられた。,He was suspected of underground action.
-c6bc56d6df,違い,ちがい,chigai,difference; discrepancy,N3,n,1158870,,私は１分違いで列車に乗り遅れた。,I missed the train by a minute.
+c6bc56d6df,違い,ちがい,chigai,difference; discrepancy,N3,n,1158870,,実際両者にはほとんど違いがない。,"In practice, there is little difference between the two."
 ce7946728d,違いない,ちがいない,chigainai,(phrase) sure; no mistaking it; for certain,N3,exp; adj-i,1610740,,再婚した今、彼はもっと幸福に違いない。,He must be happier now after having remarried.
 7d4f4be7f4,近頃,ちかごろ,chikagoro,lately; recently; nowadays,N3,adv; n; adj-no,1242300,,近ごろ彼女から便りがない。,I have not heard from her recently.
 88fa4babd2,地球,ちきゅう,chikyuu,the earth,N3,n,1420970,,彼女は地球のあちこちを旅行した。,She has traveled all over the globe.
@@ -1285,7 +1285,7 @@ c795debc35,パスポート,パスポート,pasupooto,passport,N3,n,1101510,,パ�
 847b06de33,旗,はた,hata,flag,N3,n,1220240,,彼は旗を上下に動かした。,He moved the flags up and down.
 05e4ce3a94,肌,はだ,hada,skin,N3,n,1476450,,中国の音楽はどうも僕の肌に合わない。,I don't have the feeling for Chinese music in my body.
 e512ff0725,裸,はだか,hadaka,naked; nude,N3,n; adj-no,1547600,,子供たちは裸で泳いでいた。,The children were swimming in the altogether.
-f4fd9f8f66,畑,はたけ,hatake,field,N3,n,1476520,,彼は教育畑で育った。,He has had a long teaching career.
+f4fd9f8f66,畑,はたけ,hatake,field,N3,n,1476520,,春になると畑をほりかえして種をまきます。,"When spring comes, they dig up the fields and plant seeds."
 5d26933404,働き,はたらき,hataraki,work; labor,N3,n,1451040,,働きすぎると体によくないだろう。,Working to excess will do you harm.
 7a68fa62f5,バッグ,バッグ,baggu,bag; bug,N3,n,1099100,,その男は彼女のバッグを奪った。,The man robbed her of her bag.
 b9edd7963b,発見,はっけん,hakken,discovery; detection; finding,N3,n; vs; vt,1477310,,だれがそれを発見したのかと思う。,I wonder who discovered it.

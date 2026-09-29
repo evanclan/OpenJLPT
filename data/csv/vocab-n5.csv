@@ -211,7 +211,7 @@ b55dd305d1,国,くに,kuni,country,N5,n,1592250,,あなたの国では何語を�
 eec0f93991,曇り,くもり,kumori,cloudy weather,N5,n,1592340,曇,曇りの日です。,It's a cloudy day.
 c34fdb6092,曇る,くもる,kumoru,to become cloudy; to become dim,N5,v5r; vi,1457560,,今日は曇っている。,It is cloudy today.
 01a0587b49,暗い,くらい,kurai,gloomy,N5,adj-i,1154330,,あたりがもう暗くなっていることに気がついた。,I observed that it had already got dark.
-72c04ce067,クラス,クラス,kurasu,class,N5,n,1044070,,４０人クラスで女子は１８人です。,The class of forty includes eighteen girls.
+72c04ce067,クラス,クラス,kurasu,class,N5,n,1044070,,あいつはクラスでいちばんのまぬけだ。,He is the dumbest kid in the class.
 5538df2bce,グラム,グラム,guramu,gram,N5,n,1046810,,プログラムをいただけますか。,May I have a program?
 2e2abd26ca,来る,くる,kuru,to come,N5,vk; vi,1547720,,１０時までに来ます。,I'll come by 10.
 d6b85573f3,車,くるま,kuruma,car; vehicle,N5,n,1323080,,車のわきの男の子をごらんなさい。,Look at the boy beside the car.
@@ -324,7 +324,7 @@ d671097071,住む,すむ,sumu,to live in,N5,v5m; vi,1334040,,どうしてアメ�
 c4cdc162d7,する,する,suru,to do,N5,vs-i,1157170,為る,ログアウトするんじゃなかったよ。,I shouldn't have logged off.
 c9a15e8777,座る,すわる,suwaru,to sit,N5,v5r; vi,1291800,,父と母は木の下に座っていました。,My father and mother were sitting under a tree.
 898b067287,背,せ,se,height; stature,N5,n,2147990,,トムはジャックと背が同じくらいだ。,Tom is as tall as Jack.
-af7459ef1e,生徒,せいと,seito,pupil,N5,n,1379380,,このクラスには生徒が４０人いる。,There are forty students in our class.
+af7459ef1e,生徒,せいと,seito,pupil,N5,n,1379380,,この学校はたくさんの生徒がいます。,This school has many students.
 4b0b49a42d,セーター,セーター,seetaa,sweater; jumper,N5,n,1074270,,このセーターは気に入らない。,I don't like this sweater.
 b48d0c99d4,せっけん,せっけん,sekken,economy,N5,n; vs; vt; vi,1386220,,せっけんだらけの手で私にさわらないで。,Don't touch me with your soapy hands.
 9d432ac114,背広,せびろ,sebiro,business suit,N5,n,1472740,,私は新しい背広を買った。,I bought a new suit of clothes.

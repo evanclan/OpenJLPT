@@ -1189,7 +1189,6 @@
     "examples": [
       {
         "ja": "２０人の警官が現場に現れた。",
-        "furigana": "２０{人|にん}の{警官|けいかん}が{現場|げんば}に{現|あらわ}れた。",
         "en": "Twenty police have arrived on the scene.",
         "tatoeba_id": 235580
       },
@@ -6437,16 +6436,16 @@
     "jmdict_id": 1198230,
     "examples": [
       {
-        "ja": "会員は５人に減った。",
-        "furigana": "{会員|かいいん}は５{人|にん}に{減|へ}った。",
-        "en": "The number of members decreased to five.",
-        "tatoeba_id": 185422
-      },
-      {
         "ja": "非会員は50ドル増しとなります。",
         "furigana": "{非|ひ}{会員|かいいん}は50ドル{増|ま}しとなります。",
         "en": "Non-members pay an additional 50 dollars.",
         "tatoeba_id": 74067
+      },
+      {
+        "ja": "クラブの会員は会議室に集まった。",
+        "furigana": "クラブの{会員|かいいん}は{会議室|かいぎしつ}に{集|あつ}まった。",
+        "en": "The club members assembled in the meeting room.",
+        "tatoeba_id": 225547
       }
     ]
   },
@@ -7956,10 +7955,10 @@
         "tatoeba_id": 78140
       },
       {
-        "ja": "クラスの男の子の数は３０人です。",
-        "furigana": "クラスの{男|おとこ}の{子|こ}の{数|かず}は３０{人|にん}です。",
-        "en": "The number of boys in our class is thirty.",
-        "tatoeba_id": 225575
+        "ja": "６までの数を数えることができる。",
+        "furigana": "６までの{数|かず}を{数|かぞ}えることができる。",
+        "en": "He counts up to six.",
+        "tatoeba_id": 235077
       }
     ]
   },
@@ -14913,10 +14912,10 @@
         "tatoeba_id": 176214
       },
       {
-        "ja": "その現場では１０人の警官がいた。",
-        "furigana": "その{現場|げんば}では１０{人|にん}の{警官|けいかん}がいた。",
-        "en": "There were ten police officers on the spot.",
-        "tatoeba_id": 210917
+        "ja": "私たちはすぐに現場に急行した。",
+        "furigana": "{私|わたし}たちはすぐに{現場|げんば}に{急行|きゅうこう}した。",
+        "en": "We lost no time hurrying to the spot.",
+        "tatoeba_id": 166480
       }
     ]
   },
@@ -15607,16 +15606,16 @@
     "jmdict_id": 1279730,
     "examples": [
       {
-        "ja": "この会議は１２人で構成されている。",
-        "furigana": "この{会議|かいぎ}は１２{人|にん}で{構成|こうせい}されている。",
-        "en": "The meeting had 12 attendees.",
-        "tatoeba_id": 222687
+        "ja": "この小説は三部構成だ。",
+        "furigana": "この{小説|しょうせつ}は{三部|さんぶ}{構成|こうせい}だ。",
+        "en": "This novel consists of three parts.",
+        "tatoeba_id": 221166
       },
       {
-        "ja": "そのクラブは女性１０人で構成されています。",
-        "furigana": "そのクラブは{女性|じょせい}１０{人|にん}で{構成|こうせい}されています。",
-        "en": "The club is composed of ten women.",
-        "tatoeba_id": 213241
+        "ja": "委員会は８名から構成されている。",
+        "furigana": "{委員会|いいんかい}は８{名|めい}から{構成|こうせい}されている。",
+        "en": "The committee consists of eight members.",
+        "tatoeba_id": 191103
       }
     ]
   },
@@ -17661,7 +17660,6 @@
     "examples": [
       {
         "ja": "彼は今男盛りだ。",
-        "furigana": "{彼|かれ}は{今|いま}{男|おとこ}{盛|さか}りだ。",
         "en": "He is now in the prime of manhood.",
         "tatoeba_id": 107122
       },
@@ -18832,10 +18830,10 @@
         "tatoeba_id": 94169
       },
       {
-        "ja": "ジェット機には５００人の乗客がのっていた。",
-        "furigana": "ジェット{機|き}には５００{人|にん}の{乗客|じょうきゃく}がのっていた。",
-        "en": "The jet plane had 500 passengers on board.",
-        "tatoeba_id": 216398
+        "ja": "ジェット機は東京に着陸した。",
+        "furigana": "ジェット{機|き}は{東京|とうきょう}に{着陸|ちゃくりく}した。",
+        "en": "The jet landed at Tokyo.",
+        "tatoeba_id": 216393
       }
     ]
   },
@@ -21332,7 +21330,6 @@
     "examples": [
       {
         "ja": "６人宿泊させて欲しい。",
-        "furigana": "６{人|にん}{宿泊|しゅくはく}させて{欲|ほ}しい。",
         "en": "We need accommodation for six.",
         "tatoeba_id": 235023
       },
@@ -21984,7 +21981,6 @@
     "examples": [
       {
         "ja": "乗客はどちらの側にも４人すわっていた。",
-        "furigana": "{乗客|じょうきゃく}はどちらの{側|がわ}にも４{人|にん}すわっていた。",
         "en": "The passengers sat four aside.",
         "tatoeba_id": 146154
       },
@@ -23055,16 +23051,15 @@
     "jmdict_id": 1345140,
     "examples": [
       {
-        "ja": "このクラスには１５人の男子と２８人の女子がいる。",
-        "furigana": "このクラスには１５{人|にん}の{男子|だんし}と２８{人|にん}の{女子|じょし}がいる。",
-        "en": "This class consists of 15 boys and 28 girls.",
-        "tatoeba_id": 223858
-      },
-      {
         "ja": "この学校は男子よりも女子が多い。",
         "furigana": "この{学校|がっこう}は{男子|だんし}よりも{女子|じょし}が{多|おお}い。",
         "en": "There are more girls than boys in this school.",
         "tatoeba_id": 222596
+      },
+      {
+        "ja": "このクラスには１５人の男子と２８人の女子がいる。",
+        "en": "This class consists of 15 boys and 28 girls.",
+        "tatoeba_id": 223858
       }
     ]
   },
@@ -24455,10 +24450,10 @@
         "tatoeba_id": 231547
       },
       {
-        "ja": "あなたのスキーを逆Ｖ字型にしなさい。",
-        "furigana": "あなたのスキーを{逆|#1226960}Ｖ{字|じ}{型|かた}にしなさい。",
-        "en": "Place your skis in an inverted V.",
-        "tatoeba_id": 233521
+        "ja": "彼女はスキーの仕方を知りません。",
+        "furigana": "{彼女|かのじょ}はスキーの{仕方|しかた}を{知|し}りません。",
+        "en": "She does not know how to ski.",
+        "tatoeba_id": 92757
       }
     ]
   },
@@ -25556,10 +25551,10 @@
         "tatoeba_id": 180098
       },
       {
-        "ja": "そこにいたのはせいぜい５０人だ。",
-        "furigana": "そこにいたのはせいぜい５０{人|にん}だ。",
-        "en": "There were barely fifty people there.",
-        "tatoeba_id": 213700
+        "ja": "私の手品はせいぜいこんなもんです。",
+        "furigana": "{私|わたし}の{手品|てじな}はせいぜいこんなもんです。",
+        "en": "This is at best the extent of my magic.",
+        "tatoeba_id": 163390
       }
     ]
   },
@@ -30375,16 +30370,16 @@
     "jmdict_id": 1158870,
     "examples": [
       {
-        "ja": "私は１分違いで列車に乗り遅れた。",
-        "furigana": "{私|わたし}は１{分|ふん}{違|ちが}いで{列車|れっしゃ}に{乗|の}り{遅|おく}れた。",
-        "en": "I missed the train by a minute.",
-        "tatoeba_id": 162012
-      },
-      {
         "ja": "実際両者にはほとんど違いがない。",
         "furigana": "{実際|じっさい}{両者|りょうしゃ}にはほとんど{違|ちが}いがない。",
         "en": "In practice, there is little difference between the two.",
         "tatoeba_id": 149295
+      },
+      {
+        "ja": "両者の間には格段の違いがある。",
+        "furigana": "{両者|りょうしゃ}の{間|あいだ}には{格段|かくだん}の{違|ちが}いがある。",
+        "en": "There is a marked difference between them.",
+        "tatoeba_id": 78090
       }
     ]
   },
@@ -32139,10 +32134,10 @@
         "tatoeba_id": 197360
       },
       {
-        "ja": "ピン１本でさえ盗むのは罪である。",
-        "furigana": "ピン１{本|ほん}でさえ{盗|ぬす}むのは{罪|つみ}である。",
-        "en": "It is a sin to steal even a pin.",
-        "tatoeba_id": 197264
+        "ja": "彼は罪の気持ちがなくなっていった。",
+        "furigana": "{彼|かれ}は{罪|つみ}の{気持|きも}ちがなくなっていった。",
+        "en": "His sense of guilt was diminished.",
+        "tatoeba_id": 106850
       }
     ]
   },
@@ -36209,7 +36204,6 @@
       },
       {
         "ja": "その知らせが届いたのは２・３日たってからだった。",
-        "furigana": "その{知|し}らせが{届|とど}いたのは２・３{日|にち}たってからだった。",
         "en": "It was not until a few days later that the news arrived.",
         "tatoeba_id": 207988
       }
@@ -38408,15 +38402,14 @@
     "jmdict_id": 1476520,
     "examples": [
       {
-        "ja": "彼は教育畑で育った。",
-        "furigana": "{彼|かれ}は{教育|きょういく}{畑|はたけ}で{育|そだ}った。",
-        "en": "He has had a long teaching career.",
-        "tatoeba_id": 108343
-      },
-      {
         "ja": "春になると畑をほりかえして種をまきます。",
         "en": "When spring comes, they dig up the fields and plant seeds.",
         "tatoeba_id": 147634
+      },
+      {
+        "ja": "彼は教育畑で育った。",
+        "en": "He has had a long teaching career.",
+        "tatoeba_id": 108343
       }
     ]
   },
@@ -42260,7 +42253,6 @@
     "examples": [
       {
         "ja": "会員は５人に減った。",
-        "furigana": "{会員|かいいん}は５{人|にん}に{減|へ}った。",
         "en": "The number of members decreased to five.",
         "tatoeba_id": 185422
       },
@@ -46537,7 +46529,6 @@
     "examples": [
       {
         "ja": "あの店は８人の店員を雇っている。",
-        "furigana": "あの{店|みせ}は８{人|にん}の{店員|てんいん}を{雇|やと}っている。",
         "en": "That store employs eight clerks.",
         "tatoeba_id": 230540
       },

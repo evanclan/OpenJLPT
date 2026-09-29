@@ -6105,15 +6105,15 @@
     "jmdict_id": 1044070,
     "examples": [
       {
-        "ja": "４０人クラスで女子は１８人です。",
-        "furigana": "４０{人|にん}クラスで{女子|じょし}は１８{人|にん}です。",
-        "en": "The class of forty includes eighteen girls.",
-        "tatoeba_id": 235243
-      },
-      {
         "ja": "あいつはクラスでいちばんのまぬけだ。",
         "en": "He is the dumbest kid in the class.",
         "tatoeba_id": 234637
+      },
+      {
+        "ja": "このクラスには何人の男の子がいますか。",
+        "furigana": "このクラスには{何人|なんにん}の{男|おとこ}の{子|こ}がいますか。",
+        "en": "How many boys are there in this class?",
+        "tatoeba_id": 223857
       }
     ]
   },
@@ -9302,16 +9302,16 @@
     "jmdict_id": 1379380,
     "examples": [
       {
-        "ja": "このクラスには生徒が４０人いる。",
-        "furigana": "このクラスには{生徒|せいと}が４０{人|にん}いる。",
-        "en": "There are forty students in our class.",
-        "tatoeba_id": 223855
-      },
-      {
         "ja": "この学校はたくさんの生徒がいます。",
         "furigana": "この{学校|がっこう}はたくさんの{生徒|せいと}がいます。",
         "en": "This school has many students.",
         "tatoeba_id": 222600
+      },
+      {
+        "ja": "あなたは生徒ではありません。",
+        "furigana": "あなたは{生徒|せいと}ではありません。",
+        "en": "You are not a student.",
+        "tatoeba_id": 231798
       }
     ]
   },
@@ -9718,10 +9718,10 @@
         "tatoeba_id": 198206
       },
       {
-        "ja": "そこにいたのはせいぜい５０人だ。",
-        "furigana": "そこにいたのはせいぜい５０{人|にん}だ。",
-        "en": "There were barely fifty people there.",
-        "tatoeba_id": 213700
+        "ja": "気がつくと、そこにありました。",
+        "furigana": "{気|き}がつくと、そこにありました。",
+        "en": "It was there when I noticed it.",
+        "tatoeba_id": 183289
       }
     ]
   },
@@ -16218,7 +16218,6 @@
     "examples": [
       {
         "ja": "ウイスキーを１本持っています。",
-        "furigana": "ウイスキーを１{本|ほん}{持|も}っています。",
         "en": "I have a bottle of whiskey.",
         "tatoeba_id": 228339
       },
@@ -17438,10 +17437,10 @@
         "tatoeba_id": 92969
       },
       {
-        "ja": "左から５人目の男にキスしなさい。",
-        "furigana": "{左|ひだり}から５{人|にん}{目|め}の{男|おとこ}にキスしなさい。",
-        "en": "Kiss the fifth man from the left.",
-        "tatoeba_id": 170936
+        "ja": "３時間目にはフランス語があります。",
+        "furigana": "３{時間|じかん}{目|め}にはフランス{語|ご}があります。",
+        "en": "We have French third period.",
+        "tatoeba_id": 235310
       }
     ]
   },

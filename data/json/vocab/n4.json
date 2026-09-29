@@ -1738,10 +1738,10 @@
         "tatoeba_id": 214581
       },
       {
-        "ja": "おもちゃ売り場は５階です。",
-        "furigana": "おもちゃ{売|う}り{場|ば}は５{階|かい}です。",
-        "en": "The toy department is on the fifth floor.",
-        "tatoeba_id": 227489
+        "ja": "ビタミン剤売り場はどこですか。",
+        "furigana": "ビタミン{剤|ざい}{売|う}り{場|ば}はどこですか。",
+        "en": "Where's the aisle for vitamins?",
+        "tatoeba_id": 197587
       }
     ]
   },
@@ -10728,10 +10728,10 @@
         "tatoeba_id": 103952
       },
       {
-        "ja": "１０人用の畳の部屋はありますか。",
-        "furigana": "１０{人|にん}{用|よう}の{畳|たたみ}の{部屋|へや}はありますか。",
-        "en": "Do you have a tatami room for ten people?",
-        "tatoeba_id": 237458
+        "ja": "このわらのマット（日本語で畳）は、もはや手で作られない。",
+        "furigana": "このわらのマット（{日本語|にほんご}で{畳|たたみ}）は、もはや{手|て}で{作|つく}られない。",
+        "en": "These straw mats, called \"tatami\" in Japanese, are no longer made by hand.",
+        "tatoeba_id": 222975
       }
     ]
   },
@@ -13080,7 +13080,6 @@
     "examples": [
       {
         "ja": "私は２階建ての家に住んでいる。",
-        "furigana": "{私|わたし}は２{階建|かいだ}ての{家|いえ}に{住|す}んでいる。",
         "en": "I live in a two story house.",
         "tatoeba_id": 161991
       }
