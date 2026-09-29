@@ -6,7 +6,7 @@
 
 **The JLPT N5–N1 word, kanji and grammar lists: cleaned, cross-checked against JMdict, and free to use.**
 
-7,868 words · 2,383 kanji · 526 grammar points · example sentences for 95% of words
+7,811 words · 2,383 kanji · 526 grammar points · example sentences with furigana for 93% of words
 
 [![CI](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml/badge.svg)](https://github.com/evanclan/OpenJLPT/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/openjlpt?color=cb3837&label=npm)](https://www.npmjs.com/package/openjlpt)
@@ -18,7 +18,7 @@
 `npm i openjlpt` · `pip install openjlpt` ·
 **[日本語](https://github.com/evanclan/OpenJLPT/blob/main/README.ja.md)**
 
-<img src="https://raw.githubusercontent.com/evanclan/OpenJLPT/main/assets/demo.png" width="860" alt="An OpenJLPT word page with furigana, part of speech and example sentences, and the text analyzer coloring every kanji by JLPT level">
+<img src="https://raw.githubusercontent.com/evanclan/OpenJLPT/main/assets/demo.png" width="860" alt="An OpenJLPT word page (勉強) with furigana over its example sentences, and the text analyzer coloring every kanji by JLPT level">
 
 </div>
 
@@ -35,8 +35,9 @@ example sentences, and unclear licensing. OpenJLPT fixes the data and makes it e
 - **Verified against JMdict.** 99.7% of words are linked to their dictionary entry, which adds part
   of speech and a JMdict ID and catches wrong readings. [Hundreds of source errors are fixed](#how-the-data-is-built),
   each backed by a unit test.
-- **Real example sentences.** Tatoeba sentences for 95% of words are matched by *dictionary form*,
-  so 読む finds 読んでいる. Short, checked sentences come first.
+- **Real example sentences, with furigana.** Tatoeba sentences for 93% of words are matched by
+  *dictionary form*, so 読む finds 読んでいる. Short, checked sentences come first, and nine in ten
+  carry readings over every kanji.
 - **526 grammar points.** Original, reviewed explanations with formation rules, 2–3 examples each,
   and notes on easily confused patterns.
 - **Ready for your stack.** JSON, CSV, SQLite with full-text search, Anki, Yomitan, npm, PyPI, a CLI,
@@ -48,12 +49,12 @@ example sentences, and unclear licensing. OpenJLPT fixes the data and makes it e
 
 | Level | Words | Kanji | Grammar | |
 |:---:|---:|---:|---:|---|
-| **N5** | 661 | 84 | 81 | Beginner |
+| **N5** | 674 | 84 | 81 | Beginner |
 | **N4** | 630 | 169 | 98 | Elementary |
-| **N3** | 1,660 | 386 | 101 | Intermediate |
-| **N2** | 1,790 | 399 | 123 | Upper intermediate |
-| **N1** | 3,127 | 1,345 | 123 | Advanced |
-| **Total** | **7,868** | **2,383** | **526** | |
+| **N3** | 1,659 | 387 | 101 | Intermediate |
+| **N2** | 1,778 | 398 | 123 | Upper intermediate |
+| **N1** | 3,070 | 1,345 | 123 | Advanced |
+| **Total** | **7,811** | **2,383** | **526** | |
 
 Each word appears once, at the easiest level that lists it. The counts come from
 [`data/json/meta.json`](https://github.com/evanclan/OpenJLPT/blob/main/data/json/meta.json), which also records the upstream versions.
@@ -145,6 +146,7 @@ WHERE vocab_fts MATCH 'weather';
 | `findGrammar(pattern)` · `searchGrammar(q)` | `find_grammar(pattern)` · `search_grammar(q)` | grammar lookup and search |
 | `meta()` · `posLabels()` | `meta()` · `pos_labels()` | counts, source versions · part-of-speech legend |
 | `sample(items, n)` | `sample(items, n, rng)` | random picks for flashcards and quizzes |
+| `toRubyHtml(furigana)` | `to_ruby_html(furigana)` | an example's furigana as `<ruby>` HTML |
 | — | `query(sql, params)` · `connect()` | the bundled SQLite database (read-only) |
 
 ## Download
@@ -174,7 +176,12 @@ Every entry is validated against the [JSON Schemas](https://github.com/evanclan/
   "pos": ["v1", "vt"],
   "jmdict_id": 1358280,
   "examples": [
-    { "ja": "ちょうど食べたかったものでした。", "en": "That hit the spot.", "tatoeba_id": 202896 }
+    {
+      "ja": "ちょうど食べたかったものでした。",
+      "furigana": "ちょうど{食|た}べたかったものでした。",
+      "en": "That hit the spot.",
+      "tatoeba_id": 202896
+    }
   ]
 }
 ```
@@ -187,6 +194,7 @@ Every entry is validated against the [JSON Schemas](https://github.com/evanclan/
 | `pos` · `jmdict_id` | JMdict part-of-speech codes for the matching sense ([legend](https://github.com/evanclan/OpenJLPT/blob/main/data/json/pos.json): `v1` means "Ichidan verb"), and the JMdict entry number. |
 | `other_forms` · `other_readings` | Other spellings (あさって → 明後日) and readings (四 → よん). Optional. |
 | `examples` | Up to two Tatoeba sentences, with `tatoeba_id` for attribution. Optional. |
+| `examples[].furigana` | The sentence with readings over its kanji, in `{漢字\|かんじ}` notation. Present only when every kanji could be read with confidence. `toRubyHtml()` / `to_ruby_html()` turn it into `<ruby>` HTML. |
 
 </details>
 
@@ -294,7 +302,6 @@ them are approximations, not a guarantee of what appears on the test.
 
 ## Roadmap
 
-- [ ] Furigana for example sentences
 - [ ] Richer English meanings from JMdict alongside Waller's short glosses
 - [ ] Audio (native or TTS)
 - [ ] More example sentences for grammar points

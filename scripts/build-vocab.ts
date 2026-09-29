@@ -37,7 +37,7 @@ import {
   type Match,
 } from './lib/jmdict.ts';
 import { ExampleIndex, tatoebaAvailable, type Example } from './lib/examples.ts';
-import type { LemmaReader } from './lib/furigana.ts';
+import type { Lexicon } from './lib/furigana.ts';
 
 export interface Vocab {
   id: string;
@@ -129,25 +129,36 @@ function kanjiLevels(): Map<string, string> {
 }
 
 /**
- * The reading of a dictionary form in Tatoeba's word index: its only reading, or its only
- * common one. (The index spells out the reading wherever the form alone is ambiguous.)
+ * Readings of dictionary forms for furigana. A form's reading is its only reading, or its
+ * only common one: Tatoeba's word index spells the reading out wherever the form alone is
+ * ambiguous.
  */
-function lemmaReader(jmIndex: JmdictIndex): LemmaReader {
+function lexicon(jmIndex: JmdictIndex): Lexicon {
   const cache = new Map<string, string | undefined>();
-  return (headword) => {
-    if (cache.has(headword)) return cache.get(headword);
-    const readings = new Map<string, boolean>();
-    for (const e of jmIndex.entriesWithKanji(headword)) {
-      for (const r of readingsFor(e, headword)) {
-        if (r.inf.some((i) => ['ik', 'ok', 'rk', 'sk'].includes(i))) continue;
-        const h = toHiragana(r.text);
-        readings.set(h, (readings.get(h) ?? false) || isCommonReading(r));
+  const RARE = ['ik', 'ok', 'rk', 'sk'];
+  return {
+    reading(headword) {
+      if (cache.has(headword)) return cache.get(headword);
+      const readings = new Map<string, boolean>();
+      for (const e of jmIndex.entriesWithKanji(headword)) {
+        for (const r of readingsFor(e, headword)) {
+          if (r.inf.some((i) => RARE.includes(i))) continue;
+          const h = toHiragana(r.text);
+          readings.set(h, (readings.get(h) ?? false) || isCommonReading(r));
+        }
       }
-    }
-    const common = [...readings].filter(([, c]) => c).map(([h]) => h);
-    const out = readings.size === 1 ? [...readings.keys()][0] : common.length === 1 ? common[0] : undefined;
-    cache.set(headword, out);
-    return out;
+      const common = [...readings].filter(([, c]) => c).map(([h]) => h);
+      const out = readings.size === 1 ? [...readings.keys()][0] : common.length === 1 ? common[0] : undefined;
+      cache.set(headword, out);
+      return out;
+    },
+    affixReadings(headword, kind) {
+      const pos = kind === 'prefix' ? ['pref', 'n-pref'] : ['suf', 'n-suf', 'ctr'];
+      return jmIndex
+        .entriesWithKanji(headword)
+        .filter((e) => e.senses.some((s) => s.pos.some((p) => pos.includes(p))))
+        .flatMap((e) => readingsFor(e, headword).filter((r) => !r.inf.some((i) => RARE.includes(i))).map((r) => toHiragana(r.text)));
+    },
   };
 }
 
@@ -160,7 +171,7 @@ function build() {
   const jmIndex = new JmdictIndex(jm.entries);
   console.log(`JMdict: ${jm.entries.length} entries (created ${jm.created ?? 'unknown'})`);
 
-  const examples = tatoebaAvailable() ? new ExampleIndex(kanjiLevels(), undefined, lemmaReader(jmIndex)) : null;
+  const examples = tatoebaAvailable() ? new ExampleIndex(kanjiLevels(), undefined, lexicon(jmIndex)) : null;
   if (examples) console.log(`Example pool: ${examples.size} Tatoeba sentence pairs`);
   else console.warn('⚠ Tatoeba cache not found — building vocabulary WITHOUT example sentences. Run `npm run fetch`.');
 

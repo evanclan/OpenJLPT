@@ -27,6 +27,11 @@ A big data-quality release: every word is verified against JMdict, grammar grows
 - **Anki decks** (per level and complete) and a **Yomitan** JLPT-level dictionary.
 - `sources/waller/`: a verbatim snapshot of the upstream level lists, for reproducible builds.
 - `sources/corrections/vocab.json`: reviewed fixes for individual source cards.
+- **Furigana on example sentences** (`examples[].furigana`, in `{漢字|かんじ}` notation) for nine
+  in ten sentences, shown on the website, in flashcards and in the Anki decks; `toRubyHtml()` /
+  `to_ruby_html()` render it as HTML ruby.
+- 172 jōyō kanji missing from Waller's pre-2010 lists (誰, 頃, even 分), marked `supplementary`.
+- `sources/ids.lock.json` freezes every word's ID, so fixes to a spelling or reading never change it.
 
 ### Fixed
 - 1,096 kana-only words had an empty `reading`.
@@ -38,13 +43,22 @@ A big data-quality release: every word is verified against JMdict, grammar grows
   とちゅう, 灰皿 はいさら → はいざら, 著 → 着, 田ぼ → 田んぼ).
 - Words listed at several levels now appear once, at the easiest level; other spellings are kept in `other_forms`.
 - Example sentences are matched by dictionary form (via Tatoeba's word index) instead of
-  substring, so there are no more false matches (あれ in 冷徹であれ). Coverage rose from 89% to 95%.
+  substring, so there are no more false matches (あれ in 冷徹であれ, the kanji word 蚊 in the
+  particle か). 93% of words have examples.
+- Irregular and outdated spellings use the usual form (明い → 明るい, 此の → この, 攫う → さらう),
+  keeping the old one in `other_forms`; archaic readings give way to the common one (魚 うお →
+  さかな); cards whose English described a different word are fixed (人気 にんき "sign of life" →
+  "popularity", 角 すみ "horn" → つの).
+- Spreadsheet junk (`#NAME?`, `TODO`) removed from meanings; dictionary tags spelled out
+  ((sl) → (slang)); particle は romanised *wa* (実は → jitsuwa).
 - The monthly data refresh had failed on every run because its token couldn't push.
 - `find_word` / `findKanji` no longer scan the whole dataset on every call.
 
 ### Changed
 - Vocabulary is sorted by reading within each level; grammar keeps teaching order.
 - Mis-levelled seed grammar points were moved (for example 〜がち and 〜だらけ from N1 to N3).
+- Basic greetings (こんにちは, ありがとう, すみません…) and すぐ, which Waller's lists place above
+  N5, are at N5.
 - Python `examples`, `pos` and similar list fields default to `[]` instead of `None`.
 
 ## [0.2.0] — 2026-07-21

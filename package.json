@@ -1,7 +1,7 @@
 {
   "name": "openjlpt",
   "version": "0.3.0",
-  "description": "Open, correctly-licensed JLPT N5–N1 dataset — 7,800+ words, 2,200 kanji and 500+ grammar points with example sentences, as JSON, CSV and SQLite, plus a typed loader and CLI.",
+  "description": "Open, correctly-licensed JLPT N5–N1 dataset — 7,800+ words, 2,300+ kanji and 500+ grammar points with example sentences, as JSON, CSV and SQLite, plus a typed loader and CLI.",
   "keywords": [
     "anki",
     "cli",

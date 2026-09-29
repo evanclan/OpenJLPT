@@ -5,8 +5,8 @@ import { parseBLine } from '../../scripts/lib/examples.ts';
 
 // A tiny stand-in for the JMdict lookup the build uses.
 const READINGS: Record<string, string> = { 本: 'ほん', 読む: 'よむ', 毎日: 'まいにち', 雨: 'あめ', 降る: 'ふる', 来る: 'くる', 見る: 'みる', 時間: 'じかん', 勉強: 'べんきょう' };
-const read = (w: string) => READINGS[w];
-const ruby = (ja: string, bline: string) => annotate(ja, parseBLine(bline), read);
+const lex = { reading: (w: string) => READINGS[w], affixReadings: (w: string, kind: string) => (w === '車' && kind === 'suffix' ? ['しゃ'] : []) };
+const ruby = (ja: string, bline: string) => annotate(ja, parseBLine(bline), lex);
 
 test('alignReading splits a word into kanji runs and kana', () => {
   assert.equal(toNotation(alignReading('食べる', 'たべる')!), '{食|た}べる');
@@ -39,6 +39,12 @@ test('no furigana when any kanji is uncertain', () => {
   assert.equal(ruby('東京で本を読む。', '本 を 読む'), undefined);
   // No reading known for 蚊.
   assert.equal(ruby('蚊がいる。', '蚊 が 居る{いる}'), undefined);
-  // A numeral before a counter may change its sound (三本 さんぼん).
-  assert.equal(annotate('三本ある。', parseBLine('三(さん) 本(ほん) 有る{ある}'), read), undefined);
+  // A numeral before a counter may change its sound (三本 さんぼん), and so may the counter.
+  assert.equal(annotate('三本ある。', parseBLine('三(さん) 本(ほん) 有る{ある}'), lex), undefined);
+  assert.equal(ruby('１０本ある。', '本(ほん) 有る{ある}'), undefined);
+  assert.equal(ruby('１０時間勉強した。', '時間 勉強{勉強した}'), '１０{時間|じかん}{勉強|べんきょう}した。');
+  // A lone kanji inside a compound may read differently there (新型車 しんがたしゃ).
+  const car = { ...lex, reading: (w: string) => ({ ...READINGS, 新型: 'しんがた', 車: 'くるま' })[w] };
+  assert.equal(annotate('新型車を見た。', parseBLine('新型 車 を 見る{見た}'), car), undefined);
+  assert.equal(annotate('車を見た。', parseBLine('車 を 見る{見た}'), car), '{車|くるま}を{見|み}た。');
 });

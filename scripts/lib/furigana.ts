@@ -14,8 +14,13 @@
 import { hasKanji, toHiragana } from './kana.ts';
 import type { IndexToken } from './examples.ts';
 
-/** The reading of a dictionary form, or undefined when it has several plausible ones. */
-export type LemmaReader = (headword: string) => string | undefined;
+/** What the annotator needs from a dictionary. */
+export interface Lexicon {
+  /** The reading of a dictionary form, or undefined when it has several plausible ones. */
+  reading(headword: string): string | undefined;
+  /** Readings the form has when used as a prefix or suffix (車 as a suffix is しゃ). */
+  affixReadings?(headword: string, kind: 'prefix' | 'suffix'): string[];
+}
 
 export interface Segment {
   text: string;
@@ -26,6 +31,10 @@ export interface Segment {
 const KANJI_RUN = /[㐀-䶿一-鿿豈-﫿々〆ヶ]+/g;
 const isKanjiRun = (s: string) => /^[㐀-䶿一-鿿豈-﫿々〆ヶ]+$/.test(s);
 const NUMERAL = /^[一二三四五六七八九十百千万何数幾]+$/;
+const NUMBER_CHAR = /[0-9０-９一二三四五六七八九十百千万何数幾]/;
+/** Counters whose sound changes after a number (1本 いっぽん, 3階 さんがい, 2人 ふたり, 3日 みっか). */
+const SHIFTING_COUNTER = /^[本杯匹分泊発百千階軒足羽日人箱袋方敗版片遍辺歩品票俵拍間貫筆]/;
+const isKanjiChar = (c: string | undefined) => !!c && isKanjiRun(c);
 
 /** Split a word into alternating kanji runs and other text. */
 function runs(word: string): string[] {
@@ -102,7 +111,7 @@ export const stripFurigana = (s: string) => s.replace(/\{([^|{}]+)\|[^|{}]+\}/g,
  * Annotate a sentence from its B-line tokens. Returns undefined unless every kanji in the
  * sentence is covered by a token with a confident reading.
  */
-export function annotate(ja: string, tokens: IndexToken[], readLemma: LemmaReader): string | undefined {
+export function annotate(ja: string, tokens: IndexToken[], lexicon: Lexicon): string | undefined {
   if (/[{}|]/.test(ja)) return undefined;
   let out = '';
   let pos = 0;
@@ -113,10 +122,22 @@ export function annotate(ja: string, tokens: IndexToken[], readLemma: LemmaReade
     if (at < 0) return undefined;
     const gap = ja.slice(pos, at);
     if (hasKanji(gap)) return undefined; // a kanji no token accounts for
-    // A numeral before a counter may change its sound (三本 さんぼん, 一杯 いっぱい).
-    if (NUMERAL.test(t.headword) && hasKanji(ja[at + surface.length] ?? '')) return undefined;
-    const reading = t.reading ? toHiragana(t.reading) : readLemma(t.headword);
+    const before = ja[at - 1];
+    const after = ja[at + surface.length];
+    // A numeral before a counter may change its sound (三本 さんぼん, 一杯 いっぱい), and so
+    // may the counter (１０本 じっぽん).
+    if (NUMERAL.test(t.headword) && isKanjiChar(after)) return undefined;
+    if (before && NUMBER_CHAR.test(before) && SHIFTING_COUNTER.test(surface)) return undefined;
+    const reading = t.reading ? toHiragana(t.reading) : lexicon.reading(t.headword);
     if (!reading) return undefined;
+    // A lone kanji right after (or before) another kanji may be a suffix (prefix) with its own
+    // reading: 新型車 is しんがたしゃ, not くるま. Trust it only when the index spells the
+    // reading out or the dictionary knows no such affix reading.
+    if (!t.reading && [...t.headword].filter(isKanjiChar).length === 1 && lexicon.affixReadings) {
+      const differs = (kind: 'prefix' | 'suffix') => lexicon.affixReadings!(t.headword, kind).some((r) => r !== reading);
+      if (isKanjiChar(surface[0]) && isKanjiChar(before) && differs('suffix')) return undefined;
+      if (isKanjiChar(surface.at(-1)) && isKanjiChar(after) && differs('prefix')) return undefined;
+    }
     const ruby = surfaceRuby(t.headword, reading, surface);
     if (!ruby) return undefined;
     out += gap + toNotation(ruby);

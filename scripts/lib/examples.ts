@@ -18,7 +18,7 @@ import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { CACHE_DIR } from './util.ts';
 import { hasKanji, toHiragana } from './kana.ts';
-import { annotate, type LemmaReader } from './furigana.ts';
+import { annotate, type Lexicon } from './furigana.ts';
 
 export interface Example {
   ja: string;
@@ -130,16 +130,16 @@ export class ExampleIndex {
   private charIndex = new Map<string, number[]>();
   /** kanji → JLPT level rank (5 = N5 ... 1 = N1), for difficulty scoring. */
   private kanjiRank = new Map<string, number>();
-  private readLemma?: LemmaReader;
+  private lexicon?: Lexicon;
   private furigana = new Map<number, string | undefined>();
 
   /**
    * @param kanjiLevels kanji → JLPT level ("N5"…"N1"), used to prefer sentences with easier kanji
    * @param dir directory holding the Tatoeba exports (defaults to .cache/tatoeba)
-   * @param readLemma reading of a dictionary form (from JMdict); enables furigana
+   * @param lexicon readings of dictionary forms (from JMdict); enables furigana
    */
-  constructor(kanjiLevels: Map<string, string> = new Map(), dir = TATOEBA_DIR, readLemma?: LemmaReader) {
-    this.readLemma = readLemma;
+  constructor(kanjiLevels: Map<string, string> = new Map(), dir = TATOEBA_DIR, lexicon?: Lexicon) {
+    this.lexicon = lexicon;
     for (const [ch, level] of kanjiLevels) this.kanjiRank.set(ch, Number(level.slice(1)));
 
     const readTsv = (file: string, fn: (cols: string[]) => void) => {
@@ -202,10 +202,10 @@ export class ExampleIndex {
 
   /** Furigana for a pooled sentence, if every kanji in it can be read with confidence. */
   private furiganaOf(s: number): string | undefined {
-    if (!this.readLemma) return undefined;
+    if (!this.lexicon) return undefined;
     if (!this.furigana.has(s)) {
       const { ja, bline } = this.pool[s];
-      this.furigana.set(s, bline ? annotate(ja, parseBLine(bline), this.readLemma) : undefined);
+      this.furigana.set(s, bline ? annotate(ja, parseBLine(bline), this.lexicon) : undefined);
     }
     return this.furigana.get(s);
   }
@@ -225,7 +225,7 @@ export class ExampleIndex {
     }
     const kanaOnly = wordKanji.size > 0 && ![...wordKanji].some((k) => s.ja.includes(k));
     // Sentences we can give furigana are easier to read; prefer them when furigana is on.
-    const bare = this.readLemma && hasKanji(s.ja) && !this.furiganaOf(i) ? 2 : 0;
+    const bare = this.lexicon && hasKanji(s.ja) && !this.furiganaOf(i) ? 2 : 0;
     return (checked ? 0 : 4) + Math.abs(s.ja.length - IDEAL_LEN) / 4 + hard * 1.5 + (kanaOnly ? 5 : 0) + bare;
   }
 

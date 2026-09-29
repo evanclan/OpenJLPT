@@ -1,7 +1,7 @@
 [project]
 name = "openjlpt"
 version = "0.3.0"
-description = "Open JLPT N5–N1 dataset for Python — 7,800+ words, 2,200 kanji, 500+ grammar points with example sentences, plus SQLite and a CLI"
+description = "Open JLPT N5–N1 dataset for Python — 7,800+ words, 2,300+ kanji, 500+ grammar points with example sentences, plus SQLite and a CLI"
 readme = "README.md"
 license = "CC-BY-SA-4.0"
 requires-python = ">=3.9"

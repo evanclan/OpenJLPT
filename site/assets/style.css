@@ -158,7 +158,8 @@ h3 { font-size: 17px; margin: 20px 0 8px; }
 .ex-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
 .furi-toggle { font-size: 14px; color: var(--muted); cursor: pointer; white-space: nowrap; }
 .examples .ja { line-height: 2.1; }
-.examples .ja rt { font-size: 0.55em; color: var(--muted); }
+.examples .ja ruby { ruby-align: center; }
+.examples .ja rt { font-size: 0.5em; color: var(--muted); letter-spacing: 0; }
 .no-furigana .examples rt { display: none; }
 .no-furigana .examples .ja { line-height: inherit; }
 .reading { font-family: var(--jp); font-size: 22px; color: var(--muted); }
