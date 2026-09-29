@@ -18,6 +18,7 @@ import { parseHeadword, parseMeanings, parseReading } from './lib/normalize.ts';
 import { hasKanji, isKana, readingFits, toHiragana, toRomaji } from './lib/kana.ts';
 import {
   JmdictIndex,
+  bestFit,
   commonReading,
   completeGloss,
   entryStems,
@@ -146,6 +147,7 @@ function build() {
     recommon: [] as string[],
     reglossed: [] as string[],
     switched: [] as string[],
+    rematched: [] as string[],
     realigned: [] as string[],
     repaired: 0,
   };
@@ -305,6 +307,7 @@ function build() {
   list('readings realigned with the written form', log.realigned);
   list('glosses replaced (did not match the word)', log.reglossed);
   list('switched to the word the gloss describes', log.switched);
+  list('moved to the dictionary entry the gloss describes', log.rematched);
   list('skipped, no meaning', log.noMeaning);
   if (examples) console.log(`  example coverage: ${withExamples}/${total} words (${Math.round((withExamples / total) * 100)}%)`);
 }
@@ -318,6 +321,7 @@ type Log = {
   recommon: string[];
   reglossed: string[];
   switched: string[];
+  rematched: string[];
   realigned: string[];
   repaired: number;
 };
@@ -350,7 +354,13 @@ const readingElement = (entry: JmEntry, keb: string, reading: string) =>
   readingsFor(entry, keb).find((r) => toHiragana(r.text) === toHiragana(reading));
 
 /** Match a cleaned card to JMdict and apply the dictionary-backed repairs. */
-function matchCandidate(v: Cleaned, fix: Correction | undefined, level: Level, jmIndex: JmdictIndex, log: Log): Omit<Candidate, 'cardKey' | 'level'> | undefined {
+function matchCandidate(
+  v: Cleaned,
+  fix: Correction | undefined,
+  level: Level,
+  jmIndex: JmdictIndex,
+  log: Log,
+): Omit<Candidate, 'cardKey' | 'level'> | undefined {
   const tag = `${level} ${v.word}`;
   // A kana headword is its own reading (コピーする, not the matched stem's コピー).
   if (isKana(v.word)) v.reading = v.word;
@@ -396,33 +406,39 @@ function matchCandidate(v: Cleaned, fix: Correction | undefined, level: Level, j
     }
   } else {
     if (!v.reading) v.reading = m.reading;
+    const ws = stems(v.meanings);
     // Irregular or out-dated spelling (明い, 落る) that isn't in common use either.
     if (m.keb && isIrregularSpelling(m.entry, m.keb) && !isCommonSpelling(m.entry, m.keb)) {
-      // Often the spelling is regular in *another* entry that fits the gloss: the card
-      // paired it with an archaic reading (金庫 かねぐら is really 金庫 きんこ "safe").
-      const ws = stems(v.meanings);
+      // Sometimes the spelling is regular in *another* entry that fits the gloss: the card
+      // paired it with an archaic reading (金庫 かねぐら is really 金庫 きんこ "safe"), or with
+      // the wrong word (後 うしろ "afterwards" is 後 のち). Switch only on that evidence;
+      // otherwise the card's reading stands and only the spelling changes (集る あつまる is
+      // 集まる, not 集る たかる; 居る いる is いる, not the humble 居る おる).
       const keb = m.keb;
-      const regular = jmIndex
-        .entriesWithKanji(keb)
-        .filter((e) => e !== m!.entry && !isIrregularSpelling(e, keb) && commonReading(e, keb) && overlap(ws, entryStems(e)) >= 0.5)[0];
-      const r = regular && commonReading(regular, keb);
-      const next = r && jmIndex.evaluate(regular, keb, r.text, tokens(v.meanings));
+      const fitHere = overlap(ws, entryStems(m.entry));
+      const readingIsCommon = isCommonReading(readingElement(m.entry, keb, v.reading));
+      const alt = bestFit(jmIndex.entriesWithKanji(keb).filter((e) => e !== m!.entry && !isIrregularSpelling(e, keb) && commonReading(e, keb)), ws);
+      const r = alt && (alt.fit > fitHere || !readingIsCommon) ? commonReading(alt.e, keb) : undefined;
+      const next = alt && r && jmIndex.evaluate(alt.e, keb, r.text, tokens(v.meanings));
       if (next && r) {
-        log.recommon.push(`${tag} [${v.reading} → ${r.text}]`);
-        v.otherReadings = [v.reading, ...v.otherReadings];
+        // A different word, so the card's reading is not one of its readings.
+        log.recommon.push(`${tag} [${v.reading} → ${r.text}] (JMdict ${next.entry.seq})`);
         v.reading = r.text;
         m = next;
       } else {
-        const usual = usualSpelling(m.entry, v.reading);
+        // Words usually written in kana (攫う → さらう) keep their usual kanji as another form.
+        const kanji = usualSpelling(m.entry, v.reading);
+        const usual = m.entry.senses[m.sense]?.misc.includes('uk') ? v.reading : kanji;
         if (usual && usual !== v.word) {
           log.respelled.push(`${tag} → ${usual}`);
-          v.otherForms = [v.word, ...v.otherForms];
+          v.otherForms = [...(kanji && kanji !== usual ? [kanji] : []), v.word, ...v.otherForms];
           v.word = usual;
-          m = { ...m, keb: usual };
+          m = { ...m, keb: hasKanji(usual) ? usual : undefined };
         }
       }
     }
-    // Rare or archaic reading (黄色 おうしょく) when the spelling has a common one.
+    // Rare or archaic reading (黄色 おうしょく, 梯子 ていし) when the spelling has a common one.
+    // Deliberate second words (汚す けがす beside 汚す よごす) are pinned in the corrections file.
     if (m.keb && !fix?.set?.reading) {
       const current = readingElement(m.entry, m.keb, v.reading);
       const common = commonReading(m.entry, m.keb);
@@ -435,14 +451,16 @@ function matchCandidate(v: Cleaned, fix: Correction | undefined, level: Level, j
     // The card mixed up two words: its gloss shares nothing with the matched entry but
     // fits another entry with the same spelling (人気 にんき "sign of life" is ひとけ;
     // 生物 せいぶつ "raw food" is なまもの). A gloss that merely paraphrases is kept.
-    const ws = stems(v.meanings);
     if (ws.size > 0 && !fix?.set?.meanings && overlap(ws, entryStems(m.entry)) === 0) {
       const others = (m.keb ? jmIndex.entriesWithKanji(m.keb) : jmIndex.entriesWithReading(v.word)).filter((e) => e !== m!.entry);
-      const alt = others
-        .map((e) => ({ e, fit: overlap(ws, entryStems(e)) }))
-        .filter((x) => x.fit >= 0.5)
-        .sort((a, b) => b.fit - a.fit)[0];
-      if (alt) {
+      const alt = bestFit(others, ws);
+      // Same kanji spelling *and* reading: the card simply belongs to that entry (尤も もっとも
+      // "plausible" is not 最も もっとも "most"). Kana homophones are no such evidence.
+      const rematch = alt && m.keb && readingElement(alt.e, m.keb, v.reading) ? jmIndex.evaluate(alt.e, m.keb, v.reading, tokens(v.meanings)) : undefined;
+      if (rematch) {
+        log.rematched.push(`${tag} [${v.reading}] JMdict ${m.entry.seq} → ${rematch.entry.seq}`);
+        m = rematch;
+      } else if (alt) {
         // Keep the card's reading only if that spelling+reading is the common word;
         // 反る read かえる is a rare spelling of 返る, while 反る (そる) is the gloss's word.
         const readingIsCommon = m.keb
@@ -452,7 +470,6 @@ function matchCandidate(v: Cleaned, fix: Correction | undefined, level: Level, j
         const next = r ? jmIndex.evaluate(alt.e, m.keb, r.text, tokens(v.meanings)) : undefined;
         if (!readingIsCommon && next && r) {
           log.switched.push(`${tag} [${v.reading} → ${r.text}] ${v.meanings.slice(0, 2).join('; ')}`);
-          v.otherReadings = [v.reading, ...v.otherReadings];
           v.reading = r.text;
           m = next;
         } else {

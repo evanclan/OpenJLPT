@@ -40,5 +40,9 @@
   {"level": "N1", "front": "潜る", "why": "Card mixes くぐる and もぐる and has a typo (drive for dive); N1 keeps くぐる.", "set": {"reading": "くぐる", "meanings": ["to pass through", "to go under", "to slip through", "to evade"]}},
   {"level": "N1", "front": "焦げ茶", "why": "Gloss is wrong (焦げ茶 is a colour).", "set": {"meanings": ["dark brown", "umber"]}},
   {"level": "N1", "front": "仮令", "why": "'example' belongs to 例え, not 仮令.", "set": {"meanings": ["even if", "if", "though", "although"]}},
-  {"level": "N1", "front": "し", "why": "Obscure numeral (10^24) written with a non-jōyō kanji; not JLPT vocabulary.", "drop": true}
+  {"level": "N1", "front": "し", "why": "Obscure numeral (10^24) written with a non-jōyō kanji; not JLPT vocabulary.", "drop": true},
+  {"level": "N2", "front": "反る", "why": "Reading belongs to 返る; 反る \"to warp\" is read そる.", "set": {"reading": "そる"}},
+  {"level": "N1", "front": "いく", "why": "Only a slang sense of 行く (already at N5); not a separate word.", "drop": true},
+  {"level": "N1", "front": "汚す", "why": "A second word: けがす \"to disgrace\"; 汚す よごす \"to soil\" is at N2.", "set": {"reading": "けがす"}},
+  {"level": "N1", "front": "未だ", "why": "A second word: literary いまだ \"as yet\"; 未だ まだ is at N3.", "set": {"reading": "いまだ"}}
 ]

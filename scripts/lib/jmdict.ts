@@ -143,6 +143,17 @@ export function overlap(a: Set<string>, b: Set<string>): number {
   return hit / a.size;
 }
 
+/**
+ * The entry among `entries` whose glosses best fit the stems `ws` (at least `min`). Ties go
+ * to the entry whose *first* sense fits better (角 "horn" is つの, not かく's sixth sense).
+ */
+export function bestFit(entries: JmEntry[], ws: Set<string>, min = 0.5): { e: JmEntry; fit: number } | undefined {
+  return entries
+    .map((e) => ({ e, fit: overlap(ws, entryStems(e)), first: overlap(ws, stems(e.senses[0]?.gloss ?? [])) }))
+    .filter((x) => x.fit >= min)
+    .sort((a, b) => b.fit - a.fit || b.first - a.first || a.e.seq - b.e.seq)[0];
+}
+
 /** Tokens of every gloss in an entry. */
 export const entryTokens = (entry: JmEntry) => tokens(entry.senses.flatMap((s) => s.gloss));
 
@@ -345,7 +356,9 @@ export class JmdictIndex {
 
     let score = 0;
     const k = keb ? entry.kanji.find((x) => x.text === keb) : undefined;
-    const pri = [...(k?.pri ?? []), ...(readingEl?.pri ?? [])];
+    // How common the *spelling* is: a rare kanji form of a common word (尤も listed under
+    // 最も) must not borrow the reading's priority.
+    const pri = keb ? (k?.pri ?? []) : (readingEl?.pri ?? []);
     if (isCommon(pri)) score += 3;
     score += (99 - nfRank(pri)) / 50; // up to ~2 for the most frequent words
     if (k?.inf.some((i) => RARE_FORMS.has(i))) score -= 2;
