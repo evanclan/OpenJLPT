@@ -1,1233 +1,1346 @@
-character,level,strokes,grade,freq,onyomi,kunyomi,meanings
-氏,N1,4,4,84,シ,うじ; -うじ,family name; surname; clan
-統,N1,12,5,125,トウ,す.べる,overall; relationship; ruling; governing
-保,N1,9,5,146,ホ; ホウ,たも.つ,protect; guarantee; keep; preserve; sustain; support
-第,N1,11,3,160,ダイ; テイ,,No.; residence
-結,N1,12,4,162,ケツ; ケチ,むす.ぶ; ゆ.う; ゆ.わえる,tie; bind; contract; join; organize; do up hair; fasten
-派,N1,9,6,164,ハ,,faction; group; party; clique; sect; school
-案,N1,10,4,206,アン,つくえ,plan; suggestion; draft; ponder; fear; proposition; idea; expectation; worry; table; bench
-策,N1,12,6,209,サク,,scheme; plan; policy; step; means
-基,N1,11,5,241,キ,もと; もとい,fundamentals; radical (chem); counter for machines; foundation
-価,N1,8,5,250,カ; ケ,あたい,value; price
-提,N1,12,5,254,テイ; チョウ; ダイ,さ.げる,propose; take along; carry in hand
-挙,N1,10,4,257,キョ,あ.げる; あ.がる; こぞ.る,raise; plan; project; behavior; actions
-応,N1,7,5,266,オウ; ヨウ; -ノウ,あた.る; まさに; こた.える,apply; answer; yes; OK; reply; accept
-企,N1,6,8,278,キ,くわだ.てる; たくら.む,undertake; scheme; design; attempt; plan
-検,N1,12,5,290,ケン,しら.べる,examination; investigate
-藤,N1,18,8,291,トウ; ドウ,ふじ,wisteria
-沢,N1,7,8,296,タク,さわ; うるお.い; うるお.す; つや,swamp; marsh; brilliance; grace
-裁,N1,12,6,297,サイ,た.つ; さば.く,tailor; judge; decision; cut out (pattern)
-証,N1,12,5,306,ショウ,あかし,evidence; proof; certificate
-援,N1,12,8,312,エン,,abet; help; save
-施,N1,9,8,323,シ; セ,ほどこ.す,give; bestow; perform; alms
-井,N1,4,4,339,セイ; ショウ,い,well; well crib; town; community
-護,N1,20,5,351,ゴ,まも.る,safeguard; protect
-展,N1,10,6,352,テン,,unfold; expand
-態,N1,14,5,353,タイ,わざ.と,attitude; condition; figure; appearance; voice (of verbs)
-鮮,N1,17,8,355,セン,あざ.やか,fresh; vivid; clear; brilliant; Korea
-視,N1,11,6,362,シ,み.る,inspection; regard as; see; look at
-条,N1,7,5,363,ジョウ; チョウ; デキ,えだ; すじ,"article; clause; counter for articles, clauses, paragraphs, etc.; twig; item; stripe; streak"
-幹,N1,13,5,364,カン,みき,tree trunk; main part; talent; capability
-独,N1,9,5,365,ドク; トク,ひと.り,single; alone; spontaneously; Germany
-宮,N1,10,3,367,キュウ; グウ; ク; クウ,みや,Shinto shrine; constellations; palace; princess
-率,N1,11,5,383,ソツ; リツ; シュツ,ひき.いる,ratio; rate; proportion; %; factor; lead; spearhead; command
-衛,N1,16,5,400,エイ; エ,,defense; protection
-張,N1,11,5,403,チョウ,は.る; -は.り; -ば.り,counter for bows & stringed instruments; stretch; spread; put up (tent)
-監,N1,15,8,408,カン,,oversee; official; govt office; rule; administer
-環,N1,17,8,409,カン,わ,ring; circle; loop
-審,N1,15,8,412,シン,つまび.らか; つぶさ.に,hearing; judge; trial
-義,N1,13,5,415,ギ,,righteousness; justice; morality; honor; loyalty; meaning
-訴,N1,12,8,427,ソ,うった.える,accusation; sue; complain of pain; appeal to
-株,N1,10,6,432,シュ,かぶ,stocks; stump; shares; stock; counter for small plants
-姿,N1,9,6,441,シ,すがた,figure; form; shape
-閣,N1,14,6,444,カク,,tower; tall building; palace
-衆,N1,12,6,450,シュウ; シュ,おお.い,masses; great numbers; multitude; populace
-評,N1,12,5,454,ヒョウ,,evaluate; criticism; comment
-影,N1,15,8,464,エイ,かげ,shadow; silhouette; phantom
-松,N1,8,4,471,ショウ,まつ,pine tree
-撃,N1,15,8,473,ゲキ,う.つ,beat; attack; defeat; conquer
-佐,N1,7,4,474,サ,,assistant; help
-核,N1,10,8,475,カク,,nucleus; core; kernel
-整,N1,16,3,478,セイ,ととの.える; ととの.う,organize; arranging; tune; tone; meter; key (music)
-融,N1,16,8,481,ユウ,と.ける; と.かす,dissolve; melt
-製,N1,14,5,488,セイ,,made in...; manufacture
-票,N1,11,4,489,ヒョウ,,ballot; label; ticket; sign
-渉,N1,11,8,499,ショウ,わた.る,ford; go cross; transit; ferry; import; involve
-響,N1,20,8,502,キョウ,ひび.く,echo; sound; resound; ring; vibrate
-推,N1,11,6,507,スイ,お.す,conjecture; infer; guess; suppose; support; push (for)
-請,N1,15,8,524,セイ; シン; ショウ,こ.う; う.ける,solicit; invite; ask
-器,N1,15,4,525,キ,うつわ,utensil; vessel; receptacle; implement; instrument; ability; container; tool; set
-士,N1,3,5,526,シ,さむらい,gentleman; scholar; samurai; samurai radical (no. 33)
-討,N1,10,6,528,トウ,う.つ,chastise; attack; defeat; destroy; conquer
-攻,N1,7,8,532,コウ,せ.める,aggression; attack; criticize; polish
-崎,N1,11,4,533,キ,さき; さい; みさき,promontory; cape; spit
-督,N1,13,8,534,トク,,coach; command; urge; lead; supervise
-授,N1,11,5,535,ジュ,さず.ける; さず.かる,impart; instruct; grant; confer
-催,N1,13,8,536,サイ,もよう.す; もよお.す,sponsor; hold (a meeting); give (a dinner)
-及,N1,3,8,544,キュウ,およ.ぶ; およ.び; および; およ.ぼす,reach out; exert; exercise; cause
-憲,N1,16,6,551,ケン,,constitution; law
-離,N1,19,8,555,リ,はな.れる; はな.す,detach; separation; disjoin; digress
-激,N1,16,6,560,ゲキ,はげ.しい,violent; get excited; enraged; chafe; incite
-摘,N1,14,8,564,テキ,つ.む,pinch; pick; pluck; trim; clip; summarize
-系,N1,7,6,567,ケイ,,lineage; system
-批,N1,7,6,568,ヒ,,criticism; strike
-郎,N1,9,8,569,ロウ; リョウ,おとこ,son; counter for sons
-健,N1,11,4,572,ケン,すこ.やか,healthy; health; strength; persistence
-盟,N1,13,6,587,メイ,,alliance; oath
-従,N1,10,6,601,ジュウ; ショウ; ジュ,したが.う; したが.える; より,accompany; obey; submit to; comply; follow; secondary; incidental; subordinate
-修,N1,10,5,603,シュウ; シュ,おさ.める; おさ.まる,discipline; conduct oneself well; study; master
-隊,N1,12,4,605,タイ,,regiment; party; company; squad
-織,N1,18,5,608,ショク; シキ,お.る; お.り; おり; -おり; -お.り,weave; fabric
-拡,N1,8,6,611,カク; コウ,ひろ.がる; ひろ.げる; ひろ.める,broaden; extend; expand; enlarge
-故,N1,9,5,612,コ,ゆえ; ふる.い; もと,happenstance; especially; intentionally; reason; cause; circumstances; the late; therefore; consequently
-振,N1,10,8,614,シン,ふ.る; ふ.れる; ふ.るう,shake; wave; wag; swing
-弁,N1,5,5,619,ベン; ヘン,かんむり; わきま.える; わ.ける; はなびら; あらそ.う,valve; petal; braid; speech; dialect; discrimination; dispose of; distinguish; conical cap
-就,N1,12,6,624,シュウ; ジュ,つ.く; つ.ける,concerning; settle; take position; depart; study; per
-異,N1,11,6,631,イ,こと; こと.なる; け,uncommon; different; queerness; strangeness; wonderful; curious; unusual
-献,N1,13,8,637,ケン; コン,たてまつ.る,offering; counter for drinks; present; offer
-厳,N1,17,6,638,ゲン; ゴン,おごそ.か; きび.しい; いか.めしい; いつくし,stern; strictness; severity; rigidity
-維,N1,14,8,643,イ,,fiber; tie; rope
-浜,N1,10,8,645,ヒン,はま,seacoast; beach; seashore
-遺,N1,15,6,647,イ; ユイ,のこ.す,bequeath; leave behind; reserve
-塁,N1,12,8,651,ルイ; ライ; スイ,とりで,bases; fort; rampart; walls; base(ball)
-邦,N1,7,8,654,ホウ,くに,home country; country; Japan
-素,N1,10,5,660,ソ; ス,もと,elementary; principle; naked; uncovered
-遣,N1,13,8,664,ケン,つか.う; -つか.い; -づか.い; つか.わす; や.る,dispatch; despatch; send; give; donate; do; undertake
-抗,N1,7,8,666,コウ,あらが.う,confront; resist; defy; oppose
-模,N1,14,6,668,モ; ボ,,imitation; copy; mock
-雄,N1,12,8,669,ユウ,お-; おす; おん,masculine; male; hero; leader; superiority; excellence
-益,N1,10,5,674,エキ; ヤク,ま.す,benefit; gain; profit; advantage
-緊,N1,15,8,677,キン,し.める; し.まる,tense; solid; hard; reliable; tight
-標,N1,15,4,686,ヒョウ,しるべ; しるし,signpost; seal; mark; stamp; imprint; symbol; emblem; trademark; evidence; souvenir; target
-宣,N1,9,6,695,セン,のたま.う,proclaim; say; announce
-昭,N1,9,3,697,ショウ,,shining; bright
-廃,N1,12,8,698,ハイ,すた.れる; すた.る,abolish; obsolete; cessation; discarding; abandon
-伊,N1,6,9,703,イ,かれ,Italy; that one
-江,N1,6,8,704,コウ,え,creek; inlet; bay
-僚,N1,14,8,709,リョウ,,colleague; official; companion
-吉,N1,6,8,711,キチ; キツ,よし,good luck; joy; congratulations
-盛,N1,11,6,712,セイ; ジョウ,も.る; さか.る; さか.ん,boom; prosper; copulate
-皇,N1,9,6,721,コウ; オウ,,emperor
-臨,N1,18,6,722,リン,のぞ.む,look to; face; meet; confront; attend; call on
-踏,N1,15,8,723,トウ,ふ.む; ふ.まえる,step; trample; carry through; appraise; evade payment
-壊,N1,16,8,727,カイ; エ,こわ.す; こわ.れる; やぶ.る,demolition; break; destroy
-債,N1,13,8,728,サイ,,bond; loan; debt
-興,N1,16,5,734,コウ; キョウ,おこ.る; おこ.す,entertain; revive; retrieve; interest; pleasure
-源,N1,13,6,738,ゲン,みなもと,source; origin
-儀,N1,15,8,739,ギ,,ceremony; rule; affair; case; a matter
-創,N1,12,6,741,ソウ; ショウ,つく.る; はじ.める; きず; けず.しける,genesis; wound; injury; hurt; start; originate
-障,N1,14,6,742,ショウ,さわ.る,hinder; hurt; harm
-継,N1,13,8,743,ケイ,つ.ぐ; まま-,inherit; succeed; continue; patch; graft (tree)
-筋,N1,12,6,744,キン,すじ,muscle; sinew; tendon; fiber; plot; plan; descent
-闘,N1,18,8,751,トウ,たたか.う; あらそ.う,fight; war
-葬,N1,12,8,754,ソウ,ほうむ.る,interment; bury; shelve
-避,N1,16,8,756,ヒ,さ.ける; よ.ける,evade; avoid; avert; ward off; shirk; shun
-司,N1,5,4,759,シ,つかさど.る,director; official; govt office; rule; administer
-康,N1,11,4,760,コウ,,ease; peace
-善,N1,12,6,765,ゼン,よ.い; い.い; よ.く; よし.とする,virtuous; good; goodness
-逮,N1,11,8,766,タイ,,apprehend; chase
-迫,N1,8,8,773,ハク,せま.る,urge; force; imminent; spur on
-惑,N1,12,8,777,ワク,まど.う,beguile; delusion; perplexity
-崩,N1,11,8,778,ホウ,くず.れる; -くず.れ; くず.す,crumble; die; demolish; level
-紀,N1,9,5,780,キ,,chronicle; account; narrative; history; annals; geologic period
-聴,N1,17,8,781,チョウ; テイ,き.く; ゆる.す,listen; headstrong; naughty; careful inquiry
-脱,N1,11,8,782,ダツ,ぬ.ぐ; ぬ.げる,undress; removing; escape from; get rid of; be left out; take off
-級,N1,9,3,785,キュウ,,class; rank; grade
-博,N1,12,4,794,ハク; バク,,Dr.; command; esteem; win acclaim; Ph.D.; exposition; fair
-締,N1,15,8,797,テイ,し.まる; し.まり; し.める; -し.め; -じ.め,tighten; tie; shut; lock; fasten
-救,N1,11,5,799,キュウ,すく.う,salvation; save; help; rescue; reclaim
-執,N1,11,8,800,シツ; シュウ,と.る,tenacious; take hold; grasp; take to heart
-房,N1,8,8,808,ボウ,ふさ,tassel; tuft; fringe; bunch; lock (hair); segment (orange); house; room
-撤,N1,15,8,811,テツ,,remove; withdraw; disarm; dismantle; reject; exclude
-削,N1,9,8,814,サク,けず.る; はつ.る; そ.ぐ,plane; sharpen; whittle; pare; shave
-密,N1,11,6,815,ミツ,ひそ.か,secrecy; density (pop); minuteness; carefulness
-措,N1,11,8,818,ソ,お.く,set aside; give up; suspend; discontinue; lay aside; except
-志,N1,7,5,823,シ,シリング; こころざ.す; こころざし,intention; plan; resolve; aspire; motive; hopes; shilling
-載,N1,13,8,825,サイ,の.せる; の.る,ride; board; get on; place; spread; 10**44; record; publish
-陣,N1,10,8,828,ジン,,camp; battle array; ranks; position; sudden; brief time
-我,N1,7,6,829,ガ,われ; わ; わ.が-; わが-,ego; I; selfish; our; oneself
-為,N1,9,8,831,イ,ため; な.る; な.す; す.る; たり; つく.る; なり,do; change; make; benefit; welfare; be of use; reach to; try; practice; cost; serve as; good; advantage; as a result of
-抑,N1,7,8,834,ヨク,おさ.える,repress; well; now; in the first place; push; shove; press; seal; do in spite of
-幕,N1,13,6,835,マク; バク,とばり,curtain; bunting; act of play
-染,N1,9,6,837,セン,そ.める; そ.まる; し.みる; し.み,dye; color; paint; stain; print
-奈,N1,8,4,841,ナ; ナイ; ダイ,いかん; からなし,Nara; what?
-傷,N1,13,6,845,ショウ,きず; いた.む; いた.める,wound; hurt; injure; impair; pain; injury; cut; gash; scar; weak point
-択,N1,7,8,847,タク,えら.ぶ,choose; select; elect; prefer
-秀,N1,7,8,848,シュウ,ひい.でる,excel; excellence; beauty; surpass
-徴,N1,14,8,850,チョウ; チ,しるし,indications; sign; omen; symptom; collect; seek; refer to; question
-弾,N1,12,8,853,ダン; タン,ひ.く; -ひ.き; はず.む; たま; はじ.く; はじ.ける; ただ.す; はじ.きゆみ,bullet; twang; flip; snap
-償,N1,17,8,854,ショウ,つぐな.う,reparation; make up for; recompense; redeem
-功,N1,5,4,857,コウ; ク,いさお,achievement; merits; success; honor; credit
-拠,N1,8,8,858,キョ; コ,よ.る,foothold; based on; follow; therefore
-秘,N1,10,6,862,ヒ,ひ.める; ひそ.か; かく.す,secret; conceal
-拒,N1,8,8,863,キョ; ゴ,こば.む,repel; refuse; reject; decline
-刑,N1,6,8,864,ケイ,,punish; penalty; sentence; punishment
-塚,N1,12,8,869,チョウ,つか; -づか,hillock; mound
-致,N1,10,8,870,チ,いた.す,doth; do; send; forward; cause; exert; incur; engage
-繰,N1,19,8,872,ソウ,く.る,winding; reel; spin; turn (pages); look up; refer to
-尾,N1,7,8,875,ビ,お,tail; end; counter for fish; lower slope of mountain
-描,N1,11,8,876,ビョウ,えが.く; か.く,sketch; compose; write; draw; paint
-鈴,N1,13,8,880,レイ; リン,すず,small bell; buzzer
-盤,N1,15,8,881,バン,,tray; shallow bowl; platter; tub; board; phonograph record
-項,N1,12,8,884,コウ,うなじ,paragraph; nape of neck; clause; item; term (expression)
-喪,N1,12,8,885,ソウ,も,miss; mourning
-伴,N1,7,8,886,ハン; バン,ともな.う,consort; accompany; bring with; companion
-養,N1,15,4,888,ヨウ; リョウ,やしな.う,foster; bring up; rear; develop; nurture
-懸,N1,20,8,889,ケン; ケ,か.ける; か.かる,state of suspension; hang; depend; consult; distant; far apart
-街,N1,12,4,891,ガイ; カイ,まち,boulevard; street; town
-契,N1,9,8,898,ケイ,ちぎ.る,pledge; promise; vow
-掲,N1,11,8,899,ケイ,かか.げる,put up (a notice); put up; hoist; display; hang out; publish; describe
-躍,N1,21,8,900,ヤク,おど.る,leap; dance; skip
-棄,N1,13,8,901,キ,す.てる,abandon; throw away; discard; resign; reject; sacrifice
-邸,N1,8,8,905,テイ,やしき,residence; mansion
-縮,N1,17,6,909,シュク,ちぢ.む; ちぢ.まる; ちぢ.める; ちぢ.れる; ちぢ.らす,shrink; contract; shrivel; wrinkle; reduce
-還,N1,16,8,910,カン,かえ.る,send back; return
-属,N1,12,5,912,ゾク; ショク,さかん; つく; やから,belong; genus; subordinate official; affiliated
-慮,N1,15,8,916,リョ,おもんぱく.る; おもんぱか.る,prudence; thought; concern; consider; deliberate; fear
-枠,N1,8,8,922,,わく,frame; framework; spindle; spool; bounding-box; (kokuji)
-恵,N1,10,8,925,ケイ; エ,めぐ.む; めぐ.み,favor; blessing; grace; kindness
-露,N1,21,8,928,ロ; ロウ,つゆ,dew; tears; expose; Russia
-沖,N1,7,4,929,チュウ,おき; おきつ; ちゅう.する; わく,open sea; offing; rise high into sky
-緩,N1,15,8,933,カン,ゆる.い; ゆる.やか; ゆる.む; ゆる.める,slacken; loosen; relax; lessen; be moderate; ease
-節,N1,13,4,934,セツ; セチ,ふし; -ぶし; のっと,node; season; period; occasion; verse; clause; stanza; honor; joint; knuckle; knob; knot; tune; melody
-需,N1,14,8,935,ジュ,,demand; request; need
-射,N1,10,6,937,シャ,い.る; さ.す; う.つ,shoot; shine into; onto; archery
-購,N1,17,8,945,コウ,,subscription; buy
-揮,N1,12,6,946,キ,ふる.う,brandish; wave; wag; swing; shake
-充,N1,6,8,949,ジュウ,あ.てる; み.たす,allot; fill
-貢,N1,10,8,956,コウ; ク,みつ.ぐ,tribute; support; finance
-鹿,N1,11,4,957,ロク,しか; か,deer
-却,N1,7,8,959,キャク,かえ.って; しりぞ.く; しりぞ.ける,instead; on the contrary; rather; step back; withdraw; retreat
-端,N1,14,8,960,タン,はし; は; はた; -ばた; はな,edge; origin; end; point; border; verge; cape
-賃,N1,13,6,961,チン,,fare; fee; hire; rent; wages; charge
-獲,N1,16,8,964,カク,え.る,seize; get; find; earn; acquire; can; may; able to
-郡,N1,10,4,965,グン,こおり,county; district
-併,N1,8,8,966,ヘイ,あわ.せる,join; get together; unite; collective
-徹,N1,15,8,968,テツ,,penetrate; clear; pierce; strike home; sit up (all night)
-貴,N1,12,6,970,キ,たっと.い; とうと.い; たっと.ぶ; とうと.ぶ,precious; value; prize; esteem; honor
-衝,N1,15,8,972,ショウ,つ.く,collide; brunt; highway; opposition (astronomy); thrust; pierce; stab; prick
-焦,N1,12,8,973,ショウ,こ.げる; こ.がす; こ.がれる; あせ.る; じ.れる; じ.らす,char; hurry; impatient; irritate; burn; scorch; singe
-奪,N1,14,8,974,ダツ,うば.う,rob; take by force; snatch away; dispossess; plunder; usurp
-災,N1,7,5,976,サイ,わざわ.い,disaster; calamity; woe; curse; evil
-浦,N1,10,8,977,ホ,うら,bay; creek; inlet; gulf; beach; seacoast
-析,N1,8,8,980,セキ,,chop; divide; tear; analyze
-譲,N1,20,8,984,ジョウ,ゆず.る,defer; turnover; transfer; convey
-称,N1,10,8,985,ショウ,たた.える; とな.える; あ.げる; かな.う; はか.り; はか.る; ほめ.る,appellation; praise; admire; name; title; fame
-納,N1,10,6,987,ノウ; ナッ; ナ; ナン; トウ,おさ.める; -おさ.める; おさ.まる,settlement; obtain; reap; pay; supply; store
-樹,N1,16,6,988,ジュ,き,timber; trees; wood; establish; set up
-挑,N1,9,8,989,チョウ,いど.む,challenge; contend for; make love to
-誘,N1,14,8,993,ユウ,さそ.う; いざな.う,entice; lead; tempt; invite; ask; call for; seduce; allure
-紛,N1,10,8,994,フン,まぎ.れる; -まぎ.れ; まぎ.らす; まぎ.らわす; まぎ.らわしい,distract; be mistaken for; go astray; divert
-至,N1,6,6,996,シ,いた.る,climax; arrive; proceed; reach; attain; result in
-宗,N1,8,6,997,シュウ; ソウ,むね,religion; sect; denomination; main point; origin; essence
-促,N1,9,8,998,ソク,うなが.す,stimulate; urge; press; demand; incite
-慎,N1,13,8,999,シン,つつし.む; つつ.ましい; つつし; つつし.み,humility; be careful; discreet; prudent
-控,N1,11,8,1000,コウ,ひか.える; ひか.え,withdraw; draw in; hold back; refrain from; be moderate
-智,N1,12,9,1002,チ,,wisdom; intellect; reason
-握,N1,12,8,1003,アク,にぎ.る,grip; hold; mould sushi; bribe
-宙,N1,8,6,1005,チュウ,,mid-air; air; space; sky; memorization; interval of time
-俊,N1,9,8,1007,シュン,,sagacious; genius; excellence
-銭,N1,14,6,1008,セン; ゼン,ぜに; すき,coin; .01 yen; money
-渋,N1,11,8,1011,ジュウ; シュウ,しぶ; しぶ.い; しぶ.る,astringent; hesitate; reluctant; have diarrhea
-銃,N1,14,8,1013,ジュウ,つつ,gun; arms
-操,N1,16,6,1016,ソウ; サン,みさお; あやつ.る,maneuver; manipulate; operate; steer; chastity; virginity; fidelity
-携,N1,13,8,1017,ケイ,たずさ.える; たずさ.わる,portable; carry (in hand); armed with; bring along
-診,N1,12,8,1019,シン,み.る,checkup; seeing; diagnose; examine
-託,N1,10,8,1021,タク,かこつ.ける; かこ.つ; かこ.つける,consign; requesting; entrusting with; pretend; hint
-撮,N1,15,8,1023,サツ,と.る; つま.む; -ど.り,snapshot; take pictures
-誕,N1,15,6,1024,タン,,nativity; be born; declension; lie; be arbitrary
-侵,N1,9,8,1025,シン,おか.す,encroach; invade; raid; trespass; violate
-括,N1,9,8,1026,カツ,くく.る,fasten; tie up; arrest; constrict
-謝,N1,17,5,1028,シャ,あやま.る,apologize; thank; refuse
-駆,N1,14,8,1033,ク,か.ける; か.る,drive; run; gallop; advance; inspire; impel
-透,N1,10,8,1035,トウ,す.く; す.かす; す.ける; とう.る; とう.す,transparent; permeate; filter; penetrate
-津,N1,9,8,1036,シン,つ,haven; port; harbor; ferry
-壁,N1,16,8,1037,ヘキ,かべ,wall; lining (stomach); fence
-稲,N1,14,8,1038,トウ; テ,いね; いな-,rice plant
-仮,N1,6,5,1039,カ; ケ,かり; かり-,sham; temporary; interim; assumed (name); informal
-裂,N1,12,8,1041,レツ,さ.く; さ.ける; -ぎ.れ,split; rend; tear
-敏,N1,10,8,1042,ビン,さとい,cleverness; agile; alert
-是,N1,9,8,1045,ゼ; シ,これ; この; ここ,just so; this; right; justice
-排,N1,11,8,1047,ハイ,,repudiate; exclude; expel; reject; line up; arrange
-裕,N1,12,8,1048,ユウ,,abundant; rich; fertile
-堅,N1,12,8,1049,ケン,かた.い; -がた.い,strict; hard; solid; tough; tight; reliable
-訳,N1,11,6,1050,ヤク,わけ,translate; reason; circumstance; case
-芝,N1,6,8,1052,シ,しば,turf; lawn
-綱,N1,14,8,1053,コウ,つな,hawser; class (genus); rope; cord; cable
-典,N1,8,4,1055,テン; デン,ふみ; のり,code; ceremony; law; rule
-賀,N1,12,4,1056,ガ,,congratulations; joy
-扱,N1,6,8,1057,ソウ; キュウ,あつか.い; あつか.う; あつか.る; こ.く,handle; entertain; thresh; strip
-顧,N1,21,8,1058,コ,かえり.みる,look back; review; examine oneself; turn around
-弘,N1,5,9,1059,コウ; グ,ひろ.い,vast; broad; wide
-看,N1,9,6,1060,カン,み.る,watch over; see
-訟,N1,11,8,1061,ショウ,,sue; accuse
-戒,N1,7,8,1062,カイ,いまし.める,commandment
-祉,N1,8,8,1063,シ,,welfare; happiness
-誉,N1,13,8,1064,ヨ,ほま.れ; ほ.める,reputation; praise; honor; glory
-歓,N1,15,8,1065,カン,よろこ.ぶ,delight; joy
-奏,N1,9,6,1067,ソウ,かな.でる,play music; speak to a ruler; complete
-勧,N1,13,8,1068,カン; ケン,すす.める,persuade; recommend; advise; encourage; offer
-騒,N1,18,8,1069,ソウ,さわ.ぐ; うれい; さわ.がしい,boisterous; make noise; clamor; disturb; excite
-閥,N1,14,8,1072,バツ,,clique; lineage; pedigree; faction; clan
-甲,N1,5,8,1073,コウ; カン,きのえ,armor; high (voice); A grade; first class; former; instep; carapace
-縄,N1,15,4,1075,ジョウ,なわ; ただ.す,straw rope; cord
-郷,N1,11,6,1077,キョウ; ゴウ,さと,home town; village; native place; district
-揺,N1,12,8,1079,ヨウ,ゆ.れる; ゆ.る; ゆ.らぐ; ゆ.るぐ; ゆ.する; ゆ.さぶる; ゆ.すぶる; うご.く,swing; shake; sway; rock; tremble; vibrate
-免,N1,8,8,1080,メン,まぬか.れる; まぬが.れる,excuse; dismissal
-既,N1,10,8,1081,キ,すで.に,previously; already; long ago
-薦,N1,16,8,1082,セン,すす.める,recommend; mat; advise; encourage; offer
-隣,N1,16,8,1083,リン,とな.る; となり,neighboring
-華,N1,10,8,1085,カ; ケ,はな,splendor; flower; petal; shine; luster; ostentatious; showy; gay; gorgeous
-範,N1,15,8,1088,ハン,,pattern; example; model
-隠,N1,14,8,1089,イン; オン,かく.す; かく.し; かく.れる; よ.る,conceal; hide; cover
-徳,N1,14,4,1091,トク,,benevolence; virtue; goodness; commanding respect
-哲,N1,10,8,1093,テツ,さとい; あきらか,philosophy; clear
-杉,N1,7,8,1095,サン,すぎ,cedar; cryptomeria
-釈,N1,11,8,1097,シャク; セキ,とく; す.てる; ゆる.す,explanation
-己,N1,3,6,1098,コ; キ,おのれ; つちのと; な,self
-妥,N1,7,8,1102,ダ,,gentle; peace; satisfactory; appropriate
-威,N1,9,8,1103,イ,おど.す; おど.し; おど.かす,intimidate; dignity; majesty; menace; threaten
-豪,N1,14,8,1104,ゴウ,えら.い,overpowering; great; powerful; excelling; Australia
-熊,N1,14,4,1105,ユウ,くま,bear
-滞,N1,13,8,1107,タイ; テイ,とどこお.る,stagnate; be delayed; overdue; arrears
-微,N1,13,8,1108,ビ,かす.か,delicate; minuteness; insignificance
-隆,N1,11,8,1109,リュウ,,hump; high; noble; prosperity
-症,N1,10,8,1111,ショウ,,symptoms; illness
-暫,N1,15,8,1112,ザン,しばら.く,temporarily; a while; moment; long time
-忠,N1,8,6,1113,チュウ,,loyalty; fidelity; faithfulness
-倉,N1,10,4,1114,ソウ,くら,godown; warehouse; storehouse; cellar; treasury
-彦,N1,9,9,1117,ゲン,ひこ,lad; boy (ancient)
-肝,N1,7,8,1118,カン,きも,liver; pluck; nerve; chutzpah
-喚,N1,12,8,1120,カン,わめ.く,yell; cry; call; scream; summon
-沿,N1,8,6,1121,エン,そ.う; -ぞ.い,run alongside; follow along; run along; lie along
-妙,N1,7,8,1122,ミョウ; ビョウ,たえ,exquisite; strange; queer; mystery; miracle; excellent; delicate; charming
-唱,N1,11,4,1123,ショウ,とな.える,chant; recite; call upon; yell
-阿,N1,8,9,1126,ア; オ,おもね.る; くま,Africa; flatter; fawn upon; corner; nook; recess
-索,N1,10,8,1127,サク,,cord; rope; searching; inquiring
-誠,N1,13,6,1128,セイ,まこと,sincerity; admonish; warn; prohibit; truth; fidelity
-襲,N1,22,8,1130,シュウ,おそ.う; かさ.ね,attack; advance on; succeed to; pile; heap
-懇,N1,17,8,1135,コン,ねんご.ろ,sociable; kind; courteous; hospitable; cordial
-俳,N1,10,6,1137,ハイ,,haiku; actor
-柄,N1,9,8,1140,ヘイ,がら; え; つか,design; pattern; build; nature; character; handle; crank; grip; knob; shaft
-驚,N1,22,8,1141,キョウ,おどろ.く; おどろ.かす,wonder; be surprised; frightened; amazed
-麻,N1,11,8,1142,マ; マア,あさ,hemp; flax; numb
-李,N1,7,9,1147,リ,すもも,plum
-浩,N1,10,9,1149,コウ,おおき.い; ひろ.い,wide expanse; abundance; vigorous
-剤,N1,10,8,1151,ザイ; スイ; セイ,かる; けず.る,dose; medicine; drug
-瀬,N1,19,8,1152,ライ,せ,rapids; current; torrent; shallows; shoal
-趣,N1,15,8,1153,シュ,おもむき; おもむ.く,purport; gist; elegance; interest; proceed to; tend; become
-陥,N1,10,8,1154,カン,おちい.る; おとしい.れる,collapse; fall into; cave in; fall (castle); slide into
-斎,N1,11,8,1155,サイ,とき; つつし.む; ものいみ; い.む; いわ.う; いつ.く,purification; Buddhist food; room; worship; avoid; alike
-貫,N1,11,8,1156,カン,つらぬ.く; ぬ.く; ぬき,pierce; 8 1/3lbs; penetrate; brace
-仙,N1,5,8,1157,セン; セント,,hermit; wizard; cent
-慰,N1,15,8,1158,イ,なぐさ.める; なぐさ.む,consolation; amusement; seduce; cheer; make sport of; comfort; console
-序,N1,7,5,1160,ジョ,つい.で; ついで,preface; beginning; order; precedence; occasion; chance; incidentally
-旬,N1,6,8,1162,ジュン; シュン,,decameron; ten-day period; season (for specific products)
-兼,N1,10,8,1164,ケン,か.ねる; -か.ねる,concurrently; and; beforehand; in advance
-聖,N1,13,6,1165,セイ; ショウ,ひじり,holy; saint; sage; master; priest
-旨,N1,6,8,1166,シ,むね; うま.い,delicious; relish; show a liking for; purport; will; clever; expert
-即,N1,7,8,1167,ソク,つ.く; つ.ける; すなわ.ち,instant; namely; as is; conform; agree; adapt
-柳,N1,9,8,1169,リュウ,やなぎ,willow
-舎,N1,8,5,1170,シャ; セキ,やど.る,cottage; inn; hut; house; mansion
-偽,N1,11,8,1171,ギ; カ,いつわ.る; にせ; いつわ.り,falsehood; lie; deceive; pretend; counterfeit; forgery
-較,N1,13,8,1172,カク; コウ,くら.べる,contrast; compare
-覇,N1,19,8,1173,ハ; ハク,はたがしら,hegemony; supremacy; leadership; champion
-詳,N1,13,8,1178,ショウ,くわ.しい; つまび.らか,detailed; full; minute; accurate; well-informed
-抵,N1,8,8,1182,テイ,,resist; reach; touch
-脅,N1,10,8,1183,キョウ,おびや.かす; おど.す; おど.かす,threaten; coerce
-茂,N1,8,8,1188,モ,しげ.る,overgrown; grow thick; be luxuriant
-犠,N1,17,8,1189,ギ; キ,いけにえ,sacrifice
-旗,N1,14,4,1190,キ,はた,flag; banner; standard
-距,N1,12,8,1191,キョ,へだ.たる; けづめ,long-distance; spur; fetlock
-雅,N1,13,8,1192,ガ,みや.び,gracious; elegant; graceful; refined
-飾,N1,13,8,1193,ショク,かざ.る; かざ.り,decorate; ornament; adorn; embellish
-網,N1,14,8,1194,モウ,あみ,netting; network
-竜,N1,10,8,1195,リュウ; リョウ; ロウ,たつ; いせ,dragon; imperial
-詩,N1,13,3,1196,シ,うた,poem; poetry
-繁,N1,16,8,1198,ハン,しげ.る; しげ.く,luxuriant; thick; overgrown; frequency; complexity; trouble
-翼,N1,17,8,1201,ヨク,つばさ,wing; plane; flank
-潟,N1,15,4,1204,セキ,かた; -がた,lagoon
-敵,N1,15,6,1205,テキ,かたき; あだ; かな.う,enemy; foe; opponent
-魅,N1,15,8,1206,ミ,,fascination; charm; bewitch
-嫌,N1,13,8,1207,ケン; ゲン,きら.う; きら.い; いや,dislike; detest; hate
-斉,N1,8,8,1209,セイ; サイ,そろ.う; ひと.しい; ひと.しく; あたる; はやい,adjusted; alike; equal; similar variety of
-敷,N1,15,8,1212,フ,し.く; -し.き,spread; pave; sit; promulgate
-擁,N1,16,8,1213,ヨウ,,hug; embrace; possess; protect; lead
-圏,N1,12,8,1216,ケン,かこ.い,sphere; circle; radius; range
-酸,N1,14,5,1218,サン,す.い,acid; bitterness; sour; tart
-罰,N1,14,8,1220,バツ; バチ; ハツ,ばっ.する,penalty; punishment
-滅,N1,13,8,1222,メツ,ほろ.びる; ほろ.ぶ; ほろ.ぼす,destroy; ruin; overthrow; perish
-礎,N1,18,8,1224,ソ,いしずえ,cornerstone; foundation stone
-腐,N1,14,8,1225,フ,くさ.る; -くさ.る; くさ.れる; くさ.れ; くさ.らす; くさ.す,rot; decay; sour
-脚,N1,11,8,1228,キャク; キャ; カク,あし,skids; leg; undercarriage; lower part; base
-潮,N1,15,6,1231,チョウ,しお; うしお,tide; salt water; opportunity
-梅,N1,10,4,1232,バイ,うめ,plum
-尽,N1,6,8,1234,ジン; サン,つ.きる; つ.くす; つ.かす; -づ.く; -ず.く; ことごと.く,exhaust; use up; run out of; deplete; befriend; serve
-僕,N1,14,8,1236,ボク,しもべ,me; I (male); servant; manservant
-桜,N1,10,5,1237,オウ; ヨウ,さくら,cherry
-滑,N1,13,8,1238,カツ; コツ,すべ.る; なめ.らか,slippery; slide; slip; fail exam
-孤,N1,9,8,1239,コ,,orphan; alone
-炎,N1,8,8,1242,エン,ほのお,inflammation; flame; blaze
-賠,N1,15,8,1243,バイ,,compensation; indemnify
-句,N1,5,5,1244,ク,,phrase; clause; sentence; passage; paragraph; counter for haiku
-鋼,N1,16,6,1246,コウ,はがね,steel
-頑,N1,13,8,1247,ガン,かたく.な,stubborn; foolish; firmly
-鎖,N1,18,8,1250,サ,くさり; とざ.す,chain; irons; connection
-彩,N1,11,8,1251,サイ,いろど.る,coloring; paint; makeup
-摩,N1,15,8,1252,マ,ま.する; さす.る; す.る,chafe; rub; polish; grind; scrape
-励,N1,7,8,1254,レイ,はげ.む; はげ.ます,encourage; be diligent; inspire
-縦,N1,16,6,1258,ジュウ,たて,vertical; length; height; self-indulgent; wayward
-輝,N1,15,8,1259,キ,かがや.く,radiance; shine; sparkle; gleam; twinkle
-蓄,N1,13,8,1260,チク,たくわ.える,amass; raise; hoard; store
-軸,N1,12,8,1261,ジク,,axis; pivot; stem; stalk; counter for book scrolls
-巡,N1,6,8,1262,ジュン,めぐ.る; めぐ.り,patrol; go around; circumference
-稼,N1,15,8,1264,カ,かせ.ぐ,earnings; work; earn money
-瞬,N1,18,8,1265,シュン,またた.く; まじろ.ぐ,wink; blink; twinkle
-砲,N1,10,8,1268,ホウ,,cannon; gun
-噴,N1,15,8,1270,フン,ふ.く,erupt; spout; emit; flush out
-誇,N1,13,8,1272,コ,ほこ.る,boast; be proud; pride; triumphantly
-祥,N1,10,8,1273,ショウ,さいわ.い; きざ.し; よ.い; つまび.らか,auspicious; happiness; blessedness; good omen; good fortune
-牲,N1,9,8,1274,セイ,,animal sacrifice; offering
-秩,N1,10,8,1275,チツ,,regularity; salary; order
-帝,N1,9,8,1276,テイ,みかど,sovereign; the emperor; god; creator
-宏,N1,7,9,1277,コウ,ひろ.い,wide; large
-唆,N1,10,8,1278,サ,そそ.る; そそのか.す,tempt; seduce; instigate; promote
-阻,N1,8,8,1280,ソ,はば.む,thwart; separate from; prevent; obstruct; deter; impede
-泰,N1,10,8,1281,タイ,,peaceful; calm; peace; easy; Thailand; extreme; excessive; great
-賄,N1,13,8,1282,ワイ,まかな.う,bribe; board; supply; finance
-撲,N1,15,8,1283,ボク,,slap; strike; hit; beat; tell; speak
-堀,N1,11,8,1285,クツ,ほり,ditch; moat; canal
-菊,N1,11,8,1287,キク,,chrysanthemum
-絞,N1,12,8,1288,コウ,しぼ.る; し.める; し.まる,strangle; constrict; wring
-縁,N1,15,8,1291,エン; -ネン,ふち; ふち.どる; ゆかり; よすが; へり; えにし,affinity; relation; connection; edge; border; verge; brink
-唯,N1,11,8,1292,ユイ; イ,ただ,solely; only; merely; simply
-膨,N1,16,8,1293,ボウ,ふく.らむ; ふく.れる,swell; get fat; thick
-矢,N1,5,2,1294,シ,や,dart; arrow
-耐,N1,9,8,1295,タイ,た.える,-proof; enduring
-塾,N1,14,8,1297,ジュク,,cram school; private school
-漏,N1,14,8,1298,ロウ,も.る; も.れる; も.らす,leak; escape; time
-慶,N1,15,8,1300,ケイ,よろこ.び,jubilation; congratulate; rejoice; be happy
-猛,N1,11,8,1301,モウ,,fierce; rave; rush; become furious; wildness; strength
-芳,N1,7,8,1302,ホウ,かんば.しい,perfume; balmy; favorable; fragrant
-懲,N1,18,8,1303,チョウ,こ.りる; こ.らす; こ.らしめる,penal; chastise; punish; discipline
-剣,N1,10,8,1305,ケン,つるぎ,sabre; sword; blade; clock hand
-彰,N1,14,8,1310,ショウ,,patent; clear
-棋,N1,12,8,1311,キ,ご,chess piece; Japanese chess; shogi
-丁,N1,2,3,1312,チョウ; テイ; チン; トウ; チ,ひのと,"street; ward; town; counter for guns, tools, leaves or cakes of something; even number; 4th calendar sign"
-恒,N1,9,8,1314,コウ,つね; つねに,constancy; always
-揚,N1,12,8,1316,ヨウ,あ.げる; -あ.げ; あ.がる,raise; elevate; hoist; praise; extol; fry in deep fat
-冒,N1,9,8,1317,ボウ,おか.す,risk; face; defy; dare; damage; assume (a name)
-之,N1,3,9,1318,シ,の; これ; ゆく; この,of; this
-倫,N1,10,8,1322,リン,,ethics; companion
-陳,N1,11,8,1323,チン,ひ.ねる,exhibit; state; relate; explain
-憶,N1,16,8,1324,オク,,recollection; think; remember
-潜,N1,15,8,1329,セン,ひそ.む; もぐ.る; かく.れる; くぐ.る; ひそ.める,submerge; conceal; hide; lower (voice); hush
-梨,N1,11,4,1331,リ,なし,pear tree
-仁,N1,4,6,1332,ジン; ニ; ニン,,humanity; virtue; benevolence; charity; man; kernel
-克,N1,7,8,1333,コク,か.つ,overcome; kindly; skillfully
-岳,N1,8,8,1334,ガク,たけ,point; peak; mountain
-概,N1,14,8,1335,ガイ,おおむ.ね,outline; condition; approximation; generally
-拘,N1,8,8,1336,コウ,かか.わる,arrest; seize; concerned; adhere to; despite
-墓,N1,13,5,1337,ボ,はか,grave; tomb
-黙,N1,15,8,1338,モク; ボク,だま.る; もだ.す,silence; become silent; stop speaking; leave as is
-須,N1,12,8,1339,ス; シュ,すべから.く; すべし; ひげ; まつ; もち.いる; もと.める,ought; by all means; necessarily
-偏,N1,11,8,1340,ヘン,かたよ.る,partial; side; left-side radical; inclining; biased
-雰,N1,12,8,1341,フン,,atmosphere; fog
-遇,N1,12,8,1343,グウ,あ.う,meet; encounter; interview; treat; entertain; receive; deal with
-諮,N1,16,8,1345,シ,はか.る,consult with
-狭,N1,9,8,1346,キョウ; コウ,せま.い; せば.める; せば.まる; さ,cramped; narrow; contract; tight
-卓,N1,8,8,1348,タク,,eminent; table; desk; high
-亀,N1,11,8,1353,キ; キュウ; キン,かめ,tortoise; turtle
-糧,N1,18,8,1354,リョウ; ロウ,かて,provisions; food; bread
-簿,N1,19,8,1358,ボ,,register; record book
-炉,N1,8,8,1359,ロ,いろり,hearth; furnace; kiln; reactor
-牧,N1,8,4,1360,ボク,まき,breed; care for; shepherd; feed; pasture
-殊,N1,10,8,1361,シュ,こと,particularly; especially; exceptionally
-殖,N1,12,8,1362,ショク,ふ.える; ふ.やす,augment; increase; multiply; raise
-艦,N1,21,8,1363,カン,,warship
-輩,N1,15,8,1365,ハイ,-ばら; やから; やかい; ともがら,comrade; fellow; people; companions
-穴,N1,5,6,1366,ケツ,あな,hole; aperture; slit; cave; den
-奇,N1,8,8,1367,キ,く.しき; あや.しい; くし; めずら.しい,strange; strangeness; curiosity
-慢,N1,14,8,1368,マン,,ridicule; laziness
-鶴,N1,21,8,1369,カク,つる,crane; stork
-謀,N1,16,8,1370,ボウ; ム,はか.る; たばか.る; はかりごと,conspire; cheat; impose on; plan; devise; scheme; have in mind; deceive
-暖,N1,13,6,1371,ダン; ノン,あたた.か; あたた.かい; あたた.まる; あたた.める,warmth
-昌,N1,8,9,1372,ショウ,さかん,prosperous; bright; clear
-拍,N1,8,8,1373,ハク; ヒョウ,,clap; beat (music)
-朗,N1,10,6,1374,ロウ,ほが.らか; あき.らか,melodious; clear; bright; serene; cheerful
-寛,N1,13,8,1377,カン,くつろ.ぐ; ひろ.い; ゆる.やか,tolerant; leniency; generosity; relax; feel at home; be at ease; broadminded
-覆,N1,18,8,1378,フク,おお.う; くつがえ.す; くつがえ.る,capsize; cover; shade; mantle; be ruined
-胞,N1,9,8,1379,ホウ,,placenta; sac; sheath
-泣,N1,8,4,1380,キュウ,な.く,cry; weep; moan
-隔,N1,13,8,1382,カク,へだ.てる; へだ.たる,isolate; alternate; distance; separate; gulf
-浄,N1,9,8,1383,ジョウ; セイ,きよ.める; きよ.い,clean; purify; cleanse; exorcise; Manchu Dynasty
-没,N1,7,8,1385,ボツ; モツ,おぼ.れる; しず.む; ない,drown; sink; hide; fall into; disappear; die
-暇,N1,13,8,1386,カ,ひま; いとま,spare time; rest; leisure; time; leave of absence
-肺,N1,9,6,1387,ハイ,,lungs
-貞,N1,9,8,1389,テイ; ジョウ,ただし.い; さだ,upright; chastity; constancy; righteousness
-靖,N1,13,9,1390,セイ; ジョウ,やす.んじる,peaceful
-鑑,N1,23,8,1391,カン,かんが.みる; かがみ,specimen; take warning from; learn from
-飼,N1,13,5,1392,シ,か.う,domesticate; raise; keep; feed
-陰,N1,11,8,1393,イン,かげ; かげ.る,shade; yin; negative; sex organs; secret; shadow
-銘,N1,14,8,1394,メイ,,inscription; signature (of artisan)
-随,N1,12,8,1396,ズイ,まにま.に; したが.う,follow; though; notwithstanding; while; during; both; all; obey; submit to; comply; at the mercy of (the waves)
-烈,N1,10,8,1397,レツ,はげ.しい,ardent; violent; vehement; furious; severe; extreme
-尋,N1,12,8,1398,ジン,たず.ねる; ひろ,inquire; fathom; look for
-稿,N1,15,8,1400,コウ,わら; したがき,draft; copy; manuscript; straw
-丹,N1,4,8,1402,タン,に,rust-colored; red; red lead; pills; sincerity
-啓,N1,11,8,1403,ケイ,ひら.く; さと.す,disclose; open; say
-也,N1,3,9,1404,ヤ; エ,なり; か; また,to be (classical)
-丘,N1,5,8,1405,キュウ,おか,hill; knoll
-棟,N1,12,8,1406,トウ,むね; むな-,ridgepole; ridge
-壌,N1,16,8,1407,ジョウ,つち,lot; earth; soil
-漫,N1,14,8,1408,マン,みだり.に; そぞ.ろ,cartoon; involuntarily; unrestrained; in spite of oneself; corrupt
-玄,N1,5,8,1409,ゲン,くろ; くろ.い,mysterious; occultness; black; deep; profound
-粘,N1,11,8,1410,ネン,ねば.る,sticky; glutinous; greasy; persevere
-悟,N1,10,8,1411,ゴ,さと.る,enlightenment; perceive; discern; realize; understand
-舗,N1,15,8,1412,ホ,,shop; store; pave
-妊,N1,7,8,1413,ニン; ジン,はら.む; みごも.る,pregnancy
-熟,N1,15,6,1415,ジュク,う.れる,mellow; ripen; mature; acquire skill
-旭,N1,6,9,1417,キョク,あさひ,rising sun; morning sun
-恩,N1,10,6,1418,オン,,grace; kindness; goodness; favor; mercy; blessing; benefit
-騰,N1,20,8,1420,トウ,あが.る; のぼ.る,leaping up; jumping up; rising; advancing; going
-往,N1,8,5,1421,オウ,い.く; いにしえ; さき.に; ゆ.く,journey; travel; chase away; let go; going; before; formerly
-豆,N1,7,3,1422,トウ; ズ,まめ; まめ-,beans; pea; midget
-遂,N1,12,8,1423,スイ,と.げる; つい.に,consummate; accomplish; attain; commit (suicide)
-狂,N1,7,8,1425,キョウ,くる.う; くる.おしい; くるお.しい,lunatic; insane; crazy; confuse
-岐,N1,7,4,1428,キ; ギ,,branch off; fork in road; scene; arena; theater
-陛,N1,10,6,1429,ヘイ,,highness; steps (of throne)
-緯,N1,16,8,1430,イ,よこいと; ぬき,horizontal; woof; left & right; (parallels of) latitude; prediction
-培,N1,11,8,1431,バイ,つちか.う,cultivate; foster
-衰,N1,10,8,1432,スイ,おとろ.える,decline; wane; weaken
-艇,N1,13,8,1433,テイ,,rowboat; small boat
-屈,N1,8,8,1434,クツ,かが.む; かが.める,yield; bend; flinch; submit
-径,N1,8,4,1435,ケイ,みち; こみち; さしわたし; ただちに,diameter; path; method
-淡,N1,11,8,1436,タン,あわ.い,thin; faint; pale; fleeting
-抽,N1,8,8,1437,チュウ,ひき-,pluck; pull; extract; excel
-披,N1,8,8,1438,ヒ,,expose; open
-廷,N1,7,8,1439,テイ,,courts; imperial court; government office
-錦,N1,16,8,1440,キン,にしき,brocade; fine dress; honors
-准,N1,10,8,1441,ジュン,,quasi-; semi-; associate
-暑,N1,12,3,1442,ショ,あつ.い,sultry; hot; summer heat
-磯,N1,17,9,1444,キ,いそ,seashore; beach
-奨,N1,13,8,1445,ショウ; ソウ,すす.める,exhort; urge; encourage
-浸,N1,10,8,1447,シン,ひた.す; ひた.る; つ.かる,immersed; soak; dip; steep; moisten; wet; dunk
-剰,N1,11,8,1448,ジョウ,あまつさえ; あま.り; あま.る,surplus; besides
-胆,N1,9,8,1449,タン,きも,gall bladder; courage; pluck; nerve
-繊,N1,17,8,1451,セン,,slender; fine; thin kimono
-駒,N1,15,8,1452,ク,こま,pony; horse; colt
-虚,N1,11,8,1454,キョ; コ,むな.しい; うつ.ろ,void; emptiness; unpreparedness; crack; fissure; untruth
-霊,N1,15,8,1458,レイ; リョウ,たま,spirits; soul
-帳,N1,11,3,1459,チョウ,とばり,notebook; account book; album; curtain; veil; net; tent
-悔,N1,9,8,1460,カイ,く.いる; く.やむ; くや.しい,repent; regret
-諭,N1,16,8,1461,ユ,さと.す,rebuke; admonish; charge; warn; persuade
-惨,N1,11,8,1463,サン; ザン,みじ.め; いた.む; むご.い,wretched; disaster; cruelty; harsh
-虐,N1,9,8,1464,ギャク,しいた.げる,tyrannize; oppress
-翻,N1,18,8,1465,ホン; ハン,ひるがえ.る; ひるがえ.す,flip; turn over; wave; flutter; change (mind)
-墜,N1,15,8,1466,ツイ,お.ちる; お.つ,crash; fall (down)
-沼,N1,8,8,1467,ショウ,ぬま,marsh; lake; bog; swamp; pond
-据,N1,11,8,1468,キョ,す.える; す.わる,set; lay a foundation; install; equip; squat down; sit down
-肥,N1,8,5,1469,ヒ,こ.える; こえ; こ.やす; こ.やし; ふと.る,fertilizer; get fat; fertile; manure; pamper
-徐,N1,10,8,1470,ジョ,おもむ.ろに,gradually; slowly; deliberately; gently
-糖,N1,16,6,1471,トウ,,sugar
-搭,N1,12,8,1472,トウ,,board; load (a vehicle); ride
-盾,N1,9,8,1476,ジュン,たて,shield; escutcheon; pretext
-脈,N1,10,5,1477,ミャク,すじ,vein; pulse; hope
-滝,N1,13,8,1478,ロウ; ソウ,たき,waterfall; rapids; cascade
-軌,N1,9,8,1480,キ,,rut; wheel; track; model; way of doing
-俵,N1,10,6,1481,ヒョウ,たわら,bag; bale; sack; counter for bags
-妨,N1,7,8,1482,ボウ,さまた.げる,disturb; prevent; hamper; obstruct
-擦,N1,17,8,1485,サツ,す.る; す.れる; -ず.れ; こす.る; こす.れる,grate; rub; scratch; scrape; chafe; scour
-鯨,N1,19,8,1486,ゲイ,くじら,whale
-荘,N1,9,8,1489,ソウ; ショウ; チャン,ほうき; おごそ.か,villa; inn; cottage; feudal manor; solemn; dignified
-諾,N1,15,8,1490,ダク,,consent; assent; agreement
-雷,N1,13,8,1491,ライ,かみなり; いかずち; いかづち,thunder; lightning bolt
-漂,N1,14,8,1492,ヒョウ,ただよ.う,drift; float (on liquid)
-懐,N1,16,8,1493,カイ; エ,ふところ; なつ.かしい; なつ.かしむ; なつ.く; なつ.ける; なず.ける; いだ.く; おも.う,feelings; heart; yearn; miss someone; become attached to; bosom; breast; pocket
-勘,N1,11,8,1494,カン,,intuition; perception; check; compare; sixth sense
-栽,N1,10,8,1496,サイ,,plantation; planting
-拐,N1,8,8,1498,カイ,,kidnap; falsify
-駄,N1,14,8,1500,ダ; タ,,burdensome; pack horse; horse load; send by horse; trivial; worthless
-添,N1,11,8,1501,テン,そ.える; そ.う,annexed; accompany; marry; suit; meet; satisfy; attach; append; garnish; imitate
-冠,N1,9,8,1503,カン,かんむり,crown; best; peerless
-斜,N1,11,8,1504,シャ,なな.め; はす,diagonal; slanting; oblique
-鏡,N1,19,4,1506,キョウ; ケイ,かがみ,mirror; speculum; barrel-head; round rice-cake offering
-聡,N1,14,9,1507,ソウ,さと.い; みみざと.い,wise; fast learner
-浪,N1,10,8,1508,ロウ,,wandering; waves; billows; reckless; unrestrained
-亜,N1,7,8,1509,ア,つ.ぐ,Asia; rank next; come after; -ous
-覧,N1,17,6,1510,ラン,み.る,perusal; see
-詐,N1,12,8,1511,サ,いつわ.る,lie; falsehood; deceive; pretend
-壇,N1,16,8,1512,ダン; タン,,podium; stage; rostrum; terrace
-勲,N1,15,8,1513,クン,いさお,meritorious deed; merit
-魔,N1,21,8,1514,マ,,witch; demon; evil spirit
-酬,N1,13,8,1515,シュウ; シュ; トウ,むく.いる,repay; reward; retribution
-紫,N1,12,8,1516,シ,むらさき,purple; violet
-曙,N1,17,9,1518,ショ,あけぼの,dawn; daybreak
-紋,N1,10,8,1519,モン,,family crest; figures
-卸,N1,9,8,1520,シャ,おろ.す; おろし; おろ.し,wholesale
-奮,N1,16,6,1521,フン,ふる.う,stirred up; be invigorated; flourish
-欄,N1,20,8,1523,ラン,てすり,column; handrail; blank; space
-逸,N1,11,8,1524,イツ,そ.れる; そ.らす; はぐ.れる,deviate; idleness; leisure; miss the mark; evade; elude; parry; diverge
-涯,N1,11,8,1525,ガイ,はて,horizon; shore; limit; bound
-拓,N1,8,8,1526,タク,ひら.く,clear (the land); open; break up (land)
-眼,N1,11,5,1527,ガン; ゲン,まなこ; め,eyeball
-獄,N1,14,8,1529,ゴク,,prison; jail
-尚,N1,8,8,1531,ショウ,なお,esteem; furthermore; still; yet
-彫,N1,11,8,1533,チョウ,ほ.る; -ぼ.り,carve; engrave; chisel
-穏,N1,16,8,1535,オン,おだ.やか,calm; quiet; moderation
-顕,N1,18,8,1536,ケン,あきらか; あらわ.れる,appear; existing
-巧,N1,5,8,1537,コウ,たく.み; たく.む; うま.い,adroit; skilled; ingenuity
-矛,N1,5,8,1538,ム; ボウ,ほこ,halberd; arms; festival float
-垣,N1,9,8,1539,エン,かき,hedge; fence; wall
-欺,N1,12,8,1541,ギ,あざむ.く,deceit; cheat; delude
-釣,N1,11,8,1542,チョウ,つ.る; つ.り; つ.り-,angling; fish; catch; allure; ensnare
-萩,N1,12,9,1544,シュウ,はぎ,bush clover
-粛,N1,11,8,1549,シュク; スク,つつし.む,solemn; quietly; softly
-栗,N1,10,9,1550,リツ; リ,くり; おののく,chestnut
-愚,N1,13,8,1551,グ,おろ.か,foolish; folly; absurdity; stupid
-嘉,N1,14,9,1553,カ,よみ.する; よい,applaud; praise; esteem; happy; auspicious
-遭,N1,14,8,1554,ソウ,あ.う; あ.わせる,encounter; meet; party; association; interview; join
-架,N1,9,8,1555,カ,か.ける; か.かる,erect; frame; mount; support; shelf; construct
-鬼,N1,10,8,1557,キ,おに; おに-,ghost; devil
-庶,N1,11,8,1558,ショ,,commoner; all; bastard
-稚,N1,13,8,1560,チ; ジ,いとけない; おさない; おくて; おでる,immature; young
-滋,N1,12,4,1563,ジ; シ,,nourishing; more & more; be luxuriant; planting; turbidity
-幻,N1,4,8,1564,ゲン,まぼろし,phantasm; vision; dream; illusion; apparition
-煮,N1,12,8,1565,シャ,に.る; -に; に.える; に.やす,boil; cook
-姫,N1,10,8,1566,キ,ひめ; ひめ-,princess
-誓,N1,14,8,1567,セイ,ちか.う,vow; swear; pledge
-把,N1,7,8,1569,ハ; ワ,,grasp; faggot; bunch; counter for bundles
-践,N1,13,8,1570,セン,ふ.む,tread; step on; trample; practice; carry through
-呈,N1,7,8,1571,テイ,,display; offer; present; send; exhibit
-疎,N1,12,8,1572,ソ; ショ,うと.い; うと.む; まば.ら,alienate; rough; neglect; shun; sparse; penetrate
-仰,N1,6,8,1573,ギョウ; コウ,あお.ぐ; おお.せ; お.っしゃる; おっしゃ.る,face-up; look up; depend; seek; respect; revere; drink; take
-剛,N1,10,8,1576,ゴウ,,sturdy; strength
-疾,N1,10,8,1577,シツ,はや.い,rapidly
-征,N1,8,8,1578,セイ,,subjugate; attack the rebellious; collect taxes
-砕,N1,9,8,1579,サイ,くだ.く; くだ.ける,smash; break; crush; familiar; popular
-謡,N1,16,8,1580,ヨウ,うた.い; うた.う,song; sing; ballad; noh chanting
-嫁,N1,13,8,1581,カ,よめ; とつ.ぐ; い.く; ゆ.く,marry into; bride
-謙,N1,17,8,1582,ケン,へりくだ.る,self-effacing; humble oneself; condescend; be modest
-后,N1,6,6,1583,コウ; ゴ,きさき,empress; queen; after; behind; back; later
-嘆,N1,13,8,1584,タン,なげ.く; なげ.かわしい,sigh; lament; moan; grieve; sigh of admiration
-菌,N1,11,8,1586,キン,,germ; fungus; bacteria
-鎌,N1,18,8,1587,レン; ケン,かま,sickle; scythe; trick
-巣,N1,11,4,1588,ソウ,す; す.くう,nest; rookery; hive; cobweb; den
-頻,N1,17,8,1590,ヒン,しき.りに,repeatedly; recur
-琴,N1,12,8,1591,キン; ゴン,こと,harp; koto
-班,N1,10,6,1592,ハン,,squad; corps; unit; group
-棚,N1,12,8,1594,ホウ,たな; -だな,shelf; ledge; rack; mount; mantle; trellis
-潔,N1,15,5,1595,ケツ,いさぎよ.い,undefiled; pure; clean; righteous; gallant
-酷,N1,14,8,1596,コク,ひど.い,cruel; severe; atrocious; unjust
-宰,N1,10,8,1597,サイ,,superintend; manager; rule
-廊,N1,12,8,1598,ロウ,,corridor; hall; tower
-寂,N1,11,8,1599,ジャク; セキ,さび; さび.しい; さび.れる; さみ.しい,loneliness; quietly; mellow; mature; death of a priest
-辰,N1,7,9,1600,シン; ジン,たつ,sign of the dragon; 7-9AM; fifth sign of Chinese zodiac; shin dragon radical (no. 161)
-霞,N1,17,9,1603,カ; ゲ,かすみ; かす.む,be hazy; grow dim; blurred
-伏,N1,6,8,1604,フク,ふ.せる; ふ.す,prostrated; bend down; bow; cover; lay (pipes)
-碁,N1,13,8,1609,ゴ,,Go
-俗,N1,9,8,1610,ゾク,,vulgar; customs; manners; worldliness; mundane things
-漠,N1,13,8,1611,バク,,vague; obscure; desert; wide
-邪,N1,8,8,1612,ジャ,よこし.ま,wicked; injustice; wrong
-晶,N1,12,8,1613,ショウ,,sparkle; clear; crystal
-墨,N1,14,8,1616,ボク,すみ,black ink; India ink; ink stick; Mexico
-鎮,N1,18,8,1617,チン,しず.める; しず.まる; おさえ,tranquilize; ancient peace-preservation centers
-洞,N1,9,8,1618,ドウ,ほら,den; cave; excavation
-履,N1,15,8,1619,リ,は.く,perform; complete; footgear; shoes; boots; put on (the feet)
-劣,N1,6,8,1620,レツ,おと.る,inferiority; be inferior to; be worse
-那,N1,7,8,1621,ナ; ダ,なに; なんぞ; いかん,what?
-殴,N1,8,8,1622,オウ,なぐ.る,assault; hit; beat; thrash
-娠,N1,10,8,1623,シン,,with child; pregnancy
-奉,N1,8,8,1624,ホウ; ブ,たてまつ.る; まつ.る; ほう.ずる,observance; offer; present; dedicate
-憂,N1,15,8,1625,ユウ,うれ.える; うれ.い; う.い; う.き,melancholy; grieve; lament; be anxious; sad; unhappy
-朴,N1,6,8,1626,ボク,ほう; ほお; えのき,crude; simple; plain; docile
-亭,N1,9,8,1627,テイ; チン,,pavilion; restaurant; mansion; arbor; cottage; vaudeville; music hall; stage name
-淳,N1,11,9,1629,ジュン; シュン,あつ.い,pure
-怪,N1,8,8,1634,カイ; ケ,あや.しい; あや.しむ,suspicious; mystery; apparition
-鳩,N1,13,9,1637,キュウ; ク,はと; あつ.める,pigeon; dove
-酔,N1,11,8,1640,スイ,よ.う; よ.い; よ,drunk; feel sick; poisoned; elated; spellbound
-惜,N1,11,8,1641,セキ,お.しい; お.しむ,pity; be sparing of; frugal; stingy; regret
-穫,N1,18,8,1642,カク,,harvest; reap
-佳,N1,8,8,1643,カ,,excellent; beautiful; good; pleasing; skilled
-潤,N1,15,8,1644,ジュン,うるお.う; うるお.す; うる.む,wet; be watered; profit by; receive benefits; favor; charm; steep
-悼,N1,11,8,1645,トウ,いた.む,lament; grieve over
-乏,N1,4,8,1646,ボウ,とぼ.しい; とも.しい,destitution; scarce; limited
-該,N1,13,8,1648,ガイ,,above-stated; the said; that specific
-赴,N1,9,8,1649,フ,おもむ.く,proceed; get; become; tend
-桑,N1,10,8,1650,ソウ,くわ,mulberry
-桂,N1,10,9,1651,ケイ,かつら,Japanese Judas-tree; cinnamon tree
-髄,N1,19,8,1652,ズイ,,marrow; pith; essence
-虎,N1,8,8,1653,コ,とら,tiger; drunkard
-盆,N1,9,8,1654,ボン,,basin; lantern festival; tray
-晋,N1,10,9,1655,シン,すす.む,advance
-穂,N1,15,8,1656,スイ,ほ,ear; ear (grain); head; crest (wave)
-壮,N1,6,8,1657,ソウ,さかん,robust; manhood; prosperity
-堤,N1,12,8,1658,テイ,つつみ,dike; bank; embankment
-飢,N1,10,8,1659,キ,う.える,hungry; starve
-傍,N1,12,8,1660,ボウ,かたわ.ら; わき; おか-; はた; そば,bystander; side; besides; while; nearby; third person
-疫,N1,9,8,1661,エキ; ヤク,,epidemic
-累,N1,11,8,1662,ルイ,,accumulate; involvement; trouble; tie up; continually
-痴,N1,13,8,1663,チ,し.れる; おろか,stupid; foolish
-搬,N1,13,8,1664,ハン,,conveyor; carry; transport
-晃,N1,10,9,1666,コウ,あきらか,clear
-癒,N1,18,8,1667,ユ,い.える; いや.す; い.やす,healing; cure; quench (thirst); wreak
-桐,N1,10,9,1668,トウ; ドウ,きり,paulownia
-寸,N1,3,6,1669,スン,,measurement; tenth of a shaku; a little; small
-郭,N1,11,8,1670,カク,くるわ,enclosure; quarters; fortification; red-light district
-尿,N1,7,8,1672,ニョウ,ゆばり; いばり; しと,urine
-凶,N1,4,8,1673,キョウ,,villain; evil; bad luck; disaster
-吐,N1,6,8,1674,ト,は.く; つ.く,spit; vomit; belch; confess; tell (lies)
-宴,N1,10,8,1675,エン,うたげ,banquet; feast; party
-鷹,N1,24,9,1676,ヨウ; オウ,たか,hawk
-賓,N1,15,8,1677,ヒン,まろうど; したがう,V.I.P.; guest
-虜,N1,13,8,1678,リョ; ロ,とりこ; とりく,captive; barbarian; low epithet for the enemy
-陶,N1,11,8,1680,トウ,すえ,pottery; porcelain
-鐘,N1,20,8,1681,ショウ,かね,bell; gong; chimes
-憾,N1,16,8,1682,カン,うら.む,remorse; regret; be sorry
-猪,N1,11,9,1684,チョ,い; いのしし,boar
-紘,N1,10,9,1685,コウ,おおづな; つな; つなぐ,large
-磁,N1,14,6,1686,ジ,,magnet; porcelain
-弥,N1,8,8,1687,ミ; ビ,や; いや; いよ.いよ; わた.る,all the more; increasingly
-昆,N1,8,8,1688,コン,,descendants; elder brother; insect
-粗,N1,11,8,1689,ソ,あら.い; あら-,coarse; rough; rugged
-訂,N1,9,8,1690,テイ,ただ.す,revise; correct; decide
-芽,N1,8,4,1691,ガ,め,bud; sprout; spear; germ
-庄,N1,6,9,1693,ショウ; ソ; ソウ; ホウ,,level; in the country; manor; village; hamlet
-傘,N1,12,8,1694,サン,かさ,umbrella
-敦,N1,12,9,1695,トン; タイ; ダン; チョウ,あつ.い,industry; kindliness
-騎,N1,18,8,1696,キ,,equestrian; riding on horses; counter for equestrians
-寧,N1,14,8,1697,ネイ,むし.ろ,rather; preferably; peaceful; quiet; tranquility
-循,N1,12,8,1699,ジュン,,sequential; follow
-忍,N1,7,8,1700,ニン,しの.ぶ; しの.ばせる,endure; bear; put up with; conceal; secrete; spy; sneak
-怠,N1,9,8,1703,タイ,おこた.る; なま.ける,neglect; laziness
-如,N1,6,8,1704,ジョ; ニョ,ごと.し,likeness; like; such as; as if; better; best; equal
-寮,N1,15,8,1705,リョウ,,dormitory; hostel; villa; tea pavillion
-祐,N1,9,9,1706,ユウ; ウ,たす.ける,help
-鵬,N1,19,9,1707,ホウ,おおとり,phoenix
-鉛,N1,13,8,1710,エン,なまり,lead
-珠,N1,10,8,1711,シュ,たま,pearl; gem; jewel
-凝,N1,16,8,1712,ギョウ,こ.る; こ.らす; こご.らす; こご.らせる; こご.る,congeal; freeze; stiff; be absorbed in
-苗,N1,8,8,1713,ビョウ; ミョウ,なえ; なわ-,seedling; sapling; shoot
-獣,N1,16,8,1714,ジュウ,けもの; けだもの,animal; beast
-哀,N1,9,8,1715,アイ,あわ.れ; あわ.れむ; かな.しい,pathetic; grief; sorrow; pathos; pity; sympathize
-跳,N1,13,8,1716,チョウ,は.ねる; と.ぶ; -と.び,hop; leap up; spring; jerk; prance; buck; splash; sputter; snap
-匠,N1,6,8,1718,ショウ,たくみ,artisan; workman; carpenter
-垂,N1,8,6,1720,スイ,た.れる; た.らす; た.れ; -た.れ; なんなんと.す,droop; suspend; hang; slouch
-蛇,N1,11,8,1721,ジャ; ダ; イ; ヤ,へび,snake; serpent; hard drinker
-澄,N1,15,8,1722,チョウ,す.む; す.ます; -す.ます,lucidity; be clear; clear; clarify; settle; strain; look grave
-縫,N1,16,8,1723,ホウ,ぬ.う,sew; stitch; embroider
-僧,N1,13,8,1724,ソウ,,Buddhist priest; monk
-眺,N1,11,8,1726,チョウ,なが.める,stare; watch; look at; see; scrutinize
-亘,N1,6,9,1728,コウ; カン; セン,わた.る; もと.める,span; range; extend over
-呉,N1,7,8,1729,ゴ,く.れる; くれ,give; do something for; kingdom of Wu
-凡,N1,3,8,1730,ボン; ハン,およ.そ; おうよ.そ; すべ.て,commonplace; ordinary; mediocre
-憩,N1,16,8,1731,ケイ,いこ.い; いこ.う,recess; rest; relax; repose
-媛,N1,12,4,1735,エン,ひめ,beautiful woman; princess
-溝,N1,13,8,1736,コウ,みぞ,gutter; ditch; sewer; drain; 10**32
-恭,N1,10,8,1737,キョウ,うやうや.しい,respect; reverent
-刈,N1,4,8,1738,ガイ; カイ,か.る,reap; cut; clip; trim; prune
-睡,N1,13,8,1739,スイ,ねむ.る; ねむ.い,drowsy; sleep; die
-錯,N1,16,8,1740,サク; シャク,,confused; mix; be in disorder
-伯,N1,7,8,1741,ハク,,chief; count; earl; uncle; Brazil
-笹,N1,11,9,1743,,ささ,bamboo grass; (kokuji)
-穀,N1,14,6,1744,コク,,cereals; grain
-陵,N1,11,8,1746,リョウ,みささぎ,mausoleum; imperial tomb; mound; hill
-霧,N1,19,8,1747,ム; ボウ; ブ,きり,fog; mist
-魂,N1,14,8,1748,コン,たましい; たま,soul; spirit
-弊,N1,15,8,1750,ヘイ,,abuse; evil; vice; breakage
-妃,N1,6,8,1752,ヒ,きさき,queen; princess
-舶,N1,11,8,1753,ハク,,liner; ship
-餓,N1,15,8,1754,ガ,う.える,starve; hungry; thirst
-窮,N1,15,8,1756,キュウ; キョウ,きわ.める; きわ.まる; きわ.まり; きわ.み,hard up; destitute; suffer; perplexed; cornered
-掌,N1,12,8,1757,ショウ,てのひら; たなごころ,palm of hand; rule; administer; conduct
-麗,N1,19,8,1758,レイ,うるわ.しい; うら.らか,lovely; beautiful; graceful; resplendent
-綾,N1,14,9,1759,リン,あや,design; figured cloth; twill
-臭,N1,9,8,1760,シュウ,くさ.い; -くさ.い; にお.う; にお.い,stinking; ill-smelling; suspicious looking; odor; savor; fragrance; be fragrant; stink; glow; be bright
-悦,N1,10,8,1762,エツ,よろこ.ぶ; よろこ.ばす,ecstasy; joy; rapture
-刃,N1,3,8,1763,ジン; ニン,は; やいば; き.る,blade; sword; edge
-縛,N1,16,8,1764,バク,しば.る,truss; arrest; bind; tie; restrain
-暦,N1,14,8,1765,レキ; リャク,こよみ,calendar; almanac
-宜,N1,8,8,1766,ギ,よろ.しい; よろ.しく,best regards; good
-盲,N1,8,8,1767,モウ,めくら,blind; blind man; ignoramus
-粋,N1,10,8,1768,スイ,いき,chic; style; purity; essence; pith; cream; elite; choice
-辱,N1,10,8,1769,ジョク,はずかし.める,embarrass; humiliate; shame
-毅,N1,15,9,1770,キ; ギ,つよ.い,strong
-轄,N1,17,8,1771,カツ,くさび,control; wedge
-猿,N1,13,8,1772,エン,さる,monkey
-弦,N1,8,8,1773,ゲン,つる,bowstring; chord; hypotenuse
-稔,N1,13,9,1775,ネン; ジン; ニン,みの.る; みのり,harvest; ripen
-窒,N1,11,8,1776,チツ,,plug up; obstruct
-炊,N1,8,8,1777,スイ,た.く; -だ.き,cook; boil
-洪,N1,9,8,1778,コウ,,deluge; flood; vast
-摂,N1,13,8,1779,セツ; ショウ,おさ.める; かね.る; と.る,vicarious; surrogate; act in addition to; take in; absorb
-飽,N1,13,8,1780,ホウ,あ.きる; あ.かす; あ.く,sated; tired of; bored; satiate
-冗,N1,4,8,1782,ジョウ,,superfluous; uselessness
-桃,N1,10,8,1784,トウ,もも,peach
-狩,N1,9,8,1785,シュ,か.る; か.り; -が.り,hunt; raid; gather
-朱,N1,6,8,1788,シュ,あけ,vermilion; cinnabar; scarlet; red; bloody
-渦,N1,12,8,1789,カ,うず,whirlpool; eddy; vortex
-紳,N1,11,8,1790,シン,,sire; good belt; gentleman
-枢,N1,8,8,1791,スウ; シュ,とぼそ; からくり,hinge; pivot; door; center of things
-碑,N1,14,8,1792,ヒ,いしぶみ,tombstone; monument
-鍛,N1,17,8,1793,タン,きた.える,forge; discipline; train
-刀,N1,2,2,1794,トウ,かたな; そり,sword; saber; knife
-鼓,N1,13,8,1795,コ,つづみ,drum; beat; rouse; muster
-裸,N1,13,8,1796,ラ,はだか,naked; nude; uncovered; partially clothed
-猶,N1,12,8,1799,ユウ; ユ,なお,furthermore; still; yet
-塊,N1,13,8,1800,カイ; ケ,かたまり; つちくれ,clod; lump; chunk; clot; mass
-旋,N1,11,8,1801,セン,め.ぐる; いばり,rotation; go around
-弓,N1,3,2,1802,キュウ,ゆみ,"bow; bow (archery, violin)"
-幣,N1,15,8,1803,ヘイ,ぬさ,cash; bad habit; humble prefix; gift; Shinto offerings of cloth; rope; cut paper
-膜,N1,14,8,1804,マク,,membrane
-扇,N1,10,8,1805,セン,おうぎ,fan; folding fan
-腸,N1,13,6,1807,チョウ,はらわた; わた,intestines; guts; bowels; viscera
-槽,N1,15,8,1809,ソウ,ふね,vat; tub; tank
-慈,N1,13,8,1811,ジ,いつく.しむ,mercy
-楊,N1,13,9,1815,ヨウ,やなぎ,willow
-伐,N1,6,8,1816,バツ; ハツ; カ; ボチ,き.る; そむ.く; う.つ,fell; strike; attack; punish
-駿,N1,17,9,1817,シュン; スン,すぐ.れる,a good horse; speed; a fast person
-漬,N1,14,8,1818,シ,つ.ける; つ.かる; -づ.け; -づけ,pickling; soak; moisten; steep
-糾,N1,9,8,1820,キュウ,ただ.す,twist; ask; investigate; verify
-亮,N1,9,9,1821,リョウ,あきらか,clear; help
-墳,N1,15,8,1822,フン,,tomb; mound
-坪,N1,8,8,1823,ヘイ,つぼ,two-mat area; approx. thirty-six sq ft
-紺,N1,11,8,1825,コン,,dark blue; navy
-娯,N1,10,8,1827,ゴ,,recreation; pleasure
-椿,N1,13,9,1829,チン; チュン,つばき,camellia
-舌,N1,6,6,1830,ゼツ,した,tongue; reed; clapper
-羅,N1,19,8,1831,ラ,うすもの,gauze; thin silk; Rome; arrange; spread out
-峡,N1,9,8,1833,キョウ; コウ,はざま,gorge; ravine
-俸,N1,10,8,1834,ホウ,,stipend; salary
-厘,N1,9,8,1835,リン,,rin; 1/10 sen; 1/10 bu
-峰,N1,10,8,1836,ホウ,みね; ね,summit; peak
-圭,N1,6,9,1837,ケイ; ケ,,square jewel; corner; angle; edge
-醸,N1,20,8,1838,ジョウ,かも.す,brew; cause
-蓮,N1,13,9,1839,レン,はす; はちす,lotus
-弔,N1,4,8,1840,チョウ,とむら.う; とぶら.う,condolences; mourning; funeral
-乙,N1,1,8,1841,オツ; イツ,おと-; きのと,the latter; duplicate; strange; witty; fishhook radical (no. 5)
-汁,N1,5,8,1843,ジュウ,しる; -しる; つゆ,soup; juice; broth; sap; gravy; pus
-尼,N1,5,8,1844,ニ,あま,nun
-遍,N1,12,8,1845,ヘン,あまね.く,everywhere; times; widely; generally
-衡,N1,16,8,1847,コウ,,equilibrium; measuring rod; scale
-薫,N1,16,8,1849,クン,かお.る,send forth fragrance; fragrant; be scented; smoke (tobacco)
-猟,N1,11,8,1851,リョウ,かり; か.る,game-hunting; shooting; game; bag
-羊,N1,6,3,1852,ヨウ,ひつじ,sheep
-款,N1,12,8,1854,カン,,goodwill; article; section; friendship; collusion
-閲,N1,15,8,1855,エツ,けみ.する,review; inspection; revision
-偵,N1,11,8,1857,テイ,,spy
-喝,N1,11,8,1858,カツ,,hoarse; scold
-敢,N1,12,8,1859,カン,あ.えて; あ.えない; あ.えず,daring; brave; bold; sad; tragic; pitiful
-胎,N1,9,8,1861,タイ,,womb; uterus
-酵,N1,14,8,1862,コウ,,fermentation
-憤,N1,15,8,1863,フン,いきどお.る,aroused; resent; be indignant; anger
-豚,N1,11,8,1864,トン,ぶた,pork; pig
-遮,N1,14,8,1865,シャ,さえぎ.る,intercept; interrupt; obstruct
-扉,N1,12,8,1866,ヒ,とびら,front door; title page; front page
-硫,N1,12,8,1867,リュウ,,sulphur
-赦,N1,11,8,1868,シャ,ゆる.す,pardon; forgiveness
-窃,N1,9,8,1871,セツ,ぬす.む; ひそ.か,stealth; steal; secret; private; hushed
-泡,N1,8,8,1872,ホウ,あわ,bubbles; foam; suds; froth
-瑞,N1,13,9,1873,ズイ; スイ,みず-; しるし,congratulations
-又,N1,2,8,1874,ユウ,また; また-; また.の-,or again; furthermore; on the other hand
-慨,N1,13,8,1875,ガイ,なげ.く,rue; be sad; sigh; lament
-紡,N1,10,8,1876,ボウ,つむ.ぐ,spinning
-恨,N1,9,8,1877,コン,うら.む; うら.めしい,regret; bear a grudge; resentment; malice; hatred
-肪,N1,8,8,1878,ボウ,,obese; fat
-扶,N1,7,8,1879,フ,たす.ける,aid; help; assist
-戯,N1,15,8,1880,ギ; ゲ,たわむ.れる; ざ.れる; じゃ.れる,frolic; play; sport
-伍,N1,6,9,1881,ゴ,いつつ,five; five-man squad; file; line
-忌,N1,7,8,1882,キ,い.む; い.み; い.まわしい,mourning; abhor; detestable; death anniversary
-濁,N1,16,8,1883,ダク; ジョク,にご.る; にご.す,voiced; uncleanness; wrong; nigori; impurity
-奔,N1,8,8,1884,ホン,はし.る,run; bustle
-斗,N1,4,8,1885,ト; トウ,,Big Dipper; ten sho (vol); sake dipper; dots and cross radical (no. 68)
-蘭,N1,19,9,1886,ラン; ラ,,orchid; Holland
-迅,N1,6,8,1888,ジン,,swift; fast
-肖,N1,7,8,1889,ショウ,あやか.る,resemblance
-鉢,N1,13,8,1890,ハチ; ハツ,,bowl; rice tub; pot; crown
-朽,N1,6,8,1891,キュウ,く.ちる,decay; rot; remain in seclusion
-殻,N1,11,8,1892,カク; コク; バイ,から; がら,husk; nut shell
-享,N1,8,8,1893,キョウ; コウ,う.ける,enjoy; receive; undergo; answer (phone); take; get; catch
-秦,N1,10,9,1894,シン,はた,Manchu dynasty; name given to naturalized foreigners
-茅,N1,8,9,1895,ボウ; ミョウ,かや; ちがや,miscanthus reed
-藩,N1,18,8,1896,ハン,,clan; enclosure
-沙,N1,7,8,1897,サ; シャ,すな; よなげる,sand
-輔,N1,14,9,1898,ホ; フ,たす.ける,help
-媒,N1,12,8,1900,バイ,なこうど,mediator; go-between
-鶏,N1,19,8,1901,ケイ,にわとり; とり,chicken
-禅,N1,13,8,1902,ゼン; セン,しずか; ゆず.る,Zen; silent meditation
-嘱,N1,15,8,1903,ショク,しょく.する; たの.む,entrust; request; send a message
-胴,N1,10,8,1904,ドウ,,trunk; torso; hull (ship); hub of wheel
-迭,N1,8,8,1907,テツ,,transfer; alternation
-挿,N1,10,8,1908,ソウ,さ.す; はさ.む,insert; put in; graft; wear (sword)
-嵐,N1,12,8,1910,ラン,あらし,storm; tempest
-椎,N1,12,8,1911,ツイ; スイ,つち; う.つ,chinquapin; mallet; spine
-絹,N1,13,6,1916,ケン,きぬ,silk
-陪,N1,11,8,1917,バイ,,obeisance; follow; accompany; attend on
-剖,N1,10,8,1918,ボウ,,divide
-譜,N1,19,8,1919,フ,,musical score; music; note; staff; table; genealogy
-郁,N1,9,9,1920,イク,,cultural progress; perfume
-悠,N1,11,8,1921,ユウ,,permanence; distant; long time; leisure
-淑,N1,11,8,1922,シュク,しと.やか,graceful; gentle; pure
-帆,N1,6,8,1923,ハン,ほ,sail
-暁,N1,12,8,1924,ギョウ; キョウ,あかつき; さと.る,daybreak; dawn; in the event
-傑,N1,13,8,1926,ケツ,すぐ.れる,greatness; excellence
-楠,N1,13,9,1927,ナン; ダン; ゼン; ネン,くす; くすのき,camphor tree
-笛,N1,11,3,1928,テキ,ふえ,flute; clarinet; pipe; whistle; bagpipe; piccolo
-玲,N1,9,9,1931,レイ,,sound of jewels
-奴,N1,5,8,1932,ド,やつ; やっこ,guy; slave; manservant; fellow
-錠,N1,16,8,1934,ジョウ,,lock; fetters; shackles
-拳,N1,10,8,1935,ケン; ゲン,こぶし,fist
-翔,N1,12,9,1936,ショウ,かけ.る; と.ぶ,soar; fly
-遷,N1,15,8,1937,セン,うつ.る; うつ.す; みやこがえ,transition; move; change
-拙,N1,8,8,1938,セツ,つたな.い,bungling; clumsy; unskillful
-侍,N1,8,8,1939,ジ; シ,さむらい; はべ.る,waiter; samurai; wait upon; serve
-尺,N1,4,6,1940,シャク; セキ,さし,shaku; Japanese foot; measure; scale; rule
-峠,N1,9,8,1941,,とうげ,mountain peak; mountain pass; climax; crest; (kokuji)
-篤,N1,16,8,1942,トク,あつ.い,fervent; kind; cordial; serious; deliberate
-肇,N1,14,9,1943,チョウ; ジョウ; トウ,はじ.める; はじめ,beginning
-渇,N1,11,8,1944,カツ,かわ.く,thirst; dry up; parch
-叔,N1,8,8,1950,シュク,,uncle; youth
-雌,N1,14,8,1951,シ,め-; めす; めん,feminine; female
-亨,N1,7,9,1952,コウ; キョウ; ホウ,とお.る,pass through; go smoothly
-堪,N1,12,8,1953,カン; タン,た.える; たま.る; こら.える; こた.える,withstand; endure; support; resist
-叙,N1,9,8,1954,ジョ,つい.ず; ついで,confer; relate; narrate; describe
-酢,N1,12,8,1955,サク,す,vinegar; sour; acid; tart
-吟,N1,7,8,1956,ギン,,versify; singing; recital
-逓,N1,10,8,1957,テイ,かわ.る; たがいに,relay; in turn; sending
-嶺,N1,17,9,1959,レイ; リョウ,みね,peak; summit
-甚,N1,9,8,1961,ジン,はなは.だ; はなは.だしい,tremendously; very; great; exceedingly
-喬,N1,12,9,1962,キョウ,たか.い,high; boasting
-崇,N1,11,8,1970,スウ,あが.める,adore; respect; revere; worship
-漆,N1,14,8,1971,シツ,うるし,lacquer; varnish; seven
-岬,N1,8,8,1972,コウ,みさき,headland; cape; spit; promontory
-癖,N1,18,8,1973,ヘキ,くせ; くせ.に,mannerism; habit; vice; trait; fault; kink
-愉,N1,12,8,1974,ユ,たの.しい; たの.しむ,pleasure; happy; rejoice
-寅,N1,11,9,1975,イン,とら,sign of the tiger; 3-5AM; third sign of Chinese zodiac
-礁,N1,17,8,1977,ショウ,,reef; sunken rock
-乃,N1,2,9,1978,ナイ; ダイ; ノ; アイ,の; すなわ.ち; なんじ,from; possessive particle; whereupon; accordingly
-洲,N1,9,9,1979,シュウ; ス,しま,continent; sandbar; island; country
-屯,N1,4,8,1980,トン,たむろ,barracks; police station; camp; ton
-樺,N1,14,9,1982,カ,かば; かんば,birch; dark red
-槙,N1,14,9,1983,テン; シン,まき; こずえ,twig; ornamental evergreen
-姻,N1,9,8,1985,イン,,matrimony; marry
-巌,N1,20,9,1986,ガン,いわ; いわお; けわ.しい,rock; crag; boulder
-擬,N1,17,8,1990,ギ,まが.い; もど.き,mimic; aim (a gun) at; nominate; imitate
-塀,N1,12,8,1991,ヘイ; ベイ,,fence; wall; (kokuji)
-唇,N1,10,8,1992,シン,くちびる,lips
-睦,N1,13,8,1993,ボク; モク,むつ.まじい; むつ.む; むつ.ぶ,intimate; friendly; harmonious
-閑,N1,12,8,1994,カン,,leisure
-胡,N1,9,9,1995,ウ; コ; ゴ,なんぞ,barbarian; foreign
-幽,N1,9,8,1996,ユウ,ふか.い; かす.か; くら.い; しろ.い,seclude; confine to a room; deep; profound; secluded; faint; dark; tranquil; calm
-峻,N1,10,9,1997,シュン,けわ.しい; たか.い,high; steep
-曹,N1,11,8,1998,ソウ; ゾウ,,office; official; comrade; fellow
-詠,N1,12,8,2000,エイ,よ.む; うた.う,recitation; poem; song; composing
-卑,N1,9,8,2003,ヒ,いや.しい; いや.しむ; いや.しめる,lowly; base; vile; vulgar; despise
-侮,N1,8,8,2004,ブ,あなど.る; あなず.る,scorn; despise; make light of; contempt
-鋳,N1,15,8,2005,チュウ; イ; シュ; シュウ,い.る,casting; mint
-抹,N1,8,8,2006,マツ,,rub; paint; erase
-尉,N1,11,8,2007,イ; ジョウ,,military officer; jailer; old man; rank
-槻,N1,15,9,2008,キ,つき,Zelkova tree
-隷,N1,16,8,2009,レイ,したが.う; しもべ,slave; servant; prisoner; criminal; follower
-禍,N1,13,8,2010,カ,わざわい,calamity; misfortune; evil; curse
-蝶,N1,15,9,2011,チョウ,,butterfly
-酪,N1,13,8,2012,ラク,,dairy products; whey; broth; fruit juice
-茎,N1,8,8,2013,ケイ; キョウ,くき,stalk; stem
-帥,N1,9,8,2016,スイ,,commander; leading troops; governor
-逝,N1,10,8,2018,セイ,ゆ.く; い.く,departed; die
-汽,N1,7,2,2020,キ,,vapor; steam
-琢,N1,11,9,2022,タク,みが.く,polish
-匿,N1,10,8,2024,トク,かくま.う,hide; shelter; shield
-襟,N1,18,8,2030,キン,えり,collar; neck; lapel; one's inner feelings
-蛍,N1,11,8,2031,ケイ,ほたる,lightning-bug; firefly
-蕉,N1,15,9,2033,ショウ,,banana; plantain
-寡,N1,14,8,2035,カ,,widow; minority; few
-琉,N1,11,9,2036,リュウ; ル,,precious stone; gem; lapis lazuli
-痢,N1,12,8,2037,リ,,diarrhea
-庸,N1,11,8,2038,ヨウ,,commonplace; ordinary; employment
-朋,N1,8,9,2039,ホウ,とも,companion; friend
-坑,N1,7,8,2040,コウ,,pit; hole
-藍,N1,18,8,2043,ラン,あい,indigo
-賊,N1,13,8,2045,ゾク,,burglar; rebel; traitor; robber
-搾,N1,13,8,2046,サク,しぼ.る,squeeze
-畔,N1,10,8,2049,ハン,あぜ; くろ; ほとり,paddy ridge; levee
-遼,N1,15,9,2050,リョウ,,distant
-唄,N1,10,8,2051,バイ,うた; うた.う,song; ballad
-孔,N1,4,8,2052,コウ; ク,あな,cavity; hole; slit; very; great; exceedingly
-橘,N1,16,9,2053,キツ,たちばな,mandarin orange
-漱,N1,14,9,2054,ソウ; シュウ; ス,くちすす.ぐ; くちそそ.ぐ; うがい; すす.ぐ,gargle; rinse mouth
-呂,N1,7,8,2055,ロ; リョ,せぼね,spine; backbone
-拷,N1,9,8,2057,ゴウ,,torture; beat
-嬢,N1,16,8,2059,ジョウ,むすめ,lass; girl; Miss; daughter
-苑,N1,8,9,2060,エン; オン,その; う.つ,garden; farm; park
-巽,N1,12,9,2061,ソン,たつみ,southeast
-杜,N1,7,9,2062,ト; トウ; ズ,もり; ふさ.ぐ; やまなし,woods; grove
-渓,N1,11,8,2063,ケイ,たに; たにがわ,mountain stream; valley
-翁,N1,10,8,2064,オウ,おきな,venerable old man
-廉,N1,13,8,2066,レン,,bargain; reason; charge; suspicion; point; account; purity; honest; low price; cheap; rested; contented; peaceful
-謹,N1,17,8,2068,キン,つつし.む,discreet; reverently; humbly
-瞳,N1,17,8,2069,ドウ; トウ,ひとみ,pupil (of eye)
-湧,N1,12,8,2070,ユウ; ヨウ; ユ,わ.く,boil; ferment; seethe; uproar; breed
-欣,N1,8,9,2071,キン; ゴン; コン,よろこ.ぶ; よろこ.び,take pleasure in; rejoice
-窯,N1,15,8,2072,ヨウ,かま,kiln; oven; furnace
-褒,N1,15,8,2073,ホウ,ほ.める,praise; extol
-醜,N1,17,8,2074,シュウ,みにく.い; しこ,ugly; unclean; shame; bad looking
-升,N1,4,8,2077,ショウ,ます,measuring box; 1.8 liter
-殉,N1,10,8,2080,ジュン,,martyrdom; follow by resigning
-煩,N1,13,8,2081,ハン; ボン,わずら.う; わずら.わす; うるさ.がる; うるさ.い,anxiety; trouble; worry; pain; ill; annoy; nuisance; irksome
-巴,N1,4,9,2082,ハ,ともえ; うずまき,comma-design
-禎,N1,13,9,2083,テイ,さいわ.い,happiness; blessed; good fortune; auspicious
-劾,N1,8,8,2085,ガイ,,censure; criminal investigation
-堕,N1,12,8,2087,ダ,お.ちる; くず.す; くず.れる,degenerate; descend to; lapse into
-租,N1,10,8,2089,ソ,,tariff; crop tax; borrowing
-稜,N1,13,9,2091,リョウ; ロウ,いつ; かど,angle; edge; corner; power; majesty
-桟,N1,10,8,2093,サン; セン,かけはし,scaffold; cleat; frame; jetty; bolt (door)
-倭,N1,10,9,2098,ワ; イ,やまと; したが.う,Yamato; ancient Japan
-婿,N1,12,8,2099,セイ,むこ,bridegroom; son-in-law
-慕,N1,14,8,2100,ボ,した.う,pining; yearn for; love dearly; adore
-斐,N1,12,9,2103,ヒ; イ,,beautiful; patterned
-罷,N1,15,8,2104,ヒ,まか.り-; や.める,quit; stop; leave; withdraw; go
-矯,N1,17,8,2105,キョウ,た.める,rectify; straighten; correct; reform; cure; control; pretend; falsify
-某,N1,9,8,2106,ボウ,それがし; なにがし,so-and-so; one; a certain; that person
-囚,N1,5,8,2107,シュウ,とら.われる,captured; criminal; arrest; catch
-魁,N1,14,9,2108,カイ,さきがけ; かしら,charging ahead of others
-虹,N1,9,8,2110,コウ,にじ,rainbow
-鴻,N1,17,9,2111,コウ; ゴウ,おおとり; ひしくい; おおがり,large bird; wild goose; large; great; powerful; prosperous
-泌,N1,8,8,2112,ヒツ; ヒ,,ooze; flow; soak in; penetrate; secrete
-於,N1,8,9,2113,オ; ヨ,おい.て; お.ける; ああ; より,at; in; on; as for
-赳,N1,10,9,2114,キュウ,,strong and brave
-漸,N1,14,8,2115,ゼン,ようや.く; やや; ようよ.う; すす.む,steadily; gradually advancing; finally; barely
-蚊,N1,10,8,2121,ブン,か,mosquito
-葵,N1,12,9,2122,キ,あおい,hollyhock
-厄,N1,4,8,2123,ヤク,,unlucky; misfortune; bad luck; disaster
-藻,N1,19,8,2124,ソウ,も,seaweed; duckweed
-禄,N1,12,9,2126,ロク,さいわ.い; ふち,fief; allowance; pension; grant; happiness
-孟,N1,8,9,2127,モウ; ボウ; ミョウ,かしら,chief; beginning
-嫡,N1,14,8,2130,チャク; テキ,,legitimate wife; direct descent (non-bastard)
-尭,N1,8,9,2136,ギョウ,たか.い,high; far
-嚇,N1,17,8,2141,カク,おど.す,menacing; dignity; majesty; threaten
-巳,N1,3,9,2142,シ,み,sign of the snake or serpent; 9-11AM; sixth sign of Chinese zodiac
-凸,N1,5,8,2143,トツ,でこ,convex; beetle brow; uneven
-暢,N1,14,9,2144,チョウ,のび.る,stretch
-韻,N1,19,8,2148,イン,,rhyme; elegance; tone
-霜,N1,17,8,2151,ソウ,しも,frost
-硝,N1,12,8,2154,ショウ,,nitrate; saltpeter
-勅,N1,9,8,2157,チョク,いまし.める; みことのり,imperial order
-芹,N1,7,9,2158,キン,せり,parsley
-杏,N1,7,9,2159,キョウ; アン; コウ,あんず,apricot
-棺,N1,12,8,2161,カン,,coffin; casket
-儒,N1,16,8,2162,ジュ,,Confucian
-鳳,N1,14,9,2163,ホウ; フウ,,male mythical bird
-馨,N1,20,9,2164,ケイ; キョウ,かお.る; かおり,fragrant; balmy; favourable
-慧,N1,15,9,2168,ケイ; エ,さとい,wise
-愁,N1,13,8,2171,シュウ,うれ.える; うれ.い,distress; grieve; lament; be anxious
-楼,N1,13,8,2173,ロウ,たかどの,watchtower; lookout; high building
-彬,N1,11,9,2174,ヒン; フン,うるわ.しい; あき.らか,refined; gentle
-匡,N1,6,9,2176,キョウ; オウ,すく.う; ただ.す,correct; save; assist
-眉,N1,9,8,2177,ビ; ミ,まゆ,eyebrow
-欽,N1,12,9,2181,キン; コン,つつし.む,respect; revere; long for
-薪,N1,16,8,2182,シン,たきぎ; まき,fuel; firewood; kindling
-褐,N1,13,8,2186,カツ,,brown; woollen kimono
-賜,N1,15,8,2190,シ,たまわ.る; たま.う; たも.う,grant; gift; boon; results
-嵯,N1,13,9,2191,サ; シ,,steep; craggy; rugged
-綜,N1,14,9,2194,ソウ,おさ.める; す.べる,rule; synthesize
-繕,N1,18,8,2195,ゼン,つくろ.う,darning; repair; mend; trim; tidy up; adjust
-栓,N1,10,8,2199,セン,,plug; bolt; cork; bung; stopper
-翠,N1,14,9,2200,スイ,かわせみ; みどり,green; kingfisher
-鮎,N1,16,9,2201,デン; ネン,あゆ; なまず,freshwater trout; smelt
-榛,N1,14,9,2205,シン; ハン,はしばみ; はり,hazelnut; filbert
-凹,N1,5,8,2206,オウ,くぼ.む; へこ.む; ぼこ,concave; hollow; sunken
-艶,N1,19,8,2207,エン,つや; なま.めかしい; あで.やか; つや.めく; なま.めく,glossy; luster; glaze; polish; charm; colorful; captivating
-惣,N1,12,9,2211,ソウ,すべ.て,all
-蔦,N1,14,9,2215,チョウ,つた,vine; ivy
-錬,N1,16,8,2221,レン,ね.る,tempering; refine; drill; train; polish
-隼,N1,10,9,2224,シュン; ジュン,はやぶさ,falcon
-渚,N1,11,9,2226,ショ,なぎさ,strand; beach; shore
-衷,N1,9,8,2229,チュウ,,inmost; heart; mind; inside
-逐,N1,10,8,2230,チク,,pursue; drive away; chase; accomplish; attain; commit
-斥,N1,5,8,2231,セキ,しりぞ.ける,reject; retreat; recede; withdraw; repel; repulse
-稀,N1,12,9,2232,キ; ケ,まれ; まばら,rare; phenomenal; dilute (acid)
-芙,N1,7,9,2238,フ,,lotus; Mt Fuji
-詔,N1,12,8,2239,ショウ,みことのり,imperial edict
-皐,N1,11,9,2240,コウ,さつき,swamp; shore; fifth month
-雛,N1,18,9,2241,スウ; ス; ジュ,ひな; ひよこ,chick; squab; duckling; doll
-惟,N1,11,9,2246,イ; ユイ,おも.んみる; これ; おも.うに,consider; reflect; think
-佑,N1,7,9,2250,ユウ; ウ,たす.ける,help; assist
-耀,N1,20,9,2253,ヨウ,かがや.く; ひかり,shine; sparkle; gleam; twinkle
-黛,N1,16,9,2254,タイ,まゆずみ,blackened eyebrows
-渥,N1,12,9,2257,アク,あつ.い; うるお.う,kindness; moisten
-憧,N1,15,8,2259,ショウ; トウ; ドウ,あこが.れる,yearn after; long for; aspire to; admire; adore
-宵,N1,10,8,2262,ショウ,よい,wee hours; evening; early night
-妄,N1,6,8,2264,モウ; ボウ,みだ.りに,delusion; unnecessarily; without authority; reckless
-惇,N1,11,9,2265,シュン; ジュン; トン,あつ.い,sincere; kind; considerate
-脩,N1,11,9,2267,シュウ,おさ.める; なが.い; ほじし,dried meat
-甫,N1,7,9,2270,ホ; フ,はじ.めて,for the first time; not until
-酌,N1,10,8,2271,シャク,く.む,bar-tending; serving sake; the host; draw (water); ladle; scoop; pump
-蚕,N1,10,6,2272,サン; テン,かいこ; こ,silkworm
-嬉,N1,15,9,2274,キ,うれ.しい; たの.しむ,glad; pleased; rejoice
-蒼,N1,13,9,2276,ソウ,あお.い,blue; pale
-暉,N1,13,9,2285,キ,かが.やく,shine; light
-頒,N1,13,8,2287,ハン,わ.かつ; わ.ける,distribute; disseminate; partition; understand
-只,N1,5,9,2288,シ,ただ,only; free; in addition
-肢,N1,8,8,2289,シ,,limb; arms & legs
-檀,N1,17,9,2291,ダン; タン,まゆみ,cedar; sandalwood; spindle tree
-凱,N1,12,9,2293,ガイ; カイ,かちどき; やわらぐ,victory song
-彗,N1,11,9,2294,スイ; エ; ケイ; セイ,ほうき,comet; broom
-謄,N1,17,8,2295,トウ,,mimeograph; copy
-梓,N1,11,9,2301,シ,あずさ,catalpa tree; woodblock printing
-丑,N1,4,9,2305,チュウ,うし,sign of the ox or cow; 1-3AM; second sign of Chinese zodiac
-嗣,N1,13,8,2310,シ,,heir; succeed
-叶,N1,5,9,2312,キョウ,かな.える; かな.う,grant; answer
-汐,N1,6,9,2314,セキ,しお; うしお; せい,eventide; tide; salt water; opportunity
-絢,N1,12,9,2315,ケン,,brilliant fabric design
-朔,N1,10,9,2318,サク,ついたち,conjunction (astronomy); first day of month; north
-伽,N1,7,9,2323,カ; ガ; キャ; ギャ,とぎ,nursing; attending; entertainer
-畝,N1,10,8,2327,ボウ; ホ; モ; ム,せ; うね,furrow; thirty tsubo; ridge; rib
-抄,N1,7,8,2328,ショウ,,extract; selection; summary; copy; spread thin
-爽,N1,11,8,2333,ソウ,あき.らか; さわ.やか; たがう,refreshing; bracing; resonant; sweet; clear
-黎,N1,15,9,2335,レイ; リ,くろ.い,dark; black; many
-惰,N1,12,8,2336,ダ,,lazy; laziness
-蛮,N1,12,8,2339,バン,えびす,barbarian
-冴,N1,7,9,2341,ゴ; コ,さ.える; こお.る; ひ.える,be clear; serene; cold; skilful
-旺,N1,8,8,2342,オウ,さかん,flourishing; successful; beautiful; vigorous
-萌,N1,11,9,2346,ホウ,も.える; きざ.す; めばえ; きざ.し,show symptoms of; sprout; bud; malt
-偲,N1,11,9,2350,サイ; シ,しの.ぶ,recollect; remember
-壱,N1,7,8,2351,イチ; イツ,ひとつ,one (in documents)
-瑠,N1,14,8,2352,ル; リュウ,,lapis lazuli
-允,N1,4,9,2358,イン,じょう; まこと.に; ゆるす,license; sincerity; permit
-侯,N1,9,8,2363,コウ,,marquis; lord; daimyo
-蒔,N1,13,9,2368,シ; ジ,う.える; ま.く,sow (seeds)
-鯉,N1,18,9,2369,リ,こい,carp
-弧,N1,9,8,2371,コ,,arc; arch; bow
-遥,N1,12,9,2376,ヨウ,はる.か,far off; distant; long ago
-舜,N1,13,9,2384,シュン,,type of morning glory; rose of Sharon; althea
-瑛,N1,12,9,2393,エイ,,sparkle of jewelry; crystal
-附,N1,8,8,2396,フ,つ.ける; つ.く,affixed; attach; refer to; append
-彪,N1,11,9,2397,ヒョウ; ヒュウ,あや,spotted; mottled; patterned; small tiger
-卯,N1,5,9,2400,ボウ; モウ,う,sign of the hare or rabbit; fourth sign of Chinese zodiac; 5-7AM; east
-但,N1,7,8,2404,タン,ただ.し,however; but
-綺,N1,14,9,2413,キ,あや,figured cloth; beautiful
-芋,N1,6,8,2418,ウ,いも,taro; yam; tuber
-茜,N1,9,9,2422,セン,あかね,madder; red dye; Turkey red
-凌,N1,10,9,2423,リョウ,しの.ぐ,endure; keep (rain)out; stave off; tide over; defy; slight; surpass
-皓,N1,12,9,2428,コウ,しろ.い; ひか.る,white; clear
-洸,N1,9,9,2430,コウ,,sparkling water
-毬,N1,11,9,2431,キュウ,いが; まり,burr; ball
-婆,N1,11,8,2435,バ,ばば; ばあ,old woman; grandma; wet nurse
-緋,N1,14,9,2443,ヒ,あけ; あか,scarlet; cardinal
-鯛,N1,19,9,2446,チョウ,たい,sea bream; red snapper
-怜,N1,8,9,2450,レイ; レン; リョウ,あわ.れむ; さと.い,wise
-邑,N1,7,9,2452,ユウ,むら,village; rural community; right village radical (no. 163)
-倣,N1,10,8,2454,ホウ,なら.う,emulate; imitate
-碧,N1,14,9,2455,ヘキ; ヒャク,,blue; green
-啄,N1,10,9,2463,タク; ツク; トク,ついば.む; つつ.く,peck; pick up
-穣,N1,18,9,2464,ジョウ,わら; ゆたか,good crops; prosperity; 10**28
-酉,N1,7,9,2468,ユウ,とり,west; bird; sign of the bird; 5-7PM; tenth sign of Chinese zodiac; sake radical (no. 164)
-悌,N1,10,9,2474,テイ; ダイ,,serving our elders
-倹,N1,10,8,2479,ケン,つま.しい; つづまやか,frugal; economy; thrifty
-柚,N1,9,9,2489,ユ; ユウ; ジク,ゆず,citron
-繭,N1,18,8,2495,ケン,まゆ; きぬ,cocoon
-紬,N1,11,9,,チュウ,つむぎ; つむ.ぐ,pongee (a knotted silk cloth)
-哉,N1,9,9,,サイ,かな; や,how; what; alas; question mark; exclamation mark
-凪,N1,6,9,,,なぎ; な.ぐ,lull; calm; (kokuji)
-燦,N1,17,9,,サン,さん.たる; あき.らか; きらめ.く; きら.めく,brilliant
-栞,N1,10,9,,カン,しおり,bookmark; guidebook
-崚,N1,11,9,,リョウ,,mountains towering in a row
-汰,N1,7,8,,タ; タイ,おご.る; にご.る; よな.げる,washing; sieving; filtering; weeding out; luxury
-銑,N1,14,9,,セン,,pig iron
-脹,N1,12,9,,チョウ,は.れる; ふく.らむ; ふく.れる,dilate; distend; bulge; fill out; swell
-賦,N1,15,8,,フ; ブ,,levy; ode; prose; poem; tribute; installment
-晟,N1,10,9,,セイ; ジョウ,あきらか,clear
-斤,N1,4,8,,キン,,axe; 1.32 lb; catty; counter for loaves of bread; axe radical (no. 69)
-亦,N1,6,9,,エキ; ヤク,また,also; again
-冶,N1,7,8,,ヤ,い.る,melting; smelting
-瑶,N1,13,9,,ヨウ,たま,beautiful as a jewel
-且,N1,5,8,,ショ; ソ; ショウ,か.つ,moreover; also; furthermore
-弐,N1,6,8,,ニ; ジ,ふた.つ; そえ,II; two; second
-勁,N1,9,9,,ケイ,つよ.い,strong
-旦,N1,5,8,,タン; ダン,あき.らか; あきら; ただし; あさ; あした,daybreak; dawn; morning
-麟,N1,24,9,,リン,,Chinese unicorn; genius; giraffe; bright; shining
-耗,N1,10,8,,モウ; コウ,,decrease
-亥,N1,6,9,,ガイ; カイ,い,sign of the hog; 9-11PM; twelfth sign of the Chinese zodiac
-吏,N1,6,8,,リ,,officer; an official
-勺,N1,3,9,,シャク,,ladle; one tenth of a go; dip
-塑,N1,13,8,,ソ,でく,model; molding
-侑,N1,8,9,,ユウ; ウ,すす.める; たす.ける,urge to eat
-叡,N1,16,9,,エイ,あき.らか,intelligence; imperial
-澪,N1,16,9,,レイ,みお,water route; shipping channel
-嵩,N1,13,9,,スウ; シュウ,かさ; かさ.む; たか.い,be aggravated; grow worse; grow bulky; swell
-箇,N1,14,8,,カ; コ,,counter for articles
-匁,N1,4,9,,,もんめ; め,monme; 3.75 grams; (kokuji)
-裟,N1,13,9,,サ; シャ,,Buddhist surplice
-誼,N1,15,9,,ギ,よしみ; よい,friendship; intimacy
-錘,N1,16,9,,スイ,つむ; おもり,weight; plumb bob; sinker; spindle
-竣,N1,12,9,,ドウ; シュン,わらわ; わらべ; おわ.る,end; finish
-胤,N1,9,9,,イン,たね,descendent; issue; offspring
-爵,N1,17,8,,シャク,,baron; peerage; court rank
-椋,N1,12,9,,リョウ,むく,type of deciduous tree; grey starling
-鞠,N1,17,9,,キク; キュウ,まり,ball
-瑚,N1,13,9,,コ; ゴ,,ancestral offering receptacle; coral
-麿,N1,18,9,,,まろ,I; you; (kokuji)
-洵,N1,9,9,,ジュン; シュン,の.ぶ; まこと.に,alike; truth
-碩,N1,14,9,,セキ,おお.きい,large; great; eminent
-茉,N1,8,9,,マツ; バツ; マ,,jasmine
-凜,N1,15,9,,リン,きびし.い,cold; strict; severe
-遵,N1,15,8,,ジュン,,abide by; follow; obey; learn
-宥,N1,9,9,,ユウ,なだ.める; ゆる.す,soothe; calm; pacify
-袈,N1,11,9,,ケ; カ,,a coarse camlet
-楓,N1,13,9,,フウ,かえで,maple
-墾,N1,16,8,,コン,は.る; ひら.く,ground-breaking; open up farmland
-昴,N1,9,9,,コウ; ボウ,すばる,the Pleiades
-笙,N1,11,9,,ショウ; ソウ,ふえ,a reed instrument
-耶,N1,9,9,,ヤ; ジャ,か,question mark
-侃,N1,8,9,,カン,つよ.い,strong; just; righteous; peace-loving
-菫,N1,11,9,,キン,すみれ,the violet
-痘,N1,12,8,,トウ,,pox; smallpox
-迪,N1,8,9,,テキ,みち; みちび.く; すす.む; いた.る,edify; way; path
-茄,N1,8,9,,カ,,eggplant
-梢,N1,11,9,,ショウ,こずえ; くすのき,treetops; twig
-菖,N1,11,9,,ショウ,,iris
-倖,N1,10,9,,コウ,しあわ.せ; さいわ.い,happiness; luck
-璃,N1,15,8,,リ,,glassy; lapis lazuli
-莞,N1,10,9,,カン,い,smiling; reed used to cover tatami
-瞭,N1,17,8,,リョウ,あきらか,clear
-梧,N1,11,9,,ゴ,あおぎり,Chinese parasol tree; phoenix tree
-昂,N1,8,9,,コウ; ゴウ,あ.がる; たか.い; たか.ぶる,rise
-莉,N1,10,9,,リ; ライ; レイ,,jasmine
-紗,N1,10,9,,サ; シャ,うすぎぬ,gauze; gossamer
-采,N1,8,8,,サイ,と.る; いろどり,dice; form; appearance; take; gather; coloring
-颯,N1,14,9,,サツ; ソウ,さっ.と,sudden; quick; sound of the wind
-詢,N1,13,9,,ジュン; シュン,はか.る; まこと,consult with
-爾,N1,14,9,,ジ; ニ,なんじ; しかり; その; のみ; おれ; しか,you; thou; second person
-玖,N1,7,9,,キュウ; ク,,beautiful black jewel; nine
-晏,N1,10,9,,アン,おそ.い,late; quiet; sets (sun)
-蕗,N1,16,9,,ロ; ル,ふき,butterbur; bog rhubarb
-衿,N1,9,9,,キン; コン,えり,neck; collar; lapel
-眸,N1,11,9,,ボウ; ム,ひとみ,pupil of the eye
-頌,N1,13,9,,ショウ; ジュ; ヨウ,かたち; たた.える; ほめ.る,eulogy
-椰,N1,13,9,,ヤ,やし,coconut tree
-瑳,N1,14,9,,サ,みが.く,polish; brilliant white luster of a gem; artful smile
-綸,N1,14,9,,リン; カン,いと,thread; silk cloth
-熙,N1,15,9,,キ,たのし.む; ひか.る; ひろ.い; よろこ.ぶ; かわ.く; あきらか; ひろ.める; ひろ.まる,bright; sunny; prosperous; merry
-奎,N1,9,9,,ケイ; キ,,star; god of literature
-虞,N1,13,8,,グ,おそれ; おもんぱか.る; はか.る; うれ.える; あざむ.く; あやま.る; のぞ.む; たの.しむ,fear; uneasiness; anxiety; concern; expectation; consideration
-晨,N1,11,9,,シン,あした; とき; あさ,morning; early
-丞,N1,6,9,,ジョウ; ショウ,すく.う; たす.ける,help
-琳,N1,12,9,,リン,,jewel; tinkling of jewelry
-捺,N1,11,9,,ナツ; ダツ,さ.す; お.す,press; print; affix a seal; stamp
-謁,N1,15,8,,エツ,,audience; audience (with king)
-柾,N1,9,9,,,まさ; まさめ; まさき,straight grain; spindle tree; (kokuji)
-燿,N1,18,9,,ヨウ,かがや.く; ひかり,shine
-濫,N1,18,8,,ラン,みだ.りに; みだ.りがましい,excessive; overflow; spread out
-絃,N1,11,9,,ゲン,いと,string; cord; samisen music
-柊,N1,9,9,,シュ; シュウ,ひいらぎ,holly
-伶,N1,7,9,,レイ; リョウ,わざおぎ,actor
-恕,N1,10,9,,ジョ; ショ,ゆる.す,excuse; tolerate; forgive
-丙,N1,5,8,,ヘイ,ひのえ,third class; 3rd; 3rd calendar sign
-朕,N1,10,8,,チン,,majestic plural; imperial we
-諄,N1,15,9,,シュン,ひちくど.い; くど.い; くどくど; ねんご.ろ,tedious
-伎,N1,6,8,,ギ; キ,わざ; わざおぎ,deed; skill
-捷,N1,11,9,,ショウ; ソウ,はや.い,victory; fast
-諒,N1,15,9,,リョウ,あきら.か; まことに,fact; reality; understand; appreciate
-蓉,N1,13,9,,ヨウ,,lotus
-燎,N1,16,9,,リョウ,かがりび,burn; bonfire
-滉,N1,13,9,,コウ,ひろ.い,deep and broad (water)
+character,level,strokes,grade,freq,radical,radical_number,onyomi,kunyomi,nanori,meanings,words,supplementary
+氏,N1,4,4,84,氏,83,シ,うじ; -うじ,,family name; surname; clan,氏; 氏名,
+統,N1,12,5,125,糸,120,トウ,す.べる,のり; むね,overall; relationship; ruling; governing,伝統; 大統領; 系統; 統一; 統計; 統合; 統制; 統率,
+保,N1,9,5,146,人,9,ホ; ホウ,たも.つ,う; お; ぶ; もり; やす; やすし,protect; guarantee; keep; preserve; sustain; support,保証; 保存; 保健; 確保; 保つ; 保育; 保温; 保管,
+第,N1,11,3,160,竹,118,ダイ; テイ,,,No.; residence,次第; 落第; 第,
+結,N1,12,4,162,糸,120,ケツ; ケチ,むす.ぶ; ゆ.う; ゆ.わえる,ゆい; ゆう,tie; bind; contract; join; organize; do up hair; fasten,結構; 結婚; 結果; 結局; 結論; 結ぶ; 結核; 結合,
+派,N1,9,6,164,水,85,ハ,,,faction; group; party; clique; sect; school,派手; 派; 特派; 派遣,
+案,N1,10,4,206,木,75,アン,つくえ,,plan; suggestion; draft; ponder; fear; proposition; idea; expectation; worry; table; bench,案内; 案; 提案; 答案; 案外; 議案; 法案; 案じる,
+策,N1,12,6,209,竹,118,サク,,,scheme; plan; policy; step; means,対策; 策; 政策; 方策,
+基,N1,11,5,241,土,32,キ,もと; もとい,きい; とも,fundamentals; radical (chem); counter for machines; foundation,基; 基本; 基づく; 基準; 基礎; 基地; 基盤; 基金,
+価,N1,8,5,250,人,9,カ; ケ,あたい,,value; price,価格; 価値; 高価; 評価; 物価; 定価,
+提,N1,12,5,254,手,64,テイ; チョウ; ダイ,さ.げる,,propose; take along; carry in hand,提案; 提出; 前提; 提供; 提携; 提示,
+挙,N1,10,4,257,手,64,キョ,あ.げる; あ.がる; こぞ.る,たか,raise; plan; project; behavior; actions,挙げる; 選挙; 一挙に,
+応,N1,7,5,266,心,61,オウ; ヨウ; -ノウ,あた.る; まさに; こた.える,お; たか; まさ,apply; answer; yes; OK; reply; accept,応じる; 一応; 応援; 応接; 応対; 応用; 応ずる; 応急,
+企,N1,6,8,278,人,9,キ,くわだ.てる; たくら.む,,undertake; scheme; design; attempt; plan,企業; 企画,
+検,N1,12,5,290,木,75,ケン,しら.べる,,examination; investigate,検査; 検討; 検事; 探検; 点検,
+藤,N1,18,8,291,艸,140,トウ; ドウ,ふじ,ぞう; と; ふじゅ,wisteria,,
+沢,N1,7,8,296,水,85,タク,さわ; うるお.い; うるお.す; つや,おも; さ; さわん; わさ,swamp; marsh; brilliance; grace,贅沢; 光沢,
+裁,N1,12,6,297,衣,145,サイ,た.つ; さば.く,,tailor; judge; decision; cut out (pattern),裁判; 裁縫; 裁く; 制裁; 体裁; 独裁,
+証,N1,12,5,306,言,149,ショウ,あかし,,evidence; proof; certificate,証明; 保証; 証; 証言; 証拠; 証人,
+援,N1,12,8,312,手,64,エン,,,abet; help; save,援助; 応援; 救援,
+施,N1,9,8,323,方,70,シ; セ,ほどこ.す,,give; bestow; perform; alms,実施; 施行; 施設; 施す,
+井,N1,4,4,339,二,7,セイ; ショウ,い,いの; さい; ひ,well; well crib; town; community,井戸; 天井,
+護,N1,20,5,351,言,149,ゴ,まも.る,もり,safeguard; protect,看護婦; 介護; 看護; 護衛; 弁護; 保護; 養護,
+展,N1,10,6,352,尸,44,テン,,のぶ; のり; ひろ; ゆき,unfold; expand,展覧会; 発展; 展開; 進展; 展示; 展望,
+態,N1,14,5,353,心,61,タイ,わざ.と,,attitude; condition; figure; appearance; voice (of verbs),事態; 状態; 態度; 形態; 実態; 態勢,
+鮮,N1,17,8,355,魚,195,セン,あざ.やか,,fresh; vivid; clear; brilliant; Korea,新鮮; 鮮やか,
+視,N1,11,6,362,見,147,シ,み.る,とも; み,inspection; regard as; see; look at,重視; 無視; 監視; 近視; 視覚; 視察; 視点; 視野,
+条,N1,7,5,363,木,75,ジョウ; チョウ; デキ,えだ; すじ,,"article; clause; counter for articles, clauses, paragraphs, etc.; twig; item; stripe; streak",条件; 条約; 箇条書き,
+幹,N1,13,5,364,干,51,カン,みき,つよし; まさ; もと; えだ; き; くる; たかし; つね; とも; み; もとき; よし; より,tree trunk; main part; talent; capability,新幹線; 幹; 幹線; 幹部,
+独,N1,9,5,365,犬,94,ドク; トク,ひと.り,どいつ; どっ,single; alone; spontaneously; Germany,独身; 独特; 独立; 独り; 独り言; 孤独; 単独; 独裁,
+宮,N1,10,3,367,宀,40,キュウ; グウ; ク; クウ,みや,ぐ; み,Shinto shrine; constellations; palace; princess,お宮; 宮殿,
+率,N1,11,5,383,玄,95,ソツ; リツ; シュツ,ひき.いる,,ratio; rate; proportion; %; factor; lead; spearhead; command,率; 確率; 率直; 能率; 軽率; 効率; 統率; 倍率,
+衛,N1,16,5,400,行,144,エイ; エ,,もり; い; まもる,defense; protection,衛星; 自衛; 衛生; 護衛; 守衛; 防衛,
+張,N1,11,5,403,弓,57,チョウ,は.る; -は.り; -ば.り,はり; わり,counter for bows & stringed instruments; stretch; spread; put up (tent),緊張; 主張; 張る; 引っ張る; 拡張; 出張; 威張る; 欲張り,
+監,N1,15,8,408,皿,108,カン,,けん,oversee; official; govt office; rule; administer,監督; 監視,
+環,N1,17,8,409,玉,96,カン,わ,たま; たまき,ring; circle; loop,環境; 循環,
+審,N1,15,8,412,宀,40,シン,つまび.らか; つぶさ.に,あきら,hearing; judge; trial,審判; 審議; 審査; 不審,
+義,N1,13,5,415,羊,123,ギ,,ただし; ちか; のり; よし,righteousness; justice; morality; honor; loyalty; meaning,講義; 義務; 主義; 意義; 義理; 正義; 定義,
+訴,N1,12,8,427,言,149,ソ,うった.える,,accusation; sue; complain of pain; appeal to,訴える; 訴え; 訴訟,
+株,N1,10,6,432,木,75,シュ,かぶ,,stocks; stump; shares; stock; counter for small plants,株; 株式,
+姿,N1,9,6,441,女,38,シ,すがた,しな,figure; form; shape,姿; 姿勢,
+閣,N1,14,6,444,門,169,カク,,,tower; tall building; palace,内閣,
+韓,N1,18,8,445,韋,178,カン,から; いげた,,Korea,,true
+衆,N1,12,6,450,血,143,シュウ; シュ,おお.い,,masses; great numbers; multitude; populace,公衆; 衆; 観衆; 大衆; 衆議院,
+評,N1,12,5,454,言,149,ヒョウ,,,evaluate; criticism; comment,批評; 評価; 評判; 評論; 好評; 書評; 不評,
+岡,N1,8,4,463,山,46,コウ,おか,,mount; hill; knoll,,true
+影,N1,15,8,464,彡,59,エイ,かげ,,shadow; silhouette; phantom,影; 影響; 撮影,
+松,N1,8,4,471,木,75,ショウ,まつ,おお; しょ; ま; まっ,pine tree,松,
+撃,N1,15,8,473,手,64,ゲキ,う.つ,,beat; attack; defeat; conquer,撃つ; 攻撃; 襲撃; 衝撃; 打撃; 反撃,
+佐,N1,7,4,474,人,9,サ,,すけ,assistant; help,,
+核,N1,10,8,475,木,75,カク,,,nucleus; core; kernel,核; 結核,
+整,N1,16,3,478,攴,66,セイ,ととの.える; ととの.う,ひとし,organize; arranging; tune; tone; meter; key (music),整理; 整数; 整備; 調整; 整う; 整然; 整列; 整える,
+融,N1,16,8,481,虫,142,ユウ,と.ける; と.かす,あきら,dissolve; melt,金融; 融資; 融通,
+製,N1,14,5,488,衣,145,セイ,,,made in...; manufacture,製造; 製品; 作製; 製作; 製; 製鉄; 製法,
+票,N1,11,4,489,示,113,ヒョウ,,,ballot; label; ticket; sign,投票; 票,
+渉,N1,11,8,499,水,85,ショウ,わた.る,えん,ford; go cross; transit; ferry; import; involve,干渉; 交渉,
+響,N1,20,8,502,音,180,キョウ,ひび.く,,echo; sound; resound; ring; vibrate,影響; 響き; 響く; 反響,
+阪,N1,7,4,503,阜,170,ハン,さか,,heights; slope,,true
+推,N1,11,6,507,手,64,スイ,お.す,,conjecture; infer; guess; suppose; support; push (for),推薦; 推定; 推進; 推測; 推理; 類推,
+請,N1,15,8,524,言,149,セイ; シン; ショウ,こ.う; う.ける,うけ,solicit; invite; ask,請求; 請う; 申請; 要請; 強請る,
+器,N1,15,4,525,口,30,キ,うつわ,,utensil; vessel; receptacle; implement; instrument; ability; container; tool; set,器用; 武器; 楽器; 器械; 器具; 食器; 容器; 受話器,
+士,N1,3,5,526,士,33,シ,さむらい,お; ま,gentleman; scholar; samurai; samurai radical (no. 33),博士; 武士; 学士; 修士; 紳士; 同士; 兵士,
+討,N1,10,6,528,言,149,トウ,う.つ,,chastise; attack; defeat; destroy; conquer,検討; 討つ; 討議; 討論,
+攻,N1,7,8,532,攴,66,コウ,せ.める,おさむ,aggression; attack; criticize; polish,攻撃; 専攻; 攻める; 攻め,
+崎,N1,11,4,533,山,46,キ,さき; さい; みさき,,promontory; cape; spit,,
+督,N1,13,8,534,目,109,トク,,ただ; ただし,coach; command; urge; lead; supervise,監督,
+授,N1,11,5,535,手,64,ジュ,さず.ける; さず.かる,,impart; instruct; grant; confer,授業; 教授; 助教授; 授ける,
+催,N1,13,8,536,人,9,サイ,もよう.す; もよお.す,,sponsor; hold (a meeting); give (a dinner),催促; 催し; 開催; 主催; 催す,
+及,N1,3,8,544,又,29,キュウ,およ.ぶ; およ.び; および; およ.ぼす,おい; の,reach out; exert; exercise; cause,及ぼす; 普及; 及び; 及ぶ; 追及,
+憲,N1,16,6,551,心,61,ケン,,かず; のり; よし,constitution; law,憲法,
+離,N1,19,8,555,隹,172,リ,はな.れる; はな.す,,detach; separation; disjoin; digress,離す; 離婚; 離れる; 距離; 分離,
+激,N1,16,6,560,水,85,ゲキ,はげ.しい,,violent; get excited; enraged; chafe; incite,急激; 刺激; 激しい; 感激; 激増; 激励,
+摘,N1,14,8,564,手,64,テキ,つ.む,つむ,pinch; pick; pluck; trim; clip; summarize,指摘; 摘む,
+系,N1,7,6,567,糸,120,ケイ,,,lineage; system,系統; 体系; 系,
+批,N1,7,6,568,手,64,ヒ,,,criticism; strike,批判; 批評,
+郎,N1,9,8,569,邑,163,ロウ; リョウ,おとこ,いら; お; とう; もん; ろ; ろお,son; counter for sons,,
+健,N1,11,4,572,人,9,ケン,すこ.やか,かつ; たけ; たけし; たて; とし; やす; やすし,healthy; health; strength; persistence,健康; 保健; 健在; 健全; 健やか,
+盟,N1,13,6,587,皿,108,メイ,,,alliance; oath,同盟; 連盟,
+従,N1,10,6,601,彳,60,ジュウ; ショウ; ジュ,したが.う; したが.える; より,,accompany; obey; submit to; comply; follow; secondary; incidental; subordinate,従う; 従兄弟; 従姉妹; 従事; 従来; 従業員,
+修,N1,10,5,603,人,9,シュウ; シュ,おさ.める; おさ.まる,おき; なが; のぶ; おさむ,discipline; conduct oneself well; study; master,修正; 修理; 研修; 修繕; 改修; 修学; 修業; 修士,
+隊,N1,12,4,605,阜,170,タイ,,,regiment; party; company; squad,軍隊; 兵隊,
+織,N1,18,5,608,糸,120,ショク; シキ,お.る; お.り; おり; -おり; -お.り,こおり; こり; のり,weave; fabric,組織; 織; 織物; 織る,
+拡,N1,8,6,611,手,64,カク; コウ,ひろ.がる; ひろ.げる; ひろ.める,,broaden; extend; expand; enlarge,拡大; 拡充; 拡張; 拡散,
+故,N1,9,5,612,攴,66,コ,ゆえ; ふる.い; もと,,happenstance; especially; intentionally; reason; cause; circumstances; the late; therefore; consequently,故障; 事故; 故郷; 故; 故人; 其れ故,
+振,N1,10,8,614,手,64,シン,ふ.る; ふ.れる; ふ.るう,ふり,shake; wave; wag; swing,振る; 振舞う; 振り仮名; 振興; 振動; 不振; 振り; 身振り,
+弁,N1,5,5,619,廾,55,ベン; ヘン,かんむり; わきま.える; わ.ける; はなびら; あらそ.う,べ,valve; petal; braid; speech; dialect; discrimination; dispose of; distinguish; conical cap,お弁当; 弁当; 勘弁; 代弁; 弁解; 弁護; 弁償; 弁論,
+就,N1,12,6,624,尢,43,シュウ; ジュ,つ.く; つ.ける,たか; なり,concerning; settle; take position; depart; study; per,就職; 就く; 就任; 就業,
+異,N1,11,6,631,田,102,イ,こと; こと.なる; け,,uncommon; different; queerness; strangeness; wonderful; curious; unusual,異常; 異なる; 異議; 異見; 異性; 異動; 異論; 驚異,
+献,N1,13,8,637,犬,94,ケン; コン,たてまつ.る,,offering; counter for drinks; present; offer,貢献; 献立; 文献,
+厳,N1,17,6,638,厂,27,ゲン; ゴン,おごそ.か; きび.しい; いか.めしい; いつくし,いつ; いづ; きゅうら; とし,stern; strictness; severity; rigidity,厳しい; 厳重; 厳か; 厳密,
+維,N1,14,8,643,糸,120,イ,,これ; たもつ; つぐ; ゆい; ゆき,fiber; tie; rope,維持; 繊維,
+浜,N1,10,8,645,水,85,ヒン,はま,,seacoast; beach; seashore,浜; 浜辺,
+遺,N1,15,6,647,辵,162,イ; ユイ,のこ.す,,bequeath; leave behind; reserve,遺跡,
+塁,N1,12,8,651,土,32,ルイ; ライ; スイ,とりで,る,bases; fort; rampart; walls; base(ball),,
+邦,N1,7,8,654,邑,163,ホウ,くに,,home country; country; Japan,連邦,
+素,N1,10,5,660,糸,120,ソ; ス,もと,,elementary; principle; naked; uncovered,素; 酸素; 要素; 素人; 水素; 素直; 素質; 簡素,
+遣,N1,13,8,664,辵,162,ケン,つか.う; -つか.い; -づか.い; つか.わす; や.る,,dispatch; despatch; send; give; donate; do; undertake,小遣い; 仮名遣い; 言葉遣い; 遣い; 派遣; 無駄遣い; 遣り通す,
+抗,N1,7,8,666,手,64,コウ,あらが.う,,confront; resist; defy; oppose,抵抗; 反抗; 抗議; 抗争; 対抗,
+模,N1,14,6,668,木,75,モ; ボ,,がみ,imitation; copy; mock,模様; 規模; 模型; 模索; 模範; 模倣,
+雄,N1,12,8,669,隹,172,ユウ,お-; おす; おん,かつ; たけ; つよし; ゆ; よう,masculine; male; hero; leader; superiority; excellence,雄; 英雄,
+益,N1,10,5,674,皿,108,エキ; ヤク,ま.す,まし; ます,benefit; gain; profit; advantage,利益; 収益; 有益,
+緊,N1,15,8,677,糸,120,キン,し.める; し.まる,,tense; solid; hard; reliable; tight,緊張; 緊急,
+標,N1,15,4,686,木,75,ヒョウ,しるべ; しるし,しべ,signpost; seal; mark; stamp; imprint; symbol; emblem; trademark; evidence; souvenir; target,目標; 標識; 標準; 標本; 座標; 標語,
+宣,N1,9,6,695,宀,40,セン,のたま.う,とおる; のぶ; のぼる; のり; ひさ; よし,proclaim; say; announce,宣伝; 宣教; 宣言,
+昭,N1,9,3,697,日,72,ショウ,,あき; あきら; かず; かずみ; てる,shining; bright,,
+廃,N1,12,8,698,广,53,ハイ,すた.れる; すた.る,,abolish; obsolete; cessation; discarding; abandon,荒廃; 廃棄; 廃止; 廃れる,
+伊,N1,6,9,703,人,9,イ,かれ,これ; ただ; よし; いと; だ,Italy; that one,,
+江,N1,6,8,704,水,85,コウ,え,くん; とうみ; み; りえ,creek; inlet; bay,,
+僚,N1,14,8,709,人,9,リョウ,,,colleague; official; companion,同僚; 官僚,
+吉,N1,6,8,711,口,30,キチ; キツ,よし,え; き; きっ; きる; こし; と; よ,good luck; joy; congratulations,不吉,
+盛,N1,11,6,712,皿,108,セイ; ジョウ,も.る; さか.る; さか.ん,もり,boom; prosper; copulate,盛ん; 盛り; 盛る; 盛装; 盛大; 全盛; 繁盛; 目盛,
+皇,N1,9,6,721,白,106,コウ; オウ,,おうじ; おお; み,emperor,天皇; 皇居,
+臨,N1,18,6,722,臣,131,リン,のぞ.む,み,look to; face; meet; confront; attend; call on,臨時; 臨む,
+踏,N1,15,8,723,足,157,トウ,ふ.む; ふ.まえる,,step; trample; carry through; appraise; evade payment,踏む; 踏切; 踏まえる,
+壊,N1,16,8,727,土,32,カイ; エ,こわ.す; こわ.れる; やぶ.る,,demolition; break; destroy,壊す; 壊れる; 破壊; 崩壊,
+債,N1,13,8,728,人,9,サイ,,,bond; loan; debt,負債,
+興,N1,16,5,734,臼,134,コウ; キョウ,おこ.る; おこ.す,おき; おこっ; とも,entertain; revive; retrieve; interest; pleasure,興味; 興業; 興奮; 振興; 新興; 復興; 余興; 興じる,
+源,N1,13,6,738,水,85,ゲン,みなもと,はら; みな; もと,source; origin,資源; 源; 起源; 語源; 財源; 水源; 電源,
+儀,N1,15,8,739,人,9,ギ,,のり; よし,ceremony; rule; affair; case; a matter,行儀; 礼儀; 儀式; 御辞儀,
+創,N1,12,6,741,刀,18,ソウ; ショウ,つく.る; はじ.める; きず; けず.しける,はじめ,genesis; wound; injury; hurt; start; originate,創作; 創刊; 創造; 創立; 独創,
+障,N1,14,6,742,阜,170,ショウ,さわ.る,,hinder; hurt; harm,故障; 障害; 障子; 気障; 障る; 保障,
+継,N1,13,8,743,糸,120,ケイ,つ.ぐ; まま-,,inherit; succeed; continue; patch; graft (tree),継続; 中継; 継ぐ; 跡継ぎ; 継ぎ目; 受け継ぐ,
+筋,N1,12,6,744,竹,118,キン,すじ,,muscle; sinew; tendon; fiber; plot; plan; descent,筋; 筋肉; 大筋; 一筋,
+闘,N1,18,8,751,門,169,トウ,たたか.う; あらそ.う,と,fight; war,戦闘; 奮闘,
+葬,N1,12,8,754,艸,140,ソウ,ほうむ.る,はふり,interment; bury; shelve,葬式; 葬る,
+避,N1,16,8,756,辵,162,ヒ,さ.ける; よ.ける,,evade; avoid; avert; ward off; shirk; shun,避ける; 避難,
+司,N1,5,4,759,口,30,シ,つかさど.る,つ; つか; つかさ,director; official; govt office; rule; administer,司会; 司法; 上司; 司る,
+康,N1,11,4,760,广,53,コウ,,かん; こ; みち; やす; やすし,ease; peace,健康,
+善,N1,12,6,765,口,30,ゼン,よ.い; い.い; よ.く; よし.とする,たる; よし,virtuous; good; goodness,善; 改善; 最善; 親善; 善良; 善し悪し,
+逮,N1,11,8,766,辵,162,タイ,,,apprehend; chase,逮捕,
+迫,N1,8,8,773,辵,162,ハク,せま.る,さこ; せ; せこ; はさ; はさま; はざま,urge; force; imminent; spur on,迫る; 圧迫; 脅迫; 迫害,
+惑,N1,12,8,777,心,61,ワク,まど.う,,beguile; delusion; perplexity,迷惑; 疑惑; 誘惑; 惑星,
+崩,N1,11,8,778,山,46,ホウ,くず.れる; -くず.れ; くず.す,,crumble; die; demolish; level,崩す; 崩れる; 雪崩; 崩壊,
+紀,N1,9,5,780,糸,120,キ,,おさむ; ただす; とし; とも; のり; もと,chronicle; account; narrative; history; annals; geologic period,世紀,
+聴,N1,17,8,781,耳,128,チョウ; テイ,き.く; ゆる.す,きく,listen; headstrong; naughty; careful inquiry,聴覚; 聴講; 聴診器,
+脱,N1,11,8,782,肉,130,ダツ,ぬ.ぐ; ぬ.げる,,undress; removing; escape from; get rid of; be left out; take off,脱ぐ; 脱線; 脱出; 脱退; 脱する,
+級,N1,9,3,785,糸,120,キュウ,,しな,class; rank; grade,級; 学級; 高級; 上級; 初級; 階級; 等級; 同級,
+博,N1,12,4,794,十,24,ハク; バク,,ぐれ; と; はか; ひろ,Dr.; command; esteem; win acclaim; Ph.D.; exposition; fair,博士; 博物館,
+締,N1,15,8,797,糸,120,テイ,し.まる; し.まり; し.める; -し.め; -じ.め,,tighten; tie; shut; lock; fasten,締める; 締切; 締め切る; 戸締り; 取り締まり; 取り締まる,
+救,N1,11,5,799,攴,66,キュウ,すく.う,,salvation; save; help; rescue; reclaim,救助; 救う; 救援; 救済; 救い,
+執,N1,11,8,800,土,32,シツ; シュウ,と.る,し,tenacious; take hold; grasp; take to heart,執筆; 執着,
+房,N1,8,8,808,戶,63,ボウ,ふさ,お; のぶ; わ,tassel; tuft; fringe; bunch; lock (hair); segment (orange); house; room,暖房; 冷房; 女房; 文房具,
+撤,N1,15,8,811,手,64,テツ,,,remove; withdraw; disarm; dismantle; reject; exclude,,
+削,N1,9,8,814,刀,18,サク,けず.る; はつ.る; そ.ぐ,げ,plane; sharpen; whittle; pare; shave,削る; 削除; 削減,
+密,N1,11,6,815,宀,40,ミツ,ひそ.か,,secrecy; density (pop); minuteness; carefulness,密; 秘密; 過密; 厳密; 精密; 密か; 密集; 密接,
+措,N1,11,8,818,手,64,ソ,お.く,,set aside; give up; suspend; discontinue; lay aside; except,措置,
+志,N1,7,5,823,心,61,シ,シリング; こころざ.す; こころざし,じん; べ; べし; ゆき,intention; plan; resolve; aspire; motive; hopes; shilling,意志; 志; 志す; 志向; 志望; 同志,
+載,N1,13,8,825,車,159,サイ,の.せる; の.る,とし; のり,ride; board; get on; place; spread; 10**44; record; publish,載る; 載せる; 記載; 掲載,
+陣,N1,10,8,828,阜,170,ジン,,,camp; battle array; ranks; position; sudden; brief time,,
+我,N1,7,6,829,戈,62,ガ,われ; わ; わ.が-; わが-,あ; あが; か,ego; I; selfish; our; oneself,我慢; 怪我; 我々; 自我,
+為,N1,9,8,831,火,86,イ,ため; な.る; な.す; す.る; たり; つく.る; なり,びい,do; change; make; benefit; welfare; be of use; reach to; try; practice; cost; serve as; good; advantage; as a result of,為; 為替; 為す; 行為,
+抑,N1,7,8,834,手,64,ヨク,おさ.える,,repress; well; now; in the first place; push; shove; press; seal; do in spite of,抑圧; 抑制,
+幕,N1,13,6,835,巾,50,マク; バク,とばり,,curtain; bunting; act of play,幕,
+染,N1,9,6,837,木,75,セン,そ.める; そ.まる; し.みる; し.み,そめ,dye; color; paint; stain; print,汚染; 伝染; 感染; 染みる; 染まる; 染める,
+奈,N1,8,4,841,大,37,ナ; ナイ; ダイ,いかん; からなし,,Nara; what?,,
+傷,N1,13,6,845,人,9,ショウ,きず; いた.む; いた.める,,wound; hurt; injure; impair; pain; injury; cut; gash; scar; weak point,傷; 火傷; 中傷; 負傷; 傷付く,
+択,N1,7,8,847,手,64,タク,えら.ぶ,,choose; select; elect; prefer,選択; 採択,
+秀,N1,7,8,848,禾,115,シュウ,ひい.でる,しゅ; しょう; ひで; ひでし; ほ,excel; excellence; beauty; surpass,優秀,
+徴,N1,14,8,850,彳,60,チョウ; チ,しるし,,indications; sign; omen; symptom; collect; seek; refer to; question,特徴; 象徴; 徴収,
+弾,N1,12,8,853,弓,57,ダン; タン,ひ.く; -ひ.き; はず.む; たま; はじ.く; はじ.ける; ただ.す; はじ.きゆみ,,bullet; twang; flip; snap,弾く; 弾; 弾力; 爆弾; 弾む,
+償,N1,17,8,854,人,9,ショウ,つぐな.う,,reparation; make up for; recompense; redeem,賠償; 弁償; 補償,
+功,N1,5,4,857,力,19,コウ; ク,いさお,いさ; かつ; くぬ; ぐう; こと; つとむ; とし; のり; よし,achievement; merits; success; honor; credit,成功; 功績,
+拠,N1,8,8,858,手,64,キョ; コ,よ.る,,foothold; based on; follow; therefore,根拠; 証拠,
+秘,N1,10,6,862,禾,115,ヒ,ひ.める; ひそ.か; かく.す,,secret; conceal,秘密; 神秘; 秘書,
+拒,N1,8,8,863,手,64,キョ; ゴ,こば.む,,repel; refuse; reject; decline,拒絶; 拒否,
+刑,N1,6,8,864,刀,18,ケイ,,おさか; ぎょう,punish; penalty; sentence; punishment,刑事; 刑; 刑罰; 死刑,
+塚,N1,12,8,869,土,32,チョウ,つか; -づか,ずか; つ,hillock; mound,,
+致,N1,10,8,870,至,133,チ,いた.す,,doth; do; send; forward; cause; exert; incur; engage,致す; 一致; 雅致; 合致,
+繰,N1,19,8,872,糸,120,ソウ,く.る,くり,winding; reel; spin; turn (pages); look up; refer to,繰り返す; 引っ繰り返る,
+尾,N1,7,8,875,尸,44,ビ,お,,tail; end; counter for fish; lower slope of mountain,尾,
+描,N1,11,8,876,手,64,ビョウ,えが.く; か.く,,sketch; compose; write; draw; paint,描く; 描写,
+鈴,N1,13,8,880,金,167,レイ; リン,すず,ず,small bell; buzzer,鈴,
+盤,N1,15,8,881,皿,108,バン,,ち; わ,tray; shallow bowl; platter; tub; board; phonograph record,基盤; 地盤; 算盤; 碁盤,
+項,N1,12,8,884,頁,181,コウ,うなじ,,paragraph; nape of neck; clause; item; term (expression),項目; 事項,
+喪,N1,12,8,885,口,30,ソウ,も,,miss; mourning,,
+伴,N1,7,8,886,人,9,ハン; バン,ともな.う,とも,consort; accompany; bring with; companion,伴う,
+養,N1,15,4,888,食,184,ヨウ; リョウ,やしな.う,や,foster; bring up; rear; develop; nurture,栄養; 休養; 教養; 養分; 扶養; 保養; 養う; 養護,
+懸,N1,20,8,889,心,61,ケン; ケ,か.ける; か.かる,,state of suspension; hang; depend; consult; distant; far apart,一生懸命; 懸賞,
+街,N1,12,4,891,行,144,ガイ; カイ,まち,また,boulevard; street; town,街; 街角; 街道; 街頭; 市街,
+契,N1,9,8,898,大,37,ケイ,ちぎ.る,,pledge; promise; vow,契約; 契機; 契る,
+掲,N1,11,8,899,手,64,ケイ,かか.げる,,put up (a notice); put up; hoist; display; hang out; publish; describe,掲示; 掲載; 掲げる,
+躍,N1,21,8,900,足,157,ヤク,おど.る,おどり,leap; dance; skip,活躍,
+棄,N1,13,8,901,木,75,キ,す.てる,,abandon; throw away; discard; resign; reject; sacrifice,棄権; 廃棄; 破棄; 放棄,
+邸,N1,8,8,905,邑,163,テイ,やしき,むら,residence; mansion,邸宅,
+縮,N1,17,6,909,糸,120,シュク,ちぢ.む; ちぢ.まる; ちぢ.める; ちぢ.れる; ちぢ.らす,,shrink; contract; shrivel; wrinkle; reduce,圧縮; 恐縮; 縮小; 縮む; 縮める; 縮れる; 短縮; 縮まる,
+還,N1,16,8,910,辵,162,カン,かえ.る,,send back; return,還元; 還暦; 返還,
+属,N1,12,5,912,尸,44,ゾク; ショク,さかん; つく; やから,さっか; つき,belong; genus; subordinate official; affiliated,金属; 附属; 属する; 所属; 付属,
+慮,N1,15,8,916,心,61,リョ,おもんぱく.る; おもんぱか.る,ぜ,prudence; thought; concern; consider; deliberate; fear,遠慮; 考慮; 配慮,
+枠,N1,8,8,922,木,75,,わく,,frame; framework; spindle; spool; bounding-box; (kokuji),枠,
+恵,N1,10,8,925,心,61,ケイ; エ,めぐ.む; めぐ.み,あや; け; さと; さとし; しげ; へい; み; やす,favor; blessing; grace; kindness,知恵; 恩恵; 恵まれる; 恵み; 恵む,
+露,N1,21,8,928,雨,173,ロ; ロウ,つゆ,や; ゆ,dew; tears; expose; Russia,露; 暴露; 露骨,
+沖,N1,7,4,929,水,85,チュウ,おき; おきつ; ちゅう.する; わく,,open sea; offing; rise high into sky,沖,
+緩,N1,15,8,933,糸,120,カン,ゆる.い; ゆる.やか; ゆる.む; ゆる.める,ひろ,slacken; loosen; relax; lessen; be moderate; ease,緩い; 緩和; 緩む; 緩める; 緩やか,
+節,N1,13,4,934,竹,118,セツ; セチ,ふし; -ぶし; のっと,たかし,node; season; period; occasion; verse; clause; stanza; honor; joint; knuckle; knob; knot; tune; melody,季節; 節; 節約; 調節,
+需,N1,14,8,935,雨,173,ジュ,,,demand; request; need,需要; 必需品,
+射,N1,10,6,937,寸,41,シャ,い.る; さ.す; う.つ,,shoot; shine into; onto; archery,注射; 射す; 発射; 反射; 放射; 放射能,
+購,N1,17,8,945,貝,154,コウ,,,subscription; buy,購読; 購入; 購買,
+揮,N1,12,6,946,手,64,キ,ふる.う,,brandish; wave; wag; swing; shake,発揮; 指揮,
+充,N1,6,8,949,儿,10,ジュウ,あ.てる; み.たす,あつ; のぶ; まさ; みち; みつ; よし,allot; fill,拡充; 充実; 補充,
+貢,N1,10,8,956,貝,154,コウ; ク,みつ.ぐ,,tribute; support; finance,貢献,
+鹿,N1,11,4,957,鹿,198,ロク,しか; か,しし,deer,馬鹿; 馬鹿馬鹿しい,
+却,N1,7,8,959,卩,26,キャク,かえ.って; しりぞ.く; しりぞ.ける,,instead; on the contrary; rather; step back; withdraw; retreat,却って,
+端,N1,14,8,960,立,117,タン,はし; は; はた; -ばた; はな,ただし; みず,edge; origin; end; point; border; verge; cape,端; 途端; 先端; 極端; 半端,
+賃,N1,13,6,961,貝,154,チン,,すけ,fare; fee; hire; rent; wages; charge,家賃; 運賃; 賃金,
+獲,N1,16,8,964,犬,94,カク,え.る,,seize; get; find; earn; acquire; can; may; able to,獲物; 獲得; 捕獲,
+郡,N1,10,4,965,邑,163,グン,こおり,,county; district,郡,
+併,N1,8,8,966,人,9,ヘイ,あわ.せる,,join; get together; unite; collective,合併,
+徹,N1,15,8,968,彳,60,テツ,,あき; つ; てっ; とおる,penetrate; clear; pierce; strike home; sit up (all night),徹底; 徹夜; 徹する,
+貴,N1,12,6,970,貝,154,キ,たっと.い; とうと.い; たっと.ぶ; とうと.ぶ,きよ; ぎ; たか; たかし; よし,precious; value; prize; esteem; honor,貴重; 貴族; 貴い,
+埼,N1,11,4,971,土,32,キ,さき; さい; みさき,,cape; spit; promontory,,true
+衝,N1,15,8,972,行,144,ショウ,つ.く,,collide; brunt; highway; opposition (astronomy); thrust; pierce; stab; prick,衝突; 衝撃,
+焦,N1,12,8,973,火,86,ショウ,こ.げる; こ.がす; こ.がれる; あせ.る; じ.れる; じ.らす,,char; hurry; impatient; irritate; burn; scorch; singe,焦点; 焦がす; 焦げる; 焦る; 焦げ茶,
+奪,N1,14,8,974,大,37,ダツ,うば.う,,rob; take by force; snatch away; dispossess; plunder; usurp,奪う; 略奪,
+災,N1,7,5,976,火,86,サイ,わざわ.い,,disaster; calamity; woe; curse; evil,火災; 災難; 災害; 戦災; 天災,
+浦,N1,10,8,977,水,85,ホ,うら,,bay; creek; inlet; gulf; beach; seacoast,,
+析,N1,8,8,980,木,75,セキ,,,chop; divide; tear; analyze,分析,
+譲,N1,20,8,984,言,149,ジョウ,ゆず.る,ゆずり,defer; turnover; transfer; convey,譲る; 譲歩,
+称,N1,10,8,985,禾,115,ショウ,たた.える; とな.える; あ.げる; かな.う; はか.り; はか.る; ほめ.る,ね,appellation; praise; admire; name; title; fame,名称; 称する,
+納,N1,10,6,987,糸,120,ノウ; ナッ; ナ; ナン; トウ,おさ.める; -おさ.める; おさ.まる,の; ろ,settlement; obtain; reap; pay; supply; store,納得; 納める; 滞納; 納入; 納まる,
+樹,N1,16,6,988,木,75,ジュ,き,いつき; うえ; こ; しげ; じ; たちき; たつ; たつる; な,timber; trees; wood; establish; set up,樹木; 樹立,
+挑,N1,9,8,989,手,64,チョウ,いど.む,,challenge; contend for; make love to,挑む; 挑戦,
+誘,N1,14,8,993,言,149,ユウ,さそ.う; いざな.う,,entice; lead; tempt; invite; ask; call for; seduce; allure,誘う; 勧誘; 誘導; 誘惑,
+紛,N1,10,8,994,糸,120,フン,まぎ.れる; -まぎ.れ; まぎ.らす; まぎ.らわす; まぎ.らわしい,,distract; be mistaken for; go astray; divert,紛失; 紛争; 紛れる; 紛らわしい,
+至,N1,6,6,996,至,133,シ,いた.る,のぶ; のり; みち; よし,climax; arrive; proceed; reach; attain; result in,至る; 至急; 乃至; 至って,
+宗,N1,8,6,997,宀,40,シュウ; ソウ,むね,かず; し; そ; そお; たか; とし; のり; ひろ; むな; もと; よし,religion; sect; denomination; main point; origin; essence,宗教,
+促,N1,9,8,998,人,9,ソク,うなが.す,,stimulate; urge; press; demand; incite,催促; 促す; 促進,
+慎,N1,13,8,999,心,61,シン,つつし.む; つつ.ましい; つつし; つつし.み,ちか; のり; まこと; みつ,humility; be careful; discreet; prudent,慎重; 慎む,
+控,N1,11,8,1000,手,64,コウ,ひか.える; ひか.え,,withdraw; draw in; hold back; refrain from; be moderate,控除; 控室; 控える,
+智,N1,12,9,1002,日,72,チ,,さと; さとし; さとる; さとい; とも; のり; とし; あきら; じ; とみ; ひと; もと; よも,wisdom; intellect; reason,,
+握,N1,12,8,1003,手,64,アク,にぎ.る,,grip; hold; mould sushi; bribe,握手; 握る; 把握,
+宙,N1,8,6,1005,宀,40,チュウ,,ひろ; ゆ,mid-air; air; space; sky; memorization; interval of time,宇宙; 宙返り,
+俊,N1,9,8,1007,人,9,シュン,,すぐる; とし,sagacious; genius; excellence,,
+銭,N1,14,6,1008,金,167,セン; ゼン,ぜに; すき,,coin; .01 yen; money,金銭; 小銭,
+渋,N1,11,8,1011,水,85,ジュウ; シュウ,しぶ; しぶ.い; しぶ.る,,astringent; hesitate; reluctant; have diarrhea,渋滞; 渋い,
+銃,N1,14,8,1013,金,167,ジュウ,つつ,,gun; arms,銃,
+操,N1,16,6,1016,手,64,ソウ; サン,みさお; あやつ.る,さお; みさ,maneuver; manipulate; operate; steer; chastity; virginity; fidelity,操作; 体操; 操る; 操縦,
+携,N1,13,8,1017,手,64,ケイ,たずさ.える; たずさ.わる,,portable; carry (in hand); armed with; bring along,携帯; 提携; 携わる,
+診,N1,12,8,1019,言,149,シン,み.る,,checkup; seeing; diagnose; examine,診察; 診断; 診る; 診療; 聴診器,
+託,N1,10,8,1021,言,149,タク,かこつ.ける; かこ.つ; かこ.つける,,consign; requesting; entrusting with; pretend; hint,委託,
+撮,N1,15,8,1023,手,64,サツ,と.る; つま.む; -ど.り,,snapshot; take pictures,撮る; 撮影,
+誕,N1,15,6,1024,言,149,タン,,,nativity; be born; declension; lie; be arbitrary,誕生日; 誕生,
+侵,N1,9,8,1025,人,9,シン,おか.す,,encroach; invade; raid; trespass; violate,侵入; 侵す; 侵略,
+括,N1,9,8,1026,手,64,カツ,くく.る,,fasten; tie up; arrest; constrict,括弧; 一括,
+謝,N1,17,5,1028,言,149,シャ,あやま.る,さ; ざ,apologize; thank; refuse,謝る; 感謝; 月謝; 謝絶,
+駆,N1,14,8,1033,馬,187,ク,か.ける; か.る,,drive; run; gallop; advance; inspire; impel,駆け足; 駆ける; 駆けっこ,
+透,N1,10,8,1035,辵,162,トウ,す.く; す.かす; す.ける; とう.る; とう.す,とおる,transparent; permeate; filter; penetrate,透明; 透き通る,
+津,N1,9,8,1036,水,85,シン,つ,ず; ち; と,haven; port; harbor; ferry,天津; 津波,
+壁,N1,16,8,1037,土,32,ヘキ,かべ,,wall; lining (stomach); fence,壁,
+稲,N1,14,8,1038,禾,115,トウ; テ,いね; いな-,いの; しね; せ; な,rice plant,稲; 稲光,
+仮,N1,6,5,1039,人,9,カ; ケ,かり; かり-,,sham; temporary; interim; assumed (name); informal,仮定; 仮名; 片仮名; 平仮名; 送り仮名; 仮名遣い; 振り仮名; 仮,
+裂,N1,12,8,1041,衣,145,レツ,さ.く; さ.ける; -ぎ.れ,,split; rend; tear,裂く; 破裂; 分裂; 裂ける,
+敏,N1,10,8,1042,攴,66,ビン,さとい,さとし; ちょう; とし; び,cleverness; agile; alert,敏感,
+是,N1,9,8,1045,日,72,ゼ; シ,これ; この; ここ,すなお; ただし; つな; ゆき; よし,just so; this; right; justice,是正,
+排,N1,11,8,1047,手,64,ハイ,,おし,repudiate; exclude; expel; reject; line up; arrange,排除; 排水,
+裕,N1,12,8,1048,衣,145,ユウ,,すけ; のり; ひろ; ひろし; やす; ゆ; ゆたか,abundant; rich; fertile,余裕,
+堅,N1,12,8,1049,土,32,ケン,かた.い; -がた.い,きん,strict; hard; solid; tough; tight; reliable,堅い,
+訳,N1,11,6,1050,言,149,ヤク,わけ,,translate; reason; circumstance; case,訳; 翻訳; 申し訳; 通訳; 訳す; 申し訳ない; 内訳; 言い訳,
+芝,N1,6,8,1052,艸,140,シ,しば,こげ; しは,turf; lawn,芝居; 芝生; 芝,
+綱,N1,14,8,1053,糸,120,コウ,つな,,hawser; class (genus); rope; cord; cable,綱; 横綱,
+典,N1,8,4,1055,八,12,テン; デン,ふみ; のり,すけ; つね; の,code; ceremony; law; rule,辞典; 典型; 古典; 原典,
+賀,N1,12,4,1056,貝,154,ガ,,か; のり; よし; より,congratulations; joy,祝賀,
+扱,N1,6,8,1057,手,64,ソウ; キュウ,あつか.い; あつか.う; あつか.る; こ.く,,handle; entertain; thresh; strip,扱う; 扱い; 取り扱い; 取り扱う,
+顧,N1,21,8,1058,頁,181,コ,かえり.みる,たか; み,look back; review; examine oneself; turn around,顧みる,
+弘,N1,5,9,1059,弓,57,コウ; グ,ひろ.い,ひろ; ひろし; ひろむ; みつ; お; こお,vast; broad; wide,,
+看,N1,9,6,1060,目,109,カン,み.る,,watch over; see,看護婦; 看板; 看病; 看護,
+訟,N1,11,8,1061,言,149,ショウ,,,sue; accuse,訴訟,
+戒,N1,7,8,1062,戈,62,カイ,いまし.める,,commandment,警戒,
+祉,N1,8,8,1063,示,113,シ,,,welfare; happiness,福祉,
+誉,N1,13,8,1064,言,149,ヨ,ほま.れ; ほ.める,え; たか; たけ; ほまれ; ほめ; ほん,reputation; praise; honor; glory,名誉,
+歓,N1,15,8,1065,欠,76,カン,よろこ.ぶ,ぶ,delight; joy,歓迎; 歓声,
+奏,N1,9,6,1067,大,37,ソウ,かな.でる,すすむ,play music; speak to a ruler; complete,演奏; 吹奏,
+勧,N1,13,8,1068,力,19,カン; ケン,すす.める,,persuade; recommend; advise; encourage; offer,勧める; 勧告; 勧誘; 勧め,
+騒,N1,18,8,1069,馬,187,ソウ,さわ.ぐ; うれい; さわ.がしい,,boisterous; make noise; clamor; disturb; excite,騒ぐ; 騒ぎ; 騒音; 物騒; 騒がしい; 騒々しい; 騒動,
+閥,N1,14,8,1072,門,169,バツ,,,clique; lineage; pedigree; faction; clan,,
+甲,N1,5,8,1073,田,102,コウ; カン,きのえ,かぶと; き; まさ; まさる,armor; high (voice); A grade; first class; former; instep; carapace,甲,
+縄,N1,15,4,1075,糸,120,ジョウ,なわ; ただ.す,,straw rope; cord,縄,
+郷,N1,11,6,1077,邑,163,キョウ; ゴウ,さと,くに,home town; village; native place; district,故郷; 郷愁; 郷里,
+揺,N1,12,8,1079,手,64,ヨウ,ゆ.れる; ゆ.る; ゆ.らぐ; ゆ.るぐ; ゆ.する; ゆ.さぶる; ゆ.すぶる; うご.く,,swing; shake; sway; rock; tremble; vibrate,揺れる; 動揺; 揺らぐ; 揺さぶる,
+免,N1,8,8,1080,儿,10,メン,まぬか.れる; まぬが.れる,め,excuse; dismissal,免許; 御免; 免税; 免除; 免れる,
+既,N1,10,8,1081,无,71,キ,すで.に,,previously; already; long ago,既に; 既婚,
+薦,N1,16,8,1082,艸,140,セン,すす.める,こも,recommend; mat; advise; encourage; offer,推薦,
+隣,N1,16,8,1083,阜,170,リン,とな.る; となり,ちか,neighboring,隣,
+華,N1,10,8,1085,艸,140,カ; ケ,はな,わ,splendor; flower; petal; shine; luster; ostentatious; showy; gay; gorgeous,豪華; 華奢; 華美; 華やか; 華々しい,
+範,N1,15,8,1088,竹,118,ハン,,のり,pattern; example; model,範囲; 規範; 模範,
+隠,N1,14,8,1089,阜,170,イン; オン,かく.す; かく.し; かく.れる; よ.る,お; がくし,conceal; hide; cover,隠す; 隠れる; 隠居,
+徳,N1,14,4,1091,彳,60,トク,,あつ; なる; のり; ゆき; よし,benevolence; virtue; goodness; commanding respect,道徳,
+哲,N1,10,8,1093,口,30,テツ,さとい; あきらか,あき; あきら; さと; さとし; さとる; てっ; てつん; のり; よし,philosophy; clear,哲学,
+杉,N1,7,8,1095,木,75,サン,すぎ,,cedar; cryptomeria,杉,
+里,N1,7,2,1096,里,166,リ,さと,さ,ri; village; parent's home; league,郷里,true
+釈,N1,11,8,1097,釆,165,シャク; セキ,とく; す.てる; ゆる.す,しゃ,explanation,解釈,
+己,N1,3,6,1098,己,49,コ; キ,おのれ; つちのと; な,し; み,self,自己,
+妥,N1,7,8,1102,女,38,ダ,,やす,gentle; peace; satisfactory; appropriate,妥当; 妥協; 妥結,
+威,N1,9,8,1103,女,38,イ,おど.す; おど.し; おど.かす,いさ; たけ; たけし,intimidate; dignity; majesty; menace; threaten,威張る; 威力; 権威,
+豪,N1,14,8,1104,豕,152,ゴウ,えら.い,こう; ご; すぐる; たけ; たけし; ひで; まさる,overpowering; great; powerful; excelling; Australia,豪華; 富豪,
+熊,N1,14,4,1105,火,86,ユウ,くま,,bear,,
+滞,N1,13,8,1107,水,85,タイ; テイ,とどこお.る,,stagnate; be delayed; overdue; arrears,渋滞; 滞在; 滞納; 停滞; 滞る,
+微,N1,13,8,1108,彳,60,ビ,かす.か,み,delicate; minuteness; insignificance,微妙; 微笑む; 顕微鏡; 微か; 微笑; 微量; 微塵,
+隆,N1,11,8,1109,阜,170,リュウ,,お; たか; たかし,hump; high; noble; prosperity,,
+症,N1,10,8,1111,疒,104,ショウ,,,symptoms; illness,症状; 症,
+暫,N1,15,8,1112,日,72,ザン,しばら.く,,temporarily; a while; moment; long time,,
+忠,N1,8,6,1113,心,61,チュウ,,きよし; たた; ただ; ただし; なお,loyalty; fidelity; faithfulness,忠告; 忠実,
+倉,N1,10,4,1114,人,9,ソウ,くら,,godown; warehouse; storehouse; cellar; treasury,倉庫,
+彦,N1,9,9,1117,彡,59,ゲン,ひこ,よし; こ; ひろ; やす,lad; boy; fine young man,,
+肝,N1,7,8,1118,肉,130,カン,きも,,liver; pluck; nerve; chutzpah,肝心,
+喚,N1,12,8,1120,口,30,カン,わめ.く,,yell; cry; call; scream; summon,,
+沿,N1,8,6,1121,水,85,エン,そ.う; -ぞ.い,,run alongside; follow along; run along; lie along,沿岸; 沿線; 沿い; 沿う,
+妙,N1,7,8,1122,女,38,ミョウ; ビョウ,たえ,,exquisite; strange; queer; mystery; miracle; excellent; delicate; charming,妙; 奇妙; 微妙; 巧妙,
+唱,N1,11,4,1123,口,30,ショウ,とな.える,,chant; recite; call upon; yell,合唱; 唱える,
+阿,N1,8,9,1126,阜,170,ア; オ,おもね.る; くま,ほとり; あず; あわ; おか; きた; な,Africa; flatter; fawn upon; corner; nook; recess,,
+索,N1,10,8,1127,糸,120,サク,,,cord; rope; searching; inquiring,索引; 捜索; 模索,
+誠,N1,13,6,1128,言,149,セイ,まこと,きよ; さと; しげ; とも; のぶ; ま; まこ; まさ,sincerity; admonish; warn; prohibit; truth; fidelity,誠; 誠実,
+襲,N1,22,8,1130,衣,145,シュウ,おそ.う; かさ.ね,そい,attack; advance on; succeed to; pile; heap,襲う; 襲撃,
+懇,N1,17,8,1135,心,61,コン,ねんご.ろ,,sociable; kind; courteous; hospitable; cordial,,
+俳,N1,10,6,1137,人,9,ハイ,,,haiku; actor,俳優; 俳句,
+柄,N1,9,8,1140,木,75,ヘイ,がら; え; つか,から; ら,design; pattern; build; nature; character; handle; crank; grip; knob; shaft,柄; 間柄; 大柄; 小柄; 事柄; 人柄,
+驚,N1,22,8,1141,馬,187,キョウ,おどろ.く; おどろ.かす,,wonder; be surprised; frightened; amazed,驚く; 驚かす; 驚き; 驚異,
+麻,N1,11,8,1142,麻,200,マ; マア,あさ,あ; あざ; お,hemp; flax; numb,麻; 麻酔; 麻痺,
+李,N1,7,9,1147,木,75,リ,すもも,もも; い,plum,,
+浩,N1,10,9,1149,水,85,コウ,おおき.い; ひろ.い,ひろ; ひろし; ゆたか; こお,wide expanse; abundance; vigorous,,
+剤,N1,10,8,1151,刀,18,ザイ; スイ; セイ,かる; けず.る,,dose; medicine; drug,洗剤,
+瀬,N1,19,8,1152,水,85,ライ,せ,いわた; がせ; しげ; せい; せっ,rapids; current; torrent; shallows; shoal,瀬戸物,
+趣,N1,15,8,1153,走,156,シュ,おもむき; おもむ.く,,purport; gist; elegance; interest; proceed to; tend; become,趣味; 趣; 趣旨,
+陥,N1,10,8,1154,阜,170,カン,おちい.る; おとしい.れる,,collapse; fall into; cave in; fall (castle); slide into,欠陥,
+斎,N1,11,8,1155,文,67,サイ,とき; つつし.む; ものいみ; い.む; いわ.う; いつ.く,いつき; さえ; ひとし; いつ; きよ; ただ; よし,purification; Buddhist food; room; worship; avoid; alike,書斎,
+貫,N1,11,8,1156,貝,154,カン,つらぬ.く; ぬ.く; ぬき,つら; ぬく,pierce; 8 1/3lbs; penetrate; brace,貫禄; 貫く,
+仙,N1,5,8,1157,人,9,セン; セント,,そま; のり,hermit; wizard; cent,仙,
+慰,N1,15,8,1158,心,61,イ,なぐさ.める; なぐさ.む,,consolation; amusement; seduce; cheer; make sport of; comfort; console,慰める,
+序,N1,7,5,1160,广,53,ジョ,つい.で; ついで,つぐ,preface; beginning; order; precedence; occasion; chance; incidentally,順序; 秩序,
+旬,N1,6,8,1162,日,72,ジュン; シュン,,,decameron; ten-day period; season (for specific products),下旬; 上旬; 初旬; 中旬,
+兼,N1,10,8,1164,八,12,ケン,か.ねる; -か.ねる,かね,concurrently; and; beforehand; in advance,兼ねる; 兼業; 兼用; 兼ねて; 気兼ね,
+聖,N1,13,6,1165,耳,128,セイ; ショウ,ひじり,きよ; さと; さとし; せ; たか; ただ; ひろ; まさ; み,holy; saint; sage; master; priest,神聖; 聖書,
+旨,N1,6,8,1166,日,72,シ,むね; うま.い,,delicious; relish; show a liking for; purport; will; clever; expert,要旨; 趣旨,
+即,N1,7,8,1167,卩,26,ソク,つ.く; つ.ける; すなわ.ち,,instant; namely; as is; conform; agree; adapt,即座に; 即する,
+柳,N1,9,8,1169,木,75,リュウ,やなぎ,なぎ; や; やい; やぎ; やな; やない,willow,,
+舎,N1,8,5,1170,人,9,シャ; セキ,やど.る,さ; とり,cottage; inn; hut; house; mansion,田舎; 校舎,
+偽,N1,11,8,1171,人,9,ギ; カ,いつわ.る; にせ; いつわ.り,,falsehood; lie; deceive; pretend; counterfeit; forgery,偽造,
+較,N1,13,8,1172,車,159,カク; コウ,くら.べる,,contrast; compare,比較; 比較的,
+覇,N1,19,8,1173,襾,146,ハ; ハク,はたがしら,はる,hegemony; supremacy; leadership; champion,,
+詳,N1,13,8,1178,言,149,ショウ,くわ.しい; つまび.らか,よし,detailed; full; minute; accurate; well-informed,詳しい; 詳細,
+抵,N1,8,8,1182,手,64,テイ,,,resist; reach; touch,抵抗,
+脅,N1,10,8,1183,肉,130,キョウ,おびや.かす; おど.す; おど.かす,,threaten; coerce,脅す; 脅迫,
+茂,N1,8,8,1188,艸,140,モ,しげ.る,うむさ; き; し; つとむ; む; もて,overgrown; grow thick; be luxuriant,茂る,
+犠,N1,17,8,1189,牛,93,ギ; キ,いけにえ,,sacrifice,犠牲,
+旗,N1,14,4,1190,方,70,キ,はた,,flag; banner; standard,旗,
+距,N1,12,8,1191,足,157,キョ,へだ.たる; けづめ,,long-distance; spur; fetlock,距離,
+雅,N1,13,8,1192,隹,172,ガ,みや.び,う; お; か; ただし; のり; まさ; まさし; よし,gracious; elegant; graceful; refined,雅致,
+飾,N1,13,8,1193,食,184,ショク,かざ.る; かざ.り,しか,decorate; ornament; adorn; embellish,飾る; 飾り; 修飾; 装飾; 着飾る; 首飾り,
+網,N1,14,8,1194,糸,120,モウ,あみ,あ; ずな,netting; network,網,
+竜,N1,10,8,1195,立,117,リュウ; リョウ; ロウ,たつ; いせ,りう,dragon; imperial,,
+詩,N1,13,3,1196,言,149,シ,うた,,poem; poetry,詩; 詩人,
+繁,N1,16,8,1198,糸,120,ハン,しげ.る; しげ.く,,luxuriant; thick; overgrown; frequency; complexity; trouble,繁栄; 繁盛; 繁殖; 頻繁,
+翼,N1,17,8,1201,羽,124,ヨク,つばさ,,wing; plane; flank,翼,
+茨,N1,9,4,1203,艸,140,シ; ジ,いばら; かや; くさぶき,あし; えばら; ばら; まつ; まん,briar; thorn,,true
+潟,N1,15,4,1204,水,85,セキ,かた; -がた,がら,lagoon,,
+敵,N1,15,6,1205,攴,66,テキ,かたき; あだ; かな.う,,enemy; foe; opponent,敵; 匹敵,
+魅,N1,15,8,1206,鬼,194,ミ,,,fascination; charm; bewitch,魅力,
+嫌,N1,13,8,1207,女,38,ケン; ゲン,きら.う; きら.い; いや,,dislike; detest; hate,嫌; 嫌い; 機嫌; 嫌う; 嫌がる; 好き嫌い; 嫌らしい,
+斉,N1,8,8,1209,文,67,セイ; サイ,そろ.う; ひと.しい; ひと.しく; あたる; はやい,ただ; なり; ひと; ひとし,adjusted; alike; equal; similar variety of,一斉,
+敷,N1,15,8,1212,攴,66,フ,し.く; -し.き,しき; にゅう,spread; pave; sit; promulgate,座敷; 敷地; 敷く; 風呂敷; 屋敷,
+擁,N1,16,8,1213,手,64,ヨウ,,,hug; embrace; possess; protect; lead,,
+圏,N1,12,8,1216,囗,31,ケン,かこ.い,,sphere; circle; radius; range,圏,
+酸,N1,14,5,1218,酉,164,サン,す.い,,acid; bitterness; sour; tart,酸素; 酸性; 酸; 酸化,
+罰,N1,14,8,1220,网,122,バツ; バチ; ハツ,ばっ.する,,penalty; punishment,罰する; 罰; 刑罰; 処罰,
+滅,N1,13,8,1222,水,85,メツ,ほろ.びる; ほろ.ぶ; ほろ.ぼす,,destroy; ruin; overthrow; perish,絶滅; 滅多に; 全滅; 滅亡; 滅びる; 滅ぼす,
+礎,N1,18,8,1224,石,112,ソ,いしずえ,もと,cornerstone; foundation stone,基礎,
+腐,N1,14,8,1225,肉,130,フ,くさ.る; -くさ.る; くさ.れる; くさ.れ; くさ.らす; くさ.す,,rot; decay; sour,腐る; 腐敗,
+脚,N1,11,8,1228,肉,130,キャク; キャ; カク,あし,し,skids; leg; undercarriage; lower part; base,脚色; 脚本,
+潮,N1,15,6,1231,水,85,チョウ,しお; うしお,いた,tide; salt water; opportunity,潮,
+梅,N1,10,4,1232,木,75,バイ,うめ,,plum,梅; 梅雨; 梅干,
+尽,N1,6,8,1234,尸,44,ジン; サン,つ.きる; つ.くす; つ.かす; -づ.く; -ず.く; ことごと.く,,exhaust; use up; run out of; deplete; befriend; serve,尽きる; 尽くす,
+僕,N1,14,8,1236,人,9,ボク,しもべ,,me; I (male); servant; manservant,僕,
+桜,N1,10,5,1237,木,75,オウ; ヨウ,さくら,さ; ろう,cherry,桜,
+滑,N1,13,8,1238,水,85,カツ; コツ,すべ.る; なめ.らか,かり; なめり,slippery; slide; slip; fail exam,滑る; 円滑; 滑稽; 滑らか,
+孤,N1,9,8,1239,子,39,コ,,,orphan; alone,孤児; 孤独; 孤立,
+炎,N1,8,8,1242,火,86,エン,ほのお,ぬく,inflammation; flame; blaze,炎,
+賠,N1,15,8,1243,貝,154,バイ,,,compensation; indemnify,賠償,
+句,N1,5,5,1244,口,30,ク,,すく,phrase; clause; sentence; passage; paragraph; counter for haiku,句; 文句; 俳句; 句読点; 佳句; 語句,
+鋼,N1,16,6,1246,金,167,コウ,はがね,,steel,鉄鋼,
+頑,N1,13,8,1247,頁,181,ガン,かたく.な,,stubborn; foolish; firmly,頑固; 頑丈,
+鎖,N1,18,8,1250,金,167,サ,くさり; とざ.す,,chain; irons; connection,鎖; 封鎖; 閉鎖,
+彩,N1,11,8,1251,彡,59,サイ,いろど.る,あや; さ; さえ; つや,coloring; paint; makeup,色彩,
+摩,N1,15,8,1252,手,64,マ,ま.する; さす.る; す.る,,chafe; rub; polish; grind; scrape,摩擦,
+励,N1,7,8,1254,力,19,レイ,はげ.む; はげ.ます,,encourage; be diligent; inspire,激励; 奨励; 励む; 励ます,
+縦,N1,16,6,1258,糸,120,ジュウ,たて,,vertical; length; height; self-indulgent; wayward,操縦,
+輝,N1,15,8,1259,車,159,キ,かがや.く,あき; あきら; さき; てる; ひ; ひかる,radiance; shine; sparkle; gleam; twinkle,輝く,
+蓄,N1,13,8,1260,艸,140,チク,たくわ.える,,amass; raise; hoard; store,蓄える; 蓄積; 貯蓄,
+軸,N1,12,8,1261,車,159,ジク,,,axis; pivot; stem; stalk; counter for book scrolls,軸,
+巡,N1,6,8,1262,巛,47,ジュン,めぐ.る; めぐ.り,,patrol; go around; circumference,巡査; 巡る,
+稼,N1,15,8,1264,禾,115,カ,かせ.ぐ,,earnings; work; earn money,稼ぐ; 共稼ぎ,
+瞬,N1,18,8,1265,目,109,シュン,またた.く; まじろ.ぐ,,wink; blink; twinkle,一瞬; 瞬間; 瞬き,
+砲,N1,10,8,1268,石,112,ホウ,,づつ,cannon; gun,鉄砲,
+噴,N1,15,8,1270,口,30,フン,ふ.く,,erupt; spout; emit; flush out,噴火; 噴水; 噴出,
+誇,N1,13,8,1272,言,149,コ,ほこ.る,,boast; be proud; pride; triumphantly,誇り; 誇張; 誇る,
+祥,N1,10,8,1273,示,113,ショウ,さいわ.い; きざ.し; よ.い; つまび.らか,あき; さか; さち; ひろ; まさ; やす; ゆき; よし; あきら; さき; さむ; ただ; なか; なが,auspicious; happiness; blessedness; good omen; good fortune,,
+牲,N1,9,8,1274,牛,93,セイ,,,animal sacrifice; offering,犠牲,
+秩,N1,10,8,1275,禾,115,チツ,,ちち; ちっ,regularity; salary; order,秩序,
+帝,N1,9,8,1276,巾,50,テイ,みかど,,sovereign; the emperor; god; creator,,
+宏,N1,7,9,1277,宀,40,コウ,ひろ.い,あつ; ひろ; ひろし,wide; large,,
+唆,N1,10,8,1278,口,30,サ,そそ.る; そそのか.す,,tempt; seduce; instigate; promote,,
+阻,N1,8,8,1280,阜,170,ソ,はば.む,,thwart; separate from; prevent; obstruct; deter; impede,阻止; 阻む,
+泰,N1,10,8,1281,水,85,タイ,,た; はす; ひろ; や; やす; やすし; ゆたか; よし,peaceful; calm; peace; easy; Thailand; extreme; excessive; great,,
+賄,N1,13,8,1282,貝,154,ワイ,まかな.う,,bribe; board; supply; finance,賄う,
+撲,N1,15,8,1283,手,64,ボク,,,slap; strike; hit; beat; tell; speak,相撲,
+堀,N1,11,8,1285,土,32,クツ,ほり,ほっ,ditch; moat; canal,堀,
+菊,N1,11,8,1287,艸,140,キク,,,chrysanthemum,,
+絞,N1,12,8,1288,糸,120,コウ,しぼ.る; し.める; し.まる,,strangle; constrict; wring,絞る,
+縁,N1,15,8,1291,糸,120,エン; -ネン,ふち; ふち.どる; ゆかり; よすが; へり; えにし,,affinity; relation; connection; edge; border; verge; brink,縁; 縁側; 縁談,
+唯,N1,11,8,1292,口,30,ユイ; イ,ただ,ゆ,solely; only; merely; simply,唯一,
+膨,N1,16,8,1293,肉,130,ボウ,ふく.らむ; ふく.れる,,swell; get fat; thick,膨大; 膨らむ; 膨らます; 膨脹; 膨れる,
+矢,N1,5,2,1294,矢,111,シ,や,,dart; arrow,矢印; 矢; 矢鱈に,
+耐,N1,9,8,1295,而,126,タイ,た.える,たえ,-proof; enduring,耐える,
+塾,N1,14,8,1297,土,32,ジュク,,,cram school; private school,塾,
+漏,N1,14,8,1298,水,85,ロウ,も.る; も.れる; も.らす,,leak; escape; time,漏る; 漏らす; 漏れる,
+慶,N1,15,8,1300,心,61,ケイ,よろこ.び,き; きよん; け; みち; む; やす; よし,jubilation; congratulate; rejoice; be happy,,
+猛,N1,11,8,1301,犬,94,モウ,,たけ; たけし; たける,fierce; rave; rush; become furious; wildness; strength,猛烈,
+芳,N1,7,8,1302,艸,140,ホウ,かんば.しい,お; かおる; は; ほ; みち; やす; よし,perfume; balmy; favorable; fragrant,,
+懲,N1,18,8,1303,心,61,チョウ,こ.りる; こ.らす; こ.らしめる,,penal; chastise; punish; discipline,懲りる,
+剣,N1,10,8,1305,刀,18,ケン,つるぎ,,sabre; sword; blade; clock hand,真剣,
+彰,N1,14,8,1310,彡,59,ショウ,,あき; あきら,patent; clear,,
+棋,N1,12,8,1311,木,75,キ,ご,,chess piece; Japanese chess; shogi,将棋,
+丁,N1,2,3,1312,一,1,チョウ; テイ; チン; トウ; チ,ひのと,,"street; ward; town; counter for guns, tools, leaves or cakes of something; even number; 4th calendar sign",丁寧; 庖丁; 丁目; 丁々,
+恒,N1,9,8,1314,心,61,コウ,つね; つねに,のぶ; ひさ; ひさし,constancy; always,,
+揚,N1,12,8,1316,手,64,ヨウ,あ.げる; -あ.げ; あ.がる,あがり,raise; elevate; hoist; praise; extol; fry in deep fat,揚げる,
+冒,N1,9,8,1317,冂,13,ボウ,おか.す,,risk; face; defy; dare; damage; assume (a name),冒険; 冒頭,
+之,N1,3,9,1318,丿,4,シ,の; これ; ゆく; この,ゆき; いたる; あき; つな; ゆみ; くに; のぶ; ひさ; ひで,of; this,,
+曽,N1,11,8,1320,曰,73,ソウ; ソ; ゾウ,かつ; かつて; すなわち,,formerly; once; before; ever; never; ex-,,true
+倫,N1,10,8,1322,人,9,リン,,とも; のり; ひとし; ひろ; みち,ethics; companion,,
+陳,N1,11,8,1323,阜,170,チン,ひ.ねる,のぶ,exhibit; state; relate; explain,陳列,
+憶,N1,16,8,1324,心,61,オク,,,recollection; think; remember,記憶,
+潜,N1,15,8,1329,水,85,セン,ひそ.む; もぐ.る; かく.れる; くぐ.る; ひそ.める,,submerge; conceal; hide; lower (voice); hush,潜る; 潜水; 潜入,
+梨,N1,11,4,1331,木,75,リ,なし,か,pear tree,,
+仁,N1,4,6,1332,人,9,ジン; ニ; ニン,,きみ; く; さと; しのぶ; じ; と; のり; ひと; ひとし; ひろ; まさ; まさし; やす; よし,humanity; virtue; benevolence; charity; man; kernel,,
+克,N1,7,8,1333,儿,10,コク,か.つ,かつ; まさる; よし,overcome; kindly; skillfully,克服,
+岳,N1,8,8,1334,山,46,ガク,たけ,おか; たか; たけん,point; peak; mountain,山岳,
+概,N1,14,8,1335,木,75,ガイ,おおむ.ね,,outline; condition; approximation; generally,概論; 概説; 概念; 概略; 大概; 一概に,
+拘,N1,8,8,1336,手,64,コウ,かか.わる,,arrest; seize; concerned; adhere to; despite,拘束; にも拘らず,
+墓,N1,13,5,1337,土,32,ボ,はか,,grave; tomb,墓; 墓地,
+黙,N1,15,8,1338,黑,203,モク; ボク,だま.る; もだ.す,,silence; become silent; stop speaking; leave as is,黙る; 沈黙,
+須,N1,12,8,1339,頁,181,ス; シュ,すべから.く; すべし; ひげ; まつ; もち.いる; もと.める,もとむ; ぞ,ought; by all means; necessarily,,
+偏,N1,11,8,1340,人,9,ヘン,かたよ.る,,partial; side; left-side radical; inclining; biased,偏; 偏る; 偏見,
+雰,N1,12,8,1341,雨,173,フン,,,atmosphere; fog,雰囲気,
+遇,N1,12,8,1343,辵,162,グウ,あ.う,,meet; encounter; interview; treat; entertain; receive; deal with,境遇; 待遇,
+諮,N1,16,8,1345,言,149,シ,はか.る,,consult with,諮る,
+狭,N1,9,8,1346,犬,94,キョウ; コウ,せま.い; せば.める; せば.まる; さ,はざ,cramped; narrow; contract; tight,狭い,
+卓,N1,8,8,1348,十,24,タク,,すぐる; たか; たかし,eminent; table; desk; high,食卓,
+亀,N1,11,8,1353,乙,5,キ; キュウ; キン,かめ,ひさ; ひさし,tortoise; turtle,,
+糧,N1,18,8,1354,米,119,リョウ; ロウ,かて,,provisions; food; bread,食糧,
+簿,N1,19,8,1358,竹,118,ボ,,,register; record book,名簿,
+炉,N1,8,8,1359,火,86,ロ,いろり,,hearth; furnace; kiln; reactor,,
+牧,N1,8,4,1360,牛,93,ボク,まき,ま; まい; もく,breed; care for; shepherd; feed; pasture,牧場; 牧畜; 牧師; 遊牧,
+殊,N1,10,8,1361,歹,78,シュ,こと,,particularly; especially; exceptionally,特殊; 殊に,
+殖,N1,12,8,1362,歹,78,ショク,ふ.える; ふ.やす,うえ; え; げ,augment; increase; multiply; raise,殖える; 繁殖,
+艦,N1,21,8,1363,舟,137,カン,,,warship,軍艦,
+輩,N1,15,8,1365,車,159,ハイ,-ばら; やから; やかい; ともがら,,comrade; fellow; people; companions,先輩; 後輩,
+穴,N1,5,6,1366,穴,116,ケツ,あな,けな; しし; な,hole; aperture; slit; cave; den,穴,
+奇,N1,8,8,1367,大,37,キ,く.しき; あや.しい; くし; めずら.しい,,strange; strangeness; curiosity,奇妙; 奇数,
+慢,N1,14,8,1368,心,61,マン,,,ridicule; laziness,我慢; 自慢; 怠慢,
+鶴,N1,21,8,1369,鳥,196,カク,つる,たず; ず; か; つ; づ,crane; stork,,
+謀,N1,16,8,1370,言,149,ボウ; ム,はか.る; たばか.る; はかりごと,,conspire; cheat; impose on; plan; devise; scheme; have in mind; deceive,,
+暖,N1,13,6,1371,日,72,ダン; ノン,あたた.か; あたた.かい; あたた.まる; あたた.める,,warmth,暖かい; 暖房; 温暖; 暖まる; 暖める,
+昌,N1,8,9,1372,日,72,ショウ,さかん,まさ; まさし; よし; あき; あきら; さかえ; あつ; すけ,prosperous; bright; clear,,
+拍,N1,8,8,1373,手,64,ハク; ヒョウ,,,clap; beat (music),拍手,
+朗,N1,10,6,1374,月,74,ロウ,ほが.らか; あき.らか,あき; あきら; お; さえ; ろ,melodious; clear; bright; serene; cheerful,朗らか; 明朗; 朗読,
+寛,N1,13,8,1377,宀,40,カン,くつろ.ぐ; ひろ.い; ゆる.やか,とも; のぶ; のり; ひろし; ひろん; ゆた; ゆたか,tolerant; leniency; generosity; relax; feel at home; be at ease; broadminded,寛容,
+覆,N1,18,8,1378,襾,146,フク,おお.う; くつがえ.す; くつがえ.る,,capsize; cover; shade; mantle; be ruined,覆う; 覆す; 覆面,
+胞,N1,9,8,1379,肉,130,ホウ,,,placenta; sac; sheath,細胞,
+泣,N1,8,4,1380,水,85,キュウ,な.く,,cry; weep; moan,泣く,
+隔,N1,13,8,1382,阜,170,カク,へだ.てる; へだ.たる,,isolate; alternate; distance; separate; gulf,間隔; 隔てる; 隔週; 隔たる,
+浄,N1,9,8,1383,水,85,ジョウ; セイ,きよ.める; きよ.い,,clean; purify; cleanse; exorcise; Manchu Dynasty,,
+没,N1,7,8,1385,水,85,ボツ; モツ,おぼ.れる; しず.む; ない,,drown; sink; hide; fall into; disappear; die,沈没; 没収; 没落,
+暇,N1,13,8,1386,日,72,カ,ひま; いとま,,spare time; rest; leisure; time; leave of absence,暇; 休暇; 余暇,
+肺,N1,9,6,1387,肉,130,ハイ,,,lungs,肺,
+貞,N1,9,8,1389,貝,154,テイ; ジョウ,ただし.い; さだ,さざ; ただし; りょう,upright; chastity; constancy; righteousness,,
+靖,N1,13,9,1390,靑,174,セイ; ジョウ,やす.んじる,のぶ; やす; やすし; しず; おさむ; きよし,peaceful,,
+鑑,N1,23,8,1391,金,167,カン,かんが.みる; かがみ,あき; あきら,specimen; take warning from; learn from,鑑賞; 図鑑; 印鑑; 年鑑,
+飼,N1,13,5,1392,食,184,シ,か.う,かい,domesticate; raise; keep; feed,飼う; 飼育,
+陰,N1,11,8,1393,阜,170,イン,かげ; かげ.る,,shade; yin; negative; sex organs; secret; shadow,陰; 日陰; 陰気,
+銘,N1,14,8,1394,金,167,メイ,,たか; み; め,inscription; signature (of artisan),銘々,
+随,N1,12,8,1396,阜,170,ズイ,まにま.に; したが.う,,follow; though; notwithstanding; while; during; both; all; obey; submit to; comply; at the mercy of (the waves),随筆,
+烈,N1,10,8,1397,火,86,レツ,はげ.しい,やす,ardent; violent; vehement; furious; severe; extreme,強烈; 猛烈,
+尋,N1,12,8,1398,寸,41,ジン,たず.ねる; ひろ,ず; つぐ,inquire; fathom; look for,尋ねる,
+稿,N1,15,8,1400,禾,115,コウ,わら; したがき,,draft; copy; manuscript; straw,原稿,
+丹,N1,4,8,1402,丶,3,タン,に,た; たみ; まこと,rust-colored; red; red lead; pills; sincerity,,
+啓,N1,11,8,1403,口,30,ケイ,ひら.く; さと.す,あき; あきら; さとし; はじめ; ひろ; よし,disclose; open; say,拝啓,
+也,N1,3,9,1404,乙,5,ヤ; エ,なり; か; また,し,to be (classical),,
+丘,N1,5,8,1405,一,1,キュウ,おか,たかし,hill; knoll,丘; 丘陵,
+棟,N1,12,8,1406,木,75,トウ,むね; むな-,,ridgepole; ridge,棟,
+壌,N1,16,8,1407,土,32,ジョウ,つち,,lot; earth; soil,,
+漫,N1,14,8,1408,水,85,マン,みだり.に; そぞ.ろ,,cartoon; involuntarily; unrestrained; in spite of oneself; corrupt,漫画,
+玄,N1,5,8,1409,玄,95,ゲン,くろ; くろ.い,けん; はる; はるか,mysterious; occultness; black; deep; profound,玄関; 玄人,
+粘,N1,11,8,1410,米,119,ネン,ねば.る,,sticky; glutinous; greasy; persevere,粘り; 粘る,
+悟,N1,10,8,1411,心,61,ゴ,さと.る,,enlightenment; perceive; discern; realize; understand,覚悟; 悟る,
+舗,N1,15,8,1412,人,9,ホ,,き,shop; store; pave,舗装,
+妊,N1,7,8,1413,女,38,ニン; ジン,はら.む; みごも.る,,pregnancy,妊娠,
+熟,N1,15,6,1415,火,86,ジュク,う.れる,,mellow; ripen; mature; acquire skill,熟語; 成熟; 未熟,
+旭,N1,6,9,1417,日,72,キョク,あさひ,あきら; あき; てる; ひ,rising sun; morning sun,,
+恩,N1,10,6,1418,心,61,オン,,めぐみ,grace; kindness; goodness; favor; mercy; blessing; benefit,恩; 恩恵,
+騰,N1,20,8,1420,馬,187,トウ,あが.る; のぼ.る,,leaping up; jumping up; rising; advancing; going,沸騰,
+往,N1,8,5,1421,彳,60,オウ,い.く; いにしえ; さき.に; ゆ.く,みち,journey; travel; chase away; let go; going; before; formerly,往復,
+豆,N1,7,3,1422,豆,151,トウ; ズ,まめ; まめ-,ど; ま,beans; pea; midget,豆,
+遂,N1,12,8,1423,辵,162,スイ,と.げる; つい.に,,consummate; accomplish; attain; commit (suicide),遂に; 遂げる; やり遂げる,
+狂,N1,7,8,1425,犬,94,キョウ,くる.う; くる.おしい; くるお.しい,,lunatic; insane; crazy; confuse,狂う,
+栃,N1,9,4,1427,木,75,,とち,,horse chestnut; (kokuji),,true
+岐,N1,7,4,1428,山,46,キ; ギ,,たかし; また,branch off; fork in road; scene; arena; theater,,
+陛,N1,10,6,1429,阜,170,ヘイ,,,highness; steps (of throne),,
+緯,N1,16,8,1430,糸,120,イ,よこいと; ぬき,,horizontal; woof; left & right; (parallels of) latitude; prediction,緯度; 経緯,
+培,N1,11,8,1431,土,32,バイ,つちか.う,,cultivate; foster,栽培,
+衰,N1,10,8,1432,衣,145,スイ,おとろ.える,,decline; wane; weaken,老衰; 衰える,
+艇,N1,13,8,1433,舟,137,テイ,,,rowboat; small boat,,
+屈,N1,8,8,1434,尸,44,クツ,かが.む; かが.める,くっ,yield; bend; flinch; submit,退屈; 窮屈; 屈折; 理屈,
+径,N1,8,4,1435,彳,60,ケイ,みち; こみち; さしわたし; ただちに,,diameter; path; method,直径; 半径,
+淡,N1,11,8,1436,水,85,タン,あわ.い,,thin; faint; pale; fleeting,淡水; 冷淡,
+抽,N1,8,8,1437,手,64,チュウ,ひき-,,pluck; pull; extract; excel,抽象; 抽選,
+披,N1,8,8,1438,手,64,ヒ,,,expose; open,,
+廷,N1,7,8,1439,廴,54,テイ,,たか,courts; imperial court; government office,法廷,
+錦,N1,16,8,1440,金,167,キン,にしき,かね; あや; にし,brocade; fine dress; honors,,
+准,N1,10,8,1441,冫,15,ジュン,,,quasi-; semi-; associate,,
+暑,N1,12,3,1442,日,72,ショ,あつ.い,,sultry; hot; summer heat,暑い; 蒸し暑い,
+磯,N1,17,9,1444,石,112,キ,いそ,し; そ,seashore; beach,,
+奨,N1,13,8,1445,大,37,ショウ; ソウ,すす.める,まさし,exhort; urge; encourage,奨学金; 奨励,
+浸,N1,10,8,1447,水,85,シン,ひた.す; ひた.る; つ.かる,,immersed; soak; dip; steep; moisten; wet; dunk,浸ける; 浸す,
+剰,N1,11,8,1448,刀,18,ジョウ,あまつさえ; あま.り; あま.る,,surplus; besides,過剰,
+胆,N1,9,8,1449,肉,130,タン,きも,い; まこと,gall bladder; courage; pluck; nerve,大胆,
+繊,N1,17,8,1451,糸,120,セン,,,slender; fine; thin kimono,化繊; 繊維,
+駒,N1,15,8,1452,馬,187,ク,こま,,pony; horse; colt,,
+虚,N1,11,8,1454,虍,141,キョ; コ,むな.しい; うつ.ろ,,void; emptiness; unpreparedness; crack; fissure; untruth,謙虚,
+霊,N1,15,8,1458,雨,173,レイ; リョウ,たま,,spirits; soul,幽霊,
+帳,N1,11,3,1459,巾,50,チョウ,とばり,,notebook; account book; album; curtain; veil; net; tent,通帳; 手帳; 帳; 几帳面,
+悔,N1,9,8,1460,心,61,カイ,く.いる; く.やむ; くや.しい,,repent; regret,悔しい; 悔やむ; 後悔,
+諭,N1,16,8,1461,言,149,ユ,さと.す,ゆう,rebuke; admonish; charge; warn; persuade,,
+惨,N1,11,8,1463,心,61,サン; ザン,みじ.め; いた.む; むご.い,,wretched; disaster; cruelty; harsh,悲惨,
+虐,N1,9,8,1464,虍,141,ギャク,しいた.げる,,tyrannize; oppress,,
+翻,N1,18,8,1465,羽,124,ホン; ハン,ひるがえ.る; ひるがえ.す,,flip; turn over; wave; flutter; change (mind),翻訳,
+墜,N1,15,8,1466,土,32,ツイ,お.ちる; お.つ,,crash; fall (down),墜落,
+沼,N1,8,8,1467,水,85,ショウ,ぬま,,marsh; lake; bog; swamp; pond,沼,
+据,N1,11,8,1468,手,64,キョ,す.える; す.わる,,set; lay a foundation; install; equip; squat down; sit down,据える; 据え付ける,
+肥,N1,8,5,1469,肉,130,ヒ,こ.える; こえ; こ.やす; こ.やし; ふと.る,い; こい; ひえ,fertilizer; get fat; fertile; manure; pamper,肥料,
+徐,N1,10,8,1470,彳,60,ジョ,おもむ.ろに,,gradually; slowly; deliberately; gently,徐々に; 徐行; 徐々,
+糖,N1,16,6,1471,米,119,トウ,,,sugar,砂糖,
+搭,N1,12,8,1472,手,64,トウ,,,board; load (a vehicle); ride,,
+盾,N1,9,8,1476,目,109,ジュン,たて,,shield; escutcheon; pretext,矛盾; 盾,
+脈,N1,10,5,1477,肉,130,ミャク,すじ,,vein; pulse; hope,文脈; 脈; 山脈,
+滝,N1,13,8,1478,水,85,ロウ; ソウ,たき,らき,waterfall; rapids; cascade,滝,
+軌,N1,9,8,1480,車,159,キ,,,rut; wheel; track; model; way of doing,軌道,
+俵,N1,10,6,1481,人,9,ヒョウ,たわら,,bag; bale; sack; counter for bags,土俵,
+妨,N1,7,8,1482,女,38,ボウ,さまた.げる,,disturb; prevent; hamper; obstruct,妨げる; 妨害,
+擦,N1,17,8,1485,手,64,サツ,す.る; す.れる; -ず.れ; こす.る; こす.れる,,grate; rub; scratch; scrape; chafe; scour,擦る; 摩擦; 擦れる; 擦れ違い,
+鯨,N1,19,8,1486,魚,195,ゲイ,くじら,,whale,捕鯨,
+荘,N1,9,8,1489,艸,140,ソウ; ショウ; チャン,ほうき; おごそ.か,そ,villa; inn; cottage; feudal manor; solemn; dignified,別荘,
+諾,N1,15,8,1490,言,149,ダク,,,consent; assent; agreement,承諾,
+雷,N1,13,8,1491,雨,173,ライ,かみなり; いかずち; いかづち,,thunder; lightning bolt,雷,
+漂,N1,14,8,1492,水,85,ヒョウ,ただよ.う,,drift; float (on liquid),漂う,
+懐,N1,16,8,1493,心,61,カイ; エ,ふところ; なつ.かしい; なつ.かしむ; なつ.く; なつ.ける; なず.ける; いだ.く; おも.う,かね,feelings; heart; yearn; miss someone; become attached to; bosom; breast; pocket,懐かしい; 懐く,
+勘,N1,11,8,1494,力,19,カン,,か; さとる,intuition; perception; check; compare; sixth sense,勘; 勘定; 勘違い; 勘弁,
+栽,N1,10,8,1496,木,75,サイ,,,plantation; planting,栽培,
+拐,N1,8,8,1498,手,64,カイ,,,kidnap; falsify,,
+駄,N1,14,8,1500,馬,187,ダ; タ,,,burdensome; pack horse; horse load; send by horse; trivial; worthless,無駄; 下駄; 駄作; 無駄遣い,
+添,N1,11,8,1501,水,85,テン,そ.える; そ.う,そえ; ぞい,annexed; accompany; marry; suit; meet; satisfy; attach; append; garnish; imitate,添う; 添える,
+冠,N1,9,8,1503,冖,14,カン,かんむり,か; かっぷ; まさる,crown; best; peerless,冠,
+斜,N1,11,8,1504,斗,68,シャ,なな.め; はす,,diagonal; slanting; oblique,斜; 斜め; 傾斜; 斜面,
+鏡,N1,19,4,1506,金,167,キョウ; ケイ,かがみ,あき; かが; かがん,mirror; speculum; barrel-head; round rice-cake offering,眼鏡; 鏡; 顕微鏡; 望遠鏡,
+聡,N1,14,9,1507,耳,128,ソウ,さと.い; みみざと.い,さと; さとし; さとる; あき; あきら; とし; さた; みのる,wise; fast learner,,
+浪,N1,10,8,1508,水,85,ロウ,,なに; なみ,wandering; waves; billows; reckless; unrestrained,浪費,
+亜,N1,7,8,1509,二,7,ア,つ.ぐ,や; つぎ; つぐ,Asia; rank next; come after; -ous,亜科,
+覧,N1,17,6,1510,見,147,ラン,み.る,,perusal; see,展覧会; 御覧; 閲覧; 回覧; 観覧; 御覧なさい,
+詐,N1,12,8,1511,言,149,サ,いつわ.る,,lie; falsehood; deceive; pretend,詐欺,
+壇,N1,16,8,1512,土,32,ダン; タン,,,podium; stage; rostrum; terrace,壇; 花壇,
+勲,N1,15,8,1513,力,19,クン,いさお,いさむ,meritorious deed; merit,,
+魔,N1,21,8,1514,鬼,194,マ,,,witch; demon; evil spirit,悪魔; 誤魔化す,
+酬,N1,13,8,1515,酉,164,シュウ; シュ; トウ,むく.いる,,repay; reward; retribution,報酬,
+紫,N1,12,8,1516,糸,120,シ,むらさき,さい; ゆかり,purple; violet,紫,
+曙,N1,17,9,1518,日,72,ショ,あけぼの,,dawn; daybreak,,
+紋,N1,10,8,1519,糸,120,モン,,あや,family crest; figures,,
+卸,N1,9,8,1520,卩,26,シャ,おろ.す; おろし; おろ.し,,wholesale,卸す,
+奮,N1,16,6,1521,大,37,フン,ふる.う,,stirred up; be invigorated; flourish,興奮; 奮闘,
+欄,N1,20,8,1523,木,75,ラン,てすり,,column; handrail; blank; space,欄,
+逸,N1,11,8,1524,辵,162,イツ,そ.れる; そ.らす; はぐ.れる,いっ; はや; へん,deviate; idleness; leisure; miss the mark; evade; elude; parry; diverge,逸れる; 逸らす,
+涯,N1,11,8,1525,水,85,ガイ,はて,,horizon; shore; limit; bound,,
+拓,N1,8,8,1526,手,64,タク,ひら.く,つ; ひろ,clear (the land); open; break up (land),開拓,
+眼,N1,11,5,1527,目,109,ガン; ゲン,まなこ; め,,eyeball,眼鏡; 眼科; 眼球; 近眼,
+獄,N1,14,8,1529,犬,94,ゴク,,,prison; jail,地獄,
+尚,N1,8,8,1531,小,42,ショウ,なお,たか; たかし; ないし; なり; ひさ; ひさし,esteem; furthermore; still; yet,高尚; 尚更,
+阜,N1,8,4,1532,阜,170,フ; フウ,,おか,hill; mound; left village radical (no. 170),,true
+彫,N1,11,8,1533,彡,59,チョウ,ほ.る; -ぼ.り,,carve; engrave; chisel,彫刻; 彫る,
+穏,N1,16,8,1535,禾,115,オン,おだ.やか,,calm; quiet; moderation,穏やか,
+顕,N1,18,8,1536,頁,181,ケン,あきらか; あらわ.れる,あき; あきら,appear; existing,顕微鏡,
+巧,N1,5,8,1537,工,48,コウ,たく.み; たく.む; うま.い,かつ; たくみ; よし,adroit; skilled; ingenuity,巧妙; 精巧; 巧み,
+矛,N1,5,8,1538,矛,110,ム; ボウ,ほこ,,halberd; arms; festival float,矛盾,
+垣,N1,9,8,1539,土,32,エン,かき,がい,hedge; fence; wall,垣根,
+欺,N1,12,8,1541,欠,76,ギ,あざむ.く,,deceit; cheat; delude,欺く; 詐欺,
+釣,N1,11,8,1542,金,167,チョウ,つ.る; つ.り; つ.り-,つり,angling; fish; catch; allure; ensnare,釣る; 釣; 釣り合う; 釣鐘,
+萩,N1,12,9,1544,艸,140,シュウ,はぎ,は,bush clover,,
+葛,N1,11,8,1547,艸,140,カツ; カチ,つづら; くず,か; かず; かずら; かっ; かつら,arrowroot; kudzu,,true
+粛,N1,11,8,1549,聿,129,シュク; スク,つつし.む,,solemn; quietly; softly,,
+栗,N1,10,9,1550,木,75,リツ; リ,くり; おののく,くる; りっ,chestnut,,
+愚,N1,13,8,1551,心,61,グ,おろ.か,,foolish; folly; absurdity; stupid,愚か; 愚痴,
+嘉,N1,14,9,1553,口,30,カ,よみ.する; よい,ひろ; よし; よしみ; かず; よ,applaud; praise; esteem; happy; auspicious,,
+遭,N1,14,8,1554,辵,162,ソウ,あ.う; あ.わせる,,encounter; meet; party; association; interview; join,遭う; 遭難,
+架,N1,9,8,1555,木,75,カ,か.ける; か.かる,,erect; frame; mount; support; shelf; construct,架空; 担架,
+鬼,N1,10,8,1557,鬼,194,キ,おに; おに-,,ghost; devil,鬼,
+庶,N1,11,8,1558,广,53,ショ,,,commoner; all; bastard,庶民; 庶務,
+稚,N1,13,8,1560,禾,115,チ; ジ,いとけない; おさない; おくて; おでる,まさ; わか; わく; わっか,immature; young,幼稚; 幼稚園,
+滋,N1,12,4,1563,水,85,ジ; シ,,し; しげ; しげる,nourishing; more & more; be luxuriant; planting; turbidity,,
+幻,N1,4,8,1564,幺,52,ゲン,まぼろし,,phantasm; vision; dream; illusion; apparition,,
+煮,N1,12,8,1565,火,86,シャ,に.る; -に; に.える; に.やす,,boil; cook,煮る; 煮える,
+姫,N1,10,8,1566,女,38,キ,ひめ; ひめ-,,princess,,
+誓,N1,14,8,1567,言,149,セイ,ちか.う,,vow; swear; pledge,誓う,
+把,N1,7,8,1569,手,64,ハ; ワ,,たば,grasp; faggot; bunch; counter for bundles,把握,
+践,N1,13,8,1570,足,157,セン,ふ.む,,tread; step on; trample; practice; carry through,実践,
+呈,N1,7,8,1571,口,30,テイ,,,display; offer; present; send; exhibit,進呈,
+疎,N1,12,8,1572,疋,103,ソ; ショ,うと.い; うと.む; まば.ら,,alienate; rough; neglect; shun; sparse; penetrate,疎か; 過疎,
+仰,N1,6,8,1573,人,9,ギョウ; コウ,あお.ぐ; おお.せ; お.っしゃる; おっしゃ.る,,face-up; look up; depend; seek; respect; revere; drink; take,信仰; 仰ぐ,
+剛,N1,10,8,1576,刀,18,ゴウ,,かた; こう; ご; たか; たけ; たけし; つよ; つよし; ひさ; まさ; よし,sturdy; strength,,
+疾,N1,10,8,1577,疒,104,シツ,はや.い,,rapidly,,
+征,N1,8,8,1578,彳,60,セイ,,いく; そ; ただ; まさ; ゆき,subjugate; attack the rebellious; collect taxes,征服,
+砕,N1,9,8,1579,石,112,サイ,くだ.く; くだ.ける,,smash; break; crush; familiar; popular,砕く; 砕ける,
+謡,N1,16,8,1580,言,149,ヨウ,うた.い; うた.う,,song; sing; ballad; noh chanting,歌謡; 民謡,
+嫁,N1,13,8,1581,女,38,カ,よめ; とつ.ぐ; い.く; ゆ.く,,marry into; bride,嫁; 花嫁,
+謙,N1,17,8,1582,言,149,ケン,へりくだ.る,かね; ゆずる,self-effacing; humble oneself; condescend; be modest,謙虚; 謙遜; 謙る,
+后,N1,6,6,1583,口,30,コウ; ゴ,きさき,,empress; queen; after; behind; back; later,,
+嘆,N1,13,8,1584,口,30,タン,なげ.く; なげ.かわしい,,sigh; lament; moan; grieve; sigh of admiration,嘆く,
+菌,N1,11,8,1586,艸,140,キン,,,germ; fungus; bacteria,細菌; 黴菌,
+鎌,N1,18,8,1587,金,167,レン; ケン,かま,かた; かね,sickle; scythe; trick,,
+巣,N1,11,4,1588,巛,47,ソウ,す; す.くう,,nest; rookery; hive; cobweb; den,巣,
+頻,N1,17,8,1590,頁,181,ヒン,しき.りに,,repeatedly; recur,頻繁,
+琴,N1,12,8,1591,玉,96,キン; ゴン,こと,,harp; koto,琴,
+班,N1,10,6,1592,玉,96,ハン,,,squad; corps; unit; group,班,
+棚,N1,12,8,1594,木,75,ホウ,たな; -だな,,shelf; ledge; rack; mount; mantle; trellis,本棚; 棚; 戸棚,
+潔,N1,15,5,1595,水,85,ケツ,いさぎよ.い,きよ; きよし,undefiled; pure; clean; righteous; gallant,清潔; 不潔; 簡潔,
+酷,N1,14,8,1596,酉,164,コク,ひど.い,,cruel; severe; atrocious; unjust,残酷; 冷酷,
+宰,N1,10,8,1597,宀,40,サイ,,ただ,superintend; manager; rule,,
+廊,N1,12,8,1598,广,53,ロウ,,,corridor; hall; tower,廊下,
+寂,N1,11,8,1599,宀,40,ジャク; セキ,さび; さび.しい; さび.れる; さみ.しい,,loneliness; quietly; mellow; mature; death of a priest,寂しい,
+辰,N1,7,9,1600,辰,161,シン; ジン,たつ,とき; のぶ; のぶる,sign of the dragon; 7-9AM; fifth sign of Chinese zodiac; shin dragon radical (no. 161),,
+霞,N1,17,9,1603,雨,173,カ; ゲ,かすみ; かす.む,,be hazy; grow dim; blurred,霞む,
+伏,N1,6,8,1604,人,9,フク,ふ.せる; ふ.す,ふし; ふせ,prostrated; bend down; bow; cover; lay (pipes),起伏; 降伏,
+碁,N1,13,8,1609,石,112,ゴ,,,Go,碁; 碁盤,
+俗,N1,9,8,1610,人,9,ゾク,,,vulgar; customs; manners; worldliness; mundane things,風俗; 民俗,
+漠,N1,13,8,1611,水,85,バク,,,vague; obscure; desert; wide,砂漠; 漠然,
+邪,N1,8,8,1612,邑,163,ジャ,よこし.ま,,wicked; injustice; wrong,風邪; 無邪気,
+晶,N1,12,8,1613,日,72,ショウ,,あ; あき; あきら; ひかり; まさ,sparkle; clear; crystal,結晶,
+墨,N1,14,8,1616,土,32,ボク,すみ,すの,black ink; India ink; ink stick; Mexico,墨,
+鎮,N1,18,8,1617,金,167,チン,しず.める; しず.まる; おさえ,しげ; じん; ちか; しん,tranquilize; ancient peace-preservation centers,,
+洞,N1,9,8,1618,水,85,ドウ,ほら,とう,den; cave; excavation,,
+履,N1,15,8,1619,尸,44,リ,は.く,,perform; complete; footgear; shoes; boots; put on (the feet),草履; 履歴,
+劣,N1,6,8,1620,力,19,レツ,おと.る,,inferiority; be inferior to; be worse,劣る,
+那,N1,7,8,1621,邑,163,ナ; ダ,なに; なんぞ; いかん,とも; やす,what?,旦那,
+殴,N1,8,8,1622,殳,79,オウ,なぐ.る,,assault; hit; beat; thrash,,
+娠,N1,10,8,1623,女,38,シン,,,with child; pregnancy,妊娠,
+奉,N1,8,8,1624,大,37,ホウ; ブ,たてまつ.る; まつ.る; ほう.ずる,とも; やす,observance; offer; present; dedicate,奉る; 奉仕,
+憂,N1,15,8,1625,心,61,ユウ,うれ.える; うれ.い; う.い; う.き,ゆ,melancholy; grieve; lament; be anxious; sad; unhappy,憂鬱,
+朴,N1,6,8,1626,木,75,ボク,ほう; ほお; えのき,,crude; simple; plain; docile,素朴,
+亭,N1,9,8,1627,亠,8,テイ; チン,,,pavilion; restaurant; mansion; arbor; cottage; vaudeville; music hall; stage name,,
+淳,N1,11,9,1629,水,85,ジュン; シュン,あつ.い,あつ; あつし; きよ; きよし; まこと; すなお,pure,,
+怪,N1,8,8,1634,心,61,カイ; ケ,あや.しい; あや.しむ,,suspicious; mystery; apparition,怪我; 怪しい; 怪獣,
+鳩,N1,13,9,1637,鳥,196,キュウ; ク,はと; あつ.める,やす,pigeon; dove,,
+酔,N1,11,8,1640,酉,164,スイ,よ.う; よ.い; よ,よい,drunk; feel sick; poisoned; elated; spellbound,酔う; 酔っ払い; 麻酔,
+惜,N1,11,8,1641,心,61,セキ,お.しい; お.しむ,,pity; be sparing of; frugal; stingy; regret,惜しい; 惜しむ,
+穫,N1,18,8,1642,禾,115,カク,,,harvest; reap,収穫,
+佳,N1,8,8,1643,人,9,カ,,けい; よし,excellent; beautiful; good; pleasing; skilled,佳句,
+潤,N1,15,8,1644,水,85,ジュン,うるお.う; うるお.す; うる.む,めぐみ,wet; be watered; profit by; receive benefits; favor; charm; steep,潤う; 利潤,
+悼,N1,11,8,1645,心,61,トウ,いた.む,,lament; grieve over,,
+乏,N1,4,8,1646,丿,4,ボウ,とぼ.しい; とも.しい,,destitution; scarce; limited,窮乏; 欠乏; 貧乏; 乏しい,
+該,N1,13,8,1648,言,149,ガイ,,,above-stated; the said; that specific,該当,
+赴,N1,9,8,1649,走,156,フ,おもむ.く,,proceed; get; become; tend,赴く; 赴任,
+桑,N1,10,8,1650,木,75,ソウ,くわ,こ,mulberry,,
+桂,N1,10,9,1651,木,75,ケイ,かつら,かつ; よし; か,Japanese Judas-tree; cinnamon tree,,
+髄,N1,19,8,1652,骨,188,ズイ,,,marrow; pith; essence,,
+虎,N1,8,8,1653,虍,141,コ,とら,たけ,tiger; drunkard,虎,
+盆,N1,9,8,1654,皿,108,ボン,,,basin; lantern festival; tray,盆; 盆地,
+晋,N1,10,9,1655,日,72,シン,すす.む,すすむ; ゆき; くに; すすみ; のぶ,advance,,
+穂,N1,15,8,1656,禾,115,スイ,ほ,お; こう; のり; ほい,ear; ear (grain); head; crest (wave),穂,
+壮,N1,6,8,1657,士,33,ソウ,さかん,つよし,robust; manhood; prosperity,壮大,
+堤,N1,12,8,1658,土,32,テイ,つつみ,,dike; bank; embankment,堤防,
+飢,N1,10,8,1659,食,184,キ,う.える,,hungry; starve,飢饉; 飢える,
+傍,N1,12,8,1660,人,9,ボウ,かたわ.ら; わき; おか-; はた; そば,び,bystander; side; besides; while; nearby; third person,傍ら,
+疫,N1,9,8,1661,疒,104,エキ; ヤク,,,epidemic,,
+累,N1,11,8,1662,糸,120,ルイ,,,accumulate; involvement; trouble; tie up; continually,,
+痴,N1,13,8,1663,疒,104,チ,し.れる; おろか,,stupid; foolish,愚痴,
+搬,N1,13,8,1664,手,64,ハン,,,conveyor; carry; transport,運搬,
+晃,N1,10,9,1666,日,72,コウ,あきらか,あき; あきら; てる; ひかる; みつ,clear,,
+癒,N1,18,8,1667,疒,104,ユ,い.える; いや.す; い.やす,,healing; cure; quench (thirst); wreak,,
+桐,N1,10,9,1668,木,75,トウ; ドウ,きり,ひさ; き,paulownia,桐,
+寸,N1,3,6,1669,寸,41,スン,,す; みき,measurement; tenth of a shaku; a little; small,寸法,
+郭,N1,11,8,1670,邑,163,カク,くるわ,ひろ,enclosure; quarters; fortification; red-light district,,
+尿,N1,7,8,1672,尸,44,ニョウ,ゆばり; いばり; しと,,urine,尿; 屎尿,
+凶,N1,4,8,1673,凵,17,キョウ,,,villain; evil; bad luck; disaster,凶作,
+吐,N1,6,8,1674,口,30,ト,は.く; つ.く,,spit; vomit; belch; confess; tell (lies),吐く; 吐き気,
+宴,N1,10,8,1675,宀,40,エン,うたげ,うた; やす,banquet; feast; party,宴会,
+鷹,N1,24,9,1676,鳥,196,ヨウ; オウ,たか,,hawk,,
+賓,N1,15,8,1677,貝,154,ヒン,まろうど; したがう,,V.I.P.; guest,,
+虜,N1,13,8,1678,虍,141,リョ; ロ,とりこ; とりく,,captive; barbarian; low epithet for the enemy,捕虜,
+陶,N1,11,8,1680,阜,170,トウ,すえ,す,pottery; porcelain,陶器; 鬱陶しい,
+鐘,N1,20,8,1681,金,167,ショウ,かね,,bell; gong; chimes,鐘; 釣鐘,
+憾,N1,16,8,1682,心,61,カン,うら.む,,remorse; regret; be sorry,,
+畿,N1,15,8,1683,田,102,キ,みやこ,,capital; suburbs of capital,,true
+猪,N1,11,9,1684,犬,94,チョ,い; いのしし,いの,boar,,
+紘,N1,10,9,1685,糸,120,コウ,おおづな; つな; つなぐ,ひろ; ひろし,large,,
+磁,N1,14,6,1686,石,112,ジ,,,magnet; porcelain,磁石; 磁器; 磁気,
+弥,N1,8,8,1687,弓,57,ミ; ビ,や; いや; いよ.いよ; わた.る,わたる; みつ; ひろ; よ,all the more; increasingly,,
+昆,N1,8,8,1688,日,72,コン,,,descendants; elder brother; insect,昆虫,
+粗,N1,11,8,1689,米,119,ソ,あら.い; あら-,,coarse; rough; rugged,粗; 粗末; 粗い,
+訂,N1,9,8,1690,言,149,テイ,ただ.す,,revise; correct; decide,改訂; 訂正,
+芽,N1,8,4,1691,艸,140,ガ,め,じ; めぐ,bud; sprout; spear; germ,芽; 発芽,
+庄,N1,6,9,1693,广,53,ショウ; ソ; ソウ; ホウ,,まさ,level; in the country; manor; village; hamlet,,
+傘,N1,12,8,1694,人,9,サン,かさ,,umbrella,傘,
+敦,N1,12,9,1695,攴,66,トン; タイ; ダン; チョウ,あつ.い,あつ; あつし; つる; のぶ; のり,industry; kindliness,,
+騎,N1,18,8,1696,馬,187,キ,,,equestrian; riding on horses; counter for equestrians,,
+寧,N1,14,8,1697,宀,40,ネイ,むし.ろ,あき; やす; やすし; よし,rather; preferably; peaceful; quiet; tranquility,丁寧; 寧ろ,
+循,N1,12,8,1699,彳,60,ジュン,,,sequential; follow,循環,
+忍,N1,7,8,1700,心,61,ニン,しの.ぶ; しの.ばせる,おし,endure; bear; put up with; conceal; secrete; spy; sneak,,
+怠,N1,9,8,1703,心,61,タイ,おこた.る; なま.ける,,neglect; laziness,怠ける; 怠る; 怠慢; 怠い,
+如,N1,6,8,1704,女,38,ジョ; ニョ,ごと.し,き; ね; ゆき; よし,likeness; like; such as; as if; better; best; equal,突如; 如何に; 如何にも,
+寮,N1,15,8,1705,宀,40,リョウ,,,dormitory; hostel; villa; tea pavillion,寮,
+祐,N1,9,9,1706,示,113,ユウ; ウ,たす.ける,すけ; さち; よし; たすく; ひろ; ひろし; まさ,help,,
+鵬,N1,19,9,1707,鳥,196,ホウ,おおとり,,phoenix,,
+鉛,N1,13,8,1710,金,167,エン,なまり,,lead,鉛筆; 鉛,
+珠,N1,10,8,1711,玉,96,シュ,たま,す; とも; ま; み,pearl; gem; jewel,真珠,
+凝,N1,16,8,1712,冫,15,ギョウ,こ.る; こ.らす; こご.らす; こご.らせる; こご.る,,congeal; freeze; stiff; be absorbed in,凝る; 凝らす,
+苗,N1,8,8,1713,艸,140,ビョウ; ミョウ,なえ; なわ-,ねい; のら; みう; みつ,seedling; sapling; shoot,苗,
+獣,N1,16,8,1714,犬,94,ジュウ,けもの; けだもの,,animal; beast,獣; 怪獣,
+哀,N1,9,8,1715,口,30,アイ,あわ.れ; あわ.れむ; かな.しい,,pathetic; grief; sorrow; pathos; pity; sympathize,哀れ,
+跳,N1,13,8,1716,足,157,チョウ,は.ねる; と.ぶ; -と.び,,hop; leap up; spring; jerk; prance; buck; splash; sputter; snap,跳ぶ; 跳ねる,
+匠,N1,6,8,1718,匚,22,ショウ,たくみ,,artisan; workman; carpenter,,
+垂,N1,8,6,1720,土,32,スイ,た.れる; た.らす; た.れ; -た.れ; なんなんと.す,たる; だれ,droop; suspend; hang; slouch,垂直; 垂れる,
+蛇,N1,11,8,1721,虫,142,ジャ; ダ; イ; ヤ,へび,あぶ; み,snake; serpent; hard drinker,蛇口,
+澄,N1,15,8,1722,水,85,チョウ,す.む; す.ます; -す.ます,きよ; すす; すみ; み,lucidity; be clear; clear; clarify; settle; strain; look grave,澄む; 澄ます,
+縫,N1,16,8,1723,糸,120,ホウ,ぬ.う,ぬい,sew; stitch; embroider,裁縫; 縫う,
+僧,N1,13,8,1724,人,9,ソウ,,,Buddhist priest; monk,僧,
+眺,N1,11,8,1726,目,109,チョウ,なが.める,,stare; watch; look at; see; scrutinize,眺め; 眺める,
+唐,N1,10,8,1727,口,30,トウ,から,かろ; たん,T'ang; China; foreign,,true
+亘,N1,6,9,1728,二,7,コウ; カン; セン,わた.る; もと.める,のぶ; とうる; わたる; ひさし,span; range; extend over,,
+呉,N1,7,8,1729,口,30,ゴ,く.れる; くれ,ぐ,give; do something for; kingdom of Wu,,
+凡,N1,3,8,1730,几,16,ボン; ハン,およ.そ; おうよ.そ; すべ.て,なみ; ひろ; みな,commonplace; ordinary; mediocre,平凡,
+憩,N1,16,8,1731,心,61,ケイ,いこ.い; いこ.う,,recess; rest; relax; repose,休憩,
+媛,N1,12,4,1735,女,38,エン,ひめ,,beautiful woman; princess,,
+溝,N1,13,8,1736,水,85,コウ,みぞ,どぶ,gutter; ditch; sewer; drain; 10**32,溝,
+恭,N1,10,8,1737,心,61,キョウ,うやうや.しい,きよ; やす; やすし; ゆき; よし,respect; reverent,,
+刈,N1,4,8,1738,刀,18,ガイ; カイ,か.る,かっ; かり,reap; cut; clip; trim; prune,刈る,
+睡,N1,13,8,1739,目,109,スイ,ねむ.る; ねむ.い,,drowsy; sleep; die,睡眠,
+錯,N1,16,8,1740,金,167,サク; シャク,,,confused; mix; be in disorder,錯誤; 錯覚,
+伯,N1,7,8,1741,人,9,ハク,,いき; えき; か; き; は; ひろ,chief; count; earl; uncle; Brazil,伯母さん; 伯父さん,
+笹,N1,11,9,1743,竹,118,,ささ,さ; さき; しの; じね,bamboo grass; (kokuji),,
+穀,N1,14,6,1744,禾,115,コク,,たけ,cereals; grain,穀物,
+柿,N1,9,8,1745,木,75,シ,かき,,persimmon,,true
+陵,N1,11,8,1746,阜,170,リョウ,みささぎ,,mausoleum; imperial tomb; mound; hill,丘陵,
+霧,N1,19,8,1747,雨,173,ム; ボウ; ブ,きり,,fog; mist,霧,
+魂,N1,14,8,1748,鬼,194,コン,たましい; たま,,soul; spirit,魂,
+弊,N1,15,8,1750,廾,55,ヘイ,,,abuse; evil; vice; breakage,,
+妃,N1,6,8,1752,女,38,ヒ,きさき,き; ぴ; み,queen; princess,,
+舶,N1,11,8,1753,舟,137,ハク,,,liner; ship,船舶,
+餓,N1,15,8,1754,食,184,ガ,う.える,,starve; hungry; thirst,,
+腎,N1,13,8,1755,肉,130,ジン,,,kidney,,true
+窮,N1,15,8,1756,穴,116,キュウ; キョウ,きわ.める; きわ.まる; きわ.まり; きわ.み,,hard up; destitute; suffer; perplexed; cornered,窮屈; 窮乏,
+掌,N1,12,8,1757,手,64,ショウ,てのひら; たなごころ,,palm of hand; rule; administer; conduct,車掌; 掌,
+麗,N1,19,8,1758,鹿,198,レイ,うるわ.しい; うら.らか,ま; よし; り,lovely; beautiful; graceful; resplendent,,
+綾,N1,14,9,1759,糸,120,リン,あや,りょう,design; figured cloth; twill,,
+臭,N1,9,8,1760,自,132,シュウ,くさ.い; -くさ.い; にお.う; にお.い,,stinking; ill-smelling; suspicious looking; odor; savor; fragrance; be fragrant; stink; glow; be bright,臭い; 面倒臭い; 生臭い,
+悦,N1,10,8,1762,心,61,エツ,よろこ.ぶ; よろこ.ばす,や; よし,ecstasy; joy; rapture,,
+刃,N1,3,8,1763,刀,18,ジン; ニン,は; やいば; き.る,ち; と,blade; sword; edge,刃,
+縛,N1,16,8,1764,糸,120,バク,しば.る,,truss; arrest; bind; tie; restrain,縛る; 束縛,
+暦,N1,14,8,1765,日,72,レキ; リャク,こよみ,,calendar; almanac,西暦; 暦; 還暦,
+宜,N1,8,8,1766,宀,40,ギ,よろ.しい; よろ.しく,き; たか; のぶ; のり; よし,best regards; good,適宜; 便宜,
+盲,N1,8,8,1767,目,109,モウ,めくら,,blind; blind man; ignoramus,盲点,
+粋,N1,10,8,1768,米,119,スイ,いき,,chic; style; purity; essence; pith; cream; elite; choice,純粋; 粋,
+辱,N1,10,8,1769,辰,161,ジョク,はずかし.める,,embarrass; humiliate; shame,侮辱,
+毅,N1,15,9,1770,殳,79,キ; ギ,つよ.い,つよし; こわし; たけし; たけ; はたす; あつし; つよ; とし; み,strong,,
+轄,N1,17,8,1771,車,159,カツ,くさび,,control; wedge,,
+猿,N1,13,8,1772,犬,94,エン,さる,さ; さわ; ざる; まし,monkey,猿,
+弦,N1,8,8,1773,弓,57,ゲン,つる,,bowstring; chord; hypotenuse,,
+稔,N1,13,9,1775,禾,115,ネン; ジン; ニン,みの.る; みのり,とし; なる; なり; みのる; ね; み,harvest; ripen,,
+窒,N1,11,8,1776,穴,116,チツ,,,plug up; obstruct,窒息,
+炊,N1,8,8,1777,火,86,スイ,た.く; -だ.き,い,cook; boil,炊事; 炊く,
+洪,N1,9,8,1778,水,85,コウ,,ほん,deluge; flood; vast,洪水,
+摂,N1,13,8,1779,手,64,セツ; ショウ,おさ.める; かね.る; と.る,せっ,vicarious; surrogate; act in addition to; take in; absorb,,
+飽,N1,13,8,1780,食,184,ホウ,あ.きる; あ.かす; あ.く,あき; あく,sated; tired of; bored; satiate,飽きる; 飽和,
+冗,N1,4,8,1782,冖,14,ジョウ,,,superfluous; uselessness,冗談,
+桃,N1,10,8,1784,木,75,トウ,もも,み; もの,peach,,
+狩,N1,9,8,1785,犬,94,シュ,か.る; か.り; -が.り,かり,hunt; raid; gather,,
+朱,N1,6,8,1788,木,75,シュ,あけ,あ; あか; あき; す,vermilion; cinnabar; scarlet; red; bloody,,
+渦,N1,12,8,1789,水,85,カ,うず,,whirlpool; eddy; vortex,渦,
+紳,N1,11,8,1790,糸,120,シン,,まこと,sire; good belt; gentleman,紳士,
+枢,N1,8,8,1791,木,75,スウ; シュ,とぼそ; からくり,,hinge; pivot; door; center of things,中枢,
+碑,N1,14,8,1792,石,112,ヒ,いしぶみ,,tombstone; monument,碑,
+鍛,N1,17,8,1793,金,167,タン,きた.える,か,forge; discipline; train,鍛える,
+刀,N1,2,2,1794,刀,18,トウ,かたな; そり,き; ち; と; わき,sword; saber; knife,刀; 剃刀,
+鼓,N1,13,8,1795,鼓,207,コ,つづみ,,drum; beat; rouse; muster,太鼓,
+裸,N1,13,8,1796,衣,145,ラ,はだか,,naked; nude; uncovered; partially clothed,裸; 裸足,
+猶,N1,12,8,1799,犬,94,ユウ; ユ,なお,,furthermore; still; yet,,
+塊,N1,13,8,1800,土,32,カイ; ケ,かたまり; つちくれ,,clod; lump; chunk; clot; mass,塊,
+旋,N1,11,8,1801,方,70,セン,め.ぐる; いばり,せ; めぐり,rotation; go around,,
+弓,N1,3,2,1802,弓,57,キュウ,ゆみ,こ; ゆ,"bow; bow (archery, violin)",弓,
+幣,N1,15,8,1803,巾,50,ヘイ,ぬさ,しで,cash; bad habit; humble prefix; gift; Shinto offerings of cloth; rope; cut paper,紙幣; 貨幣,
+膜,N1,14,8,1804,肉,130,マク,,,membrane,膜,
+扇,N1,10,8,1805,戶,63,セン,おうぎ,おう; おおぎ,fan; folding fan,扇ぐ; 扇子; 扇風機; 団扇,
+腸,N1,13,6,1807,肉,130,チョウ,はらわた; わた,,intestines; guts; bowels; viscera,腸,
+槽,N1,15,8,1809,木,75,ソウ,ふね,,vat; tub; tank,,
+慈,N1,13,8,1811,心,61,ジ,いつく.しむ,しげ; ちか; めぐみ; よし,mercy,,
+楊,N1,13,9,1815,木,75,ヨウ,やなぎ,やな,willow,,
+伐,N1,6,8,1816,人,9,バツ; ハツ; カ; ボチ,き.る; そむ.く; う.つ,,fell; strike; attack; punish,,
+駿,N1,17,9,1817,馬,187,シュン; スン,すぐ.れる,する; とし; はやし; はやお,a good horse; speed; a fast person,,
+漬,N1,14,8,1818,水,85,シ,つ.ける; つ.かる; -づ.け; -づけ,,pickling; soak; moisten; steep,漬ける,
+糾,N1,9,8,1820,糸,120,キュウ,ただ.す,,twist; ask; investigate; verify,,
+亮,N1,9,9,1821,亠,8,リョウ,あきらか,あき; すけ; まこと; あきら; よし; きょう; たすく; ふさ,clear; help,,
+墳,N1,15,8,1822,土,32,フン,,,tomb; mound,,
+坪,N1,8,8,1823,土,32,ヘイ,つぼ,,two-mat area; approx. thirty-six sq ft,,
+紺,N1,11,8,1825,糸,120,コン,,,dark blue; navy,紺,
+慌,N1,12,8,1826,心,61,コウ,あわ.てる; あわ.ただしい,,disconcerted; be confused; lose one's head,,true
+娯,N1,10,8,1827,女,38,ゴ,,,recreation; pleasure,娯楽,
+椿,N1,13,9,1829,木,75,チン; チュン,つばき,つば,camellia,,
+舌,N1,6,6,1830,舌,135,ゼツ,した,,tongue; reed; clapper,舌,
+羅,N1,19,8,1831,网,122,ラ,うすもの,,gauze; thin silk; Rome; arrange; spread out,,
+峡,N1,9,8,1833,山,46,キョウ; コウ,はざま,き; ば,gorge; ravine,海峡,
+俸,N1,10,8,1834,人,9,ホウ,,,stipend; salary,,
+厘,N1,9,8,1835,厂,27,リン,,,rin; 1/10 sen; 1/10 bu,,
+峰,N1,10,8,1836,山,46,ホウ,みね; ね,ぶ; ほ,summit; peak,峰,
+圭,N1,6,9,1837,土,32,ケイ; ケ,,か; きよ; たま; よし; かど; きよし,square jewel; corner; angle; edge,,
+醸,N1,20,8,1838,酉,164,ジョウ,かも.す,,brew; cause,,
+蓮,N1,13,9,1839,艸,140,レン,はす; はちす,,lotus,蓮,
+弔,N1,4,8,1840,弓,57,チョウ,とむら.う; とぶら.う,,condolences; mourning; funeral,,
+乙,N1,1,8,1841,乙,5,オツ; イツ,おと-; きのと,,the latter; duplicate; strange; witty; fishhook radical (no. 5),乙,
+汁,N1,5,8,1843,水,85,ジュウ,しる; -しる; つゆ,,soup; juice; broth; sap; gravy; pus,汁,
+尼,N1,5,8,1844,尸,44,ニ,あま,,nun,,
+遍,N1,12,8,1845,辵,162,ヘン,あまね.く,,everywhere; times; widely; generally,普遍,
+衡,N1,16,8,1847,行,144,コウ,,ひら,equilibrium; measuring rod; scale,均衡,
+薫,N1,16,8,1849,艸,140,クン,かお.る,かおり; かおる; かほ; かほる; くに; しげ; にほ; のぶ; よし,send forth fragrance; fragrant; be scented; smoke (tobacco),,
+猟,N1,11,8,1851,犬,94,リョウ,かり; か.る,,game-hunting; shooting; game; bag,,
+羊,N1,6,3,1852,羊,123,ヨウ,ひつじ,よ,sheep,羊毛,
+款,N1,12,8,1854,欠,76,カン,,まさ,goodwill; article; section; friendship; collusion,,
+閲,N1,15,8,1855,門,169,エツ,けみ.する,,review; inspection; revision,閲覧,
+偵,N1,11,8,1857,人,9,テイ,,,spy,,
+喝,N1,11,8,1858,口,30,カツ,,,hoarse; scold,,
+敢,N1,12,8,1859,攴,66,カン,あ.えて; あ.えない; あ.えず,,daring; brave; bold; sad; tragic; pitiful,勇敢; 敢えて,
+胎,N1,9,8,1861,肉,130,タイ,,,womb; uterus,,
+酵,N1,14,8,1862,酉,164,コウ,,,fermentation,,
+憤,N1,15,8,1863,心,61,フン,いきどお.る,,aroused; resent; be indignant; anger,憤慨,
+豚,N1,11,8,1864,豕,152,トン,ぶた,,pork; pig,豚肉,
+遮,N1,14,8,1865,辵,162,シャ,さえぎ.る,,intercept; interrupt; obstruct,遮る,
+扉,N1,12,8,1866,戶,63,ヒ,とびら,,front door; title page; front page,扉,
+硫,N1,12,8,1867,石,112,リュウ,,,sulphur,,
+赦,N1,11,8,1868,赤,155,シャ,ゆる.す,,pardon; forgiveness,,
+挫,N1,10,8,1869,手,64,ザ; サ,くじ.く; くじ.ける,,crush; break; sprain; discourage,,true
+窃,N1,9,8,1871,穴,116,セツ,ぬす.む; ひそ.か,,stealth; steal; secret; private; hushed,,
+泡,N1,8,8,1872,水,85,ホウ,あわ,,bubbles; foam; suds; froth,泡,
+瑞,N1,13,9,1873,玉,96,ズイ; スイ,みず-; しるし,たま; ず; みつ,congratulations,,
+又,N1,2,8,1874,又,29,ユウ,また; また-; また.の-,やす,or again; furthermore; on the other hand,,
+慨,N1,13,8,1875,心,61,ガイ,なげ.く,,rue; be sad; sigh; lament,感慨; 憤慨,
+紡,N1,10,8,1876,糸,120,ボウ,つむ.ぐ,,spinning,紡績,
+恨,N1,9,8,1877,心,61,コン,うら.む; うら.めしい,,regret; bear a grudge; resentment; malice; hatred,恨み; 恨む,
+肪,N1,8,8,1878,肉,130,ボウ,,,obese; fat,脂肪,
+扶,N1,7,8,1879,手,64,フ,たす.ける,,aid; help; assist,扶養,
+戯,N1,15,8,1880,戈,62,ギ; ゲ,たわむ.れる; ざ.れる; じゃ.れる,,frolic; play; sport,戯曲,
+伍,N1,6,9,1881,人,9,ゴ,いつつ,くみ; あつむ,five; five-man squad; file; line,,
+忌,N1,7,8,1882,心,61,キ,い.む; い.み; い.まわしい,いまわ,mourning; abhor; detestable; death anniversary,,
+濁,N1,16,8,1883,水,85,ダク; ジョク,にご.る; にご.す,にごり,voiced; uncleanness; wrong; nigori; impurity,濁る; 清濁,
+奔,N1,8,8,1884,大,37,ホン,はし.る,,run; bustle,,
+斗,N1,4,8,1885,斗,68,ト; トウ,,ます,Big Dipper; ten sho (vol); sake dipper; dots and cross radical (no. 68),,
+蘭,N1,19,9,1886,艸,140,ラン; ラ,,か; あららぎ,orchid; Holland,,
+迅,N1,6,8,1888,辵,162,ジン,,,swift; fast,迅速,
+肖,N1,7,8,1889,肉,130,ショウ,あやか.る,,resemblance,,
+鉢,N1,13,8,1890,金,167,ハチ; ハツ,,,bowl; rice tub; pot; crown,鉢,
+朽,N1,6,8,1891,木,75,キュウ,く.ちる,くつ,decay; rot; remain in seclusion,朽ちる,
+殻,N1,11,8,1892,殳,79,カク; コク; バイ,から; がら,,husk; nut shell,殻; 貝殻,
+享,N1,8,8,1893,亠,8,キョウ; コウ,う.ける,たか; たかし; とおる; みち,enjoy; receive; undergo; answer (phone); take; get; catch,享受,
+秦,N1,10,9,1894,禾,115,シン,はた,たい; はだ; やす,Qin dynasty; name given to naturalized foreigners,,
+茅,N1,8,9,1895,艸,140,ボウ; ミョウ,かや; ちがや,ち; じ,miscanthus reed,,
+藩,N1,18,8,1896,艸,140,ハン,,,clan; enclosure,,
+沙,N1,7,8,1897,水,85,サ; シャ,すな; よなげる,,sand,無沙汰; 御無沙汰,
+輔,N1,14,9,1898,車,159,ホ; フ,たす.ける,すけ; たすく; ゆう,help,,
+媒,N1,12,8,1900,女,38,バイ,なこうど,,mediator; go-between,,
+鶏,N1,19,8,1901,鳥,196,ケイ,にわとり; とり,,chicken,鶏肉,
+禅,N1,13,8,1902,示,113,ゼン; セン,しずか; ゆず.る,,Zen; silent meditation,禅,
+嘱,N1,15,8,1903,口,30,ショク,しょく.する; たの.む,,entrust; request; send a message,,
+胴,N1,10,8,1904,肉,130,ドウ,,,trunk; torso; hull (ship); hub of wheel,胴,
+迭,N1,8,8,1907,辵,162,テツ,,,transfer; alternation,,
+挿,N1,10,8,1908,手,64,ソウ,さ.す; はさ.む,,insert; put in; graft; wear (sword),挿す,
+嵐,N1,12,8,1910,山,46,ラン,あらし,ぞれ,storm; tempest,嵐,
+椎,N1,12,8,1911,木,75,ツイ; スイ,つち; う.つ,しい,chinquapin; mallet; spine,,
+絹,N1,13,6,1916,糸,120,ケン,きぬ,,silk,絹,
+陪,N1,11,8,1917,阜,170,バイ,,,obeisance; follow; accompany; attend on,,
+剖,N1,10,8,1918,刀,18,ボウ,,,divide,解剖,
+譜,N1,19,8,1919,言,149,フ,,,musical score; music; note; staff; table; genealogy,楽譜,
+郁,N1,9,9,1920,邑,163,イク,,あや; かおる; い; か; ふみ; ゆう,cultural progress; perfume,,
+悠,N1,11,8,1921,心,61,ユウ,,ゆ,permanence; distant; long time; leisure,悠々,
+淑,N1,11,8,1922,水,85,シュク,しと.やか,すく; とし; よし,graceful; gentle; pure,,
+帆,N1,6,8,1923,巾,50,ハン,ほ,,sail,,
+暁,N1,12,8,1924,日,72,ギョウ; キョウ,あかつき; さと.る,あき; あきら; あけ; さと; さとる; てる,daybreak; dawn; in the event,,
+傑,N1,13,8,1926,人,9,ケツ,すぐ.れる,すぐ; たけ; まさ,greatness; excellence,傑作; 傑,
+楠,N1,13,9,1927,木,75,ナン; ダン; ゼン; ネン,くす; くすのき,くず; な,camphor tree,,
+笛,N1,11,3,1928,竹,118,テキ,ふえ,う,flute; clarinet; pipe; whistle; bagpipe; piccolo,笛,
+玲,N1,9,9,1931,玉,96,レイ,,たま; あきら; あき; りょう; れ,sound of jewels,,
+奴,N1,5,8,1932,女,38,ド,やつ; やっこ,ぬ,guy; slave; manservant; fellow,奴,
+錠,N1,16,8,1934,金,167,ジョウ,,,lock; fetters; shackles,手錠,
+拳,N1,10,8,1935,手,64,ケン; ゲン,こぶし,,fist,,
+翔,N1,12,9,1936,羽,124,ショウ,かけ.る; と.ぶ,か,soar; fly,,
+遷,N1,15,8,1937,辵,162,セン,うつ.る; うつ.す; みやこがえ,,transition; move; change,変遷,
+拙,N1,8,8,1938,手,64,セツ,つたな.い,,bungling; clumsy; unskillful,,
+侍,N1,8,8,1939,人,9,ジ; シ,さむらい; はべ.る,かみ,waiter; samurai; wait upon; serve,侍,
+尺,N1,4,6,1940,尸,44,シャク; セキ,さし,,shaku; Japanese foot; measure; scale; rule,,
+峠,N1,9,8,1941,山,46,,とうげ,,mountain peak; mountain pass; climax; crest; (kokuji),峠,
+篤,N1,16,8,1942,竹,118,トク,あつ.い,,fervent; kind; cordial; serious; deliberate,,
+肇,N1,14,9,1943,聿,129,チョウ; ジョウ; トウ,はじ.める; はじめ,とし; ただし; はつ,beginning,,
+渇,N1,11,8,1944,水,85,カツ,かわ.く,,thirst; dry up; parch,渇く,
+俺,N1,10,8,1946,人,9,エン,おれ; われ,,I; myself,俺,true
+叔,N1,8,8,1950,又,29,シュク,,よし,uncle; youth,叔父さん; 叔母さん,
+雌,N1,14,8,1951,隹,172,シ,め-; めす; めん,,feminine; female,雌,
+亨,N1,7,9,1952,亠,8,コウ; キョウ; ホウ,とお.る,とうる; みち; ゆき; あきら; なが; あき; とおる; とおるふ,pass through; go smoothly,,
+堪,N1,12,8,1953,土,32,カン; タン,た.える; たま.る; こら.える; こた.える,,withstand; endure; support; resist,堪える,
+叙,N1,9,8,1954,又,29,ジョ,つい.ず; ついで,,confer; relate; narrate; describe,,
+酢,N1,12,8,1955,酉,164,サク,す,,vinegar; sour; acid; tart,酢,
+吟,N1,7,8,1956,口,30,ギン,,,versify; singing; recital,吟味,
+逓,N1,10,8,1957,辵,162,テイ,かわ.る; たがいに,,relay; in turn; sending,,
+痕,N1,11,8,1958,疒,104,コン,あと,,mark; foot print,,true
+嶺,N1,17,9,1959,山,46,レイ; リョウ,みね,ね,peak; summit,,
+甚,N1,9,8,1961,甘,99,ジン,はなは.だ; はなは.だしい,じ,tremendously; very; great; exceedingly,甚だしい; 甚だ,
+喬,N1,12,9,1962,口,30,キョウ,たか.い,たかし; たか,high; boasting,,
+妖,N1,7,8,1964,女,38,ヨウ,あや.しい; なま.めく; わざわ.い,,attractive; bewitching; calamity,,true
+闇,N1,17,8,1969,門,169,アン; オン,やみ; くら.い,,get dark; gloom; disorder,闇; 無闇に,true
+崇,N1,11,8,1970,山,46,スウ,あが.める,す; たか; たかし; たかむ,adore; respect; revere; worship,崇拝,
+漆,N1,14,8,1971,水,85,シツ,うるし,うる,lacquer; varnish; seven,,
+岬,N1,8,8,1972,山,46,コウ,みさき,さき,headland; cape; spit; promontory,岬,
+癖,N1,18,8,1973,疒,104,ヘキ,くせ; くせ.に,,mannerism; habit; vice; trait; fault; kink,癖,
+愉,N1,12,8,1974,心,61,ユ,たの.しい; たの.しむ,ゆう,pleasure; happy; rejoice,愉快,
+寅,N1,11,9,1975,宀,40,イン,とら,とも; のぶ,sign of the tiger; 3-5AM; third sign of Chinese zodiac,,
+捉,N1,10,8,1976,手,64,ソク; サク,とら.える,,catch; capture,,true
+礁,N1,17,8,1977,石,112,ショウ,,,reef; sunken rock,,
+乃,N1,2,9,1978,丿,4,ナイ; ダイ; ノ; アイ,の; すなわ.ち; なんじ,おさむ; お; のり,from; possessive particle; whereupon; accordingly,乃至,
+洲,N1,9,9,1979,水,85,シュウ; ス,しま,,continent; sandbar; island; country,,
+屯,N1,4,8,1980,屮,45,トン,たむろ,,barracks; police station; camp; ton,,
+樺,N1,14,9,1982,木,75,カ,かば; かんば,から; かも; かん,birch; dark red,,
+槙,N1,14,9,1983,木,75,テン; シン,まき; こずえ,,twig; ornamental evergreen,,
+姻,N1,9,8,1985,女,38,イン,,,matrimony; marry,,
+巌,N1,20,9,1986,山,46,ガン,いわ; いわお; けわ.しい,よし,rock; crag; boulder,,
+賭,N1,15,8,1989,貝,154,ト,か.ける; かけ,,gamble; wager; bet,賭け; 賭ける,true
+擬,N1,17,8,1990,手,64,ギ,まが.い; もど.き,,mimic; aim (a gun) at; nominate; imitate,,
+塀,N1,12,8,1991,土,32,ヘイ; ベイ,,,fence; wall; (kokuji),塀,
+唇,N1,10,8,1992,口,30,シン,くちびる,,lips,唇,
+睦,N1,13,8,1993,目,109,ボク; モク,むつ.まじい; むつ.む; むつ.ぶ,むつ; ちか; よし; あつ; む; むね,intimate; friendly; harmonious,,
+閑,N1,12,8,1994,門,169,カン,,が; より,leisure,長閑,
+胡,N1,9,9,1995,肉,130,ウ; コ; ゴ,なんぞ,えびす; くる,barbarian; foreign,胡椒,
+幽,N1,9,8,1996,幺,52,ユウ,ふか.い; かす.か; くら.い; しろ.い,,seclude; confine to a room; deep; profound; secluded; faint; dark; tranquil; calm,幽霊,
+峻,N1,10,9,1997,山,46,シュン,けわ.しい; たか.い,たか; たかし; ちか; とし; おか,high; steep,,
+曹,N1,11,8,1998,曰,73,ソウ; ゾウ,,,office; official; comrade; fellow,,
+詠,N1,12,8,2000,言,149,エイ,よ.む; うた.う,うた; え; ええ,recitation; poem; song; composing,,
+卑,N1,9,8,2003,十,24,ヒ,いや.しい; いや.しむ; いや.しめる,,lowly; base; vile; vulgar; despise,卑怯; 卑しい,
+侮,N1,8,8,2004,人,9,ブ,あなど.る; あなず.る,,scorn; despise; make light of; contempt,侮辱,
+鋳,N1,15,8,2005,金,167,チュウ; イ; シュ; シュウ,い.る,,casting; mint,,
+抹,N1,8,8,2006,手,64,マツ,,,rub; paint; erase,,
+尉,N1,11,8,2007,寸,41,イ; ジョウ,,,military officer; jailer; old man; rank,尉,
+槻,N1,15,9,2008,木,75,キ,つき,,Zelkova tree,,
+隷,N1,16,8,2009,隶,171,レイ,したが.う; しもべ,,slave; servant; prisoner; criminal; follower,,
+禍,N1,13,8,2010,示,113,カ,わざわい,,calamity; misfortune; evil; curse,,
+蝶,N1,15,9,2011,虫,142,チョウ,,,butterfly,蝶,
+酪,N1,13,8,2012,酉,164,ラク,,,dairy products; whey; broth; fruit juice,酪農,
+茎,N1,8,8,2013,艸,140,ケイ; キョウ,くき,,stalk; stem,茎,
+汎,N1,6,8,2014,水,85,ハン; ブ; フウ; ホウ; ホン,ただよ.う; ひろ.い,ひろ; ひろし; みな,pan-,,true
+帥,N1,9,8,2016,巾,50,スイ,,,commander; leading troops; governor,,
+逝,N1,10,8,2018,辵,162,セイ,ゆ.く; い.く,,departed; die,,
+汽,N1,7,2,2020,水,85,キ,,,vapor; steam,汽車; 汽船,
+琢,N1,11,9,2022,玉,96,タク,みが.く,あや; たか,polish,,
+匿,N1,10,8,2024,匸,23,トク,かくま.う,,hide; shelter; shield,,
+鍵,N1,17,8,2029,金,167,ケン,かぎ,,key,,true
+襟,N1,18,8,2030,衣,145,キン,えり,,collar; neck; lapel; one's inner feelings,襟,
+蛍,N1,11,8,2031,虫,142,ケイ,ほたる,,lightning-bug; firefly,蛍光灯,
+蕉,N1,15,9,2033,艸,140,ショウ,,,banana; plantain,,
+寡,N1,14,8,2035,宀,40,カ,,,widow; minority; few,,
+琉,N1,11,9,2036,玉,96,リュウ; ル,,,precious stone; gem; lapis lazuli,,
+痢,N1,12,8,2037,疒,104,リ,,,diarrhea,下痢,
+庸,N1,11,8,2038,广,53,ヨウ,,つね; のぶ; やす,commonplace; ordinary; employment,,
+朋,N1,8,9,2039,月,74,ホウ,とも,,companion; friend,,
+坑,N1,7,8,2040,土,32,コウ,,,pit; hole,,
+藍,N1,18,8,2043,艸,140,ラン,あい,,indigo,,
+賊,N1,13,8,2045,貝,154,ゾク,,,burglar; rebel; traitor; robber,,
+搾,N1,13,8,2046,手,64,サク,しぼ.る,,squeeze,,
+臼,N1,6,8,2048,臼,134,キュウ; グ,うす; うすづ.く,,mortar,,true
+畔,N1,10,8,2049,田,102,ハン,あぜ; くろ; ほとり,ぐろ,paddy ridge; levee,,
+遼,N1,15,9,2050,辵,162,リョウ,,はるか,distant,,
+唄,N1,10,8,2051,口,30,バイ,うた; うた.う,,song; ballad,,
+孔,N1,4,8,2052,子,39,コウ; ク,あな,のり,cavity; hole; slit; very; great; exceedingly,,
+橘,N1,16,9,2053,木,75,キツ,たちばな,きっ,mandarin orange,,
+漱,N1,14,9,2054,水,85,ソウ; シュウ; ス,くちすす.ぐ; くちそそ.ぐ; うがい; すす.ぐ,,gargle; rinse mouth,,
+呂,N1,7,8,2055,口,30,ロ; リョ,せぼね,とも; なが,spine; backbone,お風呂; 風呂敷,
+拷,N1,9,8,2057,手,64,ゴウ,,,torture; beat,,
+嬢,N1,16,8,2059,女,38,ジョウ,むすめ,,lass; girl; Miss; daughter,お嬢さん; 嬢,
+苑,N1,8,9,2060,艸,140,エン; オン,その; う.つ,あや,garden; farm; park,,
+巽,N1,12,9,2061,己,49,ソン,たつみ,,southeast,,
+杜,N1,7,9,2062,木,75,ト; トウ; ズ,もり; ふさ.ぐ; やまなし,,woods; grove,,
+渓,N1,11,8,2063,水,85,ケイ,たに; たにがわ,,mountain stream; valley,,
+翁,N1,10,8,2064,羽,124,オウ,おきな,お; おな,venerable old man,,
+廉,N1,13,8,2066,广,53,レン,,きよ,bargain; reason; charge; suspicion; point; account; purity; honest; low price; cheap; rested; contented; peaceful,,
+牙,N1,5,8,2067,牙,92,ガ; ゲ,きば; は,,tusk; fang; tusk radical (no. 92),,true
+謹,N1,17,8,2068,言,149,キン,つつし.む,,discreet; reverently; humbly,,
+瞳,N1,17,8,2069,目,109,ドウ; トウ,ひとみ,あきら,pupil (of eye),瞳,
+湧,N1,12,8,2070,水,85,ユウ; ヨウ; ユ,わ.く,わき; わく,boil; ferment; seethe; uproar; breed,湧く,
+欣,N1,8,9,2071,欠,76,キン; ゴン; コン,よろこ.ぶ; よろこ.び,やすし; よし; し,take pleasure in; rejoice,,
+窯,N1,15,8,2072,穴,116,ヨウ,かま,,kiln; oven; furnace,,
+褒,N1,15,8,2073,衣,145,ホウ,ほ.める,,praise; extol,褒美,
+醜,N1,17,8,2074,酉,164,シュウ,みにく.い; しこ,,ugly; unclean; shame; bad looking,醜い,
+升,N1,4,8,2077,十,24,ショウ,ます,のぼる,measuring box; 1.8 liter,,
+殉,N1,10,8,2080,歹,78,ジュン,,,martyrdom; follow by resigning,,
+煩,N1,13,8,2081,火,86,ハン; ボン,わずら.う; わずら.わす; うるさ.がる; うるさ.い,,anxiety; trouble; worry; pain; ill; annoy; nuisance; irksome,煩い; 煩わしい,
+巴,N1,4,9,2082,己,49,ハ,ともえ; うずまき,とも,comma-design,,
+禎,N1,13,9,2083,示,113,テイ,さいわ.い,さだ; ただし; よし; さち; とも; のり,happiness; blessed; good fortune; auspicious,,
+劾,N1,8,8,2085,力,19,ガイ,,,censure; criminal investigation,,
+堕,N1,12,8,2087,土,32,ダ,お.ちる; くず.す; くず.れる,,degenerate; descend to; lapse into,,
+租,N1,10,8,2089,禾,115,ソ,,,tariff; crop tax; borrowing,,
+稜,N1,13,9,2091,禾,115,リョウ; ロウ,いつ; かど,,angle; edge; corner; power; majesty,,
+桟,N1,10,8,2093,木,75,サン; セン,かけはし,さ,scaffold; cleat; frame; jetty; bolt (door),桟橋,
+惧,N1,11,8,2097,心,61,ク; グ,おそ.れる,,fear; be afraid of; dread,,true
+倭,N1,10,9,2098,人,9,ワ; イ,やまと; したが.う,まさ; やす,Yamato; ancient Japan,,
+婿,N1,12,8,2099,女,38,セイ,むこ,,bridegroom; son-in-law,婿,
+慕,N1,14,8,2100,心,61,ボ,した.う,,pining; yearn for; love dearly; adore,慕う,
+斐,N1,12,9,2103,文,67,ヒ; イ,,あや,beautiful; patterned,,
+罷,N1,15,8,2104,网,122,ヒ,まか.り-; や.める,,quit; stop; leave; withdraw; go,,
+矯,N1,17,8,2105,矢,111,キョウ,た.める,,rectify; straighten; correct; reform; cure; control; pretend; falsify,,
+某,N1,9,8,2106,木,75,ボウ,それがし; なにがし,,so-and-so; one; a certain; that person,,
+囚,N1,5,8,2107,囗,31,シュウ,とら.われる,,captured; criminal; arrest; catch,,
+魁,N1,14,9,2108,鬼,194,カイ,さきがけ; かしら,,charging ahead of others,,
+虹,N1,9,8,2110,虫,142,コウ,にじ,,rainbow,虹,
+鴻,N1,17,9,2111,鳥,196,コウ; ゴウ,おおとり; ひしくい; おおがり,,large bird; wild goose; large; great; powerful; prosperous,,
+泌,N1,8,8,2112,水,85,ヒツ; ヒ,,,ooze; flow; soak in; penetrate; secrete,,
+於,N1,8,9,2113,方,70,オ; ヨ,おい.て; お.ける; ああ; より,,at; in; on; as for,,
+赳,N1,10,9,2114,走,156,キュウ,,たけ; たけし,strong and brave,,
+漸,N1,14,8,2115,水,85,ゼン,ようや.く; やや; ようよ.う; すす.む,,steadily; gradually advancing; finally; barely,,
+膳,N1,16,8,2120,肉,130,ゼン; セン,かしわ; すす.める; そな.える,ぜ; よし,small low table; tray,膳,true
+蚊,N1,10,8,2121,虫,142,ブン,か,,mosquito,蚊,
+葵,N1,12,9,2122,艸,140,キ,あおい,まもる; け,hollyhock,,
+厄,N1,4,8,2123,厂,27,ヤク,,,unlucky; misfortune; bad luck; disaster,厄介,
+藻,N1,19,8,2124,艸,140,ソウ,も,,seaweed; duckweed,,
+禄,N1,12,9,2126,示,113,ロク,さいわ.い; ふち,とし; よし,fief; allowance; pension; grant; happiness,貫禄,
+孟,N1,8,9,2127,子,39,モウ; ボウ; ミョウ,かしら,たけし; たけ; はる; はじめ; つとむ; おさ; はい,chief; beginning,,
+嫡,N1,14,8,2130,女,38,チャク; テキ,,,legitimate wife; direct descent (non-bastard),,
+呪,N1,8,8,2131,口,30,ジュ; シュ; シュウ; ズ,まじな.う; のろ.い; まじな.い; のろ.う,,spell; curse; charm; malediction,,true
+尭,N1,8,9,2136,土,32,ギョウ,たか.い,たかし; たか; のり; あき,high; far,,
+怨,N1,9,8,2137,心,61,エン; オン; ウン,うら.む; うらみ; うら.めしい,,grudge; show resentment; be jealous,,true
+串,N1,7,8,2139,丨,2,カン; ケン; セン,くし; つらぬ.く,,spit; skewer,,true
+嚇,N1,17,8,2141,口,30,カク,おど.す,,menacing; dignity; majesty; threaten,,
+巳,N1,3,9,2142,己,49,シ,み,,sign of the snake or serpent; 9-11AM; sixth sign of Chinese zodiac,,
+凸,N1,5,8,2143,凵,17,トツ,でこ,,convex; beetle brow; uneven,凸凹,
+暢,N1,14,9,2144,日,72,チョウ,のび.る,いたる; のぶ; のぶる; なが; とうる; とおる; のり; まさ; みつる; よう,stretch,,
+腫,N1,13,8,2145,肉,130,シュ; ショウ,は.れる; は.れ; は.らす; はれもの,,tumor; swelling,腫れる,true
+韻,N1,19,8,2148,音,180,イン,,,rhyme; elegance; tone,,
+霜,N1,17,8,2151,雨,173,ソウ,しも,,frost,霜,
+硝,N1,12,8,2154,石,112,ショウ,,,nitrate; saltpeter,,
+箸,N1,15,8,2156,竹,118,チョ; チャク,はし,,chopsticks,,true
+勅,N1,9,8,2157,力,19,チョク,いまし.める; みことのり,て; のり,imperial order,,
+芹,N1,7,9,2158,艸,140,キン,せり,せい; よし,parsley,,
+杏,N1,7,9,2159,木,75,キョウ; アン; コウ,あんず,りょう,apricot,,
+棺,N1,12,8,2161,木,75,カン,,,coffin; casket,,
+儒,N1,16,8,2162,人,9,ジュ,,,Confucian,,
+鳳,N1,14,9,2163,鳥,196,ホウ; フウ,,おおとり; ふげ,male mythical bird,,
+馨,N1,20,9,2164,香,186,ケイ; キョウ,かお.る; かおり,か; かおる; きよ; よし; かほる,fragrant; balmy; favourable,,
+斑,N1,12,8,2165,文,67,ハン,ふ; まだら,い,spot; blemish; speck; patches,斑,true
+慧,N1,15,9,2168,心,61,ケイ; エ,さとい,さと; さとし; さとる; あきら; とし,wise,,
+摯,N1,15,8,2170,手,64,シ,いた.る; つか.む; にえ,,gift; seriousness,,true
+愁,N1,13,8,2171,心,61,シュウ,うれ.える; うれ.い,,distress; grieve; lament; be anxious,郷愁,
+楼,N1,13,8,2173,木,75,ロウ,たかどの,,watchtower; lookout; high building,,
+彬,N1,11,9,2174,彡,59,ヒン; フン,うるわ.しい; あき.らか,あきら; あき; よし,refined; gentle,,
+匡,N1,6,9,2176,匚,22,キョウ; オウ,すく.う; ただ.す,ただ; ただし; まさ; まさし; きよ; ひと; やす,correct; save; assist,,
+眉,N1,9,8,2177,目,109,ビ; ミ,まゆ,,eyebrow,眉,
+欽,N1,12,9,2181,欠,76,キン; コン,つつし.む,よし; ひとし,respect; revere; long for,,
+薪,N1,16,8,2182,艸,140,シン,たきぎ; まき,,fuel; firewood; kindling,,
+堆,N1,11,8,2184,土,32,タイ; ツイ,うずたか.い,,piled high,,true
+褐,N1,13,8,2186,衣,145,カツ,,,brown; woollen kimono,,
+賜,N1,15,8,2190,貝,154,シ,たまわ.る; たま.う; たも.う,,grant; gift; boon; results,賜る,
+嵯,N1,13,9,2191,山,46,サ; シ,,,steep; craggy; rugged,,
+綜,N1,14,9,2194,糸,120,ソウ,おさ.める; す.べる,,rule; synthesize,,
+繕,N1,18,8,2195,糸,120,ゼン,つくろ.う,,darning; repair; mend; trim; tidy up; adjust,修繕; 繕う,
+栓,N1,10,8,2199,木,75,セン,,,plug; bolt; cork; bung; stopper,栓,
+翠,N1,14,9,2200,羽,124,スイ,かわせみ; みどり,あきら,green; kingfisher,,
+鮎,N1,16,9,2201,魚,195,デン; ネン,あゆ; なまず,あい,freshwater trout; smelt,,
+蜜,N1,14,8,2203,虫,142,ミツ; ビツ,,,honey; nectar; molasses,蜜; 蜂蜜,true
+榛,N1,14,9,2205,木,75,シン; ハン,はしばみ; はり,はい; はる,hazelnut; filbert,,
+凹,N1,5,8,2206,凵,17,オウ,くぼ.む; へこ.む; ぼこ,,concave; hollow; sunken,凸凹; 凹む,
+艶,N1,19,8,2207,色,139,エン,つや; なま.めかしい; あで.やか; つや.めく; なま.めく,もろ; よし,glossy; luster; glaze; polish; charm; colorful; captivating,艶,
+惣,N1,12,9,2211,心,61,ソウ,すべ.て,おさむ; あしむ; ふさ; そ; みち,all,,
+股,N1,8,8,2212,肉,130,コ,また; もも,,thigh; crotch,股,true
+蔦,N1,14,9,2215,艸,140,チョウ,つた,たつ,vine; ivy,,
+玩,N1,8,8,2216,玉,96,ガン,もちあそ.ぶ; もてあそ.ぶ,,play; take pleasure in; trifle with; make sport of,,true
+錬,N1,16,8,2221,金,167,レン,ね.る,,tempering; refine; drill; train; polish,,
+蜂,N1,13,8,2223,虫,142,ホウ,はち,ほ,bee; wasp; hornet,蜂蜜,true
+隼,N1,10,9,2224,隹,172,シュン; ジュン,はやぶさ,はや,falcon,,
+渚,N1,11,9,2226,水,85,ショ,なぎさ,なぎ,strand; beach; shore,,
+衷,N1,9,8,2229,衣,145,チュウ,,,inmost; heart; mind; inside,折衷,
+逐,N1,10,8,2230,辵,162,チク,,,pursue; drive away; chase; accomplish; attain; commit,,
+斥,N1,5,8,2231,斤,69,セキ,しりぞ.ける,,reject; retreat; recede; withdraw; repel; repulse,,
+稀,N1,12,9,2232,禾,115,キ; ケ,まれ; まばら,,rare; phenomenal; dilute (acid),稀,
+芙,N1,7,9,2238,艸,140,フ,,はす,lotus; Mt Fuji,,
+詔,N1,12,8,2239,言,149,ショウ,みことのり,さとし; のり,imperial edict,,
+皐,N1,11,9,2240,白,106,コウ,さつき,たかし,swamp; shore; fifth month,,
+雛,N1,18,9,2241,隹,172,スウ; ス; ジュ,ひな; ひよこ,,chick; squab; duckling; doll,雛,
+椅,N1,12,8,2245,木,75,イ,,,chair,,true
+惟,N1,11,9,2246,心,61,イ; ユイ,おも.んみる; これ; おも.うに,ただ; よし; のぶ,consider; reflect; think,,
+佑,N1,7,9,2250,人,9,ユウ; ウ,たす.ける,すけ; たすく; ゆ,help; assist,,
+耀,N1,20,9,2253,羽,124,ヨウ,かがや.く; ひかり,あかる,shine; sparkle; gleam; twinkle,,
+黛,N1,16,9,2254,黑,203,タイ,まゆずみ,,blackened eyebrows,,
+渥,N1,12,9,2257,水,85,アク,あつ.い; うるお.う,あつし,kindness; moisten,,
+憧,N1,15,8,2259,心,61,ショウ; トウ; ドウ,あこが.れる,,yearn after; long for; aspire to; admire; adore,憧れる; 憧れ,
+宵,N1,10,8,2262,宀,40,ショウ,よい,,wee hours; evening; early night,,
+妄,N1,6,8,2264,女,38,モウ; ボウ,みだ.りに,,delusion; unnecessarily; without authority; reckless,,
+惇,N1,11,9,2265,心,61,シュン; ジュン; トン,あつ.い,あつし; あつ; まこと; とし; つとむ,sincere; kind; considerate,,
+脩,N1,11,9,2267,肉,130,シュウ,おさ.める; なが.い; ほじし,おさむ; おさ; なが; のぶ; はる,dried meat,,
+甫,N1,7,9,2270,用,101,ホ; フ,はじ.めて,はじめ; とし; なみ; すけ; よし,for the first time; not until,,
+酌,N1,10,8,2271,酉,164,シャク,く.む,,bar-tending; serving sake; the host; draw (water); ladle; scoop; pump,酌む,
+蚕,N1,10,6,2272,虫,142,サン; テン,かいこ; こ,,silkworm,,
+嬉,N1,15,9,2274,女,38,キ,うれ.しい; たの.しむ,うらし; うれし,glad; pleased; rejoice,,
+蒼,N1,13,9,2276,艸,140,ソウ,あお.い,,blue; pale,,
+暉,N1,13,9,2285,日,72,キ,かが.やく,てる,shine; light,,
+頒,N1,13,8,2287,頁,181,ハン,わ.かつ; わ.ける,,distribute; disseminate; partition; understand,,
+只,N1,5,9,2288,口,30,シ,ただ,,only; free; in addition,,
+肢,N1,8,8,2289,肉,130,シ,,,limb; arms & legs,,
+檀,N1,17,9,2291,木,75,ダン; タン,まゆみ,,cedar; sandalwood; spindle tree,,
+凱,N1,12,9,2293,几,16,ガイ; カイ,かちどき; やわらぐ,,victory song,,
+彗,N1,11,9,2294,彐,58,スイ; エ; ケイ; セイ,ほうき,とし,comet; broom,,
+謄,N1,17,8,2295,言,149,トウ,,,mimeograph; copy,,
+脊,N1,10,8,2299,肉,130,セキ,せ; せい,,stature; height; spine,,true
+梓,N1,11,9,2301,木,75,シ,あずさ,,catalpa tree; woodblock printing,,
+丑,N1,4,9,2305,一,1,チュウ,うし,ひろ,sign of the ox or cow; 1-3AM; second sign of Chinese zodiac,,
+嗣,N1,13,8,2310,口,30,シ,,あき; つかさ; つぎ; つぐ; ひで,heir; succeed,,
+叶,N1,5,9,2312,口,30,キョウ,かな.える; かな.う,かの; かのう,grant; answer,叶う; 叶える,
+汐,N1,6,9,2314,水,85,セキ,しお; うしお; せい,いそ,eventide; tide; salt water; opportunity,,
+絢,N1,12,9,2315,糸,120,ケン,,じゅん; あや,brilliant fabric design,,
+嫉,N1,13,8,2317,女,38,シツ,そね.む; ねた.む; にく.む,,jealous; envy,嫉妬,true
+朔,N1,10,9,2318,月,74,サク,ついたち,たち,conjunction (astronomy); first day of month; north,,
+伽,N1,7,9,2323,人,9,カ; ガ; キャ; ギャ,とぎ,,nursing; attending; entertainer,,
+恣,N1,10,8,2325,心,61,シ,ほしいまま,,selfish; arbitrary,,true
+畝,N1,10,8,2327,田,102,ボウ; ホ; モ; ム,せ; うね,,furrow; thirty tsubo; ridge; rib,,
+抄,N1,7,8,2328,手,64,ショウ,,さ; り,extract; selection; summary; copy; spread thin,,
+麺,N1,16,8,2331,麥,199,メン; ベン,むぎこ,,noodles; wheat flour,,true
+戴,N1,17,8,2332,戈,62,タイ,いただ.く,,be crowned with; live under (a ruler); receive,,true
+爽,N1,11,8,2333,爻,89,ソウ,あき.らか; さわ.やか; たがう,,refreshing; bracing; resonant; sweet; clear,,
+裾,N1,13,8,2334,衣,145,キョ; コ,すそ,,cuff; hem; foot of mountain,裾,true
+黎,N1,15,9,2335,黍,202,レイ; リ,くろ.い,れ,dark; black; many,,
+惰,N1,12,8,2336,心,61,ダ,,,lazy; laziness,,
+蛮,N1,12,8,2339,虫,142,バン,えびす,,barbarian,,
+冴,N1,7,9,2341,冫,15,ゴ; コ,さ.える; こお.る; ひ.える,さえ; さえる,be clear; serene; cold; skilful,冴える,
+旺,N1,8,8,2342,日,72,オウ,さかん,,flourishing; successful; beautiful; vigorous,,
+萌,N1,11,9,2346,艸,140,ホウ,も.える; きざ.す; めばえ; きざ.し,もえ; きざし,show symptoms of; sprout; bud; malt,,
+冥,N1,10,8,2349,冖,14,メイ; ミョウ,くら.い,,dark,,true
+偲,N1,11,9,2350,人,9,サイ; シ,しの.ぶ,,recollect; remember,,
+壱,N1,7,8,2351,士,33,イチ; イツ,ひとつ,い; かず,one (in documents),,
+瑠,N1,14,8,2352,玉,96,ル; リュウ,,るり,lapis lazuli,,
+允,N1,4,9,2358,儿,10,イン,じょう; まこと.に; ゆるす,まこと; のぶ; まさ; みつ; すけ; よし; ちか; とも,license; sincerity; permit,,
+侯,N1,9,8,2363,人,9,コウ,,,marquis; lord; daimyo,,
+蒔,N1,13,9,2368,艸,140,シ; ジ,う.える; ま.く,まい; まか; まき,sow (seeds),蒔く,
+鯉,N1,18,9,2369,魚,195,リ,こい,,carp,,
+弧,N1,9,8,2371,弓,57,コ,,,arc; arch; bow,括弧,
+遥,N1,12,9,2376,辵,162,ヨウ,はる.か,,far off; distant; long ago,遥か,
+訃,N1,9,8,2379,言,149,フ,しらせ,,obituary,,true
+舜,N1,13,9,2384,舛,136,シュン,,みつ,type of morning glory; rose of Sharon; althea,,
+畏,N1,9,8,2389,田,102,イ,おそ.れる; かしこま.る; かしこ; かしこ.し,,fear; majestic; graciously; be apprehensive,,true
+喉,N1,12,8,2390,口,30,コウ,のど,,throat; voice,,true
+瑛,N1,12,9,2393,玉,96,エイ,,よう; あき; あきら; てる; え,sparkle of jewelry; crystal,,
+附,N1,8,8,2396,阜,170,フ,つ.ける; つ.く,ずき; づけ,affixed; attach; refer to; append,附属,
+彪,N1,11,9,2397,彡,59,ヒョウ; ヒュウ,あや,たけし; たけ; あきら; かおる; たけき; つよし; とら,spotted; mottled; patterned; small tiger,,
+卯,N1,5,9,2400,卩,26,ボウ; モウ,う,あきら; しげる; い,sign of the hare or rabbit; fourth sign of Chinese zodiac; 5-7AM; east,卯,
+但,N1,7,8,2404,人,9,タン,ただ.し,たじ,however; but,但し,
+綺,N1,14,9,2413,糸,120,キ,あや,,figured cloth; beautiful,,
+芋,N1,6,8,2418,艸,140,ウ,いも,,taro; yam; tuber,,
+茜,N1,9,9,2422,艸,140,セン,あかね,,madder; red dye; Turkey red,,
+凌,N1,10,9,2423,冫,15,リョウ,しの.ぐ,,endure; keep (rain)out; stave off; tide over; defy; slight; surpass,凌ぐ,
+皓,N1,12,9,2428,白,106,コウ,しろ.い; ひか.る,あきら; てる; あき; ひろ; ひろし,white; clear,,
+洸,N1,9,9,2430,水,85,コウ,,ひろ; ひろし; たけし; ひかり,sparkling water,,
+毬,N1,11,9,2431,毛,82,キュウ,いが; まり,,burr; ball,,
+婆,N1,11,8,2435,女,38,バ,ばば; ばあ,,old woman; grandma; wet nurse,,
+緋,N1,14,9,2443,糸,120,ヒ,あけ; あか,,scarlet; cardinal,,
+鯛,N1,19,9,2446,魚,195,チョウ,たい,,sea bream; red snapper,,
+怜,N1,8,9,2450,心,61,レイ; レン; リョウ,あわ.れむ; さと.い,さと; さとし,wise,,
+邑,N1,7,9,2452,邑,163,ユウ,むら,お; おう; おお; くに; さと,village; rural community; right village radical (no. 163),,
+倣,N1,10,8,2454,人,9,ホウ,なら.う,,emulate; imitate,倣う; 模倣,
+碧,N1,14,9,2455,石,112,ヘキ; ヒャク,,みどり; あお; たま,blue; green,,
+緻,N1,16,8,2460,糸,120,チ,こまか.い,,fine (i.e. not coarse),,true
+哺,N1,10,8,2461,口,30,ホ,はぐく.む; ふく.む,,nurse; suckle,,true
+啄,N1,10,9,2463,口,30,タク; ツク; トク,ついば.む; つつ.く,くち; はし; ばし,peck; pick up,,
+穣,N1,18,9,2464,禾,115,ジョウ,わら; ゆたか,しげ; みのる,good crops; prosperity; 10**28,,
+罵,N1,15,8,2467,网,122,バ,ののし.る,,abuse; insult,罵る,true
+酉,N1,7,9,2468,酉,164,ユウ,とり,なが; みのる,west; bird; sign of the bird; 5-7PM; tenth sign of Chinese zodiac; sake radical (no. 164),,
+悌,N1,10,9,2474,心,61,テイ; ダイ,,とも; やす; やすし; よし; ちか,serving our elders,,
+乞,N1,3,8,2478,乙,5,コツ; キツ; キ; キケ; コチ,こ.う,,beg; invite; ask,,true
+倹,N1,10,8,2479,人,9,ケン,つま.しい; つづまやか,,frugal; economy; thrifty,倹約,
+蔑,N1,14,8,2483,艸,140,ベツ,ないがしろ; なみ.する; くらい; さげす.む,,ignore; despise; neglect; ridicule,軽蔑,true
+柚,N1,9,9,2489,木,75,ユ; ユウ; ジク,ゆず,,citron,,
+繭,N1,18,8,2495,糸,120,ケン,まゆ; きぬ,,cocoon,,
+且,N1,5,8,,一,1,ショ; ソ; ショウ,か.つ,あき; かつ,moreover; also; furthermore,且つ,
+丙,N1,5,8,,一,1,ヘイ,ひのえ,,third class; 3rd; 3rd calendar sign,,
+丞,N1,6,9,,一,1,ジョウ; ショウ,すく.う; たす.ける,すけ,help,,
+亥,N1,6,9,,亠,8,ガイ; カイ,い,り,sign of the hog; 9-11PM; twelfth sign of the Chinese zodiac,,
+亦,N1,6,9,,亠,8,エキ; ヤク,また,,also; again,,
+伎,N1,6,8,,人,9,ギ; キ,わざ; わざおぎ,,deed; skill,,
+伶,N1,7,9,,人,9,レイ; リョウ,わざおぎ,れ,actor,,
+侃,N1,8,9,,人,9,カン,つよ.い,あきら; ただし,strong; just; righteous; peace-loving,,
+侑,N1,8,9,,人,9,ユウ; ウ,すす.める; たす.ける,あつむ; すすむ; ゆき; ゆ,urge to eat,,
+侶,N1,9,8,,人,9,リョ; ロ,とも,,companion; follower,,true
+倖,N1,10,9,,人,9,コウ,しあわ.せ; さいわ.い,,happiness; luck,,
+傲,N1,13,8,,人,9,ゴウ,おご.る; あなど.る,,be proud,,true
+冶,N1,7,8,,冫,15,ヤ,い.る,じ,melting; smelting,,
+凜,N1,15,9,,冫,15,リン,きびし.い,,cold; strict; severe,,
+凪,N1,6,9,,几,16,,なぎ; な.ぐ,,lull; calm; (kokuji),,
+刹,N1,8,8,,刀,18,セチ; セツ; サツ,,,temple,,true
+剝,N1,10,8,,刀,18,ハク; ホク,へ.ぐ; へず.る; む.く; む.ける; は.がれる; は.ぐ; は.げる; は.がす,,come off; peel; fade; discolor,,true
+勁,N1,9,9,,力,19,ケイ,つよ.い,,strong,,
+勃,N1,9,8,,力,19,ボツ; ホツ,おこ.る; にわかに,,suddenness; rise,,true
+勺,N1,3,9,,勹,20,シャク,,,ladle; one tenth of a go; dip,,
+勾,N1,4,8,,勹,20,コウ; ク,かぎ; ま.がる,まがり,be bent; slope; capture,,true
+匁,N1,4,9,,勹,20,,もんめ; め,,monme; 3.75 grams; (kokuji),,
+叡,N1,16,9,,又,29,エイ,あき.らか,,intelligence; imperial,,
+吏,N1,6,8,,口,30,リ,,さと; し,officer; an official,下吏; 捕吏,
+咽,N1,9,8,,口,30,イン; エン; エツ,むせ.ぶ; むせ.る; のど; の.む,,throat; choked; smothered; stuffy,,true
+哉,N1,9,9,,口,30,サイ,かな; や,か; すけ; とし; ちか; はじめ,how; what; alas; question mark; exclamation mark,,
+唾,N1,11,8,,口,30,ダ; タ,つば; つばき,,saliva; sputum,唾,true
+喩,N1,12,8,,口,30,ユ,たと.える; さと.す,,metaphor; compare,,true
+嘲,N1,15,8,,口,30,チョウ; トウ,あざけ.る,,ridicule; insult,,true
+塑,N1,13,8,,土,32,ソ,でく,,model; molding,,
+塡,N1,13,8,,土,32,テン; チン,はま.る; うず.める; は.める; ふさ.ぐ,,fill in; fill up; make good,,true
+墾,N1,16,8,,土,32,コン,は.る; ひら.く,,ground-breaking; open up farmland,,
+奎,N1,9,9,,大,37,ケイ; キ,,,star; god of literature,,
+妬,N1,8,8,,女,38,ト; ツ,ねた.む; そね.む; つも.る; ふさ.ぐ,,jealous; envy,嫉妬; 妬む,true
+宥,N1,9,9,,宀,40,ユウ,なだ.める; ゆる.す,,soothe; calm; pacify,,
+崖,N1,11,8,,山,46,ガイ; ゲ; ギ,がけ; きし; はて,,cliff; bluff; precipice,崖,true
+崚,N1,11,9,,山,46,リョウ,,,mountains towering in a row,,
+嵩,N1,13,9,,山,46,スウ; シュウ,かさ; かさ.む; たか.い,たかし; たか; たけ,be aggravated; grow worse; grow bulky; swell,嵩む; 嵩張る,
+弄,N1,7,8,,廾,55,ロウ; ル,いじく.る; ろう.する; いじ.る; ひねく.る; たわむ.れる; もてあそ.ぶ,,play with; tamper; trifle with,弄る,true
+弐,N1,6,8,,弋,56,ニ; ジ,ふた.つ; そえ,,II; two; second,,
+彙,N1,13,8,,彐,58,イ,はりねずみ,,same kind; collect; classify; category; hedgehog,語彙,true
+恕,N1,10,9,,心,61,ジョ; ショ,ゆる.す,,excuse; tolerate; forgive,,
+慄,N1,13,8,,心,61,リツ,ふる.える; おそ.れる; おのの.く,,fear,,true
+憬,N1,15,8,,心,61,ケイ,あこが.れる,,yearn for; aspire to; admire,,true
+拉,N1,8,8,,手,64,ラツ; ラ; ロウ,らっ.する; ひし.ぐ; くだ.く,,Latin; kidnap; crush,,true
+捗,N1,10,8,,手,64,チョク; ホ,はかど.る,,make progress,捗る,true
+捷,N1,11,9,,手,64,ショウ; ソウ,はや.い,かつ,victory; fast,,
+捺,N1,11,9,,手,64,ナツ; ダツ,さ.す; お.す,,press; print; affix a seal; stamp,,
+斤,N1,4,8,,斤,69,キン,,,axe; 1.32 lb; catty; counter for loaves of bread; axe radical (no. 69),,
+旦,N1,5,8,,日,72,タン; ダン,あき.らか; あきら; ただし; あさ; あした,,daybreak; dawn; morning,一旦; 旦那,
+昂,N1,8,9,,日,72,コウ; ゴウ,あ.がる; たか.い; たか.ぶる,あき; あきら; たか; たかし; のぼる,rise,,
+昧,N1,9,8,,日,72,マイ; バイ,くら.い; むさぼ.る,,dark; foolish,,true
+昴,N1,9,9,,日,72,コウ; ボウ,すばる,,the Pleiades,,
+晏,N1,10,9,,日,72,アン,おそ.い,,late; quiet; sets (sun),,
+晟,N1,10,9,,日,72,セイ; ジョウ,あきらか,,clear,,
+晨,N1,11,9,,日,72,シン,あした; とき; あさ,,morning; early,,
+曖,N1,17,8,,日,72,アイ,くら.い,,dark; not clear,,true
+朕,N1,10,8,,月,74,チン,,,majestic plural; imperial we,,
+柊,N1,9,9,,木,75,シュ; シュウ,ひいらぎ,,holly,,
+柵,N1,9,8,,木,75,サク; サン,しがら.む; しがらみ; とりで; やらい,ませ; やな,stockade; fence; weir; entwine around,柵,true
+柾,N1,9,9,,木,75,,まさ; まさめ; まさき,,straight grain; spindle tree; (kokuji),,
+栞,N1,10,9,,木,75,カン,しおり,,bookmark; guidebook,,
+梗,N1,11,8,,木,75,コウ; キョウ,ふさぐ; やまにれ; おおむね,,for the most part; close up; flower stem,,true
+梢,N1,11,9,,木,75,ショウ,こずえ; くすのき,,treetops; twig,梢,
+梧,N1,11,9,,木,75,ゴ,あおぎり,,Chinese parasol tree; phoenix tree,,
+椋,N1,12,9,,木,75,リョウ,むく,ぐら,type of deciduous tree; grey starling,,
+椰,N1,13,9,,木,75,ヤ,やし,,coconut tree,,
+楓,N1,13,9,,木,75,フウ,かえで,,maple,,
+楷,N1,13,8,,木,75,カイ,,,square character style; correctness,,true
+毀,N1,13,8,,殳,79,キ,こぼ.つ; こわ.す; こぼ.れる; こわ.れる; そし.る; やぶ.る,,break; destroy; censure; be chipped; be scratched; be broken; be ruined,,true
+氾,N1,5,8,,水,85,ハン,ひろ.がる,,spread out; wide,氾濫,true
+汰,N1,7,8,,水,85,タ; タイ,おご.る; にご.る; よな.げる,,washing; sieving; filtering; weeding out; luxury,無沙汰; 御無沙汰,
+沃,N1,7,8,,水,85,ヨウ; ヨク; オク,そそ.ぐ,,fertility,,true
+洵,N1,9,9,,水,85,ジュン; シュン,の.ぶ; まこと.に,,alike; truth,,
+淫,N1,11,8,,水,85,イン,ひた.す; ほしいまま; みだ.ら; みだ.れる; みだり,,lewdness; licentiousness,,true
+滉,N1,13,9,,水,85,コウ,ひろ.い,,deep and broad (water),,
+澪,N1,16,9,,水,85,レイ,みお,,water route; shipping channel,,
+濫,N1,18,8,,水,85,ラン,みだ.りに; みだ.りがましい,,excessive; overflow; spread out,氾濫; 濫用,
+熙,N1,15,9,,火,86,キ,たのし.む; ひか.る; ひろ.い; よろこ.ぶ; かわ.く; あきらか; ひろ.める; ひろ.まる,,bright; sunny; prosperous; merry,,
+燎,N1,16,9,,火,86,リョウ,かがりび,,burn; bonfire,,
+燦,N1,17,9,,火,86,サン,さん.たる; あき.らか; きらめ.く; きら.めく,,brilliant,,
+燿,N1,18,9,,火,86,ヨウ,かがや.く; ひかり,,shine,,
+爵,N1,17,8,,爪,87,シャク,,,baron; peerage; court rank,,
+爾,N1,14,9,,爻,89,ジ; ニ,なんじ; しかり; その; のみ; おれ; しか,ちか; み,you; thou; second person,,
+玖,N1,7,9,,玉,96,キュウ; ク,,たま; き; ひさ,beautiful black jewel; nine,,
+琳,N1,12,9,,玉,96,リン,,,jewel; tinkling of jewelry,,
+瑚,N1,13,9,,玉,96,コ; ゴ,,,ancestral offering receptacle; coral,,
+瑳,N1,14,9,,玉,96,サ,みが.く,,polish; brilliant white luster of a gem; artful smile,,
+瑶,N1,13,9,,玉,96,ヨウ,たま,,beautiful as a jewel,,
+璃,N1,15,8,,玉,96,リ,,あき,glassy; lapis lazuli,,
+璧,N1,18,8,,玉,96,ヘキ,たま,,sphere; ball,完璧,true
+璽,N1,19,8,,玉,96,ジ,,,emperor's seal,,true
+痘,N1,12,8,,疒,104,トウ,,,pox; smallpox,,
+瘍,N1,14,8,,疒,104,ヨウ,かさ,,swelling; boil; tumor,,true
+眸,N1,11,9,,目,109,ボウ; ム,ひとみ,,pupil of the eye,,
+瞭,N1,17,8,,目,109,リョウ,あきらか,,clear,明瞭,
+碩,N1,14,9,,石,112,セキ,おお.きい,,large; great; eminent,,
+窟,N1,13,8,,穴,116,クツ; コツ,いわや; いはや; あな,,cavern,,true
+竣,N1,12,9,,立,117,ドウ; シュン,わらわ; わらべ; おわ.る,,end; finish,,
+笙,N1,11,9,,竹,118,ショウ; ソウ,ふえ,,a reed instrument,,
+箇,N1,14,8,,竹,118,カ; コ,,,counter for articles,箇所; 箇箇; 箇条書き,
+紗,N1,10,9,,糸,120,サ; シャ,うすぎぬ,たえ; すず,gauze; gossamer,,
+紬,N1,11,9,,糸,120,チュウ,つむぎ; つむ.ぐ,,pongee (a knotted silk cloth),,
+絃,N1,11,9,,糸,120,ゲン,いと,,string; cord; samisen music,,
+綸,N1,14,9,,糸,120,リン; カン,いと,,thread; silk cloth,,
+綻,N1,14,8,,糸,120,タン,ほころ.びる,,be rent; ripped; unravel; run; begin to open; smile,綻びる,true
+羞,N1,11,8,,羊,123,シュウ,はじ.る; すすめ.る; は.ずかしい,,feel ashamed,,true
+耗,N1,10,8,,耒,127,モウ; コウ,,,decrease,消耗,
+耶,N1,9,9,,耳,128,ヤ; ジャ,か,,question mark,,
+胤,N1,9,9,,肉,130,イン,たね,つぎ; つぐ; かず,descendent; issue; offspring,,
+脹,N1,12,9,,肉,130,チョウ,は.れる; ふく.らむ; ふく.れる,,dilate; distend; bulge; fill out; swell,膨脹,
+腺,N1,13,8,,肉,130,セン,,,gland; (kokuji),,true
+臆,N1,17,8,,肉,130,オク; ヨク,むね; おくする,,timidity; heart; mind; fear; cowardly,臆病,true
+舷,N1,11,8,,舟,137,ゲン,ふなばた; ふなべり,,gunwale,,true
+苛,N1,8,8,,艸,140,カ,いじ.める; さいな.む; いらだ.つ; からい; こまかい,,torment; scold; chastise,,true
+茄,N1,8,9,,艸,140,カ,,な; か; なす,eggplant,,
+茉,N1,8,9,,艸,140,マツ; バツ; マ,,み,jasmine,,
+莉,N1,10,9,,艸,140,リ; ライ; レイ,,,jasmine,,
+莞,N1,10,9,,艸,140,カン,い,,smiling; reed used to cover tatami,,
+菖,N1,11,9,,艸,140,ショウ,,,iris,,
+菫,N1,11,9,,艸,140,キン,すみれ,,the violet,,
+萎,N1,11,8,,艸,140,イ,な; しお.れる; しな.びる; しぼ.む; な.える,,wither; droop; lame,萎びる,true
+蓉,N1,13,9,,艸,140,ヨウ,,はす; よ,lotus,,
+蔽,N1,15,8,,艸,140,ヘイ; ヘツ; フツ,おお.う; おお.い,,cover; shade; mantle; capsize; be ruined,,true
+蕗,N1,16,9,,艸,140,ロ; ル,ふき,,butterbur; bog rhubarb,,
+虞,N1,13,8,,虍,141,グ,おそれ; おもんぱか.る; はか.る; うれ.える; あざむ.く; あやま.る; のぞ.む; たの.しむ,すけ; もち; やす,fear; uneasiness; anxiety; concern; expectation; consideration,,
+衿,N1,9,9,,衣,145,キン; コン,えり,,neck; collar; lapel,,
+袈,N1,11,9,,衣,145,ケ; カ,,,a coarse camlet,,
+裟,N1,13,9,,衣,145,サ; シャ,,,Buddhist surplice,,
+詢,N1,13,9,,言,149,ジュン; シュン,はか.る; まこと,,consult with,,
+詣,N1,13,8,,言,149,ケイ; ゲイ,けい.する; まい.る; いた.る; もう.でる,,visit a temple; arrive; attain,,true
+詮,N1,13,8,,言,149,セン,せん.ずる; かい; あき.らか,あき,discussion; methods called for; selection; result,,true
+誼,N1,15,9,,言,149,ギ,よしみ; よい,,friendship; intimacy,,
+諄,N1,15,9,,言,149,シュン,ひちくど.い; くど.い; くどくど; ねんご.ろ,,tedious,,
+諒,N1,15,9,,言,149,リョウ,あきら.か; まことに,あき; まさ; まこと,fact; reality; understand; appreciate,,
+諧,N1,16,8,,言,149,カイ,かな.う; やわ.らぐ,,harmony,,true
+謁,N1,15,8,,言,149,エツ,,,audience; audience (with king),,
+貌,N1,14,8,,豸,153,ボウ; バク,かたち; かたどる,,form; appearance; countenance,,true
+貪,N1,11,8,,貝,154,タン; ドン; トン,むさぼ.る,,covet; indulge in,,true
+賂,N1,13,8,,貝,154,ロ,まいな.い; まいな.う,,bribe,,true
+賦,N1,15,8,,貝,154,フ; ブ,,うた,levy; ode; prose; poem; tribute; installment,月賦,
+踪,N1,15,8,,足,157,ソウ; ショウ,あと,,remains; clue; footprint,,true
+辣,N1,14,8,,辛,160,ラツ,から.い,,pungent; spicy; harsh; cruel; severe,,true
+迪,N1,8,9,,辵,162,テキ,みち; みちび.く; すす.む; いた.る,すすむ; すすみ; いたる; ゆう,edify; way; path,,
+遵,N1,15,8,,辵,162,ジュン,,,abide by; follow; obey; learn,,
+酎,N1,10,8,,酉,164,チュウ; チュ,かも.す,,sake,,true
+醒,N1,16,8,,酉,164,セイ,さ.ます; さ.める,,awake; be disillusioned; sober up,,true
+采,N1,8,8,,釆,165,サイ,と.る; いろどり,,dice; form; appearance; take; gather; coloring,,
+銑,N1,14,9,,金,167,セン,,,pig iron,,
+錘,N1,16,9,,金,167,スイ,つむ; おもり,,weight; plumb bob; sinker; spindle,,
+錮,N1,16,8,,金,167,コ,ふさ.ぐ,,confinement; to tie,,true
+鞠,N1,17,9,,革,177,キク; キュウ,まり,まい,ball,鞠,
+頌,N1,13,9,,頁,181,ショウ; ジュ; ヨウ,かたち; たた.える; ほめ.る,つぐ; のぶ,eulogy,,
+頓,N1,13,8,,頁,181,トン; トツ,にわか.に; とん.と; つまず.く; とみ.に; ぬかずく,,suddenly; immediately; in a hurry; arrange; stay in place; bow; kowtow,,true
+頰,N1,16,8,,頁,181,キョウ,ほお; ほほ,,cheeks; jaw,,true
+顎,N1,18,8,,頁,181,ガク,あご; あぎと,,jaw; chin; gill,顎,true
+颯,N1,14,9,,風,182,サツ; ソウ,さっ.と,,sudden; quick; sound of the wind,,
+骸,N1,16,8,,骨,188,ガイ; カイ,むくろ,,bone; body; corpse,,true
+鬱,N1,29,8,,鬯,192,ウツ,うっ.する; ふさ.ぐ; しげ.る,,gloom; depression; melancholy; luxuriant,憂鬱; 鬱陶しい,true
+麟,N1,24,9,,鹿,198,リン,,,Chinese unicorn; genius; giraffe; bright; shining,,
+麿,N1,18,9,,麻,200,,まろ,ま,I; you; (kokuji),,
+𠮟,N1,5,8,,口,30,シツ; シチ; カ,しか.る,,scold; reprove,,true

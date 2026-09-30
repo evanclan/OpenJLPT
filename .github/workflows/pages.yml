@@ -1,0 +1,60 @@
+name: Website
+
+# Builds the static site (scripts/build-site.ts) plus the Anki/Yomitan downloads,
+# and deploys them to GitHub Pages from the default branch.
+# One-time setup: Settings → Pages → Build and deployment → Source: "GitHub Actions".
+on:
+  push:
+    branches: [main]
+    paths: ['data/**', 'site/**', 'scripts/build-site.ts', 'scripts/build_exports.py', '.github/workflows/pages.yml']
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - run: npm ci
+      - name: Build site
+        run: npx tsx scripts/build-site.ts _site
+        env:
+          # Change this if you serve the site from a custom domain.
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+      - name: Build Anki decks and Yomitan dictionary
+        run: |
+          pip install genanki
+          python scripts/build_exports.py _site/downloads
+        env:
+          # The Yomitan dictionary checks this site for updates.
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    # Branch runs only build (to check the site), the default branch deploys.
+    if: github.ref_name == github.event.repository.default_branch
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

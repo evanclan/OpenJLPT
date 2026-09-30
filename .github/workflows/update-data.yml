@@ -1,31 +1,87 @@
 name: Update data
 
-# Rebuild the dataset from upstream sources and open a PR if anything changed.
-# Keeps the data current, which the EDRDG license expects of redistributors.
+# Rebuild the dataset from upstream sources.
+#  - Scheduled / default-branch runs open a PR if anything changed, which keeps
+#    the data current as the EDRDG licence expects of redistributors.
+#  - Manual runs on any other branch commit the rebuilt data straight back to
+#    that branch, so pipeline changes can be tested against real upstream data.
+#
+# One-time repo setting needed for the PR step:
+#   Settings → Actions → General → Workflow permissions →
+#   "Allow GitHub Actions to create and approve pull requests".
 on:
   schedule:
-    - cron: '0 4 1 * *' # 04:00 UTC on the 1st of each month
+    - cron: '17 4 1 * *' # 04:17 UTC on the 1st of each month
   workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write # to start CI on the refresh PR (PRs opened with GITHUB_TOKEN don't trigger workflows)
+
+concurrency:
+  group: update-data-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      # Scheduled runs carry no repository payload, so test the event type as well.
+      ON_DEFAULT_BRANCH: ${{ github.event_name == 'schedule' || github.ref_name == github.event.repository.default_branch }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
-      - run: sudo apt-get update && sudo apt-get install -y bzip2
       - run: npm ci
-      - run: npm run build # fetch upstream -> rebuild JSON/CSV/SQLite -> validate
+      # fetch upstream -> snapshot Waller lists -> rebuild JSON/CSV/SQLite -> validate
+      - run: npm run build
+
+      - name: Keep the upstream downloads for debugging (branch runs only)
+        if: env.ON_DEFAULT_BRANCH != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: upstream-sources
+          path: .cache
+          include-hidden-files: true
+          retention-days: 3
+
+      - name: Commit rebuilt data to this branch
+        if: env.ON_DEFAULT_BRANCH != 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data sources README.md README.ja.md
+          if git diff --cached --quiet; then
+            echo "Dataset unchanged."
+          else
+            git commit -m 'chore(data): rebuild from upstream sources'
+            git push
+          fi
+
       - name: Open a PR if the dataset changed
-        uses: peter-evans/create-pull-request@v6
+        id: pr
+        if: env.ON_DEFAULT_BRANCH == 'true'
+        uses: peter-evans/create-pull-request@v7
         with:
           commit-message: 'chore(data): monthly refresh from upstream sources'
           title: 'Monthly data refresh'
           body: |
             Automated rebuild from JMdict/KANJIDIC2 (EDRDG), Waller (tanos.co.uk), and Tatoeba.
-            Review the diff under `data/` before merging.
+            Review the diff under `data/` and `sources/waller/` before merging.
           branch: data/monthly-refresh
-          add-paths: data
+          delete-branch: true
+          add-paths: |
+            data
+            sources
+            README.md
+            README.ja.md
+
+      - name: Run CI on the refresh PR
+        if: env.ON_DEFAULT_BRANCH == 'true' && steps.pr.outputs.pull-request-number != ''
+        run: gh workflow run ci.yml --ref data/monthly-refresh
+        env:
+          GH_TOKEN: ${{ github.token }}

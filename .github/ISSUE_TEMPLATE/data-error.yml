@@ -1,0 +1,37 @@
+name: Data error
+description: A wrong reading, meaning, example sentence, level, or grammar explanation.
+title: "Data error: "
+labels: [data]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping fix the data! Please include enough detail for us to verify the fix.
+        (Level assignments come from community lists and can be debatable; tell us your source.)
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of entry?
+      options: [Vocabulary, Kanji, Grammar]
+    validations:
+      required: true
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: The word, kanji or grammar pattern (and its level), or a link to its page on the website.
+      placeholder: "食べる (N5)"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong, and what should it be?
+      placeholder: "The reading is つちゅう but should be とちゅう."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source (optional)
+      description: A dictionary entry, textbook or other reference that supports the fix.

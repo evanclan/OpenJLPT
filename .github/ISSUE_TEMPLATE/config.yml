@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Browse the dataset
+    url: https://evanclan.github.io/OpenJLPT/
+    about: Search every JLPT word, kanji and grammar point.

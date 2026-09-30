@@ -1,222 +1,1383 @@
 [
   {
-    "pattern": "〜てあげる",
+    "pattern": "あげる / くれる / もらう",
+    "romaji": "ageru / kureru / morau",
     "level": "N4",
-    "meaning": "do something for someone (outward)",
+    "meaning": "give (to someone else); give (to me or my group); receive",
+    "formation": "Noun (receiver) + に + Noun + を + あげる / Noun (giver) + が + Noun + を + くれる / Noun (giver) + に + Noun + を + もらう",
+    "examples": [
+      {"ja": "私は弟に古いゲームをあげた。", "furigana": "{私|わたし}は{弟|おとうと}に{古|ふる}いゲームをあげた。", "en": "I gave my old game to my little brother."},
+      {"ja": "姉が誕生日にかわいいかばんをくれました。", "furigana": "{姉|あね}が{誕生|たんじょう}{日|び}にかわいいかばんをくれました。", "en": "My older sister gave me a cute bag for my birthday."},
+      {"ja": "友達から旅行のおみやげをもらった。", "furigana": "{友達|ともだち}から{旅行|りょこう}のおみやげをもらった。", "en": "I got a souvenir from my friend's trip."}
+    ],
+    "tags": ["giving-receiving"],
+    "notes": "くれる is used only when the receiver is the speaker or someone in the speaker's group. With もらう the giver can be marked with に or から."
+  },
+  {
+    "pattern": "〜てあげる",
+    "romaji": "te ageru",
+    "level": "N4",
+    "meaning": "do something for someone (as a favor)",
     "formation": "Verb-te + あげる",
     "examples": [
-      { "ja": "友達に本を貸してあげた。", "en": "I lent a book to my friend." },
-      { "ja": "母に花を買ってあげます。", "en": "I will buy flowers for my mother." }
+      {"ja": "妹の宿題を手伝ってあげました。", "furigana": "{妹|いもうと}の{宿題|しゅくだい}を{手伝|てつだ}ってあげました。", "en": "I helped my little sister with her homework."},
+      {"ja": "道に迷っている人に、駅までの行き方を教えてあげた。", "furigana": "{道|みち}に{迷|まよ}っている{人|ひと}に、{駅|えき}までの{行|い}き{方|かた}を{教|おし}えてあげた。", "en": "I showed someone who was lost how to get to the station."},
+      {"ja": "重そうだね。持ってあげようか。", "furigana": "{重|おも}そうだね。{持|も}ってあげようか。", "en": "That looks heavy. Want me to carry it for you?"}
     ],
-    "tags": ["giving", "favor"]
+    "tags": ["giving-receiving"],
+    "notes": "Said directly to a superior it can sound condescending; use the humble お〜しましょうか (お持ちしましょうか) instead."
   },
   {
     "pattern": "〜てくれる",
+    "romaji": "te kureru",
     "level": "N4",
-    "meaning": "someone does something for me",
+    "meaning": "someone does something for me (or my group)",
     "formation": "Verb-te + くれる",
     "examples": [
-      { "ja": "先生が漢字を教えてくれた。", "en": "The teacher taught me kanji." },
-      { "ja": "友達が傘を貸してくれた。", "en": "My friend lent me an umbrella." }
+      {"ja": "友達が引っ越しを手伝ってくれた。", "furigana": "{友達|ともだち}が{引|ひ}っ{越|こ}しを{手伝|てつだ}ってくれた。", "en": "A friend helped me move."},
+      {"ja": "父が駅まで車で送ってくれました。", "furigana": "{父|ちち}が{駅|えき}まで{車|くるま}で{送|おく}ってくれました。", "en": "My father drove me to the station."},
+      {"ja": "母が毎朝お弁当を作ってくれます。", "furigana": "{母|はは}が{毎朝|まいあさ}お{弁当|べんとう}を{作|つく}ってくれます。", "en": "My mother makes me a boxed lunch every morning."}
     ],
-    "tags": ["receiving", "favor"]
+    "tags": ["giving-receiving"],
+    "notes": "The subject is the person doing the favor; the one who benefits is the speaker or someone close to them."
   },
   {
     "pattern": "〜てもらう",
+    "romaji": "te morau",
     "level": "N4",
-    "meaning": "receive the favor of someone doing something",
+    "meaning": "have someone do something (for me); get someone to do",
     "formation": "Verb-te + もらう",
     "examples": [
-      { "ja": "田中さんに日本語を教えてもらう。", "en": "I receive Japanese lessons from Tanaka." },
-      { "ja": "父に車を貸してもらった。", "en": "My father lent me his car." }
+      {"ja": "先輩にレポートを見てもらった。", "furigana": "{先輩|せんぱい}にレポートを{見|み}てもらった。", "en": "I had a senior student look over my report."},
+      {"ja": "友達に写真を撮ってもらった。", "furigana": "{友達|ともだち}に{写真|しゃしん}を{撮|と}ってもらった。", "en": "I had a friend take my picture."},
+      {"ja": "分からないところを先生に説明してもらいました。", "furigana": "{分|わ}からないところを{先生|せんせい}に{説明|せつめい}してもらいました。", "en": "I had the teacher explain the parts I didn't understand."}
     ],
-    "tags": ["receiving", "favor"]
+    "tags": ["giving-receiving"],
+    "notes": "The receiver of the favor is the subject, and the person who does the action is marked with に."
+  },
+  {
+    "pattern": "〜てくださる / 〜ていただく",
+    "romaji": "te kudasaru / te itadaku",
+    "level": "N4",
+    "meaning": "(honorific) someone kindly does for me; (humble) I receive the favor of someone doing",
+    "formation": "Verb-te + くださる / Verb-te + いただく",
+    "examples": [
+      {"ja": "先生が私の作文を直してくださいました。", "furigana": "{先生|せんせい}が{私|わたし}の{作文|さくぶん}を{直|なお}してくださいました。", "en": "My teacher kindly corrected my essay."},
+      {"ja": "ホテルの方に、おいしい店を教えていただきました。", "furigana": "ホテルの{方|かた}に、おいしい{店|みせ}を{教|おし}えていただきました。", "en": "The hotel staff kindly told me about a good restaurant."},
+      {"ja": "今日は来ていただいて、ありがとうございました。", "furigana": "{今日|きょう}は{来|き}ていただいて、ありがとうございました。", "en": "Thank you very much for coming today."}
+    ],
+    "tags": ["giving-receiving", "honorific", "humble"],
+    "notes": "くださる is the honorific version of くれる (ます-form: くださいます); いただく is the humble version of もらう."
   },
   {
     "pattern": "〜ていく",
+    "romaji": "te iku",
     "level": "N4",
-    "meaning": "go and do; do something and go away; continue",
+    "meaning": "do something and go; go on doing (from now into the future)",
     "formation": "Verb-te + いく",
     "examples": [
-      { "ja": "明日、荷物を持っていきます。", "en": "I will take the luggage with me tomorrow." },
-      { "ja": "これからも頑張っていく。", "en": "I will keep doing my best from now on." }
+      {"ja": "雨が降りそうだから、傘を持っていきます。", "furigana": "{雨|あめ}が{降|ふ}りそうだから、{傘|かさ}を{持|も}っていきます。", "en": "It looks like rain, so I'll take an umbrella."},
+      {"ja": "これからもっと寒くなっていくでしょう。", "furigana": "これからもっと{寒|さむ}くなっていくでしょう。", "en": "It will probably keep getting colder from now on."},
+      {"ja": "時間があるなら、お茶を飲んでいきませんか。", "furigana": "{時間|じかん}があるなら、お{茶|ちゃ}を{飲|の}んでいきませんか。", "en": "If you have time, won't you have some tea before you go?"}
     ],
-    "tags": ["direction", "continuation"]
+    "tags": ["change", "sequence"],
+    "notes": "Movement or change away from the speaker, or from now toward the future. Compare 〜てくる."
   },
   {
     "pattern": "〜てくる",
+    "romaji": "te kuru",
     "level": "N4",
-    "meaning": "come and do; do something and come back; start to",
+    "meaning": "do something and come back; come doing; (change) up to now; start to",
     "formation": "Verb-te + くる",
     "examples": [
-      { "ja": "すぐ戻ってきます。", "en": "I will come right back." },
-      { "ja": "雨が降ってきた。", "en": "It started to rain." }
+      {"ja": "ちょっとコンビニに行ってきます。", "furigana": "ちょっとコンビニに{行|い}ってきます。", "en": "I'm just popping out to the convenience store."},
+      {"ja": "日本語が少しずつ分かってきた。", "furigana": "{日本語|にほんご}が{少|すこ}しずつ{分|わ}かってきた。", "en": "I've gradually started to understand Japanese."},
+      {"ja": "おなかがすいてきた。", "en": "I'm starting to get hungry."}
     ],
-    "tags": ["direction", "beginning"]
+    "tags": ["change", "sequence"],
+    "notes": "Movement or change toward the speaker, or from the past up to now. 行ってきます literally means 'I'll go and come back.'"
   },
   {
-    "pattern": "〜てしまう",
+    "pattern": "〜てしまう / 〜ちゃう",
+    "romaji": "te shimau / chau",
     "level": "N4",
-    "meaning": "do something completely; unintentionally; regret",
+    "meaning": "finish completely; do by accident; end up doing (with regret)",
     "formation": "Verb-te + しまう",
     "examples": [
-      { "ja": "財布を落としてしまった。", "en": "I dropped my wallet (by accident)." },
-      { "ja": "本を全部読んでしまった。", "en": "I ended up reading the whole book." }
+      {"ja": "電車に傘を忘れてしまいました。", "furigana": "{電車|でんしゃ}に{傘|かさ}を{忘|わす}れてしまいました。", "en": "I left my umbrella on the train."},
+      {"ja": "この本はおもしろくて、一晩で読んでしまった。", "furigana": "この{本|ほん}はおもしろくて、{一晩|ひとばん}で{読|よ}んでしまった。", "en": "This book was so interesting that I read the whole thing in one night."},
+      {"ja": "あ、ケーキを全部食べちゃった。", "furigana": "あ、ケーキを{全部|ぜんぶ}{食|た}べちゃった。", "en": "Oops, I ate all the cake."}
     ],
-    "tags": ["completion", "regret"]
+    "tags": ["completion", "regret", "casual"],
+    "notes": "In speech 〜てしまう contracts to 〜ちゃう, and 〜でしまう to 〜じゃう (飲んじゃう)."
   },
   {
     "pattern": "〜ておく",
+    "romaji": "te oku",
     "level": "N4",
-    "meaning": "do something in advance; leave something in a state",
+    "meaning": "do in advance (to prepare); do and leave as is",
     "formation": "Verb-te + おく",
     "examples": [
-      { "ja": "明日の朝のために水を出しておく。", "en": "I will put out water for tomorrow morning." },
-      { "ja": "ドアを開けておいてください。", "en": "Please leave the door open." }
+      {"ja": "旅行の前に、ホテルを予約しておきます。", "furigana": "{旅行|りょこう}の{前|まえ}に、ホテルを{予約|よやく}しておきます。", "en": "I'll book the hotel before the trip."},
+      {"ja": "パーティーのために、飲み物を冷やしておいた。", "furigana": "パーティーのために、{飲|の}み{物|もの}を{冷|ひ}やしておいた。", "en": "I chilled the drinks for the party."},
+      {"ja": "エアコンはつけておいてください。", "en": "Please leave the air conditioner on."}
     ],
-    "tags": ["preparation"]
+    "tags": ["purpose", "state"],
+    "notes": "In casual speech 〜ておく often becomes 〜とく (買っとく), and 〜でおく becomes 〜どく (読んどく)."
   },
   {
     "pattern": "〜てみる",
+    "romaji": "te miru",
     "level": "N4",
-    "meaning": "try doing something",
+    "meaning": "try doing (to see what it is like)",
     "formation": "Verb-te + みる",
     "examples": [
-      { "ja": "新しいレストランで食べてみる。", "en": "I will try eating at the new restaurant." },
-      { "ja": "この靴を履いてみてもいいですか。", "en": "May I try on these shoes?" }
+      {"ja": "このシャツ、着てみてもいいですか。", "furigana": "このシャツ、{着|き}てみてもいいですか。", "en": "May I try this shirt on?"},
+      {"ja": "新しくできたラーメン屋に行ってみた。", "furigana": "{新|あたら}しくできたラーメン{屋|や}に{行|い}ってみた。", "en": "I went to check out the new ramen shop."},
+      {"ja": "日本の料理を自分で作ってみたいです。", "furigana": "{日本|にほん}の{料理|りょうり}を{自分|じぶん}で{作|つく}ってみたいです。", "en": "I want to try making Japanese food myself."}
     ],
-    "tags": ["attempt"]
+    "tags": ["attempt"],
+    "notes": "Means trying something out to see the result, not making an effort to do something difficult."
+  },
+  {
+    "pattern": "〜てある",
+    "romaji": "te aru",
+    "level": "N4",
+    "meaning": "has been done (and stays that way); resulting state of a deliberate action",
+    "formation": "Verb-te + ある",
+    "examples": [
+      {"ja": "入り口に地図がはってあります。", "furigana": "{入|い}り{口|ぐち}に{地図|ちず}がはってあります。", "en": "There's a map put up at the entrance."},
+      {"ja": "テーブルの上にお皿が並べてあった。", "furigana": "テーブルの{上|うえ}にお{皿|さら}が{並|なら}べてあった。", "en": "Plates had been set out on the table."},
+      {"ja": "ビールなら冷蔵庫に入れてあるよ。", "furigana": "ビールなら{冷蔵庫|れいぞうこ}に{入|い}れてあるよ。", "en": "If you want beer, I've put some in the fridge."}
+    ],
+    "tags": ["state", "result"],
+    "notes": "Used with transitive verbs, and the object usually takes が. It implies someone did it on purpose, unlike 〜ている with intransitive verbs (窓が開いている)."
+  },
+  {
+    "pattern": "〜とき",
+    "romaji": "toki",
+    "level": "N4",
+    "meaning": "when; at the time when",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / Noun + の + とき",
+    "examples": [
+      {"ja": "子どものとき、よく川で泳ぎました。", "furigana": "{子|こ}どものとき、よく{川|かわ}で{泳|およ}ぎました。", "en": "When I was a child, I often swam in the river."},
+      {"ja": "日本へ行くとき、新しいかばんを買いました。", "furigana": "{日本|にほん}へ{行|い}くとき、{新|あたら}しいかばんを{買|か}いました。", "en": "I bought a new bag before my trip to Japan."},
+      {"ja": "日本へ行ったとき、友達にお土産を買いました。", "furigana": "{日本|にほん}へ{行|い}ったとき、{友達|ともだち}にお{土産|みやげ}を{買|か}いました。", "en": "When I went to Japan, I bought souvenirs for my friends there."}
+    ],
+    "tags": ["time", "sequence"],
+    "notes": "The verb's tense shows the order: 行くとき means before or on the way (the going isn't finished yet); 行ったとき means after arriving. Often written 時 in kanji."
+  },
+  {
+    "pattern": "〜間 / 〜間に",
+    "reading": "〜あいだ / 〜あいだに",
+    "romaji": "aida / aida ni",
+    "level": "N4",
+    "meaning": "while; during (the whole time); at some point during",
+    "formation": "Verb-te + いる / Verb-dict / Noun + の + 間（に）",
+    "examples": [
+      {"ja": "夏休みの間、祖父の家にいました。", "furigana": "{夏休|なつやす}みの{間|あいだ}、{祖父|そふ}の{家|いえ}にいました。", "en": "I stayed at my grandfather's house during the summer vacation."},
+      {"ja": "母が寝ている間に、部屋を掃除した。", "furigana": "{母|はは}が{寝|ね}ている{間|あいだ}に、{部屋|へや}を{掃除|そうじ}した。", "en": "I cleaned my room while my mother was asleep."},
+      {"ja": "電車を待っている間、ずっと本を読んでいた。", "furigana": "{電車|でんしゃ}を{待|ま}っている{間|あいだ}、ずっと{本|ほん}を{読|よ}んでいた。", "en": "I read a book the whole time I was waiting for the train."}
+    ],
+    "tags": ["time", "simultaneity"],
+    "notes": "間 means the action continues through the whole period; 間に means it happens at some point within the period."
   },
   {
     "pattern": "〜そうだ（appearance）",
+    "romaji": "sou da (appearance)",
     "level": "N4",
-    "meaning": "looks like; appears that",
-    "formation": "Verb-stem / i-adjective stem + そうだ",
+    "meaning": "looks like; seems; looks about to",
+    "formation": "Verb-stem / i-Adj stem / na-Adj + そうだ",
     "examples": [
-      { "ja": "このケーキはおいしそうだ。", "en": "This cake looks delicious." },
-      { "ja": "雨が降りそうです。", "en": "It looks like it will rain." }
+      {"ja": "そのカレー、辛そうだね。", "furigana": "そのカレー、{辛|から}そうだね。", "en": "That curry looks spicy."},
+      {"ja": "空が暗いですね。雨が降りそうです。", "furigana": "{空|そら}が{暗|くら}いですね。{雨|あめ}が{降|ふ}りそうです。", "en": "The sky is dark. It looks like it's going to rain."},
+      {"ja": "久しぶりに会った祖父は元気そうだった。", "furigana": "{久|ひさ}しぶりに{会|あ}った{祖父|そふ}は{元気|げんき}そうだった。", "en": "My grandfather, whom I hadn't seen in a while, looked well."}
     ],
-    "tags": ["appearance"]
+    "tags": ["appearance", "conjecture"],
+    "notes": "A judgment from what you see. いい → よさそう, ない → なさそう. Not used with adjectives for plainly visible traits (赤い, かわいい); かわいそう means 'pitiful'."
   },
   {
-    "pattern": "〜らしい",
+    "pattern": "〜そうだ（hearsay）",
+    "romaji": "sou da (hearsay)",
     "level": "N4",
-    "meaning": "seems like; I heard; typical of",
-    "formation": "Noun/Verb-plain / i-adjective / na-adjective + らしい",
+    "meaning": "I heard that; they say that",
+    "formation": "Verb-plain / i-Adj + そうだ / na-Adj + だ + そうだ / Noun + だ + そうだ",
     "examples": [
-      { "ja": "彼は日本語が上手らしい。", "en": "I heard he is good at Japanese." },
-      { "ja": "子供らしい遊びをする。", "en": "Play like a child." }
+      {"ja": "天気予報では、明日は雪が降るそうです。", "furigana": "{天気|てんき}{予報|よほう}では、{明日|あした}は{雪|ゆき}が{降|ふ}るそうです。", "en": "The weather forecast says it will snow tomorrow."},
+      {"ja": "駅前の本屋は来月なくなるそうだ。", "furigana": "{駅前|えきまえ}の{本屋|ほんや}は{来月|らいげつ}なくなるそうだ。", "en": "I heard the bookstore in front of the station is closing down next month."},
+      {"ja": "リンさんのお兄さんは医者だそうです。", "furigana": "リンさんのお{兄|にい}さんは{医者|いしゃ}だそうです。", "en": "I hear Lin's older brother is a doctor."}
     ],
-    "tags": ["hearsay", "typical"]
+    "tags": ["hearsay"],
+    "notes": "Attaches to full plain forms, unlike the 'looks like' そうだ, which attaches to stems. It has no past or negative form."
+  },
+  {
+    "pattern": "〜らしい（hearsay/conjecture）",
+    "romaji": "rashii",
+    "level": "N4",
+    "meaning": "apparently; it seems; I hear",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + らしい",
+    "examples": [
+      {"ja": "駅の近くに新しいカフェができたらしい。", "furigana": "{駅|えき}の{近|ちか}くに{新|あたら}しいカフェができたらしい。", "en": "Apparently a new café has opened near the station."},
+      {"ja": "部屋の電気が消えている。もう寝たらしい。", "furigana": "{部屋|へや}の{電気|でんき}が{消|き}えている。もう{寝|ね}たらしい。", "en": "The light in the room is off. Looks like they've already gone to bed."},
+      {"ja": "あの店のラーメンはとても有名らしいです。", "furigana": "あの{店|みせ}のラーメンはとても{有名|ゆうめい}らしいです。", "en": "Apparently that shop's ramen is really famous."}
+    ],
+    "tags": ["hearsay", "conjecture"],
+    "notes": "Based on something heard or read, so the speaker sounds a little detached. The 'typical of' らしい (男らしい) is a separate N3 point."
+  },
+  {
+    "pattern": "〜ようだ",
+    "romaji": "you da",
+    "level": "N4",
+    "meaning": "it seems; it appears (judging from evidence)",
+    "formation": "Verb-plain / i-Adj + ようだ / na-Adj + な + ようだ / Noun + の + ようだ",
+    "examples": [
+      {"ja": "誰もいないようですね。", "furigana": "{誰|だれ}もいないようですね。", "en": "It seems nobody's here."},
+      {"ja": "かぜをひいたようで、朝からのどが痛い。", "furigana": "かぜをひいたようで、{朝|あさ}からのどが{痛|いた}い。", "en": "I seem to have caught a cold; my throat has hurt since this morning."},
+      {"ja": "外は寒いようだ。みんなコートを着ている。", "furigana": "{外|そと}は{寒|さむ}いようだ。みんなコートを{着|き}ている。", "en": "It seems cold outside. Everyone is wearing a coat."}
+    ],
+    "tags": ["conjecture", "appearance"],
+    "notes": "A somewhat formal way to state a judgment from what you observe or feel; みたいだ is the casual equivalent. The 'like, as if' use is covered at N3."
   },
   {
     "pattern": "〜みたい",
+    "romaji": "mitai",
     "level": "N4",
-    "meaning": "like; similar to; seems like (casual)",
-    "formation": "Noun + みたい / Verb-plain / i-adjective / na-adjective + みたい",
+    "meaning": "seems like; looks like; like (casual)",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + みたい",
     "examples": [
-      { "ja": "彼女は猫みたいだ。", "en": "She is like a cat." },
-      { "ja": "雨が降るみたいです。", "en": "It seems like it will rain." }
+      {"ja": "隣の部屋に誰か来たみたい。", "furigana": "{隣|となり}の{部屋|へや}に{誰|だれ}か{来|き}たみたい。", "en": "Sounds like someone has come to the room next door."},
+      {"ja": "今日の彼女は元気がないみたいだね。", "furigana": "{今日|きょう}の{彼女|かのじょ}は{元気|げんき}がないみたいだね。", "en": "She doesn't seem very cheerful today, does she?"},
+      {"ja": "このケーキ、お店のケーキみたい！", "furigana": "このケーキ、お{店|みせ}のケーキみたい！", "en": "This cake is just like a store-bought one!"}
     ],
-    "tags": ["similarity", "appearance"]
+    "tags": ["conjecture", "appearance", "casual"],
+    "notes": "Casual equivalent of ようだ. It attaches directly to nouns and na-adjectives (静かみたい) without な or の. Before a noun it becomes みたいな."
   },
   {
-    "pattern": "〜過ぎる",
+    "pattern": "〜すぎる",
+    "romaji": "sugiru",
     "level": "N4",
-    "meaning": "too much; excessive",
-    "formation": "Verb-stem / i-adjective stem / na-adjective stem + すぎる",
+    "meaning": "too; too much; excessively",
+    "formation": "Verb-stem / i-Adj stem / na-Adj + すぎる",
     "examples": [
-      { "ja": "昨日は飲みすぎた。", "en": "I drank too much yesterday." },
-      { "ja": "この問題は難しすぎる。", "en": "This problem is too difficult." }
+      {"ja": "ゆうべ飲みすぎて、頭が痛い。", "furigana": "ゆうべ{飲|の}みすぎて、{頭|あたま}が{痛|いた}い。", "en": "I drank too much last night, and now I have a headache."},
+      {"ja": "この靴は私には大きすぎます。", "furigana": "この{靴|くつ}は{私|わたし}には{大|おお}きすぎます。", "en": "These shoes are too big for me."},
+      {"ja": "この問題は簡単すぎて、つまらない。", "furigana": "この{問題|もんだい}は{簡単|かんたん}すぎて、つまらない。", "en": "This question is too easy, so it's boring."}
     ],
-    "tags": ["degree"]
+    "tags": ["degree"],
+    "notes": "Conjugates like a Group 2 verb (すぎた, すぎて). いい → よすぎる, and the adjective ない → なさすぎる."
   },
   {
     "pattern": "〜方",
+    "reading": "〜かた",
+    "romaji": "kata",
     "level": "N4",
-    "meaning": "way of doing; how to",
+    "meaning": "how to; way of doing",
     "formation": "Verb-stem + 方",
     "examples": [
-      { "ja": "この漢字の読み方を教えてください。", "en": "Please tell me how to read this kanji." },
-      { "ja": "お寿司の作り方を知りたい。", "en": "I want to know how to make sushi." }
+      {"ja": "この機械の使い方を教えてください。", "furigana": "この{機械|きかい}の{使|つか}い{方|かた}を{教|おし}えてください。", "en": "Please show me how to use this machine."},
+      {"ja": "この漢字の読み方が分かりません。", "furigana": "この{漢字|かんじ}の{読|よ}み{方|かた}が{分|わ}かりません。", "en": "I don't know how to read this kanji."},
+      {"ja": "祖母においしいみそ汁の作り方を習った。", "furigana": "{祖母|そぼ}においしいみそ{汁|しる}の{作|つく}り{方|かた}を{習|なら}った。", "en": "I learned how to make tasty miso soup from my grandmother."}
     ],
-    "tags": ["method"]
+    "tags": ["manner", "nominalization"],
+    "notes": "The result is a noun, so the object takes の instead of を (日本語の話し方). With する-verbs: 勉強のしかた."
   },
   {
     "pattern": "〜中",
+    "reading": "〜ちゅう / 〜じゅう",
+    "romaji": "chuu / juu",
     "level": "N4",
-    "meaning": "in the middle of; during",
-    "formation": "Verb-stem + ちゅう / Noun + ちゅう",
+    "meaning": "in the middle of; during (ちゅう); throughout; all over (じゅう)",
+    "formation": "Noun + 中",
     "examples": [
-      { "ja": "会議中です。", "en": "I am in a meeting." },
-      { "ja": "電車は今、渋谷に向かっている途中です。", "en": "The train is on its way to Shibuya now." }
+      {"ja": "父は今、電話中です。", "furigana": "{父|ちち}は{今|いま}、{電話|でんわ}{中|ちゅう}です。", "en": "My father is on the phone right now."},
+      {"ja": "昨日は一日中雨が降っていた。", "furigana": "{昨日|きのう}は{一日中|いちにちじゅう}{雨|あめ}が{降|ふ}っていた。", "en": "It rained all day yesterday."},
+      {"ja": "この歌は世界中で知られている。", "furigana": "この{歌|うた}は{世界中|せかいじゅう}で{知|し}られている。", "en": "This song is known all over the world."}
     ],
-    "tags": ["progressive"]
-  },
-  {
-    "pattern": "〜ずに",
-    "level": "N4",
-    "meaning": "without doing",
-    "formation": "Verb-negative (ない) + ずに",
-    "examples": [
-      { "ja": "朝ご飯を食べずに出かけた。", "en": "I went out without eating breakfast." },
-      { "ja": "何も言わずに帰った。", "en": "I went home without saying anything." }
-    ],
-    "tags": ["negative", "condition"]
-  },
-  {
-    "pattern": "〜わけにはいかない",
-    "level": "N4",
-    "meaning": "cannot afford to; must not",
-    "formation": "Verb-negative (ない) + わけにはいかない",
-    "examples": [
-      { "ja": "明日は試験だから、遊んでいるわけにはいかない。", "en": "I have an exam tomorrow, so I can't afford to play around." },
-      { "ja": "会社を休むわけにはいかない。", "en": "I can't take the day off from work." }
-    ],
-    "tags": ["obligation", "prohibition"]
-  },
-  {
-    "pattern": "〜に決まっている",
-    "level": "N4",
-    "meaning": "certainly; must; no doubt",
-    "formation": "Verb-plain / i-adjective / na-adjective + に決まっている",
-    "examples": [
-      { "ja": "あの人が合格するに決まっている。", "en": "That person will definitely pass." },
-      { "ja": "この料理はおいしいに決まっている。", "en": "This dish is definitely delicious." }
-    ],
-    "tags": ["certainty"]
-  },
-  {
-    "pattern": "〜に違いない",
-    "level": "N4",
-    "meaning": "must be; no doubt",
-    "formation": "Verb-plain / i-adjective / na-adjective + に違いない",
-    "examples": [
-      { "ja": "彼は疲れているに違いない。", "en": "He must be tired." },
-      { "ja": "この本は高いに違いない。", "en": "This book must be expensive." }
-    ],
-    "tags": ["certainty"]
+    "tags": ["time", "range"],
+    "notes": "ちゅう marks an ongoing activity or a period (会議中, 午前中, 今週中); じゅう means 'throughout' a time or place (一日中, 世界中)."
   },
   {
     "pattern": "〜つもり",
+    "romaji": "tsumori",
     "level": "N4",
     "meaning": "intend to; plan to",
-    "formation": "Verb-plain + つもり",
+    "formation": "Verb-dict / Verb-nai + つもり",
     "examples": [
-      { "ja": "来年、日本に留学するつもりだ。", "en": "I intend to study abroad in Japan next year." },
-      { "ja": "今度の週末は何もするつもりはない。", "en": "I don't plan to do anything this weekend." }
+      {"ja": "夏休みは北海道を旅行するつもりです。", "furigana": "{夏休|なつやす}みは{北海道|ほっかいどう}を{旅行|りょこう}するつもりです。", "en": "I intend to travel around Hokkaido during the summer break."},
+      {"ja": "今日はお酒を飲まないつもりです。", "furigana": "{今日|きょう}はお{酒|さけ}を{飲|の}まないつもりです。", "en": "I intend not to drink alcohol today."},
+      {"ja": "大学を出たら、どうするつもりですか。", "furigana": "{大学|だいがく}を{出|で}たら、どうするつもりですか。", "en": "What do you plan to do after you graduate from university?"}
     ],
-    "tags": ["intention"]
+    "tags": ["intention"],
+    "notes": "States a firm personal intention. 〜つもりはない means 'have no intention of'. Asking a superior 〜つもりですか can sound blunt."
+  },
+  {
+    "pattern": "〜予定",
+    "reading": "〜よてい",
+    "romaji": "yotei",
+    "level": "N4",
+    "meaning": "plan to; be scheduled to",
+    "formation": "Verb-dict + 予定 / Noun + の + 予定",
+    "examples": [
+      {"ja": "来月、大阪に引っ越す予定です。", "furigana": "{来月|らいげつ}、{大阪|おおさか}に{引|ひ}っ{越|こ}す{予定|よてい}です。", "en": "I'm planning to move to Osaka next month."},
+      {"ja": "会議は三時に終わる予定です。", "furigana": "{会議|かいぎ}は{三|さん}{時|じ}に{終|お}わる{予定|よてい}です。", "en": "The meeting is scheduled to end at three."},
+      {"ja": "出発は朝八時の予定です。", "furigana": "{出発|しゅっぱつ}は{朝|あさ}{八|はち}{時|じ}の{予定|よてい}です。", "en": "Departure is scheduled for eight in the morning."}
+    ],
+    "tags": ["intention", "time"],
+    "notes": "Refers to a fixed schedule or arrangement, often involving other people; more objective than つもり."
   },
   {
     "pattern": "〜ことにする",
+    "romaji": "koto ni suru",
     "level": "N4",
-    "meaning": "decide to do",
-    "formation": "Verb-plain + ことにする",
+    "meaning": "decide to",
+    "formation": "Verb-dict / Verb-nai + ことにする",
     "examples": [
-      { "ja": "毎日運動することにした。", "en": "I decided to exercise every day." },
-      { "ja": "明日から禁煙することにします。", "en": "I will decide to quit smoking from tomorrow." }
+      {"ja": "健康のために、毎朝歩くことにした。", "furigana": "{健康|けんこう}のために、{毎朝|まいあさ}{歩|ある}くことにした。", "en": "I decided to walk every morning for my health."},
+      {"ja": "高かったので、買わないことにしました。", "furigana": "{高|たか}かったので、{買|か}わないことにしました。", "en": "It was expensive, so I decided not to buy it."},
+      {"ja": "もう遅いから、タクシーで帰ることにしよう。", "furigana": "もう{遅|おそ}いから、タクシーで{帰|かえ}ることにしよう。", "en": "It's already late, so let's take a taxi home."}
     ],
-    "tags": ["decision"]
+    "tags": ["decision"],
+    "notes": "A decision made by the speaker; compare 〜ことになる. 〜ことにしている (N3) means 'make it a rule to'."
+  },
+  {
+    "pattern": "〜ことになる",
+    "romaji": "koto ni naru",
+    "level": "N4",
+    "meaning": "it has been decided that; it turns out that",
+    "formation": "Verb-dict / Verb-nai + ことになる",
+    "examples": [
+      {"ja": "来年の春から、名古屋の店で働くことになりました。", "furigana": "{来年|らいねん}の{春|はる}から、{名古屋|なごや}の{店|みせ}で{働|はたら}くことになりました。", "en": "It's been decided that I'll work at the Nagoya store from next spring."},
+      {"ja": "今度の日曜日、クラスのみんなでバーベキューをすることになった。", "furigana": "{今度|こんど}の{日曜日|にちようび}、クラスのみんなでバーベキューをすることになった。", "en": "It's been settled that the whole class will have a barbecue this Sunday."},
+      {"ja": "友達の結婚式で、私がスピーチをすることになりました。", "furigana": "{友達|ともだち}の{結婚式|けっこんしき}で、{私|わたし}がスピーチをすることになりました。", "en": "It turns out I'll be giving a speech at my friend's wedding."}
+    ],
+    "tags": ["decision", "result"],
+    "notes": "Presents a decision as made by others or by circumstances. People also use it for their own decisions to sound less assertive."
+  },
+  {
+    "pattern": "〜ことができる",
+    "romaji": "koto ga dekiru",
+    "level": "N4",
+    "meaning": "can; be able to; be possible to",
+    "formation": "Verb-dict + ことができる",
+    "examples": [
+      {"ja": "この図書館では、本を二週間借りることができます。", "furigana": "この{図書館|としょかん}では、{本|ほん}を{二|に}{週間|しゅうかん}{借|か}りることができます。", "en": "At this library, you can borrow books for two weeks."},
+      {"ja": "妹はピアノを弾くことができる。", "furigana": "{妹|いもうと}はピアノを{弾|ひ}くことができる。", "en": "My little sister can play the piano."},
+      {"ja": "ここからは富士山を見ることができません。", "furigana": "ここからは{富士山|ふじさん}を{見|み}ることができません。", "en": "You can't see Mt. Fuji from here."}
+    ],
+    "tags": ["ability", "possibility"],
+    "notes": "A bit more formal than the potential form. Also used for what is possible or allowed (ここでたばこを吸うことはできません)."
+  },
+  {
+    "pattern": "〜える / 〜られる（potential）",
+    "romaji": "eru / rareru (potential)",
+    "level": "N4",
+    "meaning": "can; be able to (potential form)",
+    "formation": "Verb-dict (Group 1: final u → e) + る / Verb-nai stem + られる (Group 2)",
+    "examples": [
+      {"ja": "私は漢字が二百ぐらい読めます。", "furigana": "{私|わたし}は{漢字|かんじ}が{二|に}{百|ひゃく}ぐらい{読|よ}めます。", "en": "I can read about two hundred kanji."},
+      {"ja": "兄は辛い料理が食べられない。", "furigana": "{兄|あに}は{辛|から}い{料理|りょうり}が{食|た}べられない。", "en": "My older brother can't eat spicy food."},
+      {"ja": "明日のパーティーに来られますか。", "furigana": "{明日|あした}のパーティーに{来|こ}られますか。", "en": "Can you come to the party tomorrow?"}
+    ],
+    "tags": ["ability", "conjugation"],
+    "notes": "Irregular: する → できる, 来る → 来られる. The object often takes が instead of を. In casual speech Group 2 verbs often drop ら (見れる)."
+  },
+  {
+    "pattern": "〜れる / 〜られる（passive）",
+    "romaji": "reru / rareru (passive)",
+    "level": "N4",
+    "meaning": "be done (by someone); passive voice",
+    "formation": "Verb-nai stem + れる (Group 1) / Verb-nai stem + られる (Group 2)",
+    "examples": [
+      {"ja": "先生に作文をほめられました。", "furigana": "{先生|せんせい}に{作文|さくぶん}をほめられました。", "en": "My essay was praised by my teacher."},
+      {"ja": "電車の中で足を踏まれた。", "furigana": "{電車|でんしゃ}の{中|なか}で{足|あし}を{踏|ふ}まれた。", "en": "Someone stepped on my foot on the train."},
+      {"ja": "この寺は六百年前に建てられました。", "furigana": "この{寺|てら}は{六百|ろっぴゃく}{年|ねん}{前|まえ}に{建|た}てられました。", "en": "This temple was built six hundred years ago."}
+    ],
+    "tags": ["voice", "conjugation"],
+    "notes": "Irregular: する → される, 来る → 来られる. The doer is marked with に. Often shows that the subject was troubled by someone's action (雨に降られた)."
+  },
+  {
+    "pattern": "〜せる / 〜させる",
+    "romaji": "seru / saseru",
+    "level": "N4",
+    "meaning": "make someone do; let someone do (causative)",
+    "formation": "Verb-nai stem + せる (Group 1) / Verb-nai stem + させる (Group 2)",
+    "examples": [
+      {"ja": "母は毎日弟に野菜を食べさせる。", "furigana": "{母|はは}は{毎日|まいにち}{弟|おとうと}に{野菜|やさい}を{食|た}べさせる。", "en": "My mother makes my little brother eat vegetables every day."},
+      {"ja": "コーチは毎日、選手たちを走らせた。", "furigana": "コーチは{毎日|まいにち}、{選手|せんしゅ}たちを{走|はし}らせた。", "en": "The coach made the players run every day."},
+      {"ja": "息子が行きたいと言ったので、一人で旅行に行かせました。", "furigana": "{息子|むすこ}が{行|い}きたいと{言|い}ったので、{一人|ひとり}で{旅行|りょこう}に{行|い}かせました。", "en": "My son said he wanted to go, so I let him travel on his own."}
+    ],
+    "tags": ["voice", "conjugation"],
+    "notes": "Irregular: する → させる, 来る → 来させる. With intransitive verbs the person takes を; with transitive verbs, に. Context decides 'make' or 'let'."
+  },
+  {
+    "pattern": "〜せられる / 〜させられる",
+    "romaji": "serareru / saserareru",
+    "level": "N4",
+    "meaning": "be made to do (against one's will)",
+    "formation": "Verb-nai stem + せられる (Group 1; short form される) / Verb-nai stem + させられる (Group 2)",
+    "examples": [
+      {"ja": "子どものころ、母に毎日ピアノを練習させられた。", "furigana": "{子|こ}どものころ、{母|はは}に{毎日|まいにち}ピアノを{練習|れんしゅう}させられた。", "en": "When I was a child, my mother made me practice the piano every day."},
+      {"ja": "駅で三十分も待たされました。", "furigana": "{駅|えき}で{三十分|さんじゅっぷん}も{待|ま}たされました。", "en": "I was kept waiting at the station for a whole thirty minutes."},
+      {"ja": "会社の飲み会で歌を歌わされた。", "furigana": "{会社|かいしゃ}の{飲|の}み{会|かい}で{歌|うた}を{歌|うた}わされた。", "en": "I was made to sing at the company drinking party."}
+    ],
+    "tags": ["voice", "conjugation"],
+    "notes": "Irregular: する → させられる, 来る → 来させられる. The short Group 1 form (待たされる) is common in speech, but not with verbs ending in す (話させられる)."
+  },
+  {
+    "pattern": "〜おう / 〜よう",
+    "romaji": "ou / you",
+    "level": "N4",
+    "meaning": "let's (casual); I'll (volitional form)",
+    "formation": "Verb-dict (Group 1: final u → o) + う / Verb-stem + よう (Group 2)",
+    "examples": [
+      {"ja": "疲れたね。少し休もう。", "furigana": "{疲|つか}れたね。{少|すこ}し{休|やす}もう。", "en": "That was tiring, huh? Let's take a short break."},
+      {"ja": "週末、一緒に映画を見ようよ。", "furigana": "{週末|しゅうまつ}、{一緒|いっしょ}に{映画|えいが}を{見|み}ようよ。", "en": "Let's watch a movie together this weekend."},
+      {"ja": "よし、今日から毎日日記を書こう。", "furigana": "よし、{今日|きょう}から{毎日|まいにち}{日記|にっき}を{書|か}こう。", "en": "Right, starting today I'll write in my diary every day."}
+    ],
+    "tags": ["conjugation", "invitation", "intention"],
+    "notes": "Irregular: する → しよう, 来る → 来よう. The plain equivalent of 〜ましょう."
+  },
+  {
+    "pattern": "〜(よ)うと思う",
+    "reading": "〜(よ)うとおもう",
+    "romaji": "you to omou",
+    "level": "N4",
+    "meaning": "be thinking of doing; plan to",
+    "formation": "Verb-volitional + と思う",
+    "examples": [
+      {"ja": "今年の夏は海に行こうと思っています。", "furigana": "{今年|ことし}の{夏|なつ}は{海|うみ}に{行|い}こうと{思|おも}っています。", "en": "I'm thinking of going to the beach this summer."},
+      {"ja": "明日は早く起きて、公園を走ろうと思う。", "furigana": "{明日|あした}は{早|はや}く{起|お}きて、{公園|こうえん}を{走|はし}ろうと{思|おも}う。", "en": "I think I'll get up early tomorrow and go for a run in the park."},
+      {"ja": "新しいパソコンを買おうと思ったけど、やめました。", "furigana": "{新|あたら}しいパソコンを{買|か}おうと{思|おも}ったけど、やめました。", "en": "I was going to buy a new computer, but I decided against it."}
+    ],
+    "tags": ["intention"],
+    "notes": "〜と思う often reports a decision made just now; 〜と思っている shows a plan held for some time. Softer than つもり."
+  },
+  {
+    "pattern": "〜え / 〜ろ",
+    "romaji": "e / ro",
+    "level": "N4",
+    "meaning": "do it! (imperative form; blunt command)",
+    "formation": "Verb-dict (Group 1: final u → e) / Verb-stem + ろ (Group 2)",
+    "examples": [
+      {"ja": "早く起きろ！遅刻するぞ。", "furigana": "{早|はや}く{起|お}きろ！{遅刻|ちこく}するぞ。", "en": "Get up already! You'll be late."},
+      {"ja": "危ない！止まれ！", "furigana": "{危|あぶ}ない！{止|と}まれ！", "en": "Look out! Stop!"},
+      {"ja": "がんばれ！あと少しだ！", "furigana": "がんばれ！あと{少|すこ}しだ！", "en": "Go for it! Just a little more!"}
+    ],
+    "tags": ["command", "conjugation"],
+    "notes": "Irregular: する → しろ, 来る → 来い, くれる → くれ. Very blunt; heard mainly from men, on signs, in emergencies and in cheering (がんばれ)."
+  },
+  {
+    "pattern": "〜な（prohibition）",
+    "romaji": "na (prohibition)",
+    "level": "N4",
+    "meaning": "don't! (strong prohibition)",
+    "formation": "Verb-dict + な",
+    "examples": [
+      {"ja": "危ないから、この川では泳ぐな。", "furigana": "{危|あぶ}ないから、この{川|かわ}では{泳|およ}ぐな。", "en": "It's dangerous, so don't swim in this river."},
+      {"ja": "もう泣くな。大丈夫だよ。", "furigana": "もう{泣|な}くな。{大丈夫|だいじょうぶ}だよ。", "en": "Don't cry anymore. It's all right."},
+      {"ja": "壁に「ここにごみを捨てるな」と書いてある。", "furigana": "{壁|かべ}に「ここにごみを{捨|す}てるな」と{書|か}いてある。", "en": "It says \"Don't dump garbage here\" on the wall."}
+    ],
+    "tags": ["prohibition", "command"],
+    "notes": "Very strong and blunt. Do not confuse it with the sentence-ending な that expresses feeling (いいな)."
+  },
+  {
+    "pattern": "〜なさい",
+    "romaji": "nasai",
+    "level": "N4",
+    "meaning": "do (instruction from a parent, teacher, etc.)",
+    "formation": "Verb-stem + なさい",
+    "examples": [
+      {"ja": "もう九時よ。早く寝なさい。", "furigana": "もう{九|く}{時|じ}よ。{早|はや}く{寝|ね}なさい。", "en": "It's already nine. Go to bed now."},
+      {"ja": "次の文を読んで、質問に答えなさい。", "furigana": "{次|つぎ}の{文|ぶん}を{読|よ}んで、{質問|しつもん}に{答|こた}えなさい。", "en": "Read the following passage and answer the questions."},
+      {"ja": "ご飯の前に手を洗いなさい。", "furigana": "ご{飯|はん}の{前|まえ}に{手|て}を{洗|あら}いなさい。", "en": "Wash your hands before eating."}
+    ],
+    "tags": ["command"],
+    "notes": "Softer than the imperative form but still a firm instruction; used by parents, teachers and in exam directions, never toward superiors."
+  },
+  {
+    "pattern": "〜ば",
+    "romaji": "ba",
+    "level": "N4",
+    "meaning": "if",
+    "formation": "Verb-ba / i-Adj stem + ければ / na-Adj + なら / Noun + なら",
+    "examples": [
+      {"ja": "この道をまっすぐ行けば、駅に着きます。", "furigana": "この{道|みち}をまっすぐ{行|い}けば、{駅|えき}に{着|つ}きます。", "en": "If you go straight along this road, you'll reach the station."},
+      {"ja": "安ければ、買いたいです。", "furigana": "{安|やす}ければ、{買|か}いたいです。", "en": "If it's cheap, I'd like to buy it."},
+      {"ja": "分からないことがあれば、いつでも聞いてください。", "furigana": "{分|わ}からないことがあれば、いつでも{聞|き}いてください。", "en": "If there's anything you don't understand, feel free to ask anytime."}
+    ],
+    "tags": ["condition"],
+    "notes": "Focuses on the condition needed for a result. When the main clause is a request or invitation, たら is usually more natural unless the ば-clause is a state (ある, いる, adjectives)."
+  },
+  {
+    "pattern": "〜たら",
+    "romaji": "tara",
+    "level": "N4",
+    "meaning": "if; when; after",
+    "formation": "Verb-ta + ら / i-Adj stem + かったら / na-Adj + だったら / Noun + だったら",
+    "examples": [
+      {"ja": "駅に着いたら、電話してください。", "furigana": "{駅|えき}に{着|つ}いたら、{電話|でんわ}してください。", "en": "Please call me when you get to the station."},
+      {"ja": "もし明日雨だったら、家で映画を見よう。", "furigana": "もし{明日|あした}{雨|あめ}だったら、{家|いえ}で{映画|えいが}を{見|み}よう。", "en": "If it rains tomorrow, let's watch a movie at home."},
+      {"ja": "暑かったら、窓を開けてもいいですよ。", "furigana": "{暑|あつ}かったら、{窓|まど}を{開|あ}けてもいいですよ。", "en": "If you're hot, feel free to open the window."}
+    ],
+    "tags": ["condition", "time"],
+    "notes": "The most versatile conditional and very common in speech. With events certain to happen it means 'when/after'."
+  },
+  {
+    "pattern": "〜なら",
+    "romaji": "nara",
+    "level": "N4",
+    "meaning": "if (it's the case that); if you're talking about",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + なら",
+    "examples": [
+      {"ja": "京都へ行くなら、秋がいいですよ。", "furigana": "{京都|きょうと}へ{行|い}くなら、{秋|あき}がいいですよ。", "en": "If you're going to Kyoto, autumn is a good time."},
+      {"ja": "パソコンのことなら、兄に聞くといいよ。", "furigana": "パソコンのことなら、{兄|あに}に{聞|き}くといいよ。", "en": "If it's about computers, you should ask my older brother."},
+      {"ja": "そんなに眠いなら、今日は早く寝たら？", "furigana": "そんなに{眠|ねむ}いなら、{今日|きょう}は{早|はや}く{寝|ね}たら？", "en": "If you're that sleepy, why not go to bed early today?"}
+    ],
+    "tags": ["condition", "topic"],
+    "notes": "Takes up what the listener said or a situation assumed to be true, then gives advice or an opinion. Unlike たら, the main action can come before the なら-clause."
+  },
+  {
+    "pattern": "〜と（conditional）",
+    "romaji": "to",
+    "level": "N4",
+    "meaning": "when; if; whenever (natural or automatic result)",
+    "formation": "Verb-dict / Verb-nai / i-Adj + と / na-Adj + だ + と / Noun + だ + と",
+    "examples": [
+      {"ja": "このボタンを押すと、お茶が出ます。", "furigana": "このボタンを{押|お}すと、お{茶|ちゃ}が{出|で}ます。", "en": "When you press this button, tea comes out."},
+      {"ja": "春になると、桜が咲きます。", "furigana": "{春|はる}になると、{桜|さくら}が{咲|さ}きます。", "en": "When spring comes, the cherry blossoms bloom."},
+      {"ja": "この道を右に曲がると、左に郵便局があります。", "furigana": "この{道|みち}を{右|みぎ}に{曲|ま}がると、{左|ひだり}に{郵便|ゆうびん}{局|きょく}があります。", "en": "If you turn right on this road, there's a post office on the left."}
+    ],
+    "tags": ["condition"],
+    "notes": "For natural results, how machines work, directions and habits. The main clause cannot be a request, wish or invitation."
+  },
+  {
+    "pattern": "〜ても / 〜でも",
+    "romaji": "te mo / de mo",
+    "level": "N4",
+    "meaning": "even if; even though",
+    "formation": "Verb-te + も / i-Adj-ku + ても / na-Adj + でも / Noun + でも",
+    "examples": [
+      {"ja": "雨が降っても、試合はあります。", "furigana": "{雨|あめ}が{降|ふ}っても、{試合|しあい}はあります。", "en": "Even if it rains, the game will go ahead."},
+      {"ja": "いくら練習しても、なかなか上手になりません。", "furigana": "いくら{練習|れんしゅう}しても、なかなか{上手|じょうず}になりません。", "en": "No matter how much I practice, I just don't get any better."},
+      {"ja": "日曜日でも、この店は開いています。", "furigana": "{日曜日|にちようび}でも、この{店|みせ}は{開|あ}いています。", "en": "This shop is open even on Sundays."}
+    ],
+    "tags": ["concession", "condition"],
+    "notes": "With question words or いくら it means 'no matter ...' (何を食べても, いくら待っても)."
+  },
+  {
+    "pattern": "〜のに（although）",
+    "romaji": "noni (although)",
+    "level": "N4",
+    "meaning": "although; even though (with surprise or dissatisfaction)",
+    "formation": "Verb-plain / i-Adj + のに / na-Adj + な + のに / Noun + な + のに",
+    "examples": [
+      {"ja": "一生懸命勉強したのに、試験に落ちてしまった。", "furigana": "{一生懸命|いっしょうけんめい}{勉強|べんきょう}したのに、{試験|しけん}に{落|お}ちてしまった。", "en": "Even though I studied really hard, I failed the exam."},
+      {"ja": "日曜日なのに、会社に行かなければならない。", "furigana": "{日曜日|にちようび}なのに、{会社|かいしゃ}に{行|い}かなければならない。", "en": "Even though it's Sunday, I have to go to work."},
+      {"ja": "約束したのに、彼は来なかった。", "furigana": "{約束|やくそく}したのに、{彼|かれ}は{来|こ}なかった。", "en": "He didn't come, even though he promised."}
+    ],
+    "tags": ["concession", "criticism"],
+    "notes": "Carries surprise, disappointment or complaint. The main clause cannot be a request or intention; use けど or ても there."
+  },
+  {
+    "pattern": "〜のに（purpose）",
+    "romaji": "noni (purpose)",
+    "level": "N4",
+    "meaning": "for; in order to (with use, time or cost)",
+    "formation": "Verb-dict + のに / Noun + に",
+    "examples": [
+      {"ja": "このかばんは旅行に行くのに便利です。", "furigana": "このかばんは{旅行|りょこう}に{行|い}くのに{便利|べんり}です。", "en": "This bag is handy for traveling."},
+      {"ja": "家から駅まで歩くのに二十分かかります。", "furigana": "{家|いえ}から{駅|えき}まで{歩|ある}くのに{二十分|にじゅっぷん}かかります。", "en": "It takes twenty minutes to walk from my house to the station."},
+      {"ja": "引っ越しするのに十万円ぐらいかかった。", "furigana": "{引|ひ}っ{越|こ}しするのに{十|じゅう}{万|まん}{円|えん}ぐらいかかった。", "en": "It cost about 100,000 yen to move."}
+    ],
+    "tags": ["purpose"],
+    "notes": "Usually followed by words like 使う, いい, 便利, 必要 or かかる. With a noun, just に is used (旅行に便利)."
+  },
+  {
+    "pattern": "〜ので",
+    "romaji": "node",
+    "level": "N4",
+    "meaning": "because; since",
+    "formation": "Verb-plain / i-Adj + ので / na-Adj + な + ので / Noun + な + ので",
+    "examples": [
+      {"ja": "頭が痛いので、今日は早く帰ります。", "furigana": "{頭|あたま}が{痛|いた}いので、{今日|きょう}は{早|はや}く{帰|かえ}ります。", "en": "I have a headache, so I'm going home early today."},
+      {"ja": "明日はテストなので、今夜は勉強します。", "furigana": "{明日|あした}はテストなので、{今夜|こんや}は{勉強|べんきょう}します。", "en": "I have a test tomorrow, so I'm studying tonight."},
+      {"ja": "道がこんでいたので、少し遅れました。", "furigana": "{道|みち}がこんでいたので、{少|すこ}し{遅|おく}れました。", "en": "The roads were crowded, so I was a little late."}
+    ],
+    "tags": ["reason"],
+    "notes": "Sounds softer and more objective than から, so it is preferred when giving reasons politely or apologizing."
+  },
+  {
+    "pattern": "〜て（reason）",
+    "romaji": "te (reason)",
+    "level": "N4",
+    "meaning": "because; so (cause of a feeling or state)",
+    "formation": "Verb-te / i-Adj stem + くて / na-Adj + で / Noun + で",
+    "examples": [
+      {"ja": "ニュースを聞いて、びっくりしました。", "furigana": "ニュースを{聞|き}いて、びっくりしました。", "en": "I was surprised to hear the news."},
+      {"ja": "このスープは熱くて、飲めません。", "furigana": "このスープは{熱|あつ}くて、{飲|の}めません。", "en": "This soup is too hot to drink."},
+      {"ja": "かぜで学校を休みました。", "furigana": "かぜで{学校|がっこう}を{休|やす}みました。", "en": "I stayed home from school with a cold."}
+    ],
+    "tags": ["reason"],
+    "notes": "The second part is usually a feeling, a potential form or a result, not a request or intention (use から or ので for those). Negative: 〜なくて (会えなくて寂しい)."
+  },
+  {
+    "pattern": "〜し",
+    "romaji": "shi",
+    "level": "N4",
+    "meaning": "and what's more; and besides (listing reasons)",
+    "formation": "Verb-plain / i-Adj + し / na-Adj + だ + し / Noun + だ + し",
+    "examples": [
+      {"ja": "この部屋は広いし、駅から近いし、とても気に入っています。", "furigana": "この{部屋|へや}は{広|ひろ}いし、{駅|えき}から{近|ちか}いし、とても{気|き}に{入|い}っています。", "en": "This apartment is spacious and close to the station, so I really like it."},
+      {"ja": "今日は雨だし、疲れているし、どこにも行きたくない。", "furigana": "{今日|きょう}は{雨|あめ}だし、{疲|つか}れているし、どこにも{行|い}きたくない。", "en": "It's raining and I'm tired, so I don't want to go anywhere today."},
+      {"ja": "もう遅いし、そろそろ帰ろうか。", "furigana": "もう{遅|おそ}いし、そろそろ{帰|かえ}ろうか。", "en": "It's getting late, so shall we head home?"}
+    ],
+    "tags": ["reason", "addition"],
+    "notes": "Lists several reasons or points. A single し hints that there are other reasons too."
+  },
+  {
+    "pattern": "〜けど / 〜けれども",
+    "romaji": "kedo / keredomo",
+    "level": "N4",
+    "meaning": "but; although; (soft lead-in)",
+    "formation": "Sentence + けど / けれども",
+    "examples": [
+      {"ja": "この店は高いけど、おいしい。", "furigana": "この{店|みせ}は{高|たか}いけど、おいしい。", "en": "This place is expensive, but the food is good."},
+      {"ja": "すみません、駅に行きたいんですけど、どう行けばいいですか。", "furigana": "すみません、{駅|えき}に{行|い}きたいんですけど、どう{行|い}けばいいですか。", "en": "Excuse me, I'd like to get to the station. How do I get there?"},
+      {"ja": "何度も電話したけれども、誰も出なかった。", "furigana": "{何|なん}{度|ど}も{電話|でんわ}したけれども、{誰|だれ}も{出|で}なかった。", "en": "I called several times, but nobody answered."}
+    ],
+    "tags": ["contrast", "casual"],
+    "notes": "More conversational than が; けれども is a little more formal than けど. Often used as a soft lead-in before a question or request."
+  },
+  {
+    "pattern": "〜ために",
+    "romaji": "tame ni",
+    "level": "N4",
+    "meaning": "in order to; for (the sake of); because of",
+    "formation": "Verb-dict / Verb-ta / Noun + の + ために",
+    "examples": [
+      {"ja": "日本の大学に入るために、毎日勉強しています。", "furigana": "{日本|にほん}の{大学|だいがく}に{入|はい}るために、{毎日|まいにち}{勉強|べんきょう}しています。", "en": "I study every day in order to get into a Japanese university."},
+      {"ja": "家族のために、一生懸命働いている。", "furigana": "{家族|かぞく}のために、{一生懸命|いっしょうけんめい}{働|はたら}いている。", "en": "I work hard for my family."},
+      {"ja": "大雪のために、電車が止まりました。", "furigana": "{大雪|おおゆき}のために、{電車|でんしゃ}が{止|と}まりました。", "en": "The trains stopped because of the heavy snow."}
+    ],
+    "tags": ["purpose", "reason"],
+    "notes": "For purpose, the verb must be something the subject can control (compare 〜ように). The 'because of' use sounds fairly formal."
+  },
+  {
+    "pattern": "〜ように（purpose）",
+    "romaji": "you ni",
+    "level": "N4",
+    "meaning": "so that; in order that",
+    "formation": "Verb-dict / Verb-nai + ように",
+    "examples": [
+      {"ja": "後ろの人にも聞こえるように、大きな声で話してください。", "furigana": "{後|うし}ろの{人|ひと}にも{聞|き}こえるように、{大|おお}きな{声|こえ}で{話|はな}してください。", "en": "Please speak loudly so that the people in the back can hear too."},
+      {"ja": "忘れないように、手にメモを書いた。", "furigana": "{忘|わす}れないように、{手|て}にメモを{書|か}いた。", "en": "I wrote a note on my hand so I wouldn't forget."},
+      {"ja": "かぜをひかないように、暖かくして寝てください。", "furigana": "かぜをひかないように、{暖|あたた}かくして{寝|ね}てください。", "en": "Keep warm when you sleep so you don't catch a cold."}
+    ],
+    "tags": ["purpose"],
+    "notes": "Used with verbs the subject can't directly control: potential forms, 分かる, 見える, negatives. For deliberate actions use ために."
+  },
+  {
+    "pattern": "〜ようにする",
+    "romaji": "you ni suru",
+    "level": "N4",
+    "meaning": "try to; make sure to; make a habit of",
+    "formation": "Verb-dict / Verb-nai + ようにする",
+    "examples": [
+      {"ja": "毎日野菜を食べるようにしています。", "furigana": "{毎日|まいにち}{野菜|やさい}を{食|た}べるようにしています。", "en": "I make a point of eating vegetables every day."},
+      {"ja": "これからは遅刻しないようにします。", "furigana": "これからは{遅刻|ちこく}しないようにします。", "en": "From now on, I'll make sure not to be late."},
+      {"ja": "寝る前にスマホを見ないようにしている。", "furigana": "{寝|ね}る{前|まえ}にスマホを{見|み}ないようにしている。", "en": "I try not to look at my phone before bed."}
+    ],
+    "tags": ["attempt", "intention"],
+    "notes": "〜ようにしている describes a habit you keep up. Compare 〜ようになる, a change that comes about."
+  },
+  {
+    "pattern": "〜ようになる",
+    "romaji": "you ni naru",
+    "level": "N4",
+    "meaning": "come to; reach the point where (change in ability or habit)",
+    "formation": "Verb-dict / Verb-nai + ようになる",
+    "examples": [
+      {"ja": "練習して、自転車に乗れるようになりました。", "furigana": "{練習|れんしゅう}して、{自転車|じてんしゃ}に{乗|の}れるようになりました。", "en": "After practicing, I became able to ride a bike."},
+      {"ja": "日本に来てから、朝ご飯を食べるようになった。", "furigana": "{日本|にほん}に{来|き}てから、{朝|あさ}ご{飯|はん}を{食|た}べるようになった。", "en": "Since coming to Japan, I've started eating breakfast."},
+      {"ja": "赤ちゃんが少しずつ話せるようになってきた。", "furigana": "{赤|あか}ちゃんが{少|すこ}しずつ{話|はな}せるようになってきた。", "en": "Our baby is gradually learning to talk."}
+    ],
+    "tags": ["change", "ability"],
+    "notes": "Often used with potential verbs. For 'no longer', 〜なくなる is usually more natural than 〜ないようになる."
+  },
+  {
+    "pattern": "〜てほしい",
+    "romaji": "te hoshii",
+    "level": "N4",
+    "meaning": "want someone to do",
+    "formation": "Verb-te + ほしい / Verb-nai + で + ほしい",
+    "examples": [
+      {"ja": "もう少しゆっくり話してほしいです。", "furigana": "もう{少|すこ}しゆっくり{話|はな}してほしいです。", "en": "I'd like you to speak a little more slowly."},
+      {"ja": "この話は誰にも言わないでほしい。", "furigana": "この{話|はなし}は{誰|だれ}にも{言|い}わないでほしい。", "en": "I don't want you to tell anyone about this."},
+      {"ja": "早く春が来てほしいなあ。", "furigana": "{早|はや}く{春|はる}が{来|き}てほしいなあ。", "en": "I wish spring would hurry up and come."}
+    ],
+    "tags": ["desire", "request"],
+    "notes": "The person you want to act is marked with に. Said to a superior it can sound demanding; 〜ていただきたいです is more polite."
+  },
+  {
+    "pattern": "〜たがる",
+    "romaji": "tagaru",
+    "level": "N4",
+    "meaning": "(someone else) wants to",
+    "formation": "Verb-stem + たがる",
+    "examples": [
+      {"ja": "子どもたちは外で遊びたがっている。", "furigana": "{子|こ}どもたちは{外|そと}で{遊|あそ}びたがっている。", "en": "The children want to play outside."},
+      {"ja": "弟はいつも私のゲームをやりたがる。", "furigana": "{弟|おとうと}はいつも{私|わたし}のゲームをやりたがる。", "en": "My little brother always wants to play my games."},
+      {"ja": "犬が散歩に行きたがっています。", "furigana": "{犬|いぬ}が{散歩|さんぽ}に{行|い}きたがっています。", "en": "The dog wants to go for a walk."}
+    ],
+    "tags": ["desire"],
+    "notes": "Used for other people, since you can't directly know their wishes. Current wishes are usually expressed with 〜たがっている."
+  },
+  {
+    "pattern": "〜がる",
+    "romaji": "garu",
+    "level": "N4",
+    "meaning": "(someone else) feels; shows signs of feeling",
+    "formation": "i-Adj stem / na-Adj + がる",
+    "examples": [
+      {"ja": "妹は暗い所を怖がる。", "furigana": "{妹|いもうと}は{暗|くら}い{所|ところ}を{怖|こわ}がる。", "en": "My little sister is scared of dark places."},
+      {"ja": "祖母は孫に会えなくて寂しがっている。", "furigana": "{祖母|そぼ}は{孫|まご}に{会|あ}えなくて{寂|さび}しがっている。", "en": "My grandmother is lonely because she can't see her grandchildren."},
+      {"ja": "息子は新しい自転車をほしがっている。", "furigana": "{息子|むすこ}は{新|あたら}しい{自転車|じてんしゃ}をほしがっている。", "en": "My son wants a new bicycle."}
+    ],
+    "tags": ["emotion", "appearance"],
+    "notes": "Turns feeling adjectives (怖い, 寂しい, ほしい) into verbs describing how others seem to feel. The object of the feeling takes を."
+  },
+  {
+    "pattern": "〜かもしれない",
+    "romaji": "kamo shirenai",
+    "level": "N4",
+    "meaning": "might; may; possibly",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + かもしれない",
+    "examples": [
+      {"ja": "午後から雨が降るかもしれません。", "furigana": "{午後|ごご}から{雨|あめ}が{降|ふ}るかもしれません。", "en": "It might rain in the afternoon."},
+      {"ja": "かぎがない。電車の中で落としたかもしれない。", "furigana": "かぎがない。{電車|でんしゃ}の{中|なか}で{落|お}としたかもしれない。", "en": "My keys are gone. I might have dropped them on the train."},
+      {"ja": "その話は本当かもしれない。", "furigana": "その{話|はなし}は{本当|ほんとう}かもしれない。", "en": "That story might be true."}
+    ],
+    "tags": ["possibility", "conjecture"],
+    "notes": "About 50% certainty or less. In casual speech it is often shortened to かも."
+  },
+  {
+    "pattern": "〜だろう",
+    "romaji": "darou",
+    "level": "N4",
+    "meaning": "probably; I suppose (plain form of でしょう)",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + だろう",
+    "examples": [
+      {"ja": "明日はたぶん晴れるだろう。", "furigana": "{明日|あした}はたぶん{晴|は}れるだろう。", "en": "It will probably be sunny tomorrow."},
+      {"ja": "彼女はもう家に着いただろう。", "furigana": "{彼女|かのじょ}はもう{家|いえ}に{着|つ}いただろう。", "en": "She has probably gotten home by now."},
+      {"ja": "この問題は子どもには難しいだろうと思います。", "furigana": "この{問題|もんだい}は{子|こ}どもには{難|むずか}しいだろうと{思|おも}います。", "en": "I think this problem is probably too hard for children."}
+    ],
+    "tags": ["conjecture"],
+    "notes": "Common in writing and in men's casual speech; でしょう is the polite form. Often used with たぶん or きっと, or as 〜だろうと思う."
+  },
+  {
+    "pattern": "〜はずだ",
+    "romaji": "hazu da",
+    "level": "N4",
+    "meaning": "should be; is expected to (based on reasoning)",
+    "formation": "Verb-plain / i-Adj + はずだ / na-Adj + な + はずだ / Noun + の + はずだ",
+    "examples": [
+      {"ja": "荷物は明日届くはずです。", "furigana": "{荷物|にもつ}は{明日|あした}{届|とど}くはずです。", "en": "The package should arrive tomorrow."},
+      {"ja": "彼は十年もアメリカに住んでいたから、英語が上手なはずだ。", "furigana": "{彼|かれ}は{十|じゅう}{年|ねん}もアメリカに{住|す}んでいたから、{英語|えいご}が{上手|じょうず}なはずだ。", "en": "He lived in America for ten years, so his English should be good."},
+      {"ja": "おかしいな。かぎはここに置いたはずなのに。", "furigana": "おかしいな。かぎはここに{置|お}いたはずなのに。", "en": "That's strange. I'm sure I put the keys here."}
+    ],
+    "tags": ["conjecture"],
+    "notes": "A confident expectation based on facts or logic, not a guess. It does not mean 'should' as a duty."
+  },
+  {
+    "pattern": "〜はずがない",
+    "romaji": "hazu ga nai",
+    "level": "N4",
+    "meaning": "can't be; there's no way that",
+    "formation": "Verb-plain / i-Adj + はずがない / na-Adj + な + はずがない / Noun + の + はずがない",
+    "examples": [
+      {"ja": "あんなにまじめな人がうそをつくはずがない。", "furigana": "あんなにまじめな{人|ひと}がうそをつくはずがない。", "en": "There's no way someone that earnest would lie."},
+      {"ja": "今日は日曜日だから、銀行が開いているはずがない。", "furigana": "{今日|きょう}は{日曜日|にちようび}だから、{銀行|ぎんこう}が{開|あ}いているはずがない。", "en": "It's Sunday, so the bank can't be open."},
+      {"ja": "かぎはちゃんとかけたから、ドアが開いているはずがない。", "furigana": "かぎはちゃんとかけたから、ドアが{開|あ}いているはずがない。", "en": "I definitely locked it, so there's no way the door is open."}
+    ],
+    "tags": ["conjecture", "negation"],
+    "notes": "Strong denial based on reasoning. 〜ないはずだ ('should not be') is a milder expectation."
+  },
+  {
+    "pattern": "〜んです / 〜のです",
+    "romaji": "n desu / no desu",
+    "level": "N4",
+    "meaning": "it's that ...; (explaining or asking for an explanation)",
+    "formation": "Verb-plain / i-Adj + んです / na-Adj + な + んです / Noun + な + んです",
+    "examples": [
+      {"ja": "どうしたんですか。顔色が悪いですよ。", "furigana": "どうしたんですか。{顔色|かおいろ}が{悪|わる}いですよ。", "en": "What's the matter? You look pale."},
+      {"ja": "すみません、遅れました。電車が止まっていたんです。", "furigana": "すみません、{遅|おく}れました。{電車|でんしゃ}が{止|と}まっていたんです。", "en": "Sorry I'm late. The trains had stopped."},
+      {"ja": "日本語で手紙を書きたいんですが、手伝ってくれませんか。", "furigana": "{日本語|にほんご}で{手紙|てがみ}を{書|か}きたいんですが、{手伝|てつだ}ってくれませんか。", "en": "I want to write a letter in Japanese. Could you help me?"}
+    ],
+    "tags": ["reason", "emphasis"],
+    "notes": "Adds a sense of explaining a situation or asking for the background. Casual forms are 〜んだ and 〜の. Overusing it can sound pushy."
+  },
+  {
+    "pattern": "〜かどうか",
+    "romaji": "ka dou ka",
+    "level": "N4",
+    "meaning": "whether or not",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + かどうか",
+    "examples": [
+      {"ja": "明日行けるかどうか、まだ分かりません。", "furigana": "{明日|あした}{行|い}けるかどうか、まだ{分|わ}かりません。", "en": "I don't know yet whether I can go tomorrow."},
+      {"ja": "この服が似合うかどうか、ちょっと着てみます。", "furigana": "この{服|ふく}が{似合|にあ}うかどうか、ちょっと{着|き}てみます。", "en": "I'll try this on to see whether it suits me."},
+      {"ja": "そのレストランがおいしいかどうか、友達に聞いてみよう。", "furigana": "そのレストランがおいしいかどうか、{友達|ともだち}に{聞|き}いてみよう。", "en": "I'll ask my friend whether that restaurant is any good."}
+    ],
+    "tags": ["question"],
+    "notes": "Embeds a yes-no question in a sentence. For questions with a question word, use 〜か alone (何時に来るか)."
+  },
+  {
+    "pattern": "〜か（embedded question）",
+    "romaji": "ka (embedded question)",
+    "level": "N4",
+    "meaning": "embedded question (what, where, who, etc.)",
+    "formation": "Question word + ... + Verb-plain / i-Adj / na-Adj / Noun + か",
+    "examples": [
+      {"ja": "会議が何時に始まるか、教えてください。", "furigana": "{会議|かいぎ}が{何|なん}{時|じ}に{始|はじ}まるか、{教|おし}えてください。", "en": "Please tell me what time the meeting starts."},
+      {"ja": "どこで財布をなくしたか、覚えていません。", "furigana": "どこで{財布|さいふ}をなくしたか、{覚|おぼ}えていません。", "en": "I don't remember where I lost my wallet."},
+      {"ja": "誰が窓を割ったか、知っていますか。", "furigana": "{誰|だれ}が{窓|まど}を{割|わ}ったか、{知|し}っていますか。", "en": "Do you know who broke the window?"}
+    ],
+    "tags": ["question"],
+    "notes": "After a noun or na-adjective, だ is dropped (誰の傘か知らない)."
+  },
+  {
+    "pattern": "〜と思う",
+    "reading": "〜とおもう",
+    "romaji": "to omou",
+    "level": "N4",
+    "meaning": "I think that",
+    "formation": "Verb-plain / i-Adj + と思う / na-Adj + だ + と思う / Noun + だ + と思う",
+    "examples": [
+      {"ja": "この映画はきっと人気が出ると思う。", "furigana": "この{映画|えいが}はきっと{人気|にんき}が{出|で}ると{思|おも}う。", "en": "I'm sure this movie will become popular."},
+      {"ja": "彼女は今日は来ないと思います。", "furigana": "{彼女|かのじょ}は{今日|きょう}は{来|こ}ないと{思|おも}います。", "en": "I don't think she's coming today."},
+      {"ja": "日本の電車はとても便利だと思います。", "furigana": "{日本|にほん}の{電車|でんしゃ}はとても{便利|べんり}だと{思|おも}います。", "en": "I think trains in Japan are very convenient."}
+    ],
+    "tags": ["quotation", "conjecture"],
+    "notes": "Japanese usually negates the quoted clause (来ないと思う) rather than 思う. For another person's opinion, use 〜と思っている."
+  },
+  {
+    "pattern": "〜と言う",
+    "reading": "〜という",
+    "romaji": "to iu (say)",
+    "level": "N4",
+    "meaning": "say that; tell (quotation)",
+    "formation": "「Sentence」 + と言う / Sentence (plain) + と言う",
+    "examples": [
+      {"ja": "先生は「明日はテストがあります」と言いました。", "furigana": "{先生|せんせい}は「{明日|あした}はテストがあります」と{言|い}いました。", "en": "The teacher said, \"There's a test tomorrow.\""},
+      {"ja": "兄は今晩、帰りが遅くなると言っていた。", "furigana": "{兄|あに}は{今晩|こんばん}、{帰|かえ}りが{遅|おそ}くなると{言|い}っていた。", "en": "My older brother said he'd be home late tonight."},
+      {"ja": "日本では食べる前に「いただきます」と言います。", "furigana": "{日本|にほん}では{食|た}べる{前|まえ}に「いただきます」と{言|い}います。", "en": "In Japan, people say \"itadakimasu\" before eating."}
+    ],
+    "tags": ["quotation"],
+    "notes": "Direct quotes go inside 「」; indirect quotes use plain forms. 〜と言っていた is common when passing on what someone said."
+  },
+  {
+    "pattern": "〜しか〜ない",
+    "romaji": "shika ... nai",
+    "level": "N4",
+    "meaning": "only; nothing but",
+    "formation": "Noun + しか + Verb-nai",
+    "examples": [
+      {"ja": "財布に五百円しかない。", "furigana": "{財布|さいふ}に{五|ご}{百|ひゃく}{円|えん}しかない。", "en": "I only have 500 yen in my wallet."},
+      {"ja": "このことは、あなたにしか話していません。", "furigana": "このことは、あなたにしか{話|はな}していません。", "en": "I haven't told anyone but you about this."},
+      {"ja": "朝はコーヒーしか飲みません。", "furigana": "{朝|あさ}はコーヒーしか{飲|の}みません。", "en": "I only drink coffee in the morning."}
+    ],
+    "tags": ["limitation", "negation"],
+    "notes": "Always paired with a negative verb. Compared with だけ, it stresses that the amount is small or not enough."
+  },
+  {
+    "pattern": "〜ばかり",
+    "romaji": "bakari",
+    "level": "N4",
+    "meaning": "nothing but; only; all",
+    "formation": "Noun + ばかり",
+    "examples": [
+      {"ja": "弟は肉ばかり食べて、野菜を食べない。", "furigana": "{弟|おとうと}は{肉|にく}ばかり{食|た}べて、{野菜|やさい}を{食|た}べない。", "en": "My little brother eats nothing but meat and won't touch vegetables."},
+      {"ja": "このクラスは女の子ばかりだ。", "furigana": "このクラスは{女|おんな}の{子|こ}ばかりだ。", "en": "This class is all girls."},
+      {"ja": "最近は雨の日ばかりで、洗濯ができない。", "furigana": "{最近|さいきん}は{雨|あめ}の{日|ひ}ばかりで、{洗濯|せんたく}ができない。", "en": "It's been nothing but rainy days lately, so I can't do the laundry."}
+    ],
+    "tags": ["limitation", "criticism"],
+    "notes": "Often implies there is too much of one thing. 〜てばかりいる (N3) and 〜たばかり ('just did') are separate points."
+  },
+  {
+    "pattern": "〜たばかり",
+    "romaji": "ta bakari",
+    "level": "N4",
+    "meaning": "have just done",
+    "formation": "Verb-ta + ばかり",
+    "examples": [
+      {"ja": "日本に来たばかりなので、まだ日本語がよく分かりません。", "furigana": "{日本|にほん}に{来|き}たばかりなので、まだ{日本語|にほんご}がよく{分|わ}かりません。", "en": "I've only just come to Japan, so I don't understand Japanese well yet."},
+      {"ja": "さっき昼ご飯を食べたばかりだから、おなかがいっぱいだ。", "furigana": "さっき{昼|ひる}ご{飯|はん}を{食|た}べたばかりだから、おなかがいっぱいだ。", "en": "I just had lunch, so I'm full."},
+      {"ja": "買ったばかりの傘をなくしてしまった。", "furigana": "{買|か}ったばかりの{傘|かさ}をなくしてしまった。", "en": "I lost the umbrella I had just bought."}
+    ],
+    "tags": ["time", "completion"],
+    "notes": "Shows the speaker feels little time has passed, even if it was weeks ago. 〜たところ refers to only moments ago."
+  },
+  {
+    "pattern": "〜ところだ",
+    "romaji": "tokoro da",
+    "level": "N4",
+    "meaning": "be about to; be in the middle of; have just done",
+    "formation": "Verb-dict / Verb-te + いる / Verb-ta + ところだ",
+    "examples": [
+      {"ja": "今から出かけるところです。", "furigana": "{今|いま}から{出|で}かけるところです。", "en": "I'm just about to go out."},
+      {"ja": "今、晩ご飯を作っているところだから、後で電話するね。", "furigana": "{今|いま}、{晩|ばん}ご{飯|はん}を{作|つく}っているところだから、{後|あと}で{電話|でんわ}するね。", "en": "I'm in the middle of making dinner, so I'll call you later."},
+      {"ja": "ちょうど今、駅に着いたところです。", "furigana": "ちょうど{今|いま}、{駅|えき}に{着|つ}いたところです。", "en": "I've just this moment arrived at the station."}
+    ],
+    "tags": ["time", "state"],
+    "notes": "Dictionary form: about to. 〜ているところ: in the middle of. 〜たところ: just finished. It pinpoints the stage of an action."
+  },
+  {
+    "pattern": "〜やすい / 〜にくい",
+    "romaji": "yasui / nikui",
+    "level": "N4",
+    "meaning": "easy to; hard to",
+    "formation": "Verb-stem + やすい / Verb-stem + にくい",
+    "examples": [
+      {"ja": "このペンは書きやすいです。", "furigana": "このペンは{書|か}きやすいです。", "en": "This pen is easy to write with."},
+      {"ja": "先生の説明は分かりやすい。", "furigana": "{先生|せんせい}の{説明|せつめい}は{分|わ}かりやすい。", "en": "The teacher's explanations are easy to understand."},
+      {"ja": "この魚は骨が多くて食べにくい。", "furigana": "この{魚|さかな}は{骨|ほね}が{多|おお}くて{食|た}べにくい。", "en": "This fish has a lot of bones, so it's hard to eat."}
+    ],
+    "tags": ["degree", "tendency"],
+    "notes": "Both conjugate like i-adjectives. やすい can also mean 'tends to' (この服は汚れやすい)."
+  },
+  {
+    "pattern": "〜始める / 〜終わる / 〜続ける",
+    "reading": "〜はじめる / 〜おわる / 〜つづける",
+    "romaji": "hajimeru / owaru / tsuzukeru",
+    "level": "N4",
+    "meaning": "start doing; finish doing; keep doing",
+    "formation": "Verb-stem + 始める / Verb-stem + 終わる / Verb-stem + 続ける",
+    "examples": [
+      {"ja": "去年からギターを習い始めました。", "furigana": "{去年|きょねん}からギターを{習|なら}い{始|はじ}めました。", "en": "I started learning guitar last year."},
+      {"ja": "その本、読み終わったら貸してくれない？", "furigana": "その{本|ほん}、{読|よ}み{終|お}わったら{貸|か}してくれない？", "en": "When you finish reading that book, could you lend it to me?"},
+      {"ja": "三時間も歩き続けて、足が痛くなった。", "furigana": "{三|さん}{時間|じかん}も{歩|ある}き{続|つづ}けて、{足|あし}が{痛|いた}くなった。", "en": "My feet started to hurt after walking for three hours straight."}
+    ],
+    "tags": ["time", "sequence"],
+    "notes": "〜終わる is used with actions that have a clear end (読む, 食べる, 書く). 〜終える is a more formal alternative."
+  },
+  {
+    "pattern": "〜出す",
+    "reading": "〜だす",
+    "romaji": "dasu",
+    "level": "N4",
+    "meaning": "suddenly start doing; burst out",
+    "formation": "Verb-stem + 出す",
+    "examples": [
+      {"ja": "赤ちゃんが急に泣き出した。", "furigana": "{赤|あか}ちゃんが{急|きゅう}に{泣|な}き{出|だ}した。", "en": "The baby suddenly burst out crying."},
+      {"ja": "さっきまで晴れていたのに、急に雨が降り出した。", "furigana": "さっきまで{晴|は}れていたのに、{急|きゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。", "en": "It was sunny until a moment ago, but suddenly it started to rain."}
+    ],
+    "tags": ["time", "surprise"],
+    "notes": "Implies a sudden, often uncontrolled start. Unlike 〜始める, it is not used for planned actions or in requests."
+  },
+  {
+    "pattern": "〜ほど〜ない",
+    "romaji": "hodo ... nai",
+    "level": "N4",
+    "meaning": "not as ... as",
+    "formation": "Noun / Verb-plain + ほど + i-Adj-ku + ない / na-Adj + ではない",
+    "examples": [
+      {"ja": "今年の夏は去年ほど暑くない。", "furigana": "{今年|ことし}の{夏|なつ}は{去年|きょねん}ほど{暑|あつ}くない。", "en": "This summer isn't as hot as last year."},
+      {"ja": "私の町は東京ほどにぎやかではありません。", "furigana": "{私|わたし}の{町|まち}は{東京|とうきょう}ほどにぎやかではありません。", "en": "My town isn't as lively as Tokyo."},
+      {"ja": "テストは思ったほど難しくなかった。", "furigana": "テストは{思|おも}ったほど{難|むずか}しくなかった。", "en": "The test wasn't as hard as I'd expected."}
+    ],
+    "tags": ["comparison", "negation"],
+    "notes": "The item before ほど is the standard of comparison. Always followed by a negative."
+  },
+  {
+    "pattern": "なかなか〜ない",
+    "romaji": "nakanaka ... nai",
+    "level": "N4",
+    "meaning": "not easily; just won't; not readily",
+    "formation": "なかなか + Verb-nai",
+    "examples": [
+      {"ja": "バスがなかなか来ない。", "furigana": "バスがなかなか{来|こ}ない。", "en": "The bus just isn't coming."},
+      {"ja": "漢字がなかなか覚えられません。", "furigana": "{漢字|かんじ}がなかなか{覚|おぼ}えられません。", "en": "I just can't seem to memorize kanji."},
+      {"ja": "子どもがなかなか寝てくれない。", "furigana": "{子|こ}どもがなかなか{寝|ね}てくれない。", "en": "The kids just won't go to sleep."}
+    ],
+    "tags": ["negation", "degree"],
+    "notes": "Shows that something doesn't happen as quickly or easily as hoped. With a positive form, なかなか means 'quite' (なかなかおいしい)."
+  },
+  {
+    "pattern": "〜ずつ",
+    "romaji": "zutsu",
+    "level": "N4",
+    "meaning": "each; at a time; little by little",
+    "formation": "Noun (quantity) + ずつ",
+    "examples": [
+      {"ja": "りんごを一人に二つずつ配った。", "furigana": "りんごを{一人|ひとり}に{二|ふた}つずつ{配|くば}った。", "en": "I handed out two apples to each person."},
+      {"ja": "毎日少しずつ漢字を覚えています。", "furigana": "{毎日|まいにち}{少|すこ}しずつ{漢字|かんじ}を{覚|おぼ}えています。", "en": "I'm learning kanji a little at a time every day."},
+      {"ja": "一人ずつ部屋に入ってください。", "furigana": "{一人|ひとり}ずつ{部屋|へや}に{入|はい}ってください。", "en": "Please enter the room one at a time."}
+    ],
+    "tags": ["quantity"]
+  },
+  {
+    "pattern": "〜も（emphasis）",
+    "romaji": "mo (emphasis)",
+    "level": "N4",
+    "meaning": "as many as; as much as; (with a negative) not even one",
+    "formation": "Noun (number + counter) + も",
+    "examples": [
+      {"ja": "昨日は十時間も寝てしまった。", "furigana": "{昨日|きのう}は{十|じゅう}{時間|じかん}も{寝|ね}てしまった。", "en": "I slept for a whole ten hours yesterday."},
+      {"ja": "このかばんは五万円もするんですか。", "furigana": "このかばんは{五|ご}{万|まん}{円|えん}もするんですか。", "en": "This bag costs as much as 50,000 yen?"},
+      {"ja": "財布の中に一円もない。", "furigana": "{財布|さいふ}の{中|なか}に{一|いち}{円|えん}もない。", "en": "I don't have a single yen in my wallet."}
+    ],
+    "tags": ["emphasis", "quantity"],
+    "notes": "Shows the speaker feels the amount is large. With 一 + counter and a negative verb, it means 'not even one'."
+  },
+  {
+    "pattern": "〜までに",
+    "romaji": "made ni",
+    "level": "N4",
+    "meaning": "by (a deadline); before",
+    "formation": "Noun / Verb-dict + までに",
+    "examples": [
+      {"ja": "レポートは金曜日までに出してください。", "furigana": "レポートは{金曜日|きんようび}までに{出|だ}してください。", "en": "Please hand in the report by Friday."},
+      {"ja": "六時までに家に帰らなければならない。", "furigana": "{六|ろく}{時|じ}までに{家|いえ}に{帰|かえ}らなければならない。", "en": "I have to be home by six."},
+      {"ja": "暗くなるまでに山を下りよう。", "furigana": "{暗|くら}くなるまでに{山|やま}を{下|お}りよう。", "en": "Let's get down the mountain before it gets dark."}
+    ],
+    "tags": ["time"],
+    "notes": "までに marks a deadline for a one-time action; まで marks how long something continues (六時まで働く)."
+  },
+  {
+    "pattern": "〜ことがある",
+    "romaji": "koto ga aru",
+    "level": "N4",
+    "meaning": "sometimes; there are times when",
+    "formation": "Verb-dict / Verb-nai + ことがある",
+    "examples": [
+      {"ja": "忙しいときは、朝ご飯を食べないことがあります。", "furigana": "{忙|いそが}しいときは、{朝|あさ}ご{飯|はん}を{食|た}べないことがあります。", "en": "When I'm busy, I sometimes skip breakfast."},
+      {"ja": "この道は冬になると、雪で通れなくなることがある。", "furigana": "この{道|みち}は{冬|ふゆ}になると、{雪|ゆき}で{通|とお}れなくなることがある。", "en": "In winter, this road sometimes becomes impassable because of snow."},
+      {"ja": "週末は家族で料理をすることがある。", "furigana": "{週末|しゅうまつ}は{家族|かぞく}で{料理|りょうり}をすることがある。", "en": "On weekends, my family sometimes cooks together."}
+    ],
+    "tags": ["tendency", "time"],
+    "notes": "Takes the dictionary or ない form. With the past form (〜たことがある) it means 'have done before' instead."
+  },
+  {
+    "pattern": "〜ないといけない / 〜なくちゃ",
+    "romaji": "nai to ikenai / nakucha",
+    "level": "N4",
+    "meaning": "have to; must (conversational)",
+    "formation": "Verb-nai + といけない / Verb-nai stem + なくちゃ",
+    "examples": [
+      {"ja": "明日は早いから、もう寝ないといけない。", "furigana": "{明日|あした}は{早|はや}いから、もう{寝|ね}ないといけない。", "en": "I have an early start tomorrow, so I need to go to bed now."},
+      {"ja": "あ、もうこんな時間！帰らなくちゃ。", "furigana": "あ、もうこんな{時間|じかん}！{帰|かえ}らなくちゃ。", "en": "Oh, look at the time! I have to go home."},
+      {"ja": "この薬は毎日飲まないといけません。", "furigana": "この{薬|くすり}は{毎日|まいにち}{飲|の}まないといけません。", "en": "You have to take this medicine every day."}
+    ],
+    "tags": ["obligation", "casual"],
+    "notes": "Everyday alternatives to なければならない. なくちゃ comes from なくては; なきゃ (from なければ) is also very common."
+  },
+  {
+    "pattern": "〜させてください",
+    "romaji": "sasete kudasai",
+    "level": "N4",
+    "meaning": "please let me (do)",
+    "formation": "Verb-nai stem + せてください (Group 1) / Verb-nai stem + させてください (Group 2)",
+    "examples": [
+      {"ja": "少し考えさせてください。", "furigana": "{少|すこ}し{考|かんが}えさせてください。", "en": "Please let me think about it for a bit."},
+      {"ja": "今日は私に払わせてください。", "furigana": "{今日|きょう}は{私|わたし}に{払|はら}わせてください。", "en": "Please let me pay today."},
+      {"ja": "体の調子が悪いので、今日は早く帰らせてください。", "furigana": "{体|からだ}の{調子|ちょうし}が{悪|わる}いので、{今日|きょう}は{早|はや}く{帰|かえ}らせてください。", "en": "I'm not feeling well, so please let me go home early today."}
+    ],
+    "tags": ["request", "permission"],
+    "notes": "Built on the causative て-form (する → させて). 〜させていただけませんか is more polite."
+  },
+  {
+    "pattern": "尊敬語",
+    "reading": "そんけいご",
+    "romaji": "sonkeigo",
+    "level": "N4",
+    "meaning": "honorific verbs; respectful language for others' actions",
+    "formation": "いらっしゃる（行く・来る・いる） / 召し上がる（食べる・飲む） / おっしゃる（言う） / なさる（する） / ご覧になる（見る） / くださる（くれる）",
+    "examples": [
+      {"ja": "社長は何時ごろいらっしゃいますか。", "furigana": "{社長|しゃちょう}は{何|なん}{時|じ}ごろいらっしゃいますか。", "en": "Around what time will the company president be here?"},
+      {"ja": "先生、どうぞ召し上がってください。", "furigana": "{先生|せんせい}、どうぞ{召|め}し{上|あ}がってください。", "en": "Please help yourself, sensei."},
+      {"ja": "部長は会議でそうおっしゃいました。", "furigana": "{部長|ぶちょう}は{会議|かいぎ}でそうおっしゃいました。", "en": "The department manager said so at the meeting."}
+    ],
+    "tags": ["honorific", "politeness"],
+    "notes": "Raises the actions of people you respect, such as customers, teachers and superiors. Never use it for your own actions."
+  },
+  {
+    "pattern": "謙譲語",
+    "reading": "けんじょうご",
+    "romaji": "kenjougo",
+    "level": "N4",
+    "meaning": "humble verbs; modest language for one's own actions",
+    "formation": "参る（行く・来る） / おる（いる） / いただく（食べる・飲む・もらう） / 申す（言う） / いたす（する） / 拝見する（見る） / 伺う（聞く・訪ねる）",
+    "examples": [
+      {"ja": "明日の午後、そちらに伺います。", "furigana": "{明日|あした}の{午後|ごご}、そちらに{伺|うかが}います。", "en": "I'll come to your office tomorrow afternoon."},
+      {"ja": "初めまして。リンと申します。", "furigana": "{初|はじ}めまして。リンと{申|もう}します。", "en": "Nice to meet you. My name is Lin."},
+      {"ja": "お手紙、拝見しました。", "furigana": "お{手紙|てがみ}、{拝見|はいけん}しました。", "en": "I have read your letter."}
+    ],
+    "tags": ["humble", "politeness"],
+    "notes": "Lowers your own actions, or your group's, toward someone you respect. 参る, おる, 申す and いたす also make speech sound formal in general."
+  },
+  {
+    "pattern": "お〜になる",
+    "romaji": "o ... ni naru",
+    "level": "N4",
+    "meaning": "(honorific) someone respected does",
+    "formation": "お + Verb-stem + になる",
+    "examples": [
+      {"ja": "先生はもうお帰りになりました。", "furigana": "{先生|せんせい}はもうお{帰|かえ}りになりました。", "en": "The teacher has already gone home."},
+      {"ja": "この本をお読みになりましたか。", "furigana": "この{本|ほん}をお{読|よ}みになりましたか。", "en": "Have you read this book?"},
+      {"ja": "社長はいつもこのホテルにお泊まりになります。", "furigana": "{社長|しゃちょう}はいつもこのホテルにお{泊|と}まりになります。", "en": "The company president always stays at this hotel."}
+    ],
+    "tags": ["honorific"],
+    "notes": "Not used with one-syllable stems (見る, 寝る) or verbs that have special forms (行く → いらっしゃる). する-nouns take ご + Noun + になる (ご利用になる)."
+  },
+  {
+    "pattern": "お〜する",
+    "romaji": "o ... suru",
+    "level": "N4",
+    "meaning": "(humble) I do (for someone respected)",
+    "formation": "お + Verb-stem + する / ご + Noun + する",
+    "examples": [
+      {"ja": "重そうですね。お持ちしましょうか。", "furigana": "{重|おも}そうですね。お{持|も}ちしましょうか。", "en": "That looks heavy. Shall I carry it for you?"},
+      {"ja": "後で詳しくご説明します。", "furigana": "{後|あと}で{詳|くわ}しくご{説明|せつめい}します。", "en": "I'll explain in detail later."},
+      {"ja": "駅までお送りします。", "furigana": "{駅|えき}までお{送|おく}りします。", "en": "I'll see you to the station."}
+    ],
+    "tags": ["humble"],
+    "notes": "Only for actions that affect or benefit the other person. お〜いたします is even more formal."
+  },
+  {
+    "pattern": "〜でございます",
+    "romaji": "de gozaimasu",
+    "level": "N4",
+    "meaning": "is; am; are (very polite copula)",
+    "formation": "Noun / na-Adj + でございます",
+    "examples": [
+      {"ja": "お手洗いはあちらでございます。", "furigana": "お{手洗|てあら}いはあちらでございます。", "en": "The restroom is over there."},
+      {"ja": "こちらが、お部屋のかぎでございます。", "furigana": "こちらが、お{部屋|へや}のかぎでございます。", "en": "Here is your room key."},
+      {"ja": "はい、山田商店でございます。", "furigana": "はい、{山田|やまだ}{商店|しょうてん}でございます。", "en": "Hello, Yamada Shoten speaking."}
+    ],
+    "tags": ["politeness", "formal"],
+    "notes": "The very polite version of です, typical of shop and hotel staff speaking to customers. ございます on its own is the polite form of あります."
+  },
+  {
+    "pattern": "〜ても構わない",
+    "reading": "〜てもかまわない",
+    "romaji": "te mo kamawanai",
+    "level": "N4",
+    "meaning": "don't mind if; it's fine if",
+    "formation": "Verb-te + も構わない / i-Adj-ku + ても構わない / na-Adj + でも構わない / Noun + でも構わない",
+    "examples": [
+      {"ja": "ここに荷物を置いても構いませんか。", "furigana": "ここに{荷物|にもつ}を{置|お}いても{構|かま}いませんか。", "en": "Do you mind if I leave my bags here?"},
+      {"ja": "少しぐらい高くても構わないから、いい辞書を買いたい。", "furigana": "{少|すこ}しぐらい{高|たか}くても{構|かま}わないから、いい{辞書|じしょ}を{買|か}いたい。", "en": "I don't mind if it's a bit pricey; I want to buy a good dictionary."},
+      {"ja": "返事は明日でも構いませんよ。", "furigana": "{返事|へんじ}は{明日|あした}でも{構|かま}いませんよ。", "en": "It's fine if you answer tomorrow."}
+    ],
+    "tags": ["permission"],
+    "notes": "A little more formal than 〜てもいい. 〜なくても構わない means 'it's fine not to'."
+  },
+  {
+    "pattern": "〜の / 〜こと（nominalizer）",
+    "romaji": "no / koto (nominalizer)",
+    "level": "N4",
+    "meaning": "the act of doing (turns a verb phrase into a noun)",
+    "formation": "Verb-plain + の / Verb-plain + こと",
+    "examples": [
+      {"ja": "私は写真を撮るのが好きです。", "furigana": "{私|わたし}は{写真|しゃしん}を{撮|と}るのが{好|す}きです。", "en": "I like taking photos."},
+      {"ja": "趣味は古い映画を見ることです。", "furigana": "{趣味|しゅみ}は{古|ふる}い{映画|えいが}を{見|み}ることです。", "en": "My hobby is watching old movies."},
+      {"ja": "かぎをかけるのを忘れました。", "furigana": "かぎをかけるのを{忘|わす}れました。", "en": "I forgot to lock the door."}
+    ],
+    "tags": ["nominalization"],
+    "notes": "の is preferred with perception verbs (見る, 聞こえる) and in casual speech; こと is needed before です/だ and in set patterns such as 〜ことができる."
+  },
+  {
+    "pattern": "〜ばよかった",
+    "romaji": "ba yokatta",
+    "level": "N4",
+    "meaning": "should have (done); I wish I had",
+    "formation": "Verb-ba + よかった / Verb-nai stem + なければよかった",
+    "examples": [
+      {"ja": "もっと早く家を出ればよかった。", "furigana": "もっと{早|はや}く{家|いえ}を{出|で}ればよかった。", "en": "I should have left home earlier."},
+      {"ja": "あんなこと、言わなければよかった。", "furigana": "あんなこと、{言|い}わなければよかった。", "en": "I wish I hadn't said that."},
+      {"ja": "傘を持ってくればよかったなあ。", "furigana": "{傘|かさ}を{持|も}ってくればよかったなあ。", "en": "I wish I'd brought an umbrella."}
+    ],
+    "tags": ["regret"],
+    "notes": "Expresses regret about the past. 〜たらよかった is a common conversational alternative."
+  },
+  {
+    "pattern": "〜たらどう",
+    "romaji": "tara dou",
+    "level": "N4",
+    "meaning": "why don't you ...?; how about ...?",
+    "formation": "Verb-ta + らどう",
+    "examples": [
+      {"ja": "疲れているなら、少し休んだらどう？", "furigana": "{疲|つか}れているなら、{少|すこ}し{休|やす}んだらどう？", "en": "If you're tired, why not rest a bit?"},
+      {"ja": "分からなければ、先生に聞いてみたらどうですか。", "furigana": "{分|わ}からなければ、{先生|せんせい}に{聞|き}いてみたらどうですか。", "en": "If you don't understand, why don't you try asking the teacher?"}
+    ],
+    "tags": ["suggestion", "advice"],
+    "notes": "Often shortened to 〜たら？. Can sound pushy toward superiors; 〜たらいかがですか is the polite version."
+  },
+  {
+    "pattern": "〜ほうがいい",
+    "romaji": "hou ga ii",
+    "level": "N4",
+    "meaning": "had better; should",
+    "formation": "Verb-ta / Verb-nai + ほうがいい",
+    "examples": [
+      {"ja": "熱があるなら、病院に行ったほうがいいですよ。", "furigana": "{熱|ねつ}があるなら、{病院|びょういん}に{行|い}ったほうがいいですよ。", "en": "If you have a fever, you'd better go to the hospital."},
+      {"ja": "夜遅くに一人で歩かないほうがいい。", "furigana": "{夜|よる}{遅|おそ}くに{一人|ひとり}で{歩|ある}かないほうがいい。", "en": "You'd better not walk alone late at night."},
+      {"ja": "大事な書類は、コピーしておいたほうがいいですよ。", "furigana": "{大事|だいじ}な{書類|しょるい}は、コピーしておいたほうがいいですよ。", "en": "It's a good idea to make copies of important documents."}
+    ],
+    "tags": ["advice"],
+    "notes": "For advice, the past form (行ったほうがいい) is the usual choice and sounds stronger. The negative uses the ない form, not the past."
+  },
+  {
+    "pattern": "〜とか〜とか",
+    "romaji": "toka ... toka",
+    "level": "N4",
+    "meaning": "things like A and B; A, B and so on (casual)",
+    "formation": "Noun + とか + Noun + とか / Verb-dict + とか + Verb-dict + とか",
+    "examples": [
+      {"ja": "冷蔵庫に卵とか牛乳とかが入っています。", "furigana": "{冷蔵庫|れいぞうこ}に{卵|たまご}とか{牛乳|ぎゅうにゅう}とかが{入|はい}っています。", "en": "There are things like eggs and milk in the fridge."},
+      {"ja": "休みの日は、映画とか買い物とかに行きます。", "furigana": "{休|やす}みの{日|ひ}は、{映画|えいが}とか{買|か}い{物|もの}とかに{行|い}きます。", "en": "On my days off, I go to the movies, go shopping, that kind of thing."},
+      {"ja": "健康のために、野菜を食べるとか運動するとか、何かしたほうがいい。", "furigana": "{健康|けんこう}のために、{野菜|やさい}を{食|た}べるとか{運動|うんどう}するとか、{何|なに}かしたほうがいい。", "en": "For your health, you should do something, like eating vegetables or exercising."}
+    ],
+    "tags": ["example", "casual"],
+    "notes": "More casual than 〜や〜など, and it can also list verbs or whole phrases."
+  },
+  {
+    "pattern": "〜など",
+    "romaji": "nado",
+    "level": "N4",
+    "meaning": "etc.; and so on; such as",
+    "formation": "Noun + など",
+    "examples": [
+      {"ja": "机の上に本やノートなどがあります。", "furigana": "{机|つくえ}の{上|うえ}に{本|ほん}やノートなどがあります。", "en": "On the desk there are books, notebooks and so on."},
+      {"ja": "夏休みに京都や奈良などに行きました。", "furigana": "{夏休|なつやす}みに{京都|きょうと}や{奈良|なら}などに{行|い}きました。", "en": "During summer vacation I went to places like Kyoto and Nara."},
+      {"ja": "お茶など、いかがですか。", "furigana": "お{茶|ちゃ}など、いかがですか。", "en": "Would you care for some tea or something?"}
+    ],
+    "tags": ["example"],
+    "notes": "Often paired with や (AやBなど). After a single noun it softens a suggestion."
+  },
+  {
+    "pattern": "〜でも（suggestion）",
+    "romaji": "de mo (suggestion)",
+    "level": "N4",
+    "meaning": "or something (softening a suggestion)",
+    "formation": "Noun + でも",
+    "examples": [
+      {"ja": "ちょっと休んで、コーヒーでも飲みませんか。", "furigana": "ちょっと{休|やす}んで、コーヒーでも{飲|の}みませんか。", "en": "Why don't we take a break and have a coffee or something?"},
+      {"ja": "雨だから、家でゲームでもしよう。", "furigana": "{雨|あめ}だから、{家|いえ}でゲームでもしよう。", "en": "It's raining, so let's play a game or something at home."},
+      {"ja": "暇なら、本でも読んだら？", "furigana": "{暇|ひま}なら、{本|ほん}でも{読|よ}んだら？", "en": "If you're bored, why not read a book or something?"}
+    ],
+    "tags": ["suggestion", "example"],
+    "notes": "Offers one example while leaving other options open, which makes invitations and advice sound less pushy."
+  },
+  {
+    "pattern": "〜さ",
+    "romaji": "sa",
+    "level": "N4",
+    "meaning": "-ness (turns an adjective into a noun of degree)",
+    "formation": "i-Adj stem + さ / na-Adj + さ",
+    "examples": [
+      {"ja": "この橋の長さはどのくらいですか。", "furigana": "この{橋|はし}の{長|なが}さはどのくらいですか。", "en": "How long is this bridge?"},
+      {"ja": "山の上の寒さにびっくりした。", "furigana": "{山|やま}の{上|うえ}の{寒|さむ}さにびっくりした。", "en": "I was surprised by how cold it was at the top of the mountain."},
+      {"ja": "この仕事の大変さは、やってみないと分からない。", "furigana": "この{仕事|しごと}の{大変|たいへん}さは、やってみないと{分|わ}からない。", "en": "You can't understand how tough this job is until you try it."}
+    ],
+    "tags": ["nominalization", "degree"],
+    "notes": "いい becomes よさ. Common for measurements (高さ, 重さ, 大きさ, 長さ)."
+  },
+  {
+    "pattern": "〜目",
+    "reading": "〜め",
+    "romaji": "me",
+    "level": "N4",
+    "meaning": "-th (ordinal: first, second, third ...)",
+    "formation": "Noun (number + counter) + 目",
+    "examples": [
+      {"ja": "右から三つ目の建物が図書館です。", "furigana": "{右|みぎ}から{三|みっ}つ{目|め}の{建物|たてもの}が{図書館|としょかん}です。", "en": "The third building from the right is the library."},
+      {"ja": "日本に来るのは今回で二回目です。", "furigana": "{日本|にほん}に{来|く}るのは{今回|こんかい}で{二|に}{回|かい}{目|め}です。", "en": "This is my second time coming to Japan."},
+      {"ja": "二つ目の角を左に曲がってください。", "furigana": "{二|ふた}つ{目|め}の{角|かど}を{左|ひだり}に{曲|ま}がってください。", "en": "Please turn left at the second corner."}
+    ],
+    "tags": ["quantity"]
+  },
+  {
+    "pattern": "〜おきに",
+    "romaji": "oki ni",
+    "level": "N4",
+    "meaning": "every other; at intervals of",
+    "formation": "Noun (number + counter) + おきに",
+    "examples": [
+      {"ja": "このバスは十五分おきに来ます。", "furigana": "このバスは{十|じゅう}{五|ご}{分|ふん}おきに{来|き}ます。", "en": "This bus comes every fifteen minutes."},
+      {"ja": "一日おきにジョギングをしています。", "furigana": "{一|いち}{日|にち}おきにジョギングをしています。", "en": "I go jogging every other day."},
+      {"ja": "道の両側に、木が五メートルおきに植えてある。", "furigana": "{道|みち}の{両側|りょうがわ}に、{木|き}が{五|ご}メートルおきに{植|う}えてある。", "en": "Trees are planted every five meters on both sides of the road."}
+    ],
+    "tags": ["time", "quantity"],
+    "notes": "With days (一日おき) it skips one unit, meaning 'every other day'. With minutes or distances it usually just means 'every X'."
+  },
+  {
+    "pattern": "〜くする / 〜にする（make）",
+    "romaji": "ku suru / ni suru",
+    "level": "N4",
+    "meaning": "make (something) ...; change something to a state",
+    "formation": "i-Adj-ku + する / na-Adj + に + する / Noun + に + する",
+    "examples": [
+      {"ja": "テレビの音を小さくしてください。", "furigana": "テレビの{音|おと}を{小|ちい}さくしてください。", "en": "Please turn the TV down."},
+      {"ja": "お客さんが来るから、部屋をきれいにしよう。", "furigana": "お{客|きゃく}さんが{来|く}るから、{部屋|へや}をきれいにしよう。", "en": "We have guests coming, so let's tidy up the room."},
+      {"ja": "暑いので、髪を短くしました。", "furigana": "{暑|あつ}いので、{髪|かみ}を{短|みじか}くしました。", "en": "It's hot, so I had my hair cut short."}
+    ],
+    "tags": ["change"],
+    "notes": "Someone deliberately changes something. Compare 〜くなる / 〜になる, where the change happens by itself."
+  },
+  {
+    "pattern": "〜がする",
+    "romaji": "ga suru",
+    "level": "N4",
+    "meaning": "(a smell, sound, taste or feeling) is perceived",
+    "formation": "Noun + がする",
+    "examples": [
+      {"ja": "台所からいいにおいがする。", "furigana": "{台所|だいどころ}からいいにおいがする。", "en": "There's a nice smell coming from the kitchen."},
+      {"ja": "外で変な音がしました。", "furigana": "{外|そと}で{変|へん}な{音|おと}がしました。", "en": "I heard a strange noise outside."},
+      {"ja": "このお茶は少し甘い味がする。", "furigana": "このお{茶|ちゃ}は{少|すこ}し{甘|あま}い{味|あじ}がする。", "en": "This tea tastes slightly sweet."}
+    ],
+    "tags": ["state", "emotion"],
+    "notes": "Used with におい, 音, 声, 味 and 気 (〜気がする: 'have a feeling that')."
+  },
+  {
+    "pattern": "〜かな / 〜かしら",
+    "romaji": "kana / kashira",
+    "level": "N4",
+    "meaning": "I wonder",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + かな / かしら",
+    "examples": [
+      {"ja": "明日は晴れるかな。", "furigana": "{明日|あした}は{晴|は}れるかな。", "en": "I wonder if it'll be sunny tomorrow."},
+      {"ja": "このお菓子、誰が買ってきたのかな。", "furigana": "このお{菓子|かし}、{誰|だれ}が{買|か}ってきたのかな。", "en": "I wonder who bought these snacks."},
+      {"ja": "この服、私に似合うかしら。", "furigana": "この{服|ふく}、{私|わたし}に{似合|にあ}うかしら。", "en": "I wonder if this outfit suits me."}
+    ],
+    "tags": ["question", "casual"],
+    "notes": "A soft question, often said to oneself. かしら sounds feminine and a little old-fashioned. 〜ないかな can express a wish (早く来ないかな)."
+  },
+  {
+    "pattern": "〜てくれませんか / 〜ていただけませんか",
+    "romaji": "te kuremasen ka / te itadakemasen ka",
+    "level": "N4",
+    "meaning": "could you please ...? (polite request)",
+    "formation": "Verb-te + くれませんか / Verb-te + いただけませんか",
+    "examples": [
+      {"ja": "すみません、写真を撮ってくれませんか。", "furigana": "すみません、{写真|しゃしん}を{撮|と}ってくれませんか。", "en": "Excuse me, could you take my picture?"},
+      {"ja": "この書類の書き方を教えていただけませんか。", "furigana": "この{書類|しょるい}の{書|か}き{方|かた}を{教|おし}えていただけませんか。", "en": "Could you please show me how to fill out this form?"},
+      {"ja": "もう少し大きい声で話していただけませんか。", "furigana": "もう{少|すこ}し{大|おお}きい{声|こえ}で{話|はな}していただけませんか。", "en": "Could you speak a little louder, please?"}
+    ],
+    "tags": ["request", "politeness"],
+    "notes": "Softer than 〜てください. Politeness rises from 〜てくれませんか to 〜てもらえませんか to 〜ていただけませんか."
+  },
+  {
+    "pattern": "〜ないで",
+    "romaji": "naide",
+    "level": "N4",
+    "meaning": "without doing; instead of doing",
+    "formation": "Verb-nai + で",
+    "examples": [
+      {"ja": "今朝は朝ご飯を食べないで学校に行った。", "furigana": "{今朝|けさ}は{朝|あさ}ご{飯|はん}を{食|た}べないで{学校|がっこう}に{行|い}った。", "en": "This morning I went to school without eating breakfast."},
+      {"ja": "傘を持たないで出かけて、雨にぬれてしまった。", "furigana": "{傘|かさ}を{持|も}たないで{出|で}かけて、{雨|あめ}にぬれてしまった。", "en": "I went out without an umbrella and got soaked."},
+      {"ja": "エレベーターを使わないで、階段で上がりましょう。", "furigana": "エレベーターを{使|つか}わないで、{階段|かいだん}で{上|あ}がりましょう。", "en": "Let's take the stairs instead of the elevator."}
+    ],
+    "tags": ["negation", "manner"],
+    "notes": "〜ずに (N3) means the same but is more formal. Differs from 〜なくて, which gives a reason."
   }
 ]

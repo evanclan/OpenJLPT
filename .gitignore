@@ -28,3 +28,10 @@ venv/
 # Data bundled into the Python package by setup.py during wheel builds.
 openjlpt/data/
 openjlpt/schema/
+
+# Generated site and export bundles
+_site/
+exports/
+release/
+python-dist/
+wheelhouse/

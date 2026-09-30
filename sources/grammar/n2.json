@@ -1,222 +1,1716 @@
 [
   {
-    "pattern": "〜に至って",
-    "level": "N2",
-    "meaning": "when it comes to; at the point of",
-    "formation": "Noun + に至って",
-    "examples": [
-      { "ja": "辞職に至った経緯を説明する。", "en": "Explain the circumstances that led to the resignation." },
-      { "ja": "今回の事件に至って、ようやく問題の深刻さが分かった。", "en": "It was only with this incident that I finally understood the seriousness of the problem." }
-    ],
-    "tags": ["advanced-timing", "formal"]
-  },
-  {
     "pattern": "〜に際して",
+    "reading": "〜にさいして",
+    "romaji": "ni saishite",
     "level": "N2",
-    "meaning": "on the occasion of; at the time of",
-    "formation": "Noun + に際して",
+    "meaning": "on the occasion of; when; at the time of",
+    "formation": "Noun + に際して / Verb-dict + に際して / Noun + に際しての + Noun",
     "examples": [
-      { "ja": "出発に際して、一言ご挨拶させていただきます。", "en": "On the occasion of our departure, please allow me to say a few words." },
-      { "ja": "入社に際して、誓約書を提出した。", "en": "I submitted a pledge when joining the company." }
+      {"ja": "新製品の発売に際して、記者会見が開かれた。", "furigana": "{新|しん}{製品|せいひん}の{発売|はつばい}に{際|さい}して、{記者|きしゃ}{会見|かいけん}が{開|ひら}かれた。", "en": "A press conference was held on the occasion of the new product's launch."},
+      {"ja": "海外へ渡航するに際しては、現地の安全情報を必ず確認してください。", "furigana": "{海外|かいがい}へ{渡航|とこう}するに{際|さい}しては、{現地|げんち}の{安全|あんぜん}{情報|じょうほう}を{必|かなら}ず{確認|かくにん}してください。", "en": "When traveling abroad, be sure to check the local safety information."},
+      {"ja": "契約の更新に際しての注意事項をまとめました。", "furigana": "{契約|けいやく}の{更新|こうしん}に{際|さい}しての{注意|ちゅうい}{事項|じこう}をまとめました。", "en": "We have summarized the points to note when renewing the contract."}
     ],
-    "tags": ["formal", "timing"]
+    "tags": ["time", "formal"],
+    "notes": "Formal; for special, one-off occasions (ceremonies, departures, contracts). Near-synonym of 〜にあたって, which adds a sense of preparing for or facing the event; に際して simply marks the occasion."
   },
   {
     "pattern": "〜に伴って",
+    "reading": "〜にともなって",
+    "romaji": "ni tomonatte",
     "level": "N2",
-    "meaning": "as; in accordance with; along with",
-    "formation": "Noun + に伴って",
+    "meaning": "along with; as; accompanying",
+    "formation": "Noun + に伴って / Verb-dict + の + に伴って / Noun + に伴う + Noun",
     "examples": [
-      { "ja": "都市化に伴って、緑が減っている。", "en": "As urbanization progresses, greenery is decreasing." },
-      { "ja": "人口の増加に伴って、問題も増えた。", "en": "Along with the increase in population, problems also increased." }
+      {"ja": "高齢化に伴って、医療費は年々増加している。", "furigana": "{高齢|こうれい}{化|か}に{伴|ともな}って、{医療|いりょう}{費|ひ}は{年々|ねんねん}{増加|ぞうか}している。", "en": "Along with the aging of the population, medical costs are rising year by year."},
+      {"ja": "工場の移転に伴い、約二百人の従業員が転勤することになった。", "furigana": "{工場|こうじょう}の{移転|いてん}に{伴|ともな}い、{約|やく}{二|に}{百|ひゃく}{人|にん}の{従業|じゅうぎょう}{員|いん}が{転勤|てんきん}することになった。", "en": "With the relocation of the factory, about two hundred employees are to be transferred."},
+      {"ja": "台風の接近に伴う大雨に注意してください。", "furigana": "{台風|たいふう}の{接近|せっきん}に{伴|ともな}う{大雨|おおあめ}に{注意|ちゅうい}してください。", "en": "Please watch out for heavy rain accompanying the approaching typhoon."}
     ],
-    "tags": ["accompaniment"]
+    "tags": ["change", "simultaneity", "formal"],
+    "notes": "〜に伴い is the more written form. Like 〜につれて it can describe gradual change, but it also covers one-off events that bring about another (e.g. a relocation)."
   },
   {
     "pattern": "〜に応じて",
+    "reading": "〜におうじて",
+    "romaji": "ni oujite",
     "level": "N2",
-    "meaning": "according to; in proportion to; depending on",
-    "formation": "Noun + に応じて",
+    "meaning": "according to; depending on; in response to",
+    "formation": "Noun + に応じて / Noun + に応じた + Noun",
     "examples": [
-      { "ja": "相手に応じて話し方を変える。", "en": "Change the way you speak depending on the other person." },
-      { "ja": "収入に応じて支出を決める。", "en": "Decide expenses according to income." }
+      {"ja": "この奨学金は、家庭の収入に応じて支給額が変わる。", "furigana": "この{奨学|しょうがく}{金|きん}は、{家庭|かてい}の{収入|しゅうにゅう}に{応|おう}じて{支給|しきゅう}{額|がく}が{変|か}わる。", "en": "The amount of this scholarship varies according to household income."},
+      {"ja": "お客様のご予算に応じたプランをご提案いたします。", "furigana": "お{客様|きゃくさま}のご{予算|よさん}に{応|おう}じたプランをご{提案|ていあん}いたします。", "en": "We will propose a plan that suits your budget."},
+      {"ja": "会社は社員の要望に応じて、在宅勤務の制度を導入した。", "furigana": "{会社|かいしゃ}は{社員|しゃいん}の{要望|ようぼう}に{応|おう}じて、{在宅|ざいたく}{勤務|きんむ}の{制度|せいど}を{導入|どうにゅう}した。", "en": "In response to employees' requests, the company introduced a work-from-home system."}
     ],
-    "tags": ["proportion", "adaptation"]
+    "tags": ["relation", "condition"],
+    "notes": "B is adjusted to match A (ability, budget, season, requests). Compare 〜次第で, which stresses that the outcome is decided entirely by A."
   },
   {
     "pattern": "〜に反して",
+    "reading": "〜にはんして",
+    "romaji": "ni hanshite",
     "level": "N2",
-    "meaning": "contrary to; against",
-    "formation": "Noun + に反して",
+    "meaning": "contrary to; against; in violation of",
+    "formation": "Noun + に反して / Noun + に反する + Noun / Noun + に反した + Noun",
     "examples": [
-      { "ja": "予想に反して、試験は簡単だった。", "en": "Contrary to expectations, the exam was easy." },
-      { "ja": "親の期待に反して、芸術家になった。", "en": "Against my parents' expectations, I became an artist." }
+      {"ja": "大方の予想に反して、無名の新人が優勝した。", "furigana": "{大方|おおかた}の{予想|よそう}に{反|はん}して、{無名|むめい}の{新人|しんじん}が{優勝|ゆうしょう}した。", "en": "Contrary to most people's predictions, an unknown newcomer won the championship."},
+      {"ja": "本人の意思に反して、彼は地方の支店に異動させられた。", "furigana": "{本人|ほんにん}の{意思|いし}に{反|はん}して、{彼|かれ}は{地方|ちほう}の{支店|してん}に{異動|いどう}させられた。", "en": "Against his own wishes, he was transferred to a regional branch."},
+      {"ja": "たとえ上司の指示であっても、法律に反することはすべきではない。", "furigana": "たとえ{上司|じょうし}の{指示|しじ}であっても、{法律|ほうりつ}に{反|はん}することはすべきではない。", "en": "Even if your boss tells you to, you shouldn't do anything that goes against the law."}
     ],
-    "tags": ["contrast"]
+    "tags": ["contrast", "formal"],
+    "notes": "Used with nouns like 予想, 期待, 意思, 規則. With a rule or law as the noun, it means 'in violation of'."
   },
   {
     "pattern": "〜に基づいて",
+    "reading": "〜にもとづいて",
+    "romaji": "ni motozuite",
     "level": "N2",
-    "meaning": "based on; in accordance with",
-    "formation": "Noun + に基づいて",
+    "meaning": "based on; on the basis of",
+    "formation": "Noun + に基づいて / Noun + に基づく + Noun / Noun + に基づいた + Noun",
     "examples": [
-      { "ja": "データに基づいて判断する。", "en": "Judge based on data." },
-      { "ja": "実際の経験に基づいて書いた。", "en": "I wrote it based on actual experience." }
+      {"ja": "この映画は実際に起きた事件に基づいて制作された。", "furigana": "この{映画|えいが}は{実際|じっさい}に{起|お}きた{事件|じけん}に{基|もと}づいて{制作|せいさく}された。", "en": "This film was made based on an incident that actually happened."},
+      {"ja": "アンケートの結果に基づき、来年度の計画を見直すことにした。", "furigana": "アンケートの{結果|けっか}に{基|もと}づき、{来年度|らいねんど}の{計画|けいかく}を{見直|みなお}すことにした。", "en": "Based on the survey results, we decided to revise next year's plan."},
+      {"ja": "科学的な根拠に基づいた判断が求められている。", "furigana": "{科学|かがく}{的|てき}な{根拠|こんきょ}に{基|もと}づいた{判断|はんだん}が{求|もと}められている。", "en": "Decisions grounded in scientific evidence are called for."}
     ],
-    "tags": ["basis"]
+    "tags": ["relation", "formal"],
+    "notes": "The basis is a firm standard such as data, law, facts or experience, and B follows it closely. Compare 〜をもとに, used for material from which something new is created."
   },
   {
     "pattern": "〜にわたって",
+    "romaji": "ni watatte",
     "level": "N2",
-    "meaning": "throughout; over; spanning",
-    "formation": "Noun + にわたって",
+    "meaning": "over; throughout; spanning (a whole period or area)",
+    "formation": "Noun + にわたって / Noun + にわたる + Noun",
     "examples": [
-      { "ja": "3年にわたって研究を続けた。", "en": "I continued the research for three years." },
-      { "ja": "全国にわたって調査を行った。", "en": "We conducted a survey across the whole country." }
+      {"ja": "工事は三か月にわたって行われる予定だ。", "furigana": "{工事|こうじ}は{三|さん}か{月|げつ}にわたって{行|おこな}われる{予定|よてい}だ。", "en": "The construction is scheduled to take place over three months."},
+      {"ja": "昨夜の大雪で、関東地方の広い範囲にわたって交通が乱れた。", "furigana": "{昨夜|さくや}の{大雪|おおゆき}で、{関東|かんとう}{地方|ちほう}の{広|ひろ}い{範囲|はんい}にわたって{交通|こうつう}が{乱|みだ}れた。", "en": "Last night's heavy snow disrupted transportation over a wide area of the Kanto region."},
+      {"ja": "両国の首脳は、二日間にわたる会談を終えた。", "furigana": "{両国|りょうこく}の{首脳|しゅのう}は、{二日間|ふつかかん}にわたる{会談|かいだん}を{終|お}えた。", "en": "The leaders of the two countries concluded two days of talks."}
     ],
-    "tags": ["span", "range"]
+    "tags": ["time", "range", "formal"],
+    "notes": "Stresses the full extent of a long period, a wide area or many items (多岐にわたる). Not used for short or small spans."
   },
   {
     "pattern": "〜に沿って",
+    "reading": "〜にそって",
+    "romaji": "ni sotte",
     "level": "N2",
     "meaning": "along; in line with; following",
-    "formation": "Noun + に沿って",
+    "formation": "Noun + に沿って / Noun + に沿った + Noun",
     "examples": [
-      { "ja": "海岸に沿って走る。", "en": "Run along the coast." },
-      { "ja": "計画に沿って進める。", "en": "Proceed in line with the plan." }
+      {"ja": "川に沿って桜並木が二キロほど続いている。", "furigana": "{川|かわ}に{沿|そ}って{桜|さくら}{並木|なみき}が{二|に}キロほど{続|つづ}いている。", "en": "A row of cherry trees stretches for about two kilometers along the river."},
+      {"ja": "マニュアルに沿って作業を進めてください。", "furigana": "マニュアルに{沿|そ}って{作業|さぎょう}を{進|すす}めてください。", "en": "Please proceed with the work according to the manual."},
+      {"ja": "お客様のご要望に沿ったデザインを考えます。", "furigana": "お{客様|きゃくさま}のご{要望|ようぼう}に{沿|そ}ったデザインを{考|かんが}えます。", "en": "We will come up with a design that meets the customer's wishes."}
     ],
-    "tags": ["direction", "conformity"]
+    "tags": ["relation", "manner"],
+    "notes": "Literal use: along a road, river or coast. Abstract use: following a plan, policy, or someone's wishes."
   },
   {
     "pattern": "〜に加えて",
+    "reading": "〜にくわえて",
+    "romaji": "ni kuwaete",
     "level": "N2",
-    "meaning": "in addition to",
+    "meaning": "in addition to; on top of",
     "formation": "Noun + に加えて",
     "examples": [
-      { "ja": "英語に加えて、フランス語も勉強している。", "en": "In addition to English, I also study French." },
-      { "ja": "値上げに加えて、サービスも悪化した。", "en": "In addition to the price increase, service also deteriorated." }
+      {"ja": "今年は猛暑に加えて雨不足が続き、野菜の価格が高騰している。", "furigana": "{今年|ことし}は{猛暑|もうしょ}に{加|くわ}えて{雨不足|あめぶそく}が{続|つづ}き、{野菜|やさい}の{価格|かかく}が{高騰|こうとう}している。", "en": "This year, on top of the extreme heat, there has been a prolonged lack of rain, and vegetable prices have soared."},
+      {"ja": "この仕事には、語学力に加えて交渉力も必要だ。", "furigana": "この{仕事|しごと}には、{語学|ごがく}{力|りょく}に{加|くわ}えて{交渉|こうしょう}{力|りょく}も{必要|ひつよう}だ。", "en": "This job requires negotiating skills in addition to language ability."}
     ],
-    "tags": ["addition"]
-  },
-  {
-    "pattern": "〜に代わって",
-    "level": "N2",
-    "meaning": "in place of; instead of; on behalf of",
-    "formation": "Noun + に代わって",
-    "examples": [
-      { "ja": "社長に代わって挨拶する。", "en": "Give a speech on behalf of the president." },
-      { "ja": "彼に代わって、私が出席した。", "en": "I attended in his place." }
-    ],
-    "tags": ["substitution"]
+    "tags": ["addition", "formal"],
+    "notes": "Somewhat formal; 〜に加え is the written form. The added item is often marked with も."
   },
   {
     "pattern": "〜をめぐって",
+    "romaji": "o megutte",
     "level": "N2",
-    "meaning": "concerning; regarding; around",
-    "formation": "Noun + をめぐって",
+    "meaning": "over; concerning; surrounding (an issue of dispute)",
+    "formation": "Noun + をめぐって / Noun + をめぐる + Noun",
     "examples": [
-      { "ja": "環境問題をめぐって議論が続いている。", "en": "Discussion continues regarding environmental issues." },
-      { "ja": "遺産をめぐって争いが起きた。", "en": "A dispute arose over the inheritance." }
+      {"ja": "新しい空港の建設をめぐって、住民の意見が二つに分かれている。", "furigana": "{新|あたら}しい{空港|くうこう}の{建設|けんせつ}をめぐって、{住民|じゅうみん}の{意見|いけん}が{二|ふた}つに{分|わ}かれている。", "en": "Residents are divided over the construction of a new airport."},
+      {"ja": "父の遺産をめぐって、兄弟の間でもめごとが起きた。", "furigana": "{父|ちち}の{遺産|いさん}をめぐって、{兄弟|きょうだい}の{間|あいだ}でもめごとが{起|お}きた。", "en": "A dispute broke out between the siblings over their father's inheritance."},
+      {"ja": "首相の発言をめぐる議論は、今も続いている。", "furigana": "{首相|しゅしょう}の{発言|はつげん}をめぐる{議論|ぎろん}は、{今|いま}も{続|つづ}いている。", "en": "The debate surrounding the prime minister's remarks is still going on."}
     ],
-    "tags": ["topic", "controversy"]
+    "tags": ["topic", "relation"],
+    "notes": "The verb that follows is about debate, conflict or competition (議論する, 対立する, 争う). Unlike 〜について, it isn't used for simply explaining a topic."
   },
   {
-    "pattern": "〜を通じて",
+    "pattern": "〜を通じて / 〜を通して",
+    "reading": "〜をつうじて / 〜をとおして",
+    "romaji": "o tsuujite / o tooshite",
     "level": "N2",
-    "meaning": "through; by means of; throughout",
-    "formation": "Noun + を通じて",
+    "meaning": "through; via; by way of; throughout (a period)",
+    "formation": "Noun + を通じて / Noun + を通して",
     "examples": [
-      { "ja": "SNSを通じて知り合った。", "en": "We met through social media." },
-      { "ja": "一年を通じて暖かい気候だ。", "en": "The climate is warm throughout the year." }
+      {"ja": "共通の友人を通じて、今の妻と知り合った。", "furigana": "{共通|きょうつう}の{友人|ゆうじん}を{通|つう}じて、{今|いま}の{妻|つま}と{知|し}り{合|あ}った。", "en": "I got to know my wife through a mutual friend."},
+      {"ja": "ボランティア活動を通して、地域の人々とのつながりが深まった。", "furigana": "ボランティア{活動|かつどう}を{通|とお}して、{地域|ちいき}の{人々|ひとびと}とのつながりが{深|ふか}まった。", "en": "Through volunteer work, my ties with people in the community grew stronger."},
+      {"ja": "この地域は一年を通じて雨が少ない。", "furigana": "この{地域|ちいき}は{一|いち}{年|ねん}を{通|つう}じて{雨|あめ}が{少|すく}ない。", "en": "This region gets little rain throughout the year."}
     ],
-    "tags": ["means", "span"]
-  },
-  {
-    "pattern": "〜を通して",
-    "level": "N2",
-    "meaning": "through; by way of; throughout",
-    "formation": "Noun + を通して",
-    "examples": [
-      { "ja": "仕事を通して多くを学んだ。", "en": "I learned a lot through work." },
-      { "ja": "試験を通して、実力が分かる。", "en": "You can understand your ability through the exam." }
-    ],
-    "tags": ["means", "span"]
+    "tags": ["means", "time"],
+    "notes": "Largely interchangeable. 〜を通して tends to stress a deliberate process or experience; 〜を通じて is a little more formal and common with media, contacts and periods (一年を通じて)."
   },
   {
     "pattern": "〜をきっかけに",
+    "romaji": "o kikkake ni",
     "level": "N2",
-    "meaning": "triggered by; taking the opportunity of",
-    "formation": "Noun + をきっかけに",
+    "meaning": "taking the opportunity of; triggered by; with ... as the start",
+    "formation": "Noun + をきっかけに / Noun + をきっかけとして / Verb-plain + の + をきっかけに",
     "examples": [
-      { "ja": "留学をきっかけに、日本語が好きになった。", "en": "Studying abroad was the trigger that made me love Japanese." },
-      { "ja": "この本をきっかけに、歴史を勉強し始めた。", "en": "This book was the opportunity for me to start studying history." }
+      {"ja": "大学時代の留学をきっかけに、国際協力の仕事に興味を持つようになった。", "furigana": "{大学|だいがく}{時代|じだい}の{留学|りゅうがく}をきっかけに、{国際|こくさい}{協力|きょうりょく}の{仕事|しごと}に{興味|きょうみ}を{持|も}つようになった。", "en": "Studying abroad in college got me interested in international cooperation work."},
+      {"ja": "引っ越したのをきっかけに、家具をすべて買い替えた。", "furigana": "{引|ひ}っ{越|こ}したのをきっかけに、{家具|かぐ}をすべて{買|か}い{替|か}えた。", "en": "I took the move as a chance to replace all my furniture."}
     ],
-    "tags": ["opportunity", "trigger"]
+    "tags": ["reason", "change"],
+    "notes": "Marks an event that led to a new start or change. The formal equivalent 〜を契機に is common in writing."
   },
   {
     "pattern": "〜を除いて",
+    "reading": "〜をのぞいて",
+    "romaji": "o nozoite",
     "level": "N2",
-    "meaning": "except for; excluding",
-    "formation": "Noun + を除いて",
+    "meaning": "except; excluding; apart from",
+    "formation": "Noun + を除いて / Noun + を除き / Noun + を除く + Noun",
     "examples": [
-      { "ja": "日曜日を除いて、毎日開店している。", "en": "We are open every day except Sunday." },
-      { "ja": "彼を除いて、全員参加した。", "en": "Everyone participated except him." }
+      {"ja": "年末年始を除いて、図書館は毎日開いている。", "furigana": "{年末年始|ねんまつねんし}を{除|のぞ}いて、{図書館|としょかん}は{毎日|まいにち}{開|あ}いている。", "en": "The library is open every day except during the New Year holidays."},
+      {"ja": "一部の地域を除き、明日は全国的に晴れるでしょう。", "furigana": "{一部|いちぶ}の{地域|ちいき}を{除|のぞ}き、{明日|あした}は{全国|ぜんこく}{的|てき}に{晴|は}れるでしょう。", "en": "Except for some areas, it will be sunny nationwide tomorrow."},
+      {"ja": "この件について知っているのは、私を除いて三人しかいない。", "furigana": "この{件|けん}について{知|し}っているのは、{私|わたし}を{除|のぞ}いて{三|さん}{人|にん}しかいない。", "en": "Apart from me, only three people know about this."}
     ],
-    "tags": ["exception"]
-  },
-  {
-    "pattern": "〜を禁じえない",
-    "level": "N2",
-    "meaning": "cannot help feeling; unable to restrain",
-    "formation": "Noun + を禁じえない",
-    "examples": [
-      { "ja": "その結果には驚きを禁じえない。", "en": "I cannot help but be surprised by that result." },
-      { "ja": "彼の努力には感動を禁じえない。", "en": "I cannot help being moved by his efforts." }
-    ],
-    "tags": ["emotion", "formal"]
-  },
-  {
-    "pattern": "〜を余儀なくされる",
-    "level": "N2",
-    "meaning": "be forced to; be compelled to",
-    "formation": "Noun + を余儀なくされる",
-    "examples": [
-      { "ja": "悪天候で中止を余儀なくされた。", "en": "We were forced to cancel due to bad weather." },
-      { "ja": "予算削減で人員削減を余儀なくされた。", "en": "We were forced to reduce staff due to budget cuts." }
-    ],
-    "tags": ["compulsion", "formal"]
+    "tags": ["exclusion", "formal"],
+    "notes": "More formal than 〜以外. 〜を除き is the written form."
   },
   {
     "pattern": "〜かのようだ",
+    "romaji": "ka no you da",
     "level": "N2",
-    "meaning": "as if; just like",
-    "formation": "Verb-plain / i-adjective / na-adjective + かのようだ",
+    "meaning": "as if; as though (when it isn't really so)",
+    "formation": "Verb-plain / i-Adj + かのようだ / na-Adj + である + かのようだ / Noun + である + かのようだ",
     "examples": [
-      { "ja": "彼はまるで専門家かのように説明した。", "en": "He explained as if he were an expert." },
-      { "ja": "夢を見ているかのようだ。", "en": "It's as if I'm dreaming." }
+      {"ja": "彼はまるで何も知らないかのような顔をしていた。", "furigana": "{彼|かれ}はまるで{何|なに}も{知|し}らないかのような{顔|かお}をしていた。", "en": "He wore a look as if he knew nothing at all."},
+      {"ja": "三月なのに、真冬に戻ったかのような寒さだ。", "furigana": "{三月|さんがつ}なのに、{真冬|まふゆ}に{戻|もど}ったかのような{寒|さむ}さだ。", "en": "It's March, yet it's so cold it feels as if we'd gone back to midwinter."},
+      {"ja": "その記者は、うわさをまるで事実であるかのように報じた。", "furigana": "その{記者|きしゃ}は、うわさをまるで{事実|じじつ}であるかのように{報|ほう}じた。", "en": "The reporter reported the rumor as though it were fact."}
     ],
-    "tags": ["metaphor", "appearance"]
+    "tags": ["appearance", "written"],
+    "notes": "More literary than 〜ようだ and clearly signals that the comparison is not literally true. Often paired with まるで. Also 〜かのように / 〜かのような."
   },
   {
     "pattern": "〜かねない",
+    "romaji": "kanenai",
     "level": "N2",
-    "meaning": "might; there is a risk that",
+    "meaning": "could well; might (lead to something bad)",
     "formation": "Verb-stem + かねない",
     "examples": [
-      { "ja": "その話は誤解を招きかねない。", "en": "That story might cause misunderstanding." },
-      { "ja": "遅れたら、怒られかねない。", "en": "If I'm late, I might get scolded." }
+      {"ja": "そんな無理な運転をしていたら、大事故を起こしかねない。", "furigana": "そんな{無理|むり}な{運転|うんてん}をしていたら、{大|だい}{事故|じこ}を{起|お}こしかねない。", "en": "If you keep driving that recklessly, you could end up causing a serious accident."},
+      {"ja": "不用意な一言が、会社の信用を失うことにつながりかねない。", "furigana": "{不用意|ふようい}な{一言|ひとこと}が、{会社|かいしゃ}の{信用|しんよう}を{失|うしな}うことにつながりかねない。", "en": "A careless remark could end up costing the company its credibility."},
+      {"ja": "あの人なら、平気でうそをつきかねない。", "furigana": "あの{人|ひと}なら、{平気|へいき}でうそをつきかねない。", "en": "He's just the kind of person who might lie without batting an eye."}
     ],
-    "tags": ["risk", "possibility"]
+    "tags": ["possibility", "conjecture"],
+    "notes": "Only for undesirable outcomes. Despite the ない, the meaning is positive: 'there's a real risk that ...'. Don't confuse with 〜かねる (cannot)."
+  },
+  {
+    "pattern": "〜かねる",
+    "romaji": "kaneru",
+    "level": "N2",
+    "meaning": "cannot; be unable to (polite refusal); find it hard to",
+    "formation": "Verb-stem + かねる",
+    "examples": [
+      {"ja": "申し訳ございませんが、そのご質問にはお答えしかねます。", "furigana": "{申|もう}し{訳|わけ}ございませんが、そのご{質問|しつもん}にはお{答|こた}えしかねます。", "en": "I'm very sorry, but I'm unable to answer that question."},
+      {"ja": "個人情報に関するお問い合わせには、お電話では対応いたしかねます。", "furigana": "{個人|こじん}{情報|じょうほう}に{関|かん}するお{問|と}い{合|あ}わせには、お{電話|でんわ}では{対応|たいおう}いたしかねます。", "en": "We are unable to respond to inquiries about personal information by phone."},
+      {"ja": "彼のやり方には、どうしても賛成しかねる。", "furigana": "{彼|かれ}のやり{方|かた}には、どうしても{賛成|さんせい}しかねる。", "en": "I just can't bring myself to agree with his methods."}
+    ],
+    "tags": ["ability", "politeness", "formal"],
+    "notes": "A soft, formal way to decline, very common in customer service. It expresses reluctance or difficulty for the speaker, not physical inability."
   },
   {
     "pattern": "〜ずにはいられない",
+    "romaji": "zu ni wa irarenai",
     "level": "N2",
-    "meaning": "cannot help but; can't resist",
-    "formation": "Verb-negative (ない) + ずにはいられない",
+    "meaning": "can't help doing; can't resist doing",
+    "formation": "Verb-nai stem + ずにはいられない",
     "examples": [
-      { "ja": "面白くて、笑わずにはいられない。", "en": "It's so funny that I can't help laughing." },
-      { "ja": "彼の話を信じずにはいられなかった。", "en": "I couldn't help but believe his story." }
+      {"ja": "あまりにひどいニュースに、怒りを感じずにはいられなかった。", "furigana": "あまりにひどいニュースに、{怒|いか}りを{感|かん}じずにはいられなかった。", "en": "I couldn't help feeling angry at such terrible news."},
+      {"ja": "彼女の苦労話を聞いて、泣かずにはいられなかった。", "furigana": "{彼女|かのじょ}の{苦労|くろう}{話|ばなし}を{聞|き}いて、{泣|な}かずにはいられなかった。", "en": "Hearing about the hardships she'd been through, I couldn't help crying."},
+      {"ja": "このシリーズは、一度読み始めたら最後まで読まずにはいられない。", "furigana": "このシリーズは、{一度|いちど}{読|よ}み{始|はじ}めたら{最後|さいご}まで{読|よ}まずにはいられない。", "en": "Once you start this series, you can't stop until you've read it to the end."}
     ],
-    "tags": ["emotion", "compulsion"]
+    "tags": ["emotion", "emphasis"],
+    "notes": "する becomes せずにはいられない. 〜ないではいられない is a slightly more conversational equivalent. An inner urge, unlike 〜ざるを得ない (forced by circumstances)."
+  },
+  {
+    "pattern": "〜ざるを得ない",
+    "reading": "〜ざるをえない",
+    "romaji": "zaru o enai",
+    "level": "N2",
+    "meaning": "have no choice but to; cannot help but",
+    "formation": "Verb-nai stem + ざるを得ない",
+    "examples": [
+      {"ja": "予算が足りないので、計画を縮小せざるを得ない。", "furigana": "{予算|よさん}が{足|た}りないので、{計画|けいかく}を{縮小|しゅくしょう}せざるを{得|え}ない。", "en": "The budget is insufficient, so we have no choice but to scale back the plan."},
+      {"ja": "上司の命令だったので、気が進まなくても行かざるを得なかった。", "furigana": "{上司|じょうし}の{命令|めいれい}だったので、{気|き}が{進|すす}まなくても{行|い}かざるを{得|え}なかった。", "en": "It was my boss's order, so I had to go even though I didn't feel like it."},
+      {"ja": "彼の努力だけは認めざるを得ない。", "furigana": "{彼|かれ}の{努力|どりょく}だけは{認|みと}めざるを{得|え}ない。", "en": "I have to admit, at least, that he made an effort."}
+    ],
+    "tags": ["obligation", "formal"],
+    "notes": "Circumstances force an action the speaker doesn't really want to take. する becomes せざるを得ない. More formal than 〜しかない."
+  },
+  {
+    "pattern": "〜てはいられない",
+    "romaji": "te wa irarenai",
+    "level": "N2",
+    "meaning": "can't afford to (keep) doing; can't just",
+    "formation": "Verb-te + はいられない",
+    "examples": [
+      {"ja": "締め切りが迫っているので、のんびりしてはいられない。", "furigana": "{締|し}め{切|き}りが{迫|せま}っているので、のんびりしてはいられない。", "en": "The deadline is approaching, so I can't afford to take it easy."},
+      {"ja": "困っている人を見ると、黙ってはいられない性格だ。", "furigana": "{困|こま}っている{人|ひと}を{見|み}ると、{黙|だま}ってはいられない{性格|せいかく}だ。", "en": "I'm the type who can't stay quiet when I see someone in trouble."}
+    ],
+    "tags": ["negation", "necessity"],
+    "notes": "The situation doesn't allow one to stay in state A, so one feels pushed to act. Casual: 〜ちゃいられない / 〜てらんない."
+  },
+  {
+    "pattern": "〜ものか",
+    "romaji": "mono ka",
+    "level": "N2",
+    "meaning": "no way (will I); as if; I'll never",
+    "formation": "Verb-dict / i-Adj / na-Adj + な + ものか",
+    "examples": [
+      {"ja": "あんな失礼な店には、二度と行くものか。", "furigana": "あんな{失礼|しつれい}な{店|みせ}には、{二度|にど}と{行|い}くものか。", "en": "No way am I ever going to that rude shop again."},
+      {"ja": "一度や二度失敗したくらいで、諦めるもんか。", "furigana": "{一|いち}{度|ど}や{二|に}{度|ど}{失敗|しっぱい}したくらいで、{諦|あきら}めるもんか。", "en": "As if I'd give up just because I failed once or twice."},
+      {"ja": "あの人の気持ちなんて、君に分かるものか。", "furigana": "あの{人|ひと}の{気持|きも}ちなんて、{君|きみ}に{分|わ}かるものか。", "en": "As if you could understand how she feels."}
+    ],
+    "tags": ["negation", "emphasis", "emotion"],
+    "notes": "Strong emotional denial or refusal; not a real question. Conversational form: 〜もんか; polite/feminine: 〜ものですか."
+  },
+  {
+    "pattern": "〜ものの",
+    "romaji": "mono no",
+    "level": "N2",
+    "meaning": "although; even though (but the expected result doesn't follow)",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / na-Adj + である / Noun + である + ものの",
+    "examples": [
+      {"ja": "免許は取ったものの、怖くてまだ一度も運転していない。", "furigana": "{免許|めんきょ}は{取|と}ったものの、{怖|こわ}くてまだ{一|いち}{度|ど}も{運転|うんてん}していない。", "en": "Although I got my license, I'm too scared and still haven't driven once."},
+      {"ja": "新しい制度は導入されたものの、十分に活用されていないのが現状だ。", "furigana": "{新|あたら}しい{制度|せいど}は{導入|どうにゅう}されたものの、{十分|じゅうぶん}に{活用|かつよう}されていないのが{現状|げんじょう}だ。", "en": "Although the new system has been introduced, the reality is that it isn't being fully used."},
+      {"ja": "この部屋は駅から近いものの、日当たりが悪いのが難点だ。", "furigana": "この{部屋|へや}は{駅|えき}から{近|ちか}いものの、{日当|ひあ}たりが{悪|わる}いのが{難点|なんてん}だ。", "en": "This apartment is close to the station, but its drawback is that it gets little sunlight."}
+    ],
+    "tags": ["concession", "written"],
+    "notes": "Admits the first fact, then says things didn't go as it would suggest. More written than 〜けれども."
+  },
+  {
+    "pattern": "〜ものなら",
+    "romaji": "mono nara",
+    "level": "N2",
+    "meaning": "if (it were possible); if only one could",
+    "formation": "Verb-dict (potential form) + ものなら",
+    "examples": [
+      {"ja": "できるものなら、学生時代に戻ってもう一度やり直したい。", "furigana": "できるものなら、{学生|がくせい}{時代|じだい}に{戻|もど}ってもう{一度|いちど}やり{直|なお}したい。", "en": "If only I could, I'd go back to my student days and do it all over again."},
+      {"ja": "行けるものなら行きたいが、その日はどうしても仕事を休めない。", "furigana": "{行|い}けるものなら{行|い}きたいが、その{日|ひ}はどうしても{仕事|しごと}を{休|やす}めない。", "en": "I'd go if I could, but I just can't take that day off work."},
+      {"ja": "止められるものなら止めてみろ。", "furigana": "{止|と}められるものなら{止|と}めてみろ。", "en": "Stop me if you can."}
+    ],
+    "tags": ["condition", "wish"],
+    "notes": "For something hard or impossible to do; the main clause is often 〜たい or a challenge. Don't confuse with N1 〜(よ)うものなら ('if one dared to ..., something bad would happen')."
+  },
+  {
+    "pattern": "〜くらいなら / 〜ぐらいなら",
+    "romaji": "kurai nara / gurai nara",
+    "level": "N2",
+    "meaning": "rather than; if it comes to (doing that), I'd rather",
+    "formation": "Verb-dict + くらいなら / Verb-dict + ぐらいなら",
+    "examples": [
+      {"ja": "あんな人に頭を下げるくらいなら、会社を辞めたほうがましだ。", "furigana": "あんな{人|ひと}に{頭|あたま}を{下|さ}げるくらいなら、{会社|かいしゃ}を{辞|や}めたほうがましだ。", "en": "I'd rather quit my job than bow my head to someone like him."},
+      {"ja": "途中で投げ出すぐらいなら、最初から引き受けないほうがいい。", "furigana": "{途中|とちゅう}で{投|な}げ{出|だ}すぐらいなら、{最初|さいしょ}から{引|ひ}き{受|う}けないほうがいい。", "en": "If you're going to give up halfway, it's better not to take it on in the first place."}
+    ],
+    "tags": ["comparison", "condition"],
+    "notes": "A is something the speaker strongly dislikes; B is the lesser evil or better choice, often with 〜ほうがいい / 〜ほうがましだ."
+  },
+  {
+    "pattern": "〜ものがある",
+    "romaji": "mono ga aru",
+    "level": "N2",
+    "meaning": "there is something (about it that is) ...; it really is",
+    "formation": "Verb-dict / i-Adj / na-Adj + な + ものがある",
+    "examples": [
+      {"ja": "この画家の初期の作品には、見る人の心を強く打つものがある。", "furigana": "この{画家|がか}の{初期|しょき}の{作品|さくひん}には、{見|み}る{人|ひと}の{心|こころ}を{強|つよ}く{打|う}つものがある。", "en": "There is something in this painter's early works that deeply moves the viewer."},
+      {"ja": "毎日二時間かけて通勤するのは、正直つらいものがある。", "furigana": "{毎日|まいにち}{二|に}{時間|じかん}かけて{通勤|つうきん}するのは、{正直|しょうじき}つらいものがある。", "en": "Honestly, commuting two hours every day is pretty tough."},
+      {"ja": "若い選手たちの成長ぶりには、目を見張るものがある。", "furigana": "{若|わか}い{選手|せんしゅ}たちの{成長|せいちょう}ぶりには、{目|め}を{見張|みは}るものがある。", "en": "The progress of the young players is truly remarkable."}
+    ],
+    "tags": ["emotion", "emphasis"],
+    "notes": "Expresses the speaker's strong impression of a quality sensed in something. It's an evaluation, not a statement about literal existence."
+  },
+  {
+    "pattern": "〜ことか",
+    "romaji": "koto ka",
+    "level": "N2",
+    "meaning": "how ...!; how much ...!",
+    "formation": "Question word + … + Verb-plain / i-Adj / na-Adj + な + ことか",
+    "examples": [
+      {"ja": "この日が来るのを、どれほど待ち望んだことか。", "furigana": "この{日|ひ}が{来|く}るのを、どれほど{待|ま}ち{望|のぞ}んだことか。", "en": "How long I've waited for this day to come!"},
+      {"ja": "一人暮らしを始めて、家族のありがたさを何度感じたことか。", "furigana": "{一人暮|ひとりぐ}らしを{始|はじ}めて、{家族|かぞく}のありがたさを{何|なん}{度|ど}{感|かん}じたことか。", "en": "Since I started living alone, I can't count how many times I've felt grateful for my family."},
+      {"ja": "無事だと聞いて、どんなに安心したことか。", "furigana": "{無事|ぶじ}だと{聞|き}いて、どんなに{安心|あんしん}したことか。", "en": "What a relief it was to hear you were safe!"}
+    ],
+    "tags": ["exclamation", "emotion", "emphasis"],
+    "notes": "Usually paired with どんなに, どれほど, 何度, etc. Not a real question; it conveys deep feeling. Slightly written or dramatic in tone."
+  },
+  {
+    "pattern": "〜ことに（は）",
+    "romaji": "koto ni wa",
+    "level": "N2",
+    "meaning": "(emotion)-ly; what is (surprising, sad, etc.) is that",
+    "formation": "Verb-ta / i-Adj / na-Adj + な + ことに（は）",
+    "examples": [
+      {"ja": "驚いたことに、彼は会社を辞めてパン屋を開いたそうだ。", "furigana": "{驚|おどろ}いたことに、{彼|かれ}は{会社|かいしゃ}を{辞|や}めてパン{屋|や}を{開|ひら}いたそうだ。", "en": "Surprisingly, I heard he quit his company and opened a bakery."},
+      {"ja": "残念なことに、その美しい建物は来月取り壊されることになった。", "furigana": "{残念|ざんねん}なことに、その{美|うつく}しい{建物|たてもの}は{来月|らいげつ}{取|と}り{壊|こわ}されることになった。", "en": "Sadly, it has been decided that the beautiful building will be torn down next month."},
+      {"ja": "うれしいことには、応募作品が予想の倍以上も集まった。", "furigana": "うれしいことには、{応募|おうぼ}{作品|さくひん}が{予想|よそう}の{倍|ばい}{以上|いじょう}も{集|あつ}まった。", "en": "To our delight, we received more than twice as many entries as expected."}
+    ],
+    "tags": ["emotion", "written"],
+    "notes": "An emotion word (驚いた, 残念な, うれしい, 不思議な) states the speaker's feeling before giving the fact. Fairly written."
+  },
+  {
+    "pattern": "〜ことだから",
+    "romaji": "koto dakara",
+    "level": "N2",
+    "meaning": "knowing (someone); since it's (someone), surely",
+    "formation": "Noun + の + ことだから",
+    "examples": [
+      {"ja": "几帳面な彼のことだから、書類はもう準備してあるだろう。", "furigana": "{几帳面|きちょうめん}な{彼|かれ}のことだから、{書類|しょるい}はもう{準備|じゅんび}してあるだろう。", "en": "Knowing how meticulous he is, he's probably got the documents ready already."},
+      {"ja": "あの子のことだから、きっとどこかで寄り道をしているんだよ。", "furigana": "あの{子|こ}のことだから、きっとどこかで{寄|よ}り{道|みち}をしているんだよ。", "en": "Knowing that kid, I bet they've stopped off somewhere on the way."}
+    ],
+    "tags": ["reason", "conjecture"],
+    "notes": "From what the speaker knows of a person's character, it leads to a guess about their behavior. Usually followed by だろう, きっと or に違いない."
+  },
+  {
+    "pattern": "〜ことなく",
+    "romaji": "koto naku",
+    "level": "N2",
+    "meaning": "without (doing); without ever",
+    "formation": "Verb-dict + ことなく",
+    "examples": [
+      {"ja": "彼は三十年間、一日も休むことなく店を開け続けた。", "furigana": "{彼|かれ}は{三|さん}{十|じゅう}{年間|ねんかん}、{一|いち}{日|にち}も{休|やす}むことなく{店|みせ}を{開|あ}け{続|つづ}けた。", "en": "For thirty years, he kept his shop open without taking a single day off."},
+      {"ja": "失敗を恐れることなく、新しいことに挑戦してほしい。", "furigana": "{失敗|しっぱい}を{恐|おそ}れることなく、{新|あたら}しいことに{挑戦|ちょうせん}してほしい。", "en": "I want you to take on new challenges without fearing failure."}
+    ],
+    "tags": ["negation", "manner", "written"],
+    "notes": "A written equivalent of 〜ないで / 〜ずに, often implying that something one might expect to happen did not."
+  },
+  {
+    "pattern": "〜ことから",
+    "romaji": "koto kara",
+    "level": "N2",
+    "meaning": "from the fact that; because; judging from",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / na-Adj + である / Noun + である + ことから",
+    "examples": [
+      {"ja": "この坂は、昔から桜の名所であることから「桜坂」と呼ばれている。", "furigana": "この{坂|さか}は、{昔|むかし}から{桜|さくら}の{名所|めいしょ}であることから「{桜|さくら}{坂|ざか}」と{呼|よ}ばれている。", "en": "This slope is called 'Sakura-zaka' because it has long been a famous spot for cherry blossoms."},
+      {"ja": "現場に靴の跡が残っていたことから、犯人は外から侵入したと考えられる。", "furigana": "{現場|げんば}に{靴|くつ}の{跡|あと}が{残|のこ}っていたことから、{犯人|はんにん}は{外|そと}から{侵入|しんにゅう}したと{考|かんが}えられる。", "en": "Given the footprints left at the scene, the culprit is thought to have entered from outside."}
+    ],
+    "tags": ["reason", "written"],
+    "notes": "Gives the evidence or origin behind a name, judgment or conclusion. Common in explanations of place names and in reports."
+  },
+  {
+    "pattern": "〜ないことには",
+    "romaji": "nai koto ni wa",
+    "level": "N2",
+    "meaning": "unless; if ... not (then it can't happen)",
+    "formation": "Verb-nai / i-Adj-ku + ない / na-Adj + でない / Noun + でない + ことには",
+    "examples": [
+      {"ja": "実際に会って話してみないことには、どんな人か分からない。", "furigana": "{実際|じっさい}に{会|あ}って{話|はな}してみないことには、どんな{人|ひと}か{分|わ}からない。", "en": "You can't tell what someone is like unless you actually meet and talk to them."},
+      {"ja": "社長の許可が出ないことには、このプロジェクトは始められない。", "furigana": "{社長|しゃちょう}の{許可|きょか}が{出|で}ないことには、このプロジェクトは{始|はじ}められない。", "en": "We can't start this project unless the president gives permission."}
+    ],
+    "tags": ["condition", "negation"],
+    "notes": "The main clause is negative (分からない, できない, 始まらない): without A, B can't happen. More emphatic than 〜なければ."
+  },
+  {
+    "pattern": "〜ことは〜が",
+    "romaji": "koto wa ... ga",
+    "level": "N2",
+    "meaning": "it's true that ..., but; (I) do ..., but",
+    "formation": "Verb-plain + ことは + Verb-plain + が / i-Adj + ことは + i-Adj + が / na-Adj + な + ことは + na-Adj + だ + が",
+    "examples": [
+      {"ja": "あの映画、見たことは見たけど、途中で寝てしまった。", "furigana": "あの{映画|えいが}、{見|み}たことは{見|み}たけど、{途中|とちゅう}で{寝|ね}てしまった。", "en": "I did watch that movie, but I fell asleep halfway through."},
+      {"ja": "この部屋は広いことは広いが、駅からかなり遠い。", "furigana": "この{部屋|へや}は{広|ひろ}いことは{広|ひろ}いが、{駅|えき}からかなり{遠|とお}い。", "en": "This apartment is spacious, sure, but it's quite far from the station."},
+      {"ja": "彼の説明は、分かることは分かるが、納得はできない。", "furigana": "{彼|かれ}の{説明|せつめい}は、{分|わ}かることは{分|わ}かるが、{納得|なっとく}はできない。", "en": "I do understand his explanation, but I'm not convinced."}
+    ],
+    "tags": ["concession", "emphasis"],
+    "notes": "The same word is repeated to admit something only partly before adding a reservation. けど replaces が in speech."
+  },
+  {
+    "pattern": "〜あげく",
+    "romaji": "ageku",
+    "level": "N2",
+    "meaning": "after (a long, troublesome process); in the end",
+    "formation": "Verb-ta + あげく / Noun + の + あげく",
+    "examples": [
+      {"ja": "さんざん迷ったあげく、結局どちらも買わなかった。", "furigana": "さんざん{迷|まよ}ったあげく、{結局|けっきょく}どちらも{買|か}わなかった。", "en": "After agonizing over it for ages, in the end I didn't buy either."},
+      {"ja": "長時間の話し合いのあげく、計画は白紙に戻された。", "furigana": "{長時間|ちょうじかん}の{話|はな}し{合|あ}いのあげく、{計画|けいかく}は{白紙|はくし}に{戻|もど}された。", "en": "After hours of discussion, the plan was scrapped altogether."},
+      {"ja": "彼は無理を重ねたあげく、体を壊して入院してしまった。", "furigana": "{彼|かれ}は{無理|むり}を{重|かさ}ねたあげく、{体|からだ}を{壊|こわ}して{入院|にゅういん}してしまった。", "en": "After pushing himself too hard for too long, he ruined his health and ended up in the hospital."}
+    ],
+    "tags": ["result", "sequence"],
+    "notes": "The result is usually negative or disappointing. 〜末(に) is neutral and can end well; あげく stresses frustration. あげくの果てに is an intensified form."
+  },
+  {
+    "pattern": "〜あまり（に）",
+    "romaji": "amari ni",
+    "level": "N2",
+    "meaning": "so much that; out of excessive; because of too much",
+    "formation": "Verb-dict / Verb-ta / na-Adj + な / Noun + の + あまり（に）",
+    "examples": [
+      {"ja": "彼女は緊張のあまり、スピーチの内容を忘れてしまった。", "furigana": "{彼女|かのじょ}は{緊張|きんちょう}のあまり、スピーチの{内容|ないよう}を{忘|わす}れてしまった。", "en": "She was so nervous that she forgot what she was going to say in her speech."},
+      {"ja": "子どもの将来を心配するあまり、親が口を出しすぎることがある。", "furigana": "{子|こ}どもの{将来|しょうらい}を{心配|しんぱい}するあまり、{親|おや}が{口|くち}を{出|だ}しすぎることがある。", "en": "Out of excessive worry for their children's future, parents sometimes interfere too much."},
+      {"ja": "うれしさのあまり、思わず涙が出た。", "furigana": "うれしさのあまり、{思|おも}わず{涙|なみだ}が{出|で}た。", "en": "I was so happy that tears came to my eyes."}
+    ],
+    "tags": ["degree", "result", "emotion"],
+    "notes": "An extreme degree of a feeling or state leads to an unusual, often unwanted result. Mostly with emotion nouns (緊張, 心配, 驚き, 悲しみ)."
+  },
+  {
+    "pattern": "〜上（に）",
+    "reading": "〜うえ（に）",
+    "romaji": "ue ni",
+    "level": "N2",
+    "meaning": "besides; on top of; in addition to",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / Noun + である + 上（に）",
+    "examples": [
+      {"ja": "あのレストランは料理がおいしい上に、値段も手頃だ。", "furigana": "あのレストランは{料理|りょうり}がおいしい{上|うえ}に、{値段|ねだん}も{手頃|てごろ}だ。", "en": "That restaurant has delicious food, and on top of that, the prices are reasonable."},
+      {"ja": "道に迷った上に、雨まで降ってきた。", "furigana": "{道|みち}に{迷|まよ}った{上|うえ}に、{雨|あめ}まで{降|ふ}ってきた。", "en": "Not only did we get lost, it started raining too."},
+      {"ja": "彼女は仕事が速い上、ミスもほとんどない。", "furigana": "{彼女|かのじょ}は{仕事|しごと}が{速|はや}い{上|うえ}、ミスもほとんどない。", "en": "She works fast, and she hardly makes any mistakes either."}
+    ],
+    "tags": ["addition"],
+    "notes": "Adds a second point of the same kind (good + good, bad + bad). に may be dropped in writing. It isn't normally followed by a command or request."
+  },
+  {
+    "pattern": "〜上で",
+    "reading": "〜うえで",
+    "romaji": "ue de",
+    "level": "N2",
+    "meaning": "after (doing), upon; in (doing), when it comes to",
+    "formation": "Verb-ta + 上で / Noun + の + 上で / Verb-dict + 上で",
+    "examples": [
+      {"ja": "家族とよく相談した上で、お返事いたします。", "furigana": "{家族|かぞく}とよく{相談|そうだん}した{上|うえ}で、お{返事|へんじ}いたします。", "en": "I'll give you my answer after discussing it carefully with my family."},
+      {"ja": "内容を確認した上で、契約書に署名してください。", "furigana": "{内容|ないよう}を{確認|かくにん}した{上|うえ}で、{契約|けいやく}{書|しょ}に{署名|しょめい}してください。", "en": "Please sign the contract after checking its contents."},
+      {"ja": "外国語を学ぶ上で大切なのは、間違いを恐れないことだ。", "furigana": "{外国|がいこく}{語|ご}を{学|まな}ぶ{上|うえ}で{大切|たいせつ}なのは、{間違|まちが}いを{恐|おそ}れないことだ。", "en": "What's important in learning a foreign language is not being afraid of mistakes."}
+    ],
+    "tags": ["sequence", "standpoint"],
+    "notes": "Verb-ta + 上で: do A first, then B on that basis. Verb-dict + 上で: 'in the process of / for the purpose of A'. Business writing often shortens it to ご確認の上."
+  },
+  {
+    "pattern": "〜以上（は）",
+    "reading": "〜いじょう（は）",
+    "romaji": "ijou wa",
+    "level": "N2",
+    "meaning": "since; now that; as long as",
+    "formation": "Verb-plain / na-Adj + である / Noun + である + 以上（は）",
+    "examples": [
+      {"ja": "引き受けた以上は、最後まで責任を持ってやり遂げるつもりだ。", "furigana": "{引|ひ}き{受|う}けた{以上|いじょう}は、{最後|さいご}まで{責任|せきにん}を{持|も}ってやり{遂|と}げるつもりだ。", "en": "Now that I've taken it on, I intend to see it through responsibly to the end."},
+      {"ja": "プロである以上、言い訳は許されない。", "furigana": "プロである{以上|いじょう}、{言|い}い{訳|わけ}は{許|ゆる}されない。", "en": "As long as you're a professional, excuses aren't acceptable."},
+      {"ja": "証拠がない以上、彼を犯人と決めつけることはできない。", "furigana": "{証拠|しょうこ}がない{以上|いじょう}、{彼|かれ}を{犯人|はんにん}と{決|き}めつけることはできない。", "en": "Since there's no evidence, we can't conclude that he's the culprit."}
+    ],
+    "tags": ["reason", "obligation"],
+    "notes": "From a given situation, draws an obligation, resolve or firm judgment. Near-synonym of 〜からには; 以上は sounds more formal and logical, からには more like personal resolve."
+  },
+  {
+    "pattern": "〜からには",
+    "romaji": "kara ni wa",
+    "level": "N2",
+    "meaning": "now that; since (having done/being ..., one must)",
+    "formation": "Verb-plain / Noun + である + からには",
+    "examples": [
+      {"ja": "オリンピックに出るからには、メダルを狙いたい。", "furigana": "オリンピックに{出|で}るからには、メダルを{狙|ねら}いたい。", "en": "Since I'm competing in the Olympics, I want to go for a medal."},
+      {"ja": "自分で決めたからには、途中で投げ出すわけにはいかない。", "furigana": "{自分|じぶん}で{決|き}めたからには、{途中|とちゅう}で{投|な}げ{出|だ}すわけにはいかない。", "en": "Since I decided on this myself, I can't just give up halfway."}
+    ],
+    "tags": ["reason", "intention"],
+    "notes": "Expresses resolve: having reached this situation, one should see it through. Often ends with 〜たい, 〜つもりだ, 〜なければならない. Compare 〜以上(は), which is more formal and neutral."
+  },
+  {
+    "pattern": "〜からこそ",
+    "romaji": "kara koso",
+    "level": "N2",
+    "meaning": "precisely because; it is because ... that",
+    "formation": "Verb-plain / i-Adj / na-Adj + だ / Noun + だ + からこそ",
+    "examples": [
+      {"ja": "君のことを思っているからこそ、厳しいことを言うんだ。", "furigana": "{君|きみ}のことを{思|おも}っているからこそ、{厳|きび}しいことを{言|い}うんだ。", "en": "It's precisely because I care about you that I'm being hard on you."},
+      {"ja": "苦しい時期があったからこそ、今の成功があるのだと思う。", "furigana": "{苦|くる}しい{時期|じき}があったからこそ、{今|いま}の{成功|せいこう}があるのだと{思|おも}う。", "en": "I think it's precisely because we went through hard times that we're successful now."},
+      {"ja": "小さな会社だからこそできるサービスもある。", "furigana": "{小|ちい}さな{会社|かいしゃ}だからこそできるサービスもある。", "en": "There are some services we can offer precisely because we're a small company."}
+    ],
+    "tags": ["reason", "emphasis"],
+    "notes": "Stresses that this reason, and no other, is the real one, often a reason the listener wouldn't expect. Frequently ends with 〜のだ."
+  },
+  {
+    "pattern": "〜からして",
+    "romaji": "kara shite",
+    "level": "N2",
+    "meaning": "judging from; (starting) even with; to begin with",
+    "formation": "Noun + からして",
+    "examples": [
+      {"ja": "空の様子からして、午後は雨になりそうだ。", "furigana": "{空|そら}の{様子|ようす}からして、{午後|ごご}は{雨|あめ}になりそうだ。", "en": "Judging from the look of the sky, it's likely to rain in the afternoon."},
+      {"ja": "あの店は、店員の態度からして感じが悪い。", "furigana": "あの{店|みせ}は、{店員|てんいん}の{態度|たいど}からして{感|かん}じが{悪|わる}い。", "en": "That shop is unpleasant, starting with the staff's attitude."},
+      {"ja": "彼の話は、最初の前提からして間違っている。", "furigana": "{彼|かれ}の{話|はなし}は、{最初|さいしょ}の{前提|ぜんてい}からして{間違|まちが}っている。", "en": "His argument is wrong right from its first premise."}
+    ],
+    "tags": ["standpoint", "emphasis"],
+    "notes": "Two uses: 'judging from X' (basis for a guess), and 'even X, let alone the rest', where one example stands for the whole, often critically."
+  },
+  {
+    "pattern": "〜からすると / 〜からすれば",
+    "romaji": "kara suru to / kara sureba",
+    "level": "N2",
+    "meaning": "judging from; from the standpoint of",
+    "formation": "Noun + からすると / Noun + からすれば",
+    "examples": [
+      {"ja": "あの話し方からすると、彼は関西の出身だろう。", "furigana": "あの{話|はな}し{方|かた}からすると、{彼|かれ}は{関西|かんさい}の{出身|しゅっしん}だろう。", "en": "Judging from the way he talks, he's probably from the Kansai area."},
+      {"ja": "親からすれば、子どもはいくつになっても子どもだ。", "furigana": "{親|おや}からすれば、{子|こ}どもはいくつになっても{子|こ}どもだ。", "en": "From a parent's point of view, children are children no matter how old they get."}
+    ],
+    "tags": ["standpoint", "conjecture"],
+    "notes": "Gives either the evidence for a judgment or the viewpoint of a person. Close to 〜から見ると; unlike 〜からいうと, it can take a person."
+  },
+  {
+    "pattern": "〜から見ると / 〜から見れば",
+    "reading": "〜からみると / 〜からみれば",
+    "romaji": "kara miru to / kara mireba",
+    "level": "N2",
+    "meaning": "from the point of view of; judging from; seen from",
+    "formation": "Noun + から見ると / Noun + から見れば",
+    "examples": [
+      {"ja": "外国人から見ると、日本の習慣には不思議なものが多いらしい。", "furigana": "{外国|がいこく}{人|じん}から{見|み}ると、{日本|にほん}の{習慣|しゅうかん}には{不思議|ふしぎ}なものが{多|おお}いらしい。", "en": "Apparently, from a foreigner's point of view, many Japanese customs seem strange."},
+      {"ja": "今の成績から見れば、第一志望の合格は十分可能だ。", "furigana": "{今|いま}の{成績|せいせき}から{見|み}れば、{第|だい}{一|いち}{志望|しぼう}の{合格|ごうかく}は{十分|じゅうぶん}{可能|かのう}だ。", "en": "Judging from your current grades, getting into your first-choice school is quite possible."}
+    ],
+    "tags": ["standpoint"],
+    "notes": "Looks at something from a person's position or from given evidence. 〜から見て and 〜から見ても are also common."
+  },
+  {
+    "pattern": "〜からいうと / 〜からいって",
+    "romaji": "kara iu to / kara itte",
+    "level": "N2",
+    "meaning": "in terms of; from the standpoint of; judging by",
+    "formation": "Noun + からいうと / Noun + からいって",
+    "examples": [
+      {"ja": "立地からいうと、駅前のマンションのほうが便利だ。", "furigana": "{立地|りっち}からいうと、{駅前|えきまえ}のマンションのほうが{便利|べんり}だ。", "en": "In terms of location, the apartment in front of the station is more convenient."},
+      {"ja": "これまでの経験からいって、この計画はうまくいかないと思う。", "furigana": "これまでの{経験|けいけん}からいって、この{計画|けいかく}はうまくいかないと{思|おも}う。", "en": "Judging from past experience, I don't think this plan will work."}
+    ],
+    "tags": ["standpoint"],
+    "notes": "The noun is a criterion or viewpoint (立場, 経験, 値段), not a person: say 親からすると, not ×親からいうと. 〜からいえば is also used."
+  },
+  {
+    "pattern": "〜際（に）",
+    "reading": "〜さい（に）",
+    "romaji": "sai ni",
+    "level": "N2",
+    "meaning": "when; at the time of; on the occasion of",
+    "formation": "Verb-dict / Verb-ta / Noun + の + 際（に）",
+    "examples": [
+      {"ja": "お降りの際は、お忘れ物のないようご注意ください。", "furigana": "お{降|ふ}りの{際|さい}は、お{忘|わす}れ{物|もの}のないようご{注意|ちゅうい}ください。", "en": "When getting off, please make sure you don't leave anything behind."},
+      {"ja": "以前京都を訪れた際に、この寺にも立ち寄った。", "furigana": "{以前|いぜん}{京都|きょうと}を{訪|おとず}れた{際|さい}に、この{寺|てら}にも{立|た}ち{寄|よ}った。", "en": "When I visited Kyoto before, I also stopped by this temple."},
+      {"ja": "パスポートを申請する際には、写真と本人確認書類が必要です。", "furigana": "パスポートを{申請|しんせい}する{際|さい}には、{写真|しゃしん}と{本人|ほんにん}{確認|かくにん}{書類|しょるい}が{必要|ひつよう}です。", "en": "When you apply for a passport, you need a photo and proof of identity."}
+    ],
+    "tags": ["time", "formal"],
+    "notes": "A formal version of 〜とき, common in announcements and instructions. Unlike 〜に際して, it's fine for everyday occasions."
+  },
+  {
+    "pattern": "〜次第",
+    "reading": "〜しだい",
+    "romaji": "shidai",
+    "level": "N2",
+    "meaning": "as soon as (then immediately)",
+    "formation": "Verb-stem + 次第 / Noun + 次第",
+    "examples": [
+      {"ja": "詳しい日程が決まり次第、皆様にご連絡いたします。", "furigana": "{詳|くわ}しい{日程|にってい}が{決|き}まり{次第|しだい}、{皆様|みなさま}にご{連絡|れんらく}いたします。", "en": "We will contact everyone as soon as the detailed schedule is decided."},
+      {"ja": "資料が届き次第、内容を確認してお返事します。", "furigana": "{資料|しりょう}が{届|とど}き{次第|しだい}、{内容|ないよう}を{確認|かくにん}してお{返事|へんじ}します。", "en": "As soon as the materials arrive, I'll check them and get back to you."},
+      {"ja": "定員になり次第、受付を締め切らせていただきます。", "furigana": "{定員|ていいん}になり{次第|しだい}、{受付|うけつけ}を{締|し}め{切|き}らせていただきます。", "en": "Registration will close as soon as capacity is reached."}
+    ],
+    "tags": ["time", "sequence", "formal"],
+    "notes": "Formal, for a planned future action that follows right after A (contacting, starting). Not used when the main clause is in the past. Compare 〜次第で (depending on)."
+  },
+  {
+    "pattern": "〜次第だ / 〜次第で",
+    "reading": "〜しだいだ / 〜しだいで",
+    "romaji": "shidai da / shidai de",
+    "level": "N2",
+    "meaning": "depending on; it depends on",
+    "formation": "Noun + 次第だ / Noun + 次第で / Noun + 次第では",
+    "examples": [
+      {"ja": "合格できるかどうかは、これからの努力次第だ。", "furigana": "{合格|ごうかく}できるかどうかは、これからの{努力|どりょく}{次第|しだい}だ。", "en": "Whether you pass depends on your efforts from now on."},
+      {"ja": "天気次第で、明日の予定を変えるかもしれない。", "furigana": "{天気|てんき}{次第|しだい}で、{明日|あした}の{予定|よてい}を{変|か}えるかもしれない。", "en": "Depending on the weather, we may change tomorrow's plans."},
+      {"ja": "考え方次第では、失敗も貴重な経験になる。", "furigana": "{考|かんが}え{方|かた}{次第|しだい}では、{失敗|しっぱい}も{貴重|きちょう}な{経験|けいけん}になる。", "en": "Depending on how you look at it, even failure can be a valuable experience."}
+    ],
+    "tags": ["condition", "relation"],
+    "notes": "The outcome is decided by A. 〜次第では points to one possible outcome among several."
+  },
+  {
+    "pattern": "〜末（に）",
+    "reading": "〜すえ（に）",
+    "romaji": "sue ni",
+    "level": "N2",
+    "meaning": "after (a long process of); finally, at the end of",
+    "formation": "Verb-ta + 末（に） / Noun + の + 末（に）",
+    "examples": [
+      {"ja": "半年にわたる交渉の末、両社はようやく合意に達した。", "furigana": "{半年|はんとし}にわたる{交渉|こうしょう}の{末|すえ}、{両社|りょうしゃ}はようやく{合意|ごうい}に{達|たっ}した。", "en": "After six months of negotiations, the two companies finally reached an agreement."},
+      {"ja": "散々悩んだ末に、彼は留学をあきらめることにした。", "furigana": "{散々|さんざん}{悩|なや}んだ{末|すえ}に、{彼|かれ}は{留学|りゅうがく}をあきらめることにした。", "en": "After much agonizing, he decided to give up studying abroad."},
+      {"ja": "試行錯誤の末に完成したのが、この新しいエンジンだ。", "furigana": "{試行錯誤|しこうさくご}の{末|すえ}に{完成|かんせい}したのが、この{新|あたら}しいエンジンだ。", "en": "What we finally completed after much trial and error is this new engine."}
+    ],
+    "tags": ["result", "sequence", "written"],
+    "notes": "Neutral: the outcome may be good or bad and is often a decision or conclusion. Use 〜あげく when the result is negative or frustrating."
+  },
+  {
+    "pattern": "〜たところで",
+    "romaji": "ta tokoro de",
+    "level": "N2",
+    "meaning": "even if (it would be no use); no matter how much",
+    "formation": "Verb-ta + ところで",
+    "examples": [
+      {"ja": "今から急いだところで、終電には間に合わないだろう。", "furigana": "{今|いま}から{急|いそ}いだところで、{終電|しゅうでん}には{間|ま}に{合|あ}わないだろう。", "en": "Even if we hurry now, we probably won't make the last train."},
+      {"ja": "いくら説明したところで、あの人は聞く耳を持たない。", "furigana": "いくら{説明|せつめい}したところで、あの{人|ひと}は{聞|き}く{耳|みみ}を{持|も}たない。", "en": "No matter how much you explain, he just won't listen."},
+      {"ja": "失敗したところで、失うものは何もない。", "furigana": "{失敗|しっぱい}したところで、{失|うしな}うものは{何|なに}もない。", "en": "Even if we fail, we have nothing to lose."}
+    ],
+    "tags": ["concession", "condition"],
+    "notes": "The main clause says the effort is useless or the result wouldn't matter much. Often with いくら, どんなに, 今さら. Different from 〜たところ (when I did, I found)."
+  },
+  {
+    "pattern": "〜たところ",
+    "romaji": "ta tokoro",
+    "level": "N2",
+    "meaning": "when (I) did ..., (I found that); upon doing",
+    "formation": "Verb-ta + ところ",
+    "examples": [
+      {"ja": "駅の窓口で問い合わせたところ、その電車は運休しているとのことだった。", "furigana": "{駅|えき}の{窓口|まどぐち}で{問|と}い{合|あ}わせたところ、その{電車|でんしゃ}は{運休|うんきゅう}しているとのことだった。", "en": "When I asked at the station window, I was told that the train wasn't running."},
+      {"ja": "試しに新しい肥料を使ってみたところ、トマトがよく育った。", "furigana": "{試|ため}しに{新|あたら}しい{肥料|ひりょう}を{使|つか}ってみたところ、トマトがよく{育|そだ}った。", "en": "When I tried using a new fertilizer, the tomatoes grew very well."}
+    ],
+    "tags": ["sequence", "result"],
+    "notes": "Reports what turned out after an action, often a discovery. The result is a past fact beyond the speaker's control. More formal than 〜たら."
+  },
+  {
+    "pattern": "〜ばかりか",
+    "romaji": "bakari ka",
+    "level": "N2",
+    "meaning": "not only ... but also",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / Noun + ばかりか",
+    "examples": [
+      {"ja": "彼は約束の時間に遅れたばかりか、謝りもしなかった。", "furigana": "{彼|かれ}は{約束|やくそく}の{時間|じかん}に{遅|おく}れたばかりか、{謝|あやま}りもしなかった。", "en": "Not only was he late, he didn't even apologize."},
+      {"ja": "この薬は効果がないばかりか、副作用まであるそうだ。", "furigana": "この{薬|くすり}は{効果|こうか}がないばかりか、{副作用|ふくさよう}まであるそうだ。", "en": "I hear this medicine not only doesn't work but even has side effects."},
+      {"ja": "その歌手は国内ばかりか、アジア各国でも人気がある。", "furigana": "その{歌手|かしゅ}は{国内|こくない}ばかりか、アジア{各国|かっこく}でも{人気|にんき}がある。", "en": "That singer is popular not only in Japan but all over Asia."}
+    ],
+    "tags": ["addition", "emphasis"],
+    "notes": "Stronger than 〜だけでなく; the second item is often more surprising and marked by も, まで or さえ. Unlike 〜だけでなく, it isn't followed by commands or requests."
+  },
+  {
+    "pattern": "〜ばかりに",
+    "romaji": "bakari ni",
+    "level": "N2",
+    "meaning": "simply because; just because (with a bad result)",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / na-Adj + である / Noun + である + ばかりに",
+    "examples": [
+      {"ja": "確認を一つ怠ったばかりに、大きな損害を出してしまった。", "furigana": "{確認|かくにん}を{一|ひと}つ{怠|おこた}ったばかりに、{大|おお}きな{損害|そんがい}を{出|だ}してしまった。", "en": "Simply because I skipped one check, I ended up causing heavy losses."},
+      {"ja": "正直に話したばかりに、かえって彼女を傷つけてしまった。", "furigana": "{正直|しょうじき}に{話|はな}したばかりに、かえって{彼女|かのじょ}を{傷|きず}つけてしまった。", "en": "Just because I told the truth, I ended up hurting her instead."},
+      {"ja": "英語ができないばかりに、せっかくのチャンスを逃した。", "furigana": "{英語|えいご}ができないばかりに、せっかくのチャンスを{逃|のが}した。", "en": "Just because I can't speak English, I missed a great opportunity."}
+    ],
+    "tags": ["reason", "regret", "result"],
+    "notes": "The main clause is an unwanted result, often with regret. The set form 〜たいばかりに ('just because one wanted to') explains a strong motive."
+  },
+  {
+    "pattern": "〜ばかりだ",
+    "romaji": "bakari da",
+    "level": "N2",
+    "meaning": "keep (getting worse); only continue to",
+    "formation": "Verb-dict + ばかりだ",
+    "examples": [
+      {"ja": "駅前の商店街は、客が減るばかりだ。", "furigana": "{駅前|えきまえ}の{商店|しょうてん}{街|がい}は、{客|きゃく}が{減|へ}るばかりだ。", "en": "The shopping street in front of the station just keeps losing customers."},
+      {"ja": "薬を飲んでいるのに、症状は悪くなるばかりだ。", "furigana": "{薬|くすり}を{飲|の}んでいるのに、{症状|しょうじょう}は{悪|わる}くなるばかりだ。", "en": "Even though I'm taking medicine, my symptoms just keep getting worse."}
+    ],
+    "tags": ["change", "tendency"],
+    "notes": "Change continuing in one direction, almost always for the worse. 〜一方だ (N3) is similar but can also describe neutral or good trends."
+  },
+  {
+    "pattern": "〜はもちろん / 〜はもとより",
+    "romaji": "wa mochiron / wa motoyori",
+    "level": "N2",
+    "meaning": "not to mention; of course ... and also",
+    "formation": "Noun + はもちろん / Noun + はもとより",
+    "examples": [
+      {"ja": "この公園は、週末はもちろん平日も家族連れでにぎわう。", "furigana": "この{公園|こうえん}は、{週末|しゅうまつ}はもちろん{平日|へいじつ}も{家族|かぞく}{連|づ}れでにぎわう。", "en": "This park is busy with families on weekdays, not to mention weekends."},
+      {"ja": "この料理教室では、基本の調理法はもとより、盛り付けのコツまで教えてもらえる。", "furigana": "この{料理|りょうり}{教室|きょうしつ}では、{基本|きほん}の{調理|ちょうり}{法|ほう}はもとより、{盛|も}り{付|つ}けのコツまで{教|おし}えてもらえる。", "en": "At this cooking class, they teach you not only basic techniques but even tips on presentation."},
+      {"ja": "地震の後、電気はもちろん、水道もガスも止まってしまった。", "furigana": "{地震|じしん}の{後|あと}、{電気|でんき}はもちろん、{水道|すいどう}もガスも{止|と}まってしまった。", "en": "After the earthquake, the water and gas were cut off, not to mention the electricity."}
+    ],
+    "tags": ["addition", "emphasis"],
+    "notes": "A is the obvious case; B is added with も or まで. 〜はもとより is more formal and written than 〜はもちろん."
+  },
+  {
+    "pattern": "〜はともかく",
+    "romaji": "wa tomokaku",
+    "level": "N2",
+    "meaning": "setting aside; regardless of; whatever about",
+    "formation": "Noun + はともかく / Noun + はともかくとして",
+    "examples": [
+      {"ja": "見た目はともかく、味はなかなかいい。", "furigana": "{見|み}た{目|め}はともかく、{味|あじ}はなかなかいい。", "en": "Looks aside, it tastes pretty good."},
+      {"ja": "結果はともかくとして、最後まで諦めなかったことは評価したい。", "furigana": "{結果|けっか}はともかくとして、{最後|さいご}まで{諦|あきら}めなかったことは{評価|ひょうか}したい。", "en": "Whatever the result, I want to give you credit for not giving up until the end."}
+    ],
+    "tags": ["contrast", "topic"],
+    "notes": "Sets A aside to focus on B, which the speaker sees as more important. Compare 〜はさておき, used more to shelve a topic for now and move on."
+  },
+  {
+    "pattern": "〜はさておき",
+    "romaji": "wa sateoki",
+    "level": "N2",
+    "meaning": "leaving aside; putting aside (for now)",
+    "formation": "Noun + はさておき",
+    "examples": [
+      {"ja": "冗談はさておき、そろそろ本題に入りましょう。", "furigana": "{冗談|じょうだん}はさておき、そろそろ{本題|ほんだい}に{入|はい}りましょう。", "en": "Joking aside, let's get down to business."},
+      {"ja": "費用の問題はさておき、まずは実現可能かどうかを検討すべきだ。", "furigana": "{費用|ひよう}の{問題|もんだい}はさておき、まずは{実現|じつげん}{可能|かのう}かどうかを{検討|けんとう}すべきだ。", "en": "Setting aside the question of cost, we should first consider whether it's feasible."}
+    ],
+    "tags": ["topic", "contrast"],
+    "notes": "Often used to switch to the main point, as in 冗談はさておき or それはさておき. Slightly more formal than 〜はともかく."
+  },
+  {
+    "pattern": "〜反面 / 〜半面",
+    "reading": "〜はんめん / 〜はんめん",
+    "romaji": "hanmen",
+    "level": "N2",
+    "meaning": "on the other hand; while (it is ...)",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / na-Adj + である / Noun + である + 反面",
+    "examples": [
+      {"ja": "都会の暮らしは便利な反面、ストレスも多い。", "furigana": "{都会|とかい}の{暮|く}らしは{便利|べんり}な{反面|はんめん}、ストレスも{多|おお}い。", "en": "City life is convenient, but on the other hand it's also stressful."},
+      {"ja": "インターネットは情報を手軽に得られる反面、誤った情報も広まりやすい。", "furigana": "インターネットは{情報|じょうほう}を{手軽|てがる}に{得|え}られる{反面|はんめん}、{誤|あやま}った{情報|じょうほう}も{広|ひろ}まりやすい。", "en": "While the internet lets you get information easily, false information also spreads easily."},
+      {"ja": "彼は仕事には厳しい反面、部下思いの一面もある。", "furigana": "{彼|かれ}は{仕事|しごと}には{厳|きび}しい{反面|はんめん}、{部下|ぶか}{思|おも}いの{一|いち}{面|めん}もある。", "en": "Though he's strict about work, he also has a side that looks out for his staff."}
+    ],
+    "tags": ["contrast"],
+    "notes": "Presents two opposite sides of the same thing. 〜一方で (N3) is broader and can also contrast two different things."
+  },
+  {
+    "pattern": "〜ながら（も）",
+    "romaji": "nagara mo",
+    "level": "N2",
+    "meaning": "although; despite; while (contrary to expectation)",
+    "formation": "Verb-stem / Verb-nai / i-Adj / na-Adj / Noun + ながら（も）",
+    "examples": [
+      {"ja": "狭いながらも、日当たりのいい快適な部屋だ。", "furigana": "{狭|せま}いながらも、{日当|ひあ}たりのいい{快適|かいてき}な{部屋|へや}だ。", "en": "Although it's small, it's a comfortable, sunny room."},
+      {"ja": "悪いと知りながら、つい嘘をついてしまった。", "furigana": "{悪|わる}いと{知|し}りながら、つい{嘘|うそ}をついてしまった。", "en": "Even though I knew it was wrong, I ended up telling a lie."},
+      {"ja": "彼女は若いながらも、しっかりした考えを持っている。", "furigana": "{彼女|かのじょ}は{若|わか}いながらも、しっかりした{考|かんが}えを{持|も}っている。", "en": "Young as she is, she has very sound views."}
+    ],
+    "tags": ["concession", "written"],
+    "notes": "Not the 'while doing' ながら: the subject is in state A, yet B is true. Set phrases: 残念ながら, 知りながら, 及ばずながら."
+  },
+  {
+    "pattern": "〜つつ / 〜つつも",
+    "romaji": "tsutsu / tsutsu mo",
+    "level": "N2",
+    "meaning": "while (doing); although, even while",
+    "formation": "Verb-stem + つつ / Verb-stem + つつも",
+    "examples": [
+      {"ja": "今年の業績を振り返りつつ、来年の目標を考えたい。", "furigana": "{今年|ことし}の{業績|ぎょうせき}を{振|ふ}り{返|かえ}りつつ、{来年|らいねん}の{目標|もくひょう}を{考|かんが}えたい。", "en": "While looking back on this year's results, I'd like to think about next year's goals."},
+      {"ja": "体に悪いと分かりつつも、夜更かしがやめられない。", "furigana": "{体|からだ}に{悪|わる}いと{分|わ}かりつつも、{夜更|よふ}かしがやめられない。", "en": "Even though I know it's bad for me, I can't stop staying up late."},
+      {"ja": "早く返事をしなければと思いつつ、もう一週間もたってしまった。", "furigana": "{早|はや}く{返事|へんじ}をしなければと{思|おも}いつつ、もう{一週間|いっしゅうかん}もたってしまった。", "en": "Even as I kept thinking I had to reply soon, a whole week has gone by."}
+    ],
+    "tags": ["simultaneity", "concession", "written"],
+    "notes": "つつ alone is a written 〜ながら (two actions at once). つつも means 'although', typically with verbs of knowing or thinking (思いつつ, 知りつつ)."
+  },
+  {
+    "pattern": "〜つつある",
+    "romaji": "tsutsu aru",
+    "level": "N2",
+    "meaning": "be in the process of; be gradually (changing)",
+    "formation": "Verb-stem + つつある",
+    "examples": [
+      {"ja": "地球の平均気温は、年々上昇しつつある。", "furigana": "{地球|ちきゅう}の{平均|へいきん}{気温|きおん}は、{年々|ねんねん}{上昇|じょうしょう}しつつある。", "en": "The earth's average temperature is steadily rising year by year."},
+      {"ja": "この地域の伝統的な祭りは、若者の減少とともに失われつつある。", "furigana": "この{地域|ちいき}の{伝統|でんとう}{的|てき}な{祭|まつ}りは、{若者|わかもの}の{減少|げんしょう}とともに{失|うしな}われつつある。", "en": "This area's traditional festivals are gradually being lost as the young population declines."}
+    ],
+    "tags": ["change", "written"],
+    "notes": "Written style for change that is underway toward some result. Used with change verbs (増える, 回復する, 変わる), not with simple ongoing actions like 食べる."
+  },
+  {
+    "pattern": "〜っぱなし",
+    "romaji": "ppanashi",
+    "level": "N2",
+    "meaning": "leaving (something) as is; keep (doing) without a break",
+    "formation": "Verb-stem + っぱなし",
+    "examples": [
+      {"ja": "部屋の電気をつけっぱなしにして出かけてしまった。", "furigana": "{部屋|へや}の{電気|でんき}をつけっぱなしにして{出|で}かけてしまった。", "en": "I went out and left the light on in my room."},
+      {"ja": "今日は朝から立ちっぱなしで、足が痛い。", "furigana": "{今日|きょう}は{朝|あさ}から{立|た}ちっぱなしで、{足|あし}が{痛|いた}い。", "en": "I've been on my feet since this morning, and my legs hurt."},
+      {"ja": "窓を開けっぱなしにしないでください。", "furigana": "{窓|まど}を{開|あ}けっぱなしにしないでください。", "en": "Please don't leave the window open."}
+    ],
+    "tags": ["state", "criticism", "casual"],
+    "notes": "Either something left undone that should have been dealt with (often a complaint), or a state that goes on without a break. Conversational."
+  },
+  {
+    "pattern": "〜抜く",
+    "reading": "〜ぬく",
+    "romaji": "nuku",
+    "level": "N2",
+    "meaning": "do to the very end; see through; do thoroughly",
+    "formation": "Verb-stem + 抜く",
+    "examples": [
+      {"ja": "足を痛めていたが、彼は最後まで走り抜いた。", "furigana": "{足|あし}を{痛|いた}めていたが、{彼|かれ}は{最後|さいご}まで{走|はし}り{抜|ぬ}いた。", "en": "Although he had hurt his leg, he ran all the way to the finish."},
+      {"ja": "悩み抜いた末に出した結論なので、後悔はない。", "furigana": "{悩|なや}み{抜|ぬ}いた{末|すえ}に{出|だ}した{結論|けつろん}なので、{後悔|こうかい}はない。", "en": "It's a conclusion I reached after thinking it through thoroughly, so I have no regrets."},
+      {"ja": "チームは苦しい試合で一点のリードを守り抜いた。", "furigana": "チームは{苦|くる}しい{試合|しあい}で{一点|いってん}のリードを{守|まも}り{抜|ぬ}いた。", "en": "The team held on to its one-point lead through a tough game."}
+    ],
+    "tags": ["completion", "emphasis"],
+    "notes": "Stresses finishing something hard despite difficulty, or doing it to the fullest (考え抜く, 生き抜く)."
+  },
+  {
+    "pattern": "〜得る / 〜得ない",
+    "reading": "〜うる / 〜えない",
+    "romaji": "uru / enai",
+    "level": "N2",
+    "meaning": "can; be possible / cannot; be impossible",
+    "formation": "Verb-stem + 得る / Verb-stem + 得ない",
+    "examples": [
+      {"ja": "どんなに注意していても、事故は起こり得る。", "furigana": "どんなに{注意|ちゅうい}していても、{事故|じこ}は{起|お}こり{得|え}る。", "en": "No matter how careful you are, accidents can happen."},
+      {"ja": "あの真面目な彼が犯人だなんて、あり得ない。", "furigana": "あの{真面目|まじめ}な{彼|かれ}が{犯人|はんにん}だなんて、あり{得|え}ない。", "en": "There's no way someone as serious as him could be the culprit."},
+      {"ja": "今回の調査で、これまで知り得なかった事実が明らかになった。", "furigana": "{今回|こんかい}の{調査|ちょうさ}で、これまで{知|し}り{得|え}なかった{事実|じじつ}が{明|あき}らかになった。", "en": "This investigation brought to light facts we had been unable to learn until now."}
+    ],
+    "tags": ["possibility", "written"],
+    "notes": "Logical possibility, not personal skill (not ×泳ぎ得る for 'can swim'). The positive is read うる or える; other forms use え- (えない, えた)."
+  },
+  {
+    "pattern": "〜がたい",
+    "romaji": "gatai",
+    "level": "N2",
+    "meaning": "hard to; almost impossible to (emotionally)",
+    "formation": "Verb-stem + がたい",
+    "examples": [
+      {"ja": "あの誠実な人が不正をしたとは、信じがたい。", "furigana": "あの{誠実|せいじつ}な{人|ひと}が{不正|ふせい}をしたとは、{信|しん}じがたい。", "en": "It's hard to believe that such an honest person committed fraud."},
+      {"ja": "彼の失礼な態度は、どうにも許しがたい。", "furigana": "{彼|かれ}の{失礼|しつれい}な{態度|たいど}は、どうにも{許|ゆる}しがたい。", "en": "His rude attitude is simply unforgivable."},
+      {"ja": "生まれ育った町は、やはり離れがたいものだ。", "furigana": "{生|う}まれ{育|そだ}った{町|まち}は、やはり{離|はな}れがたいものだ。", "en": "The town you grew up in is, after all, hard to leave."}
+    ],
+    "tags": ["possibility", "emotion", "written"],
+    "notes": "Used with verbs of thinking and feeling (信じる, 理解する, 許す, 離れる). Unlike 〜にくい, not for physical difficulty (×この肉は食べがたい)."
+  },
+  {
+    "pattern": "〜ようがない",
+    "romaji": "you ga nai",
+    "level": "N2",
+    "meaning": "there's no way to; cannot possibly (no means available)",
+    "formation": "Verb-stem + ようがない / Noun + の + しようがない",
+    "examples": [
+      {"ja": "連絡先が分からないので、知らせようがない。", "furigana": "{連絡|れんらく}{先|さき}が{分|わ}からないので、{知|し}らせようがない。", "en": "I don't have his contact details, so there's no way to let him know."},
+      {"ja": "これだけ証拠がそろっていては、言い訳のしようがない。", "furigana": "これだけ{証拠|しょうこ}がそろっていては、{言|い}い{訳|わけ}のしようがない。", "en": "With this much evidence, there's no way to make excuses."},
+      {"ja": "壊れた部品がもう生産されていないので、直しようがない。", "furigana": "{壊|こわ}れた{部品|ぶひん}がもう{生産|せいさん}されていないので、{直|なお}しようがない。", "en": "The broken part is no longer made, so there's no way to fix it."}
+    ],
+    "tags": ["possibility", "negation", "means"],
+    "notes": "There's no method at all, even if one wanted to. 〜ようもない is more emphatic. With suru-nouns: 説明のしようがない."
+  },
+  {
+    "pattern": "〜ようでは",
+    "romaji": "you de wa",
+    "level": "N2",
+    "meaning": "if (you are like this / keep doing this), (it's no good)",
+    "formation": "Verb-plain + ようでは",
+    "examples": [
+      {"ja": "こんな簡単なミスをするようでは、大きな仕事は任せられない。", "furigana": "こんな{簡単|かんたん}なミスをするようでは、{大|おお}きな{仕事|しごと}は{任|まか}せられない。", "en": "If you make simple mistakes like this, we can't trust you with big jobs."},
+      {"ja": "毎朝遅刻しているようでは、信頼を得られないよ。", "furigana": "{毎朝|まいあさ}{遅刻|ちこく}しているようでは、{信頼|しんらい}を{得|え}られないよ。", "en": "If you're late every morning, you won't earn anyone's trust."}
+    ],
+    "tags": ["condition", "criticism"],
+    "notes": "Criticizes an undesirable state and predicts a bad outcome; the main clause is negative (〜ない, 困る, だめだ)."
+  },
+  {
+    "pattern": "〜てならない",
+    "romaji": "te naranai",
+    "level": "N2",
+    "meaning": "can't help (feeling); feel terribly; extremely",
+    "formation": "Verb-te + ならない / i-Adj-ku + てならない / na-Adj + でならない",
+    "examples": [
+      {"ja": "故郷の母のことが心配でならない。", "furigana": "{故郷|こきょう}の{母|はは}のことが{心配|しんぱい}でならない。", "en": "I can't stop worrying about my mother back home."},
+      {"ja": "あのとき本当のことを言わなかったのが、悔やまれてならない。", "furigana": "あのとき{本当|ほんとう}のことを{言|い}わなかったのが、{悔|く}やまれてならない。", "en": "I bitterly regret not telling the truth back then."},
+      {"ja": "この計画には何か裏があるような気がしてならない。", "furigana": "この{計画|けいかく}には{何|なに}か{裏|うら}があるような{気|き}がしてならない。", "en": "I can't shake the feeling that there's something behind this plan."}
+    ],
+    "tags": ["emotion", "degree"],
+    "notes": "For feelings or impressions that arise on their own (気がする, 思われる, 心配だ, 残念だ). More formal and written than 〜てたまらない / 〜てしょうがない."
+  },
+  {
+    "pattern": "〜てこそ",
+    "romaji": "te koso",
+    "level": "N2",
+    "meaning": "only by (doing); only when",
+    "formation": "Verb-te + こそ",
+    "examples": [
+      {"ja": "自分で経験してこそ、本当の意味で理解できるのだ。", "furigana": "{自分|じぶん}で{経験|けいけん}してこそ、{本当|ほんとう}の{意味|いみ}で{理解|りかい}できるのだ。", "en": "Only by experiencing it yourself can you truly understand it."},
+      {"ja": "お互いに協力し合ってこそ、チームは強くなる。", "furigana": "お{互|たが}いに{協力|きょうりょく}し{合|あ}ってこそ、チームは{強|つよ}くなる。", "en": "A team only becomes strong when its members work together."}
+    ],
+    "tags": ["condition", "emphasis"],
+    "notes": "Stresses that A is the essential condition for the real value or result in B. 〜てはじめて (N3) is more neutral, focusing on timing."
+  },
+  {
+    "pattern": "〜てからでないと",
+    "romaji": "te kara de nai to",
+    "level": "N2",
+    "meaning": "not until (after doing); only after",
+    "formation": "Verb-te + からでないと / Verb-te + からでなければ",
+    "examples": [
+      {"ja": "実物を見てからでないと、買うかどうか決められない。", "furigana": "{実物|じつぶつ}を{見|み}てからでないと、{買|か}うかどうか{決|き}められない。", "en": "I can't decide whether to buy it until I've seen the real thing."},
+      {"ja": "この薬は、医師に相談してからでなければ服用しないでください。", "furigana": "この{薬|くすり}は、{医師|いし}に{相談|そうだん}してからでなければ{服用|ふくよう}しないでください。", "en": "Please do not take this medicine until you have consulted a doctor."}
+    ],
+    "tags": ["condition", "sequence"],
+    "notes": "The main clause is negative or expresses difficulty: B can't happen unless A is done first."
+  },
+  {
+    "pattern": "〜て以来",
+    "reading": "〜ていらい",
+    "romaji": "te irai",
+    "level": "N2",
+    "meaning": "ever since",
+    "formation": "Verb-te + 以来 / Noun + 以来",
+    "examples": [
+      {"ja": "大学を卒業して以来、彼とは一度も会っていない。", "furigana": "{大学|だいがく}を{卒業|そつぎょう}して{以来|いらい}、{彼|かれ}とは{一|いち}{度|ど}も{会|あ}っていない。", "en": "I haven't seen him once since we graduated from university."},
+      {"ja": "この町に越してきて以来、毎朝川沿いを散歩するのが日課になっている。", "furigana": "この{町|まち}に{越|こ}してきて{以来|いらい}、{毎朝|まいあさ}{川|かわ}{沿|ぞ}いを{散歩|さんぽ}するのが{日課|にっか}になっている。", "en": "Ever since I moved to this town, a morning walk along the river has been part of my routine."},
+      {"ja": "創業以来、この店は同じ味を守り続けている。", "furigana": "{創業|そうぎょう}{以来|いらい}、この{店|みせ}は{同|おな}じ{味|あじ}を{守|まも}り{続|つづ}けている。", "en": "Since its founding, this shop has kept the same flavor."}
+    ],
+    "tags": ["time"],
+    "notes": "The main clause is a state or habit continuing from that past point up to now, not a single later event. More formal than 〜てから."
+  },
+  {
+    "pattern": "〜に過ぎない",
+    "reading": "〜にすぎない",
+    "romaji": "ni suginai",
+    "level": "N2",
+    "meaning": "merely; nothing more than; only",
+    "formation": "Verb-plain / Noun + に過ぎない",
+    "examples": [
+      {"ja": "それは単なるうわさに過ぎない。", "furigana": "それは{単|たん}なるうわさに{過|す}ぎない。", "en": "That's nothing more than a rumor."},
+      {"ja": "私は自分の仕事をしたに過ぎません。", "furigana": "{私|わたし}は{自分|じぶん}の{仕事|しごと}をしたに{過|す}ぎません。", "en": "I was merely doing my job."},
+      {"ja": "今回明らかになった問題は、氷山の一角に過ぎない。", "furigana": "{今回|こんかい}{明|あき}らかになった{問題|もんだい}は、{氷山|ひょうざん}の{一角|いっかく}に{過|す}ぎない。", "en": "The problem that has come to light this time is merely the tip of the iceberg."}
+    ],
+    "tags": ["limitation", "emphasis", "formal"],
+    "notes": "Downplays something as small or unimportant. Often with ただ or 単なる."
+  },
+  {
+    "pattern": "〜に限る",
+    "reading": "〜にかぎる",
+    "romaji": "ni kagiru",
+    "level": "N2",
+    "meaning": "nothing beats; the best thing is",
+    "formation": "Verb-dict / Verb-nai / Noun + に限る",
+    "examples": [
+      {"ja": "疲れたときは、早く寝るに限る。", "furigana": "{疲|つか}れたときは、{早|はや}く{寝|ね}るに{限|かぎ}る。", "en": "When you're tired, there's nothing better than going to bed early."},
+      {"ja": "夏の暑い日は、冷たいビールに限る。", "furigana": "{夏|なつ}の{暑|あつ}い{日|ひ}は、{冷|つめ}たいビールに{限|かぎ}る。", "en": "On a hot summer day, nothing beats a cold beer."},
+      {"ja": "面倒なことには関わらないに限る。", "furigana": "{面倒|めんどう}なことには{関|かか}わらないに{限|かぎ}る。", "en": "It's best to stay out of troublesome matters."}
+    ],
+    "tags": ["advice", "suggestion"],
+    "notes": "The speaker's personal conviction that something is the best choice; conversational. For a more general 'it's best to', use 〜に越したことはない."
+  },
+  {
+    "pattern": "〜に限らず",
+    "reading": "〜にかぎらず",
+    "romaji": "ni kagirazu",
+    "level": "N2",
+    "meaning": "not only; not limited to",
+    "formation": "Noun + に限らず",
+    "examples": [
+      {"ja": "この遊園地は、子どもに限らず大人にも人気がある。", "furigana": "この{遊園|ゆうえん}{地|ち}は、{子|こ}どもに{限|かぎ}らず{大人|おとな}にも{人気|にんき}がある。", "en": "This amusement park is popular not only with children but with adults as well."},
+      {"ja": "日本に限らず、多くの先進国が少子化の問題を抱えている。", "furigana": "{日本|にほん}に{限|かぎ}らず、{多|おお}くの{先進|せんしん}{国|こく}が{少子化|しょうしか}の{問題|もんだい}を{抱|かか}えている。", "en": "Not just Japan but many developed countries face a falling birthrate."}
+    ],
+    "tags": ["range", "addition"],
+    "notes": "Widens the scope beyond A; the second part usually has も. Close to 〜だけでなく but a bit more formal."
+  },
+  {
+    "pattern": "〜に限って",
+    "reading": "〜にかぎって",
+    "romaji": "ni kagitte",
+    "level": "N2",
+    "meaning": "of all (times/people); precisely when; (someone) of all people wouldn't",
+    "formation": "Noun + に限って",
+    "examples": [
+      {"ja": "傘を持っていない日に限って、雨が降るんだよね。", "furigana": "{傘|かさ}を{持|も}っていない{日|ひ}に{限|かぎ}って、{雨|あめ}が{降|ふ}るんだよね。", "en": "It always rains on exactly the days I don't have an umbrella."},
+      {"ja": "急いでいるときに限って、電車が遅れる。", "furigana": "{急|いそ}いでいるときに{限|かぎ}って、{電車|でんしゃ}が{遅|おく}れる。", "en": "The train is always late precisely when I'm in a hurry."},
+      {"ja": "うちの子に限って、そんなことをするはずがない。", "furigana": "うちの{子|こ}に{限|かぎ}って、そんなことをするはずがない。", "en": "My child, of all people, would never do such a thing."}
+    ],
+    "tags": ["limitation", "emphasis"],
+    "notes": "Two uses: (1) 'just when', complaining that bad luck strikes at the worst time; (2) with はずがない / ない, firm trust that a particular person wouldn't do something."
+  },
+  {
+    "pattern": "〜に限り",
+    "reading": "〜にかぎり",
+    "romaji": "ni kagiri",
+    "level": "N2",
+    "meaning": "limited to; only (for)",
+    "formation": "Noun + に限り",
+    "examples": [
+      {"ja": "本日ご来店のお客様に限り、全商品を二割引きいたします。", "furigana": "{本日|ほんじつ}ご{来店|らいてん}のお{客様|きゃくさま}に{限|かぎ}り、{全|ぜん}{商品|しょうひん}を{二|に}{割|わり}{引|び}きいたします。", "en": "For customers visiting today only, all items are 20% off."},
+      {"ja": "先着百名様に限り、記念品を差し上げます。", "furigana": "{先着|せんちゃく}{百|ひゃく}{名|めい}{様|さま}に{限|かぎ}り、{記念|きねん}{品|ひん}を{差|さ}し{上|あ}げます。", "en": "Commemorative gifts will be given to the first hundred people only."},
+      {"ja": "この駐車場は、住民に限り無料で利用できる。", "furigana": "この{駐車|ちゅうしゃ}{場|じょう}は、{住民|じゅうみん}に{限|かぎ}り{無料|むりょう}で{利用|りよう}できる。", "en": "Parking here is free for residents only."}
+    ],
+    "tags": ["limitation", "formal"],
+    "notes": "Formal; typical of notices, ads and rules to state who or what a condition applies to."
+  },
+  {
+    "pattern": "〜かぎり",
+    "romaji": "kagiri",
+    "level": "N2",
+    "meaning": "as long as; as far as (to the limit of)",
+    "formation": "Verb-dict / Verb-te + いる / i-Adj / na-Adj + である / Noun + である + かぎり",
+    "examples": [
+      {"ja": "私の知るかぎり、彼が約束を破ったことは一度もない。", "furigana": "{私|わたし}の{知|し}るかぎり、{彼|かれ}が{約束|やくそく}を{破|やぶ}ったことは{一|いち}{度|ど}もない。", "en": "As far as I know, he has never once broken a promise."},
+      {"ja": "体が動くかぎり、この仕事を続けたい。", "furigana": "{体|からだ}が{動|うご}くかぎり、この{仕事|しごと}を{続|つづ}けたい。", "en": "As long as my body keeps working, I want to continue this job."},
+      {"ja": "できるかぎりのことはやったので、結果がどうなっても悔いはない。", "furigana": "できるかぎりのことはやったので、{結果|けっか}がどうなっても{悔|く}いはない。", "en": "I did everything I could, so whatever the result, I have no regrets."}
+    ],
+    "tags": ["condition", "limitation", "range"],
+    "notes": "'As long as' a condition holds, or 'as far as' the limit of knowledge or ability (私の知るかぎり, できるかぎり). Also written 限り. Different from 〜に限り (limited to)."
+  },
+  {
+    "pattern": "〜ないかぎり",
+    "romaji": "nai kagiri",
+    "level": "N2",
+    "meaning": "unless; as long as ... not",
+    "formation": "Verb-nai + かぎり",
+    "examples": [
+      {"ja": "よほどのことがないかぎり、明日の会議には出席します。", "furigana": "よほどのことがないかぎり、{明日|あした}の{会議|かいぎ}には{出席|しゅっせき}します。", "en": "Unless something serious comes up, I'll attend tomorrow's meeting."},
+      {"ja": "本人が反省しないかぎり、同じ問題は何度でも起こるだろう。", "furigana": "{本人|ほんにん}が{反省|はんせい}しないかぎり、{同|おな}じ{問題|もんだい}は{何|なん}{度|ど}でも{起|お}こるだろう。", "en": "Unless he genuinely reflects on it, the same problem will keep happening."}
+    ],
+    "tags": ["condition", "negation"],
+    "notes": "B holds as long as A doesn't happen. More emphatic and formal than 〜なければ."
+  },
+  {
+    "pattern": "〜にかけては",
+    "romaji": "ni kakete wa",
+    "level": "N2",
+    "meaning": "when it comes to; in terms of (skill)",
+    "formation": "Noun + にかけては / Noun + にかけても",
+    "examples": [
+      {"ja": "料理の腕にかけては、うちの父は誰にも負けない。", "furigana": "{料理|りょうり}の{腕|うで}にかけては、うちの{父|ちち}は{誰|だれ}にも{負|ま}けない。", "en": "When it comes to cooking, my father is second to none."},
+      {"ja": "彼女は数字の分析にかけては、社内で右に出る者がいない。", "furigana": "{彼女|かのじょ}は{数字|すうじ}の{分析|ぶんせき}にかけては、{社内|しゃない}で{右|みぎ}に{出|で}る{者|もの}がいない。", "en": "When it comes to analyzing numbers, no one in the company can match her."}
+    ],
+    "tags": ["topic", "ability"],
+    "notes": "Praises someone's ability in a specific field; typically followed by 誰にも負けない, 一番だ, 自信がある."
+  },
+  {
+    "pattern": "〜にこたえて",
+    "romaji": "ni kotaete",
+    "level": "N2",
+    "meaning": "in response to; meeting (expectations, requests)",
+    "formation": "Noun + にこたえて / Noun + にこたえる + Noun",
+    "examples": [
+      {"ja": "ファンの声援にこたえて、選手たちは手を振った。", "furigana": "ファンの{声援|せいえん}にこたえて、{選手|せんしゅ}たちは{手|て}を{振|ふ}った。", "en": "The players waved in response to the fans' cheers."},
+      {"ja": "利用者の要望にこたえて、図書館の開館時間が延長された。", "furigana": "{利用|りよう}{者|しゃ}の{要望|ようぼう}にこたえて、{図書館|としょかん}の{開館|かいかん}{時間|じかん}が{延長|えんちょう}された。", "en": "In response to users' requests, the library's opening hours were extended."},
+      {"ja": "彼は周囲の期待にこたえる結果を出した。", "furigana": "{彼|かれ}は{周囲|しゅうい}の{期待|きたい}にこたえる{結果|けっか}を{出|だ}した。", "en": "He produced results that lived up to everyone's expectations."}
+    ],
+    "tags": ["relation", "formal"],
+    "notes": "Used with nouns like 期待, 要望, 声援, 要求. Also written 〜に応えて. Compare 〜に応じて, which means adjusting to a condition."
+  },
+  {
+    "pattern": "〜に先立って",
+    "reading": "〜にさきだって",
+    "romaji": "ni sakidatte",
+    "level": "N2",
+    "meaning": "prior to; before",
+    "formation": "Noun + に先立って / Verb-dict + に先立って / Noun + に先立つ + Noun",
+    "examples": [
+      {"ja": "新作映画の公開に先立って、完成披露試写会が開かれた。", "furigana": "{新作|しんさく}{映画|えいが}の{公開|こうかい}に{先立|さきだ}って、{完成|かんせい}{披露|ひろう}{試写|ししゃ}{会|かい}が{開|ひら}かれた。", "en": "Prior to the release of the new film, a premiere screening was held."},
+      {"ja": "試合開始に先立ち、全員で黙とうをささげた。", "furigana": "{試合|しあい}{開始|かいし}に{先立|さきだ}ち、{全員|ぜんいん}で{黙|もく}とうをささげた。", "en": "Before the start of the match, everyone observed a moment of silence."}
+    ],
+    "tags": ["time", "sequence", "formal"],
+    "notes": "Formal; for preparations or events that come before an important occasion. 〜に先立ち is the written form."
+  },
+  {
+    "pattern": "〜にしろ / 〜にせよ",
+    "romaji": "ni shiro / ni seyo",
+    "level": "N2",
+    "meaning": "even if; whether ... or ...; in any case",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + にしろ・にせよ",
+    "examples": [
+      {"ja": "たとえ冗談にしろ、そんなことを言うべきではない。", "furigana": "たとえ{冗談|じょうだん}にしろ、そんなことを{言|い}うべきではない。", "en": "Even if it was a joke, you shouldn't say something like that."},
+      {"ja": "参加するにせよしないにせよ、今週中に返事をください。", "furigana": "{参加|さんか}するにせよしないにせよ、{今週|こんしゅう}{中|ちゅう}に{返事|へんじ}をください。", "en": "Whether you take part or not, please reply by the end of this week."},
+      {"ja": "いずれにせよ、もう一度話し合う必要がある。", "furigana": "いずれにせよ、もう{一度|いちど}{話|はな}し{合|あ}う{必要|ひつよう}がある。", "en": "In any case, we need to talk it over again."}
+    ],
+    "tags": ["concession", "formal"],
+    "notes": "Same meaning as 〜にしても (N3) but more formal; にせよ is the most written. The paired form AにしろBにしろ means 'whether A or B'."
+  },
+  {
+    "pattern": "〜にすれば / 〜にしたら",
+    "romaji": "ni sureba / ni shitara",
+    "level": "N2",
+    "meaning": "from the standpoint of; for (someone), (it would seem)",
+    "formation": "Noun + にすれば / Noun + にしたら",
+    "examples": [
+      {"ja": "子どもにすれば、親の小言はうるさいだけなのだろう。", "furigana": "{子|こ}どもにすれば、{親|おや}の{小言|こごと}はうるさいだけなのだろう。", "en": "From a child's point of view, parents' nagging is probably just annoying."},
+      {"ja": "毎日遅くまで残業させられる社員にしたら、たまったものではない。", "furigana": "{毎日|まいにち}{遅|おそ}くまで{残業|ざんぎょう}させられる{社員|しゃいん}にしたら、たまったものではない。", "en": "For employees made to work late every day, it's unbearable."}
+    ],
+    "tags": ["standpoint"],
+    "notes": "Imagines how things feel from another person's position (usually not the speaker's). Unlike 〜にとって, it focuses on that person's feelings or opinion."
+  },
+  {
+    "pattern": "〜に相違ない",
+    "reading": "〜にそういない",
+    "romaji": "ni soui nai",
+    "level": "N2",
+    "meaning": "without doubt; must be; surely",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + に相違ない",
+    "examples": [
+      {"ja": "この筆跡は、父のものに相違ない。", "furigana": "この{筆跡|ひっせき}は、{父|ちち}のものに{相違|そうい}ない。", "en": "This handwriting is without doubt my father's."},
+      {"ja": "彼の証言が事実なら、事件の背後には別の人物がいるに相違ない。", "furigana": "{彼|かれ}の{証言|しょうげん}が{事実|じじつ}なら、{事件|じけん}の{背後|はいご}には{別|べつ}の{人物|じんぶつ}がいるに{相違|そうい}ない。", "en": "If his testimony is true, there must be someone else behind the incident."}
+    ],
+    "tags": ["conjecture", "formal", "written"],
+    "notes": "A written, formal equivalent of 〜に違いない (N3). Also seen on forms: 上記の通り相違ありません ('the above is correct')."
+  },
+  {
+    "pattern": "〜に越したことはない",
+    "reading": "〜にこしたことはない",
+    "romaji": "ni koshita koto wa nai",
+    "level": "N2",
+    "meaning": "it's best to; nothing is better than",
+    "formation": "Verb-dict / Verb-nai / i-Adj / na-Adj / Noun + に越したことはない",
+    "examples": [
+      {"ja": "どんなに健康でも、定期的に検診を受けるに越したことはない。", "furigana": "どんなに{健康|けんこう}でも、{定期|ていき}{的|てき}に{検診|けんしん}を{受|う}けるに{越|こ}したことはない。", "en": "No matter how healthy you are, it's best to get regular checkups."},
+      {"ja": "旅行の荷物は、軽いに越したことはない。", "furigana": "{旅行|りょこう}の{荷物|にもつ}は、{軽|かる}いに{越|こ}したことはない。", "en": "When you travel, the lighter your luggage, the better."},
+      {"ja": "住まいは駅に近いに越したことはないが、その分家賃が高くなる。", "furigana": "{住|す}まいは{駅|えき}に{近|ちか}いに{越|こ}したことはないが、その{分|ぶん}{家賃|やちん}が{高|たか}くなる。", "en": "It's best to live near the station, of course, but the rent goes up accordingly."}
+    ],
+    "tags": ["advice", "suggestion"],
+    "notes": "States a common-sense preference, often followed by が / けれど and a practical reservation. Compare 〜に限る, which is a more personal choice."
+  },
+  {
+    "pattern": "〜にほかならない",
+    "romaji": "ni hoka naranai",
+    "level": "N2",
+    "meaning": "nothing other than; none other than; precisely",
+    "formation": "Noun + にほかならない / Verb-plain + から + にほかならない",
+    "examples": [
+      {"ja": "今回の成功は、社員一人ひとりの努力の結果にほかならない。", "furigana": "{今回|こんかい}の{成功|せいこう}は、{社員|しゃいん}{一人|ひとり}ひとりの{努力|どりょく}の{結果|けっか}にほかならない。", "en": "This success is nothing other than the result of each employee's efforts."},
+      {"ja": "彼が厳しく指導するのは、選手の才能を信じているからにほかならない。", "furigana": "{彼|かれ}が{厳|きび}しく{指導|しどう}するのは、{選手|せんしゅ}の{才能|さいのう}を{信|しん}じているからにほかならない。", "en": "He coaches strictly precisely because he believes in the athletes' talent."}
+    ],
+    "tags": ["emphasis", "written"],
+    "notes": "Strongly asserts that this and nothing else is the case. 〜からにほかならない stresses a reason. Formal/written."
+  },
+  {
+    "pattern": "〜にもかかわらず",
+    "romaji": "ni mo kakawarazu",
+    "level": "N2",
+    "meaning": "despite; in spite of; although",
+    "formation": "Verb-plain / i-Adj / na-Adj + である / Noun + にもかかわらず",
+    "examples": [
+      {"ja": "悪天候にもかかわらず、大勢の観客が会場に集まった。", "furigana": "{悪天候|あくてんこう}にもかかわらず、{大勢|おおぜい}の{観客|かんきゃく}が{会場|かいじょう}に{集|あつ}まった。", "en": "Despite the bad weather, a large crowd gathered at the venue."},
+      {"ja": "何度も注意されたにもかかわらず、彼は同じミスを繰り返した。", "furigana": "{何|なん}{度|ど}も{注意|ちゅうい}されたにもかかわらず、{彼|かれ}は{同|おな}じミスを{繰|く}り{返|かえ}した。", "en": "Despite being warned many times, he repeated the same mistake."}
+    ],
+    "tags": ["concession", "formal"],
+    "notes": "A formal counterpart of 〜のに, common in news and writing; stresses that the result goes against what A would lead one to expect. Don't confuse with 〜にかかわらず (regardless of)."
+  },
+  {
+    "pattern": "〜にあたって",
+    "romaji": "ni atatte",
+    "level": "N2",
+    "meaning": "when; at the time of; on the occasion of (starting something important)",
+    "formation": "Noun + にあたって / Verb-dict + にあたって / Noun + にあたっての + Noun",
+    "examples": [
+      {"ja": "新生活を始めるにあたって、必要な物をリストにまとめた。", "furigana": "{新|しん}{生活|せいかつ}を{始|はじ}めるにあたって、{必要|ひつよう}な{物|もの}をリストにまとめた。", "en": "When starting my new life, I made a list of the things I'd need."},
+      {"ja": "開会にあたり、主催者を代表して一言ご挨拶申し上げます。", "furigana": "{開会|かいかい}にあたり、{主催|しゅさい}{者|しゃ}を{代表|だいひょう}して{一言|ひとこと}ご{挨拶|あいさつ}{申|もう}し{上|あ}げます。", "en": "On the occasion of the opening, allow me to say a few words on behalf of the organizers."},
+      {"ja": "論文を書くにあたっては、引用のルールを守らなければならない。", "furigana": "{論文|ろんぶん}を{書|か}くにあたっては、{引用|いんよう}のルールを{守|まも}らなければならない。", "en": "When writing a thesis, you must follow the rules of citation."}
+    ],
+    "tags": ["time", "formal"],
+    "notes": "Formal; used when facing an important undertaking, often with a sense of preparation or resolve. 〜に際して is similar but simply marks the occasion. Written form: 〜にあたり."
+  },
+  {
+    "pattern": "〜において / 〜における",
+    "romaji": "ni oite / ni okeru",
+    "level": "N2",
+    "meaning": "in; at; in the field of (formal)",
+    "formation": "Noun + において / Noun + における + Noun",
+    "examples": [
+      {"ja": "卒業式は大講堂において行われます。", "furigana": "{卒業|そつぎょう}{式|しき}は{大|だい}{講堂|こうどう}において{行|おこな}われます。", "en": "The graduation ceremony will be held in the main auditorium."},
+      {"ja": "現代社会における家族の役割について考えてみたい。", "furigana": "{現代|げんだい}{社会|しゃかい}における{家族|かぞく}の{役割|やくわり}について{考|かんが}えてみたい。", "en": "I'd like to consider the role of the family in modern society."},
+      {"ja": "彼女はデザインの分野において高く評価されている。", "furigana": "{彼女|かのじょ}はデザインの{分野|ぶんや}において{高|たか}く{評価|ひょうか}されている。", "en": "She is highly regarded in the field of design."}
+    ],
+    "tags": ["range", "formal", "written"],
+    "notes": "A formal version of で for places, times, fields or situations. Before a noun, the form is 〜における."
+  },
+  {
+    "pattern": "〜にかかわらず",
+    "romaji": "ni kakawarazu",
+    "level": "N2",
+    "meaning": "regardless of; irrespective of",
+    "formation": "Noun + にかかわらず / Verb-dict + Verb-nai + にかかわらず",
+    "examples": [
+      {"ja": "このセミナーは、経験の有無にかかわらず、どなたでも参加できます。", "furigana": "このセミナーは、{経験|けいけん}の{有無|うむ}にかかわらず、どなたでも{参加|さんか}できます。", "en": "Anyone can join this seminar, regardless of experience."},
+      {"ja": "天候にかかわらず、試合は予定通り行います。", "furigana": "{天候|てんこう}にかかわらず、{試合|しあい}は{予定|よてい}{通|どお}り{行|おこな}います。", "en": "The match will go ahead as scheduled regardless of the weather."},
+      {"ja": "出席するしないにかかわらず、必ず返信してください。", "furigana": "{出席|しゅっせき}するしないにかかわらず、{必|かなら}ず{返信|へんしん}してください。", "en": "Please be sure to reply whether or not you will attend."}
+    ],
+    "tags": ["concession", "range", "formal"],
+    "notes": "Used with nouns implying a range or an opposite pair (年齢, 天候, 有無, 男女). Very close to 〜を問わず. Don't confuse with 〜にもかかわらず (despite)."
+  },
+  {
+    "pattern": "〜にかかわる",
+    "romaji": "ni kakawaru",
+    "level": "N2",
+    "meaning": "affecting; concerning (something important); relating to",
+    "formation": "Noun + にかかわる",
+    "examples": [
+      {"ja": "これは人の命にかかわる問題だから、慎重に判断しなければならない。", "furigana": "これは{人|ひと}の{命|いのち}にかかわる{問題|もんだい}だから、{慎重|しんちょう}に{判断|はんだん}しなければならない。", "en": "This is a matter of life and death, so we must judge carefully."},
+      {"ja": "会社の信用にかかわるようなミスは、絶対に避けたい。", "furigana": "{会社|かいしゃ}の{信用|しんよう}にかかわるようなミスは、{絶対|ぜったい}に{避|さ}けたい。", "en": "I absolutely want to avoid any mistake that could damage the company's reputation."}
+    ],
+    "tags": ["relation"],
+    "notes": "Used for things with serious consequences: 命, 名誉, 信用, 将来. Also written 〜に関わる."
+  },
+  {
+    "pattern": "〜につき",
+    "romaji": "ni tsuki",
+    "level": "N2",
+    "meaning": "per; for each; due to (in formal notices)",
+    "formation": "Noun + につき",
+    "examples": [
+      {"ja": "駐車料金は、一時間につき三百円です。", "furigana": "{駐車|ちゅうしゃ}{料金|りょうきん}は、{一|いち}{時間|じかん}につき{三百|さんびゃく}{円|えん}です。", "en": "Parking costs 300 yen per hour."},
+      {"ja": "本日は定休日につき、お休みさせていただきます。", "furigana": "{本日|ほんじつ}は{定休|ていきゅう}{日|び}につき、お{休|やす}みさせていただきます。", "en": "We are closed today as it is our regular holiday."},
+      {"ja": "工事中につき、この先は通行止めです。", "furigana": "{工事|こうじ}{中|ちゅう}につき、この{先|さき}は{通行止|つうこうど}めです。", "en": "Due to construction, the road ahead is closed."}
+    ],
+    "tags": ["reason", "quantity", "formal"],
+    "notes": "Two separate uses: 'per' with quantities, and 'because of' on notices and signs (工事中につき). The reason use is very formal."
+  },
+  {
+    "pattern": "〜に向けて",
+    "reading": "〜にむけて",
+    "romaji": "ni mukete",
+    "level": "N2",
+    "meaning": "toward; aimed at; in preparation for; addressed to",
+    "formation": "Noun + に向けて / Noun + に向けた + Noun",
+    "examples": [
+      {"ja": "来年の全国大会に向けて、毎日練習に励んでいる。", "furigana": "{来年|らいねん}の{全国|ぜんこく}{大会|たいかい}に{向|む}けて、{毎日|まいにち}{練習|れんしゅう}に{励|はげ}んでいる。", "en": "We're practicing hard every day for next year's national tournament."},
+      {"ja": "政府は、温室効果ガス削減に向けた新しい計画を発表した。", "furigana": "{政府|せいふ}は、{温室|おんしつ}{効果|こうか}ガス{削減|さくげん}に{向|む}けた{新|あたら}しい{計画|けいかく}を{発表|はっぴょう}した。", "en": "The government announced a new plan aimed at reducing greenhouse gases."},
+      {"ja": "大統領は国民に向けてメッセージを発表した。", "furigana": "{大統領|だいとうりょう}は{国民|こくみん}に{向|む}けてメッセージを{発表|はっぴょう}した。", "en": "The president issued a message addressed to the nation."}
+    ],
+    "tags": ["purpose", "relation"],
+    "notes": "Marks a goal or event being worked toward, or the audience something is directed at. Different from 〜向け (N3), 'designed for'."
+  },
+  {
+    "pattern": "〜のもとで / 〜のもとに",
+    "romaji": "no moto de / no moto ni",
+    "level": "N2",
+    "meaning": "under (guidance, influence, a rule); with",
+    "formation": "Noun + のもとで / Noun + のもとに",
+    "examples": [
+      {"ja": "私は大学院で、有名な教授のもとで研究を続けた。", "furigana": "{私|わたし}は{大学院|だいがくいん}で、{有名|ゆうめい}な{教授|きょうじゅ}のもとで{研究|けんきゅう}を{続|つづ}けた。", "en": "In graduate school, I continued my research under a famous professor."},
+      {"ja": "明るい太陽のもとで、子どもたちが元気に遊んでいる。", "furigana": "{明|あか}るい{太陽|たいよう}のもとで、{子|こ}どもたちが{元気|げんき}に{遊|あそ}んでいる。", "en": "Children are playing happily under the bright sun."},
+      {"ja": "すべての国民は、法のもとに平等である。", "furigana": "すべての{国民|こくみん}は、{法|ほう}のもとに{平等|びょうどう}である。", "en": "All citizens are equal under the law."}
+    ],
+    "tags": ["relation", "state", "formal"],
+    "notes": "Under someone's guidance, protection or influence, or under a rule or condition. Often written 〜の下で / 〜の下に."
+  },
+  {
+    "pattern": "〜抜きで / 〜抜きに",
+    "reading": "〜ぬきで / 〜ぬきに",
+    "romaji": "nuki de / nuki ni",
+    "level": "N2",
+    "meaning": "without; leaving out",
+    "formation": "Noun + 抜きで / Noun + 抜きに / Noun + 抜きの + Noun",
+    "examples": [
+      {"ja": "今日は仕事の話抜きで、ゆっくり楽しみましょう。", "furigana": "{今日|きょう}は{仕事|しごと}の{話|はなし}{抜|ぬ}きで、ゆっくり{楽|たの}しみましょう。", "en": "Let's leave work talk out of it today and just relax and enjoy ourselves."},
+      {"ja": "彼の協力抜きには、このプロジェクトは成功しなかっただろう。", "furigana": "{彼|かれ}の{協力|きょうりょく}{抜|ぬ}きには、このプロジェクトは{成功|せいこう}しなかっただろう。", "en": "Without his cooperation, this project probably wouldn't have succeeded."},
+      {"ja": "朝食抜きで出勤する人が増えている。", "furigana": "{朝食|ちょうしょく}{抜|ぬ}きで{出勤|しゅっきん}する{人|ひと}が{増|ふ}えている。", "en": "More and more people are going to work without breakfast."}
+    ],
+    "tags": ["exclusion", "manner"],
+    "notes": "Leaves out something normally included. 〜抜きには〜ない / 〜を抜きにしては〜ない means 'can't ... without'."
+  },
+  {
+    "pattern": "〜をこめて",
+    "romaji": "o komete",
+    "level": "N2",
+    "meaning": "with (feeling); full of; putting ... into",
+    "formation": "Noun + をこめて",
+    "examples": [
+      {"ja": "母の誕生日に、感謝の気持ちをこめて手紙を書いた。", "furigana": "{母|はは}の{誕生|たんじょう}{日|び}に、{感謝|かんしゃ}の{気持|きも}ちをこめて{手紙|てがみ}を{書|か}いた。", "en": "For my mother's birthday, I wrote her a letter full of gratitude."},
+      {"ja": "職人が一つ一つ心をこめて作った器です。", "furigana": "{職人|しょくにん}が{一|ひと}つ{一|ひと}つ{心|こころ}をこめて{作|つく}った{器|うつわ}です。", "en": "These bowls were made one by one, with great care, by craftsmen."}
+    ],
+    "tags": ["emotion", "manner"],
+    "notes": "Used with feelings or intentions (愛, 感謝, 願い, 心). Also written 〜を込めて."
+  },
+  {
+    "pattern": "〜を中心に",
+    "reading": "〜をちゅうしんに",
+    "romaji": "o chuushin ni",
+    "level": "N2",
+    "meaning": "centered on; focusing on; mainly",
+    "formation": "Noun + を中心に / Noun + を中心として / Noun + を中心とした + Noun",
+    "examples": [
+      {"ja": "今回の地震では、沿岸部を中心に大きな被害が出た。", "furigana": "{今回|こんかい}の{地震|じしん}では、{沿岸|えんがん}{部|ぶ}を{中心|ちゅうしん}に{大|おお}きな{被害|ひがい}が{出|で}た。", "en": "In this earthquake, serious damage occurred mainly in coastal areas."},
+      {"ja": "この講座では、会話を中心に実践的な日本語を学びます。", "furigana": "この{講座|こうざ}では、{会話|かいわ}を{中心|ちゅうしん}に{実践|じっせん}{的|てき}な{日本語|にほんご}を{学|まな}びます。", "en": "In this course, you'll learn practical Japanese with a focus on conversation."},
+      {"ja": "若者を中心とした新しいファッションが広がっている。", "furigana": "{若者|わかもの}を{中心|ちゅうしん}とした{新|あたら}しいファッションが{広|ひろ}がっている。", "en": "New fashions popular mainly among young people are spreading."}
+    ],
+    "tags": ["range", "relation"],
+    "notes": "A is the core or main part of a wider area, group or activity."
+  },
+  {
+    "pattern": "〜をもとに",
+    "romaji": "o moto ni",
+    "level": "N2",
+    "meaning": "based on; using ... as a basis or source",
+    "formation": "Noun + をもとに / Noun + をもとにして / Noun + をもとにした + Noun",
+    "examples": [
+      {"ja": "この小説は、作者自身の体験をもとに書かれている。", "furigana": "この{小説|しょうせつ}は、{作者|さくしゃ}{自身|じしん}の{体験|たいけん}をもとに{書|か}かれている。", "en": "This novel is based on the author's own experiences."},
+      {"ja": "集めたデータをもとにして、グラフを作成した。", "furigana": "{集|あつ}めたデータをもとにして、グラフを{作成|さくせい}した。", "en": "I made a graph based on the data I had collected."}
+    ],
+    "tags": ["relation", "means"],
+    "notes": "A is the material or hint from which something new is made. 〜に基づいて is used when strictly following a rule or fact as a standard."
+  },
+  {
+    "pattern": "〜を問わず",
+    "reading": "〜をとわず",
+    "romaji": "o towazu",
+    "level": "N2",
+    "meaning": "regardless of; irrespective of",
+    "formation": "Noun + を問わず",
+    "examples": [
+      {"ja": "この仕事は、年齢や経験を問わず応募できます。", "furigana": "この{仕事|しごと}は、{年齢|ねんれい}や{経験|けいけん}を{問|と}わず{応募|おうぼ}できます。", "en": "Anyone can apply for this job regardless of age or experience."},
+      {"ja": "この曲は国内外を問わず、多くの人々に愛されている。", "furigana": "この{曲|きょく}は{国内外|こくないがい}を{問|と}わず、{多|おお}くの{人々|ひとびと}に{愛|あい}されている。", "en": "This song is loved by many people both in Japan and abroad."},
+      {"ja": "救急隊員は、昼夜を問わず出動に備えている。", "furigana": "{救急|きゅうきゅう}{隊員|たいいん}は、{昼夜|ちゅうや}を{問|と}わず{出動|しゅつどう}に{備|そな}えている。", "en": "Paramedics are ready to respond day or night."}
+    ],
+    "tags": ["range", "formal"],
+    "notes": "Used with nouns implying a range or an opposite pair (男女, 昼夜, 国内外). Very close to 〜にかかわらず; を問わず is typical of job ads and notices."
+  },
+  {
+    "pattern": "〜をはじめ",
+    "romaji": "o hajime",
+    "level": "N2",
+    "meaning": "starting with; including; such as (a representative example)",
+    "formation": "Noun + をはじめ / Noun + をはじめとして / Noun + をはじめとする + Noun",
+    "examples": [
+      {"ja": "京都には、金閣寺をはじめ、多くの有名な寺がある。", "furigana": "{京都|きょうと}には、{金閣寺|きんかくじ}をはじめ、{多|おお}くの{有名|ゆうめい}な{寺|てら}がある。", "en": "Kyoto has many famous temples, including Kinkakuji."},
+      {"ja": "社長をはじめとして、社員全員がこの計画に賛成した。", "furigana": "{社長|しゃちょう}をはじめとして、{社員|しゃいん}{全員|ぜんいん}がこの{計画|けいかく}に{賛成|さんせい}した。", "en": "Everyone in the company, starting with the president, agreed to this plan."},
+      {"ja": "米をはじめとする農産物の価格が上昇している。", "furigana": "{米|こめ}をはじめとする{農産物|のうさんぶつ}の{価格|かかく}が{上昇|じょうしょう}している。", "en": "Prices of farm products, rice among them, are rising."}
+    ],
+    "tags": ["example", "addition"],
+    "notes": "Names the most representative member of a group, then refers to the group as a whole. The main clause covers many items, not just A."
+  },
+  {
+    "pattern": "〜を〜として",
+    "romaji": "o ... to shite",
+    "level": "N2",
+    "meaning": "treating (A) as (B); with A as B",
+    "formation": "Noun + を + Noun + として / Noun + を + Noun + とする",
+    "examples": [
+      {"ja": "この大会は、地域の活性化を目的として開かれている。", "furigana": "この{大会|たいかい}は、{地域|ちいき}の{活性|かっせい}{化|か}を{目的|もくてき}として{開|ひら}かれている。", "en": "This event is held with the aim of revitalizing the local area."},
+      {"ja": "私たちのチームは、営業部の山口さんをリーダーとして新しい企画に取り組んでいる。", "furigana": "{私|わたし}たちのチームは、{営業|えいぎょう}{部|ぶ}の{山口|やまぐち}さんをリーダーとして{新|あたら}しい{企画|きかく}に{取|と}り{組|く}んでいる。", "en": "Our team is working on a new project with Ms. Yamaguchi from sales as leader."}
+    ],
+    "tags": ["standpoint", "manner"],
+    "notes": "Puts A in the role or function of B; common B nouns are 目的, 目標, 中心, 対象, 条件. 〜を〜にして is a more casual variant."
+  },
+  {
+    "pattern": "〜かというと",
+    "romaji": "ka to iu to",
+    "level": "N2",
+    "meaning": "if you ask whether (actually, not); the reason why ... is",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + かというと / Question word + … + かというと",
+    "examples": [
+      {"ja": "高い料理ならおいしいかというと、必ずしもそうではない。", "furigana": "{高|たか}い{料理|りょうり}ならおいしいかというと、{必|かなら}ずしもそうではない。", "en": "Is expensive food always delicious? Not necessarily."},
+      {"ja": "なぜこの仕事を選んだかというと、人の役に立ちたかったからです。", "furigana": "なぜこの{仕事|しごと}を{選|えら}んだかというと、{人|ひと}の{役|やく}に{立|た}ちたかったからです。", "en": "The reason I chose this job is that I wanted to help people."},
+      {"ja": "では、彼の意見に全面的に賛成かというと、そういうわけでもない。", "furigana": "では、{彼|かれ}の{意見|いけん}に{全面|ぜんめん}{的|てき}に{賛成|さんせい}かというと、そういうわけでもない。", "en": "But does that mean I fully agree with his opinion? Not exactly."}
+    ],
+    "tags": ["question", "topic"],
+    "notes": "With a question word (なぜ, どうして) it introduces an explanation. Without one, it raises a question only to deny the easy assumption (〜かというと、そうではない). Also 〜かといえば."
+  },
+  {
+    "pattern": "〜かと思ったら / 〜かと思うと",
+    "reading": "〜かとおもったら / 〜かとおもうと",
+    "romaji": "ka to omottara / ka to omou to",
+    "level": "N2",
+    "meaning": "just when; no sooner than; the moment",
+    "formation": "Verb-ta + かと思ったら / Verb-ta + かと思うと",
+    "examples": [
+      {"ja": "空が急に暗くなったかと思ったら、激しい雨が降り出した。", "furigana": "{空|そら}が{急|きゅう}に{暗|くら}くなったかと{思|おも}ったら、{激|はげ}しい{雨|あめ}が{降|ふ}り{出|だ}した。", "en": "No sooner had the sky suddenly gone dark than it started to pour."},
+      {"ja": "息子は帰ってきたかと思うと、すぐにまた遊びに出かけた。", "furigana": "{息子|むすこ}は{帰|かえ}ってきたかと{思|おも}うと、すぐにまた{遊|あそ}びに{出|で}かけた。", "en": "My son had no sooner come home than he went straight back out to play."},
+      {"ja": "やっと静かになったかと思ったら、また隣の工事が始まった。", "furigana": "やっと{静|しず}かになったかと{思|おも}ったら、また{隣|となり}の{工事|こうじ}が{始|はじ}まった。", "en": "Just when I thought it had finally gotten quiet, the construction next door started up again."}
+    ],
+    "tags": ["time", "sequence", "surprise"],
+    "notes": "B follows A immediately and unexpectedly. It describes what the speaker observes, so it isn't used for the speaker's own actions."
+  },
+  {
+    "pattern": "〜か〜ないかのうちに",
+    "romaji": "ka ... nai ka no uchi ni",
+    "level": "N2",
+    "meaning": "as soon as; barely ... when",
+    "formation": "Verb-dict + か + Verb-nai + かのうちに / Verb-ta + か + Verb-nai + かのうちに",
+    "examples": [
+      {"ja": "ベルが鳴るか鳴らないかのうちに、生徒たちは教室を飛び出した。", "furigana": "ベルが{鳴|な}るか{鳴|な}らないかのうちに、{生徒|せいと}たちは{教室|きょうしつ}を{飛|と}び{出|だ}した。", "en": "The bell had barely rung when the students rushed out of the classroom."},
+      {"ja": "彼は布団に入ったか入らないかのうちに、いびきをかき始めた。", "furigana": "{彼|かれ}は{布団|ふとん}に{入|はい}ったか{入|はい}らないかのうちに、いびきをかき{始|はじ}めた。", "en": "He had barely gotten into bed when he started snoring."}
+    ],
+    "tags": ["time", "simultaneity"],
+    "notes": "The same verb is repeated in positive and negative: it's unclear whether A has even finished before B happens. Describes observed events."
+  },
+  {
+    "pattern": "〜きり",
+    "romaji": "kiri",
+    "level": "N2",
+    "meaning": "since (and nothing after); only; just",
+    "formation": "Verb-ta + きり / Noun + きり",
+    "examples": [
+      {"ja": "兄は十年前に家を出たきり、一度も連絡をよこさない。", "furigana": "{兄|あに}は{十|じゅう}{年|ねん}{前|まえ}に{家|いえ}を{出|で}たきり、{一|いち}{度|ど}も{連絡|れんらく}をよこさない。", "en": "My brother left home ten years ago and hasn't been in touch once since."},
+      {"ja": "今度の休みは、久しぶりに二人きりで旅行したい。", "furigana": "{今度|こんど}の{休|やす}みは、{久|ひさ}しぶりに{二人|ふたり}きりで{旅行|りょこう}したい。", "en": "For our next holiday, I'd like us to take a trip, just the two of us, for the first time in ages."},
+      {"ja": "チャンスは一度きりだから、絶対に失敗できない。", "furigana": "チャンスは{一|いち}{度|ど}きりだから、{絶対|ぜったい}に{失敗|しっぱい}できない。", "en": "There's only one chance, so I absolutely can't fail."}
+    ],
+    "tags": ["limitation", "time"],
+    "notes": "Verb-ta + きり: something happened and the expected follow-up never came (often with ない). Noun + きり: 'only' (一度きり, 二人きり). Casual: 〜っきり."
+  },
+  {
+    "pattern": "〜げ",
+    "romaji": "ge",
+    "level": "N2",
+    "meaning": "seeming; looking (as if); with an air of",
+    "formation": "i-Adj stem + げ / na-Adj + げ / Verb-stem + たげ",
+    "examples": [
+      {"ja": "彼女は窓の外を寂しげに見つめていた。", "furigana": "{彼女|かのじょ}は{窓|まど}の{外|そと}を{寂|さび}しげに{見|み}つめていた。", "en": "She was gazing out the window with a lonely look."},
+      {"ja": "少年は得意げな顔で、描いた絵を見せてくれた。", "furigana": "{少年|しょうねん}は{得意|とくい}げな{顔|かお}で、{描|えが}いた{絵|え}を{見|み}せてくれた。", "en": "The boy proudly showed me the picture he had drawn."},
+      {"ja": "何か言いたげな様子だったが、彼は黙って帰っていった。", "furigana": "{何|なに}か{言|い}いたげな{様子|ようす}だったが、{彼|かれ}は{黙|だま}って{帰|かえ}っていった。", "en": "He looked as if he wanted to say something, but he left without a word."}
+    ],
+    "tags": ["appearance", "emotion", "written"],
+    "notes": "Describes a feeling visible in someone's face or manner; conjugates like a na-adjective (〜げな, 〜げに). Rather literary."
+  },
+  {
+    "pattern": "〜っこない",
+    "romaji": "kko nai",
+    "level": "N2",
+    "meaning": "no way; there's absolutely no chance",
+    "formation": "Verb-stem + っこない",
+    "examples": [
+      {"ja": "こんな量の仕事、一日で終わりっこないよ。", "furigana": "こんな{量|りょう}の{仕事|しごと}、{一|いち}{日|にち}で{終|お}わりっこないよ。", "en": "There's no way this much work will get done in one day."},
+      {"ja": "宝くじなんて当たりっこないと思いながら、毎年買っている。", "furigana": "{宝|たから}くじなんて{当|あ}たりっこないと{思|おも}いながら、{毎年|まいとし}{買|か}っている。", "en": "I buy lottery tickets every year, even though I figure there's no way I'll win."}
+    ],
+    "tags": ["possibility", "negation", "casual"],
+    "notes": "Casual speech only; often with potential verbs (できっこない, 分かりっこない). A casual equivalent of 〜わけがない."
+  },
+  {
+    "pattern": "〜どころか",
+    "romaji": "dokoro ka",
+    "level": "N2",
+    "meaning": "far from; let alone; on the contrary",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + どころか",
+    "examples": [
+      {"ja": "薬を飲んだが、熱は下がるどころか、ますます高くなった。", "furigana": "{薬|くすり}を{飲|の}んだが、{熱|ねつ}は{下|さ}がるどころか、ますます{高|たか}くなった。", "en": "I took medicine, but far from going down, my fever got even higher."},
+      {"ja": "忙しくて、旅行どころか週末に休むこともできない。", "furigana": "{忙|いそが}しくて、{旅行|りょこう}どころか{週末|しゅうまつ}に{休|やす}むこともできない。", "en": "I'm so busy I can't even take weekends off, let alone travel."},
+      {"ja": "彼は謝るどころか、逆に私を責めてきた。", "furigana": "{彼|かれ}は{謝|あやま}るどころか、{逆|ぎゃく}に{私|わたし}を{責|せ}めてきた。", "en": "Far from apologizing, he turned around and blamed me."}
+    ],
+    "tags": ["contrast", "emphasis"],
+    "notes": "Either the reality is the opposite of A, or not even something lesser than A is possible (AどころかBも〜ない)."
+  },
+  {
+    "pattern": "〜どころではない",
+    "romaji": "dokoro de wa nai",
+    "level": "N2",
+    "meaning": "this is no time for; out of the question",
+    "formation": "Verb-dict / Noun + どころではない",
+    "examples": [
+      {"ja": "来週は試験なので、遊びに行くどころではない。", "furigana": "{来週|らいしゅう}は{試験|しけん}なので、{遊|あそ}びに{行|い}くどころではない。", "en": "I have exams next week, so this is no time to be going out."},
+      {"ja": "引っ越しの準備に追われて、花見どころではなかった。", "furigana": "{引|ひ}っ{越|こ}しの{準備|じゅんび}に{追|お}われて、{花見|はなみ}どころではなかった。", "en": "I was so busy getting ready for the move that cherry blossom viewing was out of the question."}
+    ],
+    "tags": ["negation", "emphasis"],
+    "notes": "The circumstances make A impossible or unthinkable right now. Casual: 〜どころじゃない."
+  },
+  {
+    "pattern": "〜とは限らない",
+    "reading": "〜とはかぎらない",
+    "romaji": "to wa kagiranai",
+    "level": "N2",
+    "meaning": "not necessarily; not always",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + とは限らない",
+    "examples": [
+      {"ja": "値段が高いからといって、品質がいいとは限らない。", "furigana": "{値段|ねだん}が{高|たか}いからといって、{品質|ひんしつ}がいいとは{限|かぎ}らない。", "en": "Just because something is expensive doesn't necessarily mean it's good quality."},
+      {"ja": "専門家の意見がいつも正しいとは限らない。", "furigana": "{専門|せんもん}{家|か}の{意見|いけん}がいつも{正|ただ}しいとは{限|かぎ}らない。", "en": "Experts' opinions are not always right."}
+    ],
+    "tags": ["negation", "possibility"],
+    "notes": "Denies that something is always true; often with 必ずしも or 〜からといって."
+  },
+  {
+    "pattern": "〜というものだ",
+    "romaji": "to iu mono da",
+    "level": "N2",
+    "meaning": "that's what (A) is; that's just how it is; that's really",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + というものだ",
+    "examples": [
+      {"ja": "困っている人がいたら助ける。それが人情というものだ。", "furigana": "{困|こま}っている{人|ひと}がいたら{助|たす}ける。それが{人情|にんじょう}というものだ。", "en": "When someone's in trouble, you help them. That's what human kindness is."},
+      {"ja": "何の準備もせずに合格しようなんて、虫がよすぎるというものだ。", "furigana": "{何|なん}の{準備|じゅんび}もせずに{合格|ごうかく}しようなんて、{虫|むし}がよすぎるというものだ。", "en": "Expecting to pass without any preparation is just wishful thinking."},
+      {"ja": "一人で全部やろうとするのは無理というものだ。", "furigana": "{一人|ひとり}で{全部|ぜんぶ}やろうとするのは{無理|むり}というものだ。", "en": "Trying to do it all alone is simply unrealistic."}
+    ],
+    "tags": ["emphasis", "criticism"],
+    "notes": "A firm opinion about what something really is or how things naturally are. Often used to criticize an attitude."
+  },
+  {
+    "pattern": "〜というものではない",
+    "romaji": "to iu mono de wa nai",
+    "level": "N2",
+    "meaning": "it's not (necessarily) the case that; it doesn't follow that",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + というものではない",
+    "examples": [
+      {"ja": "練習は長くやればいいというものではない。", "furigana": "{練習|れんしゅう}は{長|なが}くやればいいというものではない。", "en": "Longer practice isn't automatically better practice."},
+      {"ja": "お金さえあれば幸せになれるというものではない。", "furigana": "お{金|かね}さえあれば{幸|しあわ}せになれるというものではない。", "en": "It's not as if money alone can make you happy."}
+    ],
+    "tags": ["negation", "criticism"],
+    "notes": "Rejects an oversimplified belief; often with 〜ばいい or 〜さえ〜ば. 〜というものでもない is a softer variant."
+  },
+  {
+    "pattern": "〜といっても",
+    "romaji": "to itte mo",
+    "level": "N2",
+    "meaning": "although I say; even though (it's called)",
+    "formation": "Verb-plain / i-Adj / na-Adj / Noun + といっても",
+    "examples": [
+      {"ja": "料理ができるといっても、簡単なものしか作れません。", "furigana": "{料理|りょうり}ができるといっても、{簡単|かんたん}なものしか{作|つく}れません。", "en": "I say I can cook, but I can only make simple things."},
+      {"ja": "海外に住んでいたといっても、たった半年のことだ。", "furigana": "{海外|かいがい}に{住|す}んでいたといっても、たった{半年|はんとし}のことだ。", "en": "I did live abroad, but only for six months."}
+    ],
+    "tags": ["concession", "limitation"],
+    "notes": "Corrects or limits what the listener might assume from the first statement. Often followed by たった, ただ or 〜しか〜ない."
+  },
+  {
+    "pattern": "〜といえば / 〜というと",
+    "romaji": "to ieba / to iu to",
+    "level": "N2",
+    "meaning": "speaking of; when you think of; if you mention",
+    "formation": "Noun + といえば / Noun + というと",
+    "examples": [
+      {"ja": "日本の夏の風物詩といえば、やはり花火大会だろう。", "furigana": "{日本|にほん}の{夏|なつ}の{風物詩|ふうぶつし}といえば、やはり{花火|はなび}{大会|たいかい}だろう。", "en": "When you think of summer traditions in Japan, fireworks festivals come to mind first."},
+      {"ja": "北海道というと、広い大地とおいしい海産物を思い浮かべる人が多い。", "furigana": "{北海道|ほっかいどう}というと、{広|ひろ}い{大地|だいち}とおいしい{海産物|かいさんぶつ}を{思|おも}い{浮|う}かべる{人|ひと}が{多|おお}い。", "en": "When people hear 'Hokkaido', many picture vast open land and delicious seafood."},
+      {"ja": "旅行といえば、来月の出張の件はどうなりましたか。", "furigana": "{旅行|りょこう}といえば、{来月|らいげつ}の{出張|しゅっちょう}の{件|けん}はどうなりましたか。", "en": "Speaking of travel, what happened with next month's business trip?"}
+    ],
+    "tags": ["topic", "example"],
+    "notes": "Introduces something closely associated with a topic, or picks up a word just mentioned to shift the conversation. 〜といったら is a more emotional variant."
+  },
+  {
+    "pattern": "〜ほかない",
+    "romaji": "hoka nai",
+    "level": "N2",
+    "meaning": "have no choice but to; there's nothing to do but",
+    "formation": "Verb-dict + ほかない / Verb-dict + よりほかない",
+    "examples": [
+      {"ja": "終電を逃してしまったので、タクシーで帰るほかない。", "furigana": "{終電|しゅうでん}を{逃|のが}してしまったので、タクシーで{帰|かえ}るほかない。", "en": "I've missed the last train, so I have no choice but to take a taxi home."},
+      {"ja": "自分で決めた道なのだから、前に進むよりほかない。", "furigana": "{自分|じぶん}で{決|き}めた{道|みち}なのだから、{前|まえ}に{進|すす}むよりほかない。", "en": "It's the path I chose, so there's nothing to do but keep going."}
+    ],
+    "tags": ["obligation", "decision"],
+    "notes": "A somewhat formal equivalent of 〜しかない (N3). Variants: 〜ほかはない, 〜よりほかない, 〜ほかしかたがない."
+  },
+  {
+    "pattern": "〜まい",
+    "romaji": "mai",
+    "level": "N2",
+    "meaning": "will not (resolve); probably won't (conjecture)",
+    "formation": "Verb-dict + まい / Verb-stem (ichidan verbs) + まい",
+    "examples": [
+      {"ja": "あんな恥ずかしい思いは、二度とするまいと心に誓った。", "furigana": "あんな{恥|は}ずかしい{思|おも}いは、{二度|にど}とするまいと{心|こころ}に{誓|ちか}った。", "en": "I swore to myself that I would never go through such embarrassment again."},
+      {"ja": "この大雨では、今日はもう誰も来るまい。", "furigana": "この{大雨|おおあめ}では、{今日|きょう}はもう{誰|だれ}も{来|く}るまい。", "en": "In this downpour, probably no one else will come today."}
+    ],
+    "tags": ["negation", "intention", "conjecture"],
+    "notes": "Written/formal. First person: firm resolve not to (〜ないつもりだ). Others: negative guess (〜ないだろう). する → するまい / すまい. Often 〜まいと思う / 〜まいと決心する."
+  },
+  {
+    "pattern": "〜（よ）うではないか",
+    "romaji": "you de wa nai ka",
+    "level": "N2",
+    "meaning": "let's (formal call to action); why don't we",
+    "formation": "Verb-volitional + ではないか / Verb-volitional + ではありませんか",
+    "examples": [
+      {"ja": "この町の未来のために、皆で力を合わせようではないか。", "furigana": "この{町|まち}の{未来|みらい}のために、{皆|みな}で{力|ちから}を{合|あ}わせようではないか。", "en": "For the future of this town, let us all join forces."},
+      {"ja": "失敗を恐れず、新しいことに挑戦してみようではありませんか。", "furigana": "{失敗|しっぱい}を{恐|おそ}れず、{新|あたら}しいことに{挑戦|ちょうせん}してみようではありませんか。", "en": "Let's not fear failure, and try taking on something new, shall we?"}
+    ],
+    "tags": ["invitation", "formal"],
+    "notes": "A strong, formal appeal to a group, typical of speeches and editorials. The casual version is 〜(よ)うじゃないか."
+  },
+  {
+    "pattern": "〜もかまわず",
+    "romaji": "mo kamawazu",
+    "level": "N2",
+    "meaning": "without caring about; regardless of; paying no attention to",
+    "formation": "Noun + もかまわず / Verb-plain + の + もかまわず",
+    "examples": [
+      {"ja": "彼女は人目もかまわず、駅のホームで大声で泣いた。", "furigana": "{彼女|かのじょ}は{人目|ひとめ}もかまわず、{駅|えき}のホームで{大声|おおごえ}で{泣|な}いた。", "en": "She cried out loud on the station platform, not caring who was watching."},
+      {"ja": "服が汚れるのもかまわず、子どもたちは泥の中で遊び続けた。", "furigana": "{服|ふく}が{汚|よご}れるのもかまわず、{子|こ}どもたちは{泥|どろ}の{中|なか}で{遊|あそ}び{続|つづ}けた。", "en": "The children kept playing in the mud without caring that their clothes were getting dirty."}
+    ],
+    "tags": ["manner", "criticism"],
+    "notes": "Doing something without minding what people would normally care about (人目, 周囲, 雨). Often implies disapproval."
+  },
+  {
+    "pattern": "〜上",
+    "reading": "〜じょう",
+    "romaji": "jou",
+    "level": "N2",
+    "meaning": "from the standpoint of; in terms of; for reasons of",
+    "formation": "Noun + 上 / Noun + 上の + Noun",
+    "examples": [
+      {"ja": "この映画には、教育上好ましくない場面が多い。", "furigana": "この{映画|えいが}には、{教育|きょういく}{上|じょう}{好|この}ましくない{場面|ばめん}が{多|おお}い。", "en": "This movie has many scenes that are undesirable from an educational standpoint."},
+      {"ja": "安全上の理由から、この先には立ち入らないでください。", "furigana": "{安全|あんぜん}{上|じょう}の{理由|りゆう}から、この{先|さき}には{立|た}ち{入|い}らないでください。", "en": "For safety reasons, please do not go beyond this point."},
+      {"ja": "法律上は問題がなくても、道徳的に許されないこともある。", "furigana": "{法律|ほうりつ}{上|じょう}は{問題|もんだい}がなくても、{道徳|どうとく}{的|てき}に{許|ゆる}されないこともある。", "en": "Even if something is legally fine, it may still be morally unacceptable."}
+    ],
+    "tags": ["standpoint", "formal", "written"],
+    "notes": "Attaches to Sino-Japanese nouns (歴史上, 経験上, 健康上, 表面上). Read じょう, not うえ."
+  },
+  {
+    "pattern": "〜おそれがある",
+    "romaji": "osore ga aru",
+    "level": "N2",
+    "meaning": "there is a risk that; could (bad outcome)",
+    "formation": "Verb-dict + おそれがある / Noun + の + おそれがある",
+    "examples": [
+      {"ja": "台風の影響で、今夜から大雨になるおそれがあります。", "furigana": "{台風|たいふう}の{影響|えいきょう}で、{今夜|こんや}から{大雨|おおあめ}になるおそれがあります。", "en": "Due to the typhoon, there is a risk of heavy rain from tonight."},
+      {"ja": "この薬は眠くなるおそれがあるので、服用後の運転は避けてください。", "furigana": "この{薬|くすり}は{眠|ねむ}くなるおそれがあるので、{服用|ふくよう}{後|ご}の{運転|うんてん}は{避|さ}けてください。", "en": "This medicine may cause drowsiness, so avoid driving after taking it."},
+      {"ja": "沿岸部には津波のおそれがあるため、避難指示が出された。", "furigana": "{沿岸|えんがん}{部|ぶ}には{津波|つなみ}のおそれがあるため、{避難|ひなん}{指示|しじ}が{出|だ}された。", "en": "An evacuation order was issued for coastal areas because of the risk of a tsunami."}
+    ],
+    "tags": ["possibility", "formal"],
+    "notes": "For undesirable possibilities; typical of news, weather reports and official warnings. Also written 〜恐れがある. 〜かねない sounds more like the speaker's own judgment."
+  },
+  {
+    "pattern": "〜せいか",
+    "romaji": "sei ka",
+    "level": "N2",
+    "meaning": "perhaps because; maybe due to",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / Noun + の + せいか",
+    "examples": [
+      {"ja": "年のせいか、最近疲れが取れにくくなった。", "furigana": "{年|とし}のせいか、{最近|さいきん}{疲|つか}れが{取|と}れにくくなった。", "en": "Maybe it's my age, but lately it takes longer to recover from fatigue."},
+      {"ja": "昨夜遅くまで起きていたせいか、今日は頭がぼんやりしている。", "furigana": "{昨夜|さくや}{遅|おそ}くまで{起|お}きていたせいか、{今日|きょう}は{頭|あたま}がぼんやりしている。", "en": "Perhaps because I stayed up late last night, my head feels foggy today."},
+      {"ja": "気のせいか、彼女は少し元気がないように見えた。", "furigana": "{気|き}のせいか、{彼女|かのじょ}は{少|すこ}し{元気|げんき}がないように{見|み}えた。", "en": "Maybe it was just my imagination, but she seemed a little down."}
+    ],
+    "tags": ["reason", "conjecture"],
+    "notes": "The speaker isn't sure of the cause. Mostly for bad or neutral results; for good results おかげか is also used."
+  },
+  {
+    "pattern": "〜だけあって / 〜だけに",
+    "romaji": "dake atte / dake ni",
+    "level": "N2",
+    "meaning": "as might be expected (since); precisely because; all the more because",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / Noun + だけあって・だけに",
+    "examples": [
+      {"ja": "さすが一流ホテルだけあって、サービスが行き届いている。", "furigana": "さすが{一流|いちりゅう}ホテルだけあって、サービスが{行|い}き{届|とど}いている。", "en": "As you'd expect from a first-class hotel, the service is impeccable."},
+      {"ja": "十年も日本に住んでいただけあって、彼の日本語はとても自然だ。", "furigana": "{十|じゅう}{年|ねん}も{日本|にほん}に{住|す}んでいただけあって、{彼|かれ}の{日本語|にほんご}はとても{自然|しぜん}だ。", "en": "As you'd expect from someone who lived in Japan for ten years, his Japanese is very natural."},
+      {"ja": "期待していただけに、落選の知らせはショックだった。", "furigana": "{期待|きたい}していただけに、{落選|らくせん}の{知|し}らせはショックだった。", "en": "Because I'd had such high hopes, the news that I wasn't selected hit me all the harder."}
+    ],
+    "tags": ["reason", "emphasis"],
+    "notes": "だけあって praises a result that matches expectations (often with さすが). だけに also means 'all the more because' and can lead to negative outcomes."
+  },
+  {
+    "pattern": "〜だけのことはある",
+    "romaji": "dake no koto wa aru",
+    "level": "N2",
+    "meaning": "it's no wonder; it lives up to; as expected of",
+    "formation": "Verb-plain / i-Adj / na-Adj + な / Noun + だけのことはある",
+    "examples": [
+      {"ja": "この料理は本当においしい。人気店だけのことはある。", "furigana": "この{料理|りょうり}は{本当|ほんとう}においしい。{人気|にんき}{店|てん}だけのことはある。", "en": "This food is really delicious. No wonder the place is so popular."},
+      {"ja": "素晴らしい演奏だった。さすが毎日練習しているだけのことはある。", "furigana": "{素晴|すば}らしい{演奏|えんそう}だった。さすが{毎日|まいにち}{練習|れんしゅう}しているだけのことはある。", "en": "It was a wonderful performance. All that daily practice really shows."}
+    ],
+    "tags": ["reason", "emphasis"],
+    "notes": "Judges a result as fully justified by the effort, price or reputation; often with さすが. Like 〜だけあって, but placed at the end of the sentence."
+  },
+  {
+    "pattern": "たとえ〜ても",
+    "romaji": "tatoe ... te mo",
+    "level": "N2",
+    "meaning": "even if; no matter",
+    "formation": "たとえ + Verb-te + も / たとえ + i-Adj-ku + ても / たとえ + na-Adj + でも / たとえ + Noun + でも",
+    "examples": [
+      {"ja": "たとえ反対されても、自分の夢を諦めるつもりはない。", "furigana": "たとえ{反対|はんたい}されても、{自分|じぶん}の{夢|ゆめ}を{諦|あきら}めるつもりはない。", "en": "Even if people oppose me, I have no intention of giving up my dream."},
+      {"ja": "たとえ小さな会社でも、やりがいのある仕事がしたい。", "furigana": "たとえ{小|ちい}さな{会社|かいしゃ}でも、やりがいのある{仕事|しごと}がしたい。", "en": "Even if it's a small company, I want to do rewarding work."},
+      {"ja": "たとえ給料が安くても、好きな仕事なら続けられる。", "furigana": "たとえ{給料|きゅうりょう}が{安|やす}くても、{好|す}きな{仕事|しごと}なら{続|つづ}けられる。", "en": "Even if the pay is low, I can keep at it if it's work I love."}
+    ],
+    "tags": ["concession", "condition", "emphasis"],
+    "notes": "たとえ signals a hypothetical 'even if' in advance and strengthens it. A more written variant is たとえ〜としても."
+  },
+  {
+    "pattern": "〜やら〜やら",
+    "romaji": "yara ... yara",
+    "level": "N2",
+    "meaning": "what with ... and ...; and ... and (among other things)",
+    "formation": "Noun + やら + Noun + やら / Verb-dict + やら + Verb-dict + やら / i-Adj + やら + i-Adj + やら",
+    "examples": [
+      {"ja": "引っ越しの前は、荷造りやら手続きやらで目が回るほど忙しかった。", "furigana": "{引|ひ}っ{越|こ}しの{前|まえ}は、{荷造|にづく}りやら{手続|てつづ}きやらで{目|め}が{回|まわ}るほど{忙|いそが}しかった。", "en": "Before the move, what with packing and paperwork, I was run off my feet."},
+      {"ja": "財布をなくして、情けないやら腹が立つやらで、泣きたくなった。", "furigana": "{財布|さいふ}をなくして、{情|なさ}けないやら{腹|はら}が{立|た}つやらで、{泣|な}きたくなった。", "en": "I lost my wallet, and between feeling pathetic and angry, I wanted to cry."}
+    ],
+    "tags": ["example", "emotion"],
+    "notes": "Lists a few examples among many, often suggesting chaos or mixed feelings. Frequently followed by で + 大変だ / 忙しい."
+  },
+  {
+    "pattern": "〜ずに済む / 〜ないで済む",
+    "reading": "〜ずにすむ / 〜ないですむ",
+    "romaji": "zu ni sumu / naide sumu",
+    "level": "N2",
+    "meaning": "get by without; not have to; be spared from",
+    "formation": "Verb-nai stem + ずに済む / Verb-nai + で済む",
+    "examples": [
+      {"ja": "友人が車で送ってくれたので、タクシーを使わずに済んだ。", "furigana": "{友人|ゆうじん}が{車|くるま}で{送|おく}ってくれたので、タクシーを{使|つか}わずに{済|す}んだ。", "en": "My friend gave me a ride, so I didn't have to take a taxi."},
+      {"ja": "早めに治療を始めたおかげで、手術しないで済んだ。", "furigana": "{早|はや}めに{治療|ちりょう}を{始|はじ}めたおかげで、{手術|しゅじゅつ}しないで{済|す}んだ。", "en": "Thanks to starting treatment early, I didn't need surgery."}
+    ],
+    "tags": ["necessity", "negation"],
+    "notes": "Something unpleasant or costly turned out to be unnecessary. する → せずに済む. Compare Noun + で済む, 'be settled with just ...'."
+  },
+  {
+    "pattern": "〜ようによっては",
+    "romaji": "you ni yotte wa",
+    "level": "N2",
+    "meaning": "depending on how (one does it)",
+    "formation": "Verb-stem + ようによっては",
+    "examples": [
+      {"ja": "考えようによっては、今回の失敗はいい教訓になったとも言える。", "furigana": "{考|かんが}えようによっては、{今回|こんかい}の{失敗|しっぱい}はいい{教訓|きょうくん}になったとも{言|い}える。", "en": "Depending on how you look at it, you could say this failure taught us a good lesson."},
+      {"ja": "古い家具も、使いようによってはおしゃれなインテリアになる。", "furigana": "{古|ふる}い{家具|かぐ}も、{使|つか}いようによってはおしゃれなインテリアになる。", "en": "Depending on how you use it, even old furniture can become stylish decor."}
+    ],
+    "tags": ["condition", "manner"],
+    "notes": "Mostly with 考え, 見, 言い, 使い: the result changes with the way A is done. Often offers a positive reinterpretation."
   }
 ]

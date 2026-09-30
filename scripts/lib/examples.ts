@@ -1,89 +1,197 @@
 /**
- * Example-sentence matcher built on the Tatoeba corpus (CC BY 2.0 FR).
+ * Example sentences from the Tatoeba corpus (CC BY 2.0 FR).
  *
  * Files expected in .cache/tatoeba/ (downloaded + decompressed by fetch-sources):
- *   jpn.tsv    id \t lang \t text
- *   eng.tsv    id \t lang \t text
- *   links.tsv  jpn_id \t eng_id
+ *   jpn.tsv           id \t lang \t text
+ *   eng.tsv           id \t lang \t text
+ *   links.tsv         jpn_id \t eng_id
+ *   jpn_indices.csv   jpn_id \t eng_id \t B-line   (Tanaka-corpus word index)
  *
- * Matching a word against ~200k sentences for 8k words would be O(n·m). Instead we
- * index sentences by character: for a query word we only scan the bucket of its
- * *rarest* character, which is tiny for kanji. Buckets are built in length-ascending
- * order so the first matches found are the shortest (nicer) sentences.
+ * A B-line lists every word of a sentence in dictionary form, e.g.
+ *   彼(かれ)[01] は 本 を 読む{読んでいる}~
+ * where (reading), [sense], {surface form} are optional and `~` marks a checked,
+ * good example of that word. Matching on B-lines finds conjugated uses (読む →
+ * 読んでいる) and avoids false hits like あれ inside であれ. Words the index doesn't
+ * cover fall back to a conservative surface-form search.
  */
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { CACHE_DIR } from './util.ts';
+import { hasKanji, toHiragana } from './kana.ts';
+import { alignReading, annotate, type Lexicon } from './furigana.ts';
 
 export interface Example {
   ja: string;
+  /** The sentence with readings over its kanji, in `{漢字|かんじ}` notation. */
+  furigana?: string;
   en: string;
+  /** Tatoeba sentence ID of the Japanese sentence (https://tatoeba.org/sentences/show/<id>). */
+  tatoeba_id?: number;
+}
+
+export interface IndexToken {
+  headword: string;
+  reading?: string;
+  sense?: number;
+  surface?: string;
+  checked: boolean;
 }
 
 const TATOEBA_DIR = join(CACHE_DIR, 'tatoeba');
-const MIN_LEN = 6;
-const MAX_LEN = 60;
-const SCAN_CAP = 4000; // max candidates scanned per word (bounds worst case)
+const MIN_LEN = 5;
+const MAX_LEN = 45;
+const IDEAL_LEN = 16;
 
-export function tatoebaAvailable(): boolean {
-  return ['jpn.tsv', 'eng.tsv', 'links.tsv'].every((f) => existsSync(join(TATOEBA_DIR, f)));
+/** Sentences we don't want to show learners by default (checked on both sides). */
+const CRUDE = /\b(fuck\w*|shit\w*|bitch\w*|damn\w*|hell|bastard\w*|dick|cock|pussy|whore|slut|rape\w*|suicide|kill yourself|nigg\w*|fag\w*|retard\w*|porn\w*|sex\w*|naked|nude|semen|sperm|erection|erotic\w*|kinky|orgasm\w*|penis|vagina|masturbat\w*|horny|boobs?|tits?)\b/i;
+const CRUDE_JA = /セックス|エッチ|エロ|ちんこ|ちんぽ|まんこ|おっぱい|精液|精子|勃起|朝立ち|しょんべん|ションベン|うんこ|自殺|殺してやる|ぶっ殺|レイプ|強姦|売春|淫|クソ|くそったれ|ファック/;
+
+export function tatoebaAvailable(dir = TATOEBA_DIR): boolean {
+  return ['jpn.tsv', 'eng.tsv', 'links.tsv'].every((f) => existsSync(join(dir, f)));
+}
+
+/**
+ * Does `text` contain `form` as a word? Short kanji forms must not sit inside a longer
+ * kanji compound (分母 is not in 充分母乳).
+ */
+function containsWord(text: string, form: string): boolean {
+  const short = [...form].length <= 2 && hasKanji(form);
+  for (let i = text.indexOf(form); i !== -1; i = text.indexOf(form, i + 1)) {
+    if (!short) return true;
+    const before = text[i - 1] ?? '';
+    const after = text[i + form.length] ?? '';
+    if (!hasKanji(before) && !hasKanji(after)) return true;
+  }
+  return false;
+}
+
+function bigrams(s: string): Set<string> {
+  const chars = [...s.replace(/[。、！？!?「」\s]/g, '')];
+  const out = new Set<string>();
+  for (let i = 0; i < chars.length - 1; i++) out.add(chars[i] + chars[i + 1]);
+  return out;
+}
+
+function jaccard(a: Set<string>, b: Set<string>): number {
+  let inter = 0;
+  for (const x of a) if (b.has(x)) inter++;
+  const union = a.size + b.size - inter;
+  return union ? inter / union : 1;
+}
+
+const TOKEN = /^(.+?)(?:\(([^)]+)\))?(?:\[(\d+)\])?(?:\{([^}]+)\})?(~)?$/;
+
+/** Parse one B-line into tokens. */
+export function parseBLine(line: string): IndexToken[] {
+  const out: IndexToken[] = [];
+  for (const raw of line.trim().split(/\s+/)) {
+    const m = raw.match(TOKEN);
+    if (!m) continue;
+    out.push({
+      headword: m[1].replace(/\|\d+$/, ''),
+      reading: m[2],
+      sense: m[3] ? Number(m[3]) : undefined,
+      surface: m[4],
+      checked: !!m[5],
+    });
+  }
+  return out;
+}
+
+interface Sentence {
+  id: number;
+  ja: string;
+  en: string;
+  bline?: string;
+}
+
+interface Posting {
+  s: number; // index into pool
+  reading?: string;
+  checked: boolean;
+}
+
+export interface ExampleQuery {
+  /**
+   * Forms to look up in the word index (headword, alternatives, JMdict kanji forms).
+   * Include kana readings only for words normally written in kana — otherwise a
+   * kanji word like 蚊 would match the particle か.
+   */
+  forms: string[];
+  /** Kana readings of this word; used to reject index entries marked with a different reading. */
+  readings: string[];
+  /** The word's JLPT level (N5–N1), used to prefer sentences with easier kanji. */
+  level: string;
 }
 
 export class ExampleIndex {
-  private pool: Example[] = [];
+  private pool: Sentence[] = [];
+  private byHeadword = new Map<string, Posting[]>();
   private charIndex = new Map<string, number[]>();
+  /** kanji → JLPT level rank (5 = N5 ... 1 = N1), for difficulty scoring. */
+  private kanjiRank = new Map<string, number>();
+  private lexicon?: Lexicon;
+  private furigana = new Map<number, string | undefined>();
 
-  constructor() {
-    // 1) Japanese sentences: id -> text
-    const jpn = new Map<string, string>();
-    for (const line of readFileSync(join(TATOEBA_DIR, 'jpn.tsv'), 'utf8').split('\n')) {
-      const tab1 = line.indexOf('\t');
-      if (tab1 < 0) continue;
-      const id = line.slice(0, tab1);
-      const text = line.slice(line.indexOf('\t', tab1 + 1) + 1);
-      jpn.set(id, text);
-    }
+  /**
+   * @param kanjiLevels kanji → JLPT level ("N5"…"N1"), used to prefer sentences with easier kanji
+   * @param dir directory holding the Tatoeba exports (defaults to .cache/tatoeba)
+   * @param lexicon readings of dictionary forms (from JMdict); enables furigana
+   */
+  constructor(kanjiLevels: Map<string, string> = new Map(), dir = TATOEBA_DIR, lexicon?: Lexicon) {
+    this.lexicon = lexicon;
+    for (const [ch, level] of kanjiLevels) this.kanjiRank.set(ch, Number(level.slice(1)));
 
-    // 2) links: jpn_id -> eng_id (keep the first english translation per jp sentence)
-    const jpToEng = new Map<string, string>();
-    const neededEng = new Set<string>();
-    for (const line of readFileSync(join(TATOEBA_DIR, 'links.tsv'), 'utf8').split('\n')) {
-      const tab = line.indexOf('\t');
-      if (tab < 0) continue;
-      const jp = line.slice(0, tab);
-      const en = line.slice(tab + 1).trim();
-      if (!jpToEng.has(jp) && jpn.has(jp)) {
-        jpToEng.set(jp, en);
-        neededEng.add(en);
+    const readTsv = (file: string, fn: (cols: string[]) => void) => {
+      for (const line of readFileSync(join(dir, file), 'utf8').split('\n')) {
+        if (line) fn(line.split('\t'));
       }
-    }
+    };
 
-    // 3) english sentences we actually need: id -> text (stream, keep only referenced)
+    const jpn = new Map<string, string>();
+    readTsv('jpn.tsv', ([id, , text]) => jpn.set(id, text));
+
+    // Preferred English translation per Japanese sentence: the B-line's "meaning id"
+    // (the curated Tanaka pairing) when present, else the first linked English sentence.
+    const preferred = new Map<string, string>();
+    const indices = new Map<string, string>();
+    const indicesFile = join(dir, 'jpn_indices.csv');
+    if (existsSync(indicesFile)) {
+      readTsv('jpn_indices.csv', ([jp, en, bline]) => {
+        if (!jpn.has(jp) || !bline) return;
+        indices.set(jp, bline);
+        if (en && en !== '-1' && en !== '0') preferred.set(jp, en);
+      });
+    }
+    readTsv('links.tsv', ([jp, en]) => {
+      if (jpn.has(jp) && !preferred.has(jp)) preferred.set(jp, en.trim());
+    });
+
+    const needed = new Set(preferred.values());
     const eng = new Map<string, string>();
-    for (const line of readFileSync(join(TATOEBA_DIR, 'eng.tsv'), 'utf8').split('\n')) {
-      const tab1 = line.indexOf('\t');
-      if (tab1 < 0) continue;
-      const id = line.slice(0, tab1);
-      if (!neededEng.has(id)) continue;
-      eng.set(id, line.slice(line.indexOf('\t', tab1 + 1) + 1));
-    }
+    readTsv('eng.tsv', ([id, , text]) => {
+      if (needed.has(id)) eng.set(id, text);
+    });
 
-    // 4) assemble (ja, en) pairs, filter by length, sort shortest-first
-    for (const [jpId, engId] of jpToEng) {
+    for (const [jpId, engId] of preferred) {
       const ja = jpn.get(jpId)!;
       const en = eng.get(engId);
-      if (!en) continue;
-      if (ja.length < MIN_LEN || ja.length > MAX_LEN) continue;
-      this.pool.push({ ja, en });
-    }
-    this.pool.sort((a, b) => a.ja.length - b.ja.length);
+      if (!en || ja.length < MIN_LEN || ja.length > MAX_LEN || CRUDE.test(en) || CRUDE_JA.test(ja)) continue;
+      const s = this.pool.length;
+      const bline = indices.get(jpId);
+      this.pool.push({ id: Number(jpId), ja, en, bline });
 
-    // 5) character -> sentence indices (length-ascending, since pool is sorted)
-    for (let i = 0; i < this.pool.length; i++) {
-      for (const ch of new Set(this.pool[i].ja)) {
+      if (bline) {
+        for (const t of parseBLine(bline)) {
+          let list = this.byHeadword.get(t.headword);
+          if (!list) this.byHeadword.set(t.headword, (list = []));
+          list.push({ s, reading: t.reading && toHiragana(t.reading), checked: t.checked });
+        }
+      }
+      for (const ch of new Set(ja)) {
         let arr = this.charIndex.get(ch);
         if (!arr) this.charIndex.set(ch, (arr = []));
-        arr.push(i);
+        arr.push(s);
       }
     }
   }
@@ -92,27 +200,97 @@ export class ExampleIndex {
     return this.pool.length;
   }
 
-  /** Up to `max` example sentences containing `word` (surface form). */
-  find(word: string, max = 2): Example[] {
-    if (!word) return [];
-    // choose the rarest character present in the index
-    let bucket: number[] | undefined;
-    for (const ch of new Set(word)) {
-      const arr = this.charIndex.get(ch);
-      if (!arr) return []; // a character with zero sentences => no match possible
-      if (!bucket || arr.length < bucket.length) bucket = arr;
+  /** Furigana for a pooled sentence, if every kanji in it can be read with confidence. */
+  private furiganaOf(s: number): string | undefined {
+    if (!this.lexicon) return undefined;
+    if (!this.furigana.has(s)) {
+      const { ja, bline } = this.pool[s];
+      this.furigana.set(s, bline ? annotate(ja, parseBLine(bline), this.lexicon) : undefined);
     }
-    if (!bucket) return [];
+    return this.furigana.get(s);
+  }
 
-    const out: Example[] = [];
-    const seenEn = new Set<string>();
-    const limit = Math.min(bucket.length, SCAN_CAP);
-    for (let i = 0; i < limit && out.length < max; i++) {
-      const s = this.pool[bucket[i]];
-      if (s.ja.includes(word) && !seenEn.has(s.en)) {
-        seenEn.add(s.en);
-        out.push(s);
+  /**
+   * Lower is better: prefer checked, readable-length sentences with kanji at or below
+   * the word's level, that write the word with its kanji (見る, not みる).
+   */
+  private cost(i: number, checked: boolean, levelRank: number, wordKanji: Set<string>): number {
+    const s = this.pool[i];
+    let hard = 0;
+    for (const ch of s.ja) {
+      if (!hasKanji(ch)) continue;
+      const r = this.kanjiRank.get(ch);
+      if (r === undefined) hard += 2;
+      else if (r < levelRank) hard += levelRank - r;
+    }
+    const kanaOnly = wordKanji.size > 0 && ![...wordKanji].some((k) => s.ja.includes(k));
+    // Sentences we can give furigana are easier to read; prefer them when furigana is on.
+    const bare = this.lexicon && hasKanji(s.ja) && !this.furiganaOf(i) ? 2 : 0;
+    return (checked ? 0 : 4) + Math.abs(s.ja.length - IDEAL_LEN) / 4 + hard * 1.5 + (kanaOnly ? 5 : 0) + bare;
+  }
+
+  /** Up to `max` example sentences for a word, best first. */
+  find(q: ExampleQuery, max = 2): Example[] {
+    const levelRank = Number(q.level.slice(1)) || 1;
+    const wordKanji = new Set([...(q.forms[0] ?? '')].filter(hasKanji));
+    const readings = new Set(q.readings.filter(Boolean).map(toHiragana));
+    const scored = new Map<number, number>(); // pool index -> cost
+
+    let indexed = false;
+    for (const form of new Set(q.forms.filter(Boolean))) {
+      const postings = this.byHeadword.get(form) ?? [];
+      if (postings.length) indexed = true;
+      for (const p of postings) {
+        // Respect an explicit reading in the index (e.g. 一日(ついたち) is not いちにち).
+        if (p.reading && readings.size && !readings.has(p.reading)) continue;
+        const c = this.cost(p.s, p.checked, levelRank, wordKanji);
+        if (c < (scored.get(p.s) ?? Infinity)) scored.set(p.s, c);
       }
+    }
+
+    if (!indexed) {
+      // Fallback for words the index doesn't know: surface search, only for forms
+      // distinctive enough to avoid false hits.
+      for (const form of q.forms.filter((f) => hasKanji(f) || [...f].length >= 3)) {
+        let bucket: number[] | undefined;
+        for (const ch of new Set(form)) {
+          const arr = this.charIndex.get(ch);
+          if (!arr) {
+            bucket = undefined;
+            break;
+          }
+          if (!bucket || arr.length < bucket.length) bucket = arr;
+        }
+        for (const s of bucket ?? []) {
+          if (containsWord(this.pool[s].ja, form)) {
+            const c = this.cost(s, false, levelRank, wordKanji);
+            if (c < (scored.get(s) ?? Infinity)) scored.set(s, c);
+          }
+        }
+      }
+    }
+
+    // With furigana we can see how the sentence reads the word: another reading means another
+    // word (a 人気 にんき card must not show {人気|ひとけ}).
+    const wordRuns = q.forms[0] && q.readings[0] && !q.forms[0].endsWith('来る') ? (alignReading(q.forms[0], q.readings[0]) ?? []).filter((x) => x.rt) : [];
+    const readsOtherwise = (furigana: string) =>
+      wordRuns.some((run) => [...furigana.matchAll(/\{([^|{}]+)\|([^|{}]+)\}/g)].some((m) => m[1] === run.text && m[2] !== toHiragana(run.rt!)));
+
+    const ranked = [...scored].sort((a, b) => a[1] - b[1] || this.pool[a[0]].id - this.pool[b[0]].id);
+    const out: Example[] = [];
+    const picked: Set<string>[] = [];
+    const seenEn = new Set<string>();
+    for (const [s] of ranked) {
+      const { id, ja, en } = this.pool[s];
+      const furigana = this.furiganaOf(s);
+      if (furigana && readsOtherwise(furigana)) continue;
+      const grams = bigrams(ja);
+      // Skip near-duplicates (何時間勉強していますか / ２時間勉強していますか).
+      if (seenEn.has(en) || picked.some((p) => jaccard(p, grams) >= 0.5)) continue;
+      seenEn.add(en);
+      picked.push(grams);
+      out.push(furigana && furigana !== ja ? { ja, furigana, en, tatoeba_id: id } : { ja, en, tatoeba_id: id });
+      if (out.length >= max) break;
     }
     return out;
   }

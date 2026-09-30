@@ -1,0 +1,51 @@
+{
+  "name": "OpenJLPT",
+  "version": "0.3.0",
+  "license": "CC-BY-SA-4.0",
+  "homepage": "https://github.com/evanclan/OpenJLPT",
+  "counts": {
+    "vocab": {
+      "N5": 674,
+      "N4": 630,
+      "N3": 1659,
+      "N2": 1778,
+      "N1": 3070,
+      "total": 7811
+    },
+    "kanji": {
+      "N5": 84,
+      "N4": 169,
+      "N3": 387,
+      "N2": 398,
+      "N1": 1345,
+      "total": 2383
+    },
+    "grammar": {
+      "N5": 81,
+      "N4": 98,
+      "N3": 101,
+      "N2": 123,
+      "N1": 123,
+      "total": 526
+    }
+  },
+  "vocab_with_examples": 7245,
+  "sources": {
+    "waller": {
+      "url": "https://www.tanos.co.uk/jlpt/",
+      "license": "CC BY",
+      "snapshot": "sources/waller/"
+    },
+    "jmdict": {
+      "created": "2026-09-29"
+    },
+    "kanjidic2": {
+      "database_version": "2026-272",
+      "created": "2026-09-29"
+    },
+    "tatoeba": {
+      "url": "https://tatoeba.org",
+      "license": "CC BY 2.0 FR"
+    }
+  }
+}
