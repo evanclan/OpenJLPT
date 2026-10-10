@@ -22,9 +22,12 @@
   function $(id) { return document.getElementById(id); }
 
   function start() {
-    $('fc-status').textContent = 'Loading…';
+    $('fc-status').textContent = '正在加载卡片…';
     fetch(OpenJLPT.root() + 'data/' + state.kind + '-' + state.level.toLowerCase() + '.json')
-      .then(function (r) { return r.json(); })
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status + ' while loading flashcard data.');
+        return r.json();
+      })
       .then(function (rows) {
         state.deck = rows;
         state.progress = loadProgress();
@@ -39,6 +42,10 @@
         state.queue = due.concat(fresh.slice(0, Math.max(0, 20 - due.length)));
         state.done = 0;
         next();
+      })
+      .catch(function (err) {
+        $('fc-status').textContent = '卡片加载失败，请刷新页面后重试。';
+        console.error('OpenJLPT flashcard data failed to load:', err);
       });
   }
 
@@ -57,13 +64,13 @@
     $('fc-card').classList.remove('flipped');
     var total = state.done + state.queue.length;
     $('fc-bar').style.width = (total ? (state.done / total) * 100 : 100) + '%';
-    $('fc-status').textContent = state.level + ' ' + ({ vocab: 'words', kanji: 'kanji', grammar: 'grammar' })[state.kind] + ' · ' +
-      state.queue.length + ' to review · ' + learned() + ' / ' + state.deck.length + ' learned';
+    $('fc-status').textContent = state.level + ' ' + ({ vocab: '单词', kanji: '汉字', grammar: '语法' })[state.kind] + ' · ' +
+      '待复习 ' + state.queue.length + ' 项 · 已掌握 ' + learned() + ' / ' + state.deck.length;
     state.current = state.queue.shift() || null;
     var row = state.current;
     if (!row) {
       $('fc-front').innerHTML = '🎉';
-      $('fc-back').innerHTML = '<p>Session complete! Come back later for due reviews, or pick another deck.</p>';
+      $('fc-back').innerHTML = '<p>本轮复习完成！可以稍后回来复习到期词条，或选择其他卡组。</p>';
       $('fc-card').classList.add('flipped');
       return;
     }
@@ -71,21 +78,21 @@
     if (state.kind === 'vocab') {
       $('fc-front').textContent = row[1];
       $('fc-back').innerHTML = '<div class="reading">' + esc(row[2]) + ' <span class="romaji">' + esc(row[3]) + '</span></div>' +
-        '<div class="meaning">' + esc(row[4]) + '</div>' +
-        (row[5] ? '<div class="ex">' + ruby(row[5]) + '<br><span style="font-family:system-ui">' + esc(row[6]) + '</span></div>' : '') +
-        '<p><a href="' + link + '" target="_blank" rel="noopener">details ↗</a></p>';
+        '<div class="meaning"><span class="gloss-en">' + esc(row[4]) + '</span>' + (row[5] ? '<span class="gloss-zh">' + esc(row[5]) + '</span>' : '') + '</div>' +
+        (row[6] ? '<div class="ex">' + ruby(row[6]) + '<br><span class="example-en">' + esc(row[7]) + '</span>' + (row[8] ? '<span class="example-zh">' + esc(row[8]) + '</span>' : '') + '</div>' : '') +
+        '<p><a href="' + link + '" target="_blank" rel="noopener">查看词条 ↗</a></p>';
     } else if (state.kind === 'kanji') {
       $('fc-front').textContent = row[1];
-      $('fc-back').innerHTML = '<div class="meaning">' + esc(row[4]) + '</div>' +
+      $('fc-back').innerHTML = '<div class="meaning"><span class="gloss-en">' + esc(row[4]) + '</span>' + (row[5] ? '<span class="gloss-zh">' + esc(row[5]) + '</span>' : '') + '</div>' +
         '<div class="reading" style="font-size:18px">' + esc(row[2]) + (row[3] ? ' · ' + esc(row[3]) : '') + '</div>' +
-        (row[5] ? '<div class="ex">' + esc(row[5]) + '</div>' : '') +
-        '<p><a href="' + link + '" target="_blank" rel="noopener">details ↗</a></p>';
+        (row[6] ? '<div class="ex">' + esc(row[6]) + '</div>' : '') +
+        '<p><a href="' + link + '" target="_blank" rel="noopener">查看词条 ↗</a></p>';
     } else {
       $('fc-front').textContent = row[1];
       $('fc-front').style.fontSize = 'clamp(32px, 8vw, 52px)';
-      $('fc-back').innerHTML = '<div class="meaning">' + esc(row[3]) + '</div>' +
-        (row[4] ? '<div class="ex">' + esc(row[4]) + '<br><span style="font-family:system-ui">' + esc(row[5]) + '</span></div>' : '') +
-        '<p><a href="' + link + '" target="_blank" rel="noopener">details ↗</a></p>';
+      $('fc-back').innerHTML = '<div class="meaning"><span class="gloss-en">' + esc(row[3]) + '</span>' + (row[4] ? '<span class="gloss-zh">' + esc(row[4]) + '</span>' : '') + '</div>' +
+        (row[5] ? '<div class="ex">' + esc(row[5]) + '<br><span class="example-en">' + esc(row[6]) + '</span>' + (row[7] ? '<span class="example-zh">' + esc(row[7]) + '</span>' : '') + '</div>' : '') +
+        '<p><a href="' + link + '" target="_blank" rel="noopener">查看词条 ↗</a></p>';
     }
     if (state.kind !== 'grammar') $('fc-front').style.fontSize = '';
   }
@@ -134,7 +141,7 @@
     $('fc-again').addEventListener('click', function () { grade(false); });
     $('fc-good').addEventListener('click', function () { grade(true); });
     $('fc-reset').addEventListener('click', function () {
-      if (confirm('Reset progress for this deck?')) { state.progress = {}; saveProgress(); start(); }
+      if (confirm('确定重置当前卡组的学习进度吗？')) { state.progress = {}; saveProgress(); start(); }
     });
     document.addEventListener('keydown', function (e) {
       if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;

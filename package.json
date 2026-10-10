@@ -88,6 +88,9 @@
     "build:data": "tsx scripts/build-vocab.ts && tsx scripts/build-kanji.ts && tsx scripts/build-grammar.ts && tsx scripts/build-sqlite.ts && tsx scripts/build-meta.ts",
     "build:grammar": "tsx scripts/build-grammar.ts && tsx scripts/build-sqlite.ts && tsx scripts/build-meta.ts",
     "build": "npm run fetch && npm run build:data && npm run validate",
+    "build:site": "tsx scripts/build-site.ts _site",
+    "site": "npm run build:site && tsx scripts/serve-site.ts",
+    "translate:zh": "tsx scripts/translate-zh.ts",
     "validate": "tsx scripts/validate.ts",
     "build:pkg": "tsc -p tsconfig.build.json",
     "typecheck": "tsc -p tsconfig.json",
@@ -100,7 +103,7 @@
     "@types/node": "^26.6.3",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
-    "better-sqlite3": "^13.0.3",
+    "better-sqlite3": "^12.11.1",
     "fast-xml-parser": "^5.11.1",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"

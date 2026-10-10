@@ -1,0 +1,42 @@
+{
+  "vocab.86f67e2dc3.meaning.0": {
+    "source": "to eat",
+    "translation": "吃；进食"
+  },
+  "vocab.86f67e2dc3.example.0": {
+    "source": "That hit the spot.",
+    "translation": "这顿饭真是太合胃口了。"
+  },
+  "vocab.86f67e2dc3.example.1": {
+    "source": "You must not read while eating.",
+    "translation": "吃饭时不可以看书。"
+  },
+  "grammar.te-mo-ii.meaning": {
+    "source": "may; it's okay to",
+    "translation": "可以；做……也没关系"
+  },
+  "grammar.te-mo-ii.formation": {
+    "source": "Verb-te + もいい",
+    "translation": "动词て形 + もいい"
+  },
+  "grammar.te-mo-ii.example.0": {
+    "source": "May I use this dictionary?",
+    "translation": "我可以使用这本词典吗？"
+  },
+  "grammar.te-mo-ii.example.1": {
+    "source": "You may go home early today.",
+    "translation": "今天可以早点回家。"
+  },
+  "grammar.te-mo-ii.example.2": {
+    "source": "Is it all right if I sit here?",
+    "translation": "我可以坐在这里吗？"
+  },
+  "grammar.te-mo-ii.notes": {
+    "source": "Add ですか to ask for permission. A polite refusal is often just すみません、ちょっと….",
+    "translation": "在句尾加上 ですか 可以询问是否允许。礼貌拒绝时，常常只说「すみません、ちょっと……」。"
+  },
+  "kanji.食.meaning.0": {
+    "source": "eat",
+    "translation": "吃"
+  }
+}
