@@ -75,6 +75,7 @@ img { max-width: 100%; }
 }
 .site-header .wrap { display: flex; align-items: center; gap: 16px; height: 56px; }
 .brand { display: flex; align-items: center; gap: 8px; font-weight: 700; color: var(--text); font-size: 17px; }
+.brand small { display: block; color: var(--muted); font-size: 11px; font-weight: 500; line-height: 1; }
 .brand:hover { text-decoration: none; }
 .brand-mark {
   display: grid; place-items: center; width: 28px; height: 28px; border-radius: 50%;
@@ -151,6 +152,7 @@ h3 { font-size: 17px; margin: 20px 0 8px; }
 .results .m { color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .results .r { font-family: var(--jp); color: var(--muted); margin-left: 6px; font-weight: 400; font-size: 15px; }
 .kind { font-size: 11px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin-right: 6px; }
+.results .result-empty { padding: 16px 12px; color: var(--muted); }
 
 /* Entry pages */
 .entry-head { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px 18px; margin-bottom: 8px; }
@@ -168,6 +170,10 @@ h3 { font-size: 17px; margin: 20px 0 8px; }
 .meanings { font-size: 20px; margin: 14px 0; padding-left: 28px; }
 .meanings.single { list-style: none; padding-left: 0; }
 .meanings li { margin: 2px 0; }
+.meaning-zh { display: block; margin-top: 2px; color: var(--link); font-size: .88em; line-height: 1.55; }
+.search-zh { display: block; margin-top: 3px; color: var(--link); font-size: 13px; white-space: normal; }
+.formation .meaning-zh { font-family: system-ui, var(--jp); }
+.note .meaning-zh { color: inherit; opacity: .82; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
 .chip { font-size: 13px; padding: 2px 10px; border-radius: 999px; background: var(--surface-2); color: var(--muted); border: 1px solid var(--border); }
 a.chip:hover { text-decoration: none; color: var(--text); }
@@ -240,6 +246,8 @@ table.list td.r { font-family: var(--jp); color: var(--muted); white-space: nowr
 .fc-card.flipped .fc-back { display: block; }
 .fc-back .reading { font-size: 26px; }
 .fc-back .meaning { font-size: 20px; margin: 8px 0; }
+.fc-back .gloss-en, .fc-back .example-en { display: block; }
+.fc-back .gloss-zh, .fc-back .example-zh { display: block; color: var(--link); font-size: .9em; }
 .fc-back .ex { font-family: var(--jp); color: var(--muted); font-size: 16px; line-height: 2; }
 .fc-back .ex rt { font-size: 0.6em; }
 .fc-progress { height: 6px; border-radius: 999px; background: var(--surface-2); overflow: hidden; margin: 16px 0; }
@@ -264,6 +272,55 @@ textarea.analyze { width: 100%; min-height: 160px; font-family: var(--jp); font-
 
 .hero { padding: 28px 0 8px; }
 .hero h1 .accent { color: var(--accent); }
+.dictionary-home { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 28px; align-items: start; max-width: 1120px; margin: 10px auto 28px; }
+.dict-hero { min-width: 0; }
+.dict-brandline { display: flex; align-items: center; gap: 14px; margin: 24px 0 10px; }
+.dict-mark { display: grid; place-items: center; width: 54px; height: 54px; border: 2px solid var(--accent); border-radius: 14px; color: var(--accent); font-family: var(--jp); font-size: 30px; font-weight: 700; }
+.dict-kicker { color: var(--accent); font-size: 13px; font-weight: 700; letter-spacing: .08em; margin: 0 0 4px; }
+.dict-brandline h1 { font-size: clamp(26px, 3.4vw, 34px); margin: 0; }
+.dict-intro { color: var(--muted); margin: 0 0 22px 68px; }
+.dict-panel { background: var(--surface); border: 1px solid var(--border); border-top: 3px solid var(--accent); border-radius: 4px 4px var(--radius) var(--radius); box-shadow: var(--shadow); padding: 0 24px 18px; }
+.search-tabs { display: flex; gap: 26px; border-bottom: 1px solid var(--border); margin: 0 -4px 0; }
+.search-tabs button { position: relative; padding: 15px 4px 12px; border: 0; background: transparent; color: var(--muted); font: inherit; cursor: pointer; }
+.search-tabs button[aria-pressed='true'] { color: var(--accent); font-weight: 700; }
+.search-tabs button[aria-pressed='true']::after { position: absolute; content: ''; left: 0; right: 0; bottom: -1px; height: 2px; background: var(--accent); }
+.dict-search { display: flex; max-width: none; margin: 20px 0 8px; }
+.dict-search input { min-width: 0; font-size: 16px; border-radius: 6px; box-shadow: none; padding: 12px 104px 12px 42px; }
+.dict-search svg { left: 13px; }
+.dict-search .search-submit { position: absolute; right: 0; top: 0; bottom: 0; min-width: 82px; border: 0; border-radius: 0 6px 6px 0; background: var(--accent); color: #fff; font: inherit; font-weight: 700; cursor: pointer; }
+.dict-search .search-submit:hover { filter: brightness(1.08); }
+.search-hint { color: var(--muted); font-size: 13px; }
+.search-hint button { padding: 0 3px; border: 0; background: transparent; color: var(--link); font: inherit; cursor: pointer; }
+.search-hint button:hover { text-decoration: underline; }
+.result-caption { color: var(--muted); font-size: 13px; margin-top: 18px; }
+.dict-panel .results { max-width: none; margin-top: 4px; }
+.dict-panel .results li { border-bottom: 1px solid var(--border); }
+.dict-panel .results li:last-child { border-bottom: 0; }
+.dict-panel .results li a { grid-template-columns: minmax(100px, auto) minmax(0, 1fr) auto; padding: 13px 6px; border-radius: 4px; }
+.dict-panel .results li a:hover, .dict-panel .results li a:focus { background: var(--surface-2); }
+.dict-panel .results .kind { display: inline-block; min-width: 32px; padding: 1px 5px; border-radius: 3px; background: var(--surface-2); text-align: center; letter-spacing: 0; }
+.dict-note { color: var(--muted); font-size: 12px; margin: 14px 0; }
+.dict-aside { display: grid; gap: 14px; margin-top: 25px; }
+.aside-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 16px; }
+.aside-heading { display: flex; align-items: baseline; justify-content: space-between; padding-bottom: 12px; border-bottom: 1px solid var(--border); font-weight: 700; }
+.aside-heading small { color: var(--muted); font-size: 12px; font-weight: 400; }
+.level-links { display: grid; gap: 2px; margin: 8px 0; }
+.level-link, .tool-link { display: flex; align-items: center; gap: 10px; padding: 9px 6px; border-radius: 6px; color: var(--text); }
+.level-link:hover, .tool-link:hover { background: var(--surface-2); text-decoration: none; }
+.level-mark { min-width: 38px; padding: 3px 5px; border-radius: 4px; background: var(--surface-2); color: var(--accent); font-size: 12px; font-weight: 700; text-align: center; }
+.level-link.N5 .level-mark { color: var(--n5); }.level-link.N4 .level-mark { color: var(--n4); }.level-link.N3 .level-mark { color: var(--n3); }.level-link.N2 .level-mark { color: var(--n2); }.level-link.N1 .level-mark { color: var(--n1); }
+.level-link strong, .tool-link strong { display: block; font-size: 14px; }
+.level-link small, .tool-link small { display: block; color: var(--muted); font-size: 12px; }
+.level-arrow { margin-left: auto; color: var(--muted); font-size: 20px; }
+.aside-more { display: block; border-top: 1px solid var(--border); padding: 12px 6px 0; font-size: 13px; }
+.tool-link { border-bottom: 1px solid var(--border); }
+.tool-link:last-child { border-bottom: 0; }
+.tool-icon { display: grid; place-items: center; width: 34px; height: 34px; border-radius: 8px; background: var(--accent-soft); color: var(--accent); font-family: var(--jp); font-weight: 700; }
+.dict-counts { margin: 0; color: var(--muted); font-size: 12px; text-align: center; }
+.dict-counts strong { color: var(--text); }
+.dict-counts i { padding: 0 3px; font-style: normal; }
+@media (max-width: 820px) { .dictionary-home { grid-template-columns: 1fr; gap: 12px; }.dict-aside { grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 4px; }.dict-counts { grid-column: 1 / -1; } }
+@media (max-width: 560px) { .dict-panel { padding: 0 14px 14px; }.dict-intro { margin-left: 0; }.dict-aside { grid-template-columns: 1fr; }.dict-panel .results li a { grid-template-columns: 1fr auto; gap: 4px 10px; }.dict-panel .results .m { grid-column: 1 / 2; white-space: normal; }.dict-panel .results .lvl { grid-column: 2; grid-row: 1 / 3; } }
 .code-tabs pre { margin: 0; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 

@@ -50,16 +50,14 @@ example sentences, and unclear licensing. OpenJLPT fixes the data and makes it e
 
 ## What's inside
 
-<!-- counts:table -->
-| Level | Words | Kanji | Grammar | |
+<!-- counts:table -->| Level | Words | Kanji | Grammar | |
 |:---:|---:|---:|---:|---|
 | **N5** | 674 | 84 | 81 | Beginner |
 | **N4** | 630 | 169 | 98 | Elementary |
 | **N3** | 1,659 | 387 | 101 | Intermediate |
 | **N2** | 1,778 | 398 | 123 | Upper intermediate |
 | **N1** | 3,070 | 1,345 | 123 | Advanced |
-| **Total** | **7,811** | **2,383** | **526** | |
-<!-- /counts:table -->
+| **Total** | **7,811** | **2,383** | **526** | |<!-- /counts:table -->
 
 Each word appears once, at the easiest level that lists it. The counts come from
 [`data/json/meta.json`](https://github.com/evanclan/OpenJLPT/blob/main/data/json/meta.json), which also records the upstream versions.
@@ -73,6 +71,37 @@ Each word appears once, at the easiest level that lists it. The counts come from
 - **[Anki decks](https://evanclan.github.io/OpenJLPT/data.html#anki)** for each level, with furigana, example sentences and text-to-speech.
 - **[Yomitan dictionary](https://evanclan.github.io/OpenJLPT/data.html#yomitan)** that shows JLPT levels in your pop-up dictionary.
 - **Spreadsheets:** open any [CSV](https://github.com/evanclan/OpenJLPT/tree/main/data/csv) in Excel or Google Sheets.
+
+### Run the website locally
+
+With Node.js 18 or newer, install dependencies once with `npm install`, then run:
+
+```bash
+npm run site
+```
+
+This builds the static dictionary into `_site/` and serves it at <http://127.0.0.1:4173>.
+Search for vocabulary, kanji and grammar, or browse the N5–N1 lists.
+
+Chinese translations are stored locally in `data/translations/zh-CN.json`; site builds and
+dictionary searches use this file offline. To generate missing translations, configure an
+OpenAI-compatible Chat Completions endpoint and run `npm run translate:zh`:
+
+```powershell
+$env:OPENJLPT_TRANSLATION_ENDPOINT = "https://your-provider.example/v1/chat/completions"
+$env:OPENJLPT_TRANSLATION_MODEL = "your-translation-model"
+$env:OPENJLPT_TRANSLATION_API_KEY = "your-api-key"
+npm run translate:zh
+npm run site
+```
+
+The API key is optional for local endpoints that do not require authentication. Generated
+translations are saved in batches and reused by subsequent runs; use
+`npm run translate:zh -- --list-missing` to check how many remain without contacting the API.
+Review translations before sharing them. You can also edit `data/translations/zh-CN.json`
+directly; entries are refreshed automatically when their English source text changes.
+The current dataset has about 42,000 translatable fields, so the full run may take time and
+incur charges from your translation provider. Try `npm run translate:zh -- --limit=30` first.
 
 ### JavaScript / TypeScript
 
