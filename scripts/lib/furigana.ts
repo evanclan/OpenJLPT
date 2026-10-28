@@ -52,6 +52,8 @@ function runs(word: string): string[] {
  * the reading doesn't fit the word or the alignment is ambiguous.
  */
 export function alignReading(word: string, reading: string): Segment[] | undefined {
+  // B-line metadata (e.g. #1392580) is not a pronunciation.
+  if (!/^[ぁ-ゖー]+$/.test(toHiragana(reading))) return undefined;
   const parts = runs(word);
   if (!parts.some(isKanjiRun)) return toHiragana(word) === toHiragana(reading) ? [{ text: word }] : undefined;
   const escape = (s: string) => toHiragana(s).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');

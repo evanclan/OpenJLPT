@@ -66,6 +66,9 @@ test('sentences are annotated from their B-line', () => {
 });
 
 test('no furigana when any kanji is uncertain', () => {
+  assert.equal(alignReading('前', '#1392580'), undefined);
+  assert.equal(ruby('前に行く。', '前(#1392580) に 行く'), undefined);
+  assert.equal(ruby('妻は本を読む。', '妻(#1294330) は 本 を 読む'), undefined);
   // 東京 is not in the index line, so part of the sentence is unaccounted for.
   assert.equal(ruby('東京で本を読む。', '本 を 読む'), undefined);
   // No reading known for 蚊.
