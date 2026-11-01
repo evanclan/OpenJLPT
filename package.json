@@ -97,11 +97,11 @@
   },
   "devDependencies": {
     "@types/better-sqlite3": "^9.6.0",
-    "@types/node": "^26.6.3",
+    "@types/node": "^26.6.6",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
     "better-sqlite3": "^13.0.3",
-    "fast-xml-parser": "^5.11.1",
+    "fast-xml-parser": "^5.11.2",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   },
