@@ -4071,16 +4071,16 @@
     "jmdict_id": 1198550,
     "examples": [
       {
-        "ja": "ビルは三年前にこの会社に入った。",
-        "furigana": "ビルは{三年|さんねん}{前|#1392580}にこの{会社|かいしゃ}に{入|はい}った。",
-        "en": "Bill joined our company three years ago.",
-        "tatoeba_id": 197326
-      },
-      {
         "ja": "会社をクビにならなきゃいいけどね。",
         "furigana": "{会社|かいしゃ}をクビにならなきゃいいけどね。",
         "en": "I hope I can hold on to my job.",
         "tatoeba_id": 185231
+      },
+      {
+        "ja": "父はその会社にいくらかかんけいしている。",
+        "furigana": "{父|ちち}はその{会社|かいしゃ}にいくらかかんけいしている。",
+        "en": "My father has something to do with that firm.",
+        "tatoeba_id": 84717
       }
     ]
   },
@@ -6319,16 +6319,16 @@
     "jmdict_id": 1350110,
     "examples": [
       {
-        "ja": "寝る前に電気を消してください。",
-        "furigana": "{寝|ね}る{前|#1392580}に{電気|でんき}を{消|け}してください。",
-        "en": "Turn off the light before you go to bed.",
-        "tatoeba_id": 145648
-      },
-      {
         "ja": "ローソクを消していただけますか。",
         "furigana": "ローソクを{消|け}していただけますか。",
         "en": "Would you put out the candles?",
         "tatoeba_id": 192284
+      },
+      {
+        "ja": "読書ランプを消したいのですが。",
+        "furigana": "{読書|どくしょ}ランプを{消|け}したいのですが。",
+        "en": "I'd like to turn off the reading lamp, is that OK?",
+        "tatoeba_id": 123367
       }
     ]
   },
@@ -11584,10 +11584,10 @@
         "tatoeba_id": 155750
       },
       {
-        "ja": "そのデパートの前に書店がある。",
-        "furigana": "そのデパートの{前|#1392580}に{書店|しょてん}がある。",
-        "en": "There is a bookstore in front of the department store.",
-        "tatoeba_id": 212947
+        "ja": "私はデパートでオーバーをあつらえた。",
+        "furigana": "{私|わたし}はデパートでオーバーをあつらえた。",
+        "en": "I ordered my overcoat from a department store.",
+        "tatoeba_id": 159419
       }
     ]
   },
@@ -11834,15 +11834,14 @@
     "jmdict_id": 1087820,
     "examples": [
       {
-        "ja": "入る前にドアをノックして下さい。",
-        "furigana": "{入|はい}る{前|#1392580}にドアをノックして{下|くだ}さい。",
-        "en": "Please knock on the door before you enter.",
-        "tatoeba_id": 122091
-      },
-      {
         "ja": "ドアをあけてくださいませんか。",
         "en": "Will you open the door?",
         "tatoeba_id": 201824
+      },
+      {
+        "ja": "そのドアはひとりでにかぎがかかる。",
+        "en": "The door locks automatically.",
+        "tatoeba_id": 212926
       }
     ]
   },
@@ -13810,16 +13809,16 @@
     "jmdict_id": 1465590,
     "examples": [
       {
-        "ja": "入る前にドアをノックして下さい。",
-        "furigana": "{入|はい}る{前|#1392580}にドアをノックして{下|くだ}さい。",
-        "en": "Please knock on the door before you enter.",
-        "tatoeba_id": 122091
-      },
-      {
         "ja": "校長が先生の後ろから入ってきた。",
         "furigana": "{校長|こうちょう}が{先生|せんせい}の{後|うし}ろから{入|はい}ってきた。",
         "en": "The principal came in after the teacher.",
         "tatoeba_id": 173570
+      },
+      {
+        "ja": "バケツに水がいっぱい入っている。",
+        "furigana": "バケツに{水|みず}がいっぱい{入|はい}っている。",
+        "en": "The bucket is full of water.",
+        "tatoeba_id": 198284
       }
     ]
   },
@@ -16659,15 +16658,15 @@
     ],
     "examples": [
       {
-        "ja": "まっすぐ前を見てください。",
-        "furigana": "まっすぐ{前|#1392580}を{見|み}てください。",
-        "en": "Look forward, please.",
-        "tatoeba_id": 195363
-      },
-      {
         "ja": "サイドミラーがまっすぐになっていない。",
         "en": "My side mirror is out of alignment.",
         "tatoeba_id": 216856
+      },
+      {
+        "ja": "この道をまっすぐいらっしゃい。",
+        "furigana": "この{道|みち}をまっすぐいらっしゃい。",
+        "en": "Go straight ahead along this street.",
+        "tatoeba_id": 220295
       }
     ]
   },
@@ -17958,7 +17957,6 @@
     "examples": [
       {
         "ja": "ひょっとすると夕方前に雨になるかもしれない。",
-        "furigana": "ひょっとすると{夕方|ゆうがた}{前|#1392580}に{雨|あめ}になるかもしれない。",
         "en": "It might rain before evening.",
         "tatoeba_id": 197417
       },

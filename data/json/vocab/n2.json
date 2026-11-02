@@ -7287,10 +7287,10 @@
         "tatoeba_id": 205761
       },
       {
-        "ja": "９０度の角度は直角と呼ばれている。",
-        "furigana": "９０{度|#1445160}の{角度|かくど}は{直角|ちょっかく}と{呼|よ}ばれている。",
-        "en": "An angle of 90 degrees is called a right angle.",
-        "tatoeba_id": 234923
+        "ja": "屋根は鋭い角度で傾斜している。",
+        "furigana": "{屋根|やね}は{鋭|するど}い{角度|かくど}で{傾斜|けいしゃ}している。",
+        "en": "The roof slopes sharply.",
+        "tatoeba_id": 188432
       }
     ]
   },
@@ -8766,15 +8766,15 @@
     "jmdict_id": 1196380,
     "examples": [
       {
-        "ja": "与党は前の選挙で過半数を占めた。",
-        "furigana": "{与党|よとう}は{前|#1392580}の{選挙|せんきょ}で{過半数|かはんすう}を{占|し}めた。",
-        "en": "The government got their majority at the last election.",
-        "tatoeba_id": 78931
-      },
-      {
         "ja": "合格者の過半数は大学出身者であった。",
         "en": "The majority of the successful candidates were university graduates.",
         "tatoeba_id": 173167
+      },
+      {
+        "ja": "父はその会社の過半数の株を所有している。",
+        "furigana": "{父|ちち}はその{会社|かいしゃ}の{過半数|かはんすう}の{株|かぶ}を{所有|しょゆう}している。",
+        "en": "My father holds the major interest in the corporation.",
+        "tatoeba_id": 84716
       }
     ]
   },
@@ -9389,16 +9389,16 @@
     "jmdict_id": 1215380,
     "examples": [
       {
-        "ja": "彼が答える前に長い時間の間隔があった。",
-        "furigana": "{彼|かれ}が{答|こた}える{前|#1392580}に{長|なが}い{時間|じかん}の{間隔|かんかく}があった。",
-        "en": "There was a long interval before he replied.",
-        "tatoeba_id": 119604
-      },
-      {
         "ja": "小屋は５０メートルの間隔で建てられた。",
         "furigana": "{小屋|こや}は５０メートルの{間隔|かんかく}で{建|た}てられた。",
         "en": "The huts were built with a space of 50 meters in between.",
         "tatoeba_id": 146983
+      },
+      {
+        "ja": "バスはどれくらいの間隔で走っていますか。",
+        "furigana": "バスはどれくらいの{間隔|かんかく}で{走|はし}っていますか。",
+        "en": "How often do the buses run?",
+        "tatoeba_id": 198123
       }
     ]
   },
@@ -10052,7 +10052,6 @@
       },
       {
         "ja": "彼女は今夜のパーティーの前に着替えをしなければならない。",
-        "furigana": "{彼女|かのじょ}は{今夜|こんや}のパーティーの{前|#1392580}に{着替|きが}えをしなければならない。",
         "en": "She has to change clothes before tonight's party.",
         "tatoeba_id": 89973
       }
@@ -10151,16 +10150,16 @@
     "jmdict_id": 1220560,
     "examples": [
       {
-        "ja": "期限前にこの仕事を仕上げなさい。",
-        "furigana": "{期限|きげん}{前|#1392580}にこの{仕事|しごと}を{仕上|しあ}げなさい。",
-        "en": "You must get the job done before the deadline.",
-        "tatoeba_id": 183396
-      },
-      {
         "ja": "すべてのレポートは期限を守って提出されなければならない。",
         "furigana": "すべてのレポートは{期限|きげん}を{守|まも}って{提出|ていしゅつ}されなければならない。",
         "en": "All essays must be handed in on time.",
         "tatoeba_id": 214481
+      },
+      {
+        "ja": "出来る限り期限内に終えるようにやってみます。",
+        "furigana": "{出来|でき}る{限|かぎ}り{期限|きげん}{内|ない}に{終|お}えるようにやってみます。",
+        "en": "I'll try my best to finish it in time.",
+        "tatoeba_id": 147670
       }
     ]
   },
@@ -11399,7 +11398,6 @@
     "examples": [
       {
         "ja": "外出する前に髪を櫛でときなさい。",
-        "furigana": "{外出|がいしゅつ}する{前|#1392580}に{髪|かみ}を{櫛|くし}でときなさい。",
         "en": "Comb your hair before you go out.",
         "tatoeba_id": 184731
       },
@@ -11491,16 +11489,15 @@
     "jmdict_id": 1244530,
     "examples": [
       {
-        "ja": "苦心の甲斐があった。",
-        "furigana": "{苦心|くしん}の{甲斐|#1280250}があった。",
-        "en": "That was well worth the trouble.",
-        "tatoeba_id": 179528
-      },
-      {
         "ja": "その歌手はファンの群がる中を苦心して進んだ。",
         "furigana": "その{歌手|かしゅ}はファンの{群|むら}がる{中|なか}を{苦心|くしん}して{進|すす}んだ。",
         "en": "The singer fought his way through the crowd of fans.",
         "tatoeba_id": 211977
+      },
+      {
+        "ja": "苦心の甲斐があった。",
+        "en": "That was well worth the trouble.",
+        "tatoeba_id": 179528
       }
     ]
   },
@@ -20340,7 +20337,6 @@
     "examples": [
       {
         "ja": "朝食前に出勤するなんていかにも彼らしい。",
-        "furigana": "{朝食|ちょうしょく}{前|#1392580}に{出勤|しゅっきん}するなんていかにも{彼|かれ}らしい。",
         "en": "It is characteristic of him to go to work before breakfast.",
         "tatoeba_id": 126176
       },
@@ -24417,10 +24413,10 @@
         "tatoeba_id": 149116
       },
       {
-        "ja": "正門前には、まだ人の姿もない。",
-        "furigana": "{正門|せいもん}{前|#1392580}には、まだ{人|ひと}の{姿|すがた}もない。",
-        "en": "There isn't anybody in front of the main gate yet.",
-        "tatoeba_id": 75492
+        "ja": "それは正門です。",
+        "furigana": "それは{正門|せいもん}です。",
+        "en": "It's the front gate.",
+        "tatoeba_id": 205039
       }
     ]
   },
@@ -25950,7 +25946,6 @@
     "examples": [
       {
         "ja": "私は優れた彼の妻になる素質がある。",
-        "furigana": "{私|わたし}は{優|すぐ}れた{彼|かれ}の{妻|#1294330}になる{素質|そしつ}がある。",
         "en": "I make an excellent wife for him.",
         "tatoeba_id": 152520
       },
@@ -26223,10 +26218,10 @@
         "tatoeba_id": 226759
       },
       {
-        "ja": "出かける前にヒゲを剃らなくては。",
-        "furigana": "{出|で}かける{前|#1392580}にヒゲを{剃|そ}らなくては。",
-        "en": "I've got to shave before leaving.",
-        "tatoeba_id": 147792
+        "ja": "ひげを剃って下さい。",
+        "furigana": "ひげを{剃|そ}って{下|くだ}さい。",
+        "en": "Please shave my beard.",
+        "tatoeba_id": 197616
       }
     ]
   },
@@ -26670,16 +26665,16 @@
     "jmdict_id": 1412970,
     "examples": [
       {
-        "ja": "彼は大して妻の話し相手にはならない。",
-        "furigana": "{彼|かれ}は{大|たい}して{妻|#1294330}の{話|はな}し{相手|あいて}にはならない。",
-        "en": "He is not much of a companion for his wife.",
-        "tatoeba_id": 102473
-      },
-      {
         "ja": "彼が来るかどうかは大して重要ではない。",
         "furigana": "{彼|かれ}が{来|く}るかどうかは{大|たい}して{重要|じゅうよう}ではない。",
         "en": "It makes no difference whether he will come or not.",
         "tatoeba_id": 119372
+      },
+      {
+        "ja": "この仕事はたいして骨が折れない。",
+        "furigana": "この{仕事|しごと}はたいして{骨|ほね}が{折|お}れない。",
+        "en": "The work doesn't need much effort.",
+        "tatoeba_id": 221821
       }
     ]
   },
@@ -26816,7 +26811,6 @@
     "examples": [
       {
         "ja": "朝食前にいつも体操をします。",
-        "furigana": "{朝食|ちょうしょく}{前|#1392580}にいつも{体操|たいそう}をします。",
         "en": "I always take some exercise before breakfast.",
         "tatoeba_id": 126177
       },
@@ -31527,10 +31521,9 @@
         "tatoeba_id": 79577
       },
       {
-        "ja": "彼が鉄砲を掃除していたら暴発し、もう少しで妻に当たるところだった。",
-        "furigana": "{彼|かれ}が{鉄砲|てっぽう}を{掃除|そうじ}していたら{暴発|ぼうはつ}し、もう{少|すこ}しで{妻|#1294330}に{当|あ}たるところだった。",
-        "en": "The gun went off while he was cleaning it, and the bullet almost struck his wife.",
-        "tatoeba_id": 119632
+        "ja": "合衆国では２億１６００万丁もの鉄砲類が、民間の手にあるという。",
+        "en": "In the U.S., as many as 216 million firearms are said to be in private hands.",
+        "tatoeba_id": 173157
       }
     ]
   },
@@ -39065,10 +39058,10 @@
         "tatoeba_id": 192059
       },
       {
-        "ja": "白ワインは出す前に冷やす方がいいよ。",
-        "furigana": "{白|しろ}ワインは{出|だ}す{前|#1392580}に{冷|ひ}やす{方|ほう}がいいよ。",
-        "en": "It's better to chill white wine before you serve it.",
-        "tatoeba_id": 121431
+        "ja": "病人の頭を氷で冷やした。",
+        "furigana": "{病人|びょうにん}の{頭|あたま}を{氷|こおり}で{冷|ひ}やした。",
+        "en": "I cooled the patient's head with ice.",
+        "tatoeba_id": 85237
       }
     ]
   },
@@ -39092,7 +39085,6 @@
     "examples": [
       {
         "ja": "この百科事典は、妻のものです。",
-        "furigana": "この{百科事典|ひゃっかじてん}は、{妻|#1294330}のものです。",
         "en": "This encyclopedia belongs to my wife.",
         "tatoeba_id": 220123
       },
@@ -41190,7 +41182,6 @@
     "examples": [
       {
         "ja": "駅の前に噴水があります。",
-        "furigana": "{駅|えき}の{前|#1392580}に{噴水|ふんすい}があります。",
         "en": "There is a fountain in front of the station.",
         "tatoeba_id": 188907
       }
@@ -42968,7 +42959,6 @@
     "examples": [
       {
         "ja": "昨夜、温度計はマイナス１０度を示した。",
-        "furigana": "{昨夜|ゆうべ}、{温度計|おんどけい}はマイナス１０{度|#1445160}を{示|しめ}した。",
         "en": "The thermometer registered minus ten last night.",
         "tatoeba_id": 169712
       },
@@ -44796,10 +44786,9 @@
         "tatoeba_id": 223420
       },
       {
-        "ja": "リンゴを食べる前に皮をむきなさい。",
-        "furigana": "リンゴを{食|た}べる{前|#1392580}に{皮|かわ}をむきなさい。",
-        "en": "Take the skin off before you eat the apple.",
-        "tatoeba_id": 192447
+        "ja": "オレンジをむいてあげよう。",
+        "en": "I'll peel an orange for you.",
+        "tatoeba_id": 227423
       }
     ]
   },
@@ -45118,7 +45107,6 @@
       },
       {
         "ja": "名詞から動詞が派生していることもあれば、その逆のこともある。",
-        "furigana": "{名詞|めいし}から{動詞|どうし}が{派生|はせい}していることもあれば、その{逆|#1226960}のこともある。",
         "en": "Sometimes a verb is derived from a noun and sometimes it is the other way around.",
         "tatoeba_id": 80801
       }
@@ -48353,10 +48341,10 @@
         "tatoeba_id": 196088
       },
       {
-        "ja": "４年前に１年の予定で来日しました。",
-        "furigana": "４{年|ねん}{前|#1392580}に１{年|とし}の{予定|よてい}で{来日|らいにち}しました。",
-        "en": "I came to Japan four years ago intending to stay for one year.",
-        "tatoeba_id": 161935
+        "ja": "私はボブがいつ来日したのかを知らなかった。",
+        "furigana": "{私|わたし}はボブがいつ{来日|らいにち}したのかを{知|し}らなかった。",
+        "en": "I didn't know when Bob had come to Japan.",
+        "tatoeba_id": 236691
       }
     ]
   },
@@ -48603,15 +48591,15 @@
     "jmdict_id": 1141620,
     "examples": [
       {
-        "ja": "妻はアメリカでの新しい生活のリズムに慣れるのにえらい苦労した。",
-        "furigana": "{妻|#1294330}はアメリカでの{新|あたら}しい{生活|せいかつ}のリズムに{慣|な}れるのにえらい{苦労|くろう}した。",
-        "en": "My wife had a hard time getting into the swing of our new life in America.",
-        "tatoeba_id": 170357
-      },
-      {
         "ja": "サンバはブラジルのリズムですね。",
         "en": "Samba is a Brazilian rhythm, isn't it?",
         "tatoeba_id": 74828
+      },
+      {
+        "ja": "私はリズム＆ブルースが好きです。",
+        "furigana": "{私|わたし}はリズム＆ブルースが{好|す}きです。",
+        "en": "I like R&B.",
+        "tatoeba_id": 158610
       }
     ]
   },
@@ -49180,7 +49168,6 @@
     "examples": [
       {
         "ja": "レンズを通ると像は逆になった。",
-        "furigana": "レンズを{通|とお}ると{像|ぞう}は{逆|#1226960}になった。",
         "en": "Through the lens the image was inverted.",
         "tatoeba_id": 192319
       },

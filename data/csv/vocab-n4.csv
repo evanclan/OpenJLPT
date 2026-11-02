@@ -3,7 +3,7 @@ id,word,reading,romaji,meanings,level,pos,jmdict_id,other_forms,example_ja,examp
 6a4011f27f,ああ,ああ,aa,like that,N4,adv,2085080,,ある人はこうだと言い、またある人はああだと言う。,"One man says this, another that."
 c3c3ac9f48,あいさつする,あいさつする,aisatsusuru,to greet,N4,n; vs; vi,1151120,,私にあいさつするような人はいない。,There is no one to greet me.
 d1a343e501,間,あいだ,aida,a space,N4,n,1215230,,二人の間がしっくり行かない。,They don't get along together.
-54e1f7a772,合う,あう,au,to match,N4,v5u; vi,1284430,,このチョッキは前が合わない。,This waistcoat won't meet at the front.
+54e1f7a772,合う,あう,au,to match,N4,v5u; vi,1284430,,この白いコートはあなたによく合うでしょう。,This white coat will look very nice on you.
 2a6a55be8d,あかちゃん,あかちゃん,akachan,infant,N4,n,1383260,赤ちゃん,その赤ちゃんは歯が生えはじめている。,The baby is cutting his teeth.
 4a3152836b,上がる,あがる,agaru,to rise,N4,v5r; vi,1352290,,車のバッテリーが上がってるよ。,The car battery is dead.
 e877021bf4,赤ん坊,あかんぼう,akanbou,baby,N4,n,1383310,あかんぼう,うちの赤ん坊は口をきくようになってきました。,Our baby is learning to speak.
@@ -152,7 +152,7 @@ ac20bba998,簡単,かんたん,kantan,simple,N4,adj-na; n,1214330,,テニスを�
 ab366b6c9d,気,き,ki,spirit; mood,N4,n,1221520,,彼は親切というよりむしろ気がやさしい。,He is more gentle than kind.
 3f4f3a3b9d,機会,きかい,kikai,opportunity,N4,n,1220800,,またの機会にしましょう。,Let's make it some other time.
 8bbbe3a9e8,危険,きけん,kiken,danger,N4,n; adj-na,1218560,,危険は見くびるとすぐやってくる。,Danger comes soonest when it is despised.
-7225b79db5,聞こえる,きこえる,kikoeru,to be heard,N4,v1; vi,1591150,,車が家の前に止まる音が聞こえた。,I heard a car stop in front of the house.
+7225b79db5,聞こえる,きこえる,kikoeru,to be heard,N4,v1; vi,1591150,,お前にはあの音が聞こえないのか。,Can't you hear the sound?
 a0c815188f,汽車,きしゃ,kisha,steam train,N4,n,1222700,,汽車はまだ着きません。,The train has not arrived yet.
 bbf69b64f8,技術,ぎじゅつ,gijutsu,art; technology; skill,N4,n,1225130,,近代技術は多くの物を与えてくれる。,Modern technology gives us many things.
 a1afb31e7b,季節,きせつ,kisetsu,season,N4,n; adj-no,1222840,,秋は読書にもってこいの季節だ。,Fall is a good season for reading.
@@ -426,7 +426,7 @@ c64697ccaa,道具,どうぐ,dougu,tool; means,N4,n,1454180,,この道具はな�
 9ef4ab5d2a,とうとう,とうとう,toutou,finally; after all,N4,adv,1449890,,トムはとうとうタバコをやめた。,Tom finally gave up smoking.
 69678bc04e,動物園,どうぶつえん,doubutsuen,zoo,N4,n,1451490,,コンドルは動物園では決して育たない。,Condors have never bred in zoos.
 fc60a66d5c,遠く,とおく,tooku,distant,N4,n; adv; adj-no,1177820,,遠くにぼんやりした明かりが見えた。,We saw a dim light in the distance.
-e9c1a3ae2c,通る,とおる,tooru,to go through,N4,v5r; vi,1433030,,私は毎日その教会の前を通る。,I go by that church every day.
+e9c1a3ae2c,通る,とおる,tooru,to go through,N4,v5r; vi,1433030,,彼女はベスという名で通っていた。,She went by the name of Bess.
 0b2acf3460,特に,とくに,tokuni,particularly; especially,N4,adv,1454670,,私は音楽、特にロックが大好きだ。,"I love music, especially rock."
 cc2bd01f0a,特別,とくべつ,tokubetsu,special,N4,adj-na; adj-no; adv; n,1455280,,特別料理がございますが。,"We have something special for you, sir."
 8743cb4286,とこや,とこや,tokoya,barber,N4,n,1349410,床屋,おや、床屋へ行ってきたのだね。,"Oh, you've been to the barbershop."
@@ -434,7 +434,7 @@ cc2bd01f0a,特別,とくべつ,tokubetsu,special,N4,adj-na; adj-no; adv; n,14552
 3753f20423,特急,とっきゅう,tokkyuu,limited express train (faster than an express train),N4,n,1454750,,時計がおくれていたので、私は特急にのりそこねた。,"As my watch was slow, I missed the special express."
 bc1e0c2895,届ける,とどける,todokeru,to reach,N4,v1; vt,1457210,,家に届けていただけますか。,Can you deliver it to my house?
 1200266b8d,泊まる,とまる,tomaru,to lodge at,N4,v5r; vi,1474850,,私は先週おじの家に泊まりました。,I stayed with my uncle last week.
-3aadcbc234,止める,とめる,tomeru,to stop something,N4,v1; vt,1310670,,急にジムは銀行の前で車を止めた。,Suddenly Jim pulled the car up in front of the bank.
+3aadcbc234,止める,とめる,tomeru,to stop something,N4,v1; vt,1310670,,ロイはそのメダルをピンで止めた。,Roy fastened the medal with a pin.
 7becfb8f21,取り替える,とりかえる,torikaeru,to exchange,N4,v1; vt,1326830,,これを青いのと取り替えてください。,Please change this for a blue one.
 76d7890e5d,泥棒,どろぼう,dorobou,thief,N4,n,1599340,,そこの乞食が泥棒である事がわかった。,The beggar turned out to be a thief.
 ccfefc657c,どんどん,どんどん,dondon,more and more,N4,adv; adv-to,1009320,,だれかがドアをどんどんたたいている。,Someone is battering at the door.
@@ -457,7 +457,7 @@ eef262a7dd,二階建て,にかいだて,nikaidate,two storied,N4,n,1599800,,私�
 f7a51f2c1c,逃げる,にげる,nigeru,to escape,N4,v1; vi,1450330,,現実から逃げることはできない。,You can't escape from reality.
 0ddf8d04c2,日記,にっき,nikki,journal,N4,n,1463930,,彼女はそのことを日記に書いた。,She wrote about it in her diary.
 178daf8296,入院,にゅういん,nyuuin,to hospitalise,N4,n; vs; vi,1465720,,入院しなければいけませんか。,Do I have to stay in the hospital?
-433da13afb,入学,にゅうがく,nyuugaku,to enter school or university,N4,n; vs; vi,1465850,,私はこの学校に２年前に入学した。,I entered this school two years ago.
+433da13afb,入学,にゅうがく,nyuugaku,to enter school or university,N4,n; vs; vi,1465850,,私の息子は、高校に入学した。,My son entered high school.
 ea2fe2f5de,似る,にる,niru,to be similar,N4,v1; vi,1314600,,私も似た話を聞いたことがある。,I also heard a similar story.
 5cda324083,人形,にんぎょう,ningyou,doll; figure,N4,n,1367120,,メアリーは私にアメリカの人形をくれた。,Mary gave me an American doll.
 88710a5d10,盗む,ぬすむ,nusumu,to steal,N4,v5m; vt,1448440,,盗まれたお金があきらめられない。,I won't give up on the stolen money.
@@ -523,7 +523,7 @@ c00788993b,復習,ふくしゅう,fukushuu,revision,N4,n; vs; vt,1500800,,その
 346a5da3c2,部長,ぶちょう,buchou,head of a section,N4,n,1499460,,社長は新しい部長を任命した。,The president appointed a new manager.
 fbb6245e8b,普通,ふつう,futsuu,usually; normally; ordinary; local train (stopping at every station),N4,n,1497190,,私はふつう自転車で通学します。,I usually go to school by bicycle.
 fceb1b247e,ぶどう,ぶどう,budou,grapes,N4,n,1499230,,私たちはぶどうをたくさん手に入れた。,We got many grapes.
-f6b676e45f,太る,ふとる,futoru,to become fat,N4,v5r; vi,1408220,,あまり太ったのでカラーの前が合わなかった。,He got so stout that his collar did not meet.
+f6b676e45f,太る,ふとる,futoru,to become fat,N4,v5r; vi,1408220,,太らないように気をつけているの？,Are you watching your weight?
 f1ef6228cb,布団,ふとん,futon,Japanese bedding; futon,N4,n,1496890,,布団をたたみなさい。,Fold up your bedding.
 45d920815a,舟,ふね,fune,ship,N4,n,1602800,,船は３時に出ることになっている。,The ship is sailing at three.
 25d649bd20,不便,ふべん,fuben,inconvenience,N4,n; adj-na,1494860,,もし電話がなければ、不便だろう。,"Without telephones, it would be inconvenient."

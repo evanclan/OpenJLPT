@@ -309,7 +309,7 @@ b7fdaa59f1,鐘,かね,kane,bell; chime,N2,n,1352030,,鐘の合図で彼らは食
 65bbe081e9,加熱,かねつ,kanetsu,heating,N2,n; vs; vt,1190470,,水は充分に加熱すると沸騰する。,Water will boil if heated enough.
 a159655db4,兼ねる,かねる,kaneru,to hold (position); to serve; to be unable,N2,suf; v1,1256520,,私は勉強と遊びを兼ねている仕事につきたい。,I want to get a job that mixes work and play.
 69a5c305cb,カバー,カバー,kabaa,cover (ex. book),N2,n,1037960,,その本のカバーにはインクのしみがいくつかあった。,There were some ink spots on the book jacket.
-a5b0e18f8b,過半数,かはんすう,kahansuu,majority,N2,n,1196380,,与党は前の選挙で過半数を占めた。,The government got their majority at the last election.
+a5b0e18f8b,過半数,かはんすう,kahansuu,majority,N2,n,1196380,,合格者の過半数は大学出身者であった。,The majority of the successful candidates were university graduates.
 021b9026a5,被せる,かぶせる,kabuseru,to cover (with something),N2,v1; vt,1484320,,彼は車にカバーを被せた。,He put a cover over his car.
 1b80545d83,釜,かま,kama,iron pot; kettle,N2,n,1209080,,きのう交差点でお釜を掘られちゃったよ。,Someone ploughed into me from behind at an intersection yesterday.
 4e0ee519ff,紙屑,かみくず,kamikuzu,wastepaper,N2,n,1609610,,その部屋は紙くずだらけだった。,The room was littered with scraps of paper.
@@ -332,7 +332,7 @@ b49d7bfd2b,空っぽ,からっぽ,karappo,empty; vacant; hollow,N2,adj-no; adj-n
 4dc356b41b,為替,かわせ,kawase,money order; exchange,N2,n,1157330,,この為替を作るのに銀行の手数料が５０ドルかかった。,Arranging this money order cost $50 in bank fees and commissions.
 ff8407332d,瓦,かわら,kawara,roof tile,N2,n,1209580,,,
 6efc625581,代る,かわる,kawaru,to take the place of; to relieve; to be substituted for,N2,v5r; vi,1590820,代わる,ジムは、ベティーにかわって手紙を書いた。,Jim wrote the letter for Betty.
-1974a3d703,間隔,かんかく,kankaku,space; interval; SPC,N2,n,1215380,,彼が答える前に長い時間の間隔があった。,There was a long interval before he replied.
+1974a3d703,間隔,かんかく,kankaku,space; interval; SPC,N2,n,1215380,,小屋は５０メートルの間隔で建てられた。,The huts were built with a space of 50 meters in between.
 907c41fbcf,換気,かんき,kanki,ventilation,N2,n; vs; vi,1212780,,窓を開けて換気をしましょう。,Let's open a window to get some fresh air.
 3eceb34971,感激,かんげき,kangeki,deep emotion; impression; inspiration,N2,n; vs; vi,1212360,,我がチームにお迎えでき、感激します。,We are excited about having you on our team.
 7341f5936d,関西,かんさい,kansai,"Kansai (region comprising Kyoto, Osaka, Kobe and surrounding prefectures)",N2,n,1215910,,その飛行機は今ごろは関西空港に当然着いているはずだ。,The plane should have arrived at Kansai Airport by now.
@@ -360,7 +360,7 @@ e0f08f770f,器械,きかい,kikai,instrument,N2,n,1220810,,彼はその新しい
 ac216831fa,機関車,きかんしゃ,kikansha,locomotive; engine,N2,n,1220880,,機関車は長い貨物車の列を引っ張って走っていた。,The locomotive was pulling a long line of freight cars.
 57726876db,飢饉,ききん,kikin,famine,N2,n,1591080,,これらの国はしばしば飢饉に襲われた。,These countries were often visited with famine.
 1c91d6bc15,器具,きぐ,kigu,utensil,N2,n,1218920,,これは主婦の手間を省く便利な器具です。,This is a great time-saving gadget for the housewife.
-eea1f873b2,期限,きげん,kigen,term; period,N2,n,1220560,,期限前にこの仕事を仕上げなさい。,You must get the job done before the deadline.
+eea1f873b2,期限,きげん,kigen,term; period,N2,n,1220560,,すべてのレポートは期限を守って提出されなければならない。,All essays must be handed in on time.
 88cf21661c,記号,きごう,kigou,symbol; code,N2,n,1223210,,＆という記号は、ａｎｄを指す。,The sign '&' stands for 'and'.
 9cfafbb8c6,刻む,きざむ,kizamu,to mince; to carve; to engrave,N2,v5m; vt,1285890,,彼は大理石を刻んで像を作った。,He carved marble into a statue.
 a58604399c,儀式,ぎしき,gishiki,ceremony; rite; ritual; service,N2,n,1224700,,この儀式は幾世代にもわたって伝わってきた。,This ceremony has been handed down from generation to generation.
@@ -406,7 +406,7 @@ d986b84f53,区切る,くぎる,kugiru,to punctuate; to cut off; to mark off; to 
 3c701afc3b,櫛,くし,kushi,comb,N2,n,1246490,,外出する前に髪を櫛でときなさい。,Comb your hair before you go out.
 802fd00672,くしゃみ,くしゃみ,kushami,sneeze,N2,n; vs; vi,1003710,嚏,くしゃみが止まりません。,I can't stop sneezing.
 186847c962,苦情,くじょう,kujou,complaint; troubles; objection,N2,n,1244520,,私はあなたの苦情について書いている。,I am writing in relation to your complaint.
-d9f84d61b1,苦心,くしん,kushin,pain; trouble,N2,n; vs; vi,1244530,,苦心の甲斐があった。,That was well worth the trouble.
+d9f84d61b1,苦心,くしん,kushin,pain; trouble,N2,n; vs; vi,1244530,,その歌手はファンの群がる中を苦心して進んだ。,The singer fought his way through the crowd of fans.
 973d4dd61b,屑,くず,kuzu,waste; scrap,N2,n,1246510,,ラップは屑だ。,Rap is crap.
 5eec3c9c1f,崩す,くずす,kuzusu,to destroy; to pull down; to make change (money),N2,v5s; vt,1516260,,キャベツは生産過剰で値をくずした。,The price of cabbage fell because of overproduction.
 1575a46d86,薬指,くすりゆび,kusuriyubi,ring finger,N2,n,1538250,,彼女は左手の薬指にダイヤの指輪をはめていた。,She wore a diamond ring on her left third finger.
@@ -957,7 +957,7 @@ eda767b81b,タイア,タイア,taia,tire; tyre,N2,n,1076120,,,
 0632807791,体系,たいけい,taikei,system; organization,N2,n; n-suf,1409390,,彼らはその体系を大変な思索と労力を費やして仕上げた。,They worked out the system with much thought and labor.
 9490de4029,太鼓,たいこ,taiko,drum; tambourine,N2,n; adj-no,1408280,,彼らは太鼓をずっとたたき続けた。,They had been thumping the drum all along.
 8ed647d742,対策,たいさく,taisaku,counter-plan; counter-measure,N2,n,1410050,,対策に関する討議が行われた。,There was a discussion on the measures.
-415ca8e1aa,大して,たいして,taishite,(not so) much; (not) very,N2,adv,1412970,,彼は大して妻の話し相手にはならない。,He is not much of a companion for his wife.
+415ca8e1aa,大して,たいして,taishite,(not so) much; (not) very,N2,adv,1412970,,彼が来るかどうかは大して重要ではない。,It makes no difference whether he will come or not.
 89b4c07147,対照,たいしょう,taishou,contrast; antithesis; comparison,N2,n; vs; vt,1410080,,赤は青と美しい対照をなす。,Red contrasts well with blue.
 dbb7b4bbd4,大小,だいしょう,daishou,size,N2,n,1414110,,道路上の大小の石に気をつけなさい。,Watch out for big and small stones on the road!
 f3ca36a754,体制,たいせい,taisei,order; system; structure; set-up; organization,N2,n,1409550,,共産主義はソ連で実践された体制である。,Communism is the system practiced in the Soviet Union.
@@ -1734,7 +1734,7 @@ dd3373514a,欄,らん,ran,column of text (e.g. as in a newspaper),N2,n; n-suf,15
 97f68aa406,乱暴,らんぼう,ranbou,rude; violent; rough; lawless; unreasonable; reckless,N2,adj-na; n,1549100,,弟の乱暴はこのごろ目に余る。,My brother has been much too rowdy lately.
 05b5ef086b,理科,りか,rika,science,N2,n,1549900,,彼女は理科を勉強しなければなりません。,She has to study science.
 24fd735f83,利害,りがい,rigai,advantages and disadvantages; interest,N2,n,1549500,,彼は自分の利害に敏感である。,He is alive to his own interests.
-3c6f24a260,リズム,リズム,rizumu,rhythm,N2,n,1141620,,妻はアメリカでの新しい生活のリズムに慣れるのにえらい苦労した。,My wife had a hard time getting into the swing of our new life in America.
+3c6f24a260,リズム,リズム,rizumu,rhythm,N2,n,1141620,,サンバはブラジルのリズムですね。,"Samba is a Brazilian rhythm, isn't it?"
 5a90f1a94c,リットル,リットル,rittoru,litre,N2,n,1141870,,ガソリンはリットル単位で売られる。,Gasoline is sold by the liter.
 326d5d92a7,リポート,リポート,ripooto,report; paper,N2,n; vs; vt,1145990,,彼のリポートはたった今提出された。,His report has just been handed in.
 656aeb8ae3,リボン,リボン,ribon,ribbon,N2,n,1142880,,リボンをかけてもらえますか。,Could you tie it with a ribbon?

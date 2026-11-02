@@ -127,16 +127,15 @@
     "jmdict_id": 1284430,
     "examples": [
       {
-        "ja": "このチョッキは前が合わない。",
-        "furigana": "このチョッキは{前|#1392580}が{合|あ}わない。",
-        "en": "This waistcoat won't meet at the front.",
-        "tatoeba_id": 223559
-      },
-      {
         "ja": "この白いコートはあなたによく合うでしょう。",
         "furigana": "この{白|しろ}いコートはあなたによく{合|あ}うでしょう。",
         "en": "This white coat will look very nice on you.",
         "tatoeba_id": 220206
+      },
+      {
+        "ja": "このチョッキは前が合わない。",
+        "en": "This waistcoat won't meet at the front.",
+        "tatoeba_id": 223559
       }
     ]
   },
@@ -1279,10 +1278,10 @@
         "tatoeba_id": 140573
       },
       {
-        "ja": "雨が正午前にはやむよう祈っていたのですが。",
-        "furigana": "{雨|あめ}が{正午|しょうご}{前|#1392580}にはやむよう{祈|いの}っていたのですが。",
-        "en": "We had hoped that the rain would stop before noon.",
-        "tatoeba_id": 189672
+        "ja": "私は心からあなたの幸せを祈ります。",
+        "furigana": "{私|わたし}は{心|こころ}からあなたの{幸|しあわ}せを{祈|いの}ります。",
+        "en": "I wish you happiness from the bottom of my heart.",
+        "tatoeba_id": 155762
       }
     ]
   },
@@ -2208,10 +2207,10 @@
         "tatoeba_id": 236071
       },
       {
-        "ja": "地球はおよそ５０億年前に生まれた。",
-        "furigana": "{地球|ちきゅう}はおよそ５０{億|おく}{年|ねん}{前|#1392580}に{生|う}まれた。",
-        "en": "The earth came into existence about five thousand million years ago.",
-        "tatoeba_id": 126975
+        "ja": "その事業の経費は１億円にのぼる。",
+        "furigana": "その{事業|じぎょう}の{経費|けいひ}は１{億|おく}{円|えん}にのぼる。",
+        "en": "The total expense for the project amounts to one hundred million yen.",
+        "tatoeba_id": 209993
       }
     ]
   },
@@ -2575,7 +2574,6 @@
     "examples": [
       {
         "ja": "妻は夫より長生きするものだ。",
-        "furigana": "{妻|#1294330}は{夫|おっと}より{長生|ながい}きするものだ。",
         "en": "Wives usually outlive husbands.",
         "tatoeba_id": 170330
       },
@@ -4189,10 +4187,10 @@
         "tatoeba_id": 232178
       },
       {
-        "ja": "答える前によく考えねばならない。",
-        "furigana": "{答|こた}える{前|#1392580}によく{考|かんが}えねばならない。",
-        "en": "You must consider it before you answer.",
-        "tatoeba_id": 123934
+        "ja": "私はその計画について考えていた。",
+        "furigana": "{私|わたし}はその{計画|けいかく}について{考|かんが}えていた。",
+        "en": "I was thinking about the plan.",
+        "tatoeba_id": 160228
       }
     ]
   },
@@ -4385,16 +4383,16 @@
     "jmdict_id": 1591150,
     "examples": [
       {
-        "ja": "車が家の前に止まる音が聞こえた。",
-        "furigana": "{車|くるま}が{家|いえ}の{前|#1392580}に{止|と}まる{音|おと}が{聞|き}こえた。",
-        "en": "I heard a car stop in front of the house.",
-        "tatoeba_id": 149131
-      },
-      {
         "ja": "お前にはあの音が聞こえないのか。",
         "furigana": "お{前|まえ}にはあの{音|おと}が{聞|き}こえないのか。",
         "en": "Can't you hear the sound?",
         "tatoeba_id": 226968
+      },
+      {
+        "ja": "あなたの意見はばかげて聞こえる。",
+        "furigana": "あなたの{意見|いけん}はばかげて{聞|き}こえる。",
+        "en": "Your ideas sound crazy.",
+        "tatoeba_id": 233469
       }
     ]
   },
@@ -6129,7 +6127,6 @@
       },
       {
         "ja": "彼は２０年前、大学を卒業するとすぐに公務員になった。",
-        "furigana": "{彼|かれ}は２０{年|ねん}{前|#1392580}、{大学|だいがく}を{卒業|そつぎょう}するとすぐに{公務員|こうむいん}になった。",
         "en": "He entered civil service 20 years ago right after college.",
         "tatoeba_id": 115193
       }
@@ -8630,10 +8627,10 @@
         "tatoeba_id": 202728
       },
       {
-        "ja": "家は買う前によく調べるべきだ。",
-        "furigana": "{家|いえ}は{買|か}う{前|#1392580}によく{調|しら}べるべきだ。",
-        "en": "You should go over a house before buying it.",
-        "tatoeba_id": 232179
+        "ja": "その問題はもっと注意して調べなさい。",
+        "furigana": "その{問題|もんだい}はもっと{注意|ちゅうい}して{調|しら}べなさい。",
+        "en": "Look into the matter more carefully.",
+        "tatoeba_id": 206449
       }
     ]
   },
@@ -8686,10 +8683,10 @@
         "tatoeba_id": 181873
       },
       {
-        "ja": "その神社は２００年前に建てられた。",
-        "furigana": "その{神社|じんじゃ}は２００{年|ねん}{前|#1392580}に{建|た}てられた。",
-        "en": "The shrine was built two hundred years ago.",
-        "tatoeba_id": 208795
+        "ja": "この道は神社へ通じていますよ。",
+        "furigana": "この{道|みち}は{神社|じんじゃ}へ{通|つう}じていますよ。",
+        "en": "This path will lead you to the shrine.",
+        "tatoeba_id": 220300
       }
     ]
   },
@@ -9008,10 +9005,9 @@
         "tatoeba_id": 200305
       },
       {
-        "ja": "バスの前の方は空いていた。",
-        "furigana": "バスの{前|#1392580}の{方|ほう}は{空|す}いていた。",
-        "en": "The front of the bus was not crowded.",
-        "tatoeba_id": 198161
+        "ja": "私達はまだあまりお腹は空いていない。",
+        "en": "We aren't very hungry yet.",
+        "tatoeba_id": 151707
       }
     ]
   },
@@ -9377,7 +9373,6 @@
     "examples": [
       {
         "ja": "１０時ちょっと前に仕事が済んだ。",
-        "furigana": "１０{時|じ}ちょっと{前|#1392580}に{仕事|しごと}が{済|す}んだ。",
         "en": "We got through the work just before ten.",
         "tatoeba_id": 236052
       },
@@ -11889,10 +11884,10 @@
         "tatoeba_id": 221299
       },
       {
-        "ja": "ポールは出かける前に手袋をした。",
-        "furigana": "ポールは{出|で}かける{前|#1392580}に{手袋|てぶくろ}をした。",
-        "en": "Paul put on gloves before going out.",
-        "tatoeba_id": 196468
+        "ja": "私は６番サイズの手袋をします。",
+        "furigana": "{私|わたし}は６{番|ばん}サイズの{手袋|てぶくろ}をします。",
+        "en": "I wear size six gloves.",
+        "tatoeba_id": 161897
       }
     ]
   },
@@ -12248,16 +12243,16 @@
     "jmdict_id": 1433030,
     "examples": [
       {
-        "ja": "私は毎日その教会の前を通る。",
-        "furigana": "{私|わたし}は{毎日|まいにち}その{教会|きょうかい}の{前|#1392580}を{通|とお}る。",
-        "en": "I go by that church every day.",
-        "tatoeba_id": 152721
-      },
-      {
         "ja": "彼女はベスという名で通っていた。",
         "furigana": "{彼女|かのじょ}はベスという{名|な}で{通|とお}っていた。",
         "en": "She went by the name of Bess.",
         "tatoeba_id": 91569
+      },
+      {
+        "ja": "この絵は本物で通るだろう。",
+        "furigana": "この{絵|え}は{本物|ほんもの}で{通|とお}るだろう。",
+        "en": "This painting will pass for genuine.",
+        "tatoeba_id": 222639
       }
     ]
   },
@@ -12480,16 +12475,16 @@
     "jmdict_id": 1310670,
     "examples": [
       {
-        "ja": "急にジムは銀行の前で車を止めた。",
-        "furigana": "{急|きゅう}にジムは{銀行|ぎんこう}の{前|#1392580}で{車|くるま}を{止|と}めた。",
-        "en": "Suddenly Jim pulled the car up in front of the bank.",
-        "tatoeba_id": 182470
-      },
-      {
         "ja": "ロイはそのメダルをピンで止めた。",
         "furigana": "ロイはそのメダルをピンで{止|と}めた。",
         "en": "Roy fastened the medal with a pin.",
         "tatoeba_id": 192310
+      },
+      {
+        "ja": "ここに車を止めてもいいですか。",
+        "furigana": "ここに{車|くるま}を{止|と}めてもいいですか。",
+        "en": "Can I park my car here?",
+        "tatoeba_id": 224419
       }
     ]
   },
@@ -12748,10 +12743,10 @@
         "tatoeba_id": 84844
       },
       {
-        "ja": "父は２年前に亡くなった。",
-        "furigana": "{父|ちち}は２{年|ねん}{前|#1392580}に{亡|な}くなった。",
-        "en": "My father passed away two years ago.",
-        "tatoeba_id": 84774
+        "ja": "父が亡くなって１０年が過ぎた。",
+        "furigana": "{父|ちち}が{亡|な}くなって１０{年|ねん}が{過|す}ぎた。",
+        "en": "It has been ten years since my father passed away.",
+        "tatoeba_id": 84845
       }
     ]
   },
@@ -13146,15 +13141,15 @@
     "jmdict_id": 1465850,
     "examples": [
       {
-        "ja": "私はこの学校に２年前に入学した。",
-        "furigana": "{私|わたし}はこの{学校|がっこう}に２{年|ねん}{前|#1392580}に{入学|にゅうがく}した。",
-        "en": "I entered this school two years ago.",
-        "tatoeba_id": 160948
-      },
-      {
         "ja": "私の息子は、高校に入学した。",
         "en": "My son entered high school.",
         "tatoeba_id": 163138
+      },
+      {
+        "ja": "本学に入学したい理由は何ですか。",
+        "furigana": "{本学|ほんがく}に{入学|にゅうがく}したい{理由|りゆう}は{何|なに}ですか。",
+        "en": "What is the reason you want to enter this college?",
+        "tatoeba_id": 81592
       }
     ]
   },
@@ -13823,10 +13818,10 @@
         "tatoeba_id": 232836
       },
       {
-        "ja": "父はこの事業を４０年前に始めた。",
-        "furigana": "{父|ちち}はこの{事業|じぎょう}を４０{年|ねん}{前|#1392580}に{始|はじ}めた。",
-        "en": "Father established his business 40 years ago.",
-        "tatoeba_id": 84729
+        "ja": "私は来週、新しい仕事を始めます。",
+        "furigana": "{私|わたし}は{来週|らいしゅう}、{新|あたら}しい{仕事|しごと}を{始|はじ}めます。",
+        "en": "I am going to start a new job next week.",
+        "tatoeba_id": 152416
       }
     ]
   },
@@ -14788,7 +14783,6 @@
     "examples": [
       {
         "ja": "ホテルの前で私を車で拾ってください。",
-        "furigana": "ホテルの{前|#1392580}で{私|わたし}を{車|くるま}で{拾|ひろ}ってください。",
         "en": "Please pick me up by car in front of the hotel.",
         "tatoeba_id": 196196
       },
@@ -15048,16 +15042,16 @@
     "jmdict_id": 1408220,
     "examples": [
       {
-        "ja": "あまり太ったのでカラーの前が合わなかった。",
-        "furigana": "あまり{太|ふと}ったのでカラーの{前|#1392580}が{合|あ}わなかった。",
-        "en": "He got so stout that his collar did not meet.",
-        "tatoeba_id": 230305
-      },
-      {
         "ja": "太らないように気をつけているの？",
         "furigana": "{太|ふと}らないように{気|き}をつけているの？",
         "en": "Are you watching your weight?",
         "tatoeba_id": 138219
+      },
+      {
+        "ja": "インシュリンを打つので彼女は太っていた。",
+        "furigana": "インシュリンを{打|う}つので{彼女|かのじょ}は{太|ふと}っていた。",
+        "en": "The insulin was making her fat.",
+        "tatoeba_id": 228392
       }
     ]
   },
@@ -15748,10 +15742,10 @@
         "tatoeba_id": 235276
       },
       {
-        "ja": "私は友人の前で負けたくなかった。",
-        "furigana": "{私|わたし}は{友人|ゆうじん}の{前|#1392580}で{負|ま}けたくなかった。",
-        "en": "I didn't want to be defeated in front of my friends.",
-        "tatoeba_id": 152501
+        "ja": "私たちは３—０で負けた。",
+        "furigana": "{私|わたし}たちは３—０で{負|ま}けた。",
+        "en": "We lost the game 3-0.",
+        "tatoeba_id": 166678
       }
     ]
   },
@@ -17085,10 +17079,10 @@
         "tatoeba_id": 229328
       },
       {
-        "ja": "日本人は寝る前に熱い湯につかるのが好きです。",
-        "furigana": "{日本人|にほんじん}は{寝|ね}る{前|#1392580}に{熱|あつ}い{湯|ゆ}につかるのが{好|す}きです。",
-        "en": "Japanese love to soak in a hot tub before bed.",
-        "tatoeba_id": 122244
+        "ja": "風呂に湯を入れる。",
+        "furigana": "{風呂|ふろ}に{湯|ゆ}を{入|い}れる。",
+        "en": "Run hot water into the bath.",
+        "tatoeba_id": 83915
       }
     ]
   },

@@ -4685,10 +4685,10 @@
         "tatoeba_id": 95140
       },
       {
-        "ja": "彼はたくさんの人の前で演説した。",
-        "furigana": "{彼|かれ}はたくさんの{人|ひと}の{前|#1392580}で{演説|えんぜつ}した。",
-        "en": "He made a speech in front of many people.",
-        "tatoeba_id": 112063
+        "ja": "彼は、世界平和に関して演説した。",
+        "furigana": "{彼|かれ}は、{世界平和|せかいへいわ}に{関|かん}して{演説|えんぜつ}した。",
+        "en": "He made a speech in connection with world peace.",
+        "tatoeba_id": 115459
       }
     ]
   },
@@ -5571,7 +5571,6 @@
     "examples": [
       {
         "ja": "若い男の人がドアの前で歌っています。",
-        "furigana": "{若|わか}い{男|おとこ}の{人|ひと}がドアの{前|#1392580}で{歌|うた}っています。",
         "en": "A young man is singing in front of the door.",
         "tatoeba_id": 148779
       },
@@ -7827,10 +7826,10 @@
         "tatoeba_id": 152333
       },
       {
-        "ja": "妻の活動は家事に限られている。",
-        "furigana": "{妻|#1294330}の{活動|かつどう}は{家事|かじ}に{限|かぎ}られている。",
-        "en": "A wife's activities are confined to domestic matters.",
-        "tatoeba_id": 170362
+        "ja": "彼女はあれこれと家事の手伝いをした。",
+        "furigana": "{彼女|かのじょ}はあれこれと{家事|かじ}の{手伝|てつだ}いをした。",
+        "en": "She made herself useful about the room.",
+        "tatoeba_id": 93359
       }
     ]
   },
@@ -15468,7 +15467,6 @@
     "examples": [
       {
         "ja": "その男は妻と交際し始めた。",
-        "furigana": "その{男|おとこ}は{妻|#1294330}と{交際|こうさい}し{始|はじ}めた。",
         "en": "The man took up with his wife.",
         "tatoeba_id": 208065
       },
@@ -16158,10 +16156,10 @@
         "tatoeba_id": 102591
       },
       {
-        "ja": "彼は妻の死をまだ克服していない。",
-        "furigana": "{彼|かれ}は{妻|#1294330}の{死|し}をまだ{克服|こくふく}していない。",
-        "en": "He hasn't got over the death of his wife yet.",
-        "tatoeba_id": 106891
+        "ja": "その困難を克服しなければならない。",
+        "furigana": "その{困難|こんなん}を{克服|こくふく}しなければならない。",
+        "en": "You must overcome the difficulties.",
+        "tatoeba_id": 210554
       }
     ]
   },
@@ -19062,10 +19060,10 @@
         "tatoeba_id": 221665
       },
       {
-        "ja": "彼はその事件のことを妻に話した。",
-        "furigana": "{彼|かれ}はその{事件|じけん}のことを{妻|#1294330}に{話|はな}した。",
-        "en": "He mentioned the incident to his wife.",
-        "tatoeba_id": 112776
+        "ja": "私がその事件について説明しよう。",
+        "furigana": "{私|わたし}がその{事件|じけん}について{説明|せつめい}しよう。",
+        "en": "I will account for the incident.",
+        "tatoeba_id": 167989
       }
     ]
   },
@@ -20356,7 +20354,6 @@
     "examples": [
       {
         "ja": "退職する前に彼は事務を渡した。",
-        "furigana": "{退職|たいしょく}する{前|#1392580}に{彼|かれ}は{事務|じむ}を{渡|わた}した。",
         "en": "Before he retired, he had handed over charge of his office.",
         "tatoeba_id": 137867
       },
@@ -20606,7 +20603,6 @@
     "examples": [
       {
         "ja": "それはその前の週に買ったものでした。",
-        "furigana": "それはその{前|#1392580}の{週|しゅう}に{買|か}ったものでした。",
         "en": "I had bought it the week before.",
         "tatoeba_id": 205482
       },
@@ -22900,10 +22896,10 @@
         "tatoeba_id": 223480
       },
       {
-        "ja": "妻が寝た後、書斎で仕事をした。",
-        "furigana": "{妻|#1294330}が{寝|ね}た{後|あと}、{書斎|しょさい}で{仕事|しごと}をした。",
-        "en": "I worked in my study after my wife had gone to bed.",
-        "tatoeba_id": 170376
+        "ja": "彼女は書斎から本を盗まれた。",
+        "furigana": "{彼女|かのじょ}は{書斎|しょさい}から{本|ほん}を{盗|ぬす}まれた。",
+        "en": "She had a book stolen from the library.",
+        "tatoeba_id": 88733
       }
     ]
   },
@@ -28454,16 +28450,15 @@
     "jmdict_id": 1445770,
     "examples": [
       {
-        "ja": "シート横にあるノブを前に動かし、シートを倒します。",
-        "furigana": "シート{横|よこ}にあるノブを{前|#1392580}に{動|うご}かし、シートを{倒|たお}します。",
-        "en": "Move the knob at the side of the seat forwards, collapse the seat.",
-        "tatoeba_id": 216590
-      },
-      {
         "ja": "座席の背を倒してもいいですか。",
         "furigana": "{座席|ざせき}の{背|せ}を{倒|たお}してもいいですか。",
         "en": "May I put my seat back?",
         "tatoeba_id": 170837
+      },
+      {
+        "ja": "シート横にあるノブを前に動かし、シートを倒します。",
+        "en": "Move the knob at the side of the seat forwards, collapse the seat.",
+        "tatoeba_id": 216590
       }
     ]
   },
@@ -37143,16 +37138,16 @@
     "jmdict_id": 1093920,
     "examples": [
       {
-        "ja": "入る前にドアをノックして下さい。",
-        "furigana": "{入|はい}る{前|#1392580}にドアをノックして{下|くだ}さい。",
-        "en": "Please knock on the door before you enter.",
-        "tatoeba_id": 122091
-      },
-      {
         "ja": "誰かがドアをノックした。",
         "furigana": "{誰|だれ}かがドアをノックした。",
         "en": "Someone knocked on the door.",
         "tatoeba_id": 137114
+      },
+      {
+        "ja": "彼はドアをノックしようとした。",
+        "furigana": "{彼|かれ}はドアをノックしようとした。",
+        "en": "He tried to knock at the door.",
+        "tatoeba_id": 111763
       }
     ]
   },
@@ -38329,10 +38324,10 @@
         "tatoeba_id": 198114
       },
       {
-        "ja": "駅に着く前に列車は発車していた。",
-        "furigana": "{駅|えき}に{着|つ}く{前|#1392580}に{列車|れっしゃ}は{発車|はっしゃ}していた。",
-        "en": "The train left before we got to the station.",
-        "tatoeba_id": 188914
+        "ja": "列車は５時きっかりに発車した。",
+        "furigana": "{列車|れっしゃ}は５{時|じ}きっかりに{発車|はっしゃ}した。",
+        "en": "The train left at five o'clock to the minute.",
+        "tatoeba_id": 77525
       }
     ]
   },
@@ -40312,16 +40307,16 @@
     "jmdict_id": 1491120,
     "examples": [
       {
-        "ja": "使用する前に瓶を振ってください。",
-        "furigana": "{使用|しよう}する{前|#1392580}に{瓶|びん}を{振|ふ}ってください。",
-        "en": "Shake the bottle before using.",
-        "tatoeba_id": 168994
-      },
-      {
         "ja": "その瓶を水でいっぱいにしなさい。",
         "furigana": "その{瓶|びん}を{水|みず}でいっぱいにしなさい。",
         "en": "Fill the bottle with water.",
         "tatoeba_id": 207041
+      },
+      {
+        "ja": "あなたはその瓶を持っていますか。",
+        "furigana": "あなたはその{瓶|びん}を{持|も}っていますか。",
+        "en": "Do you have that bottle?",
+        "tatoeba_id": 232574
       }
     ]
   },
@@ -42037,16 +42032,16 @@
     "jmdict_id": 1120070,
     "examples": [
       {
-        "ja": "彼女は腰に革のベルトをしている。",
-        "furigana": "{彼女|かのじょ}は{腰|#1288340}に{革|かわ}のベルトをしている。",
-        "en": "She is wearing a leather belt around her waist.",
-        "tatoeba_id": 90069
-      },
-      {
         "ja": "忘れずに安全ベルトを閉めなさい。",
         "furigana": "{忘|わす}れずに{安全|あんぜん}ベルトを{閉|し}めなさい。",
         "en": "Don't forget to fasten your safety belts.",
         "tatoeba_id": 82580
+      },
+      {
+        "ja": "お席のベルトをおしめ下さい。",
+        "furigana": "お{席|せき}のベルトをおしめ{下|くだ}さい。",
+        "en": "Please fasten your seat belt.",
+        "tatoeba_id": 226992
       }
     ]
   },
@@ -42241,7 +42236,6 @@
     "examples": [
       {
         "ja": "すべての人は法の前に平等です。",
-        "furigana": "すべての{人|ひと}は{法|ほう}の{前|#1392580}に{平等|びょうどう}です。",
         "en": "Everybody is equal before the law.",
         "tatoeba_id": 214428
       },
@@ -45089,16 +45083,15 @@
     "jmdict_id": 1482010,
     "examples": [
       {
-        "ja": "とにかくメシ・・・といきたいところだが、その前に用を足すことにした。",
-        "furigana": "とにかくメシ・・・といきたいところだが、その{前|#1392580}に{用|よう}を{足|た}すことにした。",
-        "en": "Anyhow, lunch ... is where I wanted to go but I decided to go to the toilet first.",
-        "tatoeba_id": 76513
-      },
-      {
         "ja": "一週間メシ抜きだったよ。",
         "furigana": "{一週間|いっしゅうかん}メシ{抜|ぬ}きだったよ。",
         "en": "I went without food for a week.",
         "tatoeba_id": 190566
+      },
+      {
+        "ja": "とにかくメシ・・・といきたいところだが、その前に用を足すことにした。",
+        "en": "Anyhow, lunch ... is where I wanted to go but I decided to go to the toilet first.",
+        "tatoeba_id": 76513
       }
     ]
   },
@@ -46968,15 +46961,14 @@
     "examples": [
       {
         "ja": "私は、突然夜明け前に起こされた。",
-        "furigana": "{私|わたし}は、{突然|とつぜん}{夜明|よあ}け{前|#1392580}に{起|お}こされた。",
         "en": "I was woken up suddenly at dawn.",
         "tatoeba_id": 162206
       },
       {
-        "ja": "登山者は夜明け前に目を覚ました。",
-        "furigana": "{登山者|とざんしゃ}は{夜明|よあ}け{前|#1392580}に{目|め}を{覚|さ}ました。",
-        "en": "The climbers awoke before daybreak.",
-        "tatoeba_id": 124599
+        "ja": "夜明けにたったひとり列車を降りて。",
+        "furigana": "{夜明|よあ}けにたったひとり{列車|れっしゃ}を{降|お}りて。",
+        "en": "Step off the train all alone at dawn.",
+        "tatoeba_id": 79667
       }
     ]
   },
@@ -47957,16 +47949,16 @@
     "jmdict_id": 1207230,
     "examples": [
       {
-        "ja": "人手が多ければ仕事は楽になるんだ。",
-        "furigana": "{人手|#2825953}が{多|おお}ければ{仕事|しごと}は{楽|らく}になるんだ。",
-        "en": "Many hands make light work.",
-        "tatoeba_id": 144193
-      },
-      {
         "ja": "私は楽ではない生き方をすると思う。",
         "furigana": "{私|わたし}は{楽|らく}ではない{生|い}き{方|かた}をすると{思|おも}う。",
         "en": "I have a fancy to live the hard way.",
         "tatoeba_id": 157828
+      },
+      {
+        "ja": "その家族の暮らし向きは楽ではない。",
+        "furigana": "その{家族|かぞく}の{暮|く}らし{向|む}きは{楽|らく}ではない。",
+        "en": "The family's circumstances are not easy.",
+        "tatoeba_id": 212035
       }
     ]
   },

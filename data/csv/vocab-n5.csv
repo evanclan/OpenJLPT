@@ -140,7 +140,7 @@ cdea017272,音楽,おんがく,ongaku,music,N5,n,1183720,,この音楽を聞い�
 e6afab391a,女の子,おんなのこ,onnanoko,girl,N5,exp; n,1344970,,女の子はほとんどみんなやさしい。,Almost all girls are kind.
 31a803c7f5,外国,がいこく,gaikoku,foreign country,N5,n; adj-no,1203620,,あなたは外国の本を持っていますか。,Do you have any foreign books?
 70f1678111,外国人,がいこくじん,gaikokujin,foreigner,N5,n,1203650,,ある外国人が私に駅がどこにあるかと聞いた。,A foreigner asked me where the station was.
-2120ff505c,会社,かいしゃ,kaisha,company,N5,n,1198550,,ビルは三年前にこの会社に入った。,Bill joined our company three years ago.
+2120ff505c,会社,かいしゃ,kaisha,company,N5,n,1198550,,会社をクビにならなきゃいいけどね。,I hope I can hold on to my job.
 7cb27c411e,階段,かいだん,kaidan,stairs,N5,n,1203090,,その階段を上ってはいけません。,You must not go up the stairs.
 a771d4f949,買い物,かいもの,kaimono,shopping,N5,n; vs; vi,1589730,,１日おきに買い物に行く。,I go shopping every other day.
 bdb125e5c6,買う,かう,kau,to buy,N5,v5u; vt,1473740,,買うかどうかはあなたしだいです。,It is up to you whether to buy it or not.
@@ -219,7 +219,7 @@ d6b85573f3,車,くるま,kuruma,car; vehicle,N5,n,1323080,,車のわきの男の
 5e5300cf62,黒い,くろい,kuroi,black,N5,adj-i,1287420,,ナンシーはヘレンよりもほんのすこし色が黒い。,Nancy is a shade darker than Helen.
 e1634cb3e9,警官,けいかん,keikan,policeman,N5,n,1252330,,二人の警官もへとへとになった。,"The two policemen were exhausted, too."
 9c1d724a61,今朝,けさ,kesa,this morning,N5,n; adv,1579100,,今朝はとても寒かった。,It was very cold this morning.
-19f270c68f,消す,けす,kesu,to erase; to turn off power,N5,v5s; vt,1350110,,寝る前に電気を消してください。,Turn off the light before you go to bed.
+19f270c68f,消す,けす,kesu,to erase; to turn off power,N5,v5s; vt,1350110,,ローソクを消していただけますか。,Would you put out the candles?
 dd34250740,結構,けっこう,kekkou,splendid; enough,N5,adj-na,1254760,,いや結構です。たくさんいただきました。,"No more, thank you. I'm full."
 2eb252da72,結婚,けっこん,kekkon,marriage,N5,n; vs; vi,1254790,,ジョンはジェーンと結婚していた。,John was married to Jane.
 04e80a2ba1,月曜日,げつようび,getsuyoubi,Monday,N5,n; adv,1255890,,月曜日までにここに来ています。,I'll be here by Monday.
@@ -413,7 +413,7 @@ a7c36fdb70,電気,でんき,denki,electricity; electric light,N5,n,1443000,,電�
 62b5c13164,電車,でんしゃ,densha,electric train,N5,n,1443530,,電車の中ですりにやられちゃったんだ。,I had my pocket picked on the train.
 3c039918ba,電話,でんわ,denwa,telephone,N5,n; vs; vt; vi,1443840,,ブラウンさんから電話のようです。,It's a phone call from a Mr Brown.
 6f4691297f,戸,と,to,Japanese style door,N5,n,1266970,,誰かが戸をやかましくノックしている。,Someone is knocking loudly at the door.
-677d3c5fac,ドア,ドア,doa,Western style door,N5,n,1087820,,入る前にドアをノックして下さい。,Please knock on the door before you enter.
+677d3c5fac,ドア,ドア,doa,Western style door,N5,n,1087820,,ドアをあけてくださいませんか。,Will you open the door?
 e1e7c2d290,トイレ,トイレ,toire,toilet,N5,n,1084810,,トイレの水が止まりません。,The toilet won't stop running.
 d0fb41651f,どう,どう,dou,how; in what way,N5,adv,1008910,,,
 a891b73f8b,どうして,どうして,doushite,for what reason,N5,adv,1466940,如何して,どうしてあなたは一人になったの？,How did you end up on your own?
@@ -483,7 +483,7 @@ e0bcec9bd9,飲む,のむ,nomu,to drink,N5,v5m; vt,1169870,,コーラはみんな
 28111455cd,パーティー,パーティー,paatii,party,N5,n,1100760,,パーティーはたのしかったですか。,Did you enjoy yourself at the party?
 542f39c93d,はい,はい,hai,yes,N5,int,1010080,,「もしもし、ブラウンさんですか」「はい、そうです」,"""Hello, is this Mrs. Brown?"" ""Yes, this is Mrs. Brown."""
 5cc1dad1e8,灰皿,はいざら,haizara,ashtray,N5,n,1201940,,灰皿を下さい。,I need an ashtray.
-c428d02d43,入る,はいる,hairu,to enter; to contain,N5,v5r; vi,1465590,,入る前にドアをノックして下さい。,Please knock on the door before you enter.
+c428d02d43,入る,はいる,hairu,to enter; to contain,N5,v5r; vi,1465590,,校長が先生の後ろから入ってきた。,The principal came in after the teacher.
 645e1e3b4d,葉書,はがき,hagaki,postcard,N5,n,1546590,,この店に葉書がたくさんある。,There are many postcards in this store.
 4729cc56f4,はく,はく,haku,to wear; to put on trousers,N5,v5k; vt,1607260,履く,この靴はきつすぎてはけない。,These shoes are too tight to get into.
 658b912df8,箱,はこ,hako,box,N5,n,1585650,,その箱はほとんどいっぱいでした。,The box was almost full.
@@ -584,7 +584,7 @@ b19034ded1,まずい,まずい,mazui,unpleasant,N5,adj-i,1495000,不味い,あ�
 6a7163f5f7,まだ,まだ,mada,yet; still,N5,adv,1527110,未だ,なすべきことがまだたくさんある。,There still remains much to be done.
 4d76d06d84,町,まち,machi,town; city,N5,n,1603990,,その町はロンドンのすぐ北にある。,The town lies just above London.
 6a39701228,待つ,まつ,matsu,to wait,N5,v5t; vt; vi,1410590,,ちょっと待っていてもらえますか。,Would you mind waiting a few minutes?
-ede9ab2f7f,まっすぐ,まっすぐ,massugu,straight ahead; direct,N5,adj-na; adv; n,1580600,真っ直ぐ,まっすぐ前を見てください。,"Look forward, please."
+ede9ab2f7f,まっすぐ,まっすぐ,massugu,straight ahead; direct,N5,adj-na; adv; n,1580600,真っ直ぐ,サイドミラーがまっすぐになっていない。,My side mirror is out of alignment.
 27f9d40392,マッチ,マッチ,matchi,match,N5,n,1128430,,マッチありますか。,Do you have a match?
 7734194821,窓,まど,mado,window,N5,n,1401400,,窓を開けっぱなしにしておいたの？,Did you leave the window open?
 ab36109960,丸い,まるい,marui,round; circular,N5,adj-i,1604230,,ボールは丸い。,Balls are round.

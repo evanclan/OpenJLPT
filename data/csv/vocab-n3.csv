@@ -957,7 +957,7 @@ a7bc912ad3,太陽,たいよう,taiyou,sun; solar,N3,n,1408370,,マリーゴー�
 010f5bf635,平ら,たいら,taira,flatness; level; smooth; calm; plain,N3,adj-na,1506930,,あの山の頂上は平らだ。,The top of that mountain is flat.
 f5cb9d932e,代理,だいり,dairi,representation; agency; proxy; deputy; agent,N3,n; vs; vt; adj-no,1412400,,私が不在の時は彼が私の代理です。,He will be my deputy while I am away.
 de0215662e,大陸,たいりく,tairiku,continent,N3,n; adj-no,1415150,,アフリカは大陸であるが、グリーンランドはそうではない。,Africa is a continent; Greenland is not.
-20119e5c9b,倒す,たおす,taosu,to throw down; to beat; to bring down; to blow down,N3,v5s; vt,1445770,,シート横にあるノブを前に動かし、シートを倒します。,"Move the knob at the side of the seat forwards, collapse the seat."
+20119e5c9b,倒す,たおす,taosu,to throw down; to beat; to bring down; to blow down,N3,v5s; vt,1445770,,座席の背を倒してもいいですか。,May I put my seat back?
 4fbf3d9b7a,タオル,タオル,taoru,(hand) towel,N3,n,1076170,,タオルは全く役に立たなかった。,The towel wasn't useful at all.
 a3c0999c5c,だが,だが,daga,but; however; (and) yet; nevertheless,N3,conj,2055530,,あなたに手紙を書くつもりだったのだが。,I meant to have written to you.
 c1ec09619d,互い,たがい,tagai,mutual; reciprocal,N3,n; adj-no,1268770,,この二人の兄弟は互いに似ている。,These two brothers resemble each other.
@@ -1249,7 +1249,7 @@ a5cf314cf9,残す,のこす,nokosu,"to leave (behind, over); to bequeath; to sav
 8d2c6575c2,望み,のぞみ,nozomi,wish; desire; (a) hope,N3,n,1519620,,あなたの望みが実現するといいですね。,I hope your wish will come true.
 767cb5e2e6,望む,のぞむ,nozomu,to desire; to wish for; to see; to command (a view of),N3,v5m; vt,1519630,,全国民が平和を望んでいる。,The whole nation wants peace.
 aeff3c4d96,後,のち,nochi,afterwards; since then; in the future,N3,n; adv; adj-no,1269330,,晴れ後曇りでした。,"It was sunny, then cloudy."
-4850008747,ノック,ノック,nokku,knock; fungo (baseball),N3,n; vs; vt,1093920,,入る前にドアをノックして下さい。,Please knock on the door before you enter.
+4850008747,ノック,ノック,nokku,knock; fungo (baseball),N3,n; vs; vt,1093920,,誰かがドアをノックした。,Someone knocked on the door.
 ad88f57a3e,伸ばす,のばす,nobasu,to lengthen; to stretch; to reach out; to grow (beard),N3,v5s; vt,1600290,,右腕を伸ばせません。,I can't straighten my right arm.
 d5c6b153f1,伸びる,のびる,nobiru,"to stretch; to extend; to make progress; to grow (beard, body height)",N3,v1; vi,1358870,,消費は心持ち伸びる程度でしょう。,Spending will grow only a touch faster.
 703453c2a3,述べる,のべる,noberu,to state; to express; to mention,N3,v1; vt,1340820,,私は客に別れのあいさつを述べた。,I bade farewell to the guests.
@@ -1357,7 +1357,7 @@ e53de06680,評価,ひょうか,hyouka,valuation; estimation; assessment; evaluat
 32b3f86071,評判,ひょうばん,hyouban,fame; reputation; popularity; arrant,N3,n; adj-no,1490070,,スキャンダルで会社の評判が落ちた。,The scandal hurt the company's reputation.
 82a95bb809,表面,ひょうめん,hyoumen,surface; outside; face; appearance,N3,n; adj-no,1489880,,彼は表面にやすりをかけてなめらかにした。,He filed the surface smooth.
 05550395ae,広がる,ひろがる,hirogaru,to spread (out); to extend; to stretch; to reach to; to get around,N3,v5r; vi,1602360,,うわさは四方八方に広がった。,The rumor spread far and wide.
-1ea7451e69,瓶,びん,bin,bottle,N3,n,1491120,,使用する前に瓶を振ってください。,Shake the bottle before using.
+1ea7451e69,瓶,びん,bin,bottle,N3,n,1491120,,その瓶を水でいっぱいにしなさい。,Fill the bottle with water.
 526233614e,便,びん,bin,flight (e.g. airline flight); trip (e.g. train trip); sailing (e.g. ferry voyage); service,N3,n; n-suf,1512360,,バスの便はもっと良くて当然だ。,There ought to be a better bus service.
 18ce3e646d,ピン,ピン,pin,pin,N3,n,1107060,,,
 41e221bc4d,不,ふ,fu,un; non; negative prefix,N3,pref,1922780,,,
@@ -1415,7 +1415,7 @@ e3be9063f5,分野,ぶんや,bun'ya,field; sphere; realm; division; branch,N3,n,1
 91695e543a,別に,べつに,betsuni,(not) particularly; nothing,N3,adv,1509480,,ソースを別にください。,I'd like the sauce on the side.
 a054bbbb20,減らす,へらす,herasu,to abate; to decrease; to diminish; to shorten,N3,v5s; vt,1263110,,ジョギングでもして体重を減らすようにしなさい。,Try to lose weight by jogging.
 b459e9db8c,減る,へる,heru,to decrease (in size or number); to diminish; to abate,N3,v5r; vi,1263120,へる,会員は５人に減った。,The number of members decreased to five.
-44edce4345,ベルト,ベルト,beruto,Belt for western clothes,N3,n,1120070,,彼女は腰に革のベルトをしている。,She is wearing a leather belt around her waist.
+44edce4345,ベルト,ベルト,beruto,Belt for western clothes,N3,n,1120070,,忘れずに安全ベルトを閉めなさい。,Don't forget to fasten your safety belts.
 eac8dadcd3,変化,へんか,henka,change; variation; alteration; mutation,N3,n; vs; vi,1510890,,言語は人間と同じように変化する。,Language changes as human beings do.
 525af6640e,ペンキ,ペンキ,penki,paint (nl: pek),N3,n,1121390,,雨に当たってペンキがはげている。,The paint is peeling off the weather-beaten wall.
 136adbc360,変更,へんこう,henkou,change; modification; alteration,N3,n; vs; vt,1511040,,その規則は絶対変更できない。,The rule is utterly inflexible.
@@ -1520,7 +1520,7 @@ bd59d43a89,無料,むりょう,muryou,free; no charge,N3,adj-no; n,1531040,,こ�
 37126e35d7,名人,めいじん,meijin,master; expert,N3,n,1531680,,彼女の夫は料理の名人なのだ。,Her husband is an excellent cook.
 f523e4118d,命令,めいれい,meirei,order; command; decree; directive; (software) instruction,N3,n; vs; vt,1532160,,彼は私に起立するように命令した。,He ordered me to stand up.
 c6c155ada8,迷惑,めいわく,meiwaku,trouble; bother; annoyance,N3,n; adj-na,1532800,,迷惑にならないようにしなさい。,Never make a nuisance of yourself.
-ba21b41503,飯,めし,meshi,(slang) meals; food,N3,n,1482010,,とにかくメシ・・・といきたいところだが、その前に用を足すことにした。,"Anyhow, lunch ... is where I wanted to go but I decided to go to the toilet first."
+ba21b41503,飯,めし,meshi,(slang) meals; food,N3,n,1482010,,一週間メシ抜きだったよ。,I went without food for a week.
 24e21e954d,滅多に,めったに,mettani,rarely (with neg. verb); seldom,N3,adv,1612000,,今、私はめったに映画を見に行きません。,Now I seldom go to the movies.
 c13f4ea321,メモ,メモ,memo,memorandum,N3,n; vs; vt,1133830,,私の電話番号をメモしましたか。,Did you note down my phone number?
 9fbf209387,綿,めん,men,cotton; padding,N3,n,1533330,,この綿のシャツは洗濯がよく効く。,This cotton shirt washes well.
@@ -1616,7 +1616,7 @@ a3e1ac6ec4,よると,よると,yoruto,according to,N3,v5r; vi,1168660,,新聞に
 ceb20bf4f8,よろしく,よろしく,yoroshiku,well; properly; suitably; best regards; please remember me,N3,exp; adv,1224890,宜しく,ご家族の皆さんによろしく。,Give my love to your family.
 379b767ed6,来,らい,rai,for (10 days); next (year),N3,pref,1547710,,来年末までで、ここで働き始めてどれくらいの期間になりますか。,How long will you have been working here by the end of next year?
 0294bdc5ab,ライター,ライター,raitaa,lighter; rider; writer,N3,n,1137880,,,
-733b519a1e,楽,らく,raku,comfort; ease,N3,n; adj-na,1207230,,人手が多ければ仕事は楽になるんだ。,Many hands make light work.
+733b519a1e,楽,らく,raku,comfort; ease,N3,n; adj-na,1207230,,私は楽ではない生き方をすると思う。,I have a fancy to live the hard way.
 f998ef10bc,ラケット,ラケット,raketto,paddle; racket,N3,n,1138710,,好きなラケットを選びなさい。,Choose your favorite racket.
 d75a953f22,利益,りえき,rieki,"profits; gains; (political, economic) interest",N3,n,1549470,,利益になるような本を読みなさい。,Read books that are worthwhile.
 400fee0ea3,理解,りかい,rikai,understanding; comprehension,N3,n; vs; vt,1549910,,わたしはあなたの言うことが理解できる。,I can understand what you are saying.

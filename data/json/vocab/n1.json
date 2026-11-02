@@ -7993,7 +7993,6 @@
     "examples": [
       {
         "ja": "その老人は１０年前に公の生活から引退した。",
-        "furigana": "その{老人|ろうじん}は１０{年|ねん}{前|#1392580}に{公|おおやけ}の{生活|せいかつ}から{引退|いんたい}した。",
         "en": "The old man retired from public life ten years ago.",
         "tatoeba_id": 206161
       },
@@ -9045,9 +9044,9 @@
         "tatoeba_id": 97909
       },
       {
-        "ja": "彼女はなんと親切な少女だろう。",
-        "en": "What a kind girl she is!",
-        "tatoeba_id": 91820
+        "ja": "髪が腰まで伸びている少女を見た。",
+        "en": "I saw a girl whose hair came down to her waist.",
+        "tatoeba_id": 121303
       }
     ]
   },
@@ -10294,7 +10293,6 @@
     "examples": [
       {
         "ja": "彼は２年前に、大佐の階級に昇進した。",
-        "furigana": "{彼|かれ}は２{年|ねん}{前|#1392580}に、{大佐|たいさ}の{階級|かいきゅう}に{昇進|しょうしん}した。",
         "en": "He was raised to the rank of colonel two years ago.",
         "tatoeba_id": 115166
       },
@@ -11239,7 +11237,6 @@
       },
       {
         "ja": "回路を調べる前に、電源のスイッチを切りなさい。",
-        "furigana": "{回路|かいろ}を{調|しら}べる{前|#1392580}に、{電源|でんげん}のスイッチを{切|き}りなさい。",
         "en": "You must switch off the power before checking the circuit.",
         "tatoeba_id": 185179
       }
@@ -13149,7 +13146,6 @@
     "examples": [
       {
         "ja": "彼は読書をし、その傍らで妻が手袋を編んでいた。",
-        "furigana": "{彼|かれ}は{読書|どくしょ}をし、その{傍|かたわ}らで{妻|#1294330}が{手袋|てぶくろ}を{編|あ}んでいた。",
         "en": "He sat reading, with his wife knitting a pair of gloves beside him.",
         "tatoeba_id": 101583
       },
@@ -20412,10 +20408,10 @@
         "tatoeba_id": 109889
       },
       {
-        "ja": "妻はいつも愚痴ばかりこぼしている。",
-        "furigana": "{妻|#1294330}はいつも{愚痴|ぐち}ばかりこぼしている。",
-        "en": "My wife is always complaining about something.",
-        "tatoeba_id": 170356
+        "ja": "家内の愚痴を聞くのはもううんざりしています。",
+        "furigana": "{家内|かない}の{愚痴|ぐち}を{聞|き}くのはもううんざりしています。",
+        "en": "I'm sick of listening to her complaints.",
+        "tatoeba_id": 186899
       }
     ]
   },
@@ -21982,7 +21978,6 @@
     "examples": [
       {
         "ja": "何年か前には、結核にかかっていると知らされることは死の宣告を聞くのに等しかった。",
-        "furigana": "{何年|なんねん}か{前|#1392580}には、{結核|けっかく}にかかっていると{知|し}らされることは{死|し}の{宣告|せんこく}を{聞|き}くのに{等|ひと}しかった。",
         "en": "Some years ago, learning that one had tuberculosis amounted to hearing a sentence of death.",
         "tatoeba_id": 187328
       }
@@ -27610,7 +27605,6 @@
     "examples": [
       {
         "ja": "サリーは前の日に買ったコンタクトをなくした。",
-        "furigana": "サリーは{前|#1392580}の{日|ひ}に{買|か}ったコンタクトをなくした。",
         "en": "Sally lost the contact lenses she had bought the day before.",
         "tatoeba_id": 216641
       },
@@ -31328,10 +31322,10 @@
         "tatoeba_id": 88903
       },
       {
-        "ja": "父はこの事業を４０年前に始めた。",
-        "furigana": "{父|ちち}はこの{事業|じぎょう}を４０{年|ねん}{前|#1392580}に{始|はじ}めた。",
-        "en": "Father established his business 40 years ago.",
-        "tatoeba_id": 84729
+        "ja": "彼は自ら野心の事業に織り出した。",
+        "furigana": "{彼|かれ}は{自|みずか}ら{野心|やしん}の{事業|じぎょう}に{織|お}り{出|だ}した。",
+        "en": "He fell a victim to his own ambition.",
+        "tatoeba_id": 105237
       }
     ]
   },
@@ -32663,7 +32657,6 @@
     "examples": [
       {
         "ja": "彼女は２度のフライングで失格した。",
-        "furigana": "{彼女|かのじょ}は２{度|#1445160}のフライングで{失格|しっかく}した。",
         "en": "She was disqualified from the race for two false starts.",
         "tatoeba_id": 93564
       },
@@ -34468,7 +34461,6 @@
       },
       {
         "ja": "彼女は３年前に修士の学位をとりました。",
-        "furigana": "{彼女|かのじょ}は３{年|ねん}{前|#1392580}に{修士|しゅうし}の{学位|がくい}をとりました。",
         "en": "She got a master's degree three years ago.",
         "tatoeba_id": 93533
       }
@@ -34492,16 +34484,16 @@
     "jmdict_id": 1332820,
     "examples": [
       {
-        "ja": "前の会社では何でも屋に終始したので今度は専門職に就きたい。",
-        "furigana": "{前|#1392580}の{会社|かいしゃ}では{何|なん}でも{屋|や}に{終始|しゅうし}したので{今度|こんど}は{専門職|せんもんしょく}に{就|つ}きたい。",
-        "en": "I wore several hats at my last office so I'd like to specialize this time.",
-        "tatoeba_id": 140985
-      },
-      {
         "ja": "私服警官が終始大統領の身辺を固めていた。",
         "furigana": "{私服警官|しふくけいかん}が{終始|しゅうし}{大統領|だいとうりょう}の{身辺|しんぺん}を{固|かた}めていた。",
         "en": "The private detectives accompanied the President everywhere.",
         "tatoeba_id": 151223
+      },
+      {
+        "ja": "学生たちは終始じっと座っていた。",
+        "furigana": "{学生|がくせい}たちは{終始|しゅうし}じっと{座|すわ}っていた。",
+        "en": "The students sat still all the time.",
+        "tatoeba_id": 184299
       }
     ]
   },
@@ -37606,7 +37598,6 @@
     "examples": [
       {
         "ja": "初版は１０年前に出版された。",
-        "furigana": "{初版|しょはん}は１０{年|ねん}{前|#1392580}に{出版|しゅっぱん}された。",
         "en": "The first edition was published ten years ago.",
         "tatoeba_id": 147498
       },
@@ -41450,10 +41441,9 @@
         "tatoeba_id": 187153
       },
       {
-        "ja": "いま閉店前のセールをやっているとこがありますか。",
-        "furigana": "いま{閉店|へいてん}{前|#1392580}のセールをやっているとこがありますか。",
-        "en": "Are there any stores with \"going out of business\" sales?",
-        "tatoeba_id": 228514
+        "ja": "昨日、母とセールに出かけて、服をおねだりした。",
+        "en": "I went to a sale with my mother yesterday and kept hounding her to buy me a dress.",
+        "tatoeba_id": 170131
       }
     ]
   },
@@ -43734,10 +43724,10 @@
         "tatoeba_id": 167016
       },
       {
-        "ja": "彼は５年前にその学校を創立した。",
-        "furigana": "{彼|かれ}は５{年|ねん}{前|#1392580}にその{学校|がっこう}を{創立|そうりつ}した。",
-        "en": "He founded the school five years ago.",
-        "tatoeba_id": 115060
+        "ja": "私たちの学校は創立８０周年です。",
+        "furigana": "{私|わたし}たちの{学校|がっこう}は{創立|そうりつ}８０{周年|しゅうねん}です。",
+        "en": "Our school is 80 years old.",
+        "tatoeba_id": 167017
       }
     ]
   },
@@ -52117,7 +52107,6 @@
     "examples": [
       {
         "ja": "私は４年前からこの仕事を手がけています。",
-        "furigana": "{私|わたし}は４{年|ねん}{前|#1392580}からこの{仕事|しごと}を{手|て}がけています。",
         "en": "I started doing this work 4 years ago.",
         "tatoeba_id": 161937
       },
@@ -53194,7 +53183,6 @@
     "examples": [
       {
         "ja": "回路を調べる前に、電源のスイッチを切りなさい。",
-        "furigana": "{回路|かいろ}を{調|しら}べる{前|#1392580}に、{電源|でんげん}のスイッチを{切|き}りなさい。",
         "en": "You must switch off the power before checking the circuit.",
         "tatoeba_id": 185179
       }
@@ -55854,6 +55842,11 @@
         "ja": "あと、戸締りよろしくな。",
         "en": "I'll leave you to lock up.",
         "tatoeba_id": 75307
+      },
+      {
+        "ja": "寝る前には必ず戸締まりをしてくださいよ。",
+        "en": "Be sure to lock the door before you go to bed.",
+        "tatoeba_id": 145657
       }
     ]
   },
@@ -56642,7 +56635,6 @@
       },
       {
         "ja": "今では多くの家庭が共稼ぎで、夫と妻の両方が働いている。",
-        "furigana": "{今|いま}では{多|おお}くの{家庭|かてい}が{共稼|ともかせ}ぎで、{夫|おっと}と{妻|#1294330}の{両方|りょうほう}が{働|はたら}いている。",
         "en": "Many families now have two breadwinners with both husbands and wives working.",
         "tatoeba_id": 172784
       }
@@ -60470,7 +60462,6 @@
     "examples": [
       {
         "ja": "大統領は辞任する前にお金に困らないように根回しした。",
-        "furigana": "{大統領|だいとうりょう}は{辞任|じにん}する{前|#1392580}にお{金|かね}に{困|こま}らないように{根回|ねまわ}しした。",
         "en": "The president made certain that he lined his pockets before he resigned.",
         "tatoeba_id": 137330
       }
@@ -67965,7 +67956,6 @@
       },
       {
         "ja": "３０年前のファッションが復活した。",
-        "furigana": "３０{年|ねん}{前|#1392580}のファッションが{復活|ふっかつ}した。",
         "en": "Fashions of thirty years ago have come back in style.",
         "tatoeba_id": 235375
       }
@@ -68153,16 +68143,15 @@
     "jmdict_id": 1501720,
     "examples": [
       {
-        "ja": "水は摂氏100度で沸騰する。",
-        "furigana": "{水|みず}は{摂氏|せっし}100{度|#1445160}で{沸騰|ふっとう}する。",
-        "en": "Water boils at 100 degrees Celsius.",
-        "tatoeba_id": 143741
-      },
-      {
         "ja": "国内は防衛問題で沸騰した。",
         "furigana": "{国内|こくない}は{防衛|ぼうえい}{問題|もんだい}で{沸騰|ふっとう}した。",
         "en": "The country seethed over the issue of national defense.",
         "tatoeba_id": 173038
+      },
+      {
+        "ja": "水は摂氏100度で沸騰する。",
+        "en": "Water boils at 100 degrees Celsius.",
+        "tatoeba_id": 143741
       }
     ]
   },
@@ -73993,7 +73982,6 @@
     "examples": [
       {
         "ja": "妻の死の知らせを聞いてもまゆ一つ動かさなかった。",
-        "furigana": "{妻|#1294330}の{死|し}の{知|し}らせを{聞|き}いてもまゆ{一|ひと}つ{動|うご}かさなかった。",
         "en": "He did not even raise an eyebrow at the news of his wife's death.",
         "tatoeba_id": 170359
       },
@@ -75941,15 +75929,15 @@
     "jmdict_id": 1530520,
     "examples": [
       {
-        "ja": "彼は妻の無駄遣いに渋い顔をする。",
-        "furigana": "{彼|かれ}は{妻|#1294330}の{無駄遣|むだづか}いに{渋|しぶ}い{顔|かお}をする。",
-        "en": "He frowns on his wife's wasting money.",
-        "tatoeba_id": 106888
-      },
-      {
         "ja": "なんてひどいむだ使いでしょう。",
         "en": "What a fearful waste of money!",
         "tatoeba_id": 198917
+      },
+      {
+        "ja": "私はお金を無駄遣いするつもりはない。",
+        "furigana": "{私|わたし}はお{金|かね}を{無駄遣|むだづか}いするつもりはない。",
+        "en": "I'm not going to waste my money.",
+        "tatoeba_id": 161237
       }
     ]
   },
@@ -80655,10 +80643,10 @@
         "tatoeba_id": 78930
       },
       {
-        "ja": "与党は前の選挙で過半数を占めた。",
-        "furigana": "{与党|よとう}は{前|#1392580}の{選挙|せんきょ}で{過半数|かはんすう}を{占|し}めた。",
-        "en": "The government got their majority at the last election.",
-        "tatoeba_id": 78931
+        "ja": "今度の選挙では与党が勝ちそうだね。",
+        "furigana": "{今度|こんど}の{選挙|せんきょ}では{与党|よとう}が{勝|か}ちそうだね。",
+        "en": "It looks like the party in power will win the upcoming election.",
+        "tatoeba_id": 172148
       }
     ]
   },
@@ -81523,7 +81511,6 @@
       },
       {
         "ja": "「とりあえず店の前、掃除しといてくれ」「了解！」「打ち水も頼む」",
-        "furigana": "「とりあえず{店|みせ}の{前|#1392580}、{掃除|そうじ}しといてくれ」「{了解|りょうかい}！」「{打|う}ち{水|みず}も{頼|たの}む」",
         "en": "\"Clean up in front of the shop first.\" \"OK!\" \"Sprinkle some water out there too.\"",
         "tatoeba_id": 237436
       }
