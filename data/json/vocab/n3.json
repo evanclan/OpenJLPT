@@ -4940,16 +4940,16 @@
     "jmdict_id": 1179830,
     "examples": [
       {
+        "ja": "あなたの要求に応じることはできない。",
+        "furigana": "あなたの{要求|ようきゅう}に{応|おう}じることはできない。",
+        "en": "I cannot answer your request offhand.",
+        "tatoeba_id": 232966
+      },
+      {
         "ja": "彼は収入に応じた生活をしている。",
         "furigana": "{彼|かれ}は{収入|しゅうにゅう}に{応|おう}じた{生活|せいかつ}をしている。",
         "en": "He lives up to his income.",
         "tatoeba_id": 104403
-      },
-      {
-        "ja": "私はあなたの要求に応じられない。",
-        "furigana": "{私|わたし}はあなたの{要求|ようきゅう}に{応|おう}じられない。",
-        "en": "I cannot comply with your request.",
-        "tatoeba_id": 161637
       }
     ]
   },
@@ -17459,10 +17459,10 @@
         "tatoeba_id": 234238
       },
       {
-        "ja": "受けるより与える方が幸いである。",
-        "furigana": "{受|う}けるより{与|あた}える{方|ほう}が{幸|さいわ}いである。",
-        "en": "It is more blessed to give than to receive.",
-        "tatoeba_id": 148378
+        "ja": "彼と会ったのが幸いだった。",
+        "furigana": "{彼|かれ}と{会|あ}ったのが{幸|さいわ}いだった。",
+        "en": "I was happy to see him.",
+        "tatoeba_id": 119208
       }
     ]
   },
@@ -26814,15 +26814,16 @@
     "jmdict_id": 1436050,
     "examples": [
       {
-        "ja": "靴の底がすり減ってしまった。",
-        "en": "The soles of my shoes are worn.",
-        "tatoeba_id": 179253
+        "ja": "底を持ってくれ。",
+        "furigana": "{底|そこ}を{持|も}ってくれ。",
+        "en": "Grab the bottom.",
+        "tatoeba_id": 125528
       },
       {
-        "ja": "ビンの底には水が少し残っていた。",
-        "furigana": "ビンの{底|そこ}には{水|みず}が{少|すこ}し{残|のこ}っていた。",
-        "en": "There was a little water left in the bottom of the bottle.",
-        "tatoeba_id": 197249
+        "ja": "その船は海の底に沈んだ。",
+        "furigana": "その{船|ふね}は{海|うみ}の{底|そこ}に{沈|しず}んだ。",
+        "en": "The ship went down to the bottom of the sea.",
+        "tatoeba_id": 208434
       }
     ]
   },

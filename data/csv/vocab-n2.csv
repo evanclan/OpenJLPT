@@ -323,7 +323,7 @@ a6be7f8124,歌謡,かよう,kayou,song; ballad,N2,n,1193450,,,
 5f2087a06a,カラー,カラー,karaa,collar; color; colour,N2,n,1038500,,,
 8a365cb6af,からかう,からかう,karakau,to ridicule; to tease; to banter with; to make fun of,N2,v5u; vt,1567650,揶揄う,新入生をからかってはいけません。,Don't make fun of the new student!
 b49d7bfd2b,空っぽ,からっぽ,karappo,empty; vacant; hollow,N2,adj-no; adj-na; n,1245380,,町のどの家も空っぽだった。,All the houses in town were empty.
-8fb8a5e5bd,かるた,かるた,karuta,playing cards (pt: carta),N2,n,1590710,歌留多; 加留多,カルタを配ってください。,Please deal the cards.
+8fb8a5e5bd,かるた,かるた,karuta,playing cards (pt: carta),N2,n,1590710,加留多,私は試験に受かるために熱心に勉強した。,I studied hard in order to pass the examination.
 1220fb871d,枯れる,かれる,kareru,to wither; to die (plant); to be blasted (plant),N2,v1; vi,1267220,,その花は水がないために枯れた。,The flower died for lack of water.
 80c3be3aaf,カロリー,カロリー,karorii,calorie,N2,n,1039300,,あなたは必要以上のカロリーをとっている。,You take more calories than are necessary.
 53ec040c72,かわいがる,かわいがる,kawaigaru,to love; to be affectionate,N2,v5r; vt,1190730,可愛がる,彼女はこの村のみんなからかわいがられていました。,She was loved by everybody in the village.
@@ -751,7 +751,7 @@ ebca1fdaa7,障子,しょうじ,shouji,paper sliding door,N2,n,1352090,,壁に耳
 852e2ea46c,商社,しょうしゃ,shousha,trading company; firm,N2,n,1347080,,ニューヨークにはたくさんの商社がある。,There are many commercial firms in New York.
 545014d791,乗車,じょうしゃ,jousha,taking a train; entraining,N2,n; vs; vi,1355270,,ご乗車ありがとうございます。,Welcome aboard!
 d52725aae3,上旬,じょうじゅん,joujun,first 10 days of month,N2,n,1353410,,７月の上旬は、海に行くのは早いかな？,I wonder if the first week or so of July is too early to go to the beach.
-93cb131fbe,小数,しょうすう,shousuu,fraction (part of); decimal,N2,n; adj-no,1348370,,次の分数を小数に直しなさい。,Convert the following fractions to decimals.
+93cb131fbe,小数,しょうすう,shousuu,fraction (part of); decimal,N2,n,1348370,,次の分数を小数に直しなさい。,Convert the following fractions to decimals.
 a6ad7ce8c8,生ずる,しょうずる,shouzuru,to cause; to arise; to be generated,N2,vz; vi,1378660,,再開発によって地域に便益が生ずる。,Benefits accrue to the community from reconstruction.
 4a7ef7501d,商店,しょうてん,shouten,shop; business firm,N2,n,1347180,,この地域は商店が多い。,There are many stores in this area.
 f7b7058565,焦点,しょうてん,shouten,focus; point,N2,n,1350810,,話の焦点は内容に置かれている。,The focus of the talk is put on the content.
@@ -999,7 +999,7 @@ a0ca1d13fa,足袋,たび,tabi,tabi; Japanese socks (with split toe),N2,n,1404920
 b74458a2d2,溜まる,たまる,tamaru,to collect; to gather; to save,N2,v5r; vi,1552650,,彼女の目に涙がたまった。,Tears gathered in her eyes.
 34b4191f3c,ダム,ダム,damu,dumb,N2,n,1077140,,大雨のためにダムが決壊した。,The dam burst owing to the heavy rain.
 802a1fbd95,溜息,ためいき,tameiki,a sigh,N2,n,1597190,,彼は安心してホッとため息をもらした。,He gave a sigh of relief.
-f3cdef1455,ためらう,ためらう,tamerau,to hesitate,N2,v5u; vi,1573390,躊躇う,質問するのをためらわないでください。,Don't hesitate to ask questions.
+f3cdef1455,ためらう,ためらう,tamerau,to hesitate,N2,v5u; vt; vi,1573390,躊躇う,質問するのをためらわないでください。,Don't hesitate to ask questions.
 d938167f7c,溜める,ためる,tameru,to amass; to accumulate,N2,v1; vt,1552630,,彼は海外旅行のため金を溜めている。,He is saving money for a trip abroad.
 69caece3b1,だらしない,だらしない,darashinai,slovenly; loose; a slut,N2,adj-i,1007500,,彼はだらしない生活をしてきた。,He has led a loose life.
 17c303f793,足る,たる,taru,to be sufficient; to be enough,N2,v5r; vi,1404750,,その計画には大いに飽き足らぬところがある。,The plan is far from satisfactory.

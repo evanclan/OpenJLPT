@@ -119,10 +119,9 @@
         "tatoeba_id": 188876
       },
       {
-        "ja": "前に彼にあったのを覚えている。",
-        "furigana": "{前|#1392580}に{彼|かれ}にあったのを{覚|おぼ}えている。",
-        "en": "I remember seeing him before.",
-        "tatoeba_id": 140993
+        "ja": "彼らは災難に遭っても冷静であった。",
+        "en": "They were calm in the face of disaster.",
+        "tatoeba_id": 97109
       }
     ]
   },
@@ -9143,15 +9142,19 @@
     ],
     "jmdict_id": 1590710,
     "other_forms": [
-      "歌留多",
       "加留多"
     ],
     "examples": [
       {
-        "ja": "カルタを配ってください。",
-        "furigana": "カルタを{配|くば}ってください。",
-        "en": "Please deal the cards.",
-        "tatoeba_id": 226163
+        "ja": "私は試験に受かるために熱心に勉強した。",
+        "en": "I studied hard in order to pass the examination.",
+        "tatoeba_id": 156457
+      },
+      {
+        "ja": "彼は試験に受かるために一生懸命勉強している。",
+        "furigana": "{彼|かれ}は{試験|しけん}に{受|う}かるために{一生懸命|いっしょうけんめい}{勉強|べんきょう}している。",
+        "en": "He is working hard to pass the examination.",
+        "tatoeba_id": 105422
       }
     ]
   },
@@ -21083,8 +21086,7 @@
     ],
     "level": "N2",
     "pos": [
-      "n",
-      "adj-no"
+      "n"
     ],
     "jmdict_id": 1348370,
     "examples": [
@@ -27869,6 +27871,7 @@
     "level": "N2",
     "pos": [
       "v5u",
+      "vt",
       "vi"
     ],
     "jmdict_id": 1573390,

@@ -9040,14 +9040,14 @@
     "jmdict_id": 2855480,
     "examples": [
       {
-        "ja": "あのかわいい少女は私の妹です。",
-        "en": "That pretty girl is my sister.",
-        "tatoeba_id": 231347
-      },
-      {
         "ja": "彼らはその少女は小柄だと言った。",
         "en": "They described the girl as being small.",
         "tatoeba_id": 97909
+      },
+      {
+        "ja": "彼女はなんと親切な少女だろう。",
+        "en": "What a kind girl she is!",
+        "tatoeba_id": 91820
       }
     ]
   },
@@ -53400,10 +53400,10 @@
         "tatoeba_id": 198304
       },
       {
-        "ja": "彼は天井に手が届くほど背が高い。",
-        "furigana": "{彼|かれ}は{天井|てんじょう}に{手|て}が{届|とど}くほど{背|せ}が{高|たか}い。",
-        "en": "He is such a tall man that he can touch the ceiling.",
-        "tatoeba_id": 101938
+        "ja": "彼は天井を青く塗った。",
+        "furigana": "{彼|かれ}は{天井|てんじょう}を{青|あお}く{塗|ぬ}った。",
+        "en": "He painted the ceiling blue.",
+        "tatoeba_id": 101935
       }
     ]
   },
@@ -64996,6 +64996,7 @@
     ],
     "level": "N1",
     "pos": [
+      "adj-no",
       "adv",
       "n"
     ],

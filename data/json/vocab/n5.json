@@ -4043,16 +4043,16 @@
     "jmdict_id": 1203650,
     "examples": [
       {
+        "ja": "ある外国人が私に駅がどこにあるかと聞いた。",
+        "furigana": "ある{外国人|がいこくじん}が{私|わたし}に{駅|えき}がどこにあるかと{聞|き}いた。",
+        "en": "A foreigner asked me where the station was.",
+        "tatoeba_id": 229897
+      },
+      {
         "ja": "その外国人はかなりうまく日本語を話す。",
         "furigana": "その{外国人|がいこくじん}はかなりうまく{日本語|にほんご}を{話|はな}す。",
         "en": "The foreigner speaks Japanese fairly well.",
         "tatoeba_id": 211699
-      },
-      {
-        "ja": "その外国人はまるで母語のように日本語を話した。",
-        "furigana": "その{外国人|がいこくじん}はまるで{母語|ぼご}のように{日本語|にほんご}を{話|はな}した。",
-        "en": "The foreigner spoke Japanese as if it were her mother tongue.",
-        "tatoeba_id": 211696
       }
     ]
   },

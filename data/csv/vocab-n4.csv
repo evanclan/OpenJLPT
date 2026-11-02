@@ -80,7 +80,7 @@ a58874b751,お金持ち,おかねもち,okanemochi,rich man,N4,n,2429350,,どう
 ba001e2f36,贈り物,おくりもの,okurimono,gift,N4,n,1589030,,ジェニーは贈り物をありがとうと言った。,Jenny thanked me for the gift.
 af1dae5588,送る,おくる,okuru,to send,N4,v5r; vt,1402730,,この手紙を日本に送ってくれませんか。,Could you send this letter to Japan?
 ae8ce3986c,遅れる,おくれる,okureru,to be late,N4,v1; vi,1589040,,電車はほとんど一時間遅れだった。,The train was almost an hour behind time.
-99de4451f7,起す,おこす,okosu,to wake,N4,v5s; vt,1223660,起こす,病気の子供はベッドの上で体を起こした。,The sick child sat up in bed.
+99de4451f7,起す,おこす,okosu,to wake,N4,v5s; vt,1223660,起こす,六時半に起こしてください。,Please wake me up at 6:30.
 2139fab218,行う,おこなう,okonau,to do,N4,v5u; vt,1589060,,いう事と行う事はまったく別だ。,"To say is one thing, and to do quite another."
 2e0f32c097,怒る,おこる,okoru,to get angry; to be angry,N4,v5r; vi,1445690,,それをそのままにしておきなさい。そうしないと怒られますよ。,"Leave it as it is, or you will be scolded."
 3787755f33,押し入れ,おしいれ,oshiire,closet,N4,n,1589110,,強盗はその子供を押し入れに閉じ込めた。,The burglar shut the child in the closet.
@@ -449,7 +449,7 @@ a777a7ce62,泣く,なく,naku,to weep,N4,v5k; vi,1229840,,ビルは何時間も�
 74c23dc218,なさる,なさる,nasaru,(respectful) to do,N4,v5aru; vt,1157090,為さる,ステーキの焼き方はどうなさいますか。,How would you like your steak?
 3a915c9be5,鳴る,なる,naru,to sound,N4,v5r; vi,1532910,,電話が鳴ったらただちに出なさい。,"When the telephone rings, you must answer right away."
 626ae1ff39,なるべく,なるべく,narubeku,as much as possible,N4,adv,1375620,成るべく,なるべく安いほうがいいです。,I would like the least expensive one.
-76a4fc9d6d,なるほど,なるほど,naruhodo,now I understand,N4,int; adv,1375820,,ああ、なるほど！,"Ah, gotcha!"
+76a4fc9d6d,なるほど,なるほど,naruhodo,now I understand,N4,int,1375820,,なるほど、これがニューヨークか。,So this is New York.
 ce2f134cda,慣れる,なれる,nareru,to grow accustomed to,N4,v1; vi,1212670,,朝早く起きるのには慣れています。,I'm accustomed to getting up early.
 40f67571a6,におい,におい,nioi,a smell,N4,n,1599760,匂い,あの花はにおいが強いな。,That flower has a powerful smell.
 e1cfd51839,苦い,にがい,nigai,bitter,N4,adj-i,1244310,,このコーヒーは苦い味がする。,This coffee tastes bitter.
@@ -546,7 +546,7 @@ b3f18d07d4,ほど,ほど,hodo,extent,N4,n; adv,1436510,程,スージーほど上
 7e5b1397b9,ほとんど,ほとんど,hotondo,mostly,N4,adv,1522050,殆ど,ケイトは中国語をほとんど話せない。,Kate can hardly speak Chinese.
 9097d5cc39,ほめる,ほめる,homeru,to praise,N4,v1; vt,1603550,褒める,ヘレンはみんなにほめられて顔を赤くした。,Helen blushed at their praise.
 36dc0ccd26,翻訳,ほんやく,hon'yaku,translation,N4,n; vs; vt,1523400,,彼女はそれを一語一語翻訳した。,She translated it word for word.
-7c74c440e5,参る,まいる,mairu,(humble) to go; to come,N4,v5r; vi,1302070,,ジョーはその女の子にすっかり参っている。,Joe's nuts about the girl.
+7c74c440e5,参る,まいる,mairu,(humble) to go; to come,N4,v5r; vi,1302070,,あなたといっしょに参ります。,I will come with you.
 cb6d7546fb,負ける,まける,makeru,to lose,N4,v1; vi,1497980,,３対０で彼には負けています。,"He's beating me, three to zip."
 d3422596a8,まじめ,まじめ,majime,serious,N4,adj-na; n,1364360,真面目,サムは仕事に関してまじめです。,Sam is serious about his work.
 9c0ee7cfcc,まず,まず,mazu,first of all,N4,adv,1387240,先ず,バリウムをまず一口飲んでください。,"First, swallow one dose of barium."

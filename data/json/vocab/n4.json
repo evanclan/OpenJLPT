@@ -479,10 +479,10 @@
         "tatoeba_id": 81356
       },
       {
-        "ja": "ケンは古いコインを集めている。",
-        "furigana": "ケンは{古|ふる}いコインを{集|あつ}めている。",
-        "en": "Ken collects old coins.",
-        "tatoeba_id": 225146
+        "ja": "このテレビ番組がいま人気を集めています。",
+        "furigana": "このテレビ{番組|ばんぐみ}がいま{人気|にんき}を{集|あつ}めています。",
+        "en": "This TV show is catching on now.",
+        "tatoeba_id": 223491
       }
     ]
   },
@@ -2345,14 +2345,14 @@
     ],
     "examples": [
       {
+        "ja": "六時半に起こしてください。",
+        "en": "Please wake me up at 6:30.",
+        "tatoeba_id": 77234
+      },
+      {
         "ja": "病気の子供はベッドの上で体を起こした。",
         "en": "The sick child sat up in bed.",
         "tatoeba_id": 85260
-      },
-      {
-        "ja": "明日の朝6時に起こしてください。",
-        "en": "Please wake me up at six tomorrow morning.",
-        "tatoeba_id": 80506
       }
     ]
   },
@@ -12916,15 +12916,20 @@
     ],
     "level": "N4",
     "pos": [
-      "int",
-      "adv"
+      "int"
     ],
     "jmdict_id": 1375820,
     "examples": [
       {
-        "ja": "ああ、なるほど！",
-        "en": "Ah, gotcha!",
-        "tatoeba_id": 9611877
+        "ja": "なるほど、これがニューヨークか。",
+        "en": "So this is New York.",
+        "tatoeba_id": 199052
+      },
+      {
+        "ja": "なるほどこの車は小さいが力強い。",
+        "furigana": "なるほどこの{車|くるま}は{小|ちい}さいが{力強|ちからづよ}い。",
+        "en": "Indeed this car is small, but it is powerful.",
+        "tatoeba_id": 199053
       }
     ]
   },
@@ -14875,10 +14880,10 @@
         "tatoeba_id": 174492
       },
       {
-        "ja": "水はここがいちばん深い。",
-        "furigana": "{水|みず}はここがいちばん{深|ふか}い。",
-        "en": "The water is deepest here.",
-        "tatoeba_id": 143780
+        "ja": "彼女は深い眠りについた。",
+        "furigana": "{彼女|かのじょ}は{深|ふか}い{眠|ねむ}りについた。",
+        "en": "She fell into a deep sleep.",
+        "tatoeba_id": 88538
       }
     ]
   },
@@ -15708,16 +15713,16 @@
     "jmdict_id": 1302070,
     "examples": [
       {
-        "ja": "ジョーはその女の子にすっかり参っている。",
-        "furigana": "ジョーはその{女|おんな}の{子|こ}にすっかり{参|まい}っている。",
-        "en": "Joe's nuts about the girl.",
-        "tatoeba_id": 215613
+        "ja": "あなたといっしょに参ります。",
+        "furigana": "あなたといっしょに{参|まい}ります。",
+        "en": "I will come with you.",
+        "tatoeba_id": 233874
       },
       {
-        "ja": "あの問題には参ったよ。",
-        "furigana": "あの{問題|もんだい}には{参|まい}ったよ。",
-        "en": "That problem has really got me.",
-        "tatoeba_id": 230429
+        "ja": "私はその知らせを聞いて参ってしまった。",
+        "furigana": "{私|わたし}はその{知|し}らせを{聞|き}いて{参|まい}ってしまった。",
+        "en": "I was floored by the news.",
+        "tatoeba_id": 159958
       }
     ]
   },
