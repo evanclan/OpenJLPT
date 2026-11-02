@@ -619,7 +619,7 @@ ${LEVEL_NAMES.map((l) => {
   return `<tr><td>${lvl(l)}</td>${(['vocab', 'kanji', 'grammar'] as const).map((k) => `<td><a href="${cdn}/data/json/${k}/${lc}.json">JSON</a> · <a href="${cdn}/data/csv/${k}-${lc}.csv">CSV</a></td>`).join('')}</tr>`;
 }).join('')}
 </tbody></table>
-<div class="btn-row"><a class="btn primary" href="${REPO}/releases/latest/download/openjlpt-data.zip">⬇ Everything: JSON + CSV + SQLite (zip)</a><a class="btn" href="${REPO}/raw/main/data/openjlpt.sqlite">⬇ SQLite database</a></div>
+<div class="btn-row"><a class="btn primary" href="downloads/openjlpt-data.zip">⬇ Everything: JSON + CSV + SQLite (zip)</a><a class="btn" href="${REPO}/raw/main/data/openjlpt.sqlite">⬇ SQLite database</a></div>
 <p class="muted small">Spreadsheet or pandas? Every CSV loads straight from the CDN: <code>pd.read_csv("${cdn}/data/csv/vocab-n5.csv")</code></p>
 <h2 id="anki">Anki decks</h2>
 <p>Ready-made <a href="https://apps.ankiweb.net/">Anki</a> decks with furigana, example sentences and text-to-speech. Re-importing a newer version updates your cards and keeps your review history.</p>
@@ -677,7 +677,7 @@ WHERE vocab_fts MATCH 'weather';</code></pre>
     { '@type': 'Dataset', name: "Jonathan Waller's JLPT lists", url: 'https://www.tanos.co.uk/jlpt/' },
   ],
   distribution: [
-    { '@type': 'DataDownload', encodingFormat: 'application/zip', contentUrl: `${REPO}/releases/latest/download/openjlpt-data.zip` },
+    { '@type': 'DataDownload', encodingFormat: 'application/zip', contentUrl: `${SITE_URL}downloads/openjlpt-data.zip` },
     ...LEVEL_NAMES.flatMap((l) => [
       { '@type': 'DataDownload', encodingFormat: 'application/json', contentUrl: `${cdnBase}/data/json/vocab/${l.toLowerCase()}.json` },
       { '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: `${cdnBase}/data/csv/vocab-${l.toLowerCase()}.csv` },

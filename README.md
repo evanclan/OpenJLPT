@@ -161,7 +161,7 @@ WHERE vocab_fts MATCH 'weather';
 | JSON, per level | [`data/json/`](https://github.com/evanclan/OpenJLPT/tree/main/data/json): `vocab/`, `kanji/`, `grammar/` × `n5.json` … `n1.json` |
 | CSV, per level | [`data/csv/`](https://github.com/evanclan/OpenJLPT/tree/main/data/csv) |
 | SQLite, everything | [`data/openjlpt.sqlite`](https://github.com/evanclan/OpenJLPT/raw/main/data/openjlpt.sqlite): tables `vocab`, `kanji`, `grammar`, `pos` and the FTS index `vocab_fts` |
-| Everything in one zip | [`openjlpt-data.zip`](https://github.com/evanclan/OpenJLPT/releases/latest/download/openjlpt-data.zip) from the latest release: JSON, CSV and SQLite |
+| Everything in one zip | [`openjlpt-data.zip`](https://evanclan.github.io/OpenJLPT/downloads/openjlpt-data.zip), rebuilt with every data update (also attached to [Releases](https://github.com/evanclan/OpenJLPT/releases)): JSON, CSV and SQLite |
 | pandas, R, spreadsheets | `pd.read_csv("https://cdn.jsdelivr.net/gh/evanclan/OpenJLPT@main/data/csv/vocab-n5.csv")` |
 | Anki decks, Yomitan | [the website](https://evanclan.github.io/OpenJLPT/data.html#anki) and [Releases](https://github.com/evanclan/OpenJLPT/releases) |
 

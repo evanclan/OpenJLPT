@@ -51,12 +51,20 @@ async function main() {
   const force = process.argv.includes('--force');
   const jobs: Promise<void>[] = [];
 
+  // Waller's lists change rarely and a snapshot lives in sources/waller/, so if
+  // tanos.co.uk is unreachable the build carries on with the snapshot.
+  let wallerFailed = false;
+  const waller = (url: string, out: string) =>
+    download(url, out, force).catch((err) => {
+      wallerFailed = true;
+      console.warn(`⚠ ${url}: ${err.cause?.code ?? err.message}`);
+    });
   for (const { level, tanos } of LEVELS) {
     const base = `${TANOS}/jlpt${tanos}`;
     jobs.push(
-      download(`${base}/vocab/n${tanos}-vocab-kanji-eng.anki`, join(CACHE_DIR, `${level}-vocab-eng.anki`), force),
-      download(`${base}/vocab/n${tanos}-vocab-kanji-hiragana.anki`, join(CACHE_DIR, `${level}-vocab-hira.anki`), force),
-      download(`${base}/kanji/n${tanos}-kanji-char-eng.anki`, join(CACHE_DIR, `${level}-kanji-eng.anki`), force),
+      waller(`${base}/vocab/n${tanos}-vocab-kanji-eng.anki`, join(CACHE_DIR, `${level}-vocab-eng.anki`)),
+      waller(`${base}/vocab/n${tanos}-vocab-kanji-hiragana.anki`, join(CACHE_DIR, `${level}-vocab-hira.anki`)),
+      waller(`${base}/kanji/n${tanos}-kanji-char-eng.anki`, join(CACHE_DIR, `${level}-kanji-eng.anki`)),
     );
   }
   jobs.push(download(KANJIDIC2, join(CACHE_DIR, 'kanjidic2.xml.gz'), force));
@@ -75,6 +83,10 @@ async function main() {
   await Promise.all(jobs);
   console.log(`Fetched ${jobs.length} source files into ${CACHE_DIR}`);
 
+  if (wallerFailed) {
+    console.warn('⚠ Waller\'s lists could not be downloaded; keeping the snapshot in sources/waller/.');
+    return;
+  }
   const counts = importWaller();
   console.log('Snapshotted Waller lists into sources/waller/:', counts);
 }
